@@ -2,7 +2,7 @@ import pandas as pd
 import csv
 csv.field_size_limit(100000000)
 
-from preprocessing import procesamiento
+from preprocessing import process
 from spimi import spimi
 
 #Parsing CSV to txt made by Eduardo
@@ -32,7 +32,7 @@ def run():
 
     for i, document in enumerate(documents):
         if i in index_documents:    
-            tokens = procesamiento(document[9].rstrip())
+            tokens = process(document[9].rstrip())
             spimi(tokens, i)
 
         if i == 10:

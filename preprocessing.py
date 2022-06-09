@@ -31,7 +31,7 @@ def numbers_to_text(data):
     return str(new_txt)
 
 
-def procesamiento(texto):
+def process(texto):
     #MUST DOWNLOAD FIRST
     #nltk.download('stopwords')
     texto = texto.lower()

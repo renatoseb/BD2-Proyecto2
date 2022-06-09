@@ -1,3 +1,4 @@
+import React, { useState } from "react";
 import Title from "../components/Title"
 import TableData from "../components/TableData"
 import Box from '@mui/material/Box';
@@ -48,7 +49,27 @@ const boxStyleRow = (height, flex = false) => {
 	})
 }
 
+
+const values = {
+	text: "",
+	topk: ""
+};
+
 const Home = () => {
+	const [formValues, setFormValues] = useState(values);
+	const handleInputChange = (e) => {
+		const { name, value } = e.target;
+		setFormValues({
+			...formValues,
+			[name]: value,
+		});
+	};
+
+	const handleSubmit = (event) => {
+		event.preventDefault();
+		console.log(formValues);
+	};
+
 	return (
 		<div>
 			<Box sx={{ height: '67px', width: '99%', padding: '10px' }}>
@@ -61,12 +82,27 @@ const Home = () => {
 					<Box sx={boxStyleRow("34%", true)}>
 						<TextField
 							id="queryText"
+							name="text"
 							label="Texto de Consulta"
 							multiline
 							rows={4}
+							value={formValues.text}
+							onChange={handleInputChange}
 						/>
-						<TextField id="topK" label="Top K" variant="outlined" sx={{ marginTop: '10px' }} />
-						<Button variant="contained" sx={{ marginTop: '10px' }}>Buscar</Button>
+						<TextField
+							id="topK"
+							name="topk"
+							label="Top K"
+							variant="outlined"
+							sx={{ marginTop: '10px' }}
+							value={formValues.topk}
+							onChange={handleInputChange}
+						/>
+						<Button
+							variant="contained"
+							sx={{ marginTop: '10px' }}
+							onClick={handleSubmit}>Buscar
+						</Button>
 
 					</Box>
 

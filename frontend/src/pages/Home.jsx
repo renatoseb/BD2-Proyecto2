@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import axios from 'axios';
 import Title from "../components/Title"
 import TableData from "../components/TableData"
 import Box from '@mui/material/Box';
@@ -49,14 +50,37 @@ const boxStyleRow = (height, flex = false) => {
 	})
 }
 
+function getheader() {
+	return {
+		headers: {
+			'Access-Control-Allow-Origin': '*',
+			'Access-Control-Allow-Methods': 'GET',
+		}
+	}
+}
 
 const values = {
 	text: "",
 	topk: ""
 };
 
+const tableDataPython = [
+	{ text: "holaa1", author: "Renato", title: "Titulo2", score: "100" },
+	{ text: "holaa2", author: "Renato", title: "Titulo3", score: "100" },
+	{ text: "holaa3", author: "Renato", title: "Titulo4", score: "100" }
+];
+
+const tableDataPostgres = [
+	{ text: "holaa4", author: "Renato", title: "Titulo5", score: "100" },
+	{ text: "holaa5", author: "Renato", title: "Titulo6", score: "100" },
+	{ text: "holaa6", author: "Renato", title: "Titulo7", score: "100" }
+];
+
 const Home = () => {
 	const [formValues, setFormValues] = useState(values);
+	const [tableValuesPython, setTableValuesPython] = useState(tableDataPython);
+	const [tableValuesPostgres, setTableValuesPostgres] = useState(tableDataPostgres);
+
 	const handleInputChange = (e) => {
 		const { name, value } = e.target;
 		setFormValues({
@@ -65,10 +89,30 @@ const Home = () => {
 		});
 	};
 
+	const resetTable = () => setTableValuesPython([]);
+
 	const handleSubmit = (event) => {
 		event.preventDefault();
-		console.log(formValues);
+		resetTable();
+
+		axios.get('http://127.0.0.1:5000/python-req/' + formValues.text + '/' + formValues.topk, getheader())
+			.then(res => {
+				const data = res.data;
+				console.log(data);
+			}).catch((res) => {
+				console.log("Some error ocurred...");
+			});
+
+		axios.get('http://127.0.0.1:5000/postgres-req/' + formValues.text + '/' + formValues.topk, getheader())
+			.then(res => {
+				const data = res.data;
+				console.log(data);
+			}).catch((res) => {
+				console.log("Some error ocurred...");
+			});
+
 	};
+
 
 	return (
 		<div>
@@ -109,11 +153,11 @@ const Home = () => {
 					<Box sx={boxStyleRow("60%")}>
 						<Box sx={boxStyleCols("97%", "48%")}>
 							<Title title="Python Top K" />
-							<TableData />
+							<TableData data={tableValuesPython} />
 						</Box>
 						<Box sx={boxStyleCols("97%", "48%")}>
 							<Title title="Postgres Top K" />
-							<TableData />
+							<TableData data={tableValuesPostgres} />
 
 						</Box>
 					</Box>

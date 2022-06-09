@@ -5,38 +5,45 @@ import TableCell from '@mui/material/TableCell';
 import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
-import Paper from '@mui/material/Paper';
+import Box from '@mui/material/Box';
 
 
 export default function TableData(props) {
-
-	return (
-		<TableContainer component={Paper}>
-			<Table sx={{ minWidth: 650 }} size="small" aria-label="a dense table">
-				<TableHead>
-					<TableRow>
-						<TableCell>Text</TableCell>
-						<TableCell align="right">Author</TableCell>
-						<TableCell align="right">Title</TableCell>
-						<TableCell align="right">Score</TableCell>
-					</TableRow>
-				</TableHead>
-				<TableBody>
-					{props.data.map((row) => (
-						<TableRow
-							key={row.title}
-							sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
-						>
-							<TableCell component="th" scope="row">
-								{row.text}
-							</TableCell>
-							<TableCell align="right">{row.author}</TableCell>
-							<TableCell align="right">{row.title}</TableCell>
-							<TableCell align="right">{row.score}</TableCell>
-						</TableRow>
-					))}
-				</TableBody>
-			</Table>
-		</TableContainer>
-	);
+  const data_ = props.data.data;
+  const time = props.data.time;
+  console.log("DATA!!")
+  console.log(data_)
+  console.log(time)
+  return (
+    <Box>
+      <TableContainer sx={{ height: 440 }}>
+        <Table stickyHeader size="small">
+          <TableHead>
+            <TableRow>
+              <TableCell>Text</TableCell>
+              <TableCell align="right">Author</TableCell>
+              <TableCell align="right">Title</TableCell>
+              <TableCell align="right">Score</TableCell>
+            </TableRow>
+          </TableHead>
+          <TableBody>
+            {data_.map((row) => (
+              <TableRow
+                key={row.title}
+                sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
+              >
+                <TableCell component="th" scope="row">
+                  {row.content}
+                </TableCell>
+                <TableCell align="right"></TableCell>
+                <TableCell align="right">{row.title}</TableCell>
+                <TableCell align="right">{row.score}</TableCell>
+              </TableRow>
+            ))}
+          </TableBody>
+        </Table>
+      </TableContainer>
+      Time: {time}
+    </Box>
+  );
 }

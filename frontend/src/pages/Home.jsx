@@ -24,7 +24,7 @@ const boxStyleCols = (height, width, inlineBlock = true) => {
 		borderRadius: 2,
 		fontSize: '0.875rem',
 		fontWeight: '700',
-		textAlign: 'center',
+		textAlign: 'left',
 	}
 }
 
@@ -64,17 +64,15 @@ const values = {
 	topk: ""
 };
 
-const tableDataPython = [
-	{ text: "holaa1", author: "Renato", title: "Titulo2", score: "100" },
-	{ text: "holaa2", author: "Renato", title: "Titulo3", score: "100" },
-	{ text: "holaa3", author: "Renato", title: "Titulo4", score: "100" }
-];
+const tableDataPython = {
+	"data": [],
+	"time": "0.000"
+};
 
-const tableDataPostgres = [
-	{ text: "holaa4", author: "Renato", title: "Titulo5", score: "100" },
-	{ text: "holaa5", author: "Renato", title: "Titulo6", score: "100" },
-	{ text: "holaa6", author: "Renato", title: "Titulo7", score: "100" }
-];
+const tableDataPostgres = {
+	"data": [],
+	"time": "0.000"
+};
 
 const Home = () => {
 	const [formValues, setFormValues] = useState(values);
@@ -98,7 +96,7 @@ const Home = () => {
 		axios.get('http://127.0.0.1:5000/python-req/' + formValues.text + '/' + formValues.topk, getheader())
 			.then(res => {
 				const data = res.data;
-				console.log(data);
+				// console.log(data);
 			}).catch((res) => {
 				console.log("Some error ocurred...");
 			});
@@ -106,7 +104,8 @@ const Home = () => {
 		axios.get('http://127.0.0.1:5000/postgres-req/' + formValues.text + '/' + formValues.topk, getheader())
 			.then(res => {
 				const data = res.data;
-				console.log(data);
+				setTableValuesPython(data);
+				console.log("Values passed to table");
 			}).catch((res) => {
 				console.log("Some error ocurred...");
 			});
@@ -123,7 +122,7 @@ const Home = () => {
 
 				<Box sx={boxStyleCols("100%", "100%")}>
 
-					<Box sx={boxStyleRow("34%", true)}>
+					<Box sx={boxStyleRow("30%", true)}>
 						<TextField
 							id="queryText"
 							name="text"
@@ -150,15 +149,14 @@ const Home = () => {
 
 					</Box>
 
-					<Box sx={boxStyleRow("60%")}>
-						<Box sx={boxStyleCols("97%", "48%")}>
+					<Box sx={boxStyleRow("65%")}>
+						<Box sx={boxStyleCols("95%", "48%")}>
 							<Title title="Python Top K" />
 							<TableData data={tableValuesPython} />
 						</Box>
-						<Box sx={boxStyleCols("97%", "48%")}>
+						<Box sx={boxStyleCols("95%", "48%")}>
 							<Title title="Postgres Top K" />
 							<TableData data={tableValuesPostgres} />
-
 						</Box>
 					</Box>
 

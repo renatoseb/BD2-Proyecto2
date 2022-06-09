@@ -1,6 +1,8 @@
 import sqlalchemy as sa
 from sqlalchemy_utils import database_exists, create_database
 import json, os
+import nltk
+nltk.download('stopwords')
 
 # Reading credentials
 f = open('credentials.json')
@@ -31,6 +33,10 @@ with engine.connect().execution_options(autocommit=True) as con:
                 url text, 
                 content text
             );
+
+            alter table news add column content_ts tsvector;
+
+            create index idx_content_ts on news using gin (content_ts);
     """))
     print("Creating database IF NOT EXISTS...")
     print(result)
@@ -64,5 +70,20 @@ with engine.connect().execution_options(autocommit=True) as con:
             FROM '{path_dataset_3}'
             DELIMITER ','
             CSV HEADER;
+    """))
+    print(result)
+
+    print("FILLING FIELD TO QUERIES...")
+    result = con.execute(sa.sql.text("""
+            update news
+            set content_ts = x.content_ts
+            from (
+            select Id, 
+                    setweight(to_tsvector('english', title), 'A') ||
+                    setweight(to_tsvector('english', content), 'B')
+                    as content_ts
+            from news
+            ) as x
+            where x.Id = news.Id;
     """))
     print(result)

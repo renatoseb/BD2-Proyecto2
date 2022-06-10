@@ -87,24 +87,30 @@ const Home = () => {
 		});
 	};
 
-	const resetTable = () => setTableValuesPython([]);
+	const resetTable = () => {
+		setTableValuesPython([]);
+		setTableValuesPostgres([]);
+	};
 
 	const handleSubmit = (event) => {
+		console.log("holaaa")
 		event.preventDefault();
 		resetTable();
 
 		axios.get('http://127.0.0.1:5000/python-req/' + formValues.text + '/' + formValues.topk, getheader())
 			.then(res => {
-				const data = res.data;
+				// const data = res.data;
 				// console.log(data);
+				setTableValuesPython(tableDataPython);
 			}).catch((res) => {
 				console.log("Some error ocurred...");
 			});
 
 		axios.get('http://127.0.0.1:5000/postgres-req/' + formValues.text + '/' + formValues.topk, getheader())
 			.then(res => {
-				const data = res.data;
-				setTableValuesPython(data);
+				// const data = res.data;
+				// console.log(data)
+				setTableValuesPostgres(tableDataPostgres);
 				console.log("Values passed to table");
 			}).catch((res) => {
 				console.log("Some error ocurred...");

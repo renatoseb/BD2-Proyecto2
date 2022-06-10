@@ -12,8 +12,10 @@ export default function TableData(props) {
   const data_ = props.data.data;
   const time = props.data.time;
   console.log("DATA!!")
-  console.log(data_)
-  console.log(time)
+  console.log("Las propsss")
+  console.log(props);
+  // console.log(data_)
+  // console.log(time)
   return (
     <Box>
       <TableContainer sx={{ height: 440 }}>

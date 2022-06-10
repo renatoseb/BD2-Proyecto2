@@ -1,12 +1,10 @@
 import sqlalchemy as sa
 import time
 import json
-import nltk
-from nltk.corpus import stopwords 
-import numpy as np
+from utils import query_tokens
 
 # Reading credentials
-f = open('credentials.json')
+f = open('backend/credentials.json')
 credentials = json.load(f)
 db_user = credentials['username']
 db_pass = credentials['password']
@@ -16,31 +14,11 @@ uri = f'postgresql://{db_user}:{db_pass}@localhost:5432/allthenews'
 engine = sa.create_engine(uri, echo=True)
 
 
-def remove_punctuation(data):
-    symbols = "!\"#$%&()*+-./:;<=>?@[\]^_`{|}’”“—'~\n"
-    for i in range(len(symbols)):
-        data = np.char.replace(data, symbols[i], ' ')
-    data = np.char.replace(data, ',', '')
-    #data = np.char.replace(data, "'", '')
-    return str(data)
-
 def get_postgres_topk(text, k):
-    text = text.lower()
-    text = remove_punctuation(text)
-    # Tokenizando texto
-    tokens_text = nltk.word_tokenize(text)
+    query = query_tokens(text)
 
-    # Importando stopwords
-    stop_words = stopwords.words('english')
-    
-    # Quitando stopwords
-    texto_tokens_c = tokens_text[:]
-    for token in tokens_text:
-        if token in stop_words:
-            texto_tokens_c.remove(token)
+    format_text = " | ".join(query)
 
-    format_text = " | ".join(texto_tokens_c)
-    
     with engine.connect().execution_options(autocommit=True) as con:
         start = time.time()
         result = con.execute(sa.sql.text(f""" 

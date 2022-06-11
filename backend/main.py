@@ -4,6 +4,7 @@ from flask_cors import CORS
 import postgres
 import mongodb_search
 import time
+import search as s
 
 app = Flask(__name__)
 CORS(app, resources={r"*": {"origins": "*"}})
@@ -12,9 +13,9 @@ CORS(app, resources={r"*": {"origins": "*"}})
 def python_request(text, top_k):
     
     start = time.time()
-    # response = search()
+    response = s.search(text, int(top_k))
     end = time.time()
-    time = round(end - start, 6)
+    response["time"] = round(end - start, 6)
     return response
 
 @app.route('/postgres-req/<text>/<top_k>', methods=['GET'])

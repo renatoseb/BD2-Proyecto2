@@ -139,9 +139,9 @@ const Home = () => {
 
 		axios.get('http://127.0.0.1:5000/python-req/' + formValues.text + '/' + formValues.topk, getheader())
 			.then(res => {
-				// const data = res.data;
-				// console.log(data);
-				setTableValuesPython(tableDataPython);
+				console.log("Python requests")
+				console.log(res.data)
+				setTableValuesPython(res.data);
 			}).catch((res) => {
 				console.log("Some error ocurred...");
 			});
@@ -149,22 +149,21 @@ const Home = () => {
 		axios.get('http://127.0.0.1:5000/postgres-req/' + formValues.text + '/' + formValues.topk, getheader())
 			.then(res => {
 				const data = res.data;
-				// console.log(data)
 				setTableValuesPostgres(data);
 				console.log("Values passed to table");
 			}).catch((res) => {
 				console.log("Some error ocurred...");
 			});
 
-		// axios.get('http://127.0.0.1:5000/mongodb-req/' + formValues.text + '/' + formValues.topk, getheader())
-		// 	.then(res => {
-		// 		const data = res.data;
-		// 		// console.log(data)
-		// 		setTableValuesMongo(data);
-		// 		console.log("Values passed to table");
-		// 	}).catch((res) => {
-		// 		console.log("Some error ocurred...");
-		// 	});
+		axios.get('http://127.0.0.1:5000/mongodb-req/' + formValues.text + '/' + formValues.topk, getheader())
+			.then(res => {
+				const data = res.data;
+				// console.log(data)
+				setTableValuesMongo(data);
+				console.log("Values passed to table");
+			}).catch((res) => {
+				console.log("Some error ocurred...");
+			});
 
 	};
 

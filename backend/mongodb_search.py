@@ -8,7 +8,7 @@ from utils import query_tokens
 client = pymongo.MongoClient('localhost', 27017)
 db = client.db2project
 
-#db.articles1.create_index([('title', 'text'), ('content', 'text')], name="content_ts")
+# db.articles1.create_index([('title', 'text'), ('content', 'text')], name="content_ts")
 
 
 def get_mongodb_topk(text, k):

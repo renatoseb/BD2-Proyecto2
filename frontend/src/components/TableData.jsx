@@ -34,10 +34,6 @@ export default class TableData extends React.Component {
       data_: dataa,
       time: time_
     }
-    // this.setState({
-    //   data_: this.props.data.data,
-    //   time: this.props.data.time
-    // })
   }
 
   render() {
@@ -48,8 +44,8 @@ export default class TableData extends React.Component {
             <TableHead>
               <TableRow>
                 <TableCell>Title</TableCell>
-                <TableCell align="right">Author</TableCell>
-                <TableCell align="right">Publication</TableCell>
+                {/* <TableCell align="right">Author</TableCell> */}
+                {/* <TableCell align="right">Publication</TableCell> */}
                 <TableCell align="right">Score</TableCell>
               </TableRow>
             </TableHead>
@@ -62,8 +58,8 @@ export default class TableData extends React.Component {
                   <TableCell component="th" scope="row">
                     {row.title}
                   </TableCell>
-                  <TableCell align="right">{row.author}</TableCell>
-                  <TableCell align="right">{row.publication}</TableCell>
+                  {/* <TableCell align="right">{row.author}</TableCell> */}
+                  {/* <TableCell align="right">{row.publication}</TableCell> */}
                   <TableCell align="right">{row.score}</TableCell>
                 </TableRow>
               ))}

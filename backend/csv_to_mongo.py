@@ -19,7 +19,7 @@ db.articles1.drop()
 header = ["id", "title", "publication", "author", "date", "year", "month", "url", "content"]
 for i in range(3):
     file_path = "articles"+str(i+1)+".csv"
-    csvfile = open("datasets/"+file_path, encoding="utf-8")
+    csvfile = open("../datasets/"+file_path, encoding="utf-8")
     reader = csv.DictReader(csvfile)
 
     for each in reader:

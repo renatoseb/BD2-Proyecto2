@@ -8,7 +8,7 @@ def search(Q, k = 5):
         query = process(Q)
         query_length = 0
         documents = {}
-        directory = "indexes/"
+        directory = "../indexes/"
         query_answer = []
 
         for term in query:
@@ -58,7 +58,7 @@ def search(Q, k = 5):
 
                 query_answer.append((title, ranking))
 
-        query_answer = sorted(query_answer, key = lambda x: x[1])
+        query_answer = sorted(query_answer, key = lambda x: x[1], reverse=True)
 
         v = []
         for title, score in query_answer[:k]:
@@ -66,7 +66,3 @@ def search(Q, k = 5):
 
         
         return {"data": v}
-
-q = input()
-
-print(search(q, 10))

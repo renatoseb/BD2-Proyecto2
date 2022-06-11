@@ -29,7 +29,7 @@ Los datos utilizados son un conjunto de noticias obtenidas de la página [Kaggle
 
 Para la construccón del índice está compuesta por dos etapas principalmente.
 
-1. Pre-Processing
+1. **Pre-Processing:**
   El contenido de cada noticia debe ser pre-procesado, ignorando "stop words", realizar el stemming y normalizando el texto en general. Específicamente, nuestra aplicación realiza un proceso como el descrito a continuación:
     - Lowercase: todas las palabras a letras minúsculas
     - Stop words: remover todos los stop words. Utilizamos los stop words de inglés de la librería [NLTK](https://www.nltk.org/)
@@ -37,7 +37,7 @@ Para la construccón del índice está compuesta por dos etapas principalmente.
     - Apostrofes: Remove apostrofes (muy usados en inglés) ya que, al igual que la puntuación, no son relevantes.
     - Stemming: Convertir todas las palabras a su raíz. Para esta acción utilizamos el [Porter Stemmer](https://www.nltk.org/howto/stem.html) de NLTK.
     - Num2Words: Utilizamos la librería [num2words](https://pypi.org/project/num2words/) para convertir cada número a su contraparte como palabra en inglés. Ej: 15 a "fifteen".
-3. Cálculo del TF
+2. **Cálculo del TF:** 
   Para el cálculo de la frecuencia de términos utilizamos la libreria NLTK, ya que nos proporciona la funcionabilidad de manera directa utilizando "word_tolenize". Para la construcción de este índice buscamos un archivo de texto dentro de la carpeta de indices "indexes", si no es encontrada se crea un nuevo documento y se agrega el título de la noticia (que se está tomando como "documento" de forma teorica) junto a su TF.
 
 ## Ejecución óptima de consultas

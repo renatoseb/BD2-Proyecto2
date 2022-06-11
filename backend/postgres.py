@@ -4,7 +4,7 @@ import json
 from utils import query_tokens
 
 # Reading credentials
-f = open('backend/credentials.json')
+f = open('credentials.json')
 credentials = json.load(f)
 db_user = credentials['username']
 db_pass = credentials['password']
@@ -22,7 +22,7 @@ def get_postgres_topk(text, k):
     with engine.connect().execution_options(autocommit=True) as con:
         start = time.time()
         result = con.execute(sa.sql.text(f""" 
-            select title, content, ts_rank_cd(content_ts, query_ts) as score
+            select title, publication, author,ts_rank_cd(content_ts, query_ts) as score
             from news, to_tsquery('english', '{format_text}') query_ts
             where query_ts @@ content_ts
             order by score desc 
@@ -34,7 +34,8 @@ def get_postgres_topk(text, k):
         for row in result:
             curr = {}
             curr['title'] = row['title']
-            curr['content'] = row['content']
+            curr['publication'] = row['publication']
+            curr['author'] = row['author']
             curr['score'] = row['score']
             data.append(curr)
 

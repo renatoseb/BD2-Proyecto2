@@ -5,6 +5,11 @@ import TableData from "../components/TableData"
 import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
+import Tabs from '@mui/material/Tabs';
+import Tab from '@mui/material/Tab';
+import Typography from '@mui/material/Typography';
+import PropTypes from 'prop-types';
+
 
 
 const boxStyleCols = (height, width, inlineBlock = true) => {
@@ -28,7 +33,7 @@ const boxStyleCols = (height, width, inlineBlock = true) => {
 	}
 }
 
-const boxStyleRow = (height, flex = false) => {
+const boxStyleRow = (height, flex = false, direction = "column") => {
 	return ({
 		// width: '25%',
 		height: height,
@@ -46,7 +51,7 @@ const boxStyleRow = (height, flex = false) => {
 		textAlign: 'center',
 		marginBottom: '10px',
 		display: flex ? 'flex' : null,
-		flexDirection: flex ? 'column' : null,
+		flexDirection: flex ? direction : null
 	})
 }
 
@@ -57,6 +62,33 @@ function getheader() {
 			'Access-Control-Allow-Methods': 'GET',
 		}
 	}
+}
+
+function TabPanel(props) {
+	const { children, value, index, ...other } = props;
+
+	return (
+		<div
+			role="tabpanel"
+			hidden={value !== index}
+			id={`simple-tabpanel-${index}`}
+			aria-labelledby={`simple-tab-${index}`}
+			{...other}
+		>
+			{value === index && (
+				<Box sx={{ p: 3 }}>
+					<Typography>{children}</Typography>
+				</Box>
+			)}
+		</div>
+	);
+}
+
+function a11yProps(index) {
+	return {
+		id: `simple-tab-${index}`,
+		'aria-controls': `simple-tabpanel-${index}`,
+	};
 }
 
 const values = {
@@ -74,10 +106,18 @@ const tableDataPostgres = {
 	"time": "0.000"
 };
 
+const tableDataMongo = {
+	"data": [],
+	"time": "0.000"
+};
+
 const Home = () => {
 	const [formValues, setFormValues] = useState(values);
 	const [tableValuesPython, setTableValuesPython] = useState(tableDataPython);
 	const [tableValuesPostgres, setTableValuesPostgres] = useState(tableDataPostgres);
+	const [tableValuesMongo, setTableValuesMongo] = useState(tableDataMongo);
+	const [value, setValue] = React.useState(0);
+
 
 	const handleInputChange = (e) => {
 		const { name, value } = e.target;
@@ -88,14 +128,14 @@ const Home = () => {
 	};
 
 	const resetTable = () => {
-		setTableValuesPython([]);
-		setTableValuesPostgres([]);
+		// setTableValuesPython([]);
+		// setTableValuesPostgres([]);
 	};
 
 	const handleSubmit = (event) => {
-		console.log("holaaa")
+		// console.log("holaaa")
 		event.preventDefault();
-		resetTable();
+		// resetTable();
 
 		axios.get('http://127.0.0.1:5000/python-req/' + formValues.text + '/' + formValues.topk, getheader())
 			.then(res => {
@@ -108,23 +148,41 @@ const Home = () => {
 
 		axios.get('http://127.0.0.1:5000/postgres-req/' + formValues.text + '/' + formValues.topk, getheader())
 			.then(res => {
-				// const data = res.data;
+				const data = res.data;
 				// console.log(data)
-				setTableValuesPostgres(tableDataPostgres);
+				setTableValuesPostgres(data);
 				console.log("Values passed to table");
 			}).catch((res) => {
 				console.log("Some error ocurred...");
 			});
 
+		// axios.get('http://127.0.0.1:5000/mongodb-req/' + formValues.text + '/' + formValues.topk, getheader())
+		// 	.then(res => {
+		// 		const data = res.data;
+		// 		// console.log(data)
+		// 		setTableValuesMongo(data);
+		// 		console.log("Values passed to table");
+		// 	}).catch((res) => {
+		// 		console.log("Some error ocurred...");
+		// 	});
+
 	};
 
+	const handleChange = (event, newValue) => {
+		setValue(newValue);
+	};
+	TabPanel.propTypes = {
+		children: PropTypes.node,
+		index: PropTypes.number.isRequired,
+		value: PropTypes.number.isRequired,
+	};
 
 	return (
 		<div>
 			<Box sx={{ height: '67px', width: '99%', padding: '10px' }}>
 				<Title title="Queries" />
 			</Box>
-			<Box sx={{ height: '850px', width: '100%', display: 'flex' }}>
+			<Box sx={{ height: '1000px', width: '100%', display: 'flex' }}>
 
 				<Box sx={boxStyleCols("100%", "100%")}>
 
@@ -155,14 +213,26 @@ const Home = () => {
 
 					</Box>
 
-					<Box sx={boxStyleRow("65%")}>
-						<Box sx={boxStyleCols("95%", "48%")}>
+					<Box sx={boxStyleRow("65%", true, "row")}>
+						<Box sx={boxStyleCols("80%", "48%")}>
 							<Title title="Python Top K" />
 							<TableData data={tableValuesPython} />
 						</Box>
 						<Box sx={boxStyleCols("95%", "48%")}>
-							<Title title="Postgres Top K" />
-							<TableData data={tableValuesPostgres} />
+							<Title title="Postgres/Mongo Top K" />
+							<Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
+								<Tabs value={value} onChange={handleChange} aria-label="basic tabs example">
+									<Tab label="Postgres" {...a11yProps(0)} />
+									<Tab label="MongoDB" {...a11yProps(1)} />
+								</Tabs>
+							</Box>
+							<TabPanel value={value} index={0}>
+								<TableData data={tableValuesPostgres} />
+							</TabPanel>
+							<TabPanel value={value} index={1}>
+								<TableData data={tableValuesMongo} />
+							</TabPanel>
+
 						</Box>
 					</Box>
 

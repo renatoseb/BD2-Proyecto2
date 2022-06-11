@@ -28,13 +28,14 @@ def run():
     documents = csv.reader(file)
     next(documents)
 
-    index_documents = [1 ,3]
+    #index_documents = [1 ,3]
 
     for i, document in enumerate(documents):
-        if i in index_documents:    
-            tokens = process(document[9].rstrip())
-            spimi(tokens, i)
+        #if i in index_documents:    
+        tokens = process(document[9].rstrip())
+        title = document[2].rstrip()
+        spimi(tokens, i, title)
 
-        if i == 10:
-            break
+        #if i == 10:
+        #    break
 run()

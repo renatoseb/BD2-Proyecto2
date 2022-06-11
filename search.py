@@ -59,7 +59,13 @@ def search(Q, k = 5):
                 query_answer.append((title, ranking))
 
         query_answer = sorted(query_answer, key = lambda x: x[1])
-        return query_answer
+
+        v = []
+        for title, score in query_answer[:k]:
+                v.append({"title": title, "score": score})
+
+        
+        return {"data": v}
 
 q = input()
 

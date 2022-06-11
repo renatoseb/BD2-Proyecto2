@@ -11,10 +11,10 @@ stemmer = SnowballStemmer('english')
 
 
 def remove_punctuation(data):
-    symbols = "!\"#$%&()*+-./:;<=>?@[\]^_`{|}’”“—'~\n"
+    symbols = "!\"#$%&()*+-./:;,<=>?@[\]^_`{|}’”“—'~\n"
     for i in range(len(symbols)):
         data = np.char.replace(data, symbols[i], ' ')
-    data = np.char.replace(data, ',', '')
+    #data = np.char.replace(data, ',', '')
     #data = np.char.replace(data, "'", '')
     return str(data)
 

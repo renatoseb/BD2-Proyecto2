@@ -1,4 +1,6 @@
 /datasets
+/indexes
+/__pycache__
 *.csv
 
 

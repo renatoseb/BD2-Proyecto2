@@ -51,7 +51,7 @@ def search(Q, k = 5):
 
                 for term, w in document_vector:
                         document_length += w ** 2
-                document_length = w ** (1/2)
+                document_length = document_length ** (1/2)
 
                 for term, w in document_vector:
                         ranking += query[term] * w / document_length

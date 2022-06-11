@@ -1,0 +1,709 @@
+2,1,Tyrus Wong, ‘Bambi’ Artist Thwarted by Racial Bias, Dies at 106 - The New York Times
+37,1,Inside Jonathan Lethem’s Oddball Trove - The New York Times
+71,1,Cyberwar for Sale - The New York Times
+80,1,Coal Fire, Not Just Iceberg, Doomed the Titanic, a Journalist Claims - The New York Times
+86,1,For Sale: Condé Nast Treasures - The New York Times
+117,1,California Today: Cracking Down on Distracted Driving - The New York Times
+186,1,Review: ‘The Present’: Even in Russia, It’s Hard to Turn 40 - The New York Times
+214,1,California Today: $8 Million in Tech Money for the Bay Area Arts - The New York Times
+251,1,California Today: The Tale of the Laguna Beach Jumper - The New York Times
+304,1,California Today: Is the Drought Over? - The New York Times
+338,1,The ‘Impossible’ Veggie Burger: A Tech Industry Answer to the Big Mac - The New York Times
+385,1,Obama’s Last Battle: His Legacy - The New York Times
+514,1,Kevin Turner’s Parents Still Watch Football. But Differently. - The New York Times
+520,2,Historian’s Latest Book on Mao Turns Acclaim in China to Censure - The New York Times
+553,1,California Today: What, Exactly, Is in Your Sushi? - The New York Times
+567,1,Climate Change Activist’s Barefoot Walk Across America Ends in Tragedy - The New York Times
+630,1,Review: Matthew McConaughey Mines Profane Capitalism in ‘Gold’ - The New York Times
+637,1,Sympathy for the Blue Devils? Maybe This Year - The New York Times
+658,1,Love and Black Lives, in Pictures Found on a Brooklyn Street - The New York Times
+768,1,25 Great Books by Refugees in America - The New York Times
+811,1,California Today: The Collapse of Organized Farm Labor - The New York Times
+833,1,Home but Not Home: Four Generations of an Ethnic Korean Family in Japan - The New York Times
+853,1,An Evolving Sports City, Atlanta Chases a Championship - The New York Times
+865,2,France’s Obsession With Decline Is a Booming Industry - The New York Times
+893,1,At Cosseted ‘Winter White House,’ Outside World Intrudes on Trump - The New York Times
+946,1,California Today: Granddaughter of Cesar Chavez Comes Home - The New York Times
+991,1,Where Have You Gone, Angelina Jolie? Celebrities Vanish From Fashion’s Front Row - The New York Times
+1028,1,Our Picks: Great Stories From Around the Web and in The Times - The New York Times
+1115,1,Will Obamacare Really Go Under the Knife? - The New York Times
+1129,1,Bobby Freeman, ‘Do You Want to Dance’ Singer, Dies at 76 - The New York Times
+1140,1,Divided Media on Michael Flynn: Patriotic Leaks or Political Espionage - The New York Times
+1193,1,California Today: Capturing the ‘Firefall’ at Yosemite - The New York Times
+1272,1,Afropunk: Feeling Black Activism’s Joy, and Its Pain - The New York Times
+1345,1,California Today: In Virtual Reality, Investigating the Trayvon Martin Case - The New York Times
+1370,1,Trump Ruled the Tabloid Media. Washington Is a Different Story. - The New York Times
+1554,1,How Liberian Women Delivered Africa’s First Female President - The New York Times
+1576,1,California Today: What to Look for on Election Day - The New York Times
+1590,1,Past, Present and Future Collide in Joan Didion’s ‘South and West’ - The New York Times
+1748,1,The New Party of No - The New York Times
+1803,1,California Today: A Gallery Flees and Neighborhood Activists Cheer - The New York Times
+1833,1,‘I Am an American Because of Him’: The Journey of Pence’s Grandfather From Ireland - The New York Times
+1868,1,Donald Trump Jr. Is His Own Kind of Trump - The New York Times
+1893,1,Chuck Berry, Rock ’n’ Roll Pioneer, Dies at 90 - The New York Times
+1948,1,11 Great Reads That Have Nothing to Do With Politics - The New York Times
+1984,2,Right and Left: Partisan Writing You Shouldn’t Miss - The New York Times
+2005,1,John Mayer Knows He Messed Up. He Wants Another Chance. - The New York Times
+2014,1,California Today: Henry Rollins Strikes Chord as a Columnist - The New York Times
+2107,1,California Today: Considering a Single-Payer Insurance System - The New York Times
+2144,2,California Today: Muslim Candidate Says He’s ‘Triple Threat to Donald Trump’ - The New York Times
+2170,1,California Today: ‘Zoot Suit’ Memories - The New York Times
+2184,1,Bill Minor, Journalist Who Was Called Conscience of Mississippi, Dies at 94 - The New York Times
+2193,1,9 Comic Book Heroes Who Could Come Out on the Big Screen - The New York Times
+2226,1,Ranks of Political Prisoners Grow as Democracy Ebbs in Venezuela - The New York Times
+2253,2,Now Batting: 14 New Baseball Books - The New York Times
+2259,1,A Piano Man of Many Faces, and Some Stranger Stories - The New York Times
+2282,1,WrestleMania Stories Collide in the Ring - The New York Times
+2284,2,My Son, My Daughter: A Mother’s Evolution - The New York Times
+2299,2,California Today: Defying Trump With Sanctuary Bill - The New York Times
+2342,1,Alex Tizon, Journalist Who Wrote of Alienation as Asian-American, Dies at 57 - The New York Times
+2415,1,Indian Man Accused in Multimillion-Dollar Call-Center Swindle Is Held - The New York Times
+2425,1,A Business With Legs (and Abs): Boom Times for Male Striptease Revues - The New York Times
+2436,2,In the Shadow of a Fairy Tale - The New York Times
+2445,1,Frederick Wiseman: The Filmmaker Who Shows Us Ourselves - The New York Times
+2452,1,Pulitzer Prizes: New York Times Wins 3 Daily News and ProPublica Share Public Service Award - The New York Times
+2453,1,2017 Pulitzer Prize Winners - The New York Times
+2468,1,The Legacy of David Letterman, Icon of the Grizzled Generation - The New York Times
+2477,1,California Today: Berkeley Turns to Comedian for Advice - The New York Times
+2708,1,Men Have Book Clubs, Too - The New York Times
+2732,6,A Plan to Flood San Francisco With News on Homelessness - The New York Times
+2733,1,Obama in Vietnam Will Focus on Future, Rather Than the Past - The New York Times
+2756,1,Twitter, Trump’s Trusty Weapon, Could Backfire - The New York Times
+2770,1,Morley Safer, Mainstay of ‘60 Minutes,’ Is Dead at 84 - The New York Times
+2793,1,A Drumbeat of Multiple Shootings, but America Isn’t Listening - The New York Times
+2807,1,Paula Broadwell, David Petraeus and the Afterlife of a Scandal - The New York Times
+2816,1,Middle Eastern Writers Find Refuge in the Dystopian Novel - The New York Times
+2899,1,Narendra Modi Bolsters India’s Ties With U.S., Thanks (Partly) to Donald Trump - The New York Times
+2901,2,Chasing Hiroshige’s Vision of Japan - The New York Times
+2930,1,Gawker, Filing for Bankruptcy After Hulk Hogan Suit, Is for Sale - The New York Times
+2933,1,Tiny Home Test Drive - The New York Times
+3101,2,Bill Cunningham, Legendary Times Fashion Photographer, Dies at 87 - The New York Times
+3128,1,10 Months, 45 National Parks, 11 Rules - The New York Times
+3299,1,Was She a Feminist? The Complicated Legacy of Helen Gurley Brown. - The New York Times
+3308,1,The American Who Accidentally Became a Chinese Movie Star - The New York Times
+3329,1,‘I Feel a Deep Sense of Remorse,’ Donald Trump’s Ghostwriter Says - The New York Times
+3333,1,In Istanbul, Optimism Fades to a Familiar Melancholy - The New York Times
+3357,1,The Loneliness of Being Black in San Francisco - The New York Times
+3422,1,Immunotherapy Offers Hope to a Cancer Patient, but No Certainty - The New York Times
+3499,1,Why Self-Help Guru James Altucher Only Owns 15 Things - The New York Times
+3525,1,On the London Stage, Love Doesn’t Just Hurt, It Kills - The New York Times
+3680,1,English Village Becomes Climate Leader by Quietly Cleaning Up Its Own Patch - The New York Times
+3768,1,From Bikinis to Burkinis, Regulating What Women Wear - The New York Times
+3794,1,Chinese Women Head Overseas to Freeze Their Eggs - The New York Times
+3826,1,Hundreds of Pounds Lighter, and Now Shedding Another Burden of the Past - The New York Times
+3914,1,What Muslims Do on Hajj, and Why - The New York Times
+3950,2,California Today: School Bond Measure? Why You Should Care - The New York Times
+3969,1,How Two Producers of ‘Transparent’ Made Their Own Trans Lives More Visible - The New York Times
+4091,1,California Today: Should We Ban Plastic Bags? - The New York Times
+4185,1,A Death on Staten Island Highlights Heroin’s Place in ‘Mainstream Society’ - The New York Times
+4217,1,Art Deco Los Angeles - The New York Times
+4327,1,Bob Dylan the Writer: An Authentic American Voice - The New York Times
+4409,1,Fans Flock to Town That Inspired ‘Gilmore Girls’ - The New York Times
+4425,1,10 Things You Need to Know Before Seeing ‘Doctor Strange’ - The New York Times
+4458,8,California Today: How Do Top Newspapers Line Up on the Election? - The New York Times
+4468,1,Zadie Smith’s ‘Swing Time’ Explores Friends’ Diverging Paths - The New York Times
+4502,1,‘Loving’ Aims to Speak Softly to History - The New York Times
+4523,1,New York Observer Ending Print Edition - The New York Times
+4530,1,With a Cuckoo’s Journey From China, a Mystery Is Solved, and Cheers Go Up - The New York Times
+4560,1,Stephen Bannon and Breitbart News, in Their Words - The New York Times
+4562,1,A Newly Vibrant Washington Fears That Trump Will Drain Its Culture - The New York Times
+4664,1,At Donald Trump’s Properties, a Showcase for a Brand and a President-Elect - The New York Times
+4712,1,100 Notable Books of 2016 - The New York Times
+4784,1,Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary - The New York Times
+4787,1,François Hollande, Buzz Aldrin, Vladimir Putin: Your Friday Briefing - The New York Times
+4829,1,Shadows Fall and Jaws Drop for a Jolly Green Icon’s Comeback - The New York Times
+4838,1,Standing Rock, Trump, Renzi: Your Monday Evening Briefing - The New York Times
+4859,7,Oakland Fire Victims Included Performers, Educators and Lawyers - The New York Times
+4865,1,Battle Over New Bus Terminal Threatens to Paralyze Port Authority’s Board - The New York Times
+4900,2,California Today: Is a U.C. Education Affordable Anymore? - The New York Times
+4935,2,California Today: Questions Persist After the Oakland Fire - The New York Times
+4947,1,Afrofuturism: The Next Generation - The New York Times
+5060,1,California Today: Cast Your Vote for Californian of the Year - The New York Times
+5071,1,Fight - The New York Times
+5107,1,A ‘Hoop Dreams’ Sequel, Written by Gun Violence - The New York Times
+5110,1,Carrie Fisher in Intensive Care After Medical Episode on Plane - The New York Times
+5147,1,Former Student Is Charged in Killings of Ex-Teacher and Their Son - The New York Times
+5193,1,Mayday on the Carolina Queen - The New York Times
+5269,1,‘Flags of Our Fathers’ Author Now Doubts His Father Was in Iwo Jima Photo - The New York Times
+5289,1,Your Evening Briefing: Hillary Clinton, Donald Trump, Cultural Revolution - The New York Times
+5385,1,Learning to Speak for the Dead - The New York Times
+5424,1,$7 Million in Donations to Go Directly to Orlando Kin and Survivors - The New York Times
+5480,1,Istanbul Airport Attack Leaves at Least 41 Dead - The New York Times
+5504,1,Adnan Syed Retrial Ruling Disappoints Family of Victim in ‘Serial’ Case - The New York Times
+5513,1,A Beach Club in Queens Where Every Summer Is the Same - The New York Times
+5516,1,Wigan’s Road to ‘Brexit’: Anger, Loss and Class Resentments - The New York Times
+5579,1,Sparkling and Blighted, Convention Cities Spotlight Ignored Urban Issues - The New York Times
+5598,1,U.S. Targets $1 Billion in Assets in Malaysian Embezzlement Case - The New York Times
+5610,1,Texas Rape Victim Was Jailed for Fear She Would Not Testify, Lawsuit Says - The New York Times
+5692,1,‘A Fire Happened in the Newborn Unit, and Your Baby Died’ - The New York Times
+5731,1,Bobby Hutcherson, Vibraphonist With Coloristic Range of Sound, Dies at 75 - The New York Times
+5778,1,Italy, Hillary Clinton, Donald Trump: Your Thursday Evening Briefing - The New York Times
+5870,1,‘It Finally Clicked That This Wasn’t an Exercise’: Report Recounts San Bernardino Shooting - The New York Times
+5884,1,The High Cost of Investing Like a Daredevil  - The New York Times
+5917,1,Donald Trump’s Anything-Goes Campaign Sets an Alarming Political Precedent - The New York Times
+5939,1,Angelina Jolie to Divorce Brad Pitt, Ending ‘Brangelina’ - The New York Times
+6144,1,Earthquake and Aftershock: The Elections of 2008 and 2016 - The New York Times
+6217,1,California Today: Meet the New Mayor, Age 26 - The New York Times
+6369,1,The Tao of Matthew McConaughey - The New York Times
+6379,1,With Mass Protests, South Koreans Wield a Familiar Weapon in a New Era - The New York Times
+6411,1,California Today: Tracking the Bullet Train’s Progress - The New York Times
+6421,2,California Today: What Stinks in Huntington Beach? - The New York Times
+6474,1,Israel Wonders How Long Netanyahu Can Back Settlements and Two-State Solution - The New York Times
+6491,1,Death of a Red Carpet Reporter - The New York Times
+6506,1,California Today: The Stories That Moved Us in 2016 - The New York Times
+6520,1,2016 Pulitzer Prizes: A.P. Wins Public Service Award ‘Hamilton’ Is Honored - The New York Times
+6605,1,Choosing a School for My Daughter in a Segregated City - The New York Times
+6691,1,How to Stay Comfortable on a Long Flight - The New York Times
+6800,1,Rent-to-Own Homes: A Win-Win for Landlords, a Risk for Struggling Tenants - The New York Times
+6829,1,White Lives Matter Has Been Declared a Hate Group - The New York Times
+6836,1,Tom Wolfe’s ‘The Kingdom of Speech’ Takes Aim at Darwin and Chomsky - The New York Times
+6846,1,Hollywood’s Summer of Extremes: Megahits, Superflops and Little Else - The New York Times
+6963,1,‘Hamilton’ and Heartache: Living the Unimaginable - The New York Times
+7028,1,In Charleston, Coming to Terms With the Past - The New York Times
+7061,1,At Home With the Macabre - The New York Times
+7089,2,From Michael Lewis, a Portrait of the Men Who Shaped ‘Moneyball’ - The New York Times
+7106,1,Donald Trump, Russia, Aleppo: Your Friday Evening Briefing - The New York Times
+7125,1,Times Critics’ Top Books of 2016 - The New York Times
+7126,1,On ‘Patriots Day’: ‘Love Will Defeat Evil’ - The New York Times
+7174,1,The Fighter - The New York Times
+7256,1,When You Dial 911 and Wall Street Answers - The New York Times
+7353,1,California Today: Vaccinate Schoolchildren or Keep Them Home - The New York Times
+7411,1,Bob Dylan Wins Nobel Prize, Redefining Boundaries of Literature - The New York Times
+7521,1,‘Abandoned’ in New Jersey, Chris Christie Returns to a Changed Landscape - The New York Times
+7523,1,The Unsinkable Debbie Reynolds - The New York Times
+7527,1,69 Years Later, Philadelphia Apologizes to Jackie Robinson - The New York Times
+7559,1,Words of Obama’s Father Still Waiting to Be Read by His Son - The New York Times
+7560,1,What Donald Trump Learned From Joseph McCarthy’s Right-Hand Man - The New York Times
+7611,1,Anthony Weiner, Who Always Had Something to Say, Goes Silent - The New York Times
+7659,2,Dwayne Johnson, a.k.a. the Rock, Is People’s Sexiest Man Alive - The New York Times
+7668,1,Election Recount, Fidel Castro: Your Monday Evening Briefing - The New York Times
+7721,1,Grieving and Hunting for an ‘Evil Person’ After a Jogger Is Killed - The New York Times
+7725,1,Patrice Munsel Dies at 91 Soprano Became a Star at the Met as a Teenager - The New York Times
+7790,1,Elie Wiesel, Auschwitz Survivor and Nobel Peace Prize Winner, Dies at 87 - The New York Times
+7820,2,Report: Illegal Aliens Forego Food Stamps to Stay off Trump’s Radar
+7899,1,GRAPHIC: Three Killed in Drug Shootout Outside Ritzy Mexican Border State Bar
+7933,1,Former Texas Border City Manager Pleads Guilty in Corruption Probe
+7941,1,EXCLUSIVE: Cartel Smugglers, Migrants Growing More Violent Against Border Patrol Agents
+8006,2,Fake News on Trump Hits Mexico, Explodes
+8026,2,Penn State Trustee Bows Out of Election After Disparaging Sandusky Victims - Breitbart
+8093,1,Mexican Cops Arrest Gunman Tied to Beer Delivery Murders
+8145,1,Mexican Cartel Punishes Thieves with Highway Hanging
+8183,1,Iraqi and Egyptian Nationals Caught After Sneaking Across Open Border
+8191,3,John Kerry Defends Iran Deal in San Francisco to Soros-Backed Group - Breitbart
+8248,1,Border Patrol Union: Trump’s Border Plan ’Gives Us the Tools We Need’
+8368,1,GRAPHIC -- Cartel Violence Kills 10 near Texas Border
+8370,1,Cartel Radio Network Found near Texas Border
+8392,1,Mexican Cartels Ramp Up Smuggling near Texas Border
+8398,1,CARTEL TERROR: Gunmen Open Fire on Crowd in Mexican Resort Town
+8442,2,5 Border Horrors Establishment Media Mostly Ignore
+8457,1,Asra Nomani: Alt-Left Is Waging ‘Propaganda War’ and ‘Cyber Jihad’ to Claim America
+8459,1,Non-Stop Gun Battles Spark Fear, Uncertainty in Mexican Border City
+8473,1,GRAPHIC: Mexican Border State Authorities Unearth Bodies in Shallow Graves
+8508,1,PHOTOS: Mexican Cartel Executes Man in Broad Daylight near Texas Border
+8522,5,San Francisco Chronicle Admits: Some Anti-Trump Protesters are Paid - Breitbart
+8611,1,Jewish Student Driven from Berlin School by Threats and Violence from Muslim Classmates
+8659,1,Two Houston Police Officers Shot, Manhunt Underway
+8735,1,VIDEO: Mexican Cartel Offers Rewards For Rivals’ Heads -- Border City Issues Red Alert
+8747,1,Raging Cartel War Kills 20 in Mexico at Texas Border
+8778,1,Teacher Accused of Having Sex with Underage Student Grins in Mugshot
+8826,1,EXCLUSIVE -- Mexico Caught Lying in Extradition Fight for Fugitive Governor
+8838,2,7 Mexican Leaders with Ties to Drug Cartels
+8864,2,Ted Cruz Draws Democrat Challenger for 2018 Race
+8878,1,Illegal Immigrant Family Shocked at Immigration Laws Being Enforced
+8899,3,Oakland Sets Up $300,000 Anti-Deportation Fund - Breitbart
+8904,1,Virgil: The Left Whips Up a Climate of Violence -- the Prime Target Is Donald Trump
+8945,1,Fugitive Italian Mobster Caught Hiding Illegally in Mexico
+8965,1,Trump Wine Boycott at Wegmans Backfires - Breitbart
+9104,2,Thieves Plow Into Texas Gun Range, Steal Weapons
+9132,2,Another Fugitive Mexican Governor Faces New Charges in U.S. None in Mexico
+9142,1,Watchdog Claims 5K Noncitizens Registered to Vote in Virginia
+9147,1,Cartel Smugglers Becoming More Aggressive Against Border Agents
+9182,2,U.S., Mexico Agree on Narco-Governor Trial Venue Confirming Breitbart Texas Report
+9206,1,Teen-Impregnated Teacher Gets 10 Years
+9243,1,Mexican Politician’s Wife Arrested in Texas for Alleged Money Laundering Scheme
+9247,1,WaPo Drums Up ’Labor Shortage’ in Push for More Foreign Workers
+9271,1,Mexican Authorities Struggle to ID 32 from Cartel’s Mass Grave
+9351,1,Former London Mayor Ken Livingstone Continues Fight Against Anti-Semitism Charges
+9378,1,VIDEO: Citizen Journalists Capture Despair of Cartel Shooting War near Texas Border
+9392,2,Fifth Mexican Journalist Murdered in 90 Days
+9406,1,Trump Quietly Continues Obama’s ’Catch and Release’ at Border
+9415,1,Cartel Assassination of Journalist Silences Mexican News Outlet
+9516,1,Mexico Blames Removal of Convicted Felon on ’New Reality’ in U.S.
+9523,2,Kidnapped Border Patrol Agent Was Hacked with Machete, Suspects Caught
+9657,1,Escaped Inmate Takes Cop’s Weapons, Kills Man in Texas Border City
+9677,1,Mexican Governor Fighting U.S. Extradition for Cartel Case
+9686,2,Mayhem in Berkeley: Trump Supporters, Counter-Protesters Clash During Rally - Breitbart
+9713,1,Obama Commutes Life Sentences of Four Mexican Cartel Leaders
+9802,1,GRAPHIC: Mexican Marines Rain Gunfire on Cartel Boss
+9845,1,Governor’s Mansion ’Queer Dance Freakout’ Protests ’Bathroom Bill’
+9907,1,U.N. Human Rights Office Has ’Concern’ over Burundi Youth Militia ’Rape Song’ - Breitbart
+9926,2,Students Busted for Allegedly Painting Trump Graffiti on Rice U’s Berlin Wall Memorial
+10010,1,Cartel-linked Border Politician Loses Congressional Bid in Mexico
+10016,2,Report: San Francisco Considers Crackdown on Uber and Lyft, Demands Company Data - Breitbart
+10237,1,Suspected Child Abuser Arrested for Alleged Shooting, Kidnapping near Texas Border
+10317,1,Cartel Robberies Continue Along Mexican Border State Highways
+10324,1,Deported Italian Mobster Caught Sneaking Across U.S.-Mexico Border
+10362,1,Failed Kidnapping Kills Three in Mexican Border City
+10392,1,DOJ Investigates Oregon Judge for Allegedly Helping Illegal Immigrant Flee ICE Agents
+10443,1,Second Mexican Journalist Murdered in One Week, Juarez Cartel Implicated
+10477,1,Coahuila: How a Border State Government Covered up a Massacre
+10508,2,Mexican Cartel Kills Activist Mom Searching for Mass Graves
+10559,1,Tom Hanks, ’Game Change’ Team Prepping HBO Miniseries on Trump Election
+10586,2,Climber Conquers El Capitan Without Rope, Using His Bare Hands - Breitbart
+10608,1,Mexican Border State Cops Allegedly Beat Innocent Kidnapping Suspect
+10647,1,Government Gave Brown University $5 Million to Discover that Frat Boys Drink More than Peers - Breitbart
+10669,1,VIDEO: Cartel Gunmen Hold Up Border City Currency Exchange Store
+10682,1,Texas State Rep. Claims Death Threats, Assault from Fellow House Members
+10697,1,MILO: President Trump, Here’s Why You Must Cut Federal Funding From UC Berkeley - Breitbart
+10701,2,Activists: Anti-Trump Protests are the New ’Occupy’ - Breitbart
+10703,1,BREAKING: Border Patrol Agent Found Seriously Injured on Side of Roadway after Attack
+10716,1,Trump and Peña Nieto Agree to Not Publicly Discuss Wall Payment
+10722,1,’Hot Mugshot Guy’ Is Now Super-Rich, Living in Mansion
+10794,1,San Francisco: Lowest Percentage of Kids in America - Breitbart
+10837,1,Virgil: The Real Purpose of the Left’s Permanent Campaign Against Steve Bannon
+10856,1,VIDEO: U.S. Diplomat Shot in Mexico
+10862,1,Cuban Immigrant Behind Deadly Rampage in Texas
+10938,1,Sinaloa Cartel Members Caught Pushing Drugs in Rival Border State
+11053,1,Michael Brown’s Father on Ferguson Riots: ’They Asked for It’
+11063,1,Los Zetas Cartel Leader Arrested in Mexican Border State
+11104,2,17 Colombian Nationals Arrested for Burglarizing Houston Communities
+11203,1,Illegal Immigrant Caught at Border with Child Porn of 4-Year-Olds on Phone
+11211,1,Ex-SF Mayor Willie Brown Warns Dems: Pushing Trump Impeachment Could ‘Backfire’ - Breitbart
+11246,1,Silicon Valley Techies Complain About ’Scraping By’ on Six-Figure Salaries - Breitbart
+11265,1,UC Berkeley Bans Ann Coulter – But She Plans to Speak Anyway! - Breitbart
+11292,1,Pushing Mexico to Pay for Border Wall Is ’Not Christian’, Says Pope
+11297,2,3 Reasons Why Trump’s Focus on MS-13 Could Be a Cop-out
+11355,1,California’s Drive-Thru Tree Falls over During Winter Storm
+11377,1,Neil Gorsuch to Participate in Deciding SCOTUS Gun Rights Hearing
+11540,1,Mexican Cartel Kingpin ’El Chapo’ Guzman Extradited to U.S.
+11548,3,Egypt: Christian Couple Stabbed to Death on Coptic Christmas Day
+11560,1,Jerry Brown’s New Budget Includes Millions to Defend Illegal Aliens from Deportation - Breitbart
+11578,1,EXCLUSIVE -- Mexico Backs Down in Fight With U.S. over Extradition of Cartel Governor
+11603,1,Smuggler Gets 20 Years for Assaulting Border Patrol Agent
+11650,2,Cartel Massacres, Rampant Corruption Taint Mexican Border State Elections
+11679,2,U.S. Media Ignore Mexican President’s Ties to Drug Cartels
+11699,1,400 Mexican Soldiers Headed to Border in Hunt for Gulf Cartel Boss ’Comandante Toro’
+11700,1,Globalist Media Launches Project to ’Show Human Side’ of Mass Migration
+11720,1,GRAPHIC: Cartel Incinerates Rivals in Mexican Border State
+11752,2,5 Mexican Cartel Bosses Who Were Caught Hiding in Texas
+11834,2,GRAPHIC: Mexican Cartel Spreads ISIS-Like Beheading Video to Gain Border Turf near Texas
+11894,1,FULL TEXT: MILO on why the Democrats Lost the White Working Class - Breitbart
+11989,1,SFO, LAX Lead Nationwide Protests of Trump Executive Order - Breitbart
+11990,1,Captured Cartel Boss Held Multiple Properties in Mexican Border City
+12127,1,VIDEO: Kindergarten Teacher Keeps Children Calm During Cartel Firefight
+12131,2,Organizer Calls Berkeley Riot ’Stunningly Successful,’ Warns Repeat if MILO Returns - Breitbart
+12222,1,Suspected Cartel Boss Who Burned Hundreds of Victims Killed
+12246,1,FBI: Texan Tried to Take Kidnapped Child to Iraq via Mexico
+12264,1,Madonna Biopic ’Blonde Ambition’ Set at Universal
+12418,2,MILO Media Meltdown: Breitbart Editor’s UC Davis Event Dominates Headlines - Breitbart
+12432,1,Rick Perry Accuses Texas A&ampM of Disqualifying Student Government Election Winner in ’Name of Diversity’ - Breitbart
+12440,3,Protesters Angry Sen. Dianne Feinstein Isn’t Holding Town Halls
+12487,1,Report: New York State Public School Teachers in Long Island Earn $161,000 a Year on Average - Breitbart
+12497,1,Video: Mexican Cartel Forces Rivals to Clean in Lingerie Inside Prison
+12512,1,Mexican Leaders Caught Lying Again in Cartel Extradition Fight with U.S.
+12581,1,More than Half of Forbes’ 40 Under 40 Live in Bay Area
+12622,1,Kathryn Steinle’s Family Gets Go-Ahead to Sue Federal Government - Breitbart
+12675,1,Narco-terror: Cartel Dumps Dismembered Bodies in Mexican Border State
+12904,2,29 Cartel Inmates Escape Border State Prison
+13005,1,FAKE NEWS: NBC News Issues Correction After Falsely Branding MILO as ‘White Nationalist’ - Breitbart
+13048,1,Pinkerton: Before Trump Nation, There Was Fox Nation: Fox News After Roger Ailes and Bill O’Reilly
+13095,1,Shootings, Kidnappings Mark 3rd Week of Mexican Border City Cartel Violence
+13154,1,Uber Drivers Dismembered in Mexican Border State by Cartel
+13205,1,Texas State Rep Hit by Stray New Year’s Bullet
+13230,1,Mexican Cartel Boss Escapes When Judge Allows House Arrest in Mother’s Home
+13316,1,Fugitive Texas-born Cartel Smuggler Threatened to Sever 8-Year-Old’s Fingers
+13317,1,VIDEO: 50 Killed in Month As Cartel Violence Rages near Texas
+13406,1,Even ’New York Times’ Notes ESPN’s Leftward Leaning Coverage - Breitbart
+13514,1,CNN: Being an Illegal Alien ’Not Necessarily’ a Crime
+13516,1,VIDEO: Cartel Tunnel Discovered Inside Mexican Border Prison
+13625,2,Calexit? Jerry Brown Asks Trump for Aid - for the 4th Time - Breitbart
+13646,4,CA State Senator Amends Bill to Make ’Discrimination Against’ Border Wall Contractors Legal - Breitbart
+13720,1,Mexican Cartel Stockpiling Grenade Launchers at Texas Border
+13782,1,VIDEO: Mexican Marines Use Minigun on Cartel near Texas Border
+13813,1,Willie Brown: Free Speech Is ’Being Buried in Berkeley’ - Breitbart
+13823,1,Mexican Cartel Leader Forced to Perform Prison Sex Acts on Rivals
+13827,2,GRAPHIC: Crime Scene Photos Reveal Chaos after Shooting near Mexico’s Cancun
+13829,1,Sinaloa Cartel Hitman Jailed for Kidnapping, Killing Texas Man
+13840,2,Nine Killed in Border City Gun Battles in Hunt for Gulf Cartel Boss
+13925,1,Report: 2016 Was ‘Worst Year Yet’ for Christian Persecution
+13933,1,MILO Fan Sues UC Berkeley for $23 Million over Abuse Against Conservatives on Campus - Breitbart
+13936,1,Amazon and Whole Foods: An Organic Affluenza Experience - Breitbart
+13940,2,GRAPHIC: Leaked Images Show Dead Gulf Cartel Boss ’Comandante Toro’
+13984,1,SJW’s Crybully College Dance Troupe for Inauguration Show
+14092,1,Drug Cartel Delivers Texas Truck Full of Bodies in Mexican Border State
+14093,1,GRAPHIC: Mexican Cartel Murders Top Security Official, 3 More in Border City
+14148,1,U.S. Maintains That Mexico Is High Risk for Tourist Kidnappings
+14205,2,BP Oil Adds Gender Reassignment Surgery to Employee Package
+14217,2,4th Journalist Murdered in Mexico Within Weeks
+14220,1,EXCLUSIVE: Ted Cruz Suggests U.S. Military Response to Mexican Cartels
+14243,1,Video Shows Dying Cartel Gunman Cry after Battle near Texas Border
+14254,1,Jailed Mexican Cartel Boss Could Expose Dirty Cops
+14270,2,9 Shocking Facts About Our Border with Mexico
+14320,1,Riots, Looting in Mexico Over Spiking Gas Prices
+14326,1,300 Skulls Found in Mexican Cartel Mass Graves
+14365,1,It’s Official: Trump Orders Border Wall Between U.S. and Mexican Narco-states
+14438,1,36 Killed in Month-Long Cartel War Near Texas
+14494,1,’Rolling Stone’ Magazine Settles Defamation Lawsuit over Fake University of Virginia Rape Story
+14549,1,BART Sued over Urine- and Feces-Covered Elevators - Breitbart
+14574,2,GRAPHIC -- Mexican Cartel Gunmen Murder Toddler, Family in Shooting Spree
+14612,1,Mexican Politician Climbed Border Fence to Mock Trump’s Wall
+14615,1,Dolce &amp Gabbana Launch Campaign Mocking Melania Trump Haters
+14623,2,UK Jews Abandon Labour as Support Craters on Anti-Semitism Charges
+14651,2,Mexican Authorities Kill Gulf Cartel, Zetas Bosses in Key Strikes
+14667,1,Texas Fishermen Shot on Border by Suspected Cartel Gunmen
+14690,1,Coulter’s Non-Speech Cost Berkeley Half Million Dollars to Pay Cops - Breitbart
+14770,1,Mexican Cartel Throwing People Off Planes to Punish Rivals
+14884,1,Mexican Special Police Unit Agents Arrested For Kidnapping Migrants near Border
+14916,1,’She’s Not Mean. She’s Just Being Kamala.’ - Breitbart
+15000,2,BREAKING: Cartel Gunmen Fire at Border Patrol Agent in Arizona
+15143,2,Rebel San Francisco P.D. Cuts Ties with FBI on Counterterrorism
+15191,1,Violent Alien Escapes After Attacking Border Agent, Tucson Police Refuse To Help
+15215,1,Texas High School Coach Gets Probation for Sex with Student
+15270,1,GRAPHIC: Cartel Man Ignites While Stealing Fuel in Mexican Border State
+15295,3,North Korea Nukes San Francisco in Propaganda Video - Breitbart
+15297,1,Prison Time for Mexican Cartel Operatives Involved in North Texas Police Shootout
+15392,1,The Nuclear Option: Trump Dominates World While Maddow Hypes Fake Scandals - Breitbart
+15404,1,EXCLUSIVE: Border Patrol Agent was Kidnapped, FBI Leads Investigation
+15567,1,Cartel Kidnaps 3 Off Tourist Bus at Texas-Mexico Border
+15627,2,Texas and Other States Allowing Illegal Aliens to Adopt Children
+15670,1,Missing U.S. Army Vets Could Be Buried in Mexican Cartel Grave, Fears Mother
+15846,1,LEAKED VIDEO: Mexican Soldiers Rescue Cartel Gunmen After Gun Battle Near Texas Border
+15903,1,Jay Z: War on Drugs an ’Epic Fail’ - Breitbart
+15970,1,Chicago Gangs Murder Honor Student Featured in CNN Documentary ’Chicagoland’ - Breitbart
+15994,1,Human Remains Found Near Texas Border May Be Woman Missing Two Months
+16011,1,GRAPHIC: Mexican Marines Kill 2 Cartel Shooters Near Texas Border
+16013,1,Police Ignored Anjem Choudary As They Persecuted Tommy Robinson
+16109,1,EXCLUSIVE: Leaked Images Show Illegals Casually Strolling Across Open Border
+16144,1,Cartel Terrorism at Border: 15 Kidnapped Off Hijacked Mexican Passenger Bus
+16346,2,Sierra Snowpack Hits 87%, but Drought Remains - Breitbart
+16402,1,Metallica Exacts Revenge on Super Bowl With Epic Show
+16536,1,Mexican Cartel Throws Grenade near Kindergarten Class South of Texas
+16560,1,Fish Market Owner Pleads Guilty to $1.4 Million Food Stamp Fraud - Breitbart
+16602,1,Reports: Trump Taps Navy SEAL Vet Rep. Ryan Zinke to Lead Interior Department - Breitbart
+16691,1,Texas Lights Up Blue to Support Police
+16696,3,Pro-Trump Graffiti Spooks Spanish Immersion School - Breitbart
+16749,2,Video: Protesters Disrupt ’Sanctuary City’ Vote in San Francisco
+16797,1,Mike Pence: Donald Trump Will Carry On Reagan Revolution
+16890,1,Cartel Gunmen Ambush Border Police with Armored Trucks
+16892,1,Mexican Politicians Demand Country’s Government Hunt Down Fugitive Governors
+16916,1,Mexican Cops Seize 1,800 Pounds of Cocaine Headed to Texas - Breitbart
+16930,1,Graphic: 6 Cartel Gunmen Burned Alive in Mexican Border City
+16935,1,GRAPHIC: 3 Priests Kidnapped and Murdered in Mexico Within Week
+17007,3,MS-13 Gang Leader Murdered 14-Year-Old Texas Boy With Machete
+17011,1,’Beyoncé Day’: Minnesota Governor Dedicates Day to ’Anti-Police’ Singer, Prince Fans Explode on Social Media - Breitbart
+17048,1,Virgil: The Left’s Long March, Enabled by Corporate America: Ten Things to Know About Kellogg’s War Against Breitbart
+17058,1,Four Cartel Gun Battles in Four Days near Texas Border
+17080,1,Report: 99 Percent of Pot and Meth Comes from Mexico
+17171,1,Mexican Cartels Coaching Illegal Immigrants to Request Asylum, Say Agents
+17269,1,Mexican Cartel Armored Trucks Found near Border
+17301,1,No Mention of Clinton Foundation During DNC Convention
+17341,1,Cartel Violence Continues to Touch Wealthy Families in Coahuila’s Society
+17414,1,Lawyer for Boston Marathon Bomber’s Widow Rips Movie Portrayal
+17502,1,GRAPHIC: Executions and Hacked Corpses Terrorize Mexico near Texas Border
+17564,1,Mexican Border State Cop Murdered for Refusing to Rob, Rape Woman
+17652,1,Why Did Obama Tell Brazen Lies at the Baltimore Mosque? - Breitbart
+17660,1,In Decisive California Primary, Ted Cruz Is in Control - Breitbart
+17728,2,Report: Marijuana Farm Sparked 2015 California Fire - Breitbart
+17789,2,Massive, Sudden Rent Increases Hit San Francisco - Breitbart
+18003,1,Countdown Clock to ’Impressive’ Kristol Candidate - Breitbart
+18069,1,GRAPHIC VIDEO: Mexican Cartel at Border Preps to Incinerate Victims’ Hacked Bodies, Plays Soccer with Head
+18236,3,Trump Declares War: Mexican Cartel Assets to Pay for Border Wall
+18288,3,Tweet Threatens ’Massive Shooting’ at Houston’s Gay Pride Parade
+18330,1,Authorities Seize Cartel Weapons Heading North to Texas Border
+18437,1,Los Zetas Cartel Thugs Walk Free After Brutal Machete Attack at Border - Breitbart
+18504,3,Police Union in Trouble over ’Black Labs Matter’ Photo
+18525,1,Does Islam ’Hate’ Us? - Breitbart
+18548,1,GRAPHIC: 6 Dead in Intense Mexican Border State Gun Battle
+18567,1,The 5 Basic Questions Megyn Kelly Forgot to Ask Marco Rubio - Breitbart
+18830,1,’I’m Going to Die’: Loved Ones Texted from Inside Oakland Fire
+18866,1,EXCLUSIVA: Mandos de Carteles Mexicanos se Reunieron en la Frontera con Texas, Planean Nuevas Rutas
+18884,1,Central American Illegal Immigrants Continue to Flood U.S. Border at Record Rate
+19221,1,Mexican Cowboy Caught Hiding Cartel Cash in Boots
+19230,1,Myra Adams: ‘Clinton Cash’ Tells America, ’We Are Stark Raving Mad If We Elect the Clintons‘ Again
+19260,2,Kate Steinle Murder Trial Delayed Until After Election
+19302,1,Saudi Soldier Drowns Near South Texas Beach
+19338,1,3 Things To Look For In California Primary Results - Breitbart
+19381,1,SOURCE: Mayor’s Son Executed in Mexican Border State after Apparent Torture
+19609,1,’Yeah, Baby!’ Liz Hurley Backs Brexit, Slams Cameron Over Turkey And Migration
+19682,3,San Francisco Set to Ban Navy Blue Angels Flyovers - Breitbart
+19721,1,12 Fake News Stories from the Mainstream Media
+19783,1,Donald Trump May Benefit From Backlash Against Pope’s Comments - Breitbart
+19793,2,Hillary Clinton Should be in Jail, Not the White House - Breitbart
+19803,2,Establishment Playbook to Defeat Donald Trump Echoes Smears Against Barry Goldwater - Breitbart
+19817,2,Texas Tutor’s Lewd ’Batman and Robin’ Selfies Lead to Child Porn Charges
+19841,1,Mexican Navy Rescues Cartel Kidnapping Victim near Texas Border
+19944,1,All About Megyn: The ’Eve Harrington’ of Fox News - Breitbart
+19947,1,Philadelphia Apologizes to Four-Decades Dead Jackie Robinson - Breitbart
+19967,1,Texas Man Arrested in Decapitation Murder of Auto Parts Store Owner
+19978,3,Los Zetas Cartel Used Network of Ovens to Hide Mass Extermination in Mexico’s Coahuila - Breitbart
+20034,1,Mexican State’s New Court System Appears Broke and Not Ready for Implementation
+20160,5,Chronicle: Donald Trump Is Changing Politics in Silicon Valley
+20173,2,Mexican Mayor Arrested After Hundreds Massacred and Cooked in Network of Ovens, Following Breitbart Report
+20232,1,Sen. Jeff Sessions: ’Sentencing Reform’ Bill Rewrite Will Release Even More Illegal Alien Drug Traffickers - Breitbart
+20283,1,Former Gulf Cartel Hitman Speaks Out on Clandestine Gravesite near Texas Border
+20391,1,GRAPHIC: Cartel Shootouts Rain Terror in Mexican Border City -- Again
+20482,1,Obama’s FBI Shrugs off Mateen, But Red Flags Were Everywhere - Breitbart
+20629,1,’Weiner’ Doc Opens Big at Box Office: Anthony and Huma ’Still Haven’t Seen It’ - Breitbart
+20693,1,Barry Bonds, Roger Clemens Gradually Making Way to Hall of Fame - Breitbart
+20698,2,OPEC Chief: Oil is Now Too Cheap
+20774,1,Watch: Bono Rips Virtual Donald Trump at Concert: ’You’re Fired’
+21017,1,’F**k Blue Lives,’ Shouts Houston Black Lives Matter
+21043,2,Stephen Curry Supports Colin Kaepernick - Breitbart
+21115,1,EXCLUSIVE: Top Mexican Cartel Leaders Met at Texas Border on U.S. Election Day, Planned New Routes
+21148,2,Leaked Images Show More Illegal Border Crossings in Broad Daylight
+21266,1,Mexican Cartel Attempts Armed Prison Break in Border State
+21422,1,Sheriff: MS-13 Gang Brings Machetes, Rape, Scalping to Texas
+21448,1,Amazon Developing Ku Klux Klan Drama with Joseph Gordon-Levitt - Breitbart
+21564,1,University of Utah and Planned Parenthood Fund ‘Sex Week’ to ‘Deconstruct Reproductive Oppression’ - Breitbart
+21595,1,House Democrats Launch Bill To Ban Religious Exemptions For Abortions, Gender Transition Services - Breitbart
+21598,1,How Many Divisions Does Paul Ryan Have? Not Nearly as Many as Sheldon Adelson - Breitbart
+21605,1,Multiple Injured in Mass Stabbing Incident in Minnesota Mall
+21642,1,Hollywood Is Making Another Young Obama Biopic - Breitbart
+21674,1,SHOCK: Polls Show Trump Leads Cruz Among South Carolina Evangelicals - Breitbart
+21809,1,It’s Conservatives Who Need ’Safe Places’ on Campus - Breitbart
+21833,2,SF High School Football Team Refuses to Stand for Anthem - Breitbart
+21905,1,’8th Wonder’ Astrodome Set to Wow Again
+22009,3,Hillary Clinton Slams Trump for ’Sexually Predatory’ Behavior
+22075,1,Obama’s Birthday Gift To The Queen: A Photo Album - Breitbart
+22090,1,GRAPHIC: Regular Beheadings, Executions Bring Terror to Mexican Border State
+22140,1,Exclusive -- Sarah Palin Defends Breitbart Against ’the Wrath of the Whiners’
+22273,2,A Harsh New Reality May Await El Chapo in Colorado’s Supermax Prison - Breitbart
+22278,2,Deadly Oakland Fire Tragic Symbol of Bay Area’s Identity Crisis
+22291,1,Cartel Gunmen Wish Merry Christmas by Beheading Rival in Front of His Children
+22370,1,Mexican Model Executed in Front of Her Family in Border State
+22378,1,Female Los Zetas Cartel Members Held 5 Migrants for Ransom near Texas Border
+22404,1,Weather Channel’s Fake News Eco-Crusader Kait Parker Finds a New Victim - Breitbart
+22447,2,Photos Show Extreme Texas Floods and Tornado
+22669,1,Cartel Firefight near Texas Border Kills 10
+22764,1,Northern California Tribes Support Dakota Pipeline Protest
+22787,1,Mexican Cartel Gunfight Caught on Video -- Just Miles from Texas Border
+22801,1,Zuckerberg Security Hogs SF Parking Spaces - Breitbart
+22829,1,CenterPoint Energy Contractor Smacks Dogs in Face with Wrench
+22891,1,GRAPHIC: Texas Trucker Found Murdered near Mexican Border City
+23081,2,5 Facts About ’Black Oppression’ Colin Kaepernick Needs to Know
+23156,2,San Francisco Chronicle Columnist Hopes for Rush Limbaugh’s Death
+23200,1,Los Zetas Gunmen Blast Teen in Face with Shotgun Near Texas Border
+23370,1,San Antonio Police Officer Executed While Writing Traffic Ticket -- Suspect: Black Man in Black Car
+23586,1,Chris Gaubatz: President Hillary Clinton Is ‘Exactly What the Muslim Brotherhood Would Want’
+23641,2,Therapy Pig Greets and Comforts Travelers at SFO - Breitbart
+23846,1,Fake News: Associated Press Pushes ’Safe Border’ Narrative to Critique Trump Wall
+23882,1,’No Layoffs... This Week!’ Marissa Mayer Cruelly Taunts Yahoo! Employees - Breitbart
+23904,1,EXCLUSIVE--GRAPHIC: Drug Cartel Burns Rivals Alive Near Texas Border
+23994,1,Texas Father and Son Killed in France Terrorist Attack
+24052,2,I’m Gay And I’ve Been Banned From San Francisco! - Breitbart
+24132,1,Mark McKinnon: GOP Establishment ‘Soaked the Place in Kerosene, All Donald Trump Did Was Light a Match’
+24137,1,Hell Hath No Fury like a Weiner Scorned - Breitbart
+24259,1,Sarah Palin: ‘The Steve Bannon I Know Is a Passionate Defender of Freedom’
+24305,1,John Bassett: ‘When You Walk Those Beaches of Normandy, You Know What This Country Stands For’
+24341,1,Beyoncé’s Super Bowl Stunt: A Slap to Real Victims
+24424,1,Hillary Clinton Praises Beyoncé’s Pro-Black Lives Matter Album ’Lemonade’ - Breitbart
+24555,1,Libertarians and Trump: To Be, or Not To Be, a Republican in 2016
+24566,2,’The Populist Explosion’: New Book Explains Rise of Trump, Sanders, and the Populist Future - Breitbart
+24624,1,Father’s Day in the Trenches - Breitbart
+24812,2,War Crimes of Imperial Japan: A Lesson In Moral Equivalence for Mr. Obama - Breitbart
+24888,1,Mexican Cop Shoots Illegal Immigrant Children - Mistook for Cartel Gunmen - Breitbart
+24911,1,Buyer Beware: Black Friday Knock-Off Goods Can Fund Cartels
+24938,1,A Flag for General Washington - Breitbart
+24974,2,Illegal Alien Surrenders in Hit-and-Run Crash that Killed Texas Pastor, Wife
+25010,1,Tax Breaks For Olympic Medalists? No Thanks! - Breitbart
+25184,1,Gulf Cartel Leaders Presumed Dead in Turf War near Texas Border
+25218,1,GRAPHIC: Mexican Government, Media Silent as Civil War Executions Become Everyday Event
+25370,1,Beheaded, Castrated Man Found Outside Walmart Store
+25421,4,Trump to Mexican Cartels: ’Your Days are Numbered’
+25456,1,Mexican Cartels Continue to Operate Facilities in Texas Border Towns
+25548,3,Affluent Houston Area Erupts: Gun Battle Leaves 2 Dead, Many Injured
+25598,1,Black Lives Matter Wants to Push Socialist Sanders Even Farther Left - Breitbart
+25824,1,’Not God’s Plan’: Marco Rubio Drops Out of Presidential Race - Breitbart
+25830,1,PHOTOS: Flood of Illegal Immigrants Continues at Texas Border
+25905,2,Black Lives Matter Scares BART Official into Carrying Gun - Breitbart
+25906,1,GRAPHIC: Shootout in Mexican Prosecutor’s Office Kills 2, Injures 3
+25937,1,Mexican Cartel Gunfight Caught on Video: Los Zetas Civil War Claims 3 More Lives
+26006,1,Cannon Used to Shoot Drugs Over Mexican Border Fence Seized
+26030,1,Mexican Cartel Violence Kills Texas Toddler, Dad
+26121,1,Texas State Trooper, Border Patrol Agent Shot on Patrol
+26224,1,Gov. Mike Pence’s RNC Speech Included Bible Code Words to Christians - Breitbart
+26241,2,Duke Approves ’Safe Space’ For Illegal Immigrants
+26287,1,Mexican Cops Find 2 Cartel Tunnels Into U.S.
+26320,2,Lavish Library of Islamic Knowledge ’For Everyone,’ Says Houston Mayor
+26463,1,EXTREMELY GRAPHIC: Cartel Members Dismember, Bag Rival Amid Los Zetas Civil War
+26542,1,Second Texas A&ampM Student Found Dead on Frat Row
+26570,3,San Francisco Bar Owner Cancels Breitbart Meetup over Milo Yiannopoulos’ Attendance - Breitbart
+26588,1,GRAPHIC: Los Zetas Civil War Continues to Bring Terror, Murder to Innocent Victims
+26615,1,Texas Health Officials Brace for More Zika Virus Cases After Six Confirmed Statewide
+26640,1,Border Families Suffer in Silence for Kidnapped Kin
+26752,1,Texan Beaten to Death in Mexican Border City
+26755,1,Texas Diner Re-Brands as ‘Trump Café’
+26770,1,Macklemore, Obama Talk Drug Addiction in MTV Documentary
+26836,1,True the Vote’s Catherine Engelbrecht: Voter ID Debate Is Alinsky-Type Scheme to ‘Agitate, Agitate, Agitate’
+26952,2,Watch: Cruz Pokes Fun at Trump’s ’Two Corinthians’ Citation - Breitbart
+26996,1,Dozens Killed in Mexican Fireworks Market Explosion
+27007,1,Breitbart Texas Helps Dismantle Corrupt Border School Board
+27088,1,Texas Cops Give Turkey Dinners to Needy Border Families
+27208,1,Mexican Marines Denounce Superiors’ Unwillingness to Fight Cartels
+27306,1,EXCLUSIVE: Mexican Cartel Hitmen Forced to Wear Women’s Lingerie After Capture
+27471,1,Report: Bruce Jenner Cancels Speaking Tour over Low Ticket Sales
+27478,2,40,000 Christians Persecuted By Muslims In Germany
+27505,1,’My Body Is Not a Crime’: Women Observe ’Go Topless Day’
+27601,1,No Country for Old Christians? Phil Robertson Crushes It in ‘Torchbearer’ Film - Breitbart
+27676,2,Mexican Cartel Hunters Escort Santa’s Toy Delivery
+27718,1,Rain! California Doubles Water Allocation as Drought Fades
+27744,1,WATCH: GOP Establishment Elites Discuss How to Stop Trump -- ’All He Has Going for Him Is a Lot of Votes’
+27745,1,U.S. Navy To Name Ship After Gay Rights Leader Harvey Milk - Breitbart
+27766,1,Texas Border Cop Accused of Aiding Drug Cartel Operations
+27792,1,Silicon Valley Goes ’All-in’ for Cord Cutters - Breitbart
+27992,1,Texas Border City Employee Caught Using Work Truck to Move Cocaine
+28012,2,Duke Administrators on Student Protesters: ’We’re Done with Demands’ - Breitbart
+28184,1,Post-Dallas, Black Lives Matter Protests Sweep California
+28233,1,EXCLUSIVE -- Feds Capture Los Zetas Cartel Boss in Houston
+28344,1,Politico Censors Black, Jewish, Women, Hispanic, Immigrant Voices to Silence Defenders of Steve Bannon - Breitbart
+28412,1,Franken: RNC ’Ugly’ Convention ’Spewing Hate,’ an ’Extension Of The Candidate’ - Breitbart
+28609,2,After Minimum Wage Hike, UC Berkeley Cuts 500 Staff - Breitbart
+28749,2,Drought: 100 Million Trees Dead in CA - Breitbart
+28751,1,9th Circuit: Americans Have No Right To Concealed Carry A Gun Outside Home - Breitbart
+28822,1,Open Borders Rap Sheet: 30+ Crimes by Immigrant Suspects in September Alone - Breitbart
+28952,1,Cartel War Continues to Dump Bodies in Mexican Neighborhoods
+29171,1,Secret DNC Memo: Hillary Vulnerable on Clinton Foundation
+29195,1,GRAPHIC: Mexican Cartels Continue Murder of Rivals in Fight for Border State
+29203,1,Mexico Backtracks, Willing to Talk NAFTA with Trump
+29231,1,Border Patrol Agents Chase Drug Smuggling BMW into Canal
+29236,1,Schweizer: ’I Know the FBI Is Investigating the Clinton Foundation’ - Breitbart
+29261,1,GRAPHIC: Mexican Authorities Find Another Cartel Execution Victim near Border
+29264,1,NY AG Queries NFL on ’Sexual Orientation Discrimination’ - Breitbart
+29288,1,A Swing And A Miss: How Triggered Hillary Screwed Up Her Chance To Take On The Alt-Right - Breitbart
+29295,1,James Pinkerton – The Democrats vs. The Deplorables, Part Two: The Immigration Flashpoint  - Breitbart
+29386,1,James Pinkerton: Globalism Hits a Brick Wall: Now, What Will Donald Trump and Hillary Clinton Do?  - Breitbart
+29392,1,The Nuclear Option - Hillary Clinton: The First Lady Who Will Not Go Away - Breitbart
+29394,1,Disney’s ’Once Upon a Time’ Features Lesbian ’True Love’s Kiss’ - Breitbart
+29427,1,Todd Buchholz: ‘Crisis in the American Spirit’ Can Be Overcome with ‘Grit, Mobility, and Confidence’ - Breitbart
+29458,1,Holocaust Professor: Boycott Movement Loves ‘Dead Jews’ And Doesn’t Want a Better Israel, They Want No Israel
+29495,3,Polls: South Carolina Race Tightens As Vote Nears - Breitbart
+29554,2,Jack Hunter: Anatomy Of A Cuckening - Breitbart
+29748,1,Cartel Gunmen Kill Woman at Mexican Border Restaurant
+29868,1,VIDEO: Cartel Leader Released After Gunmen Stage Protest, Government Lied
+29979,1,Trump’s Populist/Nationalist Revolt Began with ‘The Greatest Generation’ - Breitbart
+29980,1,The Unfinished Memorial Day for the Men Who Saved America - Breitbart
+30003,1,How BuzzFeed Editor Craig Silverman Helped Generate the ’Fake News’ Crisis - Breitbart
+30028,1,’F*ck Israel’ Graffiti Discovered at UK Campus After Ambassador’s Visit - Breitbart
+30091,1,War on Cops: Law-Enforcement Deaths by Gunfire Up by 150% This Year - Breitbart
+30110,1,SHOCK: Mexico Arrests Cartel Smugglers Bringing Drugs into Texas
+30233,1,Leaked Photos Show Mexicans Overcome U.S. Border Security with Only a Raft
+30360,1,The Worldwide Trumpian Majority: Lessons from Brexit, Britain, and the United States - Breitbart
+30373,1,Texas Scores Big Again in U-HAUL Moving Survey
+30412,1,20 Most Epic Celebrity Trump Meltdowns of 2016
+30503,2,Colin Kaepernick Fails to Show for Speech at San Francisco Church
+30567,1,Gunmen Execute Young Couple, Set Vehicle on Fire near Texas Border
+30576,1,Peter Schweizer: Clinton Foundation Probe Must Continue — You Can’t Say ’She Gets a Free Pass Because She Lost’
+30597,1,Top Mexican Politician’s Son Shot in Drug Deal Gone Bad
+30622,1,Oakland Residents: Riots Have ’Nothing to Do with Trump’ - Breitbart
+30637,1,Mexico Helping Unvetted African Migrants to U.S. Border, Many From Al-Shabaab Terror Hotbed
+30733,1,**Horse Race Live Wire** Trump, Clinton Projected to Win New York Primary - Breitbart
+30783,1,The Changing of the Guard in Cleveland: What a Difference Donald Trump Has Made  - Breitbart
+30807,1,The Nuclear Option - War on History: HBO’s High-Tech Lynching of Clarence Thomas Timed for Election Year - Breitbart
+30865,1,Trump Destroyed Conventional Thinking on March to Nomination - Breitbart
+30961,3,Teacher Suspended for Comparing Trump to Hitler - Breitbart
+30987,1,GRAPHIC: Mexican Border State Cop Arrested as Hitman for Los Zetas Cartel
+31019,1,Violent Anti-Trump Riots Break out in West Coast Cities, Campuses
+31077,1,Tea Party Leader Bill Hennessy: ’You Can’t Be Never Trump and Never Hillary’
+31241,2,United Airlines Pilot Accused of Running ’Massive’ Houston Prostitution Ring
+31284,1,Hillary Clinton Super PAC Univision Launches Voter Registration Drive - Breitbart
+31307,1,Revenge Sex Leads Naked Texas Man to Fall Off Roof While High
+31516,1,Exclusive: Benghazi Hero Would Not Enlist in Military Under President Hillary Clinton - Breitbart
+31615,1,Mark Shriver to Trump: Don’t forget about children, the poor
+31823,1,’When We Rise’ is ’necessary conversation,’ says creator
+32010,1,Transition Tracker: Picking apart Trump’s Cabinet picks
+32337,1,WH policy director: From campaign hype-man to Oval Office influence
+32436,1,Crowds across US protest Trump policies
+32574,1,NC ’bathroom bill’ jeopardizes NCAA events
+32899,1,Why punishing media will backfire on Trump
+32920,1,’When We Rise’ chronicles gay-rights movement
+33024,1,South by Southwest Fast Facts
+33331,1,Jurnee Smollett-Bell: The wounds of slavery have not healed
+33370,2,SXSW gets political: All eyes on Trump
+33371,2,Mick Fleetwood opens up about his passion for the arts at SXSW
+33499,1,Rick Perry: Texas A&ampM election ’stolen’
+33569,1,Here’s how senators plan to vote on Gorsuch
+33835,2,Barack Obama’s evolution in 10 years of hip-hop lyrics
+33840,1,Alabama governor abused power to cover up affair, report says
+34130,1,Hillary Clinton doesn’t deserve all the blame for Democrats’ failure
+34325,1,Hugh Hefner Fast Facts
+34400,1,The Kent States you don’t know about
+34527,1,Pence family rabbit hops into spotlight at White House event
+34599,1,Texas lawmakers spar over ’anti-vaccine measure’
+34675,1,Freida Pinto sees ’Guerrilla’ as a timely story about racial strife
+35444,1,How a baseball practice turned into terror
+35917,1,Sonia Sotomayor channels liberal voice on Supreme Court
+35972,1,’Eat, Pray, Love’ author announces separation from husband
+36149,1,Baton Rouge after Dallas: ’Where are we headed?’
+36604,2,Father of slain Muslim US soldier to Donald Trump: ’You have sacrificed nothing and no one’
+36672,1,Donald Trump’s bad 72 hours
+36683,1,’Leftovers from a fallen society’
+36897,1,Baltimore DOJ report: ’Lives Ruined’
+36912,1,DEA declines to loosen restrictions on medical marijuana
+36917,1,Trump Tower climber: Who is Stephen Rogata?
+36988,1,New book gives insight into Trump fervor
+37251,1,’Narcos’ blasts into second season more addictive than ever
+37280,1,NBA star Dwyane Wade’s cousin shot in Chicago
+37313,1,Dwyane Wade’s cousin Nykea Aldridge killed
+37354,1,New ’Dancing With the Stars’ cast is...
+37424,1,Bassem Youssef slams refugee ’dehumanization’
+37929,1,Obama: African-American museum helps tell fuller story of America
+38030,1,Frontline soberly profiles Clinton, Trump in ’The Choice’
+38137,1,Atlanta Braves say farewell to Turner Field
+38175,1,E! cameras were not rolling during Kim Kardashian’s Paris robbery
+38360,1,Where it’s hardest to be a girl
+38361,1,Freida Pinto: This is revolutionary
+38363,1,Michelle Obama: This issue is personal for me
+38628,1,LGBT Rights Milestones Fast Facts
+38728,1,’Making a Murderer’s’ Brendan Dassey ordered released from prison
+38736,1,’Sanctuary cities’ gird for Trump White House
+39025,1,Injured ’Punkin Chunkin’ producer disappointed show is off, faces long recovery
+39075,1,Syfy’s ’Incorporated’ imagines ravaged future
+39116,1,Mike Pence’s new neighbors put up LGBT pride flags in protest
+39134,1,Inside the mind of ’Mad Dog’ Mattis
+39324,1,’Days of Our Lives’ star Joseph Mascolo dies at 87
+39687,1, 2016 Presidential Campaign Hacking Fast Facts
+39702,2,Carrie Fisher: sexiness and cynicism
+39737,1,Snowboarding Olympians: ’It’s really scary!’
+40234,1,Suge Knight arrested in fatal hit-and-run
+40264,1,’The Evil Hours’: Lessons of PTSD
+40320,1,Zuckerberg, wife give $75M to San Francisco hospital
+40433,1,Barack Obama’s presidency
+40486,1,Mistakes made at cold case trial, but murder verdict sticks
+40599,1,’Unparalleled’ photos of the civil rights era
+40687,1,Minister Creflo Dollar asks for $60 million for a jet
+40795,3,Opinion: When fans turn vile we all lose
+40842,1,Ted Cruz announces 2016 presidential bid
+40908,1,Can this Democrat really beat Hillary Clinton?
+40924,5,Denise Huskins’ abduction: Lawyers defend boyfriend
+41372,1,Infertility: Why don’t more people talk about it?
+41389,1,Famed Middle East writer Sandra Mackey dies
+41427,1,Petraeus sentenced: 2 years probation $100K fine
+41594,2,San Francisco text scandal: Police arrests questioned
+42764,1,From ’Balloon Boy’ to heavy metal rocker
+42794,1,First look at the ’Walking Dead’ prequel series
+42855,1,Loch Ness hunter: Have we been catfished by Nessie?
+42959,1,Polaroids show iconic artists in New York
+43117,1,It’s time for Trump to come to his senses on nuclear weapons
+44032,1,Michael Lewis on how to deal with bosses and control your own career
+44523,1,Police say dozens of people swarmed a San Francisco Bay Area train in weekend robbery
+45187,1,Shooting at San Francisco UPS facility leaves at least 3 dead
+45269,2,Ex-convict arrested in plot to attack a bar on New Year’s Eve was known as an ’impressionable’ panhandler
+45458,2,Silicon Valley’s largest taxi company just became the first high-profile causality of Uber’s war
+45566,1,Meet Twitter’s new product chief: Jack Dorsey
+45801,1,John Kasich’s momentum seems to be carrying into South Carolina
+45932,1,ISIS is losing its best recruiting tool
+46608,1,Victoria’s Secret might become the next Abercrombie & Fitch
+46816,1,One of the most painful lessons ever learned in finance has finally come to politics
+47013,1,California lifted its mandatory water restrictions — that could be a huge mistake
+48218,1,Why you must watch this movie about one of the most horrific moments in TV history
+48302,1,The head of the Chicago Police Department wants to fire the officers involved in the Laquan McDonald shooting
+49129,1,A Texas official is walking back an obscene tweet about Hillary Clinton
+49385,1,Saying 2 words most of us overlook can save your tired relationship
+49411,2,25 Wall Street movies to watch over Thanksgiving
+49543,1,A 58-story skyscraper in San Francisco is sinking — here’s why it probably won’t fall
+49857,1,The Atlantic Daily: Turning Points
+49876,1,Tweeting Mao’s Cultural Revolution in Real-Time
+49895,1,The Republicans Who Want Trump to Fight Climate Change
+49918,1,From Diversity to Desk Chairs: This Week’s Top 7 Education Stories
+49942,1,What’s Behind the New Wave of Transgender ’Bathroom Bills’
+49955,1,The Atlantic  Politics & Policy Daily: Mamma Mia!

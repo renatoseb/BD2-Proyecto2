@@ -1,0 +1,325 @@
+330,1,William Peter Blatty, Author of ‘The Exorcist,’ Dies at 89 - The New York Times
+407,1,Life on the Farm Draws Some French Tired of Urban Rat Race - The New York Times
+523,1,Is This Los Angeles’s $600 Million Man? - The New York Times
+723,2,Science Will Suffer Under Trump’s Travel Ban, Researchers Say - The New York Times
+756,1,The Quebec City Mosque Victims: Professor, Butcher, Computer Technician - The New York Times
+852,2,A Free Speech Battle at the Birthplace of a Movement at Berkeley - The New York Times
+868,1,In Fall of Gorsuch’s Mother, a Painful Lesson in Politicking - The New York Times
+918,1,In Age of Trump, Scientists Show Signs of a Political Pulse - The New York Times
+993,1,Biden Gets a Job, and Obama Goes Kitesurfing - The New York Times
+1050,3,Yale Will Drop John Calhoun’s Name From Building - The New York Times
+1136,1,Israeli Settlement Sees Friendly Faces in Trump Administration - The New York Times
+1198,1,Beyond ‘Hidden Figures’: Nurturing New Black and Latino Math Whizzes - The New York Times
+1326,1,California Today: On Catalina, the Drought Is Far From Over - The New York Times
+1334,2,Mildred Dresselhaus, the Queen of Carbon, Dies at 86 - The New York Times
+1539,1,Protesters Disrupt Speech by ‘Bell Curve’ Author at Vermont College - The New York Times
+1632,1,Talking Trumpism: A New Political Journal Enters the Fray - The New York Times
+1661,1,The Rise, Then Shame, of Baylor Nation - The New York Times
+1701,1,Marilyn Young, Historian Who Challenged U.S. Foreign Policy, Dies at 79 - The New York Times
+1795,1,He Didn’t Like ‘Homeland.’ Now He’s Advising It. - The New York Times
+1829,1,Amid ‘Trump Effect’ Fear, 40% of Colleges See Dip in Foreign Applicants - The New York Times
+2045,1,Going Under the Knife, With Eyes and Ears Wide Open - The New York Times
+2054,1,Former Penn State President Found Guilty in Sandusky Abuse Case - The New York Times
+2204,1,Credit Cards Encourage Extra Spending as the Cash Habit Fades Away - The New York Times
+2230,3,North Carolina’s Dominance Fails to Cover Cheating’s Stain - The New York Times
+2455,2,Getting Workers to Save More for Retirement - The New York Times
+2501,1,Why Deep Breathing May Keep Us Calm - The New York Times
+2572,1,The World Is Full of Dogs Without Collars - The New York Times
+2731,1,Obama Swipes at Trump, but Doesn’t Name Him, in Speech at Rutgers - The New York Times
+2750,6,George Mason University Firms Up Plan to Name Law School for Scalia - The New York Times
+2753,1,Mississippi District Ordered to Desegregate Its Schools - The New York Times
+2802,8,Dreams Stall as CUNY, New York City’s Engine of Mobility, Sputters - The New York Times
+2849,1,In Sumner Redstone Affair, His Decline Upends Estate Planning - The New York Times
+2856,2,Michelle Obama Denounces Donald Trump in CUNY Commencement Speech - The New York Times
+2963,1,Weasels Are Built for the Hunt - The New York Times
+3253,1,Dallas, Republican Party, Britain: Your Monday Evening Briefing - The New York Times
+3254,1,Texas Open-Carry Laws Blurred Lines Between Suspects and Marchers - The New York Times
+3263,2,John Brademas, Indiana Congressman and N.Y.U. President, Dies at 89 - The New York Times
+3474,1,College Students Protest, Alumni’s Fondness Fades and Checks Shrink - The New York Times
+3529,4,M.I.T., N.Y.U. and Yale Are Sued Over Retirement Plan Fees - The New York Times
+3623,1,Mark Twain Found Inspiration in Germany (Though Not German) - The New York Times
+3731,1,Saudis and Extremism: ‘Both the Arsonists and the Firefighters’ - The New York Times
+3736,1,University of Texas Students Find the Absurd in a New Gun Law - The New York Times
+3748,2,University of Chicago Strikes Back Against Campus Political Correctness - The New York Times
+3817,1,Georgetown University Plans Steps to Atone for Slave Past - The New York Times
+3818,3,‘Private Hell’: Prep School Sex Abuse Inquiry Paints Grim Picture - The New York Times
+3877,1,ITT Educational Services Closes Campuses - The New York Times
+4096,1,Ed Temple, Track Coach Who Produced Olympians and National Titles, Dies at 89 - The New York Times
+4212,1,3 Who Studied Unusual States of Matter Win Nobel Prize in Physics - The New York Times
+4377,1,Wall Street Dealmaker Says Professor Took Him for a Ride - The New York Times
+4406,2,Brigham Young Students Who Report Sexual Assault Won’t Face Honor Code Sanctions - The New York Times
+4451,1,A Traumatized Brain That Helped Heal a Broken Heart - The New York Times
+4611,1,How Rudolph Giuliani, Possible Cabinet Pick, Made Millions as Ex-Mayor - The New York Times
+4738,1,Suspect Is Killed in Attack at Ohio State University That Injured 11 - The New York Times
+4746,1,Hampshire College Draws Protests Over Removal of U.S. Flag - The New York Times
+4889,1,On Campus, Trump Fans Say They Need ‘Safe Spaces’ - The New York Times
+5081,1,Tragedy Made Steve Kerr See the World Beyond the Court - The New York Times
+5234,1,How Hillary Clinton Became a Hawk - The New York Times
+5299,1,Donald Trump’s Docket: A Look at His Supreme Court Wish List - The New York Times
+5342,5,U.C.L.A. Gunman May Have Targeted 2nd Professor and Killed Woman - The New York Times
+5547,1,Wharton Business School Backers Seek Distance From Donald Trump - The New York Times
+5550,2,Dr. Paid Less: An Old Title Still Fits Female Physicians - The New York Times
+5713,2,How to Live Wisely - The New York Times
+5792,2,What University of Texas Campus Is Saying About Concealed Guns - The New York Times
+5916,1,Can You Erase the Trauma From a Place Like Sandy Hook? - The New York Times
+6026,1,Objects From New York’s Buried Past Find a New Home in Midtown - The New York Times
+6060,3,A Divisive President at City College, and a Long List of Personal Expenses - The New York Times
+6127,1,No Kegs, No Liquor: College Crackdown Targets Drinking and Sexual Assault - The New York Times
+6264,1,Justin Trudeau Faces Criticism Over Fund-Raisers in Canada - The New York Times
+6544,3,Daniel J. Berrigan, Defiant Priest Who Preached Pacifism, Dies at 94 - The New York Times
+6690,1,Front-Page Editorials Aim to Soothe the Grief-Stricken - The New York Times
+6853,1,Campuses Cautiously Train Freshmen Against Subtle Insults - The New York Times
+6966,3,Trepidation at City College in Wake of President’s Abrupt Exit - The New York Times
+7082,1,Yale Sets Policy That Could Allow Renaming of Calhoun College - The New York Times
+7084,4,Campus Press vs. Colleges: Kentucky Suit Highlights Free-Speech Fight - The New York Times
+7177,3,A Majority Agreed She Was Raped by a Stanford Football Player. That Wasn’t Enough. - The New York Times
+7184,1,Prep Schools Wrestle With Sex Abuse Accusations Against Teachers - The New York Times
+7199,5,Yale Defies Calls to Rename Calhoun College - The New York Times
+7223,3,In Mexico City, a Battle Over a Building and the Art in Its Shadow - The New York Times
+7332,6,Grad Students Win Right to Unionize in an Ivy League Case - The New York Times
+7362,1,Pneumonia, Polyps and Gunshots: A Short History of Presidential Health - The New York Times
+7529,1,Provost Resigns Amid Sexual Harassment Case at Berkeley - The New York Times
+7593,1,At Rio Olympics, the National Anthem Sounds … Sad? - The New York Times
+7602,1,Hillary Clinton and Donald Trump, Ages 68 and 70, Share Few Health Details - The New York Times
+7609,5,Investigation Finds Phillips Andover Faculty Engaged in Sexual Misconduct With Students - The New York Times
+7616,1,Renée Zellweger Is Back and Standing Up for Herself - The New York Times
+7714,1,Intent on a Reckoning With Georgetown’s Slavery-Stained Past - The New York Times
+7716,1,Artificial Intelligence Swarms Silicon Valley on Wings and Wheels - The New York Times
+7759,1,Refugees Discover 2 Americas: One That Hates, and One That Heals - The New York Times
+7909,8,Carr: Forty Years of Sex Abuse Catalogued at Elite NH Prep School of Kerry, Mueller - Breitbart
+7935,1,University of Colorado Regent Defends MILO, Wants More Conservative Voices on Campus - Breitbart
+7963,1,Chicago Paper: Make All Universities ’Sanctuary Campuses’
+7986,1,DELINGPOLE: ’Penises Cause Climate Change’ Progressives Fooled by Peer-Reviewed Hoax Study - Breitbart
+8226,1,Evergreen State Spokesperson Lies to Press, Says Weinstein has Returned to Campus - Breitbart
+8314,1,UW-Madison Student Activists Cite Black Lives Matter, Demand ’Community Control’ of Campus Police - Breitbart
+8593,1,Texas College Declines Sanctuary Campus ’Right Now’
+8649,1,Black Students at University of Michigan Demand Segregated Space
+8719,1,Black Harvard Students Holding a Graduation of Their Own - Breitbart
+8729,1,Hungarians Back Orban’s ’Anti-Soros’ University Law
+8731,1,Mike Pence to Grove City Grads: Persist Fearlessly in the Face of Criticism - Breitbart
+8815,1,UC Davis Lied To Us, Say College Republicans, Forcing Us to Cancel MILO Event - Breitbart
+8829,4,University of Arizona Instructs Students to Say ’Ouch!’ when Offended - Breitbart
+9005,1,Cornell University Students, Faculty Demand College Provide Funding to Illegal Immigrants - Breitbart
+9393,1,LA College pays $28K Ransom to Free Student, Faculty Data
+9533,1,Emory University to Pay for ’100 Percent’ of Undocumented Students’ Financial Aid - Breitbart
+9718,6,Ohio Colleges Demand Students Remain Defenseless Despite Campus Carry Law - Breitbart
+9750,12,Bucknell Faculty Dismiss Academic Freedom of Expression Bill - Breitbart
+10027,3,University of Chicago: Why Milo Scares Students, and Faculty Even More - Breitbart
+10132,1,Judges Inventing New Reasons to Obstruct Donald Trump’s Popular Immigration Reforms - Breitbart
+10322,1,British Government Will Instruct Universities To Defend Freedom of Speech - Breitbart
+10343,1,Donald Trump to Announce Supreme Court Nominee Next Week
+10879,1,DHS Pauses Fast-Track H-1B Approvals for Six Months - Breitbart
+11084,1,Student Petitions for School’s Name Change: Slave Owner James Madison’s Name Means Black Students ‘Unsafe’ - Breitbart
+11111,1,Privacy Group Sues NYPD over Freedom of Information Request on Facial Recognition Program - Breitbart
+11446,1,Evergreen President ’Deeply Disappointed’ by Protesters, Says They May Face Punishments - Breitbart
+11628,1,Armstrong and Green: What Does the March for Science Mean by ’Science’?
+11918,1,Thomas Jefferson: Government’s Role is Defense of God-Given Rights - Breitbart
+11997,1,Trump: Confidence In Economy ’Has Reached Levels Not Seen In Many, Many Years’ - Breitbart
+12118,1,’Anti-Fascists’ Plan to ’Shut Down’ MILO’s Event at UC Berkeley - Breitbart
+12168,1,Berkeley Police Arrest Local Professor for Allegedly Beating Trump Supporters with Bike Lock - Breitbart
+12350,1,Tech Billionaires Create Fund to Prevent Robot Apocalypse - Breitbart
+12394,5,Tennessee Enacts Nation’s ’Most Comprehensive’ Campus Free Speech Law
+12449,5,California College Professor Who Called Trump’s Win an ’Act of Terrorism’ Nominated for Campus Award - Breitbart
+12668,1,Penn State Nixes ’Sanctuary Campus’ Plan
+13178,4,Barnard College Diversity Task Force Wants a Chief Diversity Officer, Social Justice Workshops - Breitbart
+13423,1,When Fake News Hurts: Media Hype Fears of Antisemitism
+13706,3,Baylor Petitions for Sanctuary Campus Status
+13766,1,Poll: Pennsylvania Gov. Tom Wolf’s Approval Rating Less Than 35 Percent as He Seeks to Redefine ‘Sex’
+13814,1,McCain Lights Up Social Media with Comey Questioning: ‘Shouldn’t Stay Up Late Watching the Diamondbacks’
+13818,1,Berkeley Mayor, Police Union Blame University for Milo Riot
+13911,2,Duke Professor Facing Disciplinary Action for Criticizing ’Diversity Training’ - Breitbart
+14323,5,Cedarville University Embraces Ohio’s Campus Carry Law, Arms Faculty
+14340,1,***LIVE UPDATES*** MILO UC Berkeley Show Evacuated As Masked Anti-MILO Protesters Start Fires, Swarm Building - Breitbart
+14452,1,Active Tuberculosis Confirmed at Middle School in Texas - Breitbart
+14626,1,Professors and Students Plan Trips to Attend Anti-Trump Women’s March on Washington - Breitbart
+14634,1,Public University of Illinois Spends $60 Million on Diversity Initiatives - Breitbart
+14864,1,University of Iowa Hosts ’White Privilege’ Conference to Educate Students About ’Whiteness’ - Breitbart
+14899,1,Senator Chuck Grassley: Free Speech Is Under Assault on College Campuses - Breitbart
+15332,4,Elite Boarding School Admits Decades of Sexual Abuse
+15345,7,Report: Evergreen State College Faculty Donate Overwhelmingly to Democrats - Breitbart
+15426,3,The Night Berkeley Betrayed The Free Speech Movement - Breitbart
+15622,1,Northwestern University Historian Claims Christianity Poses Bigger Threat Than Islamic Terrorism - Breitbart
+15912,2,Seven Test Positive for Latent TB at Nebraska High School Where Active Case Was Diagnosed
+16136,1,CSULA Students Vote to Fire University President for Letting Shapiro Speak - Breitbart
+16167,2,Fox News’ Michael Malice: ’Going to Bucknell Was the Worst Decision of My Life’ - Breitbart
+16477,1,Shooting Victim Went Door-to-Door for Neighborhood Watch Group
+16572,2,Ohio University Offers ’Safe Space’ for Students Triggered by Republican National Convention - Breitbart
+16640,1,Uniformed Officer ’Escorted’ From Classroom: Teacher ’Uncomfortable’ With Gun - Breitbart
+16696,1,Pro-Trump Graffiti Spooks Spanish Immersion School - Breitbart
+16761,1,Infamous Former Mizzou Professor Melissa Click Hired by Gonzaga University - Breitbart
+16769,1,Students ’Afraid’ After Pro-Trump Chalk Messages Appear on Campuses Across America - Breitbart
+16790,1,There Have Been Over 100 Hate Crime Hoaxes In The Past Decade - Breitbart
+17401,1,Trolls Will Save The World - Breitbart
+17405,1,SC High School Bans American Flag From Football Games - Breitbart
+17513,1,Murder-Suicide at UCLA - Breitbart
+17720,2,Soros Finances Group Helping Facebook Flag ‘Disputed’ Stories
+17768,2,The Craziest Writings Of Social Justice Warrior Academics
+18002,2,Facebook ‘Fact-checker’ Poynter Concerned White House Correspondents’ Dinner Could Be ‘Disastrous’ Under Trump
+18012,1,DePaul Students Traumatized by Pro-Trump Message, Rope Found After Milo Visit - Breitbart
+18057,1,Students Demand ’Sanctuary Campus’ for All Migrants
+18160,7,Banishment of Western Civilization at Stanford Shows Pervasive Cultural Rot - Breitbart
+18223,1,Jefferson Muzzle Awards Blast Universities for Valuing ’Identity Politics, Trigger Warnings,’ And Safe Spaces over Free Speech - Breitbart
+18267,3,DePaul President Capitulates To Outraged Anti-Milo Students, Tenders Resignation - Breitbart
+18692,3,Auburn University Professor Praises MILO During Q&ampA - Breitbart
+18721,1,German Maths Professor Fired Over Islam Criticism
+19049,1,Fatah Leader Describes Terrorists As Miracle Workers
+19070,2,Campus Carry Heads to Full Senate Vote in Tennessee - Breitbart
+19252,1,Rap Sheet: The Women Who Claim to Be Victims of Bill and Hillary Clinton - Breitbart
+19279,1,Mizzou Faces $32m Deficit, 20 Percent Decline In Enrolment After Last Year’s Protests - Breitbart
+19295,6,University of Minnesota Faculty Embraces Free Speech Following Milo Visit - Breitbart
+19322,1,Pro-Trump Students Confront Anti-Chalk Protesters at UCSB Rally - Breitbart
+19362,1,Professor Calls for Shooting at NRA HQ, Asks for ’No Survivors’ - Breitbart
+19368,1,‘Black Panther’ Couple Wanted to Kill Cops, Start Race War
+19420,1,Greta Van Susteren: ‘Anyone in the Media Telling Michelle Fields to Prosecute That Claim Was Using Her’ - Breitbart
+19449,5,Students and Faculty Form ’Columbia Against Trump’ Group - Breitbart
+19557,1,University of North Carolina: Christmas, Golf, Compliments Are Hostile ’Microaggressions’ - Breitbart
+19584,1,Texas School Shocked -- Principal Arrested for Soliciting Minor Online
+19670,1,Tennessee Bill Would Ban Punishment for Offensive Speech, ’Microaggressions’ at Universities - Breitbart
+20029,1,Breitbart Predicted Black Lives Matter Now We’ll Predict What’s Coming Next
+20051,1,John Boehner: Ted Cruz Is A ‘Miserable Son Of A Bitch’ - Breitbart
+20066,1,Justice Antonin Scalia Dies at Age 79 - Breitbart
+20139,2,If Georgetown Conservatives Are ’Traumatized’ by Criticism of Scalia, They Should Grow Up - Breitbart
+20163,3,New Blacklist: Bucknell Class President Removed After Bringing Conservative Speakers to Campus, Taking Job at Breitbart - Breitbart
+20567,1,Anti-Semitism on U.S. College Campuses Skyrockets
+20686,4,Berkeley Sends Email To Faculty Calling For Coddling of Undocumented Students - Breitbart
+20772,3,Northwestern to Quadruple Safe Spaces for Black Students After Complaints - Breitbart
+20868,1,University of Wisconsin-Madison to Hire More Counselors to Address Microaggressions - Breitbart
+21047,1,Ben Shapiro Torches Cal State LA Faculty in ’Diversity’ Speech
+21137,2,DePaul Sociology Professor Angrily Resigns Over Milo Visit - Breitbart
+21156,1,Professor Goes on Leave After Comparing Black Lives Matter to KKK - Breitbart
+21372,1,’Eco Sexuals’ Boast of Masturbating Under Waterfalls and F**king Trees To Save The Planet
+21564,2,University of Utah and Planned Parenthood Fund ‘Sex Week’ to ‘Deconstruct Reproductive Oppression’ - Breitbart
+21809,4,It’s Conservatives Who Need ’Safe Places’ on Campus - Breitbart
+21902,5,George Mason’s Law School Named in Honor of Justice Scalia - Breitbart
+22149,5,Stanford Students Demand Non-White University President, Microagression Policing - Breitbart
+22242,1,Oklahoma Wesleyan President to Be Honored at CPAC: ’Lie of Postmodernity’ to Blame for Campus Radicalism - Breitbart
+22375,1,Skidmore College: ’Make America Great Again’ Whiteboard Messages a Racist Attack - Breitbart
+22448,1,Hate Hoax: Student Arrested for Alleged Nazi, Anti-Semitic Graffiti
+22496,1,Obama’s College Days Memorialized in Pasadena Plaque - Breitbart
+22588,1,Bolton: Republican Candidates ‘Who Backed Away from Trump’ Lost
+22624,1,Campus Carry Passes in Alaska Senate Committee - Breitbart
+22793,2,Trump Apologizes to Pocahontas’ for Comparing to Elizabeth Warren
+23037,3,DePaul’s Black Faculty Members Present List Of Demands To College Following Milo Visit - Breitbart
+23214,1,Student Newspaper Suing University After Being Defunded for Mocking ’Safe Spaces’ - Breitbart
+23246,1,Dean Pulls College Newspaper over Concerns Foul Language ’May Be Upsetting’ to Students - Breitbart
+23675,5,Catholic Scholar Attacked for Catholic Views at Catholic College - Breitbart
+23729,3,Jesuit University Moves to Fire Conservative Professor Over His Political Views - Breitbart
+23818,1,’Dear White People’ TV Series Gets Green Light at Netflix - Breitbart
+23962,1,East Carolina University Says Anti-American Anthem Protest By Band Won’t Be Tolerated - Breitbart
+23972,1,Colleges Spending Millions on Sexual Misconduct Lawsuits - Breitbart
+23975,1,Roger Stone: It’s Time America Got Some Answers About Huma Abedin - Breitbart
+24023,1,The People Who Braved The Storm In Washington D.C. For The March For Life - Breitbart
+24028,1,Jobs Report Lays Bare Liberal Failures - Breitbart
+24202,2,Obamacare Pressures California University to Fire U.S. Professionals, Hire Foreign H-1B Workers
+24321,3,GOP Urges Firing of Mizzou Professor Who Called for ‘Muscle’
+24353,2,Fake News: No, the Pope Hasn’t ‘Softened’ Teaching on Abortion
+24599,1,Second Amendment Voter’s Guide: Trump vs. Clinton - Breitbart
+24715,1,FULL TEXT: ’How To Destroy The Alt Right’ By MILO - Breitbart
+25352,1,Princeton Will Keep Woodrow Wilson’s Name for Public Policy School Despite Student Protests - Breitbart
+25388,1,Janet Napolitano Attacks ’Free Speech Darwinism’
+25639,1,Jesuit Georgetown Joins Planned Parenthood in Promoting Abortion as Zika Remedy - Breitbart
+26012,4,The New Melissa Click: Meet the American U Professor Who Called Police on Journalists Covering the Milo Protest - Breitbart
+26021,1,Exclusive: Journalist Arrested Outside Milo Mayhem Event Tells His Story - Breitbart
+26151,1,Black Conservative Speaker Reinvited to Virginia Tech After Cancellation over Concerns of Student Protest - Breitbart
+26176,1,African Cardinal Slams Jesuit Georgetown for Hosting Planned Parenthood Prez - Breitbart
+26293,1,Milo Yiannopoulos’ Plan to Wear Native American Costume to Yale Causes Chaos - Breitbart
+26345,1,Islamic State Turns Mosul Chemistry Lab into Bomb Factory
+26426,1,Stanford Report: California Public Pension Debt Up 19% to $964.4 Billion - Breitbart
+26427,3,Bucknell Refuses to Back Down over Removal of Breitbart Writer Tom Ciccotta - Breitbart
+26459,1,High School Forces Kids to Attend ’Racial Identity’ Classes
+26478,1,Supreme Court Justice Clarence Thomas Left Nice Hours Before Attack - Breitbart
+26573,2,CA Universities Named Among ’Worst Colleges for Jewish Students’
+26622,1,Public University Hosts ’Non-Partisan’ Get-Out-The-Vote Event with Chelsea Clinton - Breitbart
+26645,2,Universities Hide Workforce of 100,000-plus H-1B Employees
+26660,1,Race-Baiting Oxford Rhodes Scholar: Assaults White Student Blames ’White Violence’
+26953,1,‘Shake It Off’ Elizabeth Warren Sings Taylor Swift To Combat Donald Trump - Breitbart
+26958,1,Students Demand Removal of Columbus Statue, Say It’s ’Celebration of Genocide’ - Breitbart
+27107,4,California Professor Calls Trump’s Win ’Act of Terrorism’
+27154,2,Student Diagnosed With TB at Nebraska School Where 18 Percent Are Refugees - Breitbart
+27355,1,Christina Hoff Sommers And Camille Paglia On Coddled Students And Fainting-Couch Feminists - Breitbart
+27375,2,Jesuit Marquette University Suspends Professor over Same-Sex Marriage Debate - Breitbart
+27816,1,UC Berkeley ’Income Inequality’ Experts Are Among Wealthiest 2pc of Americans - Breitbart
+28100,1,EXCLUSIVE: Portland Campus Radicals Plan Shutdown of Students for Trump Event Today - Breitbart
+28140,1,Carson Calls For ’Secret Shopper’ Monitoring of Government Agencies, Schools - Breitbart
+28609,1,After Minimum Wage Hike, UC Berkeley Cuts 500 Staff - Breitbart
+28644,4,EXCLUSIVE—Dick Morris: Hillary Will ‘Feast’ on Rubio’s Finance Scandals, Voters ‘Must Demand Truth’ - Breitbart
+28684,1,22 Dead in Pakistan University Taliban Attack
+28739,1,5 Police Officers Killed, 6 Wounded by Snipers in Dallas #BlackLivesMatter Protest
+28945,2,University of Miami Cancels MILO Event, Citing ’Security Concerns’ - Breitbart
+29011,1,Georgetown University Issues ‘Mea Culpa’ for Complicity in Slave-Trade - Breitbart
+29329,1,FULL TEXT: MILO Explains The Patriarchy At Ohio University - Breitbart
+29613,1,UConn President Releases Plan to Protect Illegal Immigrants on Campus - Breitbart
+29668,1,Harvard Bans Students from Joining Single-Sex ’Final Clubs’ - Breitbart
+29703,2,Harvard Rejects ’Sanctuary Campus’ Ask
+29891,1,Former Congressman Banned from Seminar over ’Islamophobia’
+29976,3,We’re Winning: Rutgers University President Defends Free Speech Following Milo Yiannopoulos Visit - Breitbart
+30003,1,How BuzzFeed Editor Craig Silverman Helped Generate the ’Fake News’ Crisis - Breitbart
+30176,1,Public High School Launches Club ‘To Support the Goals of Planned Parenthood’ - Breitbart
+30323,1,Yale Students Demand Removal of White Authors from Curriculum - Breitbart
+30397,1,No Disciplinary Action from Univ. of Tennessee for Instapundit over Charlotte Riots Tweet - Breitbart
+30463,1,Students Ask Professors to Stop Quoting Thomas Jefferson at University He Founded - Breitbart
+30488,1,Egypt Pens Legislation to Ban Niqab in Public Places
+30674,1,Gay Author Decries Transsexual Gender Switching, Calls for Sexual Diversity - Breitbart
+30693,3,DePaul Gender Studies Dept. Release Statement Slamming President
+31183,2,Trump’s Secret Weapon: Ivanka Campaigns in Critical Battleground North Carolina - Breitbart
+31536,1,Trump: ’I Have the Best Temperament, a Winning Temperament’
+32284,1,Trump travel ban: Here’s what you need to know
+32335,1,The end of air conditioning? Asia architects use green solutions to cool buildings
+32548,1,Trump furious after court upholds block on travel ban
+32569,1,Protesters block DeVos at public school
+32656,1,Hip-hop group: DeVos is bad for the inner cities
+32773,1,Recep Tayyip Erdogan Fast Facts
+32822,1,5 things to watch for in a new travel ban
+33175,1,Kabul hospital attack leaves 30 dead
+33332,2,Judges address legal future of travel ban Wednesday
+34123,3,War on campus: The escalating battle over college free speech
+34515,1,Madeleine Albright Fast Facts
+34609,1,Henry Kissinger Fast Facts
+34927,1,After homicide, black U. of Maryland students demand change -- and get it
+35119,1,US School Violence Fast Facts
+35478,1,Muslims keep alive Kolkata’s Jewish heritage
+35746,2,Rebounding after tragedy: Will Orlando club reopen?
+36185,1,Wharton students to Trump: ’You do not represent us’
+36477,1,Clinton’s new VP pick could be point man on guns
+36556,1,Breaking the ultimate glass ceiling
+36643,1,Janet Yellen Fast Facts
+36902,1,Gupta: DEA’s missed opportunity on medical marijuana
+37224,3,Kabul siege: 12 killed in attack on American University
+37227,1,Paul Volcker Fast Facts
+37400,1,University of Kentucky sues student newspaper
+37790,1,Teacher serenaded by students dies
+38084,2,Sexual harassment in STEM: ’It’s tragic’
+38362,1,What would happen if you experienced Trump’s brag?
+38642,1,’Make America White Again’: Hate speech and crimes post-election
+38928,1,This is the best building in the world
+39052,1,Chattanooga bus crash: About the driver
+39775,1,Expats: School must survive US-Russia showdown
+40329,4,Harvard tells professors: No more sex with undergrads
+40663,1,University of Okahoma: Who are the 2 frat students?
+40767,1,Martese Johnson: Uproar after black UVA student injured
+40933,1,Vote to ax Ole Miss Chancellor Dan Jones riles alums
+40947,1,An ingredient to a long life, in your cereal bowl
+41068,1,Duke University: Student admits hanging noose on campus
+41081,1,Lawsuit: Guatemalans deliberately infected with STDs
+41348,9,Doctors want Mehmet Oz to resign position at Columbia
+41710,2,Valencia College sued over forced vaginal exams
+41780,1,The fall and rise of lawyers
+41795,1,Thad Cochran marries longtime aide
+42206,2,Vince Vaughn and NRA remedy for gun violence: more guns
+42263,1,Celebrities aid family devastated by rare disease
+42274,1,Female scientists prove they’re #distractinglysexy
+43820,1,Harvard president explicitly criticizes Trump: ’This administration seems unpredictable in many ways’
+43921,1,Hawaii was the first state to challenge Trump’s new travel ban — here’s why it says the order is still unconstitutional
+45426,1,A Caltech astrophysics ’rising star’ professor allegedly fell in love with his student and then fired her
+45439,2,Another college president is stepping down amid protests of racial injustice on campus
+45615,1,The leaked email that ex-Mizzou President Tim Wolfe sent to friends is shockingly tone-deaf
+45768,1,Hong Kong’s ’One Country, Two Systems’ is unraveling
+46139,2,Dean of prestigious law school takes ’indefinite leave of absence’ after sexual harassment lawsuit
+46747,1,Students threw fake $1 million bills at Yale University’s president during an intense town-hall meeting
+46797,1,Professors at Tennessee public colleges will soon be able to carry guns on campus
+46850,1,Harvard announced it will bar members of single-sex clubs, like sororities and frats, from campus leadership positions and sports
+47001,1,The University of Cambridge is planning one of the most expensive business degrees in the world
+47105,3,Russia’s elites are buying into a black market for a strange commodity
+48556,3,The most disturbing aspect of a sexual-abuse scandal at an elite, New England prep school
+49837,2,Ten American Foreign Policy Luminaries Who Died in 2016
+49925,2,The Value of Fighting Attacks on Free Speech Early and Often

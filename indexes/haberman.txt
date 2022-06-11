@@ -1,0 +1,66 @@
+417,2,A Trump Inauguration Casualty: The Silent, Smiling Rockettes - The New York Times
+776,1,‘The Daily’: Making Sense of the Gorsuch Pick - The New York Times
+2194,1,Who’s Worth What at the White House: The Financial Disclosures - The New York Times
+2577,1,Our Woman in New York: Primary Day, at Last - The New York Times
+3966,1,Turning Points: Rethinking a Campaign Cliché - The New York Times
+4207,1,Tim Kaine, Mike Pence, Donald Trump: Your Tuesday Evening Briefing - The New York Times
+4471,1,Your Election Day Questions, Answered - The New York Times
+4695,1,Audio: Inside the Room With President-Elect Donald Trump - The New York Times
+5093,3,Alec Baldwin, in His Own Words, on Playing Trump - The New York Times
+5208,1,Our Woman in New York: Donald Trump, Hillary Clinton and Bernie Sanders on Friendly Turf - The New York Times
+5829,3,What Donald Trump and Anthony Weiner Have in Common - The New York Times
+5976,1,How The New York Times Will Fact-Check the Debate - The New York Times
+6262,5,Donald Trump’s New York Times Interview: Full Transcript - The New York Times
+7762,2,Donald Trump’s New York Times Interview in 12 Tweets - The New York Times
+8403,2,Inauguration Coverage, Day Three: Live Updates - Breitbart
+11061,1,John Podesta: Press Did Not Play Up Russia Conspiracies Enough During Election - Breitbart
+11437,3,NY Times’ Haberman: Reports Bannon ’Neutered’ Fake News
+11494,2,WH Press Secretary Sean Spicer Blasts Media’s ’Deliberately False Reporting’ - Breitbart
+13675,1,New York Times: Jared Kushner ’Spent the Sabbath in Fretful Seclusion’ - Breitbart
+14670,2,Reince Priebus Defends Paul Ryan Amid Failure - Breitbart
+17082,1,Breitbart News Daily: South Carolina in Focus - Maggie Haberman and Richard Viguerie - Breitbart
+17963,1,***2016 LiveWire*** Trump Introduces Pence as Running Mate - Breitbart
+19072,1,NYT: Trump’s Presidential Run Began Quietly - Breitbart
+19607,1,NY Times: Donald Trump Allies Focus Anger on Paul Ryan, GOP Leaders - Breitbart
+21132,1,CNN Report: Iowa GOP Sen Joni Ernst Being Considered for Trump VP - Breitbart
+21196,1,***Horse Race LiveWire*** Trump, Clinton Riding Momentum After Big NY Wins - Breitbart
+21250,2,***Live Updates*** Trump, Clinton Share Stage at Annual Al Smith Charity Roast - Breitbart
+21356,1,Live Updates: Search for NY-NJ Bombing Suspect Ahmad Khan Rahami - Breitbart
+21400,1,***Horse Race LiveWire*** Sanders Looks to Sweep Alaska, Washington, Hawaii - Breitbart
+23133,1,NYT: ’Unlikely Savior’ George W. Bush to Help Endangered Republicans - Breitbart
+23137,1,FULL TEXT: MILO On The Supreme Court And Why Conservatives Must Vote For Trump - Breitbart
+24010,2,***Horse Race LiveWire*** Ted Cruz Fights On - Breitbart
+24110,3,***Horse Race LiveWire*** Nevada: Hillary Beats Bernie Trump Projected to Win South Carolina - Breitbart
+24148,1,***Live Updates*** Trump vs. Clinton, Round One - Breitbart
+24389,1,NYTIMES: In Donald Trump’s Worldview, America Comes First, and Everybody Else Pays - Breitbart
+24758,1,Wikileaks: Journalists Dined at Top Clinton Staffers’ Homes Days Before Hillary’s Campaign Launch - Breitbart
+24760,1,Breitbart News Daily — LIVE in New Hampshire: Primary Season Kickoff - Breitbart
+26987,1,***Horse Race LiveWire*** One Day to Super Tuesday - Breitbart
+27037,2,***Live Updates*** Pence, Kaine Square Off in VP Debate - Breitbart
+27322,1,***2016 LiveWire*** AG Lynch Testifies Before Congress…Sanders Endorses Hillary…Pence to Campaign with Trump - Breitbart
+27349,1,Report: Mitt Romney Fired Trump Chooses Exxon CEO Rex Tillerson for Secretary of State - Breitbart
+27933,2,Maggie Haberman: ’There Were Some Supporters of Hillary Clinton Who Started the Birther Movement’ - Breitbart
+28171,1,Breitbart News Daily: American Oligarchs Plot Trump Takedown - Breitbart
+29114,2,***Live Updates*** New Hampshire Primary Results: Trump, Sanders Projected Winners - Breitbart
+29260,1,***Live Updates*** 2016 Iowa Caucuses: Cruz 28%, Trump 24%, Rubio 23% Clinton 49.9%, Sanders 49.6% - Breitbart
+29270,1,NY Times: Donald Trump, in Shake-Up, Hires Breitbart Executive Stephen K. Bannon for Top Campaign Post - Breitbart
+29311,1,***2016 LiveWire*** Trump Surges to Lead in Ohio, Nevada - Breitbart
+29360,1,***2016 LiveWire*** TX Delegates Confront Cruz: ’Your Word Is Your Bond’ - Breitbart
+29385,8,Report–Clinton Campaign: NYT’s Maggie Haberman ’Friendly Journalist’ Who ’Never Disappointed’ - Breitbart
+29447,1,***Horse Race LiveWire*** Trump Reveals Foreign Policy Team - Breitbart
+30222,1,***Horse Race LiveWire*** Chris Christie Endorses Donald Trump - Breitbart
+30462,1,Report: Donald Trump To List His Supreme Court Justice Picks This Week - Breitbart
+30911,1,***2016 LiveWire*** Trump Arrives in Mexico Before Arizona Immigration Speech - Breitbart
+31301,1,Ann Coulter: Trump Busts Muslim Protection Racket - Breitbart
+31490,1,SEN. Marco Rubio Denies ‘False’ Report Of Mitt Romney Endorsement - Breitbart
+36984,1,Clinton ’relentless’ in attacking Trump’s business record
+37800,2,Trump’s debate prep strategy
+38907,1,6 takeaways from Trump’s Times meeting
+43103,4,Joe Scarborough launches into furious, days-long tweetstorm after reporter suggests he ’partied’ with  Trump
+43379,1,The Sean Spicer meme broke through in a way almost no other political meme has
+43561,1,Watching cable news in a bathrobe and holding meetings in the dark — 9 bizarre descriptions of the Trump White House
+43693,3,A suspicious pattern is emerging for how the White House handles its most controversial plans
+44120,1,GOP DISASTER: ’TRUMPCARE’ VOTE PULLED DESPITE ULTIMATUM
+49349,2,NBC News under fire for misleading tweets about Trump chief of staff’s answer on Muslim registry
+49377,1,Trump condemns white nationalists and defends Steve Bannon from attacks in New York Times interview
+49991,1,The Atlantic  Politics & Policy Daily: Back-to-Back Sessions

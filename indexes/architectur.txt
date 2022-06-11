@@ -1,0 +1,333 @@
+2,1,Tyrus Wong, ‘Bambi’ Artist Thwarted by Racial Bias, Dies at 106 - The New York Times
+86,3,For Sale: Condé Nast Treasures - The New York Times
+217,1,The Art of Flavor at Flora Bar in the Met Breuer - The New York Times
+232,3,Israel Museum Names Director - The New York Times
+315,2,Park Service Names 24 Diverse National Landmarks - The New York Times
+436,1,Kissinger’s Files and Invisible Ink Recipes: C.I.A. Trove Has It All - The New York Times
+447,1,One President Out, Another In: You Don’t Just Hire 2 Guys With a Truck - The New York Times
+489,1,Melania Trump’s ‘America First’ Inaugural Wardrobe - The New York Times
+523,4,Is This Los Angeles’s $600 Million Man? - The New York Times
+535,4,Shanghai Dwellings Vanish, and With Them, a Way of Life - The New York Times
+596,1,Christo, Trump and the Art World’s Biggest Protest Yet - The New York Times
+614,1,British Alignment With Trump Threatens European Order - The New York Times
+634,1,On Lebanon’s Once-Sparkling Shores, a Garbage Dump Grows - The New York Times
+945,1,Syria, Travel Ban, Kabul: Your Morning Briefing - The New York Times
+951,3,Using Stealth, and Drones, to Document a Fading Hong Kong - The New York Times
+999,1,Damien Chazelle, ‘La La Land’ Director, on California’s Allure - The New York Times
+1103,1,Report Rebuts Russia’s Claims of Restraint in Syrian Bombing Campaign - The New York Times
+1115,1,Will Obamacare Really Go Under the Knife? - The New York Times
+1290,1,Like to Mock Our Weddings Pages? Get in Line - The New York Times
+1297,6,On a Design Mission in Mississippi - The New York Times
+1340,1,An Aquatic Paradise in Mexico, Pushed to the Edge of Extinction - The New York Times
+1345,2,California Today: In Virtual Reality, Investigating the Trayvon Martin Case - The New York Times
+1441,1,As France’s Towns Wither, Fears of a Decline in ‘Frenchness’ - The New York Times
+1472,6,3 Win the Pritzker, Long a Prize for Starchitects - The New York Times
+1633,3,As Dubai’s Skyline Adds a Trophy, the Architect Calls It Stolen - The New York Times
+1650,1,Republican Party, C.I.A., Syria: Your Thursday Evening Briefing - The New York Times
+1655,1,Trump Weighs Cuts to Coast Guard, T.S.A. and FEMA to Bolster Border Plan - The New York Times
+1677,1,The Guggenheim’s Greatest Hits Come Roaring Back - The New York Times
+1741,1,In Chicago and Philadelphia, the Difference a Park Makes - The New York Times
+1755,1,Intel Buys Mobileye in $15.3 Billion Bid to Lead Self-Driving Car Market - The New York Times
+2140,1,Pillars of the West Shaken by ‘Brexit,’ but They’re Not Crumbling Yet - The New York Times
+2171,1,Trump Leaves Science Jobs Vacant, Troubling Critics - The New York Times
+2302,1,As Trump Meets Xi at Mar-a-Lago, There’s a ‘Wild Card’ - The New York Times
+2313,1,Leonard Litwin, New York Real Estate Mogul, Dies at 102 - The New York Times
+2317,1,Turning Negative Thinkers Into Positive Ones - The New York Times
+2322,1,Syria, Pepsi, Stephen Bannon: Your Thursday Briefing - The New York Times
+2444,1,Along the Mekong River, a Timeless Place Where Time Marches On - The New York Times
+2552,1,The Billionaire Who’s Building a Davos of His Own - The New York Times
+2616,1,Housing Bias Outlasts Ruling in a Long Island Village - The New York Times
+2657,1,Dyson Wants to Create a Hair Dryer Revolution - The New York Times
+2674,1,Brooklyn’s Wearable Revolution - The New York Times
+2720,1,Two-Hour Marathon. Can It Be Done? - The New York Times
+2802,1,Dreams Stall as CUNY, New York City’s Engine of Mobility, Sputters - The New York Times
+2808,1,Can Donald Trump Win? These Battleground Regions Will Decide - The New York Times
+2914,1,Mecca Goes Mega - The New York Times
+2933,1,Tiny Home Test Drive - The New York Times
+2994,1,Melvin Dwork, Once Cast From Navy for Being Gay, Dies at 94 - The New York Times
+3035,1,Donald Trump Hints He May Fund Race Himself - The New York Times
+3036,1,Will Trump Swallow the G.O.P. Whole? - The New York Times
+3247,2,Forget Beanbag Chairs. Amazon Is Giving Its Workers Treehouses. - The New York Times
+3289,2,New York City Ballet Savors the City of Light - The New York Times
+3333,1,In Istanbul, Optimism Fades to a Familiar Melancholy - The New York Times
+3375,1,Jaap van Zweden: Before You See Him, Listen - The New York Times
+3415,1,Mute and Alone, He Was Never Short of Kind Words or Friends - The New York Times
+3418,1,Meet the New Owner of the Playboy Mansion - The New York Times
+3549,1,The Divorce Diet? Losing a Spouse and Some Pounds, Too - The New York Times
+3710,1,Rio Games Highlight Problems With the Olympic Model - The New York Times
+3749,2,Venus Williams, Off the Court - The New York Times
+3754,3,Quake Exposes Italy’s Challenge to Retrofit Its Architecture - The New York Times
+3767,1,Can the Old Masters Be Relevant Again? - The New York Times
+3900,1,Zimbabwe Follows Robert Mugabe’s Health by Following His Plane - The New York Times
+3972,8,An Architect Who Built His Career on Resuscitating New York Landmarks - The New York Times
+4011,2,The Accidental Power of Design - The New York Times
+4085,3,David Adjaye on Designing a Museum That Speaks a Different Language - The New York Times
+4182,1,Building Zaha Hadid’s Bold Afterlife - The New York Times
+4191,1,Google, Lagging Amazon, Races Across the Threshold Into the Home - The New York Times
+4198,3,What New York Can Learn From Barcelona’s ‘Superblocks’ - The New York Times
+4202,1,Under Hawaii’s Starriest Skies, a Fight Over Sacred Ground - The New York Times
+4217,16,Art Deco Los Angeles - The New York Times
+4231,1,A Museum About Rights, and a Legacy of Uncomfortable Canadian Truths - The New York Times
+4252,1,Move Over, Rats. New York Is Planning an Underground Park. - The New York Times
+4338,1,Clinton, Trump, Cuba: Your Friday Evening Briefing - The New York Times
+4345,1,Salesforce Rules Out a Bid for Twitter - The New York Times
+4363,1,Mosul, ‘Brexit,’ U.S. Presidential Race: Your Monday Briefing - The New York Times
+4418,1,How you can create space in a tiny home - The New York Times
+4529,2,London Bridges Are Lighting Up - The New York Times
+4588,1,Dear John: Brooklyn Bridge Discourages Token of Love, With a Smile - The New York Times
+4766,2,In Macau, Skipping the Casinos, but Embracing the Past - The New York Times
+4904,1,Got an Hour? See the Met These 4 Ways - The New York Times
+5081,1,Tragedy Made Steve Kerr See the World Beyond the Court - The New York Times
+5111,2,Celebrating a Rugged Vision of Landscape Architecture - The New York Times
+5220,1,In Los Angeles, Ditching the Car for an Eco-Friendly Trip - The New York Times
+5272,1,A $1,000 Day in Tokyo for $100 - The New York Times
+5304,1,Once Filled With Symbols of Hope and Despair, a 9/11 Repository Is Set to Close - The New York Times
+5336,1,Enthralled by Sicily, Again - The New York Times
+5489,2,Who Will Tell the Story of Slavery? - The New York Times
+5490,1,Ronald Perelman Donates $75 Million for Arts Complex at World Trade Center Site - The New York Times
+5631,1,The Pillow Cure - The New York Times
+5753,1,At the Olympics, the Thrill of Victory, the Agony of Defeat and the Lure of the Dance Floor - The New York Times
+5773,4,With the Olympics Over, Six Former Host Cities Worth Visiting - The New York Times
+5796,1,Only in Palm Beach: The $95 Million Tear-Down - The New York Times
+5843,1,‘I’ve Become a Racist’: Migrant Wave Unleashes Danish Tensions Over Identity - The New York Times
+5844,1,A Shopping Mall at Ground Zero, Uninformed by Its Sacred Land - The New York Times
+5849,5,The Same, Only Different: Designing a New Union Square Cafe - The New York Times
+5881,1,A Consolation of Voices: At the Park Avenue Armory, Mourning the World Over - The New York Times
+5904,1,Review: The Smithsonian African American Museum Is Here at Last. And It Uplifts and Upsets. - The New York Times
+5906,1,How to Keep the ‘Great Comet’ Party Going on Broadway: Dish Out the Pierogies (and Add Josh Groban) - The New York Times
+5916,2,Can You Erase the Trauma From a Place Like Sandy Hook? - The New York Times
+5986,4,Fontainebleau: A Forgotten Treasure - The New York Times
+6038,1,Hurricane Matthew Avoids Direct Hit on Florida, Continues North - The New York Times
+6069,1,Can the U.S. Really Get Astronauts to Mars by 2030? - The New York Times
+6182,1,Donald Trump Prepares for White House Move, but His Tower May Still Beckon - The New York Times
+6212,3,New York Today: Our City That Never Was - The New York Times
+6218,8,The New Shapes of New York - The New York Times
+6229,1,Gems, Hidden in Plain Sight in Macedonia - The New York Times
+6314,2,Miami, With Sun, Surf and Clubs, Now Has a Solid Art Scene - The New York Times
+6332,1,Business Since Birth: Trump’s Children and the Tangle That Awaits - The New York Times
+6373,1,Worried About the Privacy of Your Messages? Download Signal - The New York Times
+6407,4,The Great A.I. Awakening - The New York Times
+6413,9,The Best Architecture in New York of 2016 - The New York Times
+6429,1,The Robot Revolution Will Be the Quietest One - The New York Times
+6490,2,As Hopes for European Unity Dim, New E.U. Headquarters Are Glowing - The New York Times
+6491,3,Death of a Red Carpet Reporter - The New York Times
+6502,1,The xx Lets the Sunshine In - The New York Times
+6515,2,A Tiny Home by Choice in New York City - The New York Times
+6578,2,Jane Fawcett, British Decoder Who Helped Doom the Bismarck, Dies at 95 - The New York Times
+6602,1,The Playboy Mansion Has a Buyer: A Twinkie King - The New York Times
+6643,1,Once and Always a New Yorker - The New York Times
+6705,1,Object Lessons: The New Museum Explores Why We Keep Things - The New York Times
+6719,1,Melania Trump: From Small-Town Slovenia to Doorstep of White House - The New York Times
+6760,1,How Think Tanks Amplify Corporate America’s Influence - The New York Times
+6836,1,Tom Wolfe’s ‘The Kingdom of Speech’ Takes Aim at Darwin and Chomsky - The New York Times
+6906,1,In Cranes’ Shadow, Los Angeles Strains to See a Future With Less Sprawl - The New York Times
+6909,1,The Bangladeshi Traffic Jam That Never Ends - The New York Times
+6926,1,Roy Moore, U.S. Presidential Race, ‘Deepwater Horizon’: Your Friday Evening Briefing - The New York Times
+6975,3,My 10 Favorite Books: Kehinde Wiley - The New York Times
+7015,1,A Guide to Exploring Four Dynamic New York Neighborhoods - The New York Times
+7023,1,Why Keeping Only the Popular Parts of Obamacare Won’t Work - The New York Times
+7028,2,In Charleston, Coming to Terms With the Past - The New York Times
+7030,1,National Security Agency Said to Use Manhattan Tower as Listening Post - The New York Times
+7051,1,A Carefree Getaway Just Off the Persian Gulf - The New York Times
+7137,2,Miami Beach Tries to Tame Its Most Raucous Street (but the Fishbowl Drinks Can Stay) - The New York Times
+7182,1,In Cramped and Costly Bay Area, Cries to Build, Baby, Build - The New York Times
+7223,2,In Mexico City, a Battle Over a Building and the Art in Its Shadow - The New York Times
+7224,4,Vito Acconci, an Artist as Influential as He Is Eccentric - The New York Times
+7262,1,After ‘Brexit,’ Finding a New London for the Financial World to Call Home - The New York Times
+7348,1,U.S. Open Quieted Those Calling for a Roof. Now It Faces a Louder Problem. - The New York Times
+7412,1,At ‘Doomocracy,’ It’s Fright Night in Brooklyn - The New York Times
+7422,1,Look Who’s Smiley Now: MoMA Acquires Original Emoji - The New York Times
+7512,1,A New Gilded Age, for Artists Who Would Rule Forever - The New York Times
+7559,1,Words of Obama’s Father Still Waiting to Be Read by His Son - The New York Times
+7584,1,With Degree Debunked, Melania Trump Website Is Taken Down - The New York Times
+7617,1,Five or Six Things I Didn’t Know About Brad Pitt, by Marlon James - The New York Times
+7691,1,Visiting the African-American Museum: Waiting, Reading, Thinking, Connecting, Feeling - The New York Times
+7744,1,Donald Trump the Philanthropist Is Known for His Reluctance - The New York Times
+7986,1,DELINGPOLE: ’Penises Cause Climate Change’ Progressives Fooled by Peer-Reviewed Hoax Study - Breitbart
+8975,2,Architecture Firm Unveils Plans for Space Skyscraper Hanging from Asteroid - Breitbart
+10069,1,Speaker Ryan’s Pending Choice: Raise Voters’ Wages or Raise Companies’ Revenues - Breitbart
+10860,1,Alabama Makes It Illegal to Remove Confederate Monuments
+11177,2,Rep. DeSantis: Five Key Facts About the Obamacare Replacement Bill
+12088,1,DNC ’Russian Hacking’ Conclusion Comes from Google-Linked Firm
+12397,1,’Prey’ Review: An Immersive Though Sometimes Repetitive Sci-Fi Shooter RPG Hybrid - Breitbart
+12669,1,Full Text: Donald Trump’s Speech in Saudi Arabia - Breitbart
+12705,1,Officials in Saudi Media: Trump Visit ’Essential to Our National Security’ - Breitbart
+12887,1,SCOTUS Throws Cold Water Early on Obama’s Partisan Gerrymandering Project
+13834,1,Foreign Guest Workers Increasing under Trump, Say Fed Data
+13857,1,’Ghost Recon Wildlands’ Review - A Fun but Forgettable Sprawling Cartel Hunt That’s Better with Friends - Breitbart
+13920,1,LinkedIn: Silicon Valley Plunges to 12th Most Attractive Job Market - Breitbart
+14329,1,President Trump: Obamacare Repeal May Take Until 2018 - Breitbart
+14393,1,Susan Rice: ’We Can’t Allow Twitter Wars to Become Shooting Wars’ - Breitbart
+14558,1,Delingpole: Here is Proof That President Trump Cannot Trust Gary ’Wormtongue’ Cohn on Paris Agreement
+15001,1,Terror: Paris to Build Eight-Foot Bulletproof Wall Around Eiffel Tower
+15382,1,Europe Reacts to General Election Results: ’May’s No Margaret Thatcher’
+16308,1,’Uncharted 4: A Thief’s End’ Review: The Greatest Treasure Yet - Breitbart
+16724,2,Islamotopia: The First Hundred Years - Breitbart
+17352,1,Iran ‘Ransom’: Treasury Payments Dispute Obama’s Claim ‘We Could Not Wire The Money’
+18316,1,North Korea Suffers Massive Internet Outage as Panama Papers Story Breaks - Breitbart
+18692,1,Auburn University Professor Praises MILO During Q&ampA - Breitbart
+19239,1,The Rio Olympics: Another Embarrassing Mess From Incompetent Globalists - Breitbart
+19674,1,The Lives of Americans, The Livelihoods of the Drug Companies: Donald Trump Points the Way to a New Social Contract—Like It or Not - Breitbart
+20208,1,China Recruits Male Teachers To ‘Salvage Masculinity in Schools’ - Breitbart
+21339,1,No, Donald Trump Did Not Abandon Promise to Repeal Obamacare
+24665,1,Michael Savage: Hillary’s ‘Deplorables’ Are ‘the Backbone of America,’ But Bill Clinton ‘Gutted Their Jobs, Deported Their Factories to China for Profit’ - Breitbart
+25391,1,Turkey Built Almost 9,000 Mosques During Past Decade
+25597,1,Dr. Johnson Was Wrong: For The First Time In 30 Years, I Desperately Want To Leave London
+26645,1,Universities Hide Workforce of 100,000-plus H-1B Employees
+27680,1,Former Al Gore Staffer Larry Haas: European Leadership Plagued by ’Multiculturalism,’ ’Reluctance to Make Judgments About Western Values’
+28164,1,Mayor Orders Closure Of ’Clandestine Islamic School’ In The Molenbeek District Of Brussels
+29562,1,Saudi Academic: End Gender Segregation In Islam
+30276,1,Happy Birthday, America! - Breitbart
+31443,1,POLITICO: Stephen Miller Among the Intellectual Vanguard of the Insurgent Populist Nationalist Movement - Breitbart
+31631,1,The new buildings that will shape 2017
+31677,1,Cars, hotels and cities -- made out of ice
+31947,1,The view from Obama’s train to Washington
+32173,1,Syrian peace talks: A lot of posturing -- some signs of hope
+32332,1,This graphene dress lights up when you breathe
+32335,10,The end of air conditioning? Asia architects use green solutions to cool buildings
+32389,5,Hong Kong’s M+ Museum examines Asia’s shifting design objectives
+32436,1,Crowds across US protest Trump policies
+32571,1,Donald Trump’s Asia pivot
+32747,1,Palmyra treasures restored after ISIS attack
+33176,1,What’s a ’Deep State’ and why is it a new buzzword for the online right?
+33284,10,Should China move its historic monuments?
+33314,4,2017’s best minimalist architecture photos
+33697,1,Antique oddities target new collectors
+33719,1,When $65,000 a year for a drug is applauded
+33750,1,The rise of the urban jungle
+34033,11,These architects could change India forever
+34036,6,African architecture through the ages
+34046,1,Trump may have to be patient about North Korea
+34055,4,The stars of London’s architecture renaissance
+34112,1,The dark truth behind white
+34117,4,Epic homes architects build for themselves
+34265,1,Michelle Obama says she won’t run for office
+34315,3,Saving China’s abandoned Tulou homes
+34353,19,Why these extraordinary Cambodian buildings need to be saved
+34397,1,Eerie beauty in Japan’s derelict love hotels
+34411,8,New US embassy designs make a bold statement
+34809,1,Kamau Bell: What I learned from Muslims in small-town America
+34850,1,Manchester: No stranger to adversity
+34865,9,N. Korea, the ’perfect sci-fi film set’?
+34869,1,Arizona Muse’s six definitive designs
+35019,1,Rare ’no oil’ emeralds go to auction
+35067,1,Love letters to Paris from the stars of Roland Garros
+35081,1,Trump expected to withdraw from Paris climate agreement
+35265,7,Frank Lloyd Wright in 5 buildings
+35467,3,Radical hotels for 21st century travelers
+35534,8,Can good hospital design improve your health?
+35596,2,How NASA recreates the wonders of space on Earth
+35602,6,Hanok traditions inspire modern Korean design
+35709,4,Catching Fire: Cities building wooden towers
+35711,2,Parasite properties are taking over Paris
+35739,1,How to cram a dream home into a 309 square foot apartment
+35782,2,Inside China’s largest ghost town
+36022,2,Is this the world’s craziest new skyscraper?
+36038,4,Are these the best buildings in the world?
+36228,6,Rebuilding Australia’s ’cultural cathedrals’
+36236,1,Welcome to Cleveland, RNC
+36335,1,Seventh Heaven wins fillies’ classic
+36471,1,World Trade Center sphere to come home
+36580,1,Apocalypse housing: Life in bomb shelters
+36619,1,Rio Olympics: Is Brazil ready for the 2016 Games?
+36633,9,China’s private museums: Icons or art?
+36810,1,What makes a car ’sexy’?
+37050,1,Inside Syria’s prisons, where an estimated 17,723 have died since 2011
+37299,6,Why China’s elite want to live in these
+37612,9,London luxury tower named UK’s worst building
+37874,1,Floating cemeteries and space burials: Asia’s futuristic take on death
+38014,3,What ISIS left behind
+38146,1,Johnny Depp’s $12.7 million show-stopper
+38223,4,Saving the ancient streets of China
+38226,1,New York Public Library’s $12M facelift
+38232,1,Inside the mind of this master architect
+38320,7,Why Kengo Kuma’s big dreams are small buildlings
+38341,6,30 incredible buildings from around the world
+38342,1,How architects are reinventing the bathhouse
+38719,13,The man behind North Korea’s next generation of architects
+38742,1,Obama’s last trip will be to a divided Europe
+38765,2,Is London Europe’s cultural capital?
+38781,3,Would you live underwater?
+38783,1,Meet the designer behind China’s first lady
+38826,3,Obama’s counterterrorism adviser on threats facing Trump administration
+38850,2,Do these village homes have the best view in China?
+38856,1,Favela photos reveal truth beyond stereotypes
+38877,1,The world’s tallest religious skyscraper
+38880,1,This home is being built into a cliff
+38898,10,Best architectural photograph of 2016
+38928,6,This is the best building in the world
+38947,1,How London’s protected views shape the city
+38954,8,Is this what the future was meant to look like?
+39040,4,1 Undershaft skyscraper given green light
+39062,1,How to enter the contemporary design market
+39080,16,Highlanders: The architects redefining Scotland’s far north
+39217,2,How to set up home at the edge of the world
+39240,2,Look closer. Those aren’t trees
+39261,5,How is Vo Trong Nghia transforming Vietnam’s skylines?
+39322,1,ISIS reportedly gains ground in Syria’s ancient city of Palmyra
+39352,1,The 2016 Epic Architecture Quiz
+39375,1,Trump could face showdown over Tillerson pick
+39591,5,Are these the most beautiful places to pray?
+39675,10,THIS will actually be built
+39726,1,Alexa, can you help with this murder case?
+39754,2,2016’s most visually inspiring moments
+40196,2,Arctic city of Kiruna to be dismantled and rebuilt
+40332,1,Watch out: Your future home might well have wheels
+40336,1,Horses’ fate: Racing or death
+40598,1,Quantum: The world’s smartest cruise ship
+40640,1,From Selma: The people’s voice
+40783,3,5 things to know about Britain’s Prince Charles
+41020,2,Architects plan skyscraper that ’casts no shadow’
+41354,2,Architizer 2015 A+ Awards: What are the world’s coolest new buildings?
+41439,3,How to get kids to eat healthy school lunches
+41550,3,Greatest buildings from World’s Fairs
+41573,1,Incredibly detailed Star Wars scenes made from single sheets of paper
+41634,1,ISIS on offensive in Iraq’s Ramadi, governor says
+41868,1,In defense of the ’hot take’ (Opinion)
+42007,1,Spaceports and sky farms: Is this Britain in 2100?
+42116,1,The gorgeous $23 million mansion inspired by math
+42117,3,Sports stadium architecture: Welcome to the new temples of pleasure
+42119,8,Alex Chinneck’s mind-bending buildings
+42209,1,Kuwait’s ghost stadium prepares to breathe new life
+42278,1,Most diverse place in America is not where you think
+42336,1,Asia trade deal: Obama’s pivot to nowhere
+42583,5,The skyscraper built in a matter of weeks
+42664,1,Last chance to see: 25 magnificent and endangered structures
+42666,1,Peek at tomorrow from today’s top designers
+42689,1,ISIS video shows execution of 25 men in Roman ruins
+42721,1,A brief history of high fashion kicks
+42825,1,After ’El Chapo’ escape, Mexico offers reward
+42902,1,Mapping Morocco through portraits
+42991,2,Will ’monster’ tower destroy the romance of Paris?
+42992,1,America’s neon castles: In praise of retro cinema architecture
+42993,1,Behold the post-Soviet city that became a futuristic wonderland
+43429,1,The CEO of Marriott explains why he wrote a letter to Donald Trump and reveals his top travel hacks
+43808,1,A forgotten war technology could safely power Earth for millions of years. Here’s why we aren’t using it
+43814,1,Amazon’s cloud VP was on stage talking up AWS at the very moment it went crashing down
+43940,4,An American cultural revolution is killing cookie-cutter homes — here’s what homebuilders are selling instead
+44457,2,Volvo will launch its first all-electric car in 2019 to take on Tesla — here’s everything we know
+44509,1,Starbucks is entering a new era — and 4 jokes reveal the biggest problems haunting its business
+44669,1,The Infiniti Q60S luxury-sport coupe is almost a home run — but 2 things are holding it back
+44686,1,Tesla is making a risky bet with the Model 3 that could push the company over the edge
+44696,1,Volvo is sticking with Uber to win the autonomous driving ’marathon’
+45643,1,Humans are the only animals with this body part — and no one knows why
+45683,1,Cadillac killing the ELR reminds us of the most obnoxious car commercial ever
+46093,1,Faraday Future is still shrouded in mystery
+46644,1,This company secretly runs the internet, and now it’s raised another $8 million to rule everything else, too
+46658,1,Electric-car startup Faraday Future could introduce its first production concept cars very soon
+47130,1,Here’s the absurdly cool reason Ferrari won’t make an SUV, according to the legendary company’s design boss
+47466,1,These bizarre Japanese electric vehicles could change how we get around cities
+47780,1,GOP congressman: What other ’subgroup’ of people has contributed more to civilization than ’white people’?
+47796,2,Scientists mapped the human brain like a city and revealed that we’ve been ignoring some of its most important parts
+48238,5,The American McMansion is dying for good
+48418,1,Obama’s grand finale trip to Asia has turned into a disaster
+48668,1,This is Elon Musk’s plan to begin colonizing Mars by 2022
+48707,1,A Yahoo insider believes the hackers could really have stolen over 1 billion accounts
+49029,2,9 tech trends that will make billions of dollars starting in 2017
+49074,1,Elon Musk just unveiled Tesla’s solar roof and new Tesla Energy products
+49375,2,Speculation is mounting that Jony Ive has checked out at Apple
+49739,1,Apple is losing its focus again — and this time, there’s no Steve Jobs coming to the rescue
+49803,1,The African country the suspected Berlin market attacker was from has become a breeding ground for ISIS
+49845,1,Obama’s Environmental Legacy, in Two Buttes
+49896,1,Trump Might Be Thinking About a Moon Base
+49941,1,All of Human Knowledge Buried in a Salt Mine

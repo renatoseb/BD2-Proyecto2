@@ -1,0 +1,355 @@
+2,1,Tyrus Wong, ‘Bambi’ Artist Thwarted by Racial Bias, Dies at 106 - The New York Times
+3,1,Among Deaths in 2016, a Heavy Toll in Pop Music - The New York Times
+8,1,First, a Mixtape. Then a Romance. - The New York Times
+21,2,Mariah Carey’s Manager Blames Producers for New Year’s Eve Nightmare - The New York Times
+23,1,George Michael’s Freedom Video: An Oral History - The New York Times
+37,1,Inside Jonathan Lethem’s Oddball Trove - The New York Times
+94,1,Ending Speculation, Black College Says Band Will Play at Inaugural Parade - The New York Times
+163,1,‘La La Land’ Wins Seven Golden Globes ‘Moonlight’ Wins Best Drama - The New York Times
+180,1,New David Bowie Video Arrives, Hours Before He Would Have Turned 70 - The New York Times
+181,1,Hillary Clinton Receives Ovation at ‘The Color Purple’ - The New York Times
+356,1,Hot on the Trail of ‘La La Land,’ Here Come More Movie Musicals - The New York Times
+384,1,Obama’s Secret to Surviving the White House Years: Books - The New York Times
+415,1,Obama Understood the Power of Art. And He Wanted You to Get It, Too. - The New York Times
+460,2,Roberta Peters, Soprano With a Dramatic Entrance, Dies at 86 - The New York Times
+496,1,The Matriarch Behind Beyoncé and Solange - The New York Times
+573,1,Oscar Nomination Puts Lin-Manuel Miranda One Step Closer to an EGOT - The New York Times
+688,2,Oh, What a Voice: A Revival for a Member of the Four Seasons - The New York Times
+786,1,Beyoncé Is Pregnant With Twins - The New York Times
+902,5,Begging on Liberia’s Streets by Day, Heating Up Its Clubs by Night - The New York Times
+904,2,Goodbye, for Good, to Black Sabbath - The New York Times
+1041,2,Review: That ‘Sunset Boulevard’ Close-Up, Finely Focused - The New York Times
+1071,1,Al Jarreau, Singer Who Spanned Jazz, Pop and R&ampB Worlds, Dies at 76 - The New York Times
+1099,1,Philipp Plein Wants to Blow Your Mind - The New York Times
+1100,1,With Everything About Trump, What’s a Designer to Do? - The New York Times
+1185,3,The Dirty Projectors Go Solo - The New York Times
+1223,1,Cheesecake for the Soul: A ‘Golden Girls’ Cafe Opens - The New York Times
+1474,1,Future and the Art of Flooding the Market - The New York Times
+1537,1,Justin Trudeau to Attend the Broadway Musical ‘Come From Away’ - The New York Times
+1586,1,A Loverly Revival: ‘My Fair Lady’ to Return to Broadway Next Year - The New York Times
+1627,1,Mark Warner Faces a Stand-and-Deliver Moment in Russian Inquiry - The New York Times
+1634,1,5 Shows to See in New York When You Have Only an Hour - The New York Times
+1647,2,Hurray for the Riff Raff’s Alynda Segarra Finds Herself in a Concept Album - The New York Times
+1651,1,South Korea, Syria, C.I.A.: Your Morning Briefing - The New York Times
+1692,1,Robert James Waller, Author of ‘The Bridges of Madison County,’ Dies at 77 - The New York Times
+1771,1,Kamasi Washington Follows ‘The Epic’ With a New Work in Whitney Biennial - The New York Times
+1855,3,Derek Walcott, Poet and Nobel Laureate of the Caribbean, Dies at 87 - The New York Times
+1879,1,The Battle of ‘Miss Saigon’: Yellowface, Art and Opportunity - The New York Times
+1892,1,Chuck Berry, Fiery and Flinty Rock ’n’ Roll Innovator - The New York Times
+1893,1,Chuck Berry, Rock ’n’ Roll Pioneer, Dies at 90 - The New York Times
+1926,1,5 Stand-Up Specials to Stream This Week - The New York Times
+1929,1,Review: Graham, Cunningham and Taylor, All Together Now - The New York Times
+2160,1,Bob Dylan Will Receive His Nobel Prize While on Tour in Sweden - The New York Times
+2332,3,The Diva Departs: Renée Fleming’s Farewell to Opera - The New York Times
+2401,1,Review: In ‘War Paint,’ Sing a Song of Face Creams - The New York Times
+2419,1,17 Great Stories That Have Nothing to Do With Politics - The New York Times
+2427,1,Feist Wants to Ask You Some Questions About Sadness - The New York Times
+2466,1,‘Harry Potter and the Cursed Child’ Sets Olivier Awards Record - The New York Times
+2512,1,Review: The Chainsmokers Find That Pop Is an Awkward Fit - The New York Times
+2608,2,Prince Knew What He Wanted: Sex, Soul and You - The New York Times
+2609,1,Prince Is Mourned by Fashion World, Which Counted Him as One of Its Own - The New York Times
+2650,1,Your Wednesday Evening Briefing: Donald Trump, J. Dennis Hastert, Ted Cruz - The New York Times
+2690,1,Corn Pone, Rebooted: Country’s New Humor - The New York Times
+2885,1,Let It Go Go Go! Three Stage Versions of ‘Frozen’ Are on the Way - The New York Times
+2900,1,Meryl Streep Does a Number on Donald Trump at Public Theater’s Gala - The New York Times
+2996,1,Defining, and Proclaiming, a New Black Power - The New York Times
+3055,1,House Democrats’ Gun-Control Sit-In Turns Into Chaotic Showdown With Republicans - The New York Times
+3269,1,Bernie Sanders, Theresa May, South China Sea: Your Tuesday Evening Briefing - The New York Times
+3288,3,Singer at All-Star Game Adds ‘All Lives Matter’ to Canadian Anthem - The New York Times
+3332,1,Republican Convention, Baton Rouge, Turkey: Your Monday Evening Briefing - The New York Times
+3338,4,Kim Kardashian West and Kanye West Reignite Feud With Taylor Swift - The New York Times
+3350,1,Behind Melania Trump’s Cribbed Lines, an Ex-Ballerina Who Loved Writing - The New York Times
+3351,1,Mike Pence’s Journey: Catholic Democrat to Evangelical Republican - The New York Times
+3375,1,Jaap van Zweden: Before You See Him, Listen - The New York Times
+3382,2,Taylor Swift Is Summering in Rhode Island. Locals Just Shake It Off. - The New York Times
+3405,1,After Yemeni’s 13 Years in Guantánamo, Freedom for the Soul Takes Longer - The New York Times
+3453,1,Fly-Fishing in Montana, Where a River Still Runs Through It - The New York Times
+3594,1,Hey Ho, It’s Old: England Embraces Punk Rock 40 Years Later - The New York Times
+3648,1,Review: ‘Morris From America’: A 13-Year-Old Stranger in a Strange Land - The New York Times
+3681,1,Frank Ocean Finally Delivers His Album, and a Pop-Up Surprise - The New York Times
+3684,5,Gord Downie, Frontman for the Tragically Hip, in His Final Act - The New York Times
+3851,5,Is the National Anthem Racist? Beyond the Debate Over Colin Kaepernick - The New York Times
+4048,2,Bruce Springsteen’s Memoir: Riding Shotgun With the Boss - The New York Times
+4070,2,The Blessed, Cursed Life of Bon Iver - The New York Times
+4148,1,Stephen Colbert Reboots ‘The Late Show,’ Fixing It on the Fly - The New York Times
+4153,1,Torn Over Donald Trump and Cut Off by Culture Wars, Evangelicals Despair - The New York Times
+4327,7,Bob Dylan the Writer: An Authentic American Voice - The New York Times
+4358,2,Bob Dylan’s Nobel Prize: A Podcast Discussion - The New York Times
+4430,1,How Music Can Improve Worker Productivity - Workstation - The New York Times
+4512,4,What It’s Like to Make It in Showbiz With Your Best Friend - The New York Times
+4526,7,An Appraisal: Leonard Cohen, Master of Meanings and Incantatory Verse - The New York Times
+4532,6,Johnny Cash, the Poet in Black - The New York Times
+4554,1,Canada’s Gay Curling Leagues Take Pride on Ice - The New York Times
+4570,1,In Michael Chabon’s ‘Moonglow,’ Deathbed Stories Illuminate an Era - The New York Times
+4618,1,Review: Miranda Lambert Sings of What Comes After the Heartbreak - The New York Times
+4688,1,Ralph Branca, Who Gave Up ‘Shot Heard Round the World,’ Dies at 90 - The New York Times
+4712,2,100 Notable Books of 2016 - The New York Times
+4813,1,The Playlist: Burial and Laura Marling Slip Deeper Into the Void - The New York Times
+4870,1,At Aska, a Nordic Chef’s Vision Bears Fruit (and Lichens) - The New York Times
+4922,1,Taylor Swift Releases a Surprise Single With Zayn Malik - The New York Times
+4926,1,The Playlist: Taylor Swift and the Jesus and Mary Chain Offer Different Shades of Teases - The New York Times
+4947,1,Afrofuturism: The Next Generation - The New York Times
+4976,1,Chauffeur, Shootaround and Boneless Chicken Wings: Living Large With the Nets - The New York Times
+5096,1,Caroline Kennedy Dances in a Christmas Video, and Japan Can’t Get Enough - The New York Times
+5130,1,George Michael Mattered Beyond the Music - The New York Times
+5153,1,Whitney Houston, Cher, Tina Turner and Donna Summer: The Musicals - The New York Times
+5262,1,Review: A Darwinian ‘Streetcar’ With a Feminist Streak - The New York Times
+5361,1,Broadway’s ‘The King and I’ to Close - The New York Times
+5377,2,‘Hamilton’ Inc.: The Path to a Billion-Dollar Broadway Show - The New York Times
+5392,1,What if PTSD Is More Physical Than Psychological? - The New York Times
+5395,1,Tony Award Winners - The New York Times
+5459,1,What You Should Watch: ‘Please Like Me’ and Films Leaving Netflix - The New York Times
+5656,3,Barbra Streisand Sets the Record Straight - The New York Times
+5728,1,It’s a Bird! No, It’s a Crocodile! Synchronized Swimming Themes Can Be Mystifying - The New York Times
+5738,1,PartyNextDoor Is Finding His Voice, and a Bigger Spotlight - The New York Times
+5743,1,Phil Collins Is Very Much Alive - The New York Times
+5764,1,Irving Fields, Composer Who Infused Songs With Latin Rhythms, Dies at 101 - The New York Times
+5812,1,Donald Trump, Dilma Rousseff, Cuba: Your Wednesday Evening Briefing - The New York Times
+5846,1,Cinema Is Dead? Telluride Says Not Yet - The New York Times
+5851,1,‘Jersey Boys’ Will Close in January - The New York Times
+5875,1,The Playlist: Lady Gaga Returns Lovelorn, and Zack de la Rocha Returns Furious - The New York Times
+6001,3,At a Loss for Meds, Venezuela’s Mentally Ill Spiral Downward - The New York Times
+6048,1,An Opera Star Finds the Right Duet - The New York Times
+6062,1,Review: Taylor Mac’s 24-Hour Concert Was One of the Great Experiences of My Life - The New York Times
+6142,2,Temple of the Dog Reunites, Headliners at Last on a Mini-Tour - The New York Times
+6250,1,How Conservative Sites Turn Celebrity Despair on Its Head - The New York Times
+6280,1,More Than Coffee: New York’s Vanishing Diner Culture - The New York Times
+6381,1,Penn Station Inhabitant Finally Has a Home of Her Own - The New York Times
+6410,1,Jake Gyllenhaal to Star in Broadway Revival of ‘Sunday in the Park’ - The New York Times
+6502,5,The xx Lets the Sunshine In - The New York Times
+6515,1,A Tiny Home by Choice in New York City - The New York Times
+6560,1,In a Brooklyn Basement, Jazz With a Russian Accent - The New York Times
+6774,1,The Playlist: Barack Obama’s Summery Playlists and Green Day’s Fiery Return - The New York Times
+6939,1,Sarah Jessica Parker and Ta-Nehisi Coates, on New Literary Paths - The New York Times
+6942,1,A Mother Criticizes Vince Staples, and the Rapper Defends Her - The New York Times
+6961,2,The Latest Celebrity Diet? Cyberbullying - The New York Times
+6963,1,‘Hamilton’ and Heartache: Living the Unimaginable - The New York Times
+7092,1,The Best TV Shows of 2016 - The New York Times
+7112,1,Bob Dylan Sends Warm Words but Skips Nobel Prize Ceremonies - The New York Times
+7118,1,‘La La Land,’ ‘Moonlight’ Lead Golden Globe Nominations - The New York Times
+7125,1,Times Critics’ Top Books of 2016 - The New York Times
+7169,1,Carrie Fisher, Child of Hollywood and ‘Star Wars’ Royalty, Dies at 60 - The New York Times
+7330,1,Toots Thielemans, Who Won Jazz Renown With the Harmonica, Dies at 94 - The New York Times
+7344,1,The Lonely Toil of Frank Ocean: Is It Art, or Denial? - The New York Times
+7411,7,Bob Dylan Wins Nobel Prize, Redefining Boundaries of Literature - The New York Times
+7430,1,‘Westworld’ Season 1, Episode 6: The Tipping Point - The New York Times
+7434,1,Madonna Gave a Surprise Pop-Up Concert to Support Clinton. We Were There. - The New York Times
+7439,1,Leonard Cohen, Epic and Enigmatic Songwriter, Is Dead at 82 - The New York Times
+7518,1,George Michael, Pop Superstar, Is Dead at 53 - The New York Times
+7541,2,Paul Simon’s Ambition, and Inspiration, Never Gets Old - The New York Times
+7549,1,Muhammad Ali Dies at 74: Titan of Boxing and the 20th Century - The New York Times
+7593,2,At Rio Olympics, the National Anthem Sounds … Sad? - The New York Times
+7603,1,In Arts and Culture, a ‘New’ Mexico Embraces Its Roots - The New York Times
+7614,1,Jerry Heller, Music Manager Who Promoted N.W.A and Gangsta Rap, Dies at 75 - The New York Times
+7661,1,8 New Books We Recommend This Week - The New York Times
+7681,4,The Twists and Turns of ‘La Marseillaise’ - The New York Times
+7725,1,Patrice Munsel Dies at 91 Soprano Became a Star at the Met as a Teenager - The New York Times
+7737,1,A Boogie Wit Da Hoodie Modernizes New York Hip-Hop - The New York Times
+8403,1,Inauguration Coverage, Day Three: Live Updates - Breitbart
+8444,2,The Eagles Sue Mexican ’Hotel California’ That Opened Decades Before Release of Famous Song - Breitbart
+8536,1,Virgil: On This Memorial Day, Breitbart Readers Remember and Look to the Future - Breitbart
+8599,1,Mariah Carey Suffers Brutal Lip-Sync Fail During New Year’s Show
+8979,1,Watch: Rapper Waka Flocka Flame Wipes Butt with Trump Jersey
+9019,1,Bill Nye, Rachel Bloom Team for Transgender Anthem ’Sex Junk’ (Video)
+9064,2,Palestinian Dance Competition Winner Performs To ’Jihad’ Song ’Pull The Trigger’
+9339,1,Rihanna Melts Snowflakes with Defiant Instagram Posts
+9373,1,Stevie Wonder Serenades Michelle Obama on ’Tonight Show’
+9417,1,Report: Secret Service Investigating Madonna White House Comment
+9828,1,Orioles CF Adam Jones’ Report of N-Word Taunts at Fenway Highlights Behavior Not Banned in Boston - Breitbart
+9865,1,Sheryl Crow Uses ’Deep Meditation’ to Stave Off Fear of Trump Apocalypse
+10024,2,Eminem Calls Trump a ’Bitch,’ Raps About Sexually Assaulting Ann Coulter
+10051,1,Virgil: Trump’s Nationalist Vision vs. the Gospel of Globalism
+10120,1,Todd Rundgren: ’If You’re a Trump Supporter, Don’t Come to My Show’
+10464,1,Madonna Drops F-Bombs at Anti-Trump Rally: ’I’ve Thought a Lot About Blowing Up the White House’
+10583,2,British Singer M.I.A.: Trump Admin Full of ’Pathological Liars’
+10784,1,Suburban Chicago School Teaches ’Blackenomics,’ ’Trans-Rights,’ and ’White Genocide Against Blacks’ - Breitbart
+11325,1,15 Times Celebrities Envisioned Violence Against Trump and the GOP
+11355,1,California’s Drive-Thru Tree Falls over During Winter Storm
+11368,1,7 Conservative Classics Every American Should Read
+11452,2,California Proposes to Tax Space Travel - Breitbart
+11778,1,U2 Needs ’Space’ to Reassess New Album after Trump Win
+12229,1,Justin Moore: Impossible to ’Rationalize’ with Gun Control Crowd
+12371,1,Bob Dylan Accused of Lifting Parts of Nobel Prize Speech from SparkNotes
+13127,1,Kendrick Lamar Rips Trump, Fox News on New Album ’DAMN’
+13163,1,Court Reveals Part of Suicide Note From Ex-NFL Star, Killer Hernandez - Breitbart
+13258,1,British Singer Wants to Perform Protest Anthem at Inauguration
+13551,2,Green Day Rips Trump in New ’Troubled Times’ Video - Breitbart
+13660,1,Sex Pistols Johnny Rotten on Trump: ‘He’s Absolutely Magnificent’
+14466,1,Trump’s First Inaugural Address: Populism, Nationalism, Unity
+14779,1,Katy Perry: ’I Did More’ Than Just Kiss a Girl During Christian Upbringing
+14943,1,Big Sean Raps About Murdering Donald Trump on New York Radio
+15357,1,Left Bashes Lady Gaga for Not Attacking Trump During Super Bowl
+15478,1,‘Hamilton’ Creator Lin-Manuel Miranda Raps with Obama at the White House - Breitbart
+15691,1,Macklemore Torn to Shreds by the Left for ’Whitesplaining’ ‘White Privilege’ - Breitbart
+16040,1,Barry Bonds Upset With Daughter’s School After Video of Students Rapping N-Word Surfaces - Breitbart
+16450,1,‘Lemonade’: Beyoncé Drops Album Full of Feminist, Black Lives Matter Propaganda in HBO Special - Breitbart
+16532,2,Breitbart’s Kahn Releases Bluegrass Version of Grassroots Anthem ’American Heart’ - Breitbart
+16546,1,Katy Perry Picks Up Black Lives Matter Gifts for Holidays
+16751,2,HBO Submitting Beyoncé’s Pro-Black Lives Matter Video ’Lemonade’ for Emmy Consideration - Breitbart
+16806,1,WATCH: Musical Brexit Supporter Reveals New ’Get The Party Started’ Pop Parody
+17011,1,’Beyoncé Day’: Minnesota Governor Dedicates Day to ’Anti-Police’ Singer, Prince Fans Explode on Social Media - Breitbart
+17261,1,Rapper YG to Embark on ‘F*ck Donald Trump Tour’ - Breitbart
+17302,1,Rappers YG and Nipsey Hussle Threaten Donald Trump in Song: ’Have a Rally In L.A., We Gon’ F**k It Up’ - Breitbart
+17533,1,***Horse Race LiveWire*** 2 Days to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+17823,2,Listen: Love Song Prince Wrote About Donald Trump
+17830,2,Rapper YG Offers Free ’F*ck Donald Trump’ Bagels to CA Voters
+18127,2,Trump Slams Jay Z’s Sexist, N-word, F-bomb-Laced Language at Hillary Clinton Concert - Breitbart
+18159,1,2016 Election Day: Live Updates - Breitbart
+18202,7,Rick Ross Music Video: ’Assassinate Trump Like I’m Zimmerman’
+18294,1,Cowherd: Steroid Users Should Be Allowed in Hall of Fame - Breitbart
+18302,1,After Fidel Castro: Five Cuban Dissident Artists You Need to Know
+18528,1,***Horse Race LiveWire*** GOP Candidates in Wisconsin for Town Hall Event - Breitbart
+19099,1,Taylor Swift Is An Alt-Right Pop Icon - Breitbart
+19105,1,Pop Icon David Bowie Dead at 69 - Breitbart
+19571,3,John Legend: Star-Spangled Banner is a ‘Weak Song’ - Breitbart
+19634,1,Fiona Apple Yells ’Donald Trump, F*ck You’ at Charity Concert
+20089,1,***Horse Race LiveWire*** Left-Wing Activists Plan Anti-Trump Protests in NYC, Arizona - Breitbart
+20263,2,Baby Got Backup: Sir Mix-a-Lot Defends Blake Lively After Booty Photo Racism Flap - Breitbart
+20343,2,Vatican Newspaper Eulogizes Pop Icon Prince
+20448,1,WATCH: Brad Paisley Sings About Transgender Bathroom Law: ’North Carolina, They’re Checking For Vaginas’ - Breitbart
+20483,1,Chris Brown Releases Song After Arrest: ’What Would You Do?’ - Breitbart
+20590,1,Hiring Criminals to Hire Criminals: Your Tax Dollars at Work
+20650,1,Watch: David Bowie’s Haunting Final Video ’Lazarus’
+21035,1,J. Lo Plays Six Different Oppressed Women in Video for Feminist Anthem - Breitbart
+21146,1,Led Zeppelin Wins ’Stairway to Heaven’ Copyright Case - Breitbart
+21654,1,9 Reasons Art Garfunkel Allowed Sanders Campaign to Use ’America’ for TV Ad - Breitbart
+21704,1,Anti-Beyoncé Rally Planned Outside NFL Headquarters After ’Race-Baiting’ Halftime Show
+21747,1,VIDEO - Song Gone Viral: ‘I Think My Dog’s a Democrat!’
+21927,2,WATCH: Taylor Swift Faceplants on Treadmill in Apple Music Ad - Breitbart
+22009,1,Hillary Clinton Slams Trump for ’Sexually Predatory’ Behavior
+22109,1,Musicians For a ’Trump-Free America’ Launch Anti-Donald Campaign
+22148,1,Watch: Virginia Tech Basketball Coach Teaches Players to Respect the National Anthem - Breitbart
+22775,4,’Marx Is a Millennial’: Chinese Government Hawks Rap Video - Breitbart
+22821,1,University of Houston Professor: Pledge of Allegiance and National Anthem Glosses Over ’Racist History’ - Breitbart
+22982,1,Anger After Christian Hymn Is Renamed ’Allah’s Love Is Wonderful’ At Austrian School
+23042,4,Swiftgate: Kim Kardashian Just Exposed Modern Feminism for the Dirty Sham It Is - Breitbart
+23116,3,Iggy Azalea Slams Beyonce’s ’Lemonade’ as Racist Attack on White Women - Breitbart
+23357,2,Macklemore Offers Penance for ’White Privilege’: Links His Success to Darren Wilson - Breitbart
+23380,2,WATCH: Israeli Music Video Satirizing Islamic State Goes Viral: ’Hello Europe, We Come’
+23626,1,WikiLeaks: Clinton Political Director Wanted Hillary to Say ’Yo Mama’ at Black College - Breitbart
+23801,1,Chinese Military Lures Recruits with Rap Music Video
+23832,1,School Accused of Censoring Santa to Avoid Offending Atheists
+24424,1,Hillary Clinton Praises Beyoncé’s Pro-Black Lives Matter Album ’Lemonade’ - Breitbart
+24568,1,Elizabeth Warren: ’Throw Donald Trump Down The Drain’ - Breitbart
+24995,1,Oklahoma University Student Group: Adele’s ’Hello’ Promotes ’Sexual Harassment’
+25217,1,‘Is It Workin’?’ Hillary Clinton Admits Pandering to African-Americans - Breitbart
+25762,3,It’s 1828 All Over Again: Trump’s Deplorables Have Started a Peaceful Revolution  - Breitbart
+25790,1,Texas Middle Schooler Takes Knee to Protest Pledge of Allegiance
+26122,1,Apple Employee Claims Internet Meme Was ’Joking About Rape,’ Triggered PTSD - Breitbart
+26568,2,’Desperate Publicity Junkie’ Rapper Releases ISIS-Linked Video Demanding Decapitation of Nigel Farage
+26632,1,**Horse Race LiveWire** Wisconsin: The Aftermath - Breitbart
+26781,1,Celebrities Curse Up a Storm in Pro-Hillary Music Video
+26943,3,Rage Against the Machine Guitarist Tom Morello Compares Trump to ’Frat House Rapist’ - Breitbart
+26953,2,‘Shake It Off’ Elizabeth Warren Sings Taylor Swift To Combat Donald Trump - Breitbart
+27460,2,Rapper Who Sang About Killing Cops Has Life Saved By Cops
+27527,1,A Nation Gathers to Honor 5 Slain Dallas-Area Police Officers
+27797,1,Team Rubio Furious Over Bush Super PAC Ad Mocking His Boots - Breitbart
+27808,1,Parliament-Funkadelic Keyboardist Bernie Worrell Dies at 72 - Breitbart
+27917,1,Clinton Enlists ’Cocaine Superhero’ Pusha T for Voter Drive
+28050,1,Bob Dylan’s Forgotten Pro-Israel Song, Revisited
+28303,2,Brexit: The Nationalist-Populist Rebellions Continue  - Breitbart
+28445,1,‘Four More Years!’ Obama’s Shadow Campaign Hits The Commencement Speech Beat - Breitbart
+28460,1,Islamic State Produces Smartphone App for Children - Breitbart
+28707,1,Bernie Sanders’s Socialist Allies Helped Shut Down Donald Trump’s Chicago Event - Breitbart
+28817,1,Eagles Guitarist Glenn Frey Dies as 67
+28870,1,Baltimore Teen’s Death Threat-Laced ’F**k Donald Trump’ Music Video Goes Viral - Breitbart
+28933,5,Actress Blake Lively Accused of Racism Over Butt Photo - Breitbart
+29310,1,How Hamilton’s Lin-Manuel Miranda Helped Hillary - Breitbart
+29345,1,‘A Way Of F***ing Life’ — Hillary Clinton Staffer Defends Divisive ‘Fight Song’ - Breitbart
+29427,1,Todd Buchholz: ‘Crisis in the American Spirit’ Can Be Overcome with ‘Grit, Mobility, and Confidence’ - Breitbart
+29611,2,Officials Investigate How Rapper C-Murder Made Album from Jail
+30214,2,***Horse Race LiveWire*** Trump: ’We’re Going to Take Our Country Back from Those People’ - Breitbart
+30321,2,Limbaugh Revives Christmas Parodies - ’Baracka Claus Is Coming to Town,’ ’Walking in a Welfare Wonderland’ - Breitbart
+30543,1,Lady Gaga Dedicates ’Angel Down’ to Trayvon Martin
+30655,1,South Park Rips ’Turd Sandwich’ Hillary Clinton in S20 Premiere
+30842,1,Kanye West Stops Concert to Deliver 40-Minute Pro-Trump Rant
+30851,1,Byron York: Trump the Radical
+30967,1,Professor Disciplined for ’Sexual Misconduct’ after Singing Beach Boys Song to Students - Breitbart
+31080,2,Hamilton Stars at Broadway for Hillary Concert: ’Anybody Here Wanna Shatter a Glass Ceiling?’
+31169,2,Celebrities Trash Police in ‘Where is the Love?’ Music Video Calling for Peace - Breitbart
+31428,1,Merle Haggard’s ’Merle’s Girls’ Marijuana to Launch in Colorado
+31676,2,Will black college band perform at Trump inauguration?
+31768,1,’Toni Erdmann’ review: A poignant father-daughter comedy
+31845,1,Michelle Obama discusses ’surprisingly emotional’ final days in WH
+32093,1,In R-rated anti-Trump rant, Madonna muses about ’blowing up the White House’
+32163,1,Lee ’Q’ O’Denat, WorldStarHipHop founder, dies at 43
+32164,1,’La La Land’ fails to make America great again
+32434,1,Eminem unleashes on Donald Trump
+32478,1,Kanye West deletes all tweets defending Trump meeting
+32624,1,USTA apologizes after Nazi-era German national anthem played
+33223,1,Ed Sheeran’s record-breaking week
+33379,1,Rick Ross on new album, politics and Trump at SXSW
+33777,1,Hertling: Trump’s first cold slap of reality
+33835,7,Barack Obama’s evolution in 10 years of hip-hop lyrics
+34076,1,This is what protest sounds like
+34084,1,It’s time you learned how 4/20 became ’Weed Day’
+34357,1,The FBI translator who went rogue and married an ISIS terrorist
+34555,1,Europe view: American democracy isn’t as strong as you think
+34839,1,Abroad, President Trump’s reality collides with candidate Trump’s words
+34969,1,Chris Cornell’s close friends remember his final days
+35429,1,Macy Gray talks racism in America and her biggest problem with Trump
+35475,1,Japan votes for world’s largest pop group
+35572,2,Rock band The Slants’ victory in court secures your rights
+35661,1,Melissa Etheridge’s song for Orlando victims
+35773,1,Amjad Sabri, famed Sufi singer, gunned down in Pakistan
+35843,1,Kanye West premieres ’Famous’ music video with naked celebrity look-alikes
+36246,1,President Obama calls for anger to lead to change
+36378,1,Miranda Lambert releases sultry new single, ’Vice’
+37343,3,Slavery and the national anthem: The surprising history behind Colin Kaepernick’s protest
+37376,2,’Star-Spangled Banner’ critics miss the point
+37869,3,One person shot during violent Charlotte protest officer hurt
+37890,1,Charlotte police shooting: Family says video is unclear
+38369,1,Bob Dylan songs that changed the course of history (an incomplete list)
+38553,2,’Uncle Luke’ pens tribute to Janet Reno
+38869,1,Hong Kong’s banned lawmakers aren’t backing down
+38961,1,Little Richard Fast Facts
+39131,7,A new ’Baby It’s Cold Outside’ (with consent)
+39209,1,The secret behind Alicia Keys’ biggest hits
+39235,2,Remembering the date which will live in infamy
+39317,1,Patti Smith stands in for no-show Bob Dylan at Nobel ceremony
+39351,1,From prima ballerina to top choreographer
+39401,1,Kanye West meets with Donald Trump at Trump Tower
+39643,1,George Michael: World pays tribute to global superstar
+39648,1,George Michael: Chart topper and cultural icon dead at 53
+39666,1,Why George Michael’s ’Freedom! 90’ lives on
+39697,1,What Carrie Fisher and George Michael taught me about sexuality
+39769,3,From divorces and robberies to the stars we lost: Here are 2016’s top 10 celeb stories
+39807,5,When is your tweet a threat? (Opinion)
+39840,1,7 things we learned about Mike Huckabee from his new book
+39946,1,Mike Huckabee, stop bashing Beyonce
+40012,1,Unraveling the myth of the American West
+40115,5,Rapper Tiny Doo facing long prison sentence over lyrics
+40257,1,5 authors teens will be reading next
+40513,1,Tim Howard discusses Tourette’s, divorce and fatherhood
+40542,1,Madonna falls at Brit Awards Twitter’s got jokes
+40624,1,’Blurred Lines’ lawsuit draws $7.4 Million
+41145,1,’American Pie’ lyrics sell for $1.2 million
+41182,1,Chinese TV star Bi Fujian caught insulting Mao
+41204,1,Taylor Swift: My mom has cancer
+41232,1,Do North Charleston police use racial profiling?
+41783,1,The iconic movie I never saw
+41991,1,Supreme Court unleashes its inner Libertarian
+42057,1,Tom Hanks’ son slammed for defending use of n-word
+42068,1,A closer look at Mariah Carey’s Match.com profile
+42210,4,Alanis Morissette’s ’Jagged Little Pill’ turns 20
+42297,1,Hillary Clinton campaign releases Spotify playlist
+42395,1,The 2016 pop culture primary is here
+42407,1,Pope: ’Revolution’ needed to fight climate change
+42602,3,Springsteen to the Monkees: Unexpected Vietnam anthems
+42707,1,700-year-old doodles by medieval scribes
+42727,1,Amy Winehouse demos for unfinished third LP destroyed
+42764,1,From ’Balloon Boy’ to heavy metal rocker
+42903,1,Transgender and over 50
+43082,1,The 50 best movies of 2016, according to critics
+44046,2,Rock ’n’ roll icon Chuck Berry dead at age 90 in Missouri
+44321,1,Bill Maher unloads on cable newscasters for praising Trump’s strike on Syria
+44600,1,The untold story of Baked Alaska, a rapper turned BuzzFeed personality turned alt-right troll
+46012,2,A 12-year-old girl is facing criminal charges for using emoji, and she’s not the only one
+46740,1,Twitter erupted after Carly Fiorina sang to Ted Cruz’s young daughters
+47091,1,How a failed education startup turned into Musical.ly, the most popular app you’ve probably never heard of
+47180,1,Mark Cuban trolls Donald Trump with hilarious parody video of him singing ’Billionaire’
+47309,1,Meet Bozoma Saint John, the Apple executive who stole the show at WWDC
+48368,1,Abercrombie & Fitch’s attempts to rebrand have totally backfired
+48454,1,40 years ago, Led Zeppelin released its most difficult album — and it’s still hard to listen to
+49866,1,The Bachelor Gives Nick the Redemption Edit
+49906,1,Run the Jewels’ Gloriously Obscene Rebellion

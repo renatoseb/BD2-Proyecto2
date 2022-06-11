@@ -1,0 +1,335 @@
+89,1,The Perfect Weapon: How Russian Cyberpower Invaded the U.S. - The New York Times
+251,1,California Today: The Tale of the Laguna Beach Jumper - The New York Times
+270,1,Neanderthals Were People, Too - The New York Times
+384,1,Obama’s Secret to Surviving the White House Years: Books - The New York Times
+484,1,How Marches in Washington Have Shaped America - The New York Times
+573,1,Oscar Nomination Puts Lin-Manuel Miranda One Step Closer to an EGOT - The New York Times
+630,1,Review: Matthew McConaughey Mines Profane Capitalism in ‘Gold’ - The New York Times
+658,1,Love and Black Lives, in Pictures Found on a Brooklyn Street - The New York Times
+659,1,Rafael Nadal Wins a Marathon to Set Up a Final With Roger Federer - The New York Times
+705,1,Refugees, Lunar New Year, Malaysia: Your Morning Briefing - The New York Times
+736,1,Roger Federer, Defying Age, Tops Rafael Nadal in Australian Open Final - The New York Times
+833,1,Home but Not Home: Four Generations of an Ethnic Korean Family in Japan - The New York Times
+922,1,Travel Ban, Queen Elizabeth, Netanyahu: Your Morning Briefing - The New York Times
+1026,1,Going Home to Falluja, a City Slipping Back Into Turmoil - The New York Times
+1063,1,Donald Trump, North Korea, Kashmir: Your Morning Briefing - The New York Times
+1231,1,‘Grease’ in a Nairobi High School: Saheem Ali on His First Time Directing - The New York Times
+1292,1,Sick of Politics? Try These Great Reads - The New York Times
+1308,1,How to Decide Which Headphones to Buy (Hint: Not Apple’s AirPods) - The New York Times
+1379,1,The Trump-Like Figures Popping Up in Central Europe - The New York Times
+1393,1,‘Moonlight,’ ‘La La Land’ and Everything Else That Happened at the Oscars - The New York Times
+1415,1,What It Was Like Onstage During the Oscars 2017 Best Picture Mistake - The New York Times
+1583,1,Future Replaces Himself at No. 1 and Sets a Billboard Record - The New York Times
+1771,4,Kamasi Washington Follows ‘The Epic’ With a New Work in Whitney Biennial - The New York Times
+1855,3,Derek Walcott, Poet and Nobel Laureate of the Caribbean, Dies at 87 - The New York Times
+1879,2,The Battle of ‘Miss Saigon’: Yellowface, Art and Opportunity - The New York Times
+1934,1,That’s Not the Burglar Growling. It’s His Stomach. - The New York Times
+2124,1,A Florida of Sun, Sky, Sea and Mind - The New York Times
+2155,2,In AMC’s Western ‘The Son,’ the Novelist Philipp Meyer Lassoes TV - The New York Times
+2191,1,‘Age of Empires’: How 2 Dynasties of Art Forged China’s Identity - The New York Times
+2229,1,A Small Guard Upends UConn and ‘Breathes a Little Life’ Into Her Sport - The New York Times
+2253,1,Now Batting: 14 New Baseball Books - The New York Times
+2274,1,South Carolina Defeats Mississippi State to Win Women’s Title - The New York Times
+2539,1,Reaching Peak Greek at the Met Museum - The New York Times
+2609,1,Prince Is Mourned by Fashion World, Which Counted Him as One of Its Own - The New York Times
+2617,1,In an Age of Privilege, Not Everyone Is in the Same Boat - The New York Times
+2671,1,Dilma Rousseff, Facing Impeachment in Brazil, Has Alienated Many Allies - The New York Times
+2693,1,Ted Cruz’s Bitter End - The New York Times
+2735,1,In the New Hollywood, Sumner Redstone Is a Man Out of Time - The New York Times
+2833,1,Travel: Philip Marsden’s ‘Rising Ground’ and More - The New York Times
+2859,1,Crying Jordan: The Meme That Just Won’t Die - The New York Times
+3228,1,Fendi’s Dolce Vita - The New York Times
+3259,1,How a $2 Roadside Drug Test Sends Innocent People to Jail - The New York Times
+3308,2,The American Who Accidentally Became a Chinese Movie Star - The New York Times
+3477,1,Jonah Hill Is No Joke - The New York Times
+3561,1,Trump Tower Climber Now Faces Charges - The New York Times
+3760,1,For Aaron Krickstein, and a Reporter, a Covered Open Brings Closure - The New York Times
+3847,1,A Ranger, a Field of Wildflowers and the Retelling of Flight 93 - The New York Times
+3975,1,Man Booker Prize Shortlist Is Announced - The New York Times
+3990,1,Donald Trump, Hillary Clinton, Edward Snowden: Your Thursday Evening Briefing - The New York Times
+4281,1,Andrzej Wajda, Towering Auteur of Polish Cinema, Dies at 90 - The New York Times
+4425,1,10 Things You Need to Know Before Seeing ‘Doctor Strange’ - The New York Times
+4460,1,Warner Bros., Quietly Thriving, Recasts Its Own Story - The New York Times
+4463,1,‘The Crown’ Episodes 1 and 2: Stiff Lips, Warm Heart - The New York Times
+4525,2,Robert Vaughn, Who Starred as Napoleon Solo in ‘Man From U.N.C.L.E.,’ Dies at 83 - The New York Times
+4659,2,The Passion of Martin Scorsese - The New York Times
+4712,1,100 Notable Books of 2016 - The New York Times
+4736,1,Fidel Castro, Aleppo, Donald Trump: Your Tuesday Briefing - The New York Times
+4817,1,This Season’s Best Books on Hollywood - The New York Times
+4879,1,The Woman Who Might Find Us Another Earth - The New York Times
+4947,2,Afrofuturism: The Next Generation - The New York Times
+5060,1,California Today: Cast Your Vote for Californian of the Year - The New York Times
+5062,1,How to Plan a Weekend Getaway - The New York Times
+5220,1,In Los Angeles, Ditching the Car for an Eco-Friendly Trip - The New York Times
+5264,1,Your Monday Evening Briefing: Hillary Clinton, Donald Trump, Bitcoin - The New York Times
+5265,1,Catching a Flight? Budget Hours, Not Minutes, for Security - The New York Times
+5336,1,Enthralled by Sicily, Again - The New York Times
+5353,2,Muhammad Ali and Howard Cosell: Foils and Friends Bound by Mutual Respect - The New York Times
+5362,1,Why J. K. Rowling Endorsed ‘Harry Potter and the Cursed Child’ for the Stage - The New York Times
+5459,1,What You Should Watch: ‘Please Like Me’ and Films Leaving Netflix - The New York Times
+5563,1,Emmy Nominations 2016: ‘Game of Thrones’ Rules Again - The New York Times
+5629,1,Review: ‘Bad Moms,’ a Comedy of Outrage Pegged to Smother Mothers - The New York Times
+5757,1,‘Ben-Hur’ Is Latest Flop for Paramount - The New York Times
+5804,1,Harry Reid and Koch Brothers Wage Proxy War for a Nevada Senate Seat - The New York Times
+6029,1,In Fight for Aleppo, Tangled Alliances in Syria Add to Chaos - The New York Times
+6155,1,An ‘I Voted’ Sticker Can Get You Free Stuff, but It Shouldn’t - The New York Times
+6166,1,6 Books to Help Understand Trump’s Win - The New York Times
+6237,1,Thousands of Mourners Celebrate Gwen Ifill’s Tenacity and Grace - The New York Times
+6450,1,The East Lobs a Blockbuster-Hopeful to the West With ‘The Great Wall’ - The New York Times
+6477,1,A Defiant Israel Vows to Expand Its Settlements - The New York Times
+6550,1,Prince’s Addiction and an Intervention Too Late - The New York Times
+6652,1,Economic Fears Rising, Britain Hopes to Stay in E.U. Market - The New York Times
+6909,1,The Bangladeshi Traffic Jam That Never Ends - The New York Times
+6963,1,‘Hamilton’ and Heartache: Living the Unimaginable - The New York Times
+7058,1,In Havana, Castro’s Death Lays Bare a Generation Gap - The New York Times
+7100,2,The Best Movies of 2016 - The New York Times
+7118,1,‘La La Land,’ ‘Moonlight’ Lead Golden Globe Nominations - The New York Times
+7125,1,Times Critics’ Top Books of 2016 - The New York Times
+7141,1,Roger Federer Welcomes the End ... Of a Layoff, Not His Career - The New York Times
+7341,1,Edward Snowden’s Long, Strange Journey to Hollywood - The New York Times
+7388,1,Is ‘Westworld’ HBO’s Next Big Hit? - The New York Times
+7390,1,After Trump-Clinton, Vice-Presidential Debate Isn’t Exactly ‘the Return of Elvis’ - The New York Times
+7392,1,U.S. Captures Ryder Cup, Ending Europe’s Streak - The New York Times
+7509,1,Berlin, Russia, Narendra Modi: Your Morning Briefing - The New York Times
+7549,1,Muhammad Ali Dies at 74: Titan of Boxing and the 20th Century - The New York Times
+7617,1,Five or Six Things I Didn’t Know About Brad Pitt, by Marlon James - The New York Times
+7794,1,So That’s Who You Call: The Politics of the New ‘Ghostbusters’ - The New York Times
+7973,1,O’Donnell: Hillbilly Justice -- How the Battle of Kings Mountain Changed the Course of the Revolution
+8079,1,O’Donnell: ’You Only Live Once’ -- The Man of Forlorn Hope
+8080,1,Virgil: Making America Great Again—Or Not: The Establishment Targets Trump’s Top Strategist
+8111,1,Hollywood Analyst Warns Studios ’Big-Budget Bombs’ Coming in 2017
+8218,2,O’DONNELL: A Turning Point in the American Revolution -- the Battle of Guilford Courthouse and Washington’s Unknown Immortal
+8249,1,Exclusive — President Trump: Oscars ‘Were Focused so Hard on Politics’ They Could Not Get the Basics of the Ceremony Right - Breitbart
+8497,1,Lady Gaga Delivers Her Most Subversive Performance at Super Bowl
+8575,2,Box Office: ’The Mummy’ Unravels as ’Wonder Woman’ Holds On to Top Spot
+9039,1,’The Legend of Zelda: Breath of the Wild’ Review: A Creative and Masterful Open-World Adventure - Breitbart
+9391,1,2017 Oscar Nominations: ’La La Land’ Dominates, #OscarsSoWhite Over - Breitbart
+9517,2,Livewire: 89th Annual Academy Awards
+10092,1,Watch: Amazon Boss Jeff Bezos Pilots Real-Life Giant Mech - Breitbart
+10313,1,Joss Whedon: ’I Want a Rhino to F*ck Paul Ryan to Death’
+10342,1,Jerry Brown Wishes He Ran for President in 2016 - Breitbart
+10455,1,Trump Celebrates Epic Press Conference Thanks Rush Limbaugh
+10516,1,’Destiny 2’ - Official Gameplay Reveal Trailer - Breitbart
+10898,1,Mexican Brewery Portrays Trump as Gun-slinging Nazi Mariachi
+10929,1,Shia vs. Sunni: The Schism Western Politicians Don’t Understand and Won’t Discuss - Breitbart
+11206,1,Exclusive—Ann Coulter: ’As Long As We Live in a Country Where Liberals Are Going to Violently Attack Anyone Who Disagrees with Them, What Is the Point of Polling?’ - Breitbart
+11301,1,EU Takes Centre Stage in ’Chaotic’ French Presidential Debate
+11441,1,Ubisoft Surprises with ’Mario’ Crossover Title at E3 Press Conference - Breitbart
+11565,2,Rush Limbaugh: Comey Firing an ’Epic Troll’ by Trump on Dems - Breitbart
+11570,1,Oscars ’In Memoriam’ Segment Pays Tribute to Living Producer
+11974,1,Pinkerton: The U.S.-China Competition: Cyberspace and Outer Space
+12042,2,7 Great Conservative Films Everyone Should Own
+12308,1,’Marvel’s Guardians of the Galaxy: The Telltale Series’ - OFFICIAL TRAILER - Breitbart
+12397,1,’Prey’ Review: An Immersive Though Sometimes Repetitive Sci-Fi Shooter RPG Hybrid - Breitbart
+12410,1,Trump: NYT ‘Intent Is So Evil and So Bad,’ ‘They Write Lies’
+12669,1,Full Text: Donald Trump’s Speech in Saudi Arabia - Breitbart
+13115,1,’Total War: WARHAMMER 2’ – Announcement Cinematic Trailer - Breitbart
+13165,1,Exclusive — President Trump Previews Congressional Address and Pathway on Obamacare Repeal, Tax Cuts, Border Wall - Breitbart
+13420,1,Virgil: Trump Connects to the Taproot of American Economic Nationalism with Henry Clay’s ’American System’
+13459,1,ESPN Chief Claims Network is ’Responding to Change,’ But Politics Not a Problem
+13525,2,Numerous Concerns Surround ’Mass Effect: Andromeda’ as Launch Approaches - Breitbart
+13784,1,’D&ampD Beyond’ Bringing Tools for Dungeons &amp Dragons Players Online - Breitbart
+13857,1,’Ghost Recon Wildlands’ Review - A Fun but Forgettable Sprawling Cartel Hunt That’s Better with Friends - Breitbart
+13956,1,Peter Schweizer: Kellyanne Conway’s Nordstrom Ethics Violation Exposes Media Hypocrisy
+14188,1,**Georgia Special Election Livewire** Democrat Ossoff Versus Republican Handel - Breitbart
+14238,1,The Nuclear Option: Trump Reminds Himself to ’Relish Opportunity to Be an Outsider’
+14694,1,‘Drive Them Out!’ — Donald Trump Challenges Muslims to Take On Terrorism - Breitbart
+14854,1,Sony Lets Exclusives and Gameplay Speak for Themselves at E3 - Breitbart
+15164,1,Rep. Steve King Explains Controversial Tweet: Streets of Europe ’Burning’ with Violent Unrest from Mass Migration
+15195,1,Pete Hoekstra on CIA WikiLeaks: We Can’t Trust Spy Agencies If They ‘Can’t Protect Their Own Data from Outside Intruders’
+15253,1,Box Office: ’Cars 3’ Races Past ’Wonder Woman,’ Tupac Biopic Debuts Strong
+15336,1,Frank Gaffney: Comey FBI’s ’Malfeasant Approach’ to Islamist Threat ’Warranted a Cleaning of House’
+15343,1,Watch: ’Star Wars: The Last Jedi’ Gets First Teaser Trailer
+15903,2,Jay Z: War on Drugs an ’Epic Fail’ - Breitbart
+15989,1,Former Blaze Exec Sues Glenn Beck Claims Beck’s ‘Paranoia,’ ‘Erratic and Reckless Behavior’ Destroyed Company - Breitbart
+16056,1,Final Democrat Poll: Hillary Clinton Struggles Against Bernie Surge - Breitbart
+16106,1,‘We Got Played!’ CNN Reacts To Trump ‘Birther’ Troll Press Conference - Breitbart
+16608,1,The Federal Reserve Is Dealing Financial Drugs - Breitbart
+16653,1,David Horowitz: ’Kristol’s Betrayal Gets Serious’ - Breitbart
+16947,1,LeBron James Named AP Male Athlete of Year - Breitbart
+17090,1,Post-Mortems on Rubio’s Titanic Career Ignore Immigration Iceberg
+17272,1,***Horse Race LiveWire*** The Ides of March - Breitbart
+17316,1,Grammy Awards: Beyoncé Leads Noms with BLM-Inspired ’Lemonade’
+17370,1,Exclusive Data Analysis: Prediction Markets Show Cruz Craters After Deal With Kasich Fiorina, Pence Not Boosting Him - Breitbart
+17483,1,LinkedIn $11B Stock Loss: Job Crisis in Silicon Valley
+17837,1,Politico Misspells Reince Priebus Name, Calls Ivanka Trump’s Wife
+17969,1,Exclusive — Rep. Ron DeSantis: Paul Ryan’s GOP Leadership Team Fears Beltway Media, Isn’t Holding IRS Accountable - Breitbart
+18053,2,FTC Complaint Filed over WhatsApp Sharing User Data with Facebook - Breitbart
+18096,1,Pat Caddell: American People Will ’Revolt’ if Party Establishments Cheat Primary Winners Trump, Cruz, and Sanders - Breitbart
+18159,1,2016 Election Day: Live Updates - Breitbart
+18164,2,’Ben-Hur’ Producer Mark Burnett: Faith-Based Films Need ’Epic’ Feel to Attract Secular Audiences - Breitbart
+18324,1,‘American Psycho’ Author Bret Easton Ellis: ’A Backlash Is Beginning Against PC Victim Culture’ - Breitbart
+18356,1,Bobby Knight: Donald Trump Is ’Totally in Love with the United States,’ ’Best-Prepared’ to Serve - Breitbart
+18493,1,Necessary: ’Can’t Stump the Trump’ Takes a Victory Lap - Breitbart
+18908,1,’Torchbearer’ Movie an Urgent Wake-Up Call for American Christians - Breitbart
+18983,1,We Can Win the War on Terror (If We Want To)
+18996,2,Matt Drudge Taunts Establishment: GOP Delegate Count Looks Like ’Drudge Report Poll Results!’ - Breitbart
+19026,1,’The Revenant’ Review: Brutal, Beautiful Revenge Western - Breitbart
+19117,1,3 Down, 2 to Go: Al Jazeera America To Shut Down In April - Breitbart
+19195,2,Security Experts Warn ’Pokémon Go’ May Have Access to Your Entire Google Account - Breitbart
+19313,1,Trump’s Mission: Make America Great Again, Thinking Big and Winning - Lessons from U.S. History - Breitbart
+19525,1,Jordan Spieth Still the Man to Catch as Masters Drama Builds - Breitbart
+19586,1,Breitbart Remembers 9/11
+19709,1,Popular Pages Revolt Against Facebook’s Arbitrary Censorship - Breitbart
+19767,1,Fox Faces Its Uncertain Future: The Minor Murdochs Take Command - Breitbart
+19822,1,Newt Gingrich, 2012: The Overture to Donald Trump, 2016 - Breitbart
+19943,1,Cheap Gas Prices are Trickle-Down Tax Cut of $1500 - Breitbart
+19991,1,Ashley Graham Becomes First Size-16 Model to Cover ’Sports Illustrated’ Swimsuit Issue - Breitbart
+20200,1,Obama-Era Suicide Rate in U.S. Highest in 30 Years
+20621,1,LISTEN: Stephen K. Bannon’s Epic ‘Clinton Cash’ Rant - Bill and Hillary ‘Two Biggest Grifters to Ever Run for President’ - Breitbart
+20670,1,#HidingHillary Day 261: Journalism Professor Blames Media For Hillary’s Absence - Breitbart
+21245,1,Kassam: Britain Needs UKIP, and UKIP Needs YOU... Now More Than Ever
+21309,1,The Nuclear Option: Media Elite Decry Trump’s Gettysburg Address as Dog Whistle to Racists, Here’s Why They’re Wrong - Breitbart
+21536,1,James Pinkerton: Franklin D. Roosevelt’s Four Freedoms Are from 1941: We Need New Freedoms in the 21st Century  - Breitbart
+21581,1,PHOTOS: Islamic State Video Shows Child Beheading Man
+21964,1,ESPN Erases Sports History: Network Edits Schilling’s ‘Bloody Sock’ Game Out of Red Sox Versus Yankees Documentary - Breitbart
+22003,2,Snoop Dogg: ’F*ck’ ’Roots,’ ’When Ya’ll Gone Make a Series About Black Success?’ - Breitbart
+22223,1,***Horse Race LiveWire*** Nevada Votes: Trump Beats Rubio, Cruz Combined - Breitbart
+22628,1,’The Force Awakens’ Is the Worst Thing Ever - Breitbart
+23006,1,The Last of the Boys of Pointe du Hoc: The Rangers of Dog Company Who Accomplished D-Day’s Toughest Mission - Breitbart
+23240,1,Sarah Palin Congratulates Mike Pence, Calls for Unity to Win - Breitbart
+23749,1,Washington Post: Trump Mexico Summit Will Be a Disaster
+23763,1,Report: Media Give Gorilla Death 6 Times More Coverage Than ISIS Beheadings of Christians
+24017,1,August Rings Out as Chicago’s Most Violent Month in Two Decades - Breitbart
+24110,1,***Horse Race LiveWire*** Nevada: Hillary Beats Bernie Trump Projected to Win South Carolina - Breitbart
+24275,1,Politico Admits: Voters Abandon Hillary for Gary Johnson, Jill Stein - Breitbart
+24309,1,Police Take Credit for Tarantino’s ’Hateful Eight’ Box Office Crash - Breitbart
+25425,1,DiCaprio Got ’Terrifying’ Up-Close Look at Climate Change While Shooting ’The Revenant’ - Breitbart
+25501,1,The Best Memes About Anthony Weiner and Hillary Clinton’s FBI Investigation - Breitbart
+26005,1,’Deus Ex: Mankind Divided’ Review: A Brilliant, Mature RPG That Pulls No Punches - Breitbart
+26202,1,Muslims Riot Over Death of One Muslim Cleric, But Silent Over Genocide of Christians in Their Midst - Breitbart
+26439,1,***Horse Race LiveWire*** Top Trump Adviser: Cruz Favored Uncontrolled Muslim Migration That Would Turn U.S. into Europe - Breitbart
+26657,1,Curt Schilling’s Video Game Studio Cleared of Any Criminal Wrongdoing - Breitbart
+26691,2,‘Straight Outta Compton’ Star Blasts ‘Roots’ Remake: ’We Don’t Have to Keep Getting Beaten Up’ - Breitbart
+27022,1,Obamacare Double-Digit Increases Threaten Democrats - Breitbart
+27431,1,Marco Rubio, the Spoiler - Breitbart
+27901,1,Obama Wants $4 Billion to Subsidize Silicon Valley Driverless Cars - Breitbart
+27932,1,Matthew McConaughey Is ’Happy’ and ’Honored’ to be an American
+27944,1,Newt Gingrich Challenges Megyn Kelly on Anti-Trump Bias in Epic Showdown...Megyn Won’t Call Bill Clinton a ’Sexual Predator’ - Breitbart
+28034,1,’Godfather,’ ’Barney Miller’ Actor Abe Vigoda Dead at 94 - Breitbart
+28158,1,Americans Win First Ryder Cup Since 2008 - Breitbart
+28497,1,Anti-White Racism: The Hate That Dares Not Speak Its Name - Breitbart
+28579,1,***Horse Race LiveWire*** Summer Bummer: GOP Fight Drags on to Convention - Breitbart
+28659,1,2016 Election: World Reacts to Donald Trump’s Stunning Upset Victory - Breitbart
+28753,1,The Nuclear Option: All the Fake News That’s Fit to Print! - Breitbart
+28846,1,Nate Silver: Polling Error Could Be ’Higher Than Usual’ Thanks to Late-Breaking Undecideds - Breitbart
+28987,1,Seven Reasons for Liberals to Chill out About Donald Trump
+28997,1,Politico Scoop: Eric Trump Killed Two Deer - Breitbart
+29215,1,Ann Coulter – Key to Trump’s Victory: Math - Breitbart
+29249,1,Exclusive — Steve King: Team Cruz ‘Confident Without Being Cocky’ Heading into Caucuses - Breitbart
+29391,1,’No Man’s Sky’ Review: A Walking Simulator Across 18 Quintillion Planets - Breitbart
+29501,1,Sharks Stave Off Elimination, Top Penguins 4-2 in Game 5 - Breitbart
+29628,1,Justice Antonin Scalia in Repose at the Supreme Court - Breitbart
+29950,1,Frank Gaffney on Obama’s Attempt to Slip Irreversible Internet Surrender Under the Radar: ’We’ve Got Three Days to Fix This’
+30412,1,20 Most Epic Celebrity Trump Meltdowns of 2016
+30430,1,Zika Exposes Environmentalists’ Deliberate DDT Death Toll - Breitbart
+31172,1,Leo DiCaprio-Hillary Clinton Money ’Laundering’ Street Art Appears in L.A. - Breitbart
+31262,3,’Total War: Warhammer’ Review: WAAAGH! What Is It Good For? - Breitbart
+31439,2,Beyond Zucked: The Indian Mega-Companies Behind the H-1B Visa Crisis - Breitbart
+31460,1,Ann Coulter: Springtime for Pundits - Breitbart
+31508,1,Pamela Geller: In the Year Since the First Islamic State Attack on American Soil, These Muslims Confirmed ’the War Has Just Begun’ - Breitbart
+31613,1,5 things for Monday, January 2, 2017
+31703,1,Trump’s spiritual adviser fires back at critics
+32098,1,AFCON 2017: Ghana dances its way into quarterfinals, Pharaohs break Uganda hearts
+32164,1,’La La Land’ fails to make America great again
+32166,1,Cervical cancer death rates are much higher than thought, study says
+32267,2,Arrogate wins world’s richest horse race
+32809,1,CNN 10 - February 21, 2017
+33130,1,Angela Lee: The world’s youngest MMA champion
+33290,1,CNN 10 - March 13, 2017
+33341,1,Federer and Nadal to renew rivalry
+33373,1,Markeith Loyd case: State attorney removed
+33689,1,’The Walking Dead’ sets stage for war in tense season finale
+33749,1,Masters 2017: All you need to know about Augusta
+33815,1,The questions Trump needs to answer
+34058,1,Where are all the women in sailing?
+34180,1,CNN 10 - April 25, 2017
+34297,2,Joshua digs deep to win epic world heavweight bout
+34334,1,Police: San Diego gunman called ex-girlfriend during shooting
+34843,1,Trump’s two minds on Islam
+34982,2,Music legend Gregg Allman dies at 69
+35106,1,’Wonder Woman’ does the job ’Superman’ couldn’t
+35122,1,Djokovic to umpire: ’You’re losing your mind’
+35734,1,The absurd beauty of Australian hot rods
+36354,1,Stenson triumphs after classic Troon duel
+36961,1,Monica Puig wins Puerto Rico’s first Olympic gold
+36986,1,Historic Louisiana floods displace thousands
+36993,1,A ’rigged’ election in the Electoral College?
+37076,1,’Ben-Hur’ remake stumbles across the finish line
+37155,1,Rio 2016: Top Olympic moments to savor
+37158,1,Louisiana flood victim: ’It was Katrina’
+37291,1,Can Murray top golden year at US Open?
+37761,1,Liverpool ends Chelsea’s unbeaten run
+37970,1,101-year-old gets one last ride on a Harley
+38141,1,Hurricane Matthew: ’Life-threatening flash floods and mudslides’ expected
+38156,1,US and Love III avenge Miracle of Medinah
+38160,1,Hurricane Matthew swirls toward Haiti
+38172,1,Trump: ’I’m working for you now, I’m not working for Trump’
+38771,1,Jet-skiing jugs and other trophy tales
+38838,1,America’s Cup: Ben Ainslie on course to create history
+38893,1,London’s secret underground railway
+39640,2,Australian Open loses comeback king del Potro
+39688,1,2016: The year the music died
+39726,2,Alexa, can you help with this murder case?
+39789,1,Cycling’s marathon man attempts 75,000 miles in a year
+39991,1,El Capitan: Climbers didn’t conquer Yosemite (Opinion)
+40014,1,On patrol with Skid Row’s ’angel cop’
+40037,1,American Sniper: Palin’s attack on ’Hollywood Leftists’ personal
+40163,1,Here’s what you need to know about the blizzard of 2015
+40184,1,’Too precious’ to drill, baby drill?
+40239,1,Author of the ’Thorn Birds,’ Colleen McCullough dies
+40673,1,Andy Samberg to host the 2015 Emmys
+40894,1,Study: Jupiter’s role in solar system helped Earth
+41104,1,California water: End of the LA lawn (Opinion)
+41140,1,On TV, a new Jesus comes into view
+41157,1,How much will city election change Ferguson, Missouri?
+41291,1,NASA probe beams back its first color image of Pluto
+41493,1,Face-off: Mayweather vs. Pacquiao by the numbers
+41528,1,Epic miniseries ’Roots’ is getting a remake
+41604,1,Is Joss Whedon a feminist? (Opinion)
+41641,1,’Mad Max: Fury Road’ driving critics wild
+41854,1,Do Egypt’s empty animal mummies reveal an ancient scam?
+41922,2,A tradition of success at spelling bees (Opinion)
+41987,1,5 things to know for your New Day -- Tuesday, June 2
+42007,1,Spaceports and sky farms: Is this Britain in 2100?
+42142,1,Ron Paul’s apocalypse is now
+42524,1,The power of Taylor Swift
+42610,1,Gay rights, Obamacare and a week that changed the nation
+42658,1,New York Times insists on adding peas to guacamole
+42787,1,Zimm the Memphis monkey back in zoo
+42835,1,Pluto discoverer’s ashes are aboard New Horizons probe
+42961,1,Earth from space: First images from a million miles away
+42999,1,Pfeiffer: Meek Mill feud with Drake ’brilliant marketing’
+43174,1,Republicans have set a trap for themselves — and only Trump can save them
+43650,1,Josh Elliott has reportedly been fired from CBS News after on-air blunder
+43713,1,Tesla has sent investors on an epic roller coaster ride for years — look back at the craziest moments
+43797,1,The unbelievable story of why Marlon Brando rejected his 1973 Oscar for ’The Godfather’
+43810,1,A founder who sold his startup for $200 million paid for all 160 employees to party with him in Vegas  — ’On a scale of 1 to OMFG, it was probably a 10’
+44160,1,The next Republican fights could be even worse than its one over healthcare
+44227,1,Robots and automation are going white collar — but they’re not here to steal your job just yet
+44329,2,Sergio Garcia wins the Masters with one of the most thrilling 5-hole stretches you will ever see
+44854,2,Tesla’s future is completely inhuman — and we shouldn’t be surprised
+44886,1,Ford’s new CEO will have to tell Wall Street a different story
+46033,1,An extreme astronaut just returned safely to Earth — and scientists can’t wait to see him
+46190,1,An influential psychology theory about chocolate chip cookies may be wrong — and it could change how we think about willpower
+46684,1,This is the nightmare scenario that terrifies every car company
+47089,1,’The new gasoline’ could be in an epic bubble
+47207,1,This ’Game of Thrones’ reveal is the most hyped thing to ever happen on the series
+47306,1,The best iPhone apps in the world, according to Apple
+47573,1,These are all the Fourth of July sales you should know about
+47842,1,How a new source of water is helping reduce conflict in the Middle East
+47981,1,Fireworks, ancient ruins, and celebrities: Inside Larry Page and Sergey Brin’s exclusive conference in Italy
+48421,1,NASA successfully launches a nearly $1 billion mission to an asteroid millions of miles away
+48454,2,40 years ago, Led Zeppelin released its most difficult album — and it’s still hard to listen to
+48544,1,The fight over the Dakota Access Pipeline reveals oil’s fatal flaw
+48612,1,100 trips everyone should take in their lifetime
+48697,1,Microsoft to Salesforce: Game on
+48786,2,I’ve been traveling the world for 5 years, and here are the 7 best pieces of advice I can give you about money
+49003,1,Tesla is on the verge of completely changing the way it does business
+49434,1,This is what a Trump presidency means for the US auto industry
+49710,1,Tesla’s biggest moments of 2016
+49868,2,27 Movies to Look Forward to in 2017
+49898,1,TV Shows to Look Forward to in 2017 (So Far)
+49906,1,Run the Jewels’ Gloriously Obscene Rebellion
+49956,1,What Jeff Sessions’s Role in Prosecuting the Klan Reveals About His Civil-Rights Record
+49963,1,The Introverted Politics of the 2017 Golden Globes

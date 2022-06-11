@@ -1,0 +1,629 @@
+18,3,Suicide Bombing in Baghdad Kills at Least 36 - The New York Times
+26,1,Istanbul, Donald Trump, Benjamin Netanyahu: Your Morning Briefing - The New York Times
+148,1,In Turkey’s Unrest, Some See an Extreme Version of Post-9/11 America - The New York Times
+215,1,Sentenced to Death: A Look at Dylann Roof’s Rampage and Its Aftermath - The New York Times
+218,3,Bombings Near Afghanistan’s Parliament Kill Dozens on Day of Assaults - The New York Times
+227,1,Clare Hollingworth, Reporter Who Broke News of World War II, Dies at 105 - The New York Times
+254,2,Taiwan Responds After China Sends Carrier to Taiwan Strait - The New York Times
+257,1,Young Symbol of Afghan Resilience Joins List of Lost Leaders - The New York Times
+399,2,Wife of Orlando Gunman Is Charged Under Antiterrorism Laws - The New York Times
+430,1,Iraqi Forces Take Eastern Mosul From Islamic State - The New York Times
+432,1,Death Toll in Mistaken Bombing of Camp in Nigeria Climbs to 70 - The New York Times
+456,3,U.S. Bombs ISIS Camps in Libya - The New York Times
+499,1,Pakistani Taliban Claim Deadly Market Bombing - The New York Times
+794,1,Political Fashion Statements at the Men’s Wear Shows - The New York Times
+944,1,Our Articles on the Attacks Trump Says the Media Didn’t Cover - The New York Times
+1175,3,Pakistan Shrine Bombing Kills Scores in Worst Attack in Months - The New York Times
+1239,2,‘Last Night in Sweden’? Trump’s Remark Baffles a Nation - The New York Times
+1279,1,Is China Pushing Trump to Talk to North Korea? - The New York Times
+1336,1,Cressida Dick Will Be First Woman to Lead Scotland Yard - The New York Times
+1392,1,U.S. Forces Play Crucial Role Against ISIS in Mosul - The New York Times
+1666,1,U.S. Is Sending 400 More Troops to Syria - The New York Times
+1718,4,Uprooted by War, Threatened by Boko Haram and Desperate to Go Home - The New York Times
+1724,1,Damascus Bombings Near Pilgrimage Sites Kill Dozens - The New York Times
+1799,1,Republicans, Syria, Geert Wilders: Your Wednesday Evening Briefing - The New York Times
+1875,1,‘Kids Are Unpredictable’ - The New York Times
+1958,1,Deadly Attack Near U.K. Parliament Car Plows Victims on Westminster Bridge - The New York Times
+1997,1,Man in Antwerp, Belgium, Tries to Drive Into Crowd - The New York Times
+2122,1,Engulfed in Battle, Mosul Civilians Run for Their Lives - The New York Times
+2163,3,Maajid Nawaz’s Radical Ambition - The New York Times
+2270,4,Explosion in St. Petersburg, Russia, Kills 11 as Vladimir Putin Visits - The New York Times
+2310,3,St. Petersburg Bomber Said to Be Man From Kyrgyzstan Death Toll Rises - The New York Times
+2430,3,Egypt Declares State of Emergency, as Attacks Undercut Promise of Security - The New York Times
+2484,1,Explosions Hit Borussia Dortmund’s Bus in Germany, Wounding a Player - The New York Times
+2571,1,Alissa Rubin, 2016 Pulitzer Winner, Reports From the Front Lines - The New York Times
+2575,1,Bus Bombing in Jerusalem Wounds 21 - The New York Times
+2715,1,Muslim Leaders Wage Theological Battle, Stoking ISIS’ Anger - The New York Times
+2759,4,Victims of Boko Haram, and Now Shunned by Their Communities - The New York Times
+2784,1,How Kosovo Was Turned Into Fertile Ground for ISIS - The New York Times
+2832,1,Militias in Libya Advance on ISIS Stronghold of Surt With Separate Agendas - The New York Times
+2941,1,Orlando Gunman Attacks Gay Nightclub, Leaving 50 Dead - The New York Times
+2954,2,Omar Mateen, Twice Scrutinized by F.B.I., Shows Threat of Lone Terrorists - The New York Times
+3008,1,‘Always Agitated. Always Mad’: Omar Mateen, According to Those Who Knew Him - The New York Times
+3030,1,Smugglers in West Bank Open Door to Jobs in Israel, and Violence - The New York Times
+3047,1,Diary of a Cruise Season - The New York Times
+3118,1,Istanbul Airport, Benghazi, Pat Summitt: Your Tuesday Evening Briefing - The New York Times
+3143,1,Istanbul, Donald Trump, Boris Johnson: Your Thursday Evening Briefing - The New York Times
+3170,1,ISIS Uses Ramadan as Calling for New Terrorist Attacks - The New York Times
+3177,4,Suicide Bombings Hit 3 Cities in Saudi Arabia, One Near a Holy Site - The New York Times
+3366,1,Donald Trump Sets Conditions for Defending NATO Allies Against Attack - The New York Times
+3376,1,ISIS Claims Deadly Bombing at Demonstration in Kabul, Afghanistan - The New York Times
+3404,2,In Tribute to Son, Khizr Khan Offered Citizenship Lesson at Convention - The New York Times
+3449,2,Dylann Roof’s Lawyers Argue Against Death Penalty - The New York Times
+3456,5,How a Secretive Branch of ISIS Built a Global Network of Killers - The New York Times
+3497,1,U.S. Could Exceed Goal of Accepting 10,000 Syrian Refugees - The New York Times
+3511,1,Donald Trump, Delta Air Lines, Michael Phelps: Your Monday Evening Briefing - The New York Times
+3514,2,New Photos Cast Doubt on China’s Vow Not to Militarize Disputed Islands - The New York Times
+3516,3,Suicide Bomber Kills Dozens at Pakistani Hospital in Quetta - The New York Times
+3521,1,Think Tank Scholar or Corporate Consultant? It Depends on the Day - The New York Times
+3591,1,Boko Haram Video Appears to Show Bodies of Kidnapped Girls - The New York Times
+3677,2,Syria’s Horrors Visit Turkey Again as Bomber Attacks Kurdish Wedding - The New York Times
+3696,2,Iran Revokes Russia’s Use of Air Base, Saying Moscow ‘Betrayed Trust’ - The New York Times
+3713,1,Bomb Kills an American Soldier Near Besieged Afghan City - The New York Times
+3717,1,Italy, U.S. Presidential Race, Syria: Your Wednesday Evening Briefing - The New York Times
+3731,2,Saudis and Extremism: ‘Both the Arsonists and the Firefighters’ - The New York Times
+3876,1,Obama Unlikely to Vow No First Use of Nuclear Weapons - The New York Times
+4022,1,Mayor de Blasio Avoids Terrorism Label in Manhattan Explosion - The New York Times
+4074,2,‘In-Betweeners’ Are Part of a Rich Recruiting Pool for Jihadists - The New York Times
+4131,1,To the Moon, North Korea? Or Does a Rocket Have a Darker Aim? - The New York Times
+4200,1,Vladimir Putin Exits Nuclear Security Pact, Citing ‘Hostile Actions’ by U.S. - The New York Times
+4314,1,A New Weapon in Russia’s Arsenal, and It’s Inflatable - The New York Times
+4329,1,Yemen Sees U.S. Strikes as Evidence of Hidden Hand Behind Saudi Air War - The New York Times
+4552,1,From Bataclan to Street Cafes, Paris Is Quiet but Resolute as It Mourns on Anniversary of Attacks - The New York Times
+4553,11,Paris: One Year On - The New York Times
+4655,3,Islamic State Again Strikes at Afghan Shiites, Killing at Least 30 in Kabul - The New York Times
+4697,2,ISIS Bomb Aimed at Shiite Pilgrims in Iraq Kills at Least 80 - The New York Times
+4733,1,Donald Trump Faces Obstacles to Resuming Waterboarding - The New York Times
+4759,1,The End of the Anglo-American Order - The New York Times
+4857,1,Jubilant Libyan Militias Declare Victory Over ISIS in Surt - The New York Times
+4905,1,Foes of Russia Say Child Pornography Is Planted to Ruin Them - The New York Times
+4984,1,When Politics Became a Fashion Statement - The New York Times
+5029,2,ISIS Suicide Attack Kills 48 in Southern Yemen - The New York Times
+5072,5,Trump Says the U.S. Should Expand Its Nuclear Capacity - The New York Times
+5128,1,Aboard a U.S. Eye in the Sky, Staring Down ISIS in Iraq and Syria - The New York Times
+5129,2,Weakened Militarily, ISIS Still Has Power to Sow Deadly Mayhem - The New York Times
+5134,1,Russia Mounts Search After Plane Crash and Says Terrorism Is Unlikely - The New York Times
+5392,1,What if PTSD Is More Physical Than Psychological? - The New York Times
+5410,1,Omar Mateen Told Police He’d Strap Bombs to Hostages, Orlando Mayor Says - The New York Times
+5433,2,Decades Later, Sickness Among Airmen After a Hydrogen Bomb Accident - The New York Times
+5480,1,Istanbul Airport Attack Leaves at Least 41 Dead - The New York Times
+5496,1,Istanbul, Hillary Clinton, Loretta Lynch: Your Friday Evening Briefing - The New York Times
+5596,1,Obama’s Support of Erdogan Is a Stark Reminder of Turkey’s Value to U.S. - The New York Times
+5672,1,Moment in Convention Glare Shakes Up Khans’ American Life - The New York Times
+5673,1,Military Success in Syria Gives Putin Upper Hand in U.S. Proxy War - The New York Times
+5684,1,Trial by Jury, a Hallowed American Right, Is Vanishing - The New York Times
+5692,1,‘A Fire Happened in the Newborn Unit, and Your Baby Died’ - The New York Times
+5726,1,Louisiana, Simone Biles, U.S. Presidential Race: Your Tuesday Evening Briefing - The New York Times
+5727,8,Russia Sends Bombers to Syria Using Base in Iran - The New York Times
+5808,1,Japanese Government Urges Another Increase in Military Spending - The New York Times
+5963,1,Why Bomb Suspect’s Travels Didn’t Set Off More Scrutiny - The New York Times
+6027,3,2 Brussels Police Officers Are Stabbed in ‘Potential Terrorist Attack’ - The New York Times
+6341,1,Shinzo Abe to Become First Japanese Leader to Visit Pearl Harbor - The New York Times
+6422,1,David Friedman, Choice for Envoy to Israel, Is Hostile to Two-State Efforts - The New York Times
+6578,1,Jane Fawcett, British Decoder Who Helped Doom the Bismarck, Dies at 95 - The New York Times
+6733,1,Donald Trump’s Confrontation With Muslim Soldier’s Parents Emerges as Unexpected Flash Point - The New York Times
+6790,1,Arthur Hiller, ‘Love Story’ Director and Box-Office Magnet, Dies at 92 - The New York Times
+6851,1,Coordinated Bombs in Kabul Kill Senior Afghan Officials at Defense Ministry - The New York Times
+6889,2,Ahmad Khan Rahami Is Arrested in Manhattan and New Jersey Bombings - The New York Times
+6923,3,In Hacked Audio, Hillary Clinton Rethinks Obama’s Nuclear Upgrade Plan - The New York Times
+7012,1,Bomber Kills 4 Americans at U.S. Base in Afghanistan - The New York Times
+7050,1,ISIS Operative Suspected in Paris and Brussels Attacks Is Identified - The New York Times
+7093,1,Leonard B. Sand, Judge in Landmark Yonkers Segregation Case, Dies at 88 - The New York Times
+7126,1,On ‘Patriots Day’: ‘Love Will Defeat Evil’ - The New York Times
+7197,1,Salah Abdeslam, Suspect in Paris Attacks, Is Extradited to France - The New York Times
+7263,2,Turkey Says Airport Bombers Were From Kyrgyzstan, Russia and Uzbekistan - The New York Times
+7315,1,Shah Rukh Khan, ‘King of Bollywood,’ Was Detained at a U.S. Airport for the Third Time - The New York Times
+7328,1,Zika, Olympics, U.S. Presidential Race: Your Weekend Briefing - The New York Times
+7410,1,After Torture, Ex-Detainee Is Still Captive of ‘The Darkness’ - The New York Times
+7434,1,Madonna Gave a Surprise Pop-Up Concert to Support Clinton. We Were There. - The New York Times
+7520,1,Rick Perry, as Energy Secretary, May Be Pressed to Resume Nuclear Tests - The New York Times
+7549,1,Muhammad Ali Dies at 74: Titan of Boxing and the 20th Century - The New York Times
+7569,2,Bombing Kills More Than 140 in Baghdad - The New York Times
+7625,1,How Police Found Second Bomb, and a ‘Total Containment Vessel’ Hauled It Away - The New York Times
+7627,1,Ahmad Khan Rahami Was Inspired by Bin Laden, Charges Say - The New York Times
+7695,2,Trump Gets an Opening from Russia, but the Path Is Risky - The New York Times
+7713,4,Dozens Killed in Suicide Attack on Shiite Shrine North of Baghdad - The New York Times
+7718,1,One Police Shift: Patrolling an Anxious America - The New York Times
+7777,1,Trump Says U.S. Would ‘Outmatch’ Rivals in a New Nuclear Arms Race - The New York Times
+7987,2,PBS Islamic Lesson Plan Encourages Students to Identify with Radical Jihadists - Breitbart
+8088,1,Pulse Massacre Jihadi’s Wife Arrested
+8366,1,GABRIEL: Call It What It Is: Radical Islamic Terrorism - Breitbart
+8536,4,Virgil: On This Memorial Day, Breitbart Readers Remember and Look to the Future - Breitbart
+8762,1,Pamela Geller: Universities Normalizing Anti-Semitic Voices like Linda Sarsour but Silencing Jewish Conservatives
+8805,2,Pope Francis ‘Deeply Saddened’ over ‘Barbaric Attack’ in Manchester
+8963,4,CNN Terrorism Analyst Suggests Possibility of ’Right-Wing,’ ’False Flag’ Plot in Manchester Bombing - Breitbart
+9233,1,North Korea Threatens ’Super-Mighty Preemptive Strike’ to Reduce America to ’Ashes’
+9288,2,Geller: MILO to Speak at AFDI #CancelSarsour Protest at CUNY - Breitbart
+9352,2,Exclusive — Taylor Force Family’s Attorneys: Cut U.S. Funding to Palestinian Terrorists, Suicide Bombers’ Families Now - Breitbart
+9542,1,London Terror: One Dead, One Arrested as Man Ploughs Van into Pedestrians Outside London Mosque
+9855,1,Egyptian Christians Cancel Easter Festivities in Mourning Over Palm Sunday Massacre
+9947,1,Report: More Citizens Saudi Arabia Have Joined Islamic State than Any Other Country
+9953,1,Linda Sarsour, Women’s March Organizer and Fake Feminist
+9975,1,Larry Wilmore Melts Down, Tells MILO ’Go F*ck Yourself’ - Breitbart
+10013,5,Boko Haram Jihadists Slay 15 Civilians in Ramadan Attacks in Northern Nigeria
+10543,1,Palestinian Authority Forked Out $1 Billion in 4 Years to Terrorists Salaries
+10607,3,Ann Coulter: Rome Burns - Nero Worries About Pyrophobia
+10717,1,Before Trump Executive Order, Obama Officials Warned Islamic State Would Use ’Refugee Flows’ to Enter West - Breitbart
+10771,1,London Attacker Known to Police, Allegedly Appeared on TV Jihad Show, Linked to Anjem Choudary
+10806,4,U.S. Flying Bombers Above Disputed South China Sea Irks ’Vigilant’ Beijing
+10912,1,LISTEN - Mark Levin: Trump ‘Playing Footsie’ With ’Known Terrorist’ Abbas
+11014,19,Ramadan Rage 2017: 1,424 Fatalities Already More than Triple Those Last Year - Breitbart
+11037,1,Bill Maher to MILO: ’You Remind Me of a Young, Gay, Alive Christopher Hitchens’ - Breitbart
+11258,1,Report: International Religious Freedom Worsening in both ‘Depth and Breadth’
+11303,2,Iran Blames Saudi Arabia for Islamic State Parliament, Ayatollah Shrine Rampage - Breitbart
+11468,1,Sweden’s Anti-Mass Migration Leader in Wall Street Journal: ’Trump Is Right’
+11477,2,Report: Trump Denounces Nuclear Arms Control Treaty to Putin - Breitbart
+11522,1,Flight to London Evacuated Following Bomb Threat
+11552,8,22 Dead, 50+ Injured After Reports of ’Explosions’ At UK Ariana Grande Concert
+11579,2,Homeland Security Secretary: Expect ‘A Lot More’ Manchester-style Attacks - Breitbart
+11686,1,Islamic State Urges ’All Out War’ on West for Ramadan
+11780,1,Manchester Suicide Bomber Salman Abedi: Son of Libyan Immigrants Who Chanted Arabic Prayers in The Street
+11800,1,Britain Reduces Terror Level One Notch to ‘Severe’ After Terror Cell Arrests
+11947,1,MILO and Pamela Geller Protest Sharia-Advocate Linda Sarsour in NYC - Breitbart
+12125,1,EXCLUSIVE: Archbishop of Lahore Tells Pakistani Christians: ’Don’t Live in Fear, and Do Not Fight’ - Breitbart
+12252,2,Suicide Bomb Attack Targets Baghdad Market
+12271,6,10-Year-Old Girl Used as Human Bomb in Nigeria Attack
+12286,1,Ann Coulter: We Have Now Hit Full-On Crazy
+12302,2,DELINGPOLE: How Social Media’s Useful Idiots Responded to the Manchester Suicide Bomb - Breitbart
+12375,1,’Manchester’: The Missing Word in the Fourth Circuit’s Ruling - Breitbart
+12392,1,Yemen Demands UN Designate Iran-Backed Houthis a Terrorist Organization
+12472,1,GABRIEL: Terror: The Consequence of Apathy - Breitbart
+12517,1,EXCLUSIVE: Foreign Minister: Turkey ’Very Clear’ in Entering Syria to Defeat Islamic State - Breitbart
+12619,1,Report: Manchester Bomber’s Father Former al-Qaeda Affiliate Member, Claims Second Son Arrested in UK - Breitbart
+12757,3,Manchester Bomber ’Part of Mob Who Waged Intimidation Campaign Against Gang Rape Victim’ - Breitbart
+12778,3,Jakarta Bombing Kills Three Police Officers, Linked to Islamic State
+12909,2,Mosul Suicide Bomber Was British, Says Islamic State
+12932,1,Nigeria: Thousands of Women Protest Boko Haram Suicide Bombings, Rape, Abductions - Breitbart
+12971,2,RABBI SHMULEY: Spicer’s Actions Redeem His Words on Assad - Breitbart
+13135,1,MILO to Bill Maher: It’s Now Breitbart Publishing the Exciting Gay Editorials - Breitbart
+13137,1,Texas Senate Votes to Wipe Out State Refugee Office
+13171,1,Muslim Anti-Christian Incitement Rises in Crisis-Torn Egypt
+13187,1,Trump Honors Andrew Jackson, Rosie the Riveter in Weekly Address - Breitbart
+13229,2,Report: Church Bombing in Cairo Kills 21, Wounds 38
+13244,1,Courtney Love Rips Linda Sarsour: ’Vile Disgrace to Women and All Mankind’
+13245,3,Bomb Squad Scrambled to Wigan After ‘Suspicious Items’ Found in Manchester Attack Investigation
+13259,2,Suicide Terrorism Across the Globe Hits Record High in 2016
+13276,2,Police Release Images of Manchester Bomber Salman Abedi on Night of Terror Attack - Breitbart
+13350,1,Two Fresh Arrests in Manchester Attack Investigation Brings Total to 11
+13413,2,Navy SEAL Raid in Yemen Spotlights Issue of Female Terrorists Amid Trump’s Temporary Refugee Halt - Breitbart
+13530,2,Britain ’Warned in January’ by FBI Manchester Bomber Was Planning Attack on UK - Breitbart
+13693,1,Manchester Attack Investigations: 14 People Detained in Britain and Libya - Breitbart
+13843,2,Virgil: Donald Trump, Rosie the Riveter, and the Revival of American Economic Nationalism
+13852,1,Pope’s Timely Egypt Visit Comforts Grief-Stricken Middle East Christians
+14095,1,Report: Trump Considering Placing Nuclear Weapons in South Korea as Deterrent to North
+14102,1,Geller: President Trump – True to His Word   - Breitbart
+14121,1,Ann Coulter: Let’s Make Russia Our Sister Country!
+14224,1,Parents Fearful to Allow Children Out as Islamist Terror Sweeps Europe
+14241,1,Pope Francis Egypt Visit to Bring ‘Comfort and Encouragement’ to Christians in Middle East
+14607,1,Katy Perry on Manchester Bombing: ’No Barriers, No Borders, We All Just Need to Co-Exist’
+14742,1,MILO Warns Bill Maher: ’Democrats Are Party of Lena Dunham, Mental, Hideous People’ - Breitbart
+14765,1,Officials Dismiss Report of Planned North Korea Strike as ’Wildly Wrong, Crazy, Dangerous’ - Breitbart
+14793,1,Gorka: An Upstanding Citizen or Immigrant on Monday Doesn’t Decide to Become a Jihadi on Tuesday
+14797,2,Iran Turns Wrath on U.S., Saudi Over Terror Attacks
+14815,1,Car Bombing in Syria Strikes Convoy Transporting Evacuees, At Least 43 Killed - Breitbart
+14948,3,Tillerson Fallout: China Demands U.S. Respect Illegal Airspace Claim over Japanese Islands
+14985,1,Manchester Terrorist Linked to Canadian Radical Imam
+15037,2,Fake ’Fake News’: Media Sow Division with Dishonest Attack on Breitbart’s ’Allahu Akbar’ Church Fire Story
+15163,8,Boko Haram Quadruples Female Suicide Bombers in Terror Attacks
+15204,1,Islamic State Vows More Attacks on Egypt’s Christians
+15228,4,Reports: Manchester Bomber Salman Abedi ’Known to Authorities’ Before Terror Attack
+15246,1,London Terrorists Named: Known to Police, Born in Pakistan
+15423,1,France Investigates Champs Elysees Attacker as Vote Looms
+15535,1,Donald Trump’s Conservative Foreign Policy - Breitbart
+15722,1,Islamic State Forcing Child Soldiers to Replace Dead Jihadis
+15990,1,Donald Trump Sizzles in Foreign, Defense Policy Speech: ‘I Will Never Let You Down’ - Breitbart
+16097,1,Boston Bombing Anniversary: Denying the Obvious - Breitbart
+16234,1,Live Updates - Terror in Orlando: Approximately 50+ dead, 50+ More Wounded at Gay Nightclub - Breitbart
+16374,3,PA Abbas’ Fatah Party: Glory To female Suicide Bombers
+16387,1,Report: Orlando Jihadi’s Father Helped Run Radical Mosque
+16824,1,Borelli: Why is Prominent Hillary Surrogate Tweeting Out Support for A Terrorist as Orlando Victims Lay Dying? - Breitbart
+17231,2,Friends, Family Grieve New York Air National Guardsman Killed by Taliban - Breitbart
+17404,2,PICTURES: Pakistan Bombing Kills 60 During Easter Celebration, Mostly Women and Children - Breitbart
+17414,1,Lawyer for Boston Marathon Bomber’s Widow Rips Movie Portrayal
+17496,1,Gamescom Bans Cosplay Weapons in Response to Recent Terrorist Attacks - Breitbart
+17553,1,Germany’s Secret Islamic Horror: How Blind Elites Are Destroying A Once-Great Nation - Breitbart
+17599,1,Orlando Terrorist Attack Is Deadly Threat to Left’s Agenda - Breitbart
+17697,1,Judge Jeanine: ’Get a Gun’ Because Our Government Isn’t ’in a Position to Help’ - Breitbart
+17786,2,Final Key Paris, Brussels Attacks Suspect Arrested In Belgium
+17878,1,Panic Mode: Khizr Khan Deletes Law Firm Website that Specialized in Muslim Immigration - Breitbart
+18006,2,Turkey Wedding Attack Toll Rises to 50
+18275,2,Jamaican Cleric: ’Infidels’ Are Poisoning Muslims with Cancer Water
+18351,1,Islamic State Video Claims to Show Paris Attackers, Threatens Britain
+18447,1,Malaysia Admits Islamic State Poses ’Very Real’ Threat
+18478,11,Islamic State Increasingly Rely on Female Suicide Bombers
+18683,1,Red Sox Great Curt Schilling to Participate in SiriusXM ‘Breitbart News Patriot Forum’ in New York City on Wednesday - Breitbart
+18685,1,Report: Virginia Gov. Terry McAuliffe Urged Khizr Khan to Run for Office - Breitbart
+18855,1,Donald Trump: Must Keep ’Horrible Terrorism outside the United States’ - Breitbart
+18894,9,Three Suicide Bombers Strike Saudi Arabia, One Near Muslim Pilgrimage Site in Medina - Breitbart
+18912,1,Paris Suspect Admits To Being Brussels Airport ’Man In Hat’
+18952,1,Mosul Residents Say Islamic State Forcibly Gathering Civilians
+19000,1,Police Shocked By Scale Of Islamic State Network in Europe
+19313,1,Trump’s Mission: Make America Great Again, Thinking Big and Winning - Lessons from U.S. History - Breitbart
+19344,1,REVEALED: Imams Preaching Saudi-Imported Hate Texts In British Jails
+19356,1,Nina Shea: How Hillary Clinton Assisted the ‘Mainstreaming of Taliban Ideology’ in Pakistan to Deadly Effect
+19363,1,Turkey Jails Islamic State Jihadis for New Year’s Eve Bomb Plot
+19442,1,Orlando Jihadi Swiftly Deemed ’Self-Radicalized’ Has Al Qaeda, Islamic State Ties
+19476,1,NBC: Ramadan Ends in Sea of Blood
+19491,1,Erik Prince: Because ’Europe Can’t Deal with Radical Islam,’ Slaughter of Christians Will Continue
+19729,1,Report: Military Coup Under Way in Turkey - Breitbart
+19731,3,On Two-Year Anniversary of Boko Haram Kidnapping, Video Surfaces of Missing Girls
+19975,1,Islamic State Claim Belgium Machete Attack
+19998,1,In Pics: One Year On, France Mourns Victims of the Paris Attacks
+20075,1,Pope Francis: ‘Persecution Is the Christian’s Daily Bread’
+20116,7,Rahami’s Father Fought Soviet Army as Afghan Mujahedeen
+20253,2,Politico: Virtually Impossible for FBI to Detect Radicalization Like Omar Mateen’s - Breitbart
+20271,1,CAIR Tells Americans That Muslim Shooter Isn’t Muslim - Breitbart
+20304,1,Trump Lays Out Plan to ‘Make America Wealthy Again’ - Breitbart
+20306,1,Thousands Congregate in Bethlehem to Celebrate Christmas
+20325,1,White House: Obama Talks to Putin, Did Not Discuss Russian Warplanes Buzzing U.S. Ship - Breitbart
+20397,1,WWII B-17 Gunner Dies Quietly After First Visit to UK Since 1945 - Breitbart
+20445,1,Blue State Blues: The Realities of Russia Policy - Breitbart
+20482,2,Obama’s FBI Shrugs off Mateen, But Red Flags Were Everywhere - Breitbart
+20654,1,Marsha Blackburn With Trump on Temporary Muslim Migration Pause
+20818,1,Iran Holds Air Force Drills to Display Defense Might
+21030,1,Islamic State Takes Credit for Brussels
+21068,1,At least 50 Islamic State Supporters Working at Brussels Airport
+21180,1,Orlando Terrorist Allegedly Traveled to Saudi Arabia, UAE - Breitbart
+21577,1,Islamic State Goes on Killing Rampage at Holy Site - Breitbart
+21695,4,Pro-Kurd Opposition Leader: Turkey’s Ruling Party ’an Extension of’ Islamic State
+21804,1,Boko Haram Jihadis Burn Children Alive, Slay Over 100 Villagers in Nigeria Massacre - Breitbart
+21826,4,NY Bomber Rahami’s Sister Posted Jihad Fan Posts on Facebook
+21964,1,ESPN Erases Sports History: Network Edits Schilling’s ‘Bloody Sock’ Game Out of Red Sox Versus Yankees Documentary - Breitbart
+22156,1,Gorka: ’Wake Up, America, the War Is Here’ - Breitbart
+22260,1,Homeland Security in the Age of Truck Attacks: The Once and Future Fortress  - Breitbart
+22273,3,A Harsh New Reality May Await El Chapo in Colorado’s Supermax Prison - Breitbart
+22274,1,Jihadis Were Blips on Law Enforcement Radar
+22351,1,PHOTOS: Explosion Rocks Turkey’s Capital, Killing Five
+22419,1,GOP Debate: Ted Cruz, Marco Rubio Level Donald Trump For His ‘Neutral’ Position on Israel - Breitbart
+22548,1,Breitbart’s Aaron Klein: Stabbings Are ‘The New Normal’ in Israel - Breitbart
+22652,5,**Live Wire** Jihad in Orlando: Was Omar Mateen Really a Lone Wolf? - Breitbart
+23006,1,The Last of the Boys of Pointe du Hoc: The Rangers of Dog Company Who Accomplished D-Day’s Toughest Mission - Breitbart
+23155,1,Islamic State Releases Video of Prisoner Execution in Afghanistan
+23416,1,Muslim Profiling Isn’t Illegal, Unconstitutional, or Un-American - Breitbart
+23441,1,YouTube Hoaxster Adam Saleh Claims Delta Flight Booted Him for ’Speaking Arabic’ - Breitbart
+23487,1,Security Analyst Warns: Islamic State Has Global Ambitions For 2016
+23542,1,Hillary Clinton’s Foreign Policy Failures: A Recent History
+23607,1,Paris Police Circulate Photo of Afghan Migrant Who May Be Planning Attack
+23694,1,Anjem Choudary Number One Facebook Trend On Referendum Day - Breitbart
+23895,6,Belgium Cancels ’March Against Fear’ Amid Security Concerns
+23902,1,Erdogan Says Some Greek Islands Should Really Belong to Turkey
+24239,1,Eagles of Death Metal Singer Shrugs Off Barring from Bataclan
+24266,2,Brussels Bomber Was ‘Migrant Rights Activist’ Who Lived Next Door To EU
+24352,1,Islamic State Attacks On The West: The Tally So Far
+24391,3,Islamist Spokesman on Easter-Day Massacre: ‘The Target Was Christians’ - Breitbart
+24491,1,Taliban Warns Media Not to Promote Immorality
+24508,3,**Live Wire** Jihad in Orlando: How Can We Prevent Another Pulse Massacre? - Breitbart
+24555,1,Libertarians and Trump: To Be, or Not To Be, a Republican in 2016
+24740,3,Turkey IDs Wedding Bomber as Islamic State Child
+24852,2,Ann Coulter: Media’s Outrage Should Start Working Any Day Now! - Breitbart
+24930,4,From Crime To Journalism, Belgian Terror Suspects A Mixed Bag
+25008,8,Explosions Hit Brussels Airport, One Killed - Belgian Media
+25191,1,Netanyahu Goes Full Trump: Surround Israel With Barrier To ’To Defend Ourselves Against Wild Beasts’
+25447,2,Breitbart’s Aaron Klein: ’Almost Impossible’ Brussels Terrorists Could Infiltrate Israel’s Airport - Breitbart
+25500,1,The Heroes of D-Day in Their Own Words, 72 Years Later - Breitbart
+25579,2,Report: West Knew Location of Kidnapped Boko Haram Girls
+25738,1,Dr. Sebastian Gorka: Chelsea Bomber Is ‘A Man Who Has Taken Sides in a War,’ Not ‘Just Another Criminal’
+25753,1,Jim Hanson: Turkey Wedding Suicide Bomber Shows How ISIS Exploits the Vulnerable to Carry Out Terror Attacks - Breitbart
+26086,1,Timeline: Germany’s Two Years of Islamist Terror
+26208,1,UN: Islamic State in Mosul Deploying Child Suicide Bombers
+26220,1,As Islamic State Loses Territory, Fighters Likely to Bring Jihad Home
+26609,1,Brussels Airport Reopens With Three Flights, Tighter Security
+26631,2,Islamisation: Germany’s Tele5 TV Channel Puts Muslim Star And Crescent On Logo - Breitbart
+26672,2,91 Killed In Two ISIS-Claimed Baghdad Bombings
+26684,1,Islamic State Publishes Picture of Palestinian ’Martyr’ In Seeming Bid to Embarrass Hamas
+26786,1,U.S. State Dept Winks at Pakistan’s Persecution of Christians
+27012,1,WATCH: Hamas Emulates Islamic State Executions of Israelis in New Propaganda Videos
+27237,1,The West vs Islam Is The New Cold War - Here’s How We Win - Breitbart
+27245,1,VIDEO: Muslim Teens Detained On Suspicion Of Bombing Sikh Temple
+27266,1,Obama Eid Celebration Again Empowers Islamists Over Reformers - Breitbart
+27378,2,WATCH: Boy Suicide Bomber Stripped of Explosive Belt in Iraq
+27528,2,Munich Police: Islamic State Planned New Year’s Eve Attack with Multiple Suicide Bombers - Breitbart
+27551,1,Germans Find 369 Suspected Islamic State Terrorists Among Arriving Migrants - Breitbart
+27657,4,Update: Muslim Easter-Day Massacre Kills 72 Christians in Pakistan
+27701,1,Captured Paris Attacker To Sue France For Revealing He Planned To Be A ’Suicide Bomber’
+27788,5,Two Americans Dead in Istanbul Suicide Bombing Killing At Least Five - Breitbart
+27936,1,Brussels Attacks: Nuclear Officer Found Dead, Pass Stolen
+28001,1,Boyle: Mainstream Media ’100 Percent Using’ Khan Family ’for Their Political Goals’ - Breitbart
+28029,1,Man Sets Train On Fire, Stabs 6 People In Switzerland
+28161,1,Police Claim: Islamic State Deliberately Stoking Tensions Between Migrants And Europeans
+28189,1,Academic: Second-Generation Migrants Most Susceptible to Radicalisation - Breitbart
+28197,2,Syrian Migrant Bomber Pledged Allegiance To Islamic State
+28207,1,Border Fence Down: Border Patrol Union Says Breach Brings Terrorist Concerns
+28300,1,Taliban Snuffs Child-Molesting Afghan Police Using Sex Slave Boys as Bait - Breitbart
+28414,2,Professional Atheist Dawkins Says Christianity ‘Bulwark Against Something Worse’ - Breitbart
+28467,1,Boston Bombings: Obama Admin Still Refuses to Acknowledge Jihadist Threat - Breitbart
+28536,1,Belgium Has More Jihadis Per Capita Than Any Other EU State
+28564,2,BACKGROUND: ‘Refugee’ Paris-Linked Terrorist Hunted Through Brussels Yesterday
+28699,1,Dr. Sebastian Gorka: After January 20, America Must ’Jettison Political Correctness’ to ’Inoculate Ourselves’ Against Jihad
+28771,1,High Security, Low-Key Start For French Open
+29013,1,Islamic State Truck Bomb Kills 47 South of Baghdad in Deadliest Attack in Iraq This Year - Breitbart
+29054,1,White British Woman Turned ’Most Wanted’ Jihadi Is Training Girls To Attack The West
+29350,1,The Church of Arlington National Cemetery - Breitbart
+29371,4,Update: Istanbul Ramadan Rampage Leaves 42 Dead, 239 Wounded - Breitbart
+29421,1,’Third Man’ In Brussels Airport Blasts Arrested, Charged With ’Terrorist Murder’
+29556,1,Report: Religious Freedom Worldwide ‘Under Serious and Sustained Assault’ - Breitbart
+29651,2,Islamic State Suspected in Deadly Bombing of Wedding in Turkey - Breitbart
+29680,6,Suspected Boko Haram Suicide Bombers Kill 29 in Cameroon
+29881,2,How the Democrats Are Disarming Us
+29900,3,Breaking: Multiple Explosions, Over 40 Injured in Istanbul Airport
+29962,3,Police Report: 90 More Suicide Bombers Ready to Explode in Europe
+30015,1,DATA: Young Muslims in the West Are a Ticking Time Bomb, Increasingly Sympathising with Radicals, Terror
+30307,1,Iraqi Army Fleeing for Their Lives Again
+30367,1,John Bolton: U.N. Set to Elect Another ‘Secular Pope’ Hillary Clinton Will ‘Play Right into His Hands’
+30376,1,North Korea Threatens ’Preemptive Nuclear Strike of Justice’ on U.S.
+30565,2,Rahami Carried Notebook Full of Pro-Al Qaeda, Boston Jihad Rants
+30646,4,Belgians Identify Two Suspected Bombers in Brussels Blasts
+30657,1,At Least 14 killed in Somalia Hotel Jihadist Attack - Breitbart
+30731,1,UK Armed Forces ’Pray’ At Terror-Linked ‘Army Of Darkness’ Mosque - Breitbart
+30829,1,Boston Police Captain’s Son Indicted for Islamic State Plots
+30858,1,Trump’s Mission: Make America Great Again Peace with Honor—Through Deal-Making - Breitbart
+30909,1,David Ortiz Looks to Hit Ball to the ’Choo Choo Train’ in Last Yankee Stadium Appearances - Breitbart
+31017,1,TSA’s Head of Security Forced Out over Airport Delays - Breitbart
+31177,3,Istanbul Airport Attack: Mastermind Identified as Russian Islamic State Terror Trainer
+31194,1,7 Terror Attacks and Plots Foiled This Christmas Season - Breitbart
+31365,1,Report: Orlando Jihadi Joined ’Fundamental Islamic’ Group Run by Blind Sheik Bodyguard
+31591,2,Timeline: Turkey’s bloody year
+31641,1,Dylann Roof ruled competent for sentencing
+31654,2,Dylann Roof: ’There’s nothing wrong with me psychologically’
+31665,1,Turkey: Gunman identified in nightclub attack
+31724,1,Shooting raises questions about the limits of flying with firearms
+31816,1,Dozens killed in Kabul suicide bombings, Kandahar blast
+31826,2,Dylann Roof jury: Death penalty for Charleston church shooter
+31859,1,US Marine F-35s to be ’cornerstone’ in Japan, Pacific defense
+32066,1,Obama last strike kills over 100 al Qaeda in Syria
+32139,1,US bombing in Libya was linked to Berlin truck attack
+32291,1,What it’s like in the 6 countries on Trump’s travel ban list
+32351,1,US-Australia refugee deal: What you need to know
+32364,1,Trump has heated exchange with Australian leader, sources say
+32505,1,20 dead in suicide blast outside Afghan Supreme Court in Kabul
+32525,1,US says it killed bin Laden-era al Qaeda leader in Syria
+32535,2,Sean Spicer meant Orlando, not Atlanta terror attack, official says
+32572,1,Foiled France terror plot appears ISIS-inspired, source says
+32635,1,Yemen Fast Facts
+32736,2,Russian provocation: Bluster or genuine peril
+32843,2,North Korea’s history of covert operations and secret killings
+32938,1,Suicide attacks kill dozens in Syria
+32942,4,Trump’s call for US nuclear supremacy raises questions
+33134,1,China’s modest military spending hike masks bigger goals
+33175,3,Kabul hospital attack leaves 30 dead
+33271,1,’Showman’ prosecutor Bharara fights to the end
+33324,2,More than 2 dozen killed in Damascus suicide bombings at courthouse, restaurant
+33407,1,Will Iraq survive victory over ISIS in Mosul?
+33465,1,AQAP trying to hide explosives in laptops, official says
+33475,4,Chinese officials warned US bomber
+33501,2,Bomber dies in blast near Dhaka airport in Bangladesh
+33665,1,First on CNN: New terrorist laptop bombs may evade airport security, intel sources say
+33706,1,St. Petersburg metro explosion: At least 11 dead in Russia blast
+33708,2,North Asia on a knife’s edge: Whose position is strongest?
+33781,1,Trump, Chinese leader face North Korea dilemma
+33782,2,8 people linked to St. Petersburg attack arrested
+33842,1,Dazed but defiant, Stockholm unites after attack
+33847,4,Egypt Cabinet OKs state of emergency after Palm Sunday church bombings
+33848,5,ISIS claims responsibility for Egypt church bombings
+33853,1,Analysis: Egyptians see failed security in church attacks
+33855,1,Who are Egypt’s Coptic Christians?
+33857,1,CNN 10 - April 10, 2017
+33859,2,Egyptians unite against ISIS after church bombings
+33867,1,North Korea issues warning as US strike group heads to Korean Peninsula
+33992,1,Syria: 126 killed as bomb hits buses with evacuees, group says
+34103,1,Sources: Mattis tells Hill Trump budget won’t rebuild military
+34108,5,4 times in 4 days: Russian aircraft fly off US coast
+34249,1,CNN 10 - April 28, 2017
+34403,1,US Air Force tests another long-range missile
+34508,2,Boko Haram Fast Facts
+34619,1,Russian jet flies within 20 feet of US Navy plane
+34627,1,Zacarias Moussaoui Fast Facts
+34629,1,London Underground Fast Facts
+34662,1,North Korea says missile could carry large nuclear warhead
+34687,1,Putin warns against ’intimidating’ North Korea
+34765,1,Second carrier to join US ships near Korean Peninsula
+34817,1,Navy SEAL who claims he killed bin Laden bought goodbye gifts for his kids ahead of 2011 raid
+34853,1,22 dead after blast at Manchester concert
+34855,2,Terror in the UK: Decades of deadly attacks
+34861,1,Kayyem: We want our kids to be fearless. Then this happens
+34877,4,Police move in on arena bomber’s ’network’
+34885,3,Salman Abedi: Bomber in Ariana Grande concert attack
+34902,2,British authorities warn of ’damage’ to investigation from leaks
+34903,3,Manchester bomber probably had ISIS training, US official says
+34914,1,Suicide bombings kill 3 officers at Jakarta bus station, police say
+34926,1,US-UK intel sharing back on after Trump vows to plug leaks
+34958,2,Manchester bomber spoke to brother before attack
+34984,1,Trump, feted and chided abroad, returns to uncertainty
+34994,1,UK reduces terror threat level to ’severe’
+35038,1,ISIS targets Iraqis at ice cream shop
+35039,2,Missile test showed highly accurate warhead, says North Korea
+35079,1,Ariana Grande Manchester benefit concert will feature Coldplay, Miley Cyrus
+35090,1,CNN 10 - June 1, 2017
+35118,3,USS Cole Bombing Fast Facts
+35129,1,The four reasons people commit hate crimes
+35156,2,London terror attack: Seven victims killed, three suspects shot dead by police
+35165,1,7 dead, dozens hurt after blasts rock Kabul protester’s funeral
+35184,1,Ariana Grande holds benefit concert in wake of terror attacks
+35188,1,Emotions high as Ariana Grande, others perform in Manchester
+35191,1,London terror attack: Police fired ’unprecedented’ number of rounds
+35245,1,Manchester Police uncover ’significant evidence’ in bombing
+35634,1,The Fumbling Bureau of Investigation?
+35647,1,Their night of terror: Orlando shooting, as told by survivors
+35742,2,Orlando nightclub massacre: Friend says he told FBI about Mateen
+35870,2,More than 40 killed in Yemen suicide attacks
+35889,1,Timeline: Recent deadly attacks in Turkey
+35890,2,Istanbul airport attack: 36 dead, 147 injured, Turkish officials say
+35915,2,ISIS’ Ramadan terror campaign
+35919,2,Istanbul attack aftermath: Where are airports’ weakest links?
+35920,1,The unlikely godfather of the Islamic State
+35922,1,Istanbul terror attack: 42 killed nation mourns
+35924,1,Turkey airport attack witness: ’It was like hell’
+35925,1,What you need to know about the Turkey attack
+35940,1,ISIS leadership helped plan Istanbul attack, source says
+35963,2,Istanbul airport attack: Planner, 2 bombers identified
+35967,1,Airstrike kills 2 ISIS commanders, U.S. says
+36014,2,ISIS claims Baghdad bombing 200 dead
+36017,4,Wave of suicide strikes in Saudi Arabia
+36018,2,Spate of terror attacks as Ramadan draws to a close
+36037,1,After night of burning and bombing, mourning in Baghdad
+36042,2,ISIS Fast Facts
+36060,21,ISIS: 143 attacks in 29 countries have killed 2,043
+36361,1,Terrorism: The jihad-crime nexus
+36492,5,ISIS claims Afghanistan explosion that kills dozens
+36505,5,Ansbach suicide bomber pledged allegiance to ISIS
+36525,1,Boko Haram blamed for humanitarian crisis in Nigerian state
+36568,1,At least 12 killed in twin suicide bombings near Mogadishu airport
+36578,2,European turmoil: The new normal?
+36637,1,Did Trump go too far?
+36657,1,Dylann Roof case: Defense lawyers file challenge to death penalty
+36699,1,Actually, Trump has a point
+36704,1,Boko Haram’s new leader promises to protect Muslims
+36730,1,Heavy bombing in Syria’s rebel-held Aleppo
+36823,1,Rebel coalition breaks siege of Aleppo
+36846,1,Syrian opposition hails ’miraculous’ victory after claiming to break Aleppo siege
+36898,1,No, Obama was not the ’founder’ of ISIS
+37042,1,Little boy in Aleppo a reminder of war’s horror
+37120,2,Erdogan: ISIS likely behind deadly attack at wedding
+37136,3,Erdogan: ISIS prime suspect in Turkish wedding blast
+37142,2,Students among 23 killed in Somalia bombings
+37180,1,North Korea threatens nuclear strike amid US-South Korea drill
+37184,2,Iraq stops would-be child bomber for ISIS
+37286,1,ISIS video shows boys executing prisoners
+37373,1,Libya Fast Facts
+37377,1,US doubts Russia’s claim it killed ISIS spokesman
+37512,2,Sources: ISIS planned more targets during Paris attacks
+37517,1,Children left gasping for air after suspected gas attack in Aleppo
+37625,1,Eric Robert Rudolph Fast Facts
+37698,1,Sikhs under attack
+37701,1,Man arrested in connection with fire at Orlando gunman’s mosque
+37823,4,Bombings suspect: An ordinary American terrorist
+37826,1,Ahmad Khan Rahami: What we know about the bombing suspect
+37830,2,NY, NJ bombings: Suspect charged with attempted murder of officers
+37848,1, What the US government can and cannot do to US citizens suspected of terrorism
+37898,1,How this Muppet is changing lives in war-torn Afghanistan
+37919,3,North Korea at UN: US faces ’tremendous consequences’
+38091,5,Last Doolittle survivor recalls US revenge attack
+38163,1,Suicide bomber kills 36 in northeast Syria
+38358,1,US and Russia now in unpredictable confrontation
+38462,1,Battle for Mosul begins with gunfire, bombs
+38480,1,Turkish airstrikes hit Kurdish fighters in Syria
+38585,3,Coordinator of Paris, Brussels attacks ID’d
+38592,11,2015 Paris Terror Attacks Fast Facts
+38692,2,4 Americans dead in blast at US base in Afghanistan
+38826,1,Obama’s counterterrorism adviser on threats facing Trump administration
+38939,1,U2 ’Dragonlady’ pilots spy on ISIS from the edge of space
+38949,1,’I was a believer’: Face-to-face with ISIS inside an Iraqi prison
+39054,1,What challenges are facing Pakistan’s new army chief?
+39147,1,Russian forces kill Dagestan ISIS leader
+39235,1,Remembering the date which will live in infamy
+39313,1,Istanbul explosions: 38 killed, 155 wounded
+39437,1,Dylann Roof trial: Will he get the death penalty?
+39441,2,2016 In Review Fast Facts
+39520,1,Suicide bomber kills more than 50 in Yemen, ISIS claims responsibility
+39535,2,Deadly attacks in Germany have targeted public life
+39601,1,Reward offered in Central Park case
+39840,1,7 things we learned about Mike Huckabee from his new book
+39854,1,Charlie Hebdo attack: Terror cells activated in France
+39877,3,Explosives strapped to girl kills at least 20
+39897,1,The American who inspires terror from Paris to the U.S.
+39905,1,Boko Haram more worrying than ISIS
+40039,1,From Antwerp to Aleppo -- and back: Europe’s nightmare
+40105,1,What’s happening in the Middle East and why it matters
+40144,1,ISIS appears to demand swap for Japan hostage
+40149,3,Sajida al-Rishawi, named in prisoner swap, executed
+40191,1,Purported ISIS post threatens Japanese, Jordan captives
+40226,2,How ISIS’ new hostage strategy is pressuring leaders
+40233,1,ISIS launches attack on Kirkuk
+40236,5,UK jets intercept Russian bombers near British airspace
+40280,1,Jordan launches airstrikes against ISIS in Syria
+40334,1,The 13th Juror: Watching Tsarnaev for clues
+40369,1,Iraqi tribal leader: Anbar province could ’collapse’
+40370,1,U.S. copters support Iraqis fighting ISIS
+40381,2,Is this a trial or a remake of ’Groundhog Day’?
+40480,2,’Ghost Rider’ B-52 rises from Boneyard
+40524,1,Court rejects another request to move Tsarnaev trial
+40573,1,The 13th Juror: Boston bomber’s trial a horror show
+40600,1,U.S. Air Force: Is superiority under threat?
+40627,1,Tsarnaev’s ’manifesto’: OK to kill civilians
+40665,4,U.S. admiral raises alarm over Russian military threat
+40667,2,Witness: Tamerlan Tsarnaev admitted to Boston bombing
+40682,2,Boko Haram bomb factory uncovered in Nigeria
+40684,1,U.S. Army sending armored convoy 1,100 miles through Europe
+40699,11,New U.S. stealth bomber shrouded in mystery
+40714,2,Blasts kill 14 in Christian area of Lahore, Pakistan
+40812,3,Yemen mosque attacks: ISIS purportedly lays claim
+40833,1,Why we can’t trust Putin (Opinion)
+40950,1,Dzhokhar Tsarnaev trial: The radicalization of Jahar
+40957,1,Decorated Boston police officer shot in the face
+40988,3,Exclusive: Detained ISIS members speak from Iraqi jail
+41005,1,Germanwings crash: Suicide at 38,000 feet?
+41010,1,The fight for Dzhokhar Tsarnaev’s life
+41058,1,Dzhokhar Tsarnaev Boston bombing trial: What defense?
+41061,1,FBI confirms most wanted terror suspect Marwan dead
+41142,1,Could veterans have concussion-related CTE?
+41186,1,The ’Furious 7’ C-130 Hercules that just won’t quit
+41207,1,Boston bombing trial: Sentencing begins
+41208,1,Boston Marathon bombing evidence
+41299,1,UK jets sent to intercept Russian bombers
+41345,2,ISIS motorbike bomber kills 33 at bank in Afghanistan
+41410,1,Prosecutor: ’Tsarnaev was and is unrepentant’
+41462,3,Tsarnaev trial: The middle finger seen ’round the world
+41537,1,Cousin: Dzhokhar Tsarnaev cried during ’The Lion King’
+41562,1,Dzhokhar Tsarnaev relative testifies in bombing trial
+41566,2,Pentagon considered stopping intercepts of Russian aircraft
+41599,1,Russia marks 70 years since victory over Nazi Germany
+41616,1,The 11 best videos of the week
+41630,2,Boston Marathon bomber Dzhokhar Tsarnaev gets death
+41632,1,Federal inmates on death row: Life can go on and on
+41673,1,Abu Sayyaf, key ISIS figure in Syria, killed in U.S. raid
+41678,1,The mystery of the Tsarnaev brothers (Opinion)
+41694,2,Ladies and gentlemen of the jury, listen with your eyes
+41927,1,Unlikely friendship blossoms between killer and scholar
+42092,1,U.S. bombs ISIS using social media intel
+42097,1,Hypersonic aircraft to go 5 times the speed of sound
+42101,3,Friends of Boston Marathon bomber sentenced to prison
+42144,1,He got to watch ’The Longest Day’
+42380,1,Air Force may send top-line fighters to Europe
+42388,1,U.S.-Russia military tango raises fears of conflict
+42517,1,Blueprint for success against ISIS in Syria and Iraq?
+42546,1,U.S. sending tanks, armor for NATO allies
+42556,1,Boston bomber Dzhokhar Tsarnaev says he’s sorry
+42558,1,Boston bomber’s trial leaves a lingering sadness
+42567,1,Kennedy family items to be auctioned
+42579,1,Tsarnaev arrives at Colorado prison
+42621,2,Terror attacks: What they say about ISIS (Opinion)
+42630,1,Tunisia hotel attack: 38 killed, tourists flee
+42774,1,Afghan agency: ISIS leader killed in drone strike
+42849,1,Iraq ice truck bombing kills 120
+42854,1,Boston Marathon bomber moved to Supermax
+42921,2,Turkey attack: Funerals held for victims of Suruc blast
+43062,1,CNN fact checks the 2016 Republican debates
+43270,1,Trump’s offer to Putin: an end to sanctions for nuclear arms cut
+43508,1,McCain rebukes Trump’s phone call with Australia, says he called ambassador to express US support
+43536,1,Everything we know about what Trump called the ’worst deal ever’ between the US and Australia
+43808,2,A forgotten war technology could safely power Earth for millions of years. Here’s why we aren’t using it
+43875,2,The US is considering a direct strike against North Korea — here’s how it would go down
+44258,2,For Trump to force China’s hand against North Korea, he may need to convince them he’s a madman
+44379,1,Tensions between the US and North Korea are ramping up amid nuclear threats
+44920,1,8 arrested in Manchester attack as a ’significant’ connection emerges between bomber and ISIS recruiter
+45332,1,A North Korean hydrogen-bomb test would be a game-changer
+45919,1,Here’s why Trump is so good at Twitter
+46140,3,This military-style jacket is everywhere this spring — and these are the best ones out there
+46334,1,American couple, Justin and Stephanie Shults, confirmed dead in Brussels terror attacks
+46341,3,Suicide bombing in Lahore, Pakistan, kills at least 69 — mostly women and children
+46722,2,The lawyer for the sole surviving suspected Paris attacker had some surprising things to say about his client
+47070,1,America’s nukes are still controlled by 8-inch floppy disks
+47495,2,Dozens dead after 3 suicide bombings rock Istanbul’s international airport
+47500,4,’Bombers can still buy tickets’: Increased security measures likely aren’t enough to prevent attacks at airports
+47561,2,’He chose the perfect time to cause casualties’: At least 140 killed in central Baghdad suicide bombing
+47619,1,Donald Trump blasts ’liars’ in the media for coverage of his Saddam Hussein praise
+47843,1,The US reportedly helped Brazil track down and capture 11 suspected ISIS militants
+47963,1,An American woman was killed and 5 people were injured in London knife attack
+48178,3,At least 50 people were killed in an explosion at a wedding in southern Turkey
+48241,1,’You’re at war’: I went inside the new TSA Academy, where officers learn to detect bombs, spot weapons, and find out why failure isn’t an option
+48364,1,Here’s how cops actually trace a gun
+48658,1,Here’s what Hillary Clinton and Donald Trump think about criminal justice
+48877,1,11 websites every modern gentleman should bookmark
+48903,1,A TSA agent shares the weirdest things he’s experienced on the job
+49103,1,Putin’s chaos strategy is coming back to bite him
+49757,4,A Cold War technology designed to make jets fly for days might solve Earth’s looming energy crisis
+49785,1,Trump questions the US’s nuclear arsenal — here’s how the US’s nukes compare with Russia’s
+49840,2,Will America’s Nuclear Weapons Always Be Safe From Hackers?
+49865,1,Why the Technology in ’Rogue One’ Is So Old-Fashioned
+49911,1,Trump vs. the Spies
+49947,1,Inside LAX’s New Anti-Terrorism Intelligence Unit

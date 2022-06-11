@@ -1,0 +1,457 @@
+65,3,My Canada - The New York Times
+334,1,3 Takata Executives Face Criminal Charges Over Exploding Airbags - The New York Times
+344,1,U.K. Set to Choose Sharp Break From European Union - The New York Times
+383,1,Joe Biden: ‘I Wish to Hell I’d Just Kept Saying the Exact Same Thing’ - The New York Times
+462,7,Who Decides Who Counts as Native American? - The New York Times
+635,1,Doomsday Clock Moves Closer to Midnight, Signaling Concern Among Scientists - The New York Times
+686,1,In America’s Heartland, Discussing Climate Change Without Saying ‘Climate Change’ - The New York Times
+754,1,Ukraine, François Fillon, Quebec: Your Wednesday Briefing - The New York Times
+760,1,Billionaire Is Reported Seized From Hong Kong Hotel and Taken Into China - The New York Times
+773,1,U.N. Leader Says Trump Visa Bans ‘Violate Our Basic Principles’ - The New York Times
+843,5,Jim Mattis Says U.S. Is ‘Shoulder to Shoulder’ With Japan - The New York Times
+873,3,China Assails U.S. Pledge to Defend Disputed Islands Controlled by Japan - The New York Times
+936,1,Tunis Greets an Ottoman-Era History Long Banished by Its Dictators - The New York Times
+1025,1,Shinzo Abe, Executive Orders: Your Friday Evening Briefing - The New York Times
+1114,14,Russia Deploys Missile, Violating Treaty and Challenging Trump - The New York Times
+1117,1,Michael Flynn, Kim Jong-un: Your Tuesday Evening Briefing - The New York Times
+1124,1,Trump’s Shift to ‘Outside-In’ Strategy for Mideast Peace Is a Long Shot - The New York Times
+1163,1,Trump, the Russian Ship and Suspicious Minds - The New York Times
+1196,1,Mexican Consulates Flooded With Fearful Immigrants - The New York Times
+1215,1,Trump to Interview 4 Candidates for National Security Adviser - The New York Times
+1257,1,‘I Am Ashamed’ vs. ‘Get Over It’: U.K. Parliament Debates Trump Visit - The New York Times
+1310,2,With Big Red Stamp, Russia Singles Out What It Calls ‘Fake’ News - The New York Times
+1435,2,Russia and U.S. Clash Over Syria in Security Council Vote - The New York Times
+1477,2,Sergey Kislyak, Russian Envoy, Cultivated Powerful Network in U.S. - The New York Times
+1484,2,Top Trump Advisers Are Split on Paris Agreement on Climate Change - The New York Times
+1642,6,Russia Has Deployed Missile Barred by Treaty, U.S. General Tells Congress - The New York Times
+1742,2,Jordan Frees Soldier Who Killed 7 Israeli Schoolgirls in ’97 Rampage - The New York Times
+1761,1,Parliament Clears Way for ‘Brexit’ Talks as Scottish Vow Independence Vote - The New York Times
+1798,1,Russian Agents Were Behind Yahoo Hack, U.S. Says - The New York Times
+1833,1,‘I Am an American Because of Him’: The Journey of Pence’s Grandfather From Ireland - The New York Times
+1867,1,U.S. Breaks With Allies Over Trade Issues Amid Trump’s ‘America First’ Vows - The New York Times
+1906,1,U.S. Nuclear Weapons Tests Come to YouTube - The New York Times
+2114,1,Scotland Votes to Demand a Post-‘Brexit’ Independence Referendum - The New York Times
+2139,1,U.K. Initiates ‘Brexit’ and Wades Into a Thorny Thicket - The New York Times
+2142,1,Brexit, Chris Christie, Ivanka Trump: Your Wednesday Evening Briefing - The New York Times
+2143,1,Brexit, Donald Trump, Jordan: Your Morning Briefing - The New York Times
+2207,1,In a Shift, Trump Will Move Egypt’s Rights Record to the Sidelines - The New York Times
+2286,2,Worst Chemical Attack in Years in Syria U.S. Blames Assad - The New York Times
+2630,3,No Need for Holmes. Obama Sheds Light on a Winston Churchill Mystery. - The New York Times
+2766,3,What Would It Take for Donald Trump to Deport 11 Million and Build a Wall? - The New York Times
+2911,1,U.S. Accuses Chinese Jet of Flying Too Close to American Plane - The New York Times
+3045,2,Chinese Curb Cyberattacks on U.S. Interests, Report Finds - The New York Times
+3062,1,Britain’s Dreams of a ‘Swiss Miracle’ Look More Like Fantasy - The New York Times
+3082,1,‘Brexit’ Opens Uncertain Chapter in Britain’s Storied History - The New York Times
+3090,1,Fractures From ‘Brexit’ Vote Spread Into Opposition Labour Party - The New York Times
+3104,1,Panama Celebrates Expanded Canal’s Successful First Passage - The New York Times
+3131,2,A Blunt Message After ‘Brexit’: Bolting Will Carry a Heavy Price - The New York Times
+3134,1,How Donald Trump Keeps Changing His Mind on Abortion, Torture and Banning Muslims - The New York Times
+3174,1,A Remote Pacific Nation, Threatened by Rising Seas - The New York Times
+3192,1,Theresa May, the Steely, Steady Woman Who Might Lead Britain - The New York Times
+3270,5,Philippines v. China: Q. and A. on South China Sea Case - The New York Times
+3346,2,Global Temperatures Are on Course for Another Record This Year - The New York Times
+3366,2,Donald Trump Sets Conditions for Defending NATO Allies Against Attack - The New York Times
+3383,3,Democrats’ Divisions Linger, but Parties Have Seen Far Worse - The New York Times
+3394,1,Democratic Convention Night 4: What You Missed - The New York Times
+3399,1,Russia, Suspected in Hacking, Has Uneasy History With Hillary Clinton - The New York Times
+3505,1,How an Iranian’s Spy Saga Ends, 6 Years Later: He’s Executed - The New York Times
+3593,1,How Bad Is Your Air-Conditioner for the Planet? - The New York Times
+3706,3,Occupying the Prairie: Tensions Rise as Tribes Move to Block a Pipeline - The New York Times
+3806,9,Never the Noodles Shall Meet: A Chinese Treaty Is Tested - The New York Times
+3876,1,Obama Unlikely to Vow No First Use of Nuclear Weapons - The New York Times
+3910,1,‘I Want to Win Someday’: Tribes Make Stand Against Pipeline - The New York Times
+3961,2,Turkey’s Suspicious Mind-Set Has Been a Century in the Making - The New York Times
+4009,1,Theresa May, Britain’s Prime Minister, Plays the ‘Brexit’ Waiting Game - The New York Times
+4011,1,The Accidental Power of Design - The New York Times
+4188,1,‘Brexit’ Talks Will Start by End of March, Theresa May Says - The New York Times
+4192,3,Tension With Russia Rises as U.S. Halts Syria Negotiations - The New York Times
+4200,6,Vladimir Putin Exits Nuclear Security Pact, Citing ‘Hostile Actions’ by U.S. - The New York Times
+4231,1,A Museum About Rights, and a Legacy of Uncomfortable Canadian Truths - The New York Times
+4268,1,‘Obviously, Marital Vows Mean Nothing to Him’ - The New York Times
+4404,1,A Dubious Old Master Unnerves the Art World - The New York Times
+4408,1,Rodrigo Duterte, Pushing Split With U.S., Counters Philippines’ Deep Ties - The New York Times
+4459,1,Why China Is Intervening in Hong Kong’s Legislature - The New York Times
+4481,1,Hong Kong Elected 2 Separatists. China Took Drastic Action. - The New York Times
+4578,4,Old Treaties and New Alliances Empower Native Americans - The New York Times
+4704,1,‘Vulture’ or ‘Phoenix’? Wilbur Ross, Risk-Taker, Is Eyed for Commerce Post - The New York Times
+4733,3,Donald Trump Faces Obstacles to Resuming Waterboarding - The New York Times
+4811,2,Standing Rock Pipeline Protesters, Ordered to Leave, Dig In - The New York Times
+4828,3,Hunting ‘Turr’ in Newfoundland’s Frigid Waters - The New York Times
+4995,1,China Suggests It Has Placed Weapons on Disputed Spratly Islands in South China Sea - The New York Times
+5017,1,E.U. Faces Its Next Big Test as France’s Election Looms - The New York Times
+5033,1,China Agrees to Return Seized Drone, Ending Standoff, Pentagon Says - The New York Times
+5072,5,Trump Says the U.S. Should Expand Its Nuclear Capacity - The New York Times
+5092,1,Trump, Promising Arms Race, Could Set World on Uncertain Path - The New York Times
+5101,1,Obama, Trump and the Turf War That Has Come to Define the Transition - The New York Times
+5422,1,Olympic Ban Adds to Russia’s Culture of Grievances - The New York Times
+5431,3,E.U. Countries Warn Britain on ‘Brexit’: You’ll Pay if You Leave Us - The New York Times
+5466,1,Overwhelmed by ‘Brexit’? Here Are the Basics - The New York Times
+5501,6,Obama After Dark: The Precious Hours Alone - The New York Times
+5553,3,Tribunal Rejects Beijing’s Claims in South China Sea - The New York Times
+5554,1,Theresa May Is Poised to Be Britain’s Next Prime Minister - The New York Times
+5600,3,Donald Trump’s Remarks Rattle NATO Allies and Stoke Debate on Cost Sharing - The New York Times
+5630,1,U.S. Wrestles With How to Fight Back Against Cyberattacks - The New York Times
+5682,1,A Classified Matter at the White House: Obama’s Star-Studded Galas - The New York Times
+5854,1,Bad Luck and Worse Manners Tarnish Obama’s Asia Trip - The New York Times
+5861,1,Obama on Climate Change: The Trends Are ‘Terrifying’ - The New York Times
+5879,2,Few Expect China to Punish North Korea for Latest Nuclear Test - The New York Times
+6132,1,The View From Two Sides of the Standing Rock Front Lines - The New York Times
+6139,1,Theresa May Prepares to Stare Down Parliament in ‘Brexit’ Standoff - The New York Times
+6208,1,Leaked ‘Brexit’ Memo Says U.K. Is Unsure How to Proceed - The New York Times
+6307,1,How to Hide $400 Million - The New York Times
+6438,1,Turkey, Russia and an Assassination: The Swirling Crises, Explained - The New York Times
+6481,1,Japanese Leader’s Pearl Harbor Visit, Called a First, Looks More Like a Fourth - The New York Times
+6546,1,For Hillary Clinton and John Kerry, Divergent Paths to Iran Nuclear Talks - The New York Times
+6636,1,If Britain Favors ‘Brexit,’ Changes Will Come Slowly - The New York Times
+6652,1,Economic Fears Rising, Britain Hopes to Stay in E.U. Market - The New York Times
+6659,1,E.U. Leaders Chart Future as David Cameron Leaves Brussels - The New York Times
+6745,6,Florida Company Gets Approval to Put Robotic Lander on Moon - The New York Times
+6849,1,Phyllis Schlafly, ‘First Lady’ of a Political March to the Right, Dies at 92 - The New York Times
+6923,2,In Hacked Audio, Hillary Clinton Rethinks Obama’s Nuclear Upgrade Plan - The New York Times
+7001,1,Across the World, Shock and Uncertainty at Trump’s Victory - The New York Times
+7002,1,Why Did Beijing Slap Down Hong Kong Separatists? To Make a Point - The New York Times
+7038,2,Enthusiasm for Trump in Poland Is Tempered by Distrust of Putin - The New York Times
+7158,1,U.S. Transition Puts Israeli Focus Back on Palestinians - The New York Times
+7170,2,Without Obama, Shinzo Abe’s Approach to U.S.-Japan Ties May Be Tested - The New York Times
+7254,1,Populist Anger Upends Politics on Both Sides of the Atlantic - The New York Times
+7417,1,Settlement Debate Flares Again in Israel’s Quarrel With Rights Group - The New York Times
+7581,1,Vast Purge in Turkey as Thousands Are Detained in Post-Coup Backlash - The New York Times
+7672,1,Trump Unveils High-Powered and Well-Heeled Business Council, and Invites Filipino Strongman to White House - The New York Times
+7695,2,Trump Gets an Opening from Russia, but the Path Is Risky - The New York Times
+7703,1,Obama to Meet With Sanders to Nudge Him to Fully Back Clinton - The New York Times
+7745,3,Women Petition U.N. Leader to Seek Korean Peace Treaty - The New York Times
+7777,2,Trump Says U.S. Would ‘Outmatch’ Rivals in a New Nuclear Arms Race - The New York Times
+8154,1,George Soros ‘Has Ruined the Lives of Millions of Europeans’ Says Hungarian Prime Minister
+8187,1,PICS: Thousands March Through London in Last Anti-Brexit Protest before Article 50
+8199,5,Mexico’s Government Warns U.S.A. to Not Build Border Walls
+8487,1,John Bolton: Left ‘Engaging in Collective Hysteria’ Because They Cannot Make ‘Substantive Arguments’ Against Trump Policies
+8501,2,Dem Rep Moulton Warns of Possible Nuclear War With Russia - Breitbart
+8762,1,Pamela Geller: Universities Normalizing Anti-Semitic Voices like Linda Sarsour but Silencing Jewish Conservatives
+8808,1,Spain Urges EU To Take Their Side Over Gibraltar Dispute Post Brexit
+8833,1,Mattis: U.S. ’Not in a Position’ to Work with Russia
+8918,1,McCain: Rand Is ’Working for Vladimir Putin’ - Breitbart
+8964,2,Vice President Pence Appears to Support EU Freedom of Movement
+8996,1,Pence Affirms U.S. Treaty Commitment to Defend Japan’s Senkaku Islands from China
+9025,1,Top Five Media-Generated Non-Stories from Trump’s Foreign Trip - Breitbart
+9115,5,Nikki Haley Leads Walkout on UN Nuclear Weapons Ban Meeting - Breitbart
+9410,1,Trump: ‘I’m a Nationalist and a Globalist’ - Breitbart
+9422,3,John Bolton: Moving U.S. Embassy to Jerusalem as Simple as Moving the Sign from One Building to Another
+9450,1,Canada/US Tensions Heat Up as NAFTA’s Future Remains in Flux - Breitbart
+9551,1,Top U.N. Adviser Calls Trump ‘An Idiot’ Over Paris Decision, Former Envoy Calls U.S. ’Rogue State’
+9567,2,Report: Donald Trump Will Exit Paris Climate Change Agreement
+9638,1,In or Out? EU Is Hot-Button Issue In French Vote
+9652,1,Russia: U.S. Missile Defense ’Poses Deep Risk’ to Security of Asia
+9931,1,Foreign Sec: Britain Will Be ’Perfectly OK’ If EU Refuses To Make a Deal
+10130,1,President Donald Trump’s Cabinet Complete with Swearing-In of U.S. Trade Representative Robert Lighthizer
+10289,1,Pope on Europe’s Identity Crisis: Rediscover Your Roots
+10304,3,DELINGPOLE: Revealed - The Real Reason Trump Pulled Out Of Paris...
+10420,1,Sweden Top Cop on No Go Zones: Europe’s Open Borders ’Has Brought Crime Here’
+10518,3,John Bolton: Paris Climate Accord Objective Is ‘Reduction of National Sovereignty’ for ‘Global Governance’
+10660,2,EU Officials Increasingly Fear a Marine Le Pen Upset in France
+10734,1,NYT: Like Henry VIII’s Thomas Cromwell, Trump’s Steve Bannon Is a ’Brilliant and Cunning’ Strategist ‘Trying to Destroy the Existing Order’
+11134,1,China Showcases Advanced Missile Following Mattis Visit to Japan - Breitbart
+11161,1,100 Days of Trump in Asia: Winning over Duterte, Golf with Abe, and a ’Not as Good’ Deal with China - Breitbart
+11267,1,Italian Populist Slams Court’s ‘Politicized’ Block of Trump Order
+11270,2,Scott Pruitt: Paris Climate Agreement Would Have Driven More ‘Regulation Through Litigation’
+11458,2,Blue State Blues: The White House Loves the Russia ’Scandal’ - Breitbart
+11477,8,Report: Trump Denounces Nuclear Arms Control Treaty to Putin - Breitbart
+11480,1,Putin — Who Once Honored Tillerson with Friendship Award — Won’t Meet with Secretary of State - Breitbart
+11485,1,GABRIEL: The Muslim Brotherhood: Know Thy Enemy - Breitbart
+11566,1,Nigel Farage on Article 50: ’Well Done Bannon Well Done Breitbart – You’ve Helped with This Hugely’ - Breitbart
+11647,1,CNN’s W. Kamau Bell: Islam Part of America’s Founding - Breitbart
+11769,1,DELINGPOLE: Paris - Trump Just Dodged A $2.5 Trillion Bullet
+11801,1,Bankrupt Puerto Rico Voting on U.S. Statehood - Breitbart
+12044,1,VE Day: 72 Years Since 1945 Allied Victory over Germany in Europe
+12259,1,Pope Francis Tells EU Leaders: Populism Is ’Egotism’
+12288,4,Burnett: White House Faction Pushing Trump to Stay in Paris Climate Deal Despite Campaign Promise
+12788,1,President Trump Said ’Terror’ 31 Times, Obama in Cairo Said it ZERO Times
+12882,1,Poland Welcomes Biggest Deployment of U.S. Troops in Decades
+12911,1,Brussels ’Crossing Fingers’ For Macron in French Vote
+13060,2,Article 50 MUST Be Put Before Parliament, Supreme Court Rules
+13200,1,Angelina Jolie Warns of ’Rising Tide of Nationalism Masquerading as Patriotism’
+13295,1,Kristol: ’Unnerving’ Trump Is ’Popping Off,’ Not ’Thinking as a President-Elect’ - Breitbart
+13438,2,Q &amp A with #CalExit Leader on California’s Secession Movement
+13498,1,Report: China Sees ’Western Intervention,’ Multi-Party Democracy as Threat to One Belt, One Road Plan - Breitbart
+13501,1,Farage Warns Of Theresa May’s ’Half Out Half In’ Soft Brexit After Election
+13528,8,40 Conservative Groups Urge Trump to Withdraw from Paris Climate Treaty
+13760,1,Colombia: FARC Terrorists Abduct Ranchers, UN Employee as Peace Deal Kicks In - Breitbart
+13841,1,John Bolton: Tillerson State Department’s Certification of Iran’s Nuclear Deal Compliance ’Embarrassing, Inexplicable, Patently False’
+13843,2,Virgil: Donald Trump, Rosie the Riveter, and the Revival of American Economic Nationalism
+13935,1,Delingpole: Climate Realists Urge President Trump to Pull out of Suicidal, Expensive and Pointless Paris Agreement - Breitbart
+13983,1,Pope Francis Calls for ‘World Without Nuclear Weapons’
+14016,1,Commission Removes Britain from EU Maps Two Years Before Brexit
+14085,1,Pope Will Meet EU Leaders and Tell Them to ’Tear Down The Walls’
+14153,1,Mandelson Urges Remainers to ’Resist, Renew, and Reorganise’
+14345,1,Saudi Journalist: Palestinians Need to Stop Blaming Everyone and Make Peace with Israelis
+14686,1,Poland Says Taking Migrants ’Much Worse’ Than EU Sanctions
+14716,1,Pentagon to NATO: ’We Want Everyone to Pay Their Fair Share’
+14798,2,Virgil: The Battle Between Donald Trump and John McCain
+14935,1,EU Prez Juncker Threatens ’Texit’ as Revenge for Trump’s Brexit Support
+14948,3,Tillerson Fallout: China Demands U.S. Respect Illegal Airspace Claim over Japanese Islands
+14993,2,Exclusive — Rand Paul: Paris Climate Deal Would Kill 6 Million American Jobs - Breitbart
+15120,1,NYT: Mexico Owns California and Texas, Will Trade For Amnesty - Breitbart
+15249,2,Theresa May Rejects Second Scottish Referendum Before Brexit
+15328,1,Donald Trump: Israeli and Palestinian Peace ‘The Toughest Deal to Make’ - Breitbart
+15382,1,Europe Reacts to General Election Results: ’May’s No Margaret Thatcher’
+15477,2,Business Insider: TPP Could Destroy Clinton’s Chances for White House - Breitbart
+15639,1,Financial Times: Mass Immigration Is Unstoppable - Breitbart
+15723,1,U.S. Senate Candidate Rob Maness: Pat Smith ’Treated Like Dirt’ by Media
+16138,1,Frank Gaffney: Pearl Harbor an Object Lesson in Practicing Ronald Reagan’s ‘Peace Through Strength’
+16145,1,Radio Host Lars Larson Endorses Wisconsin’s Paul Nehlen
+16744,1,Rubio, Cruz, Kasich All Backed Obamatrade, Pretend They Didn’t at Miami Debate - Breitbart
+16863,1,WATCH: The Investor Who Predicted The Recession Warns The EU Is About To Implode
+16923,8,UN Official: Denying Abortion Violates International Treaty on Torture - Breitbart
+17108,1,Erik Prince: Clinton’s ‘Foreign Policy Record Is a Disaster,’ Trump Is ‘Willing to Take a Different Direction’ - Breitbart
+17132,1,James Woolsey: Trump Should Have Hammered Clinton on Her ‘Devastating’ Record as Secretary of State
+17548,1,Not Welcome Here – Obama’s Visit To UK Tanks As Poll Reveals 60% Of Britons Don’t Want His Pro-EU Lectures
+17571,1,Watch: Donald Trump Gives Foreign Policy Speech in Washington, D.C. - Breitbart
+17591,1,Obama’s Hiroshima Visit: Fishing for a Legacy - Breitbart
+17613,2,Gaffney: China Will Aggressively Fight South China Sea Ruling
+17642,1,Barack Obama on Clinton News Network: ‘I Remain Confident’ Trans-Pacific Partnership Trade Deal Will Pass - Breitbart
+17784,1,Andrea Mitchell: Trump Is ’Completely Uneducated About Any Part of The World’ - Breitbart
+17876,1,Donald Trump: I Would Not Order Military to Violate Laws, Treaties with Torture - Breitbart
+17916,11,Here We Go Again: Obama Sends Arms Trade Treaty to Senate for Ratification - Breitbart
+17994,2,EU Foreign Affairs Chief: Europe Needs an EU Army - Breitbart
+18253,1,So Farewell Then, David Cameron...
+18345,1,Magna Carta 2.0: Good for Freedom, Good for Growth-Trump Is the Big Winner, Obama Got Crushed. - Breitbart
+18522,1,Saudi Paper: Iran ‘Effectively Kidnapped’ ‘Foolish’ Obama Himself - Breitbart
+18738,3,Wilders: Britain Is The Brexit Pioneer and Others Will Follow
+19055,1,Donald Trump’s Outreach to Moderate Muslim Leaders Highlights Clinton Failure in Egypt
+19123,1,Ted Cruz Shuts Down Martha Raddatz’s Cheap Gotcha on North Korea - Breitbart
+19204,1,Obama on Churchill: ‘I Love The Guy’ But Preferred Martin Luther King Jr. Bust In Oval Office - Breitbart
+19272,7,Leaked Memo: Soros Foundation Eyed Stronger Internet Regulation in TPP Negotiations
+19378,1,Protesting Remainians Abuse Grandmother Who Voted For Brexit
+19463,1,Obama Wants U.N. Resolution to Ban Nuclear Testing
+19491,1,Erik Prince: Because ’Europe Can’t Deal with Radical Islam,’ Slaughter of Christians Will Continue
+19687,1,’Leave’ Proved Right: Just Days After Brexit, EU Releases Plan For Further Expansion, An EU Army, AND Turkish Membership
+19896,1,At Davos, Eric Cantor Assails Trump For His America-First Trade Policy - Breitbart
+20019,1,IOC to Probe Egyptian Judoka’s Refusal to Shake Israeli’s Hand
+20443,1,Progressives: Kaine Selection Gives Trump Advantage on Trade - Breitbart
+20494,1,Constitutional Lawyers Say Brexit Not A ’Done Deal’, Can Still Be Blocked
+20520,3,Italy Dreads Looming Invasion of 400,000 New Immigrants ‘in Coming Weeks’
+20557,2,Calais Border Deal With France Not Affected by Brexit, Says Paris
+20800,1,The Great British Betrayal: Brexiteers May Need to Take to The Streets To Ensure We Leave
+20908,1,Obama’s SOTU: The Transformative President Triumphant - Breitbart
+21164,1,Progressives’ Hatred of Nationalism Pushes US Towards the End of Sovereignty - Breitbart
+21248,3,John Bolton: James Comey Should Dare Obama to Fire Him
+21288,4,Hillary Clinton Campaign Forwarded Plan to White House to Promote Iran Treaty Using Catholic Prelates’ Influence - Breitbart
+21400,1,***Horse Race LiveWire*** Sanders Looks to Sweep Alaska, Washington, Hawaii - Breitbart
+21653,1,Google, Apple, and Amazon Could Crash the International Tax System - Breitbart
+21744,1,The Ten Ideologies of America
+22218,3,Don’t Believe the Lies that Ted Cruz Hates Homeschool Freedom - Breitbart
+22273,1,A Harsh New Reality May Await El Chapo in Colorado’s Supermax Prison - Breitbart
+22420,2,Obama’s $400 Million Cash Payment to Iran May Be Unprecedented - Breitbart
+22776,1,Hollande Says Brexit Won’t Change Channel Migrant Deal
+22816,2,Ted Cruz Slams Donald Trump, Obama After Brussels Attack
+22888,1,FBI: Hillary Clinton Checked Email from State Dept. Balcony
+23050,2,US House Pressures Obama to Declare Islamic State Slaughter ’Genocide’
+23096,4,FLEITZ: The Truth About John Bolton, the Iraq War and WMD Diplomacy - Breitbart
+23148,1,Trump Camp: Ted Cruz Is ’The Reason Why Obamatrade’ Passed - Breitbart
+23284,2,Brexit: Britain Votes To Leave EU, PM Cameron Resigns - Breitbart
+23292,2,The Donald v. NATO: He’s on the Money
+23401,1,Secret TTIP Docs Leaked: ’Corporations At The Heart Of EU-US Policy Making’
+23422,1,NATO Response to Coup Attempt in Turkey: A Tweet
+23440,2,Paul Ryan, House GOP Leaders Warn Obama: Stop Appeasing Iran in Your Final Days - Breitbart
+23664,1,French PM Opposes TTIP As Being Against ’EU Interests’
+23764,1,Duterte: Philippines Will Not Be a ’Dog Barking for Crumbs’ from U.S.
+23902,8,Erdogan Says Some Greek Islands Should Really Belong to Turkey
+24326,1,Teary Obama Won’t Cry For Constitution
+24447,1,Japan Affirms Previous PMs Have Visited Pearl Harbor as Shinzo Abe Heads to Hawaii - Breitbart
+24566,1,’The Populist Explosion’: New Book Explains Rise of Trump, Sanders, and the Populist Future - Breitbart
+24968,2,Trump: The Left Just Lost The War On Climate Change
+25327,1,Singapore PM: Rejecting TPP Means War
+25440,1,House of Cards: Paul Ryan’s Campaign to Mislead Voters on His Immigration Stance - Breitbart
+25480,1,Trump Argues Clinton’s Trade Policies Have ‘Decimated New Mexico Jobs’ - Breitbart
+25486,1,Brexit Referendum Not Legally Binding, Supreme Court Told
+25488,2,Exclusive — Jeff Sessions: ’Matter Of Supreme Importance’ GOP Nominee Can ‘Negotiate Better’ Trade Deals Than Obamatrade - Breitbart
+26431,8,Governor Abbott: Arms Trade Treaty Could Allow UN to Regulate Guns in U.S.
+26518,2,American Spectator: ‘Clinton Cash’ Shows How Clintons ‘Enriched’ Themselves from a ‘Human Rights Who’s-who of International Criminals’ - Breitbart
+26723,1,Donald Trump: Hillary Clinton ’Opened the Pandora’s Box of Radical Islam’ - Breitbart
+26762,1,North Korea Claims It Conducted a Successful H-bomb Test
+26783,2,Crash Would Be Worse If America Signed Trans-Pacific Partnership - Breitbart
+26923,1,Report: Leo DiCaprio Foundation Tied to $3B Malaysian Embezzlement Scheme - Breitbart
+27614,3,Abbas Accuses Israel of Destroying the Environment With Settlements - Breitbart
+28127,1,American Shoe-Making Company Steps on Barack Obama’s Pacific Trade Deal - Breitbart
+28851,1,Republican Party Leaders Plot Purge, Civil War - Breitbart
+29017,1,Exclusive-Rep. Dana Rohrabacher: Trump’s Taiwan Call Alerts Chinese U.S. No Longer a ’Pushover’ - Breitbart
+29053,1,$46.6B Annual Cost of Hated EU Rules Caused the Brexit
+29386,1,James Pinkerton: Globalism Hits a Brick Wall: Now, What Will Donald Trump and Hillary Clinton Do?  - Breitbart
+29676,1,Paul Ryan Running Scared in Final Days Ahead of Primary Election
+29694,1,Egypt’s Sisi: Globalization Yields ’Poverty, Inequality, and Undermining of the Social Contract’
+29997,1,Germany Elder Statesman: ’Trump May Be Better For Europe Than Clinton’
+30201,1,European Union Says U.S. Bathroom Privacy Bills Illegal
+30370,1,Larry Kudlow: ‘Britain Will Never Rule Britain Again’ If It Stays In the European Union - Breitbart
+30858,1,Trump’s Mission: Make America Great Again Peace with Honor—Through Deal-Making - Breitbart
+30882,1,KASSAM -- USexit: The Case for Booting the UN Out of America Grows Stronger
+31147,1,Wikipedia Founder: Brexit Campaign Had a ’Hateful Rhetoric’, Powered By ’Populist Media’ - Breitbart
+31418,1,Mining Industry Looks to Space as Asteroids May Inspire the Next Gold Rush - Breitbart
+31781,1,Returning home to find your house in a ’different country’
+31813,1,Obama’s final report card: Did he live up to his promise?
+31903,1,Trump team discussing border wall with Army Corps, Interior Department
+31982,2,Trump’s NATO comments differ from his own nominees
+31992,1,CNN 10 - January 18, 2017
+32040,2,Extradited ’El Chapo’ Guzman arrives in US
+32041,1,How the world sees a Trump presidency
+32219,1,Trump must reassert US leadership in the Asia Pacific
+32313,1,CNN 10 - January 31, 2017
+32315,1,Somalia Fast Facts
+32407,4,Mattis: US will defend Japanese islands claimed by China
+32410,1,Mattis in Asia: Fears soothed but uncertainty remains
+32465,1,Why this statue of a young girl caused a diplomatic incident
+32479,3,Chinese ships sail near disputed Japanese islands
+32480,1,East China Sea: How an uninhabited island chain splits Japan and China
+32513,1,Dakota Access Pipeline: Army issues final permit
+32571,1,Donald Trump’s Asia pivot
+32578,1,Flynn’s talks with Russian ambassador point to larger problem
+32604,1,US opposes Palestinian appointment at UN
+32676,8,Russia deploys missile in apparent treaty violation
+32697,1,Russian spy ship lurks off Connecticut coast
+32702,4,Russia: The problem Trump can’t escape
+32736,2,Russian provocation: Bluster or genuine peril
+32837,1,Montenegro: Russia involved in attempted coup
+32857,4,Dakota Access Pipeline protest site is cleared
+32881,1,CNN 10 - February 24, 2017
+32942,5,Trump’s call for US nuclear supremacy raises questions
+33137,2,North Korea Nuclear Timeline Fast Facts
+33230,7,Russia denies deploying cruise missile in treaty breach
+33336,1,Scottish independence could be a nightmare for Europe
+33364,1,Capturing Armageddon: Nuke test films digitized in the nick of time
+33391,1,Former Trump campaign chief Paul Manafort wanted for questioning in Ukraine corruption case
+33503,1,Trump has given the EU a chance to lead the world
+33535,1,Nuclear Nations Fast Facts
+33541,3,International Criminal Court Fast Facts
+33548,4,NATO Fast Facts
+33590,1,UK to trigger Article 50, starting Brexit process
+33617,1,CNN 10 - March 31, 2017
+33709,11,Troubled waters: Can India and Pakistan bridge differences over river pact?
+33758,1,What we know about Syria’s chemical weapons
+33800,2,Sen. Blumenthal on Syria: ’Russia is testing us’
+33927,1,Trump on Assad: ’That’s a butcher’
+34001,1,Saudi Arabia Fast Facts
+34021,1,US sends newest stealth fighters to Europe
+34026,1,US Vice President visits DMZ amid high tensions with North Korea
+34052,1,The Paris Agreement is bigger than Trump
+34249,1,CNN 10 - April 28, 2017
+34307,1,The Pope’s perilous mission to Egypt
+34348,1,When to call a dictator... and when to let him leave a message
+34399,1,CNN 10 - May 4, 2017
+34406,2,Is South Korea about to reset its North Korea policy?
+34569,1,South Sudan Fast Facts
+34648,2,Kamau Bell: Standing Rock changed how I see America
+34659,1,North Korea blights China’s One Belt, One Road party with missile launch
+34890,1,Aboriginal leaders gather at Uluru to decide how to change Australia
+34916,1,Wary allies await Trump at NATO summit
+34931,1,Trump pushes around NATO
+34935,1,CNN 10 - May 26, 2017
+34952,1,Why Trump’s prime minister shove pleased Putin
+34954,1,Carter adviser Zbigniew Brzezinski dies at 89
+35210,1,Acting US ambassador to China resigns
+35224,1,Qatar rift: Saudi, UAE, Bahrain, Egypt cut ties
+35456,1,Iraqi Christians in Michigan fear deportation
+35463,1,Northern Ireland peace ’at risk’: UK’s May warned against DUP deal
+35548,3,The secret negotiations behind the Hong Kong handover
+35563,1,Asgardia: the world’s first ’space nation’
+35658,1,President Obama tours Yosemite, says climate change happening now
+35733,1,North Korea fires two missiles, South Korea says
+35748,1,Korean War Fast Facts
+35788,1,On immigration, Supreme Court split is right
+35821,1,Nigel Farage: Who is Brexit ’architect’?
+35825,1,Brexit: EU leaders demand quick UK exit
+36044,5,Iraq Fast Facts
+36119,1,Obama heads to NATO summit at ’inflection point’
+36383,1,The trouble with Trump and national security
+36424,1,Turkey declares three-month state of emergency
+36652,1,Gulen discusses failed Turkey coup on ’GPS’
+36846,1,Syrian opposition hails ’miraculous’ victory after claiming to break Aleppo siege
+37065,1,Egyptian sent home for refusing to shake Israeli’s hand?
+37081,7,Can Brazil get Ryan Lochte extradited?
+37124,1,Joe Biden’s Turkey visit: Exiled cleric will be ’top of agenda’
+37229,1,Biden aims to reassure Turks of US support after failed coup
+37422,1,US loses partner in terror war with death of Uzbekistan’s leader
+37482,1,Republicans for Clinton: Why we oppose Trump
+37484,1,Obama: Consequences if China violates rules
+37507,1,Berlin Wall Fast Facts
+37519,1,Senate resumes gridlock as Zika funding vote fails
+37621,1,Colombia’s FARC rebels release child soldiers
+37627,2,Camp David Accords Fast Facts
+37873,1,Ukrainian President says he wasn’t snubbed by Trump cites scheduling conflict
+37992,2,The last armed conflict in Latin America is finally ending
+38016,1,Appeals court hears high-stakes challenge to Obama’s clean power plan
+38028,2,Who won the debate?
+38133,1,Colombians reject peace deal with the FARC
+38271,3,The world commits to zero climate pollution
+38358,1,US and Russia now in unpredictable confrontation
+38491,1,The final debate: CNN’s Reality Check Team vets the claims
+38529,1,Dakota Access Pipeline: Police remove protesters
+38631,1,Why it’s difficult to predict what Trump will actually do as president
+38775,3,Russia quits International Criminal Court
+39050,1,North Dakota Pipeline: Protesters vow to stand ground
+39101,1,North Korea sanctions: Futile, counterproductive and dangerous
+39141,1,EPA boss: Room for hope on climate change
+39237,2,Why they’re staying: A win for Standing Rock, but not a victory
+39424,1,Russia’s Putin meets with Abe to discuss disputed islands
+39465,2,What Trump gets wrong on climate change
+39571,1,US returns land it’s controlled since WWII to Japan amid local anger
+39592,1,Make the Arctic great again
+39599,1,’America First’ makes America last
+40366,1,Jordan’s King Abdullah, Queen Rania and war on ISIS
+40648,2,Kerry denounces GOP letter to Iran leaders
+40833,3,Why we can’t trust Putin (Opinion)
+40890,1,Italy high court to weigh Amanda Knox case Friday
+40909,5,Could Amanda Knox be extradited?
+40915,1,Saudis lead air campaign against rebels in Yemen
+41034,1,Iran nuclear deal framework announced
+41055,1,What’s Germanwings’ legal liability for Alps crash?
+41078,2,Dad to U.S., China: Find my daughter’s killer
+41331,2,Women in the world: Where the U.S. falters
+41349,1,Aircraft carrier that survived atomic blasts surveyed
+41728,1,Is Saudi Arabia seeking nuclear weapons from Pakistan?
+41801,1,CNN’s Wolf Blitzer: The whole world was watching
+41889,1,Yes, Putin, this FIFA scandal IS U.S. business
+42312,1,North Korean soldier defects across border, South says
+42336,1,Asia trade deal: Obama’s pivot to nowhere
+42376,1,Why Waterloo still fascinates us (Opinion)
+42535,2,How do gay rights look in your country?
+42546,1,U.S. sending tanks, armor for NATO allies
+42744,2,Pope calls greed ’the devil’s dung’
+43026,8,Can Zimbabwe have lion’s killer extradited?
+43029,2,Hiroshima anniversary: What Obama should say (Opinion)
+43117,2,It’s time for Trump to come to his senses on nuclear weapons
+43182,1,How Putin engineered Russia’s return to superpower status
+43270,1,Trump’s offer to Putin: an end to sanctions for nuclear arms cut
+43413,1,’Trump’s plans to finance his wall are going to hit the auto industry like a ton of bricks’
+43584,1,One major issue divides the airline CEOs meeting Trump Thursday
+43783,2,Earth’s newest continent ’Zealandia’ was found thanks to a giant underwater land grab
+44011,1,’The senator from Kentucky is now working for Putin’: John McCain slams Rand Paul for blocking Montenegro from joining NATO
+44014,2,The US government just declassified 750 nuclear-weapons movies and put a bunch on YouTube
+44027,2,Never-before-seen videos show nuclear weapons being secretly detonated in the Nevada desert
+44179,2,The UK is about to formally trigger the Brexit process — here’s what that means
+44424,1,The US and China are weighing responses to North Korea’s failed missile launch
+44470,1,North Korea: We will launch ’super-mighty preemptive strike’ on US forces, mainland
+44492,1,A dark and familiar cloud is hanging over France’s high-stakes presidential election
+44610,1,Why it’s important that Trump would be ’honored’ to talk to North Korea’s Kim Jong Un
+44747,1,The Goldman guys in the White House are acting exactly how America feared they would
+45007,2,TRUMP WITHDRAWING FROM PARIS CLIMATE AGREEMENT
+45381,2,Putin defends Russia’s recent aggression, blames US and Europe for rising tensions
+45834,1,An archaeologist studied Mardi Gras beads and found the ’season of madness’ has much deeper roots than we think
+46419,1,Donald Trump says NATO countries must ’pay up’ or ’get out’
+46429,1,Hillary Clinton gave us a preview of how she’ll take on Donald Trump
+46550,1,The US should focus less on ISIS and more on its real existential threat: North Korea
+46566,2,More than 100 people have attempted suicide in this tiny Canadian community since September
+46674,1,Obama took a veiled shot at Trump over his comments about Muslims
+47498,1,10 things you need to know today
+47576,1,Obama eats exactly 7 almonds every night — here are some of his other nighttime habits
+47735,1,The coup attempt in Turkey has presented the US and Europe with a huge dilemma
+47878,1,Bill Clinton used a clever combination to make the case for Hillary at the DNC
+48632,1,Where Hillary Clinton and Donald Trump stand on foreign policy
+48650,1,Over and over again, the military has conducted dangerous biowarfare experiments on Americans
+48748,1,The State Department just cut off its bilateral channels with Russia over Syria
+48886,2,The Philippines’ president is betting big on a trip to China, but he may be overplaying his hand
+48961,1,The Philippines’ president is headed to China with high hopes, but he may be in for a rough landing
+49001,1,JOHN KASICH: I’m ’very surprised’ at the ’intensity of our differences’ with Russia
+49289,1,Trump is starting to sound like Obama on immigration
+49837,1,Ten American Foreign Policy Luminaries Who Died in 2016
+49841,1,The Key to Putin’s Cyber Power
+49903,1,Can Trump Enforce His Red Line on North Korea?
+49946,1,Obama in Science: The Renewable Revolution Will Outlast Trump
+49995,3,Rex Tillerson Says Climate Change Is Real, but …

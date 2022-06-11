@@ -1,0 +1,514 @@
+65,1,My Canada - The New York Times
+71,1,Cyberwar for Sale - The New York Times
+78,1,Coming to Carnival Cruises: A Wearable Medallion That Records Your Every Whim - The New York Times
+191,1,Betsy DeVos, Trump’s Education Pick, Plays Hardball With Her Wealth - The New York Times
+200,1,The Best and Worst of the Golden Globes - The New York Times
+261,1,How to Navigate New Airline Carry-On Rules - The New York Times
+270,1,Neanderthals Were People, Too - The New York Times
+518,2,Baseball Tragedy: Two Players Die in Crashes in the Dominican Republic - The New York Times
+535,1,Shanghai Dwellings Vanish, and With Them, a Way of Life - The New York Times
+662,1,Megyn Kelly May Get NBC Morning Show, Shaking Up ‘Today’ - The New York Times
+755,1,As Canada Transforms, an Anti-Immigrant Fringe Stirs - The New York Times
+799,1,Trump’s Harsh Talk With Malcolm Turnbull of Australia Strains Another Alliance - The New York Times
+832,1,Nickelodeon Wades Into Princess Politics - The New York Times
+936,3,Tunis Greets an Ottoman-Era History Long Banished by Its Dictators - The New York Times
+938,1,Hearing ‘America First,’ European Nations Jockey to Be Second - The New York Times
+939,4,Queen Elizabeth II’s Sapphire Jubilee Takes On Low-Key Tone - The New York Times
+964,1,Of a Frog’s Slap Shot and Saliva - The New York Times
+1014,1,Can Raf Simons Reinvent Calvin Klein? - The New York Times
+1045,1,Losing Hope in U.S., Migrants Make Icy Crossing to Canada - The New York Times
+1126,1,Kim Jong-un’s Half Brother Is Reported Assassinated in Malaysia - The New York Times
+1144,1,Kim Jong-nam, the Hunted Heir to a Dictator Who Met Death in Exile - The New York Times
+1162,1,Full Transcript and Video: Trump News Conference - The New York Times
+1298,1,Mexico, Syria, Trump: Your Wednesday Evening Briefing - The New York Times
+1318,1,Just 11 Miles Off Coast, California’s Galápagos - The New York Times
+1363,2,Fleeing U.S. for Asylum, and Handcuffed in Canada - The New York Times
+1446,1,Soaring at 1,500 Feet With Michael Fabiano, Opera’s Risk-Taking Tenor - The New York Times
+1537,1,Justin Trudeau to Attend the Broadway Musical ‘Come From Away’ - The New York Times
+1587,1,Figuring Out When and Why Squids Lost Their Shells - The New York Times
+1636,1,In Russia, Blooms Flourish on International Women’s Day - The New York Times
+1742,1,Jordan Frees Soldier Who Killed 7 Israeli Schoolgirls in ’97 Rampage - The New York Times
+1815,1,Candid Hitler Photos Sell for $41,000 to Unidentified Bidder - The New York Times
+1818,6,Muirfield’s Mulligan, Allowing Female Members, Is a Grudging Blow to Bigotry - The New York Times
+1821,1,The Magician Who Wants to Break Magic - The New York Times
+1836,1,Why the Whitney’s Humanist, Pro-Diversity Biennial Is a Revelation - The New York Times
+1938,1,Devices Banned on Flights From 10 Countries Over ISIS Fears - The New York Times
+1942,2,The Hawaii Cure - The New York Times
+1950,1,Martin McGuinness, an I.R.A. Leader Turned Peacemaker, Dies at 66 - The New York Times
+1992,1,London Attack Leaves Citizens of 10 Nations Dead or Injured - The New York Times
+1993,1,London Attack Echoes, Faintly, in a Europe Anxious but Inured - The New York Times
+2055,1,U.S., in Reversal, Issues Permit for Keystone Oil Pipeline - The New York Times
+2060,1,Ariel Levy Has Written a Thoroughly Modern Memoir - The New York Times
+2081,1,In Health Bill’s Defeat, Medicaid Comes of Age - The New York Times
+2088,1,At 91, Ella Brennan Still Feeds (and Leads) New Orleans - The New York Times
+2096,1,Inhabitants of Maldives Atoll Fear a Flood of Saudi Money - The New York Times
+2097,1,Thieves Take a Chunk of Change, All 221 Pounds of It, From a Berlin Museum - The New York Times
+2121,1,Traveling With Adult Children - The New York Times
+2282,1,WrestleMania Stories Collide in the Ring - The New York Times
+2289,1,After Ailes, the Pirate Flag Still Flies at Fox News - The New York Times
+2332,1,The Diva Departs: Renée Fleming’s Farewell to Opera - The New York Times
+2436,1,In the Shadow of a Fairy Tale - The New York Times
+2548,1,Saudi Arabia Warns of Economic Fallout if Congress Passes 9/11 Bill - The New York Times
+2600,1,Leaders Roll Up Sleeves on Climate, but Experts Say Plans Don’t Pack a Wallop - The New York Times
+2604,1,Donald Trump’s More Accepting Views on Gay Issues Set Him Apart in G.O.P. - The New York Times
+2617,15,In an Age of Privilege, Not Everyone Is in the Same Boat - The New York Times
+2621,4,Queen Elizabeth’s Party Planner Is Proud to Wear $35 Shoes - The New York Times
+2657,2,Dyson Wants to Create a Hair Dryer Revolution - The New York Times
+2709,1,The Met Opera Is Struggling. How Can It Fill Those Empty Seats? - The New York Times
+2749,1,Senate Passes Bill Exposing Saudi Arabia to 9/11 Legal Claims - The New York Times
+2811,1,Governments Turn to Commercial Spyware to Intimidate Dissidents - The New York Times
+2836,1,Uber Turns to Saudi Arabia for $3.5 Billion Cash Infusion - The New York Times
+2846,1,Saudi Oil Chief Khalid al-Falih Tells OPEC Changes Are Coming - The New York Times
+2850,1,Is Yannick Nézet-Séguin Worth the Wait at the Met? - The New York Times
+2855,1,In Paris, the Seine Rises to Highest Level Since 1982 - The New York Times
+2866,1,Credit Suisse Boss Faces Revolt From Bankers Over Strategy Shift - The New York Times
+2869,1,Panama Papers Show How Rich United States Clients Hid Millions Abroad - The New York Times
+2877,1,‘Game of Thrones’ Season 6, Episode 7: Never Too Late - The New York Times
+2914,2,Mecca Goes Mega - The New York Times
+2933,1,Tiny Home Test Drive - The New York Times
+3029,1,A British Divorce From Europe? Henry VIII Blazed the Trail - The New York Times
+3082,1,‘Brexit’ Opens Uncertain Chapter in Britain’s Storied History - The New York Times
+3092,1,In American Markets, Panic Begins to Subside - The New York Times
+3302,1,In 9/11 Document, View of a Saudi Effort to Thwart U.S. Action on Al Qaeda - The New York Times
+3316,9,At Royal Troon, the Bunkers Bury the Best - The New York Times
+3325,2,Henrik Stenson Beats Phil Mickelson in British Open Duel - The New York Times
+3408,3,Gloomy Days in the Oil Patch, but Some See a Glimmer of Light - The New York Times
+3418,1,Meet the New Owner of the Playboy Mansion - The New York Times
+3444,1,‘I Have No Choice but to Keep Looking’ - The New York Times
+3451,1,In France, a Recipe Squabble over Marseille Soap - The New York Times
+3477,1,Jonah Hill Is No Joke - The New York Times
+3515,1,At 82, Emperor Akihito of Japan Wants to Retire. Will Japan Let Him? - The New York Times
+3536,1,Tim Tebow Will Attempt Another Comeback, This Time in Baseball - The New York Times
+3731,1,Saudis and Extremism: ‘Both the Arsonists and the Firefighters’ - The New York Times
+3746,1,Security in a Bright Yellow Suitcase - The New York Times
+3817,2,Georgetown University Plans Steps to Atone for Slave Past - The New York Times
+3848,1,Venture Communism: How China Is Building a Start-Up Boom - The New York Times
+3943,1,As More Devices Board Planes, Travelers Are Playing With Fire - The New York Times
+3961,1,Turkey’s Suspicious Mind-Set Has Been a Century in the Making - The New York Times
+4051,1,How Bad Off Is Oil-Rich Venezuela? It’s Buying U.S. Oil - The New York Times
+4107,2,Journey From Class Clown to Suspect in Chelsea Bombing - The New York Times
+4116,2,Arnold Palmer, the Magnetic Face of Golf in the ’60s, Dies at 87 - The New York Times
+4156,1,Angered by 9/11 Victims Law, Saudis Rethink U.S. Alliance - The New York Times
+4198,1,What New York Can Learn From Barcelona’s ‘Superblocks’ - The New York Times
+4202,1,Under Hawaii’s Starriest Skies, a Fight Over Sacred Ground - The New York Times
+4212,1,3 Who Studied Unusual States of Matter Win Nobel Prize in Physics - The New York Times
+4229,1,3 Makers of World’s Smallest Machines Awarded Nobel Prize in Chemistry - The New York Times
+4276,1,Oliver Hart and Bengt Holmstrom Win Nobel in Economics for Work on Contracts - The New York Times
+4305,1,Cubs Oust Giants to Reach N.L.C.S., for Once on Good Side of a Big Rally - The New York Times
+4330,1,‘The Greatest Loss and Despair’: Thais Mourn Their King - The New York Times
+4363,1,Mosul, ‘Brexit,’ U.S. Presidential Race: Your Monday Briefing - The New York Times
+4421,1,A Narrow Path of Hope Remains for the Cubs - The New York Times
+4463,10,‘The Crown’ Episodes 1 and 2: Stiff Lips, Warm Heart - The New York Times
+4484,1,Prince Harry Denounces Media Coverage of His Girlfriend, Meghan Markle - The New York Times
+4511,1,‘The Art of the Qur’an,’ a Rare Peek at Islam’s Holy Text - The New York Times
+4590,1,Marvel’s ‘Inhumans’ TV Series Will Arrive via Imax Theaters - The New York Times
+4627,1,How the Iranian-Saudi Proxy Struggle Tore Apart the Middle East - The New York Times
+4671,1,Review: ‘Allied,’ With Brad Pitt and Marion Cotillard, Uncorks a Favorite Vintage - The New York Times
+4720,1,In Scotland, Trump Built a Wall. Then He Sent Residents the Bill. - The New York Times
+4787,1,François Hollande, Buzz Aldrin, Vladimir Putin: Your Friday Briefing - The New York Times
+4822,1,John Key, New Zealand’s Prime Minister, Says He Will Step Down - The New York Times
+4861,2,Saudis Bankroll Taliban, Even as King Officially Supports Afghan Government - The New York Times
+4879,1,The Woman Who Might Find Us Another Earth - The New York Times
+4885,1,Peter Vaughan, Maester Aemon in ‘Game of Thrones,’ Dies at 93 - The New York Times
+4906,1,John Glenn, American Hero of the Space Age, Dies at 95 - The New York Times
+4996,4,Milwaukee Officer Charged in Shooting That Set Off Riots - The New York Times
+5097,1,Flurry of Settlements Over Toxic Mortgages May Save Banks Billions - The New York Times
+5121,3,Queen Elizabeth Misses Christmas Service Because of ‘Heavy Cold’ - The New York Times
+5162,1,85-Year-Old Marathoner Is So Fast That Even Scientists Marvel - The New York Times
+5185,1,Your Photos as Princess Leia, a Rebel and Role Model - The New York Times
+5226,1,Obama Urges Britain to Remain in the E.U. - The New York Times
+5453,1,‘Leave’ Takes the Lead as Britain Awaits Outcome of E.U. Referendum - The New York Times
+5498,13,Royal Troon Golf Club Votes to Allow Female Members - The New York Times
+5516,1,Wigan’s Road to ‘Brexit’: Anger, Loss and Class Resentments - The New York Times
+5544,1,Andy Murray Beats Milos Raonic to Win Second Wimbledon Title - The New York Times
+5565,1,Phil Mickelson Comes Close to a Record by Shooting 63 at the British Open - The New York Times
+5670,1,Black Lives Matter Activists Stage Protests Across Britain - The New York Times
+5803,1,To Bolster KLM’s Identity, a ‘Charmingly Clueless Approach’ to Humor - The New York Times
+5876,1,In the Bonobo World, Female Camaraderie Prevails - The New York Times
+5932,1,Laser Scans Unveil a Network of Ancient Cities in Cambodia - The New York Times
+5986,7,Fontainebleau: A Forgotten Treasure - The New York Times
+6013,1,Kim Kardashian Is Tied and Robbed of Millions in Jewels, French Police Say - The New York Times
+6048,1,An Opera Star Finds the Right Duet - The New York Times
+6055,1,With Help From an Error, the Blue Jays Sweep the Rangers and Advance - The New York Times
+6081,6,Bhumibol Adulyadej, 88, People’s King of Thailand, Dies After 7-Decade Reign - The New York Times
+6087,8,Thailand Looks to Likely Future King With Apprehension - The New York Times
+6093,17,Rise of Saudi Prince Shatters Decades of Royal Tradition - The New York Times
+6262,1,Donald Trump’s New York Times Interview: Full Transcript - The New York Times
+6292,1,Donald Trump, Colombia, Fidel Castro: Your Wednesday Briefing - The New York Times
+6313,1,New King for Thailand as Crown Prince, Vajiralongkorn, Ascends to Throne - The New York Times
+6352,1,A Proposal for a Canadian National Bird Ruffles Feathers - The New York Times
+6525,1,Your Wednesday Evening Briefing: Donald Trump, Elizabeth II, Harriet Tubman - The New York Times
+6577,1,In the Hamptons, a Small-Town Paper Is a Beacon in the Mayhem - The New York Times
+6578,2,Jane Fawcett, British Decoder Who Helped Doom the Bismarck, Dies at 95 - The New York Times
+6592,1,The Quinceañera, a Rite of Passage in Transition - The New York Times
+6640,1,Some Early Signs of ‘Brexit’ Upheaval - The New York Times
+6666,1,‘Brexit’ Briefing: Battle of the Somme Tories Step Up as Boris Johnson Exits - The New York Times
+6702,1,A Haircut for French Taxpayers? Hollande’s $10,000-a-Month Stylist Is Revealed - The New York Times
+6775,1,Thai Leader Links Attacks on Tourist Sites to Constitution Change - The New York Times
+6790,2,Arthur Hiller, ‘Love Story’ Director and Box-Office Magnet, Dies at 92 - The New York Times
+6793,1,Is Hayden a Boy or Girl? Both. ‘Post-Gender’ Baby Names Are on the Rise. - The New York Times
+6856,1,Scientists See Push From Climate Change in Louisiana Flooding - The New York Times
+6918,1,A New Debate Over Pricing the Risks of Climate Change - The New York Times
+6945,1,You Say ‘Anguria,’ I Say ‘Cocomero’: Italy’s Many Dialects - The New York Times
+7041,1,A List of Priorities From Trump, and Kris Kobach Tips His Hand - The New York Times
+7086,2,Bud Selig, an Apostle for Equity, Reaches Hall of Fame - The New York Times
+7112,1,Bob Dylan Sends Warm Words but Skips Nobel Prize Ceremonies - The New York Times
+7168,1,Carrie Fisher, Russia, Shinzo Abe: Your Wednesday Briefing - The New York Times
+7205,2,American Pharoah Is Already a Champion at the Stud Life, Too - The New York Times
+7207,5,Saudi King Shakes Up Government as Economic Plan Moves Forward - The New York Times
+7422,1,Look Who’s Smiley Now: MoMA Acquires Original Emoji - The New York Times
+7486,1,Iran Races to Clinch Oil Deals Before Donald Trump Takes Office - The New York Times
+7512,1,A New Gilded Age, for Artists Who Would Rule Forever - The New York Times
+7575,7,A Saudi Morals Enforcer Called for a More Liberal Islam. Then the Death Threats Began. - The New York Times
+7593,1,At Rio Olympics, the National Anthem Sounds … Sad? - The New York Times
+7626,1,Ahmad Rahami: Fixture in Family’s Business and, Lately, a ‘Completely Different Person’ - The New York Times
+7637,1,The Best TV Shows and Movies New to Netflix, Hulu and More in October - The New York Times
+7638,2,One Season Ends and Another Begins: Baseball Playoff Matchups Are Set - The New York Times
+7810,1,20-Year-Old Brit Dies Fighting Islamic State in Syria
+7850,2,China Slams Deployment of U.S. Carrier to South China Sea
+7930,1,Iran Conducts ’Unsafe and Unprofessional’ Encounter With U.S. Ships
+7973,1,O’Donnell: Hillbilly Justice -- How the Battle of Kings Mountain Changed the Course of the Revolution
+8074,1,Fake News: DHS Secretary Calls WaPo ’John Kelly-Steve Bannon Feud’ a ‘Fantasy Story’ - Breitbart
+8795,1,Steven Tyler Lands in Israel Ahead of Aerosmith Tel Aviv Concert
+9071,1,DELINGPOLE: Rules for Righties -- a War-Winning Manifesto for 2017
+9465,1,Canadian Victim in London Attack Died in her Fiance’s Arms
+9710,1,Five-Year-Old Girl Suspended After Making ’Shooting Motion’ with Stick Shaped Like Gun - Breitbart
+10119,2,Feminists ’Gallop’ Around Stockholm to Protest ’Patriarchal’ Statues of Men on Horses - Breitbart
+10166,1,Uber Hires NASA Engineer for VTOL ’Flying Car’ Project - Breitbart
+10412,4,Japan Moves Forward on Bill to Allow Emperor Akihito to Abdicate Throne - Breitbart
+10661,2,’Muslim Majority’ Versus Islamic Nations, Part 2: Sharia Law and Islam as the State Religion - Breitbart
+10679,1,FAKE NEWS: CNN Claims GOP Trying to Remove ’$200,000 Tax’ on Firearm Suppressors - Breitbart
+10872,1,Queen Elizabeth Makes First Public Appearance After Heavy Cold
+10921,1,Westminster Attack Victim Aysha Frade ’Was Picking Up Her Children from School’ when Terrorist Took Her Life - Breitbart
+10929,1,Shia vs. Sunni: The Schism Western Politicians Don’t Understand and Won’t Discuss - Breitbart
+11552,5,22 Dead, 50+ Injured After Reports of ’Explosions’ At UK Ariana Grande Concert
+11889,1,RAF Jets Escort Pakistan Airlines Flight to London
+11981,1,Ernie Els: ‘We Would Not be Playing For the Money We Play For If It Wasn’t For Tiger’ - Breitbart
+12038,1,After 8 Years of Campaigner-in-Chief Obama, NPR Accuses Trump of ’Permanent Campaign’ - Breitbart
+12361,1,Police Constable and Army Veteran Keith Palmer Was ’Every Inch A Hero’
+12380,1,Roger Moore, Star of 7 James Bond Films, Dies at 89 - Breitbart
+12794,1,Hannity on the Media: ’What We’re Seeing Now Is This Unelected Fourth Branch of Gov’t Looking for Retribution’ - Breitbart
+12880,1,Huge Crowds Pay Respects to PC Murdered by Westminster Terrorist
+12989,1,Donald Trump Trashes Media in Epic-Long Press Conference - Breitbart
+13060,1,Article 50 MUST Be Put Before Parliament, Supreme Court Rules
+14317,1,London Bridge Ringleader Attended Demo in Support of Lee Rigby Killer - Breitbart
+14636,1,9/11 Trial: ‘20th Hijacker’ Offers to Testify About Saudi Link to Attacks
+14837,1,’We Will Die for Them’: Philippines’ Duterte Offers to Deploy Troops to Qatar, Bahrain
+14894,1,Cavuto: CNN Now Knows How Fox News Has Felt for the Past Eight Years - Breitbart
+14985,1,Manchester Terrorist Linked to Canadian Radical Imam
+15010,2,Peter Sallis, Voice of ’Wallace and Gromit,’ Dead at 96 - Breitbart
+15095,2,BREX PISTOL: Punk Legend Johnny Rotten Hails Brexit, Backs Trump
+15249,1,Theresa May Rejects Second Scottish Referendum Before Brexit
+15411,1,Freed Gitmo Detainees Sent to Oman Will Stay There ’Temporarily’
+15520,1,Zumwalt: Revealing Iranian Mullah’s Love of Moolah - Breitbart
+15586,1,WATCH: Her Majesty Urges Britons to Follow ’Christ’s Example’
+15726,1,As Far as the MSM is Concerned, America Was a Mistake
+15973,1,Marco Rubio Slams NSA Spying on Israel
+16000,2,Dear #NeverTrump: It’s Time To Get Behind Daddy - Breitbart
+16007,1,The 100th Anniversary of the Tank - Breitbart
+16241,2,Protests Over Moroccan Fishmonger’s Death Echo Arab Spring
+16258,1,Saudi Arabia Strips Morality Police of Arresting Power
+16313,1,Glenn Beck: Americans Are Worshipping Pagan Gods Baal and Moloch - Breitbart
+16493,1,#NeverTrump Denial &amp Libertarian Pipe Dreams
+16698,1,Green Survey: Delingpole At The Epicentre Of Denialist Evil
+17064,2,Hillary Loses the Left - Breitbart
+17316,3,Grammy Awards: Beyoncé Leads Noms with BLM-Inspired ’Lemonade’
+17356,1,Cambridge College Removes ‘Racist’ Bronze Cock After Student Demands
+17533,1,***Horse Race LiveWire*** 2 Days to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+17548,4,Not Welcome Here – Obama’s Visit To UK Tanks As Poll Reveals 60% Of Britons Don’t Want His Pro-EU Lectures
+18098,1,PICTURES: Farage Hailed A Hero On ‘Brexit The Movie’ Red Carpet
+18295,1,Exclusive Data Analysis: Democrat Turnout Collapses Down More Than 4.5 Million, Nearly 20 Percent In 2016 Versus 2008 - Breitbart
+18824,1,Gaming Industry Continues Massive Growth in 2016 with $91 Billion in Sales - Breitbart
+18938,2,Chesapeake Was The Best Battle The British Ever Lost
+18945,1,Houston Floods Claim 5 Lives, More Rain Expected
+19385,1,Fears Rise in Europe of Jihadist Influx if Iraq Retakes Mosul
+19423,2,U.K. Real Estate Gets Cheaper After Brexit - Breitbart
+19882,1,More Than 2,000 Schoolchildren At Risk Of Extremism
+19935,3,’Extreme Weather Events’: Another Alarmist Myth
+20053,1,American, Saudi Sanctions Target Jihadi Fundraisers in America - Breitbart
+20397,2,WWII B-17 Gunner Dies Quietly After First Visit to UK Since 1945 - Breitbart
+20494,1,Constitutional Lawyers Say Brexit Not A ’Done Deal’, Can Still Be Blocked
+20525,1,Iran Adopting ‘Art of the Deal’ Strategy as Trump Takes Office
+21443,1,Iran’s ’Military-Religious Amusement Park’ Lets Kids Practice Attacks on Israel
+21566,1,Meryl Streep Joins Michelle Obama for Ramadan Feast in Morocco - Breitbart
+21591,1,Pepper the Robot Takes to the High Seas Working on Cruise Ships - Breitbart
+21975,1,Britain’s New Prime Minister Drives A Stake Through The Heart Of The Green Vampire
+21999,1,Saudi Columnist: Obama’s Gulf Visit Did Little To Patch Things Up
+22212,1,The Truth about Huma Abedin that Media Matters Doesn’t Want America to See - Breitbart
+22260,1,Homeland Security in the Age of Truck Attacks: The Once and Future Fortress  - Breitbart
+22412,1,Leading British Horserider Suffers ’Terrifying’ Attack at Calais
+22690,1,Gitmo Detainee: Saudi Royal Aided Terrorists
+23290,1,Saudi Arabia Orders All Iranian Diplomats to Exit Country - Breitbart
+23715,1,End of the Old Order: GOP Apparatchiks Boo Insurgents as Outsiders’ Poll Numbers Soar - Breitbart
+24031,1,Pamela Geller: Prince Charles’ BBC Holiday Remarks ’Delusional’
+24108,1,British Doctors Faced With 5,700 Cases Of Female Genital Mutilation In One Year
+24131,1,Saudi Media Claim Billionaire Prince Delivered ’Knockout’ to Trump Popularity ’Downward Spiral’
+24358,1,’Islamic State’ Chanting Attackers ’Behead’ Priest During Morning Mass In France
+24938,1,A Flag for General Washington - Breitbart
+25008,11,Explosions Hit Brussels Airport, One Killed - Belgian Media
+25073,1,British Taxpayers Forced to Pick Up £181k Health Bill for Just ONE Illegal Immigrant - Breitbart
+25213,2,Meet the Saudi Shi’ite Cleric Whose Execution May Spark Sectarian Violence Across the Middle East
+25735,1,Phil Mickelson Leads Open after Stunning 63 - Breitbart
+25757,1,Pope Francis: Christmas Has Been ‘Kidnapped’ by Materialism
+25762,1,It’s 1828 All Over Again: Trump’s Deplorables Have Started a Peaceful Revolution  - Breitbart
+26022,1,Twitter Allows Saudi Group To Promote Tweet Defending Yemen Intervention - Breitbart
+26220,1,As Islamic State Loses Territory, Fighters Likely to Bring Jihad Home
+26273,3,CNN Calls Michigan Middle School ’Build the Wall’ Chant ’Racism’ - Breitbart
+26323,1,British ’Barbarians’ Need Manners Lesson, Says Chinese Paper
+26415,1,Turkish Flight from Texas Diverted to Ireland After Bomb Scare
+26563,1,Zika Virus: Airlines, Cruise Lines Offer Refunds
+26734,2,Australian Minister Attacks Pro-Migration ’Hype’, Says Immigrants ’Lie’, ’Cheat’ to Gain Entry
+26796,1,’Wonder Woman’ Movie Switching World Wars to Advance PC Plot Line - Breitbart
+26835,1,Singer Prince Dead at 57 - Breitbart
+26857,1,Saudi Arabia Pumps Oil Before Iran Sanctions Lifted - Breitbart
+26971,1,‘I Take Classified Information Seriously,’ Boasts Hillary Clinton, Despite Evidence - Breitbart
+27057,1,LIVE WIRE: David Cameron Grilled On Sky News
+27177,1,RSPB: We Must Build More Bird-Chopping Eco Crucifixes!
+27358,2,Harvard School of Law to Drop Seal, Citing Slavery Connections - Breitbart
+27549,2,No Mention of Brexit in Queen’s Christmas Message
+27561,1,Protests Across India Against Saudi Execution of Shiite Cleric
+27609,1,Andy Murray Beats Milos Raonic for 2nd Wimbledon Title - Breitbart
+27761,1,Kate Andersen Brower: Michelle Obama ’Finds It Hard to Forgive’ Hillary Clinton for 2008 Campaign Comments - Breitbart
+28088,1,Top Merkel Advisors Demand Germany Blocks Brexit
+28198,4,WATCH: Girl Demands Student Take Off Trump Hat as University Is a ’Safe Space’ - Breitbart
+28350,1,Globalists Attract Fewer than a Dozen Supporters to their Anti-Brexit, Anti-Trump London Protest
+28374,1,Shocking #1 Tops Ultimate Sports Standings List - Breitbart
+28668,1,Bilderberg 2016 Guest List Combines Enough Elite Names to Make Everyone Feel Uneasy - Breitbart
+28930,1,’You Are Not The People, You Are The Past’ Public Broadcaster Tells German Critics Of Mass Immigration
+29111,1,Industry: Government Will Fail To Meet Migrant-Population Boom House-Building Targets
+29145,1,’Dishonored 2’ Review: Still One of the Best Games of the Year Despite Falling Short of the Original - Breitbart
+29288,2,A Swing And A Miss: How Triggered Hillary Screwed Up Her Chance To Take On The Alt-Right - Breitbart
+29387,1,International Landmarks Lit Up with Turkey’s Red and White Crescent - Breitbart
+30031,1,Canadian Jihadi Created Islamic State ’Martyrdom Video’
+30049,1,Canada Takes Down ’Known Wolf’ Islamic State Jihadi
+30152,2,Flashback: The Saint and The Princess - Breitbart
+30205,3,Postmen Threaten To Bin Government EU Leaflet, Rather Than Be ’Forced To Be Part Of Propaganda Machine’
+30349,1,Saudi Social Media Outraged At Resolution Exposing 9/11 Claims
+30687,5,Police Patrol Michigan School After Video of Students Chanting ’Build the Wall’ Goes Viral
+30843,1,Warning UK Is ’Woefully Unprepared’ For People Smugglers
+31345,1,Michelle Obama Celebrates Ramadan, Breaks Fast with Iftar Dinner - Breitbart
+31601,1,Lake Erie plane crash: Police now searching for remains
+31613,1,5 things for Monday, January 2, 2017
+31679,3,The hardest New Year’s resolution to keep
+31717,1,CNN 10 - January 6, 2017
+31730,1,Thirsty at Trump’s DC hotel bar? Get ready for a yuge bill
+32059,1,The world reacts as Donald Trump takes power
+32109,4,Kansas City Royals pitcher dies in Dominican Republic
+32321,2,Quebec mosque shooting: Suspect called a ’lone wolf’
+32333,1,CNN 10 - February 1, 2017
+32460,1,Australia: 7% of Catholic priests abused children, commission finds
+32598,1,Nicolas Sarkozy Fast Facts
+32693,1,Woman arrested in death of Kim Jong Un’s half brother
+32721,1,Full transcript: President Donald Trump’s news conference
+32807,1,Murder of Kim Jong Nam: Timeline of intrigue
+32899,1,Why punishing media will backfire on Trump
+32949,1,Kim Jong Nam suspect thought she used baby oil
+33155,1,Malaysia accuses North Korea of holding its citizens hostage
+33338,1,Brexit: EU tells May it won’t be ’intimidated’
+33465,3,AQAP trying to hide explosives in laptops, official says
+33471,1,Slain police officer in London attack identified
+33480,1,London after attack: Shocked then enraged
+33538,2,How my laptop and I handled travel under Trump
+33749,1,Masters 2017: All you need to know about Augusta
+33849,1,Masters 2017: Sergio Garcia wins in playoff
+34050,1,Lady Gaga talks to Prince William about PTSD and mental illness
+34070,1,The makings of the ’world’s best race horse’
+34100,1,Trump wings it without chief of protocol
+34130,1,Hillary Clinton doesn’t deserve all the blame for Democrats’ failure
+34220,1,Artificial womb created to keep premature babies alive
+34372,3,UK royals seek $1.6 million over topless Kate photos
+34416,2,CNN 10 - May 5, 2017
+34468,1,Trump’s tour to the seats of three religions
+34469,1,Emmanuel Macron’s marriage proves politics is different in France
+34476,1,CNN 10 - May 8, 2017
+34510,2,Prince Harry kissed his girlfriend and ...
+34627,1,Zacarias Moussaoui Fast Facts
+34655,1,Nelson Mandela Fast Facts
+34663,1,Shockingly lifelike dinosaur fossil makes public debut
+34728,2,Japanese princess set to marry ’Prince of the Sea’
+34769,1,Chris Cornell hanged himself, medical examiner says
+34797,3,Francois Hollande Fast Facts
+34810,1,Saudi Arabia, US companies reach $55 billion in deals
+34811,4,On day 1 of first foreign trip, Trump was seen but not heard
+34813,3,Melania and Ivanka Trump arrive in Saudi Arabia sans headscarves
+34823,5,Trump lands in Saudi Arabia as controversies swirl at home
+34826,1,Trump signs Kushner-negotiated $100B Saudi arms deal
+34841,1,Immigrants eye Canada as US deportation fears grow
+34845,1,Politicians knock Trump on human rights promotion
+34846,1,CNN 10 - May 22, 2017
+34853,1,22 dead after blast at Manchester concert
+34901,1,UK raises terror threat: Are more attacks expected?
+34902,1,British authorities warn of ’damage’ to investigation from leaks
+34903,1,Manchester bomber probably had ISIS training, US official says
+34926,1,US-UK intel sharing back on after Trump vows to plug leaks
+34935,1,CNN 10 - May 26, 2017
+34939,3,Spicer’s absence in papal visit reveals Trump’s family-first rule
+34988,1,Trump’s 1st foreign trip: 5 takeaways
+35022,1,’The Square’ skewers art world in Palme d’Or-winning satire
+35043,1,Britain’s young voters are angry, not apathetic
+35133,16,Prince William Fast Facts
+35184,2,Ariana Grande holds benefit concert in wake of terror attacks
+35188,1,Emotions high as Ariana Grande, others perform in Manchester
+35207,1,Who was London attacker Khuram Butt?
+35214,1,Gulf rift over Qatar could complicate US goals in Mideast
+35288,6,Japan passes historic law to allow beloved Emperor to abdicate
+35370,1,Brian Wilson Fast Facts
+35440,1,London Grenfell Tower residents raised concerns months before fire
+35493,1,Smiling faces of London missing haunt those left
+35556,1,UK Chancellor: Cladding on Grenfell Tower ’banned on high-rises’
+35581,3,Saudi Arabia’s king replaces nephew with son as heir to throne
+35675,1,In Jo Cox’s town, the shock is still so raw
+35683,1,Cavaliers win NBA championship
+35722,1,Wildfires and deadly heat wave hit Southwest U.S.
+35737,3,Australian commission: Military cadets raped as initiation
+35876,1,Warren: Trump would ’crush you into the dirt’
+35916,4,Make UK the 51st state
+35919,1,Istanbul attack aftermath: Where are airports’ weakest links?
+35920,1,The unlikely godfather of the Islamic State
+36017,1,Wave of suicide strikes in Saudi Arabia
+36045,1,MLB All-Star Game Fast Facts
+36330,1,Stenson and Mickelson go head to head
+36335,1,Seventh Heaven wins fillies’ classic
+36354,1,Stenson triumphs after classic Troon duel
+36447,1,Police arrest 12 suspected of planning terrorist acts during Olympics
+36500,1,Highland Reel wins King George at Ascot
+36530,1,Fort Myers shooting: 2 dead outside teen party at club
+36791,1,Yusra Mardini: Refugee swimmer off to flyer
+36834,1,Why Akihito’s speech matters
+37193,1,A long commute is bad for your health and waist
+37259,1,MTV VMAs 2016: 5 reasons to watch
+37301,1,The man who photographed iconic 1960s stars
+37413,1,Operation removes Gadhafi-era chemical weapons materials from Libya
+37497,2,Hermine kicks up stiff winds in Northeast US
+37520,1,Remember Merrick Garland? Supreme Court nominee waits (and waits)
+37604,1,9/11: Bin Laden’s spectacular miscalculation
+37612,1,London luxury tower named UK’s worst building
+37630,1,Formula E: The ’laboratory’ for tomorrow’s urban transport
+37648,2,Why the 2016 presidential debates really matter
+37678,1,Crew member killed in accident on world’s biggest cruise ship
+37749,1,US Air Force grounds F-35 fighter jets
+37757,1,Paralympics day nine: Highlights from Rio
+37812,1,’Dumbo’ breaks majors scoring record
+37857,1,British baron’s daughter shot dead in Philippines
+37934,2,Pippa Middleton photo hack: Man arrested
+37959,1,The last Flying Tigers of World War II
+37993,1,Can Mexico’s supercar compete with the best?
+38005,1,Roger Moore Fast Facts
+38141,3,Hurricane Matthew: ’Life-threatening flash floods and mudslides’ expected
+38160,2,Hurricane Matthew swirls toward Haiti
+38252,1,What if Aaron Burr had missed Alexander Hamilton?
+38310,1,Thai King in ’unstable’ condition
+38340,1,Outpouring of support for ’unstable’ Thai King
+38341,2,30 incredible buildings from around the world
+38365,1,Thailand’s Crown Prince ’needs time’ to mourn
+38368,5,Thai King Bhumibol Adulyadej dies at 88
+38387,3,Thai King’s funeral procession arrives at the Grand Palace
+38389,2,Thailand’s King Bhumibol Adulyadej: One of the world’s longest-reigning monarchs, dies
+38499,7,Saudi Arabia executes member of royal family
+38502,3,Russian warships sail down British coast
+38517,1,’The Crown’: A first look at the connection between Queen Elizabeth and Churchill
+38524,1,NATO bolsters presence in Eastern Europe as Russia tension rises
+38594,4,Meghan Markle: Prince Harry warns press about harassing girlfriend
+38628,1,LGBT Rights Milestones Fast Facts
+38653,1,Time for Trump to speak out
+38771,2,Jet-skiing jugs and other trophy tales
+38780,2,Driven underground by Saddam, ’Iraq’s greatest photographer’ Latif Al Ani is honored at last
+38928,1,This is the best building in the world
+39118,2,Thailand: Crown prince assumes throne as King Rama X
+39200,1,Aussie legend says Kyrgios can win Wimbledon
+39282,1,John Glenn, famed astronaut, senator dies at 95
+39285,1,Scientists discover dinosaur trapped in amber in unprecedented find
+39441,1,2016 In Review Fast Facts
+39490,1,Nawaz Sharif Fast Facts
+39555,1,JonBenet Ramsey Murder Fast Facts
+39621,1,Eggnogs, candy canes and wreaths: The stories behind our Christmas traditions
+39661,3,Queen Elizabeth misses Christmas Day service
+39754,4,2016’s most visually inspiring moments
+39757,1,How Debbie Reynolds fought for her life
+39778,1,Reuniting soldiers with dogs they left behind
+39814,1,Prince Andrew denies tie to sex ring
+40029,1,Baseball players transfer to cricket
+40074,1,Saudi beheadings:
+40107,2,New Saudi King’s big challenges: Yemen, Iran and ISIS
+40108,6,Who is Saudi Arabia’s new King Salman?
+40138,1,’Humans of New York’ image raises more than $1 million
+40204,2,Michelle Obama headscarf  ’scandal’ is bogus (Opinion)
+40236,1,UK jets intercept Russian bombers near British airspace
+40312,2,Cruise ship passengers waylaid by possible norovirus
+40365,2,Magna Carta found in scrapbook may be worth millions
+40366,2,Jordan’s King Abdullah, Queen Rania and war on ISIS
+40380,1,2 held in alleged plot to shoot up mall in Canada
+40432,1,UK jets intercept Russian planes near British airspace
+40444,2,Google Maps: When censorship is beautiful (Opinion)
+40449,1,9 things no one tells you about losing weight
+40463,1,Ukraine: Kerry threatens more sanctions against Russia
+40505,1,What’s streaming on Netflix, Amazon in March
+40515,1,Mystery tunnel near Pan Am games venue stumps Toronto
+40598,7,Quantum: The world’s smartest cruise ship
+40669,3,Prince Charles opens up about love and life
+40734,5,UK’s Prince Harry to end military service in June
+40753,1,Miguel de Cervantes’ remains found
+40783,3,5 things to know about Britain’s Prince Charles
+41047,2,Britain’s Prince Harry to start Australian army stint
+41115,4,Britain’s Prince Harry begins stint with Australia army
+41257,1,Andy Murray weds Kim Sears: ’Royal wedding of Scotland’
+41299,1,UK jets sent to intercept Russian bombers
+41357,1,U.S. Coast Guard touts record-setting drug busts
+41417,1,Wild horses and the world’s forgotten animals
+41497,13,Royal baby: Catherine gives birth to a girl
+41498,3,Royal baby name: Is there an odds-on favorite?
+41527,1,New streaming on Netflix, Amazon Prime, Hulu in May
+41538,3,New British princess is named Charlotte Elizabeth Diana
+41550,1,Greatest buildings from World’s Fairs
+41556,1,Rio Ferdinand: Tributes paid as ex-Manchester United star’s wife passes away
+41557,1,Rugby League star dies after cardiac arrest
+41582,2,Bizarre moments of UK election
+41904,5,Periscope: Four ways it’s shaking up media
+41947,1,Martin O’Malley enters 2016 presidential race
+42007,1,Spaceports and sky farms: Is this Britain in 2100?
+42008,1,Meet Alasdair Howell: The 10-year-old piano prodigy
+42026,1,World’s largest telescope to reveal dawn of universe
+42122,1,’Hellboy’ dinosaur is like Triceratops, only frillier
+42134,5,Princess Charlotte, Prince George in 1st photos together
+42136,1,Thousands of migrants stranded in Mediterrean
+42209,1,Kuwait’s ghost stadium prepares to breathe new life
+42300,3,Sweden’s Prince Carl Philip marries Sofia Hellqvist
+42323,1,Diverted flight strands passengers in military barracks
+42364,1,The king with 100 wives
+42376,1,Why Waterloo still fascinates us (Opinion)
+42512,1,James Horner killed in plane crash
+42552,1,Could skinny jeans cause nerve damage?
+42624,1,Warrior Hike helps combat veterans heal
+42643,1,Asteroid Day wants to track near-Earth asteroids
+42666,1,Peek at tomorrow from today’s top designers
+42729,5,Royal baby christening: Fans to see Princess Charlotte
+42838,2,Prince William starts new helicopter rescue job
+42850,4,Young Elizabeth’s Nazi salute: The Sun sparks furor
+42896,1,Theodore Bikel, ’Sound of Music’ star, dies at 91
+42901,1,New Prince George photo released on eve of his birthday
+42971,1,Rare blue moon rises Friday
+43336,1,An $11 billion hedge fund is betting President Trump will cause violent stock market movements
+43834,3,An American man has taken out a huge ad in The Times claiming to be the rightful King of England
+44070,2,The US government has banned laptops on some international flights, and here’s what we know
+44224,1,Here’s the bizarre reason you’re not supposed to use the bottom button on suits
+44863,1,’We are not here to lecture’: Trump calls on Middle Eastern leaders to ’drive out’ the ’crisis of Islamic extremism’
+45013,1,The reasoning behind Trump pulling out of the Paris climate agreement
+45406,1,10 US sailors, 2 US Navy boats reportedly held in Iranian custody
+46409,1,’Insecure, unpredictable, and more willing to lash out’: Turkey’s relationship with the US is reaching its breaking point
+46680,1,Here’s an adorable photo of Obama meeting Prince George
+46687,2,Obama to Black Lives Matter: ’You can’t just keep yelling’
+46707,1,Saudi Arabia’s plan to fix its oil ’addiction’ doesn’t go far enough
+46856,1,Firefighters are using drones to fight the raging wildfire in Alberta
+46893,1,Queen Elizabeth caught on camera calling Chinese officials ’very rude’
+47004,1,That day a lone Gurkha took out 30 Taliban using every weapon within reach
+47232,1,A brawl broke out between the Royals and the Orioles after Yordano Ventura hit Manny Machado with a pitch
+47258,3,Here’s what it looks like when a Russian submarine gets intercepted by the Royal Navy
+47442,1,This bombshell ’Game of Thrones’ theory will probably come true on Sunday’s finale
+47870,1,The 3 plays in sports everybody will be talking about today
+48398,1,One devastating picture of a Wall Street trading floor says it all
+48945,1,Russia has muscled the US out of Syria
+49448,1,An NFL game turned into a WWE wrestling match as the Ravens came up with an ingenious way to run out the clock
+49537,1,Here’s how to manipulate Trump
+49837,1,Ten American Foreign Policy Luminaries Who Died in 2016
+49868,1,27 Movies to Look Forward to in 2017
+49950,5,How Teachers Learn to Discuss Racism

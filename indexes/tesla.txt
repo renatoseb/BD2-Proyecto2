@@ -1,0 +1,327 @@
+332,2,A Big Test for Big Batteries - The New York Times
+620,16,Elon Musk Has Trump’s Ear, and Wall Street Takes Note - The New York Times
+654,1,Trump’s Economic Vows May Be Harder to Hit After a Slow 2016 - The New York Times
+701,1,Silicon Valley’s Ambivalence Toward Trump Turns to Anger - The New York Times
+728,2,Refugees, Quebec, Rodrigo Duterte: Your Morning Briefing - The New York Times
+917,1,Tech Opposition to Trump Propelled by Employees, Not Executives - The New York Times
+1067,2,Activism Hits Even the Less Flashy Tech Companies - The New York Times
+1281,1,Australia, Libya, North Korea: Your Morning Briefing - The New York Times
+1357,3,Google Self-Driving Car Unit Accuses Uber of Using Stolen Technology - The New York Times
+1881,1,Sleepy Behind the Wheel? Some Cars Can Tell - The New York Times
+2110,1,Trump’s Take on Corporate Tax Rate Could Look Very Much Like Obama’s - The New York Times
+2267,1,Gorsuch, Russia, N.C.A.A. Final: Your Monday Evening Briefing - The New York Times
+2276,22,Tesla Passes Ford in Market Value as Investors Bet on the Future - The New York Times
+2299,1,California Today: Defying Trump With Sanctuary Bill - The New York Times
+2337,1,Jeff Bezos Says He Is Selling $1 Billion a Year in Amazon Stock to Finance Race to Space - The New York Times
+2369,35,Tesla Has Something Hotter Than Cars to Sell: Its Story - The New York Times
+2386,1,California Today: Winemakers Wonder: Who Will Pick the Grapes? - The New York Times
+2451,2,Syria, Egypt, Korean Peninsula: Your Morning Briefing - The New York Times
+2462,7,Tesla Hits a New Milestone, Passing G.M. in Valuation - The New York Times
+2477,1,California Today: Berkeley Turns to Comedian for Advice - The New York Times
+2494,1,Syria, Ahmadinejad, United Airlines: Your Morning Briefing - The New York Times
+2600,1,Leaders Roll Up Sleeves on Climate, but Experts Say Plans Don’t Pack a Wallop - The New York Times
+2607,1,Fiat Chrysler Announces Recall of 1.1 Million Autos - The New York Times
+2923,16,Tesla Model S Suspension Failures Under Scrutiny by Safety Agency - The New York Times
+3085,7,American Drivers Regain Appetite for Gas Guzzlers - The New York Times
+3143,1,Istanbul, Donald Trump, Boris Johnson: Your Thursday Evening Briefing - The New York Times
+3154,1,California Today: Airbnb, a Hometown Success (and Villain) - The New York Times
+3161,12,The Fully Self-Driving Car Is Still Years Away - The New York Times
+3166,23,A Fatality Forces Tesla to Confront Its Limits - The New York Times
+3435,1,Setting the Body’s ‘Serial Killers’ Loose on Cancer - The New York Times
+3478,30,Everyone Despises SolarCity Deal, Except Tesla Shareholders - The New York Times
+3562,1,The Superglue Diet: How to Make a Lighter, Fuel-Sipping Car - The New York Times
+3814,8,SpaceX Rocket Explodes at Launchpad in Cape Canaveral - The New York Times
+3931,1,Apple Is Said to Be Rethinking Strategy on Self-Driving Cars - The New York Times
+3941,8,Elon Musk Says Pending Tesla Updates Could Have Prevented Fatal Crash - The New York Times
+3950,1,California Today: School Bond Measure? Why You Should Care - The New York Times
+3978,1,U.S. Presidential Race, Colin Powell, Carla Hayden: Your Wednesday Evening Briefing - The New York Times
+3983,25,How Did G.M. Create Tesla’s Dream Car First? - The New York Times
+3984,13,Autopilot Cited in Death of Chinese Tesla Driver - The New York Times
+4025,1,Coming Soon, Economists Hope: Big Spending on Roads, Bridges and Ports - The New York Times
+4035,1,New York City, U.S. Presidential Race, Syria: Your Evening Briefing - The New York Times
+4092,14,Can Tesla’s Autopilot Be Trusted? Not Always - The New York Times
+4131,1,To the Moon, North Korea? Or Does a Rocket Have a Darker Aim? - The New York Times
+4953,1,Donald Trump, Rex Tillerson, Aleppo: Your Morning Briefing - The New York Times
+4969,1,‘I’m Here to Help,’ Trump Tells Tech Executives at Meeting - The New York Times
+4972,1,Rodrigo Duterte, Aleppo, Donald Trump: Your Morning Briefing - The New York Times
+5012,5,Uber Defies California Regulators With Self-Driving Car Service - The New York Times
+5088,1,In a Retreat, Uber Ends Its Self-Driving Car Experiment in San Francisco - The New York Times
+5341,1,Upheaval Amid ‘Alarming’ Revelations at William Koch’s Florida School - The New York Times
+5493,8,Self-Driving Tesla Was Involved in Fatal Crash, U.S. Says - The New York Times
+5500,12,Joshua Brown, Who Died in Self-Driving Accident, Tested Limits of His Tesla - The New York Times
+5833,1,Samsung to Recall 2.5 Million Galaxy Note 7s Over Battery Fires - The New York Times
+5898,3,What It Feels Like to Ride in a Self-Driving Uber - The New York Times
+6162,1,California Today: With Trump’s Rise, a Return to the ‘Rebel State’ - The New York Times
+6206,1,Biggest Spike in Traffic Deaths in 50 Years? Blame Apps - The New York Times
+6396,1,Rex Tillerson, Aleppo, Donald Trump: Your Evening Briefing - The New York Times
+6407,1,The Great A.I. Awakening - The New York Times
+6409,1,Uber Expands Self-Driving Car Service to San Francisco. D.M.V. Says It’s Illegal. - The New York Times
+6908,13,Tesla Upgrades Autopilot in Cars on the Road - The New York Times
+6938,1,An Alarming 10% Rise in Traffic Deaths in the First Half of 2016 - The New York Times
+7124,2,Democrats and Feds in Dispute on Trump’s D.C. Hotel Lease - The New York Times
+7294,19,Tesla Faults Brakes, but Not Autopilot, in Fatal Crash - The New York Times
+7716,1,Artificial Intelligence Swarms Silicon Valley on Wings and Wheels - The New York Times
+8098,1,Report: Jared Kushner Hires Top Hollywood Publicist for White House Post
+8438,1,Under Armour CEO Faces Strong Backlash After Calling Trump ‘A Real Asset to the Country’ - Breitbart
+8779,1,Buzz Aldrin: Retire the International Space Station to Fund Travel to Mars - Breitbart
+8849,1,Silicon Valley Elites Continue to Push for Universal Basic Income - Breitbart
+8852,1,Meltdown: Left Goes Apocalyptic over Trump Paris Decision, ACLU Calls It ‘Assault on Communities of Color’ - Breitbart
+9100,1,Elon Musk Warns Deep A.I. Could Be ’Dangerous’ to an Already-Cyborg Human Race - Breitbart
+9723,1,Elon Musk’s Boring Machine Brings Excitement to Los Angeles - Breitbart
+9850,1,Bill Gates Calls for Robot Tax to Offset Jobs Lost to Automation - Breitbart
+10163,1,Elon Musk Predicts Humans Will Soon Merge with Machines - Breitbart
+10286,4,Steele: Elon Musk Doesn’t Want Government Subsidies Let’s Give Him His Wish - Breitbart
+10713,4,Ted Cruz Busts Elon Musk for Flying Private Jet While Lecturing Trump on Global Warming - Breitbart
+10741,8,Elon Musk’s Tesla Stock Up $2 Billion Since Joining Trump’s Team
+10841,1,Silicon Valley Speaks Out Against U.S. Leaving Paris Accords - Breitbart
+11159,1,Silicon Valley Slams Elon Musk for Tweeting Rex Tillerson Support
+11546,9,Elon Musk Ted Talk Claims Teslas Traveling Coast to Coast by Year End - Breitbart
+11681,10,Tesla Fires Employee Who Made ’Unmerited’ Sexual Harassment Claims - Breitbart
+12445,1,Report: Robots to Take Over ’Wide Range’ of Military Jobs - Breitbart
+12720,1,Tech CEOs Plan to Attend Jared Kushner-Led White House Summit - Breitbart
+12751,2,Elon Musk Threatens to Quit Advisory Panel if Donald Trump Cuts Energy Taxes, Subsidies - Breitbart
+12957,1,Disney CEO Bob Iger Quits Trump Advisory Council over U.S. Withdrawal from Paris Agreement
+13049,8,Elon Musk Says He’ll Solve Australian Power Problem in 100 Days, or It’s Free - Breitbart
+13496,1,Report: Elon Musk on Mission to Link Human Brains with Computers in Four Years - Breitbart
+14373,14,Tesla Misses Deliveries by 12% Stock Plunges - Breitbart
+14888,1,L.A. Mayor Eric Garcetti Proposes Monorail to San Fernando Valley - Breitbart
+15416,1,Disney CEO Bob Iger Refuses to Attend White House Forum
+15484,1,MILO: Hollywood Leftists, Stop Being Racist and Move to Cuba - Breitbart
+16117,1,Black Lives Matter Protests U.S. Embassy In London: ‘This is Just The Beginning’
+16750,1,Trump Adds Elon Musk, Pepsi and Uber CEOs to Advise on Economic Affairs - Breitbart
+16803,13,Tesla was Under SEC Audit before Autopilot Crashes - Breitbart
+17948,1,HuffPo’s Grim: 54 Private Jets at Meeting to Stop Trump - Breitbart
+18001,1,IBM Announces 25,000 U.S. Jobs Before Trump’s Meeting with Tech Giants - Breitbart
+20091,14,Exclusive: Automotive Blogger Attacked By Tesla Over Investigation Has ’More to Come’ - Breitbart
+20134,1,Donald Trump to Silicon Valley Elites: ’Keep Going with the Incredible Innovation’ - Breitbart
+20555,15,Tesla to Miss Revenue Target by $315 Million - Breitbart
+21691,4,Elon Musk Reveals Forecast to ’Take Over the World’ - Breitbart
+22260,1,Homeland Security in the Age of Truck Attacks: The Once and Future Fortress  - Breitbart
+22774,2,’Green’—the Status Symbol the Affluent Can Afford That Costs the Poor - Breitbart
+22878,4,Elon Musk Plans to Make Humans a ’Multiplanetary Species’
+23570,1,Uber Rolls Out Self-Driving Car in Pittsburgh - Breitbart
+24759,1,Silicon Valley Urges Giving Election Day Off to Help Democrats
+25010,1,Tax Breaks For Olympic Medalists? No Thanks! - Breitbart
+25589,1,Suddenly It’s 1964: How the Stop-Trump Drive Resembles the Past - Breitbart
+26069,17,Tesla Uses $300M in Model 3 Deposits to Stay Afloat - Breitbart
+26155,13,Tesla on Fatal Autopilot Crash: Feature Still in ’Public Beta Phase’ - Breitbart
+26906,1,Trump Against the World: The Donald Regains Control in Home Stretch - Breitbart
+27558,49,Questions Linger as Tesla Prepares to Launch Model 3 - Breitbart
+27706,1,***Horse Race LiveWire*** Poll: Rubio Craters to 4th Place In Michigan - Breitbart
+27901,3,Obama Wants $4 Billion to Subsidize Silicon Valley Driverless Cars - Breitbart
+28283,1,Tech CEOs Meet with GOP Leaders to Stump Trump - Breitbart
+28695,28,Tesla Attacks Blogger as Stock Free Falls Over Safety Concerns
+30384,1,Elon Musk: Humanity ’Probably’ Living in a Matrix-Style Computer Simulation - Breitbart
+30823,1,Closed to the Press: Reporters Stuffed in Tobey Maguire’s Garage During Obama Fundraiser - Breitbart
+30965,1,Tesla, Panasonic to Make Solar Cells in Buffalo, New York - Breitbart
+31288,1,Elon Musk Calls Out ’Phoney PC Police Axe-Grinding’ over Who He Follows on Twitter - Breitbart
+31929,1,SpaceX returns to flight, nails rocket landing
+32564,1,CNN 10 - February 10, 2017
+34935,1,CNN 10 - May 26, 2017
+35081,1,Trump expected to withdraw from Paris climate agreement
+35111,1,Ghitis: Trump has finally gone too far
+35560,1,FL governor: Zuckerberg missed out by skipping Trump meeting
+35966,4,Self driving cars: Can you trust them?
+36168,1,Police used a robot to kill: The key questions
+37461,1,Let’s celebrate immigrants on Labor Day
+38331,1,Deep space: Can we beat the physics?
+38519,1,Venturi VBB-3: 3,000-horsepower electric car goes 340 mph
+39102,2,China’s NextEV faster than Tesla?
+43115,5,Tesla misses on deliveries for 2016
+43124,1,Ford just did the impossible and figured out how to make the iconic Mustang even better
+43175,25,Tesla’s greatest hope for going mass market could present a threat to its car factory
+43178,1,Inside Sears’ death spiral: How an iconic American brand has been driven to the edge of bankruptcy
+43188,7,Automakers are slowing their self-driving car plans — and that could be a good thing
+43255,21,Tesla is taking a huge risk with the Model 3 — and it may not pay off
+43284,1,Google made a brilliant pivot to turn around its self-driving-car struggles
+43309,3,Faraday Future, once seen as a ’Tesla-killer,’ is said to be in shambles as cash runs low and executives flee
+43420,7,Tesla lawsuit alleges former Autopilot director stole company data, used it for his self-driving-car venture
+43454,1,Furious customers are deleting the Uber app after drivers went to JFK airport during a protest and strike
+43458,10,Here’s why Elon Musk is changing his tune on Trump
+43467,8,Tesla’s new Powerpack battery storage project in Southern California is the largest on Earth
+43520,65,How Tesla emerged from the brink of bankruptcy to become America’s coolest car company
+43549,9,It’s too early to start thinking of Tesla as more than just a car company
+43553,6,Tesla and SpaceX join 97 other companies in opposing Trump’s immigration ban
+43593,19,Tesla faces a unionization challenge after factory workers complain of injuries and long hours
+43636,28,There’s no question that the Tesla Model 3 will launch on schedule in 2017
+43713,31,Tesla has sent investors on an epic roller coaster ride for years — look back at the craziest moments
+43764,8,Tesla’s CFO is leaving the company
+43769,10,Tesla left out a critical piece of information in its 2017 guidance
+43780,2,Tesla may wait until July before revealing the final version of the Model 3
+43815,13,Tesla responds to allegations of ’pervasive harassment’ and gender discrimination
+43872,24,Tesla is missing out on the biggest auto sales boom in US history
+43976,1,There’s a raging talent war for AI experts and its costing automakers millions
+44012,9,Tesla just said it’s raising more than $1 billion ahead of the Model 3 launch
+44027,2,Never-before-seen videos show nuclear weapons being secretly detonated in the Nevada desert
+44051,3,Meet ’Professor X,’ the AI genius who left his lab at Princeton to beat Uber, Google, and Intel at their own game
+44093,10,The CEO of a major solar company said he’s ’skeptical’ Tesla can pull off the solar roof — here’s why
+44104,4,Tesla’s business just got much more complicated
+44137,1,Trump has met with 81 executives since being elected president — here’s who made the cut
+44139,1,A self-driving Uber got into an accident in Arizona and flipped onto its side
+44156,42,Tesla is about to confront dueling best- and worst-case scenarios, and anything could happen
+44235,17,Here’s everything Tesla plans to accomplish by the end of the year
+44350,27,The Tesla bubble just got terrifying
+44375,5,These anxiety-inducing photos show what it’s like to get a parking spot at Tesla’s factory
+44408,29,Tesla is getting dangerously distracted
+44457,2,Volvo will launch its first all-electric car in 2019 to take on Tesla — here’s everything we know
+44458,13,Tesla owners have filed a class-action lawsuit alleging Autopilot 2 is ’demonstrably dangerous’
+44493,28,Tesla fans are about to get what they really want from the company
+44577,5,Elon Musk just revealed new details about his tunneling project that could change transportation forever
+44632,1,Millennial investors are getting smoked on a tech stock that’s crashing
+44638,5,Elon Musk just revealed when Tesla will launch the Model Y
+44642,10,Tesla is building stores all over the world ahead of the Model 3 launch
+44686,24,Tesla is making a risky bet with the Model 3 that could push the company over the edge
+44740,14,Tesla just opened up orders for its Solar Roof — here’s how much it will cost you
+44759,1,Elon Musk just revealed new pictures of his tunneling project — and it looks awesome
+44765,1,Silicon Valley’s ultimate status symbol is the sneaker — here are the rare, expensive, and goofy sneakers worn by the top tech CEOs
+44771,11,Elon Musk has discovered a new passion in life — and it could be Tesla’s best product yet
+44804,26,Tesla’s business model could be in trouble
+44854,12,Tesla’s future is completely inhuman — and we shouldn’t be surprised
+44872,1,Panasonic is making a massive bet on electric cars — here’s why the US CEO says it’s a ’slam dunk’ investment
+44886,4,Ford’s new CEO will have to tell Wall Street a different story
+44887,1,Ford is no longer just a car company
+44986,1,An Amazon engineer is letting thousands of Twitch users play the stock market with $50,000 of his own money
+44990,1,Animated timeline shows how Silicon Valley became a $2.8 trillion neighborhood
+45007,1,TRUMP WITHDRAWING FROM PARIS CLIMATE AGREEMENT
+45018,1,’Call his bluff’: Mark Cuban tells Democrats how to punch back after Trump pulls out of Paris climate deal
+45032,9,Elon Musk is a hypocrite for leaving Trump’s advisory councils — and the move could spell bigger problems for Tesla
+45039,34,Investors are completely ignoring Tesla’s biggest flaw
+45044,4,ELON MUSK: Tesla factory injuries ’break my heart’
+45080,6,Elon Musk just revealed an important detail about Tesla’s upcoming electric semi-truck
+45116,4,Tesla’s is hurtling toward $400 a share
+45135,30,Tesla’s greatest weakness is also one of its key advantages
+45281,18,Tesla has something alarming in common with another car company
+45305,2,Building Teslas is much harder than anyone in Silicon Valley thought
+45376,5,A wild new Tesla feature lets a car park itself without anyone in the car
+45391,6,Tesla wants to take self-driving cars to a whole new level
+45565,7,We shouldn’t be surprised that Apple may be hitting a roadblock with its car project
+45713,5,Tesla is getting crushed — again
+45724,17,Wall Street has finally learned an important lesson about Tesla
+45731,1,Here’s what Elon Musk said when I told him I spent $2 a day on food like he did as a teen
+45774,6,Elon Musk is not worried about Chevrolet’s Tesla Model 3 challenger
+45776,3,We’re going to get our first look at Tesla’s $35,000 Model 3 on March 31
+45780,4,Musk on the Model X: ’I’m not sure Tesla will make a car like this again’
+45891,11,Elon Musk and Tesla finally own Tesla.com
+45906,20,There’s one new Tesla car that nobody is talking about
+45962,13,Tesla’s Model 3 has a chance to be huge
+45995,1,Mark Zuckerberg talks about the future of Facebook, virtual reality and artificial intelligence
+46014,1,The counterintuitive reason why doing nothing can make you more successful
+46023,8,Tesla Gigafactory construction workers in Nevada have walked off the job in protest
+46077,17,Tesla has one huge advantage over every other car company
+46103,2,Tim Cook, Elon Musk, and Larry Page were at a private event where the ’main topic’ was stopping Trump
+46118,21,Tesla isn’t disrupting anything
+46170,15,Tesla’s Model 3 could totally fail — here’s why that wouldn’t matter
+46177,1,Elon Musk’s younger brother is on the board of Chipotle and owns a restaurant chain that’s taking off
+46255,21,A lot of people are making the same mistake about Tesla and the Model 3
+46265,7,This is the most amazing thing about ’Bioweapon Defense Mode’ on the Tesla Model X
+46335,10,This is a big benefit of Tesla’s direct sales model
+46340,22,With the Model 3, Tesla is on the verge of something it’s never done
+46372,1,A 1-year-old startup wants to take Tesla’s sales model to another level
+46416,31,Tesla is about to face the biggest challenge in its history
+46441,7,Tesla blames ’hubris’ over the Model X as it falls short of quarterly delivery target
+46458,17,Here’s how much Tesla’s $35,000 Model 3 will really cost
+46586,7,One of the first Tesla Model S cars ever built is up for auction
+46595,28,Tesla is about to abandon one of Elon Musk’s key business practices
+46648,3,Everyone is making the same mistake about the future of transportation
+46650,6,Tesla’s Model 3 is causing a global scramble for the ’new gasoline’
+46658,1,Electric-car startup Faraday Future could introduce its first production concept cars very soon
+46681,6,GM and Uber could force Tesla to do something it isn’t ready for
+46695,1,The company working with Faraday Future drives its own new electric car on stage
+46815,17,Elon Musk just made a totally mind-blowing change to Tesla’s strategy
+46853,14,Elon Musk is setting himself up for an epic failure
+46867,13,Here’s why Elon Musk keeps promising the impossible
+46898,1,The first major Hyperloop test is happening in Vegas this week
+46966,1,Driverless cars will change everything — and could be disastrous for one industry
+47089,3,’The new gasoline’ could be in an epic bubble
+47137,3,Elon Musk took an embarrassing Tesla test drive with Google’s cofounders: The car would go only 10 mph
+47140,1,Faraday Future just got the green light on what could be its 2nd factory
+47186,6,Apple should buy Uber
+47197,16,Elon Musk is making a big mistake about the Apple Car
+47257,2,Faraday Future’s auto-industry ’disruption’ appears ready to take shape
+47268,1,Tesla is making changes to customer agreements after being accused of suppressing complaints
+47297,2,America’s gas stations are running out of time
+47372,2,Elon Musk had a hilarious response when his cousin asked for a Tesla discount
+47384,1,It’s not just cars — electric airplanes are coming, too
+47403,8,Tesla offers to buy SolarCity for almost $3 billion in a bid to merge 2 parts of Elon Musk’s empire
+47404,3,SolarCity shorts are getting their faces ripped off
+47406,11,Elon Musk just kicked his shareholders in the teeth
+47407,6,Here’s Elon Musk’s plan to transform Tesla into an energy company
+47409,4,Tesla is getting crushed after announcing an offer to buy SolarCity
+47485,15,Everybody is missing the point of the Tesla-SolarCity deal
+47517,8,Here are the 3 companies that could lose if the Tesla-SolarCity deal goes through
+47523,2,10 things you need to know today
+47541,10,Airbags were not deployed in the fatal Tesla Autopilot crash, says accident report
+47551,9,The Tesla Autopilot crash proves self-driving technology isn’t perfect — but it is here to stay
+47555,2,I’ve driven many new cars with advanced cruise control, but I’m still not comfortable with it
+47565,6,Tesla has once again missed its delivery target
+47609,13,Tesla’s holiday update took the art of the after-hours news dump to a new low
+47623,8,Elon Musk is unusually upset about an article slamming Tesla’s Autopilot
+47687,1,The 10 most important things in the world right now
+47691,5,Report: SEC is investigating Tesla for possible violation of securities law
+47710,8,This what Tesla is really giving you with the cheaper Model X
+47729,4,Elon Musk says a Tesla Model X that crashed in Pennsylvania was not operating on Autopilot
+47730,16,I just checked out Tesla Autopilot — there’s no way it can drive a car by itself
+47748,8,Tesla Autopilot wasn’t created so cars could drive themselves
+47799,11,Tesla’s new ’master plan’ defines the end of the fossil-fuel era
+47802,2,Elon Musk has just committed Tesla to its most ambitious project ever
+47805,11,Elon Musk’s ’master plan’ will take Tesla into 2 places electric-car makers don’t go
+47924,5,Tesla is buying SolarCity for $2.6 billion
+47926,22,Tesla has to overcome a major problem for its massive new Gigafactory to succeed
+47961,6,This is the sentence all the Tesla shorts have been waiting for
+47967,7,Elon Musk just confirmed the next Tesla coming after the Model 3
+47969,3,Musk: Tesla’s factory will become an ’alien dreadnought’
+47973,8,Elon Musk: Tesla’s fully autonomous cars will ’blow people’s minds’
+47977,2,Toyota’s hydrogen-powered car wants to be the alternative to plug-ins, but there’s one major drawback
+48002,18,Investors keep ignoring catastrophically disappointing Tesla earnings
+48076,7,Apple employees sure love Teslas
+48092,19,Tesla has big plans to build 3 electric vehicles that nobody wants
+48119,1,The SEC has questions about a company with no revenue, $1,000 in the bank, and a $35 billion market cap
+48170,13,Tesla is at risk of being steamrolled by the next big transformation in how we get around
+48208,6,Tesla just announced a huge upgrade for the Model S and Model X
+48219,3,Tesla just made its Model S the fastest new car you can buy
+48236,5,Get ready to say goodbye to a lot of electric cars
+48260,14,It’s time for Tesla to stop improving its most successful car
+48366,4,Forget the Model 3 — Tesla needs to hurry up and make the Model Y
+48369,1,Satellite owner may seek $50 million from SpaceX after explosion
+48402,2,Tesla’s batteries have reached their limit — here’s how they could go further
+48432,1,Apple laid off dozens of employees working on its self-driving car
+48460,8,Elon Musk just announced big improvements coming to Autopilot
+48493,6,’Jokers’ and ’sellouts’: The cockiest guy in self-driving cars just roasted his competition
+48506,13,Tesla could get steamrolled by the next big thing in transportation
+48513,1,Google Maps is the ’Swiss army knife’ of the company’s smart assistant future
+48723,6,Mercedes is building an electric SUV — and that should worry Tesla
+48862,11,It’s time for Tesla to start a bank
+48919,5,Henrik Fisker is using a revolutionary new battery to power his Tesla killer
+48925,8,Elon Musk is pushing back Tesla’s product announcement to Wednesday
+48963,10,Elon Musk just said Tesla’s product unveiling will be related to the Model 3
+49003,21,Tesla is on the verge of completely changing the way it does business
+49010,10,Tesla just made it a lot harder to justify buying the Chevy Bolt
+49053,7,Tesla is gearing up to spend $1 billion in the fourth quarter
+49074,19,Elon Musk just unveiled Tesla’s solar roof and new Tesla Energy products
+49084,2,EINHORN SLAMS TESLA: ’Years of over-promising and under-delivering from a promotional CEO’
+49094,23,Elon Musk has finally figured out how Tesla can deal with Uber
+49125,3,Elon Musk may single-handedly revive a business practice that’s gone out of style
+49127,4,Elon Musk: Tesla is developing a special kind of glass for its Model 3
+49143,12,Tesla could be about to make the same mistake with the Model 3 that it did with the Model X
+49185,4,Motor Trend: The Chevy Bolt makes most other electric cars ’utterly irrelevant’
+49195,30,Elon Musk has a brilliant plan to change your roof
+49262,5,Why Elon Musk is an alternative to Donald Trump
+49309,1,4 steps towards faster, smarter factories
+49313,4,Elon Musk: Tesla solar roof will likely cost less than a normal roof
+49327,4,Tesla will unveil new details about the Model 3 early next year
+49404,1,Faraday Future is looking at another setback after stopping work at its $1 billion factory
+49434,1,This is what a Trump presidency means for the US auto industry
+49444,23,Tesla is entering the solar business at a terrible time
+49520,26,Tesla will never have to worry about selling cars
+49524,2,The CEO of Ford just perfectly summarized the biggest problem for electric cars
+49586,13,Something interesting — and possibly alarming — is happening with Tesla stock
+49609,7,Tesla is about to crush a test that will silence the skeptics
+49661,2,TRUMP TEAM: Twitter was not invited to tech meeting because they ’aren’t big enough’
+49669,1,TRUMP TO TECH TITANS: Call me anytime, there’s ’no formal chain of command around here’
+49696,2,Uber defies California regulators and keeps its self-driving cars on the road
+49702,3,Here’s the biggest thing Google got wrong about self-driving cars
+49710,73,Tesla’s biggest moments of 2016
+49739,1,Apple is losing its focus again — and this time, there’s no Steve Jobs coming to the rescue
+49791,38,2017 will be Tesla’s biggest year ever — here’s what’s in store for the company
+49793,1,Google’s self-driving cars have driven over 2 million miles — but they still need work in one key area
+49895,2,The Republicans Who Want Trump to Fight Climate Change

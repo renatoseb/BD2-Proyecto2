@@ -1,0 +1,231 @@
+123,1,Andrew Garfield, Spiritual Ghost in the Hollywood Machine - The New York Times
+163,1,‘La La Land’ Wins Seven Golden Globes ‘Moonlight’ Wins Best Drama - The New York Times
+166,1,On the Golden Globes Red Carpet, It’s Fantasy vs. Reality - The New York Times
+200,1,The Best and Worst of the Golden Globes - The New York Times
+220,1,For Many on Chicago’s South Side, Obama’s Farewell Will Be Personal - The New York Times
+285,2,Living in Andy Cohen’s America - The New York Times
+291,2,Directors Guild Nominates Nate Parker for Best Debut - The New York Times
+690,20,A Door to a Home Brimming With Love, and Open to All - The New York Times
+1101,1,What Does ‘Dress Like a Woman’ Mean? Designers Tackle the Question - The New York Times
+1396,1,Understanding Transgender Access Laws - The New York Times
+1810,2,Where Fountain Pens Are Saved and Sold - The New York Times
+1947,1,White Artist’s Painting of Emmett Till at Whitney Biennial Draws Protests - The New York Times
+2047,1,Amazon’s Ambitions Unboxed: Stores for Furniture, Appliances and More - The New York Times
+2127,2,A Rare Venture Capitalist — Female and Retail-Focused - The New York Times
+2193,1,9 Comic Book Heroes Who Could Come Out on the Big Screen - The New York Times
+2363,1,As Anger at O’Reilly Builds, Activists Use Social Media to Prod Advertisers - The New York Times
+2441,1,Sleep Is the New Status Symbol - The New York Times
+2466,1,‘Harry Potter and the Cursed Child’ Sets Olivier Awards Record - The New York Times
+2536,2,The Battle Over the Sea-Monkey Fortune - The New York Times
+2552,2,The Billionaire Who’s Building a Davos of His Own - The New York Times
+2627,1,Theranos’s Fate Rests With a Founder Who Answers Only to Herself - The New York Times
+2633,1,Where Jobs Are Squeezed by Chinese Trade, Voters Seek Extremes - The New York Times
+2634,1,N.F.L. Wins Appeal, and Tom Brady Has Little Recourse - The New York Times
+2674,1,Brooklyn’s Wearable Revolution - The New York Times
+2686,1,What Is the Met Gala, and Who Gets to Go? - The New York Times
+2714,10,A Shooting, the Hospital and Then, Months Later, It’s a Homicide - The New York Times
+2790,8,At Warby Parker, a Sense of Exclusion in a Low Price - The New York Times
+2996,1,Defining, and Proclaiming, a New Black Power - The New York Times
+3075,2,7 Tips for Avoiding a Wedding Toast Disaster - The New York Times
+3093,1,How Housing’s New Players Spiraled Into Banks’ Old Mistakes - The New York Times
+3123,1,Pat Summitt, Tennessee Basketball Coach Who Emboldened Women’s Sports, Dies at 64 - The New York Times
+3252,1,Our ‘Ghostbusters’ Review: Girls Rule. Women Are Funny. Get Over It. - The New York Times
+3281,1,Families and Fellow Officers Honor Victims of Dallas Sniper - The New York Times
+3435,2,Setting the Body’s ‘Serial Killers’ Loose on Cancer - The New York Times
+3471,1,How Do You Handle Dining With Big-Spender Pals? - The New York Times
+3762,1,Watching the Obamas’ First Date, and Feeling a Little Uncomfortable - The New York Times
+3966,1,Turning Points: Rethinking a Campaign Cliché - The New York Times
+4071,26,‘South Park’: After Two Decades, It’s Still by the Seat of Their Pants - The New York Times
+4125,1,‘Miss Peregrine’ and Tim Burton: The Making of a Film Fable - The New York Times
+4175,1,The Other Trump - The New York Times
+4207,1,Tim Kaine, Mike Pence, Donald Trump: Your Tuesday Evening Briefing - The New York Times
+4261,4,In ‘Divorce,’ Sarah Jessica Parker Wants to Ditch Mr. Medium - The New York Times
+4294,8,‘The Birth of a Nation’ Struggles at the Box Office - The New York Times
+4300,1,Billy Bush Negotiating Exit From NBC After Lewd Tape - The New York Times
+4498,1,Californians Legalize Marijuana in Vote That Could Echo Nationally - The New York Times
+4600,2,Surprise! Insurance Paid the E.R. but Not the Doctor - The New York Times
+4681,1,Postelection Harassment, Case by Case - The New York Times
+4790,1,We Need a Miracle on 34th Street - The New York Times
+4895,13,A Casualty of ‘The Birth of a Nation’ Controversy Speaks Out - The New York Times
+5090,1,A Role Model and Mentor While Dad Serves Time - The New York Times
+5143,1,Carrie Fisher, a Princess, a Rebel and a Brave Comic Voice - The New York Times
+5345,1,At Carnegie Hall, a New Leader With a Son Named Hendrix - The New York Times
+5362,5,Why J. K. Rowling Endorsed ‘Harry Potter and the Cursed Child’ for the Stage - The New York Times
+5488,4,Trump Institute Offered Get-Rich Schemes With Plagiarized Lessons - The New York Times
+5858,6,Toronto Film Festival: Just Don’t Call Them ‘Black Films’ - The New York Times
+5875,1,The Playlist: Lady Gaga Returns Lovelorn, and Zack de la Rocha Returns Furious - The New York Times
+5947,1,Mark Zuckerberg and Priscilla Chan Pledge $3 Billion to Fighting Disease - The New York Times
+5954,33,Sarah Jessica Parker, Leaving Carrie Behind With HBO’s ‘Divorce’ - The New York Times
+5962,10,They Found Bombs on a Beer Run. What Gratitude Are They Owed? - The New York Times
+6113,3,Christopher Guest: No Eccentric Obsession Left Behind - The New York Times
+6171,1,Clicks to Bricks: Online Retailers Find the Lure of a Store - The New York Times
+6491,1,Death of a Red Carpet Reporter - The New York Times
+6656,1,Abortion Ruling Could Create Waves of Legal Challenges - The New York Times
+6787,2,Louisiana, U.S. Presidential Race, Ryan Lochte: Your Wednesday Evening Briefing - The New York Times
+6866,4,Why You Should Tell Your Children How Much You Make - The New York Times
+6884,1,6 Ex-Rikers Guards Sentenced to Prison in Attack on Inmate - The New York Times
+6939,15,Sarah Jessica Parker and Ta-Nehisi Coates, on New Literary Paths - The New York Times
+7118,2,‘La La Land,’ ‘Moonlight’ Lead Golden Globe Nominations - The New York Times
+7284,1,Review: ‘Café Society’ Isn’t Woody Allen’s Worst Movie - The New York Times
+7322,15,1999 Rape Case Swirls Around Nate Parker and His Film ‘The Birth of a Nation’ - The New York Times
+7330,2,Toots Thielemans, Who Won Jazz Renown With the Harmonica, Dies at 94 - The New York Times
+7338,1,‘Don’t Breathe’ Tops the North American Box Office - The New York Times
+7398,3,Syria, N.S.A., Michelle Obama: Your Evening Briefing - The New York Times
+7556,2,Orlando Shooting Survivors Cope With the Trauma of Good Fortune - The New York Times
+7794,1,So That’s Who You Call: The Politics of the New ‘Ghostbusters’ - The New York Times
+8367,1,CBS News Awed by ’Relatively Reliable’ Smart Gun - Breitbart
+8600,7,Former Oklahoma Football Player Allegedly Pimped Out Former OU Cheerleader - Breitbart
+8799,1,Globalists In Exile: ‘Party of Davos’ a Gloomy Event This Year After Brexit, Donald Trump’s Win - Breitbart
+10245,1,FLYNN: With David Brock Comparing His Website to Breitbart News, Allies Compare Him to Mugatu - Breitbart
+10795,1,Kevin Shenkman: Ending Democracy as We Know It in Southern California? - Breitbart
+11147,2,California Democratic Party Leader Leads ’F*ck Donald Trump’ Chant at Convention - Breitbart
+11332,1,Bill Maher Sparks Outrage After Telling Ben Sasse He’s a ’House N**ga’: ’So Hurtful’
+11721,1,Celebrities Get Sentimental During Obama Farewell Speech
+12380,1,Roger Moore, Star of 7 James Bond Films, Dies at 89 - Breitbart
+12391,2,Hollywood, Media Mercilessly Mock Kellyanne Conway’s Trump Inauguration Outfit
+12413,5,NASA Announces Solar Probe Which Will ’Touch the Sun’ - Breitbart
+12533,4,FS1’s Rob Parker: Patriots Should ’Whitewash’ the White House - Black Players Should Boycott - Breitbart
+12759,1,Texas Legislators Duped on Bathroom Bill by Lefty Progressive Donor
+13011,1,Left-leaning Artists Produce Records to Support Planned Parenthood’s Abortion Mills
+13282,2,Inauguration 2017: The Swearing In of President Donald Trump - Breitbart
+13562,5,South Park Planning Less Trump Criticism Following Election
+14211,2,Dems Cut off Maxine Waters African American Caucus Wants Apology - Breitbart
+15330,1,Transgender: ’Toni the Tampon’ Teaches Children Men Can Menstruate - Breitbart
+15782,2,Ann Coulter Lights Wisconsin on Fire for Paul Nehlen, Not Ryan
+16411,1,WATCH: Hollywood’s Version of Barack Obama Asking Michelle Out
+16617,11,Journalists Hound Nate Parker, Acquitted for Rape Charge Bill Clinton Walks Free - Breitbart
+16844,1,Vox Editor: ’If Trump Comes to Your Town, Start a Riot’ - Breitbart
+17053,2,Academy Hopes to Avoid Repeat of #OscarsSoWhite with Record 683 Member Invitations - Breitbart
+17533,1,***Horse Race LiveWire*** 2 Days to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+17770,1,Snoop Dogg Invites Democrats to Get ’F*cked Up’ at Post-DNC ’Unity’ Party - Breitbart
+17889,1,British Man Stabbed to Death by ’Foreign Nationals’ in Cypriot Resort
+17948,1,HuffPo’s Grim: 54 Private Jets at Meeting to Stop Trump - Breitbart
+18028,15,Nate Parker Talks Overcoming ’Toxic Masculinity,’ ’Male Privilege’ after Rape Scandal - Breitbart
+18283,1,Hollywood Boobs: Actresses Beg to Be Taken Seriously, But Can’t Quit Temptation of the Flesh - Breitbart
+18324,3,‘American Psycho’ Author Bret Easton Ellis: ’A Backlash Is Beginning Against PC Victim Culture’ - Breitbart
+18731,4,Mother of On-Air Shooting Victim Joins Push to Require Same Checks Gunman Passed - Breitbart
+18932,10,Deadline: College Rape Case Haunts ’Birth of a Nation’ Star Nate Parker - Breitbart
+18990,1,Marvel Turns Donald Trump into Comic Book Villain - Breitbart
+19128,1,’Hamilton’ Cast Lectures Mike Pence from Broadway Stage
+19343,1,Planned Parenthood Announces Lawsuit Against Pro-Life Video Group Group: ’Complex Criminal Enterprise’
+19514,2,Activist Who Served on George Soros-Financed Boards Behind Scheme to Take Trump’s Electoral College Votes
+20147,1,Republican Voters Reject Mitt Romney, GOP Elites - Breitbart
+20293,14,Nate Parker Witch Hunt Escalates: He Killed Her, Too! - Breitbart
+20386,1,Hillary Clinton Collects Hollywood Cash at Harvey Weinstein’s House - Breitbart
+21390,7,Sarah Jessica Parker: Hillary Clinton ’Beyond Capable’ of Beating ’Freakin’ Sideshow’ GOP - Breitbart
+21536,1,James Pinkerton: Franklin D. Roosevelt’s Four Freedoms Are from 1941: We Need New Freedoms in the 21st Century  - Breitbart
+21673,1,Tim Kaine: ’F’ Rating From NRA, Opposed Letting Virginians Have Gun In Car For Self-Defense - Breitbart
+22018,2,Hate Hoax: Pro-Trump Students Cleared of Harassment Claims
+22186,1,Gun Sales, Concealed Permit Applications Soar in Washington State After Mall Attack
+22404,3,Weather Channel’s Fake News Eco-Crusader Kait Parker Finds a New Victim - Breitbart
+22416,1,Chiefs Beat Raiders to Ride 10-Game Winning Streak Into Playoffs - Breitbart
+22851,6,Harry Belafonte Questions Timing of Nate Parker Rape Case Coverage: ’He Faced the Justice System’ - Breitbart
+23021,4,Sarah Jessica Parker Cuts Ties With EpiPen After Price Hike - Breitbart
+23318,4,Fox Searchlight to Register Voters Before ’Birth of a Nation’
+23329,2,32 Child Predators Arrested in Sutter County Sex Sting - Breitbart
+24134,7,Penn State Alumni Defend Nate Parker: ’Birth of a Nation’ Star is ’Innocent of Rape’ - Breitbart
+24395,2,Texas Prisoners Bust Out of Jail – To Save Jailer
+24656,3,Emails Suggest AG Kamala Harris Worked with Planned Parenthood
+25189,1,***2016 LiveWire*** Trump Courts Evangelicals Clinton Addresses Abortion Activists - Breitbart
+25496,1,Golden Globe Nominations: Complete List
+25589,1,Suddenly It’s 1964: How the Stop-Trump Drive Resembles the Past - Breitbart
+25948,1,CORRECTED - Michael Goldfarb: Trump is the Politics of ’Fear, Paranoia, Nativism’ - Breitbart
+25982,1,Advertising Watchdog Moves To Ban “Idealised” Images Of Women
+26035,1,Pro-life Women: ‘Disgusted’ By Donald Trump, ‘He Has Impugned Dignity of Women’ - Breitbart
+26051,1,James Pinkerton – The Democrats vs. The Deplorables: The New Class Struggle Comes to the Midwest   - Breitbart
+26278,1,Megyn Kelly to Appear On Stephen Colbert’s Big Post-Super Bowl Show - Breitbart
+26318,2,LISTEN: Critics Trash Updated ’Ghostbusters’ Theme Song - Breitbart
+26439,1,***Horse Race LiveWire*** Top Trump Adviser: Cruz Favored Uncontrolled Muslim Migration That Would Turn U.S. into Europe - Breitbart
+26451,1,***Horse Race LiveWire*** Brooklyn Brawlers: Sanders, Clinton Square Off in NY Debate - Breitbart
+26597,1,Hollywood Scrambles to Up Diversity in Wake of #OscarsSoWhite Controversy - Breitbart
+26906,1,Trump Against the World: The Donald Regains Control in Home Stretch - Breitbart
+27038,2,Four Staff Members Quit Oklahoma VA Facility After Veteran with Maggots in Wound Dies - Breitbart
+27060,1,John Legend: Trump ‘Never Was a Winning Candidate’ - Breitbart
+27168,1,Glenn Beck Triples Down: ’No Real Christian Says I Want that Guy’ Donald Trump - Breitbart
+27456,4,Parker: Rubio, Cruz Need to Team Up, Show Blue Collar High School Educated That Trump Is Not for Them ’in Real Life’ - Breitbart
+27458,2,’Birth of a Nation’ Poster Features Nate Parker in American Flag Noose - Breitbart
+27706,1,***Horse Race LiveWire*** Poll: Rubio Craters to 4th Place In Michigan - Breitbart
+28042,1,Marvel’s New Iron Man is Teenage Black Woman - Breitbart
+28283,1,Tech CEOs Meet with GOP Leaders to Stump Trump - Breitbart
+28318,1,Obama Commutes 61 More Drug Offenders Sentences — More Than Previous Six Presidents Combined - Breitbart
+28376,1,L.A. County Officer Steve Owen Killed by Burglary Suspect
+28554,1,Abortion Providers Get Standing Ovation at Sundance Pro-Abortion Documentary - Breitbart
+29114,1,***Live Updates*** New Hampshire Primary Results: Trump, Sanders Projected Winners - Breitbart
+29136,1,Tim Kaine: Ban 15-Round ’Clips,’ Hold Gun Dealers Liable for Misuse of Firearms - Breitbart
+29270,1,NY Times: Donald Trump, in Shake-Up, Hires Breitbart Executive Stephen K. Bannon for Top Campaign Post - Breitbart
+29360,1,***2016 LiveWire*** TX Delegates Confront Cruz: ’Your Word Is Your Bond’ - Breitbart
+29373,2,Clinton Campaign Supports Call for Electors To Be Briefed On ’Foreign Intervention’ Claims
+29394,1,Disney’s ’Once Upon a Time’ Features Lesbian ’True Love’s Kiss’ - Breitbart
+30052,3,Phyllis Schlafly’s Last Stand: The Inside Story of the Conservative Icon’s Internal Battle for Survival - Breitbart
+30885,1,**Horse Race LiveWire** All Eyes on Ted Cruz - Breitbart
+31080,2,Hamilton Stars at Broadway for Hillary Concert: ’Anybody Here Wanna Shatter a Glass Ceiling?’
+31172,1,Leo DiCaprio-Hillary Clinton Money ’Laundering’ Street Art Appears in L.A. - Breitbart
+31407,1,High School Ends Tradition of Graduation Prayer After Student Invoked Jesus Christ Last Year - Breitbart
+31561,1,Fans Petition Marvel for Gay Captain America - Breitbart
+31785,1,Golden Globe Awards: The winners list
+31823,1,’When We Rise’ is ’necessary conversation,’ says creator
+32144,3,CNN 10 - January 24, 2017
+32920,1,’When We Rise’ chronicles gay-rights movement
+33854,1,Officers injured in incidents at two US prisons
+34297,1,Joshua digs deep to win epic world heavweight bout
+34431,1,Fired Texas cop to face murder charge
+34620,1,Elvis Presley Fast Facts
+34960,4,2 Texas children die in hot car
+35090,1,CNN 10 - June 1, 2017
+35119,1,US School Violence Fast Facts
+35142,1,Tommy Franks Fast Facts
+35349,2,2 Texas toddlers died after being left in car overnight
+35557,2,Police: Death of Muslim girl not believed to be hate crime
+35637,11,’Birth of a Nation’ is more than just a film
+36007,1,Thousands say ’No’ to Brexit in colorful protest
+36705,2,Police shootings highlight concerns about body cameras
+36786,1,Obama marks birthday with star-studded bash
+37158,5,Louisiana flood victim: ’It was Katrina’
+37478,2,Pence offers to help embattled GOP senators
+38008,1,D.C. Area Sniper Fast Facts
+38495,1,ESA: Mars lander lost during descent
+39351,1,From prima ballerina to top choreographer
+39709,2,Obamacare supporters look to intervene in GOP-led lawsuit
+39949,1,Two killed in Belgian anti-terror operation
+39983,1,European Beagle 2 lander spotted on Mars surface
+40314,2,Bruce Jenner involved in car accident with one death
+40352,1,Do we really need another ’Spider-Man?’
+40398,5,Americans have plotted to kill cartoonists
+40621,1,Report: OU student apologizes for racist chant
+40654,2,Other songs that have ’Blurred Lines’
+40661,2,SAE racist chant: Textbook case of frat behaving badly?
+40663,2,University of Okahoma: Who are the 2 frat students?
+40679,2,Cyclone Pam blasts Vanuatu, first deaths confirmed
+40907,1,Levi Pettit apologizes for racist chant
+41318,1,Rare set of all-girl quintuplets born in U.S.
+41618,1,Met Gala 2015: The dresses that were doing the most
+41788,2,Texas mom, kids among those missing after floods
+41828,1,Texas floods: Searches for the missing continue
+42155,1,’Lethal Weapon’ actress Mary Ellen Trainor dead
+42210,1,Alanis Morissette’s ’Jagged Little Pill’ turns 20
+42506,1,Brigade, the ’Tinder for Politics’
+42556,1,Boston bomber Dzhokhar Tsarnaev says he’s sorry
+42768,4,Marisa Tomei in talks to play Aunt May in ’Spider-Man’
+43738,1,Russia’s ambassador to the UN has died
+44060,2,The ’messy’ way a former Goldman Sachs employee grew a $150 million startup, then turned half his employees into millionaires
+44454,1,US officials: Putin-linked think tank drew up plan to sway 2016 US election
+44515,1,The smartphone is eventually going to die — this is Mark Zuckerberg’s crazy vision for what comes next
+44765,1,Silicon Valley’s ultimate status symbol is the sneaker — here are the rare, expensive, and goofy sneakers worn by the top tech CEOs
+45160,2,175 CEOs and senior execs of the US’s biggest companies have signed a pledge committing them to diversity goals
+45790,1,Zenefits has fired execs who may have encouraged employees to skirt the law
+46060,1,Report: Tom Brady got ’hammered’ in the Deflategate appeal hearing, and he might be in trouble
+46103,1,Tim Cook, Elon Musk, and Larry Page were at a private event where the ’main topic’ was stopping Trump
+46255,2,A lot of people are making the same mistake about Tesla and the Model 3
+46612,7,Morgan Stanley’s top stock strategist blows up everyone who thinks they’re just so smart
+46614,1,ALL ABOUT EARNINGS: Your complete preview of the week’s big economic events
+46818,1,The retail industry is transforming, but not the way you think it is
+46882,2,When Zenefits banned vacations for employees, COO David Sacks went to the Caribbean
+47523,1,10 things you need to know today
+47524,3,Trump is doing something no candidate has done in almost 30 years, and it could pay off
+47777,2,A startup that wants to take cancer therapy to the next level just landed a $2.5 billion deal
+48864,1,Gregg Popovich says he had to persuade a Spurs player to take a $21 million contract offer from another team
+49411,1,25 Wall Street movies to watch over Thanksgiving
+49711,1,Nike’s new $720 shoe is all about the tech — and it marks a big shift for the brand
+49830,1,George Michael and Carrie Fisher: The Week in Pop-Culture Writing
+49868,1,27 Movies to Look Forward to in 2017
+49963,1,The Introverted Politics of the 2017 Golden Globes

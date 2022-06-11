@@ -1,0 +1,328 @@
+8,3,First, a Mixtape. Then a Romance. - The New York Times
+23,1,George Michael’s Freedom Video: An Oral History - The New York Times
+55,1,10 Engaging Proposals, From the Rooftop to the Subway - The New York Times
+133,1,Four Movies You Should Know About Before the Golden Globes - The New York Times
+141,3,Why You Will Marry the Wrong Person - The New York Times
+151,1,What TV Says About Race and Money - The New York Times
+169,1,Steelers Crush Dolphins to Set Up a Clash With the Chiefs - The New York Times
+216,1,Fox News Settled Sexual Harassment Allegations Against Bill O’Reilly, Documents Show - The New York Times
+458,1,A Bullet Misses Its Mark, and Then Takes a Fatal Detour - The New York Times
+469,1,‘I’m Nobody’? Not a Chance, Emily Dickinson - The New York Times
+668,1,Couture in the Shadow of the Women’s March - The New York Times
+795,2,A Personal Trainer for Heartbreak - The New York Times
+849,1,The Met Opera’s ‘Rusalka’ Is a Dark, Sexy Hit - The New York Times
+860,1,Review: In ‘24: Legacy,’ Jack Bauer’s Gone. The Demons Are the Same. - The New York Times
+969,1,Oscar-Nominated Shorts: Unsung but Worth Your Time - The New York Times
+977,1,Love, Interrupted: A Travel Ban Separates Couples - The New York Times
+988,1,Letters From Jacqueline Kennedy to the Man She Didn’t Marry - The New York Times
+1025,1,Shinzo Abe, Executive Orders: Your Friday Evening Briefing - The New York Times
+1056,2,‘Hell Hath No Fury Like a Woman Warned’ - The New York Times
+1063,1,Donald Trump, North Korea, Kashmir: Your Morning Briefing - The New York Times
+1064,1,Trump’s Cabinet, Refugee Ban, Grammys: Your Weekend Briefing - The New York Times
+1117,1,Michael Flynn, Kim Jong-un: Your Tuesday Evening Briefing - The New York Times
+1122,1,Saved From Holocaust: ‘He Loved Me and He Wanted to Keep Me’ - The New York Times
+1125,1,13 Great Stories That Have Nothing to Do With Politics - The New York Times
+1128,7,Valentine’s Day: Did It Start as a Roman Party or to Celebrate an Execution? - The New York Times
+1152,1,Sinister Siblings From ‘The Great Comet’ Go to Fashion Week - The New York Times
+1185,1,The Dirty Projectors Go Solo - The New York Times
+1268,1,Richard Schickel, Movie Critic, Author and Filmmaker, Dies at 84 - The New York Times
+1370,1,Trump Ruled the Tabloid Media. Washington Is a Different Story. - The New York Times
+1505,1,European Union, Nintendo Switch, ‘Logan’: Your Friday Evening Briefing - The New York Times
+1508,1,Ex-Reporter Charged With Making Bomb Threats Against Jewish Sites - The New York Times
+1636,1,In Russia, Blooms Flourish on International Women’s Day - The New York Times
+1676,1,Review: ‘Kong: Skull Island’ Crosses a 1933 Classic With ‘Apocalypse Now’ - The New York Times
+1689,1,Five Long TV Cons Worth a Short Binge - The New York Times
+1692,2,Robert James Waller, Author of ‘The Bridges of Madison County,’ Dies at 77 - The New York Times
+1704,1,From a Wedding Writer’s Notebook, 10 Views on Love - The New York Times
+1770,2,Why ‘The Outsiders’ Lives On: A Teenage Novel Turns 50 - The New York Times
+2192,1,The High Price of Leaving Ultra-Orthodox Life - The New York Times
+2193,1,9 Comic Book Heroes Who Could Come Out on the Big Screen - The New York Times
+2248,1,Bill O’Reilly Thrives at Fox News, Even as Harassment Settlements Add Up - The New York Times
+2316,1,It’s Easy to Be Called ‘Thirsty’ on Social Media. What About on Capitol Hill? - The New York Times
+2346,1,In France, a Monument Honors the American Flyers of World War I - The New York Times
+2566,2,‘Girls’ Finale: Is It Just Us, or Did the Show Get Better? - The New York Times
+2608,1,Prince Knew What He Wanted: Sex, Soul and You - The New York Times
+2709,1,The Met Opera Is Struggling. How Can It Fill Those Empty Seats? - The New York Times
+2718,2,Crossing the Line: How Donald Trump Behaved With Women in Private - The New York Times
+2762,1,Viacom Board Said to End Salary for Sumner Redstone - The New York Times
+2807,1,Paula Broadwell, David Petraeus and the Afterlife of a Scandal - The New York Times
+2849,3,In Sumner Redstone Affair, His Decline Upends Estate Planning - The New York Times
+2855,1,In Paris, the Seine Rises to Highest Level Since 1982 - The New York Times
+2877,1,‘Game of Thrones’ Season 6, Episode 7: Never Too Late - The New York Times
+2919,1,Muhammad Ali Was Her First, and Greatest, Love - The New York Times
+2996,1,Defining, and Proclaiming, a New Black Power - The New York Times
+3040,1,How to Survive Being an Airbnb Host - The New York Times
+3046,1,A ‘Honeymoon Tour’ of Laughs From Natasha Leggero and Moshe Kasher - The New York Times
+3176,1,How I Learned to Tolerate Blake Lively - The New York Times
+3226,1,What You Should Watch This Weekend: ‘The Night Of’ and ‘The Circus’ - The New York Times
+3241,1,The Agony of the Digital Tease - The New York Times
+3277,1,Exploring the France That Josephine Baker Loved - The New York Times
+3295,1,Russia Looks to Populate Its Far East. Wimps Need Not Apply. - The New York Times
+3338,1,Kim Kardashian West and Kanye West Reignite Feud With Taylor Swift - The New York Times
+3525,3,On the London Stage, Love Doesn’t Just Hurt, It Kills - The New York Times
+3622,1,Review: ‘Groundhog Day,’ All Over Again, Now With Song and Dance - The New York Times
+3623,1,Mark Twain Found Inspiration in Germany (Though Not German) - The New York Times
+3655,1,The Latest on the Ryan Lochte Case - The New York Times
+3742,1,What Do You See in Art? Nearly 50 People Told Us - The New York Times
+3746,1,Security in a Bright Yellow Suitcase - The New York Times
+3909,1,There’s a Lot We Need to Talk About - The New York Times
+3950,1,California Today: School Bond Measure? Why You Should Care - The New York Times
+3981,1,Is That Real Tuna in Your Sushi? Now, a Way to Track That Fish - The New York Times
+4044,1,Ahmad Khan Rahami’s YouTube Account Listed Jihad Videos, Complaint Says - The New York Times
+4261,1,In ‘Divorce,’ Sarah Jessica Parker Wants to Ditch Mr. Medium - The New York Times
+4269,1,Awkward Sex, Onscreen and Off - The New York Times
+4281,1,Andrzej Wajda, Towering Auteur of Polish Cinema, Dies at 90 - The New York Times
+4328,1,Bob Dylan, the Musician: America’s Great One-Man Songbook - The New York Times
+4367,1,A Veteran Con Man Works a New Crowd With an Old Trick - The New York Times
+4465,1,Romance Turns Sour for Swansea Fans, and Bob Bradley Is Caught in the Middle - The New York Times
+4468,1,Zadie Smith’s ‘Swing Time’ Explores Friends’ Diverging Paths - The New York Times
+4501,1,How to break up with a friend - The New York Times
+4512,1,What It’s Like to Make It in Showbiz With Your Best Friend - The New York Times
+4570,1,In Michael Chabon’s ‘Moonglow,’ Deathbed Stories Illuminate an Era - The New York Times
+4605,1,Where to Be Single in New York - The New York Times
+4606,1,When Eve and Eve Bit the Apple - The New York Times
+4618,1,Review: Miranda Lambert Sings of What Comes After the Heartbreak - The New York Times
+4671,1,Review: ‘Allied,’ With Brad Pitt and Marion Cotillard, Uncorks a Favorite Vintage - The New York Times
+4706,1,Florence Henderson, Trump, Israel: Your Friday Evening Briefing - The New York Times
+4900,1,California Today: Is a U.C. Education Affordable Anymore? - The New York Times
+4926,1,The Playlist: Taylor Swift and the Jesus and Mary Chain Offer Different Shades of Teases - The New York Times
+4967,1,Seeing Africa by Road - The New York Times
+4997,1,Looking for Love? Put On a Cat Sweater - The New York Times
+5064,1,Confirm or Deny: André Leon Talley - The New York Times
+5109,1,A&ampE Shelves a K.K.K. Documentary Series Over Cash Payments - The New York Times
+5153,1,Whitney Houston, Cher, Tina Turner and Donna Summer: The Musicals - The New York Times
+5161,1,Debbie Reynolds, Wholesome Ingénue in 1950s Films, Dies at 84 - The New York Times
+5168,1,Spies vs. Spies: A Cold War Regularity That Never Quite Cooled - The New York Times
+5177,1,How ‘Toni Erdmann’ Became an Unexpected Comedy - The New York Times
+5211,1,The Poet Idolized by a New Generation of Feminists - The New York Times
+5330,1,‘Silicon Valley’ Season 3 Episode 6: Spaces vs. Tabs - The New York Times
+5444,1,I Was on That Fateful Flight With Prince: A Protégée Tells Her Story - The New York Times
+5458,1,Review: Matthew McConaughey Rebels Against Rebels in ‘Free State of Jones’ - The New York Times
+5464,1,Was the Orlando Gunman Gay? The Answer Continues to Elude the F.B.I. - The New York Times
+5470,1,To Wimbledon Wild Card, Life Feels Lifted From a Hollywood Script - The New York Times
+5595,1,Republican Convention, Turkey, Garry Marshall: Your Wednesday Evening Briefing - The New York Times
+5740,1,U.S. Swimmers’ Disputed Robbery Claim Fuels Tension in Brazil - The New York Times
+5756,1,Frank Ocean Ends His Long Silence With a Variety of Works - The New York Times
+5769,1,What You Should Watch: ‘The Profit’ and ‘Gomorrah’ - The New York Times
+5821,1,The Best TV Shows and Movies New to Netflix, Hulu and More In September - The New York Times
+5830,1,2 TV Shows, 4 Books and 7 Viral Videos for Your Long Weekend - The New York Times
+5875,1,The Playlist: Lady Gaga Returns Lovelorn, and Zack de la Rocha Returns Furious - The New York Times
+5885,1,As Colin Kaepernick’s Gesture Spreads, a Spirit Long Dormant Is Revived - The New York Times
+5916,1,Can You Erase the Trauma From a Place Like Sandy Hook? - The New York Times
+5954,2,Sarah Jessica Parker, Leaving Carrie Behind With HBO’s ‘Divorce’ - The New York Times
+6028,1,Review: In ‘The Girl on the Train,’ a Boozy Emily Blunt Never Winks - The New York Times
+6036,1,Donald Trump Apology Caps Day of Outrage Over Lewd Tape - The New York Times
+6045,1,Donald Trump’s Conduct Was Excused Again and Again. But Not This Time. - The New York Times
+6087,1,Thailand Looks to Likely Future King With Apprehension - The New York Times
+6161,1,Donald Trump Rode to Power in the Role of the Common Man - The New York Times
+6214,1,Review: ‘Manchester by the Sea’ and the Tides of Grief - The New York Times
+6281,1,‘Moana’ Has the Second Best Thanksgiving Weekend Opening of All Time - The New York Times
+6307,1,How to Hide $400 Million - The New York Times
+6329,1,Putting His Mark on the World - The New York Times
+6419,1,The Best New Podcasts of 2016 - The New York Times
+6459,1,South Korean Court Begins Hearings on Park Geun-hye’s Impeachment - The New York Times
+6501,2,Serena Williams Announces Engagement to Alexis Ohanian, Reddit’s Co-Founder - The New York Times
+6502,1,The xx Lets the Sunshine In - The New York Times
+6587,1,Crowds Are Out, Crates Are In as Louvre Takes Flood Precautions - The New York Times
+6626,1,4,223 Central Park Benches With Stories to Tell - The New York Times
+6774,2,The Playlist: Barack Obama’s Summery Playlists and Green Day’s Fiery Return - The New York Times
+6791,1,Fight for Viacom Is Said to End With the Redstones in Control - The New York Times
+6796,2,A Single Mom Escapes the Friend Zone, One Non-Date at a Time - The New York Times
+6912,1,Young Rural Women in India Chase Big-City Dreams - The New York Times
+7004,1,The Rolling Stones Paint It Blue on Their New Album - The New York Times
+7015,1,A Guide to Exploring Four Dynamic New York Neighborhoods - The New York Times
+7028,1,In Charleston, Coming to Terms With the Past - The New York Times
+7051,1,A Carefree Getaway Just Off the Persian Gulf - The New York Times
+7092,2,The Best TV Shows of 2016 - The New York Times
+7100,1,The Best Movies of 2016 - The New York Times
+7112,1,Bob Dylan Sends Warm Words but Skips Nobel Prize Ceremonies - The New York Times
+7125,1,Times Critics’ Top Books of 2016 - The New York Times
+7169,3,Carrie Fisher, Child of Hollywood and ‘Star Wars’ Royalty, Dies at 60 - The New York Times
+7206,1,9 Ways Donald Trump Would Be Unlike Any Other Nominee - The New York Times
+7304,1,Review: In ‘Little Men,’ Boys Develop a Bond That Is Threatened by Money - The New York Times
+7386,1,Social Media Got You Down? Be More Like Beyoncé - The New York Times
+7457,1,Review: ‘Gilmore Girls: A Year in the Life’ Revives a Snow Globe Town - The New York Times
+7476,1,Pursuing a Dream in Film, With Tips From Spike Lee - The New York Times
+7484,1,Pakistan Passenger Plane Crashes With 48 on Board - The New York Times
+7526,1,Wife and Her Lover Are Arrested in Killing of Greek Envoy in Brazil - The New York Times
+7533,1,Forget Too Much TV. It’s Too Big TV We Should Worry About. - The New York Times
+7535,1,Arianna Huffington’s Sleep Revolution Starts at Home - The New York Times
+7583,2,Garry Marshall, ‘Pretty Woman’ Director, Dies at 81 a TV and Film Comedy Mastermind - The New York Times
+7610,1,A Celebrity Z-List? Yes, It Exists - The New York Times
+7616,2,Renée Zellweger Is Back and Standing Up for Herself - The New York Times
+7617,1,Five or Six Things I Didn’t Know About Brad Pitt, by Marlon James - The New York Times
+7624,1,So You Think Your Place Is Small? - The New York Times
+7724,1,Johnny Nicholson, Whose Midtown Cafe Drew the ‘New Bohemians,’ Dies at 99 - The New York Times
+7753,1,How Donald Trump Used Hollywood to Create ‘Donald Trump’ - The New York Times
+7771,1,The Modern Love Podcast: Taissa Farmiga Reads ‘Friends Without Benefits’ - The New York Times
+8088,1,Pulse Massacre Jihadi’s Wife Arrested
+8111,1,Hollywood Analyst Warns Studios ’Big-Budget Bombs’ Coming in 2017
+8706,2,Texas House Passes Crackdown Policy on Teacher-Student Sex
+8973,1,Box Office: Tom Hanks’ ’Circle’ Bombs, ’Furious’ Crosses $1B Worldwide
+9510,1,’Mass Effect: Andromeda’ Review: This Awful Game Should Have Been Left Lost in Space - Breitbart
+9945,2,Kathy Griffin ’Beheading’: Hollywood’s Feminist A-List Cashes In on Global Suffering of People of Color - Breitbart
+10023,1,Texas Governor Signs Law to Crackdown on Teacher Sex Misconduct
+10557,1,Survey Shows Social Isolation, Sexual Rejection, but Much Sympathy for Transgender Americans - Breitbart
+12547,1,FBI’s Suspect for Anti-Semitic Threats: Bernie Voter, Fake News Reporter - Breitbart
+12600,1,Amy Schumer to Star in ’I Feel Pretty’
+13209,1,Scarlett Johansson: Monogamy Not ‘Natural,’ ‘A Lot of Work’
+13346,1,Julia Roberts Named People’s ’World’s Most Beautiful Woman’ - Breitbart
+14191,3,Bill Cosby Awaits Fate as Jury Begins Deliberations in Sex Assault Trial
+15175,1,Exclusive — Bernie Sanders, Other Top Democrats Refuse to Condemn Supporter FBI Alleges Made Anti-Semitic Threats Nationwide - Breitbart
+15211,1,‘American Gods’ Features TV’s Most Explicit Gay Sex Scene Between Muslims
+15375,1,Bill Cosby Accuser Takes Stand in Sex Assault Trial: ’I Wasn’t Able to Fight’
+17037,1,Mark Ruffalo Under Fire for Casting Cisgender Actor in Transgender Drama - Breitbart
+17518,1,Depp Friend Doug Stanhope: Johnny ’Is Being Blackmailed’ by Amber Heard - Breitbart
+18010,1,’Joy’ Review: Inspiring, Entertaining Love Letter to American Capitalism - Breitbart
+18167,1,PHOTOS: Amber Heard Shares More Evidence of Alleged Assault by Johnny Depp - Breitbart
+18374,2,Newt Gingrich Offers to Help Draft ’Notebook’-Style Ronald Reagan Screenplay - Breitbart
+19444,1,HBO Defends Robot Rape and Sexual Violence in ’Westworld’ - Breitbart
+19530,1,Michael Sheen Leaving Hollywood to Fight Rise of Populism (Update) - Breitbart
+19851,2,FULL TEXT: MILO On How Feminism Hurts Men And Women - Breitbart
+19860,1,Kenya Legalizes Medical Advertising to Curb the Witch Doctor Business - Breitbart
+19865,1,Donald Trump, Joe Scarborough Launch Twitter War: ’Neurotic and Not Very Bright’ - Breitbart
+20035,2,Saudi Journalist: ’Mullah Obama’ Is Paving Way For Iran To Go Nuclear
+20539,1,New Service Helps Migrants Set Up ’Dates’ With Locals
+20875,1,EXCLUSIVE–Clinton Rape Accuser Juanita Broaddrick: NY Times Should Interview Bill’s Alleged Female Victims - Breitbart
+21420,1,FULL TEXT: ’A Merry MILO Christmas’ at Minnesota State University - Breitbart
+21702,1,Zumwalt: How The New York Times Used Fake News to Help Fidel Castro - Breitbart
+22652,1,**Live Wire** Jihad in Orlando: Was Omar Mateen Really a Lone Wolf? - Breitbart
+22880,1,Johnny Depp’s Exes: Actor a ’Soft Person,’ Would ’Never’ Physically Assault a Woman - Breitbart
+23170,2,Donald Trump Blasts ’Failing New York Times’ over ’Hit Piece’ - Breitbart
+23299,1,Forgotten History: How American Presidents from Washington to Lincoln Agree with Trump on Trade - Breitbart
+24465,1,SNL’s Che: Breitbart Isn’t a News Site - Breitbart
+24555,1,Libertarians and Trump: To Be, or Not To Be, a Republican in 2016
+24634,1,New Chinese Comic Warns Women to Beware of ’Handsome Spies’
+24688,1,Indonesia Cracks Down on ’Gays’, Blocks Dating App Grindr and Other Websites
+24861,1,Burt Reynolds 10 Greatest Films - An 80th Birthday Tribute - Breitbart
+25435,1,Mia Farrow Compares Bill Cosby to Woody Allen
+25496,1,Golden Globe Nominations: Complete List
+25517,1,The Most Explosive WikiLeaks Clinton Revelations (So Far)
+25762,1,It’s 1828 All Over Again: Trump’s Deplorables Have Started a Peaceful Revolution  - Breitbart
+26597,1,Hollywood Scrambles to Up Diversity in Wake of #OscarsSoWhite Controversy - Breitbart
+27403,1,Teenage Boys With Tits: Here’s My Problem With Ghostbusters - Breitbart
+27589,1,Awkward: ’Allied’ Teaser Drops Day of Brangelina Divorce
+28241,1,The Left’s Bloody War on Women: Sending Chicks into Combat Betrays Men, Women and Civilization - Breitbart
+28910,1,Honolulu Pays Lesbian Couple $80k After Kissing Arrest
+29020,1,Liberals Challenge Texas Tech’s ’Guns Up’ Slogan
+29303,2,More Young Adults Live With a Parent Than With a Spouse, Partner - Breitbart
+29433,1,Eric Holder: Snowden Performed a ‘Public Service’
+29869,2,Report: Rupert Murdoch’s Ex-Wife in ’Serious’ Relationship With Putin
+30325,1,Women Fighting the Islamic State: ’They Are So Scared of Us!’
+31220,1,Black Lives Matter Supporters Celebrate Baton Rouge Police Shootings On Twitter - Breitbart
+31496,1,Silicon Valley Venture Capitalist Accused of Sexually Abusing Ex-Stripper for 13 Years - Breitbart
+31703,1,Trump’s spiritual adviser fires back at critics
+32681,1,’La La Land’ director on love, romance and that ending
+33047,2,Beau Biden’s brother, widow in romantic relationship
+33081,1,Fired reporter accused of threatening some Jewish centers, cyber-stalking
+33306,1,Meet Hello Kitty’s beer swilling, heavy metal-loving angry sister
+33309,1,’Bachelor’ finale 2017: Nick Viall proposes to ...
+33932,5,What it means to be pansexual
+34066,1,Melissa Etheridge smokes weed with her kids
+34240,1,How Demme showed us America’s nightmare
+34511,1,When TV shows lose their stars
+34760,1,Why ’Master of None’ highlighted working class in Season 2 episode
+34864,1,’Bachelorette’ premiere: Rachel Lindsay is swept off her feet [literally]
+34904,2,Want more affection? Have more sex
+34929,2,Alabama executes inmate Tommy Arthur after multiple delays
+34982,1,Music legend Gregg Allman dies at 69
+35101,1,Oakland to pay $1 million sex exploitation settlement
+35403,1,Bill Cosby’s fate is now in the hands of the jury
+35426,1,Jurors deliberate for 2nd day in Bill Cosby trial, but no verdict yet
+35446,2,Jury in Bill Cosby trial yet to reach verdict after three days
+35468,2,No verdict yet in Bill Cosby’s trial, jurors to return on Friday
+35484,2,All the jury’s questions in the Cosby trial
+35488,2,Bill Cosby jury to deliberate Saturday
+35529,2,Mistrial declared in Bill Cosby’s trial
+35531,1,The Bill Cosby mistrial: How we got here
+35614,1,Taylor Swift and Calvin Harris: #delete
+35679,1,Oakland mayor: ’I am here to run a police department, not a frat house’
+35767,1,Iceland: Soccer fairy tale just got ’crazy’
+36060,1,ISIS: 143 attacks in 29 countries have killed 2,043
+36262,1,Trump VP search is like the ’Bachelor’
+36611,1,Charges dropped in Chandra Levy murder
+36646,1,Are fireflies flickering out?
+36691,2,Millennials are having less sex than Gen Xers
+36973,1,Chinese diver wins Olympic silver -- then gets podium proposal
+37300,1,Mexican music icon Juan Gabriel dies days after wowing crowds at last concert
+37325,1,Gilda Radner and Gene Wilder: A love story
+37328,2,Gene Wilder was a new kind of Hollywood star
+37416,1,The search for a Speedo-wearing guru
+37551,1,These ’Notebook’-inspired photos are true love personified
+37740,2,More victims in California police sex scandal?
+38101,1,Statement from Geoff Marcy’s attorney
+38111,1,Clinton gives frank take on Sanders supporters
+38140,1,What happens to looted art?
+38147,1,Woman arrested in shooting of FSU professor
+38153,1,Why does India love Amitabh Bachchan?
+38353,1,Jennifer Lopez and Marc Anthony reunite
+38508,1,’Good Girls Revolt’ filters journalism, feminism through ’60s prism
+38850,2,Do these village homes have the best view in China?
+38872,2,Does the perfect boyfriend live inside your phone?
+38989,1,In Cuba, days of mourning for Fidel Castro
+39215,1,A new golden age of Egyptian cinema?
+39233,1,Academy Awards Fast Facts
+39268,1,Petraeus, and the double standard on sex
+39385,1,Man weds fiancee hours before succumbing to cancer
+39699,1,Carrie Fisher, ’Star Wars’’ Princess Leia, dies at 60
+39858,1,Recording: Paris gunman had dialogue with hostages
+39859,1,Massive search for woman linked to Paris hostage-taker
+39867,1,Tiffany jewelry ad features first same-sex couple
+40142,1,Obama trip to India has full agenda, high expectations
+40275,1,Painting sold for $5,212 in 2013 now worth millions
+40305,1,Civil War re-enactors ’die’ for photographer
+40329,1,Harvard tells professors: No more sex with undergrads
+40356,3,Cuddling convention happens on Valentine’s Day
+40374,1,It’s snow time again in Boston
+40383,1,’50 Shades of Grey’: What’s the verdict?
+40614,1,AMC’s ’Walking Dead’ Prequel Lands Two-Season Order
+40651,1,Nick Gordon to Dr. Phil: ’I’ll be sober, I’ll be clean’
+40705,1,Savage Beauty: The bizarre beauty of Alexander McQueen
+40717,1,Elton John’s boycott of Dolce &amp Gabbana spreads
+40835,1,’Pretty Woman’ at 25: Misunderstood feminist classic?
+40880,2,The gold superyacht for ladies
+40925,1,Sam Taylor-Johnson, director of ’Fifty Shades’: I’m not doing sequel
+40963,1,Title of ’Walking Dead’ companion series revealed
+41118,1,Michael Keaton hosts ’Saturday Night Live’
+41227,1,Imagining Daddy: A rig worker’s daughter and her dreams
+41372,1,Infertility: Why don’t more people talk about it?
+41417,1,Wild horses and the world’s forgotten animals
+41432,1,Death a nightmare for ’Grey’s Anatomy’ fans
+41604,1,Is Joss Whedon a feminist? (Opinion)
+41722,2,’Money, guns, girls’: Why ISIS recruiters win in West
+41760,1,Patriot Act debate: Everything you need to know
+41775,1,The viral presidency: Obama’s best unscripted moments
+41887,1,Amy Schumer is everywhere
+41917,1,The women of ISIS: Who are they?
+41980,1,Will Americans vote for a bachelor president in 2016?
+42066,1,Director apologizes for casting Emma Stone as Asian
+42204,1,What’s inside an open marriage? (Opinion)
+42210,1,Alanis Morissette’s ’Jagged Little Pill’ turns 20
+42360,1,Psychiatrist: Holmes thought  daily about killing
+42551,1,Middle-aged virgins: Why so many Japanese stay chaste
+42609,1,Former Playboy girlfriends feud
+42707,1,700-year-old doodles by medieval scribes
+42771,1,Amanda Peterson, star ’Can’t Buy Me Love,’ dead at 43
+42811,1,1st chapter of ’Go Set a Watchman’ has readers in shock
+42890,1,Sex trafficking: The new American slavery
+42933,1,Lafayette theater shooter bought gun legally
+42994,1,Cuba’s world of fantasy
+43050,1,Jennifer Aniston and Justin Theroux get married
+43320,1,Boeing, Chevron, and other huge companies are spending $90 million on Trump’s inauguration
+43446,1,Netflix and Amazon dropped millions on these Sundance movies everyone will be talking about
+44848,1,The worst tourist trap in every state
+45126,2,The happiest couples — married or not — tend to share a key characteristic
+45426,1,A Caltech astrophysics ’rising star’ professor allegedly fell in love with his student and then fired her
+45671,1,17 perfect Valentine’s Day gifts for stylish guys
+46165,1,Something weird and unexpected happened to me after I started using a sleep-tracking device that reads the brain
+46169,2,A longtime VC at Sequoia is out of the firm following an explosive lawsuit
+46437,1,Netflix’s excellent new laugh-track sitcom is the next step in cord-cutting
+47045,2,Millennials are more likely to live at home than any other young adults in American history
+47298,1,REPORTS: Orlando shooter was a regular at the gay nightclub he attacked, used multiple gay dating apps
+47313,1,New developments on the Orlando shooter have put ISIS in a potentially awkward position
+47612,1,Women pay tens of thousands of dollars to compete on ‘The Bachelor’
+47869,1, The 4 little words you should always use when asking for a raise
+48377,1,The 23 best comedy movies you can stream on Netflix right now
+49057,1,What psychology actually says about the tragically social-media obsessed society in ’Black Mirror’
+49411,1,25 Wall Street movies to watch over Thanksgiving
+49897,1,Opening Paragraphs Don’t Always Have to Be Exciting

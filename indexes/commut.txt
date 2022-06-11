@@ -1,0 +1,426 @@
+15,2,As Second Avenue Subway Opens, a Train Delay Ends in (Happy) Tears - The New York Times
+65,1,My Canada - The New York Times
+70,1,Remaking Kennedy Airport Is Governor’s Next Big Plan - The New York Times
+101,1,How to Predict Gentrification: Look for Falling Crime - The New York Times
+141,1,Why You Will Marry the Wrong Person - The New York Times
+155,1,Donald Trump, Golden Globes, Jerusalem: Your Monday Briefing - The New York Times
+270,1,Neanderthals Were People, Too - The New York Times
+297,1,Twin Strands of Music and Compassion Run Through a Life - The New York Times
+303,1,Donald Trump, Chicago Police: Your Friday Evening Briefing - The New York Times
+343,1,One Hand on Light Switch, Obama Isn’t Flipping to ‘Off’ Just Yet - The New York Times
+348,1,Yellow Cab, Long a Fixture of City Life, Is for Many a Thing of the Past - The New York Times
+368,1,Hooked on Our Smartphones - The New York Times
+378,11,Chelsea Manning to Be Released Early as Obama Commutes Sentence - The New York Times
+379,3,Chelsea Manning Describes Bleak Life in a Men’s Prison - The New York Times
+380,4,Obama Commutes Sentence of F.A.L.N. Member Oscar Lopez Rivera - The New York Times
+383,1,Joe Biden: ‘I Wish to Hell I’d Just Kept Saying the Exact Same Thing’ - The New York Times
+396,1,Brexit, Chelsea Manning: Your Tuesday Evening Briefing - The New York Times
+397,2,Brexit, Donald Trump, Chelsea Manning: Your Morning Briefing - The New York Times
+407,2,Life on the Farm Draws Some French Tired of Urban Rat Race - The New York Times
+427,1,On Obama’s Pardon List: A Hotel Magnate Who Owned Studio 54 - The New York Times
+475,1,‘Justice Nightmare’: 32 Years in Texas Prisons After Conviction Voided - The New York Times
+551,1,Academy Awards, James Comey: Your Tuesday Evening Briefing - The New York Times
+572,2,End of Biden Vice Presidency Dims Eight-Year Spotlight on Delaware - The New York Times
+580,1,‘The Only Way We Can Fight Back Is to Excel’ - The New York Times
+602,4,End of the Line for Penn Station’s Departure Board - The New York Times
+610,1,Trump to G.O.P. Gathering: Where’s My C.I.A. Director? - The New York Times
+731,1,Israel’s Hard-Liners Want to ‘Go Big’: Annex a Settlement - The New York Times
+850,1,How to Have a Relaxing Vacation in a City - The New York Times
+905,3,Subway Riders Scrub Anti-Semitic Graffiti, as ‘Decent Human Beings’ - The New York Times
+982,2,Spring Weather? Snowstorm? New York Schools to Close on Thursday - The New York Times
+999,1,Damien Chazelle, ‘La La Land’ Director, on California’s Allure - The New York Times
+1028,1,Our Picks: Great Stories From Around the Web and in The Times - The New York Times
+1031,3,Hong Kong Subway Fire Injures at Least 17 People - The New York Times
+1056,1,‘Hell Hath No Fury Like a Woman Warned’ - The New York Times
+1145,2,South Africa, a Nation With Sharp Inequality, Considers a Minimum Wage - The New York Times
+1177,1,On a ‘Day Without Immigrants,’ Workers Show Their Presence by Staying Home - The New York Times
+1198,2,Beyond ‘Hidden Figures’: Nurturing New Black and Latino Math Whizzes - The New York Times
+1206,1,‘Tone Down Your Gayness’: St. Louis Police Officer Files Discrimination Suit - The New York Times
+1292,1,Sick of Politics? Try These Great Reads - The New York Times
+1577,1,The Downside of Ride-Hailing: More New York City Gridlock - The New York Times
+1652,1,California Today: Why the State’s Biggest Lake Is Dying - The New York Times
+1738,1,Heavy Snowfall Is Forecast Across Northeastern U.S. - The New York Times
+1739,1,As Daylight Saving Starts, Some Ask: Why Fall Back at All? - The New York Times
+1742,1,Jordan Frees Soldier Who Killed 7 Israeli Schoolgirls in ’97 Rampage - The New York Times
+1783,1,Somehow, ‘Slush Day’ Doesn’t Have the Same Ring - The New York Times
+1805,1,Populists Appear to Fall Short in Dutch Election, Amid High Turnout - The New York Times
+1948,1,11 Great Reads That Have Nothing to Do With Politics - The New York Times
+2023,1,17 Great Stories That Have Nothing to Do With Politics - The New York Times
+2072,1,South Korean Prosecutors Seek to Arrest Park Geun-hye - The New York Times
+2097,1,Thieves Take a Chunk of Change, All 221 Pounds of It, From a Berlin Museum - The New York Times
+2116,1,Evidence That Robots Are Winning the Race for American Jobs - The New York Times
+2176,1,Park Geun-hye, South Korea’s Ousted Leader, Is Arrested and Jailed to Await Trial - The New York Times
+2215,1,‘Penis Seat’ Causes Double Takes on Mexico City Subway - The New York Times
+2259,1,A Piano Man of Many Faces, and Some Stranger Stories - The New York Times
+2305,10,At Penn Station, Rail Mishap Spurs Large and Lasting Headache - The New York Times
+2310,1,St. Petersburg Bomber Said to Be Man From Kyrgyzstan Death Toll Rises - The New York Times
+2312,2,M.T.A. Shortens L Train Shutdown to 15 Months - The New York Times
+2324,1,Trump Weighs Infrastructure Bill but Keeps New York Up in the Air - The New York Times
+2335,10,Christie Lies Low, but Can’t Avoid Wrath of Commuters - The New York Times
+2340,1,Arkansas Parole Board Recommends Clemency for Death-Row Inmate - The New York Times
+2348,1,A Voice From Paris on Climate Change - The New York Times
+2395,1,Visions of Snowflakes Dance in Bill O’Reilly’s Head in ‘Old School’ - The New York Times
+2413,1,Arrest in Stockholm Truck Attack: ‘We Think He Is the Driver’ - The New York Times
+2419,2,17 Great Stories That Have Nothing to Do With Politics - The New York Times
+2518,1,Burger King ‘O.K. Google’ Ad Doesn’t Seem O.K. With Google - The New York Times
+2561,2,Among Travelers and Commuters, the Homeless Stop In and Stay - The New York Times
+2689,3,Man Wrongfully Convicted of Murder Awaits His Exoneration, 52 Years Later - The New York Times
+2696,1,Wildfire Empties Fort McMurray in Alberta’s Oil Sands Region - The New York Times
+2697,1,Washington Metro System Failed to Learn From Accidents, Report Finds - The New York Times
+2709,1,The Met Opera Is Struggling. How Can It Fill Those Empty Seats? - The New York Times
+2763,2,Fire Under Metro-North Tracks Caused by Fuel Spill - The New York Times
+2771,1,Shared Mission to Pardon U.S. Soldiers Who Killed Civilians - The New York Times
+2980,1,Orlando, Disney, Donald Trump: Your Wednesday Evening Briefing - The New York Times
+2982,2,De Blasio’s $325 Million Ferry Push: Rides to 5 Boroughs, at Subway Price - The New York Times
+3089,1,The Woman Who ‘Totally Understands’ Donald Trump - The New York Times
+3184,1,Nigel Farage, Who Spurred ‘Brexit,’ Resigns as Head of U.K. Independence Party - The New York Times
+3263,1,John Brademas, Indiana Congressman and N.Y.U. President, Dies at 89 - The New York Times
+3285,1,The Mysterious Metamorphosis of Chuck Close - The New York Times
+3322,1,Russia’s Sports Minister Strives to Contain Damage - The New York Times
+3357,1,The Loneliness of Being Black in San Francisco - The New York Times
+3361,1,‘Nothing Short of a Miracle’: No Serious Injuries in Tappan Zee Crane Collapse - The New York Times
+3385,1,A Stony Silence at Fox News After Ailes’s Departure - The New York Times
+3429,1,Donald Trump’s Draft Deferments: Four for College, One for Bad Feet - The New York Times
+3464,1,Milestone for New Tappan Zee Bridge: It’s Halfway Done - The New York Times
+3539,1,The Slow-Game App Is the New Smoke Break - The New York Times
+3549,1,The Divorce Diet? Losing a Spouse and Some Pounds, Too - The New York Times
+3693,1,What’s Next for the New York Subway? Toronto Already Knows - The New York Times
+3746,1,Security in a Bright Yellow Suitcase - The New York Times
+3774,1,‘The Market Is Saturated’: Brooklyn’s Rental Boom May Turn Into a Glut - The New York Times
+3781,2,Stuck in Traffic, Polluting the Inside of Our Cars - The New York Times
+3925,8,Where to Live? Ask an App - The New York Times
+3935,1,45,000 Pounds of Would-Be Pennies Coat Highway After Delaware Crash - The New York Times
+3972,2,An Architect Who Built His Career on Resuscitating New York Landmarks - The New York Times
+3977,2,Emily Blunt Rides the Unnerving Rails of Addiction in ‘The Girl on the Train’ - The New York Times
+3983,1,How Did G.M. Create Tesla’s Dream Car First? - The New York Times
+3997,2,Man Shot After Striking Off-Duty New York Detective With Meat Cleaver, Authorities Say - The New York Times
+4006,1,When You Look Pregnant, but You’re Not - The New York Times
+4025,1,Coming Soon, Economists Hope: Big Spending on Roads, Bridges and Ports - The New York Times
+4034,1,Cellphone Alerts Used in New York to Search for Bombing Suspect - The New York Times
+4079,1,Chris Christie Protected Culprit in Bridge Lane Closings, Agency Head Testifies - The New York Times
+4129,1,Millions in U.S. Climb Out of Poverty, at Long Last - The New York Times
+4145,1,Christie Laughed When Told of 2013 Bridge Plot, Former Ally Testifies - The New York Times
+4146,1,Cuomo’s Vision for Revamped Penn Station: New Home for Amtrak and L.I.R.R. - The New York Times
+4150,8,Hoboken Train Crash Kills 1 and Injures Over 100 - The New York Times
+4151,4,Chaos at Hoboken Station After Train ‘Flew Through the Air’ - The New York Times
+4152,1,Hoboken, Wells Fargo, F.C.C.: Your Thursday Evening Briefing - The New York Times
+4165,1,California Today: $2 More for a Pack of Cigarettes? - The New York Times
+4170,6,Federal Investigators Search for Cause of Deadly Hoboken Train Crash - The New York Times
+4176,1,A Curious Plan to Fight Climate Change: Buy Mines, Sell Coal - The New York Times
+4181,1,Husband of Hoboken Crash Victim Struggles to Tell Their Child - The New York Times
+4237,1,The Cubs Confront the Curse: Is This the Year? - The New York Times
+4274,1,New York Today: Mourning a Brooklyn Prosecutor - The New York Times
+4384,1,To the First Lady, With Love - The New York Times
+4390,2,20 Wines for Under $20: The Fall Edition - The New York Times
+4405,3,As Evening Commute Gets Darker, It Also Gets More Dangerous, Officials Warn - The New York Times
+4419,1,Seeking Lower Rent, Chinese Artists Cut Path for Themselves Outside Beijing - The New York Times
+4431,1,Want the ‘Real’ Brooklyn? Go Cheap - The New York Times
+4435,7,Philadelphia Transit Strike Strands Thousands - The New York Times
+4548,1,Chelsea Manning Asks Obama to Cut Sentence to Time Served - The New York Times
+4602,1,Intensified by Climate Change, ‘King Tides’ Change Ways of Life in Florida - The New York Times
+4605,1,Where to Be Single in New York - The New York Times
+4638,1,Villager’s Execution in China Ignites Uproar Over Inequality of Justice - The New York Times
+4667,2,After Obama Push for Clemency, Hints of Reversal Likely to Come - The New York Times
+4670,2,When to Leave on Your Thanksgiving Drive - The New York Times
+4671,1,Review: ‘Allied,’ With Brad Pitt and Marion Cotillard, Uncorks a Favorite Vintage - The New York Times
+4732,1,From ‘Pitch Perfect’ to Broadway, He’s Vocal About A Cappella - The New York Times
+4736,1,Fidel Castro, Aleppo, Donald Trump: Your Tuesday Briefing - The New York Times
+4865,2,Battle Over New Bus Terminal Threatens to Paralyze Port Authority’s Board - The New York Times
+4879,2,The Woman Who Might Find Us Another Earth - The New York Times
+4936,1,Too Many Favorite Shows? Take Them In at High Speed - The New York Times
+5048,2,Art Underground: A First Look at the Second Avenue Subway - The New York Times
+5082,3,Automakers Prepare for an America That’s Over the Whole Car Thing - The New York Times
+5117,1,Is Giving the Secret to Getting Ahead? - The New York Times
+5272,1,A $1,000 Day in Tokyo for $100 - The New York Times
+5297,6,Thousands Stranded as Fire Disrupts Metro-North Rail Service - The New York Times
+5343,1,From Paris to Bavaria, Heavy Rains Cause Deadly Floods - The New York Times
+5426,5,Bidding Wars in the Suburbs - The New York Times
+5492,4,New York’s Sidewalks Are So Packed, Pedestrians Are Taking to the Streets - The New York Times
+5500,1,Joshua Brown, Who Died in Self-Driving Accident, Tested Limits of His Tesla - The New York Times
+5585,1,German Police Kill Assailant After Ax Attack Aboard a Train - The New York Times
+5650,1,All Aboard the Nordic Express, at Agern - The New York Times
+5720,1,Secret Ledger in Ukraine Lists Cash for Donald Trump’s Campaign Chief - The New York Times
+5732,1,Puerto Rico’s Financial Woes Revive Calls for Independence - The New York Times
+5815,1,Scheduled Flights to Cuba From U.S. Begin Again, Now With Jet Engines - The New York Times
+5844,1,A Shopping Mall at Ground Zero, Uninformed by Its Sacred Land - The New York Times
+5848,1,California Today: Your Voices - The New York Times
+5867,1,Reliably Red Ohio County Finds Both Trump and Clinton Hard to Stomach - The New York Times
+5924,2,Manhattan Bombs Provide Trove of Clues F.B.I. Questions 5 People - The New York Times
+5928,1,How Tech Companies Disrupted Silicon Valley’s Restaurant Scene - The New York Times
+5954,1,Sarah Jessica Parker, Leaving Carrie Behind With HBO’s ‘Divorce’ - The New York Times
+5978,2,New York Tonight: The First Debate and More Testimony About the Bridge Scandal - The New York Times
+5980,1,Witness Details Origins of Bridge Plot and Links Scheme to Christie Aides - The New York Times
+5987,2,Leaderless and Underfunded, N.J. Transit Had Troubles Well Before Fatal Crash - The New York Times
+5993,1,‘The Girl on the Train’ Takes the Fast Track From Book to Screen - The New York Times
+6044,1,Asian-American Fighters Return to Ancestral Homelands, and Find Fans Waiting - The New York Times
+6085,1,House Republicans in Close Races Worry Trump’s Problems May Hurt Them - The New York Times
+6206,1,Biggest Spike in Traffic Deaths in 50 Years? Blame Apps - The New York Times
+6240,1,Donald Trump, Pope Francis: Your Monday Evening Briefing - The New York Times
+6242,1,An Airport Survival Guide - The New York Times
+6251,1,Donald Trump, Chattanooga, Mosul: Your Tuesday Evening Briefing - The New York Times
+6462,1,Coming to Newark Archdiocese: A Different Kind of Cardinal - The New York Times
+6473,1,Beginning a New Life in America, With Mentors by Their Side - The New York Times
+6507,3,Cuomo Commutes Sentence of Judith Clark, Driver in Deadly Brink’s Robbery - The New York Times
+6515,1,A Tiny Home by Choice in New York City - The New York Times
+6605,2,Choosing a School for My Daughter in a Segregated City - The New York Times
+6699,1,David Cameron Gets Hustled Out of Downing Street, but the Cat Stays - The New York Times
+6779,1,Officials Spent Big on Olympics, but Rio Natives Are Paying the Price - The New York Times
+6852,1,All Eyes Are on Chris Christie as Trial in Bridge Scandal Starts - The New York Times
+6909,4,The Bangladeshi Traffic Jam That Never Ends - The New York Times
+6929,2,New Jersey Transit Was Under Investigation Before Fatal Crash - The New York Times
+6930,1,N.J. Transit Engineer Has No Memory of Fatal Train Crash, Officials Say - The New York Times
+6931,1,Next Big Tech Corridor? Between Seattle and Vancouver, Planners Hope - The New York Times
+6986,1,Adventures in Upscale Brooklyn - The New York Times
+7105,1,A New Immigrant Hopes for a Culinary Career - The New York Times
+7160,1,It’s Not Easy Being Santa - The New York Times
+7292,1,On Death Penalty Cases, Tim Kaine Revealed Inner Conflict - The New York Times
+7507,1,Rail Crossing Warnings Are Sought for Mapping Apps - The New York Times
+7524,1,Alaska, Reliant on Air Transit, Faces Pilot Shortage. Are Drones an Answer? - The New York Times
+7634,2,New York Tonight: Hoboken Train Crash and Wet Weather - The New York Times
+7736,1,Obama Plays Down Confrontation With China Over His Plane’s Stairs - The New York Times
+7803,1,CNN’s Zeleny: ’Hard to Imagine’ Obama Would Have Commuted Manning If Manning Wasn’t Transitioning - Breitbart
+7811,1,Meet Judith Clark, the Domestic Terrorist Granted Clemency by Gov. Andrew Cuomo - Breitbart
+8167,3,Chris Christie Commutes Sentence for USMC War Vet Charged over Legally Owned Gun - Breitbart
+9230,2,Study: Losing Your Smartphone Is Nearly as Stressful as a Terrorist Threat - Breitbart
+9307,1,Google Adds Jobs Section to Search Engine, Including Employer Ratings - Breitbart
+9364,1,Goya Drops Puerto Rican Day Parade Celebrating Terrorist Freed by Obama
+9520,2,Chelsea Manning to Remain on Active Duty, Receive Free Health Care after Release - Breitbart
+9595,1,Republican Backed Jerry Brown’s Gas Tax for $400 Million Pork Project - Breitbart
+9695,1,Donald Trump Backslides on Campaign Promise To Curb Legal Immigration - Breitbart
+9713,2,Obama Commutes Life Sentences of Four Mexican Cartel Leaders
+9916,3,Bomb Scare Brings Chaos to the Heart of Hollywood, Sets Off Commuter Nightmare - Breitbart
+9961,1,Nuclear Option: The Speech-Democrats Reveal Contempt for Military During Trump Address - Breitbart
+9979,2,Dem Sen Manchin: Manning Commutation ’Dead Wrong,’ Gives ’Green Light’ to Hacking - Breitbart
+10016,1,Report: San Francisco Considers Crackdown on Uber and Lyft, Demands Company Data - Breitbart
+10062,3,NYPD, More Sponsors Drop Out of Puerto Rican Day Parade for Honoring Terrorist Freed by Obama
+10069,1,Speaker Ryan’s Pending Choice: Raise Voters’ Wages or Raise Companies’ Revenues - Breitbart
+10089,1,GOP Rep Introduces Bill Protecting Gun Rights of Military Families - Breitbart
+10166,1,Uber Hires NASA Engineer for VTOL ’Flying Car’ Project - Breitbart
+10211,1,Shocked Stockholm Eerily Silent After Truck ’Terror Attack’
+10755,1,Attorney General Jeff Sessions Reforming Obama’s Lax Policies on Crime, Drug Trafficking - Breitbart
+10805,9,How Federal Agencies Keep Americans in the Dark About Crime Statistics
+10815,1,Donald Trump Inauguration 2017: Live Updates, Day One - Breitbart
+11072,1,Convicted Terrorist Oscar López Rivera Booed at NYC Puerto Rican Day Parade
+11246,2,Silicon Valley Techies Complain About ’Scraping By’ on Six-Figure Salaries - Breitbart
+11313,1,Can Trump Help California Dodge Jerry Brown’s Bullet Train? - Breitbart
+11322,1,GABRIEL: The War on Girls - Breitbart
+11462,1,Whatever It Takes: Allen West Tells Curt Schilling America Must Stand Up for Warriors, Veterans - Breitbart
+11901,2,Chicago Moving to Name Street After FALN Terrorist Oscar Lopez Rivera - Breitbart
+12213,1,Jane Fonda ’Grace and Frankie’ Vibrator Billboard Turning Heads in Hollywood
+12279,3,Tancredo – Memo to President Trump: Two Border Patrol Patriots Still Awaiting Justice - Breitbart
+12636,2,FBI: Major Cities Hit by 21.6 Percent Spike in Murders - Breitbart
+12873,1,Chelsea Manning Thanks Obama in First Post-Release Interview: ’I’ve Been Given a Chance’ - Breitbart
+12951,2,Speculation Over Possible Obama Pardon of Edward Snowden, Bowe Bergdahl and Chelsea Manning - Breitbart
+12977,2,Menendez: ’Not Sure’ What Message Is Sent Commuting Manning While Raising Concern About WikiLeaks and Election - Breitbart
+12999,1,Three Arrested for Starting Massive Fire on Atlanta Interstate Bridge
+13145,1,Swedish Woman of the Year Runner-Up Advocates Banning Men from Television
+13375,1,It’s Official: Los Angeles Traffic is the World’s Worst
+13666,2,Bill Ayers ‘Dancing in the Aisles’ Over Obama’s Pardon of FALN Member Oscar López Rivera
+13730,1,POLLAK: Conservative Unity and the Unfinished Business of the 2016 Election - Breitbart
+14133,3,Obama Frees Chelsea Manning and 273 More Criminals - Breitbart
+14362,1,Man With ’Explosives Belt’ Shot By Brussels Police, Explosions at Central Station
+14549,1,BART Sued over Urine- and Feces-Covered Elevators - Breitbart
+14752,1,Surprise: Bay Area Restaurants Disappear After Minimum Wage Hike
+14821,1,Anti-Terror Police Simulate Thames Tourist Boat Hijacking
+14968,1,Donald Trump’s Ag Secretary Pushes for Illegal Immigrants, Not Robots - Breitbart
+15311,3,California DMV to Allow Self-driving Tests Without Stand-by Drivers - Breitbart
+15341,2,Tapper: Obama Contradicting Eight Years of Going After Leakers to Commute Manning’s Sentence - Breitbart
+15571,5,Obama Frees 111 More Drug Offenders - Breitbart
+15664,2,**LIVE UPDATES** Massive Winter Storm Hits East Coast - Breitbart
+16413,1,London Police Explode Suspicious Car Outside Israel Embassy - Breitbart
+16685,1,’Brady Bunch’ Matriarch Florence Henderson Dead at 82 - Breitbart
+17385,1,UberPassport: Ride Share Offers One-Way Rides Across Border to Mexico - Breitbart
+17789,1,Massive, Sudden Rent Increases Hit San Francisco - Breitbart
+17938,7,Obama Commutes More Drug Traffickers’ Sentences Amid Heroin Epidemic, Crime Spike - Breitbart
+18606,1,They Don’t Make Russians Like They Used to (for Democrats, at Least) - Breitbart
+18736,3,**LiveWire**​ Assorted Activists Gather in Manhattan for Day of Protests - Breitbart
+18802,1,Howie Carr: 25 More Things You Don’t Know About Hillary Clinton! - Breitbart
+19237,1,Italian High Court Rules Public Masturbation Not a Crime
+19586,1,Breitbart Remembers 9/11
+20414,1,’Kill More Cops’ Graffiti Mural Appears on Major L.A. Freeway
+21298,4,Obama Announces 214 More Sentence Commutations
+21327,2,White House: Obama ’Hopeful’ Trump Will Not Prosecute Hillary Clinton for Political Revenge - Breitbart
+22484,1,’Gender-Equal Snow Ploughing’ Plunges Stockholm into Chaos
+23284,1,Brexit: Britain Votes To Leave EU, PM Cameron Resigns - Breitbart
+23676,1,Flash Flooding and Torrential Rain May Dampen Turnout in Pro-Remain London
+23911,1,Hugo Awards Swept by Anti-SJW Authors — Again!
+24196,1,A ‘Monster’ — Trump’s Immigration Speech Sparks Fear And Loathing In The Clinton Campaign - Breitbart
+24509,1,Brussels Attack Eyewitness Steven Wolfe: Ordinary People in Belgium Died Due to ’Arrogance’ of European Elites
+24664,120,Again: Obama Commutes 57 More Drug Offender Sentences - Breitbart
+24794,1,Jerry Brown Grants Another 112 Pardons for Christmas - Breitbart
+25008,1,Explosions Hit Brussels Airport, One Killed - Belgian Media
+25865,1,Geert Wilders For Breitbart: ’We Ain’t Seen Nothing Yet’
+26232,1,Reuters: Working Class Democrats from Famous Rust Belt Town Rally Behind Trump’s Populist Message
+26451,4,***Horse Race LiveWire*** Brooklyn Brawlers: Sanders, Clinton Square Off in NY Debate - Breitbart
+27432,10,Serious Train Crash at Hoboken, New Jersey Terminal - Breitbart
+27554,1,CAPITULATION: UC Irvine Permanently Reinstates College Republicans Following Breitbart Coverage - Breitbart
+27825,1,200 Evacuated from Amtrak in Armed Standoff - Breitbart
+28318,132,Obama Commutes 61 More Drug Offenders Sentences — More Than Previous Six Presidents Combined - Breitbart
+28815,1,Zimbabwe: Thousands Storm Capital Demanding Robert Mugabe Resign
+30540,1,McAuliffe Gives 60,000 Felons Voting Rights in Swing State Virginia - Breitbart
+30546,1,Unlivable: Exodus from California Increases Due to Cost of Living - Breitbart
+30815,3,Snoop Dogg Unloads on Arnold Schwarzenegger: ’Punk Motherf—er, Racist Piece of S—t’ - Breitbart
+31647,1,Trump: Chicago mayor should ask feds to help combat homicides
+31700,1,Winter storm will bring snow to South
+31731,1,South hunkers down for winter storm
+31820,2,Another storm brings snow and rain to the West
+31970,1,Obama’s ’arc’ on race relations
+31985,8,WikiLeaks celebrates Chelsea Manning’s commutation
+31988,7,Obama commutes sentence of Chelsea Manning
+32004,4,Obama cuts sentences of hundreds of drug offenders
+32011,5,44 ways to judge the Obama era
+32014,5,Obama commutes Puerto Rican nationalist’s sentence
+32021,5,Obama’s parting words: ’We’re going to be OK’
+32136,1,Trump White House: Day 4
+32175,1,Nor’easter hits Northeast with winds, flooding
+32742,1,Raccoon stuck on garbage truck reminds us, ’Hang in there’
+32760,1,American Politician Plane Fatalities Fast Facts
+32877,1,What is VX nerve agent, and what could North Korea do with it?
+33045,1,CNN 10 - March 2, 2017
+33138,4,Spain Train Bombings Fast Facts
+33216,2,WikiLeaks Fast Facts
+33306,1,Meet Hello Kitty’s beer swilling, heavy metal-loving angry sister
+33322,1,Northeast braces for blizzard
+33339,3,Nor’easter moving north as blizzard warning remains in some areas
+33349,1,Dutch elections: Wilders’ far-right party beaten, early results show
+33480,2,London after attack: Shocked then enraged
+33616,2,Fire causes section of I-85 in Atlanta to collapse
+33649,1,I-85 collapse: Three arrested after major fire under highway
+33676,1,Elon Musk changing the rules of space travel
+33685,1,I-85 collapse: Bond set at $200,000 for arson suspect in Atlanta highway fire
+33835,2,Barack Obama’s evolution in 10 years of hip-hop lyrics
+33876,1,China’s deadly secret: More executions than all other countries put together (Opinion)
+33915,1,North Korea may be able to arm missiles with sarin, Japan PM says
+33916,3,Why do these failed paradises exist in Hong Kong?
+33971,1,Court blocks Arkansas from using lethal injection drug
+33994,1,Federal judge issues injunction to block Arkansas executions
+34133,1,San Francisco gets power back
+34194,1,CIA Leak Fast Facts
+34288,1,Detained Americans Fast Facts
+34451,1,Jail for laughing protester is an outrage
+34549,3,Chelsea Manning set for release next week
+34610,3,Death Penalty Fast Facts
+34671,1,Baby on Board badge not just for cars in NY
+34676,1,Nancy Pelosi: Trump sharing classified info would be ’very, very damaging’
+34779,2,Rene Lima-Marin pardoned, still held by ICE
+34808,1,How to cripple a presidency in 10 days
+34953,1,FBI joins Portland stabbings investigation
+34991,1,Raul Castro Fast Facts
+35018,1,These three men stood up to hate in Portland
+35048,2,Portland mayor asks feds to stop ’alt-right’ rallies
+35058,1,Here’s what you need to know today
+35074,1,Afghanistan explosion: Blast kills 90 near diplomatic area
+35075,1,Portland train suspect: ’I hope everyone I stabbed died’
+35083,1,Portland attack survivor urges support for ’those little girls’
+35090,1,CNN 10 - June 1, 2017
+35186,2,The many extremes of Portland collide in protest
+35205,1,In the pouring rain, Londoners pay tribute to attack victims
+35341,1,Anti-Sharia groups, counterprotesters clash
+35565,1,How hot is it in the West? Let us count the ways
+35892,2,Police in UK arrest 3 after racist outburst on tram
+35939,1,Naked man in Times Square takes over morning rush hour
+35983,1,Michelle Obama: Let girls learn
+36286,1,Aleppo doctors saving lives around the clock
+36463,2,Governor rejects parole for ex-Manson family member
+36580,1,Apocalypse housing: Life in bomb shelters
+36741,1,’Suicide Squad’ fumbles DC’s latest comics-to-screen mission
+36770,1,Video purportedly showing US payment to Iran emerges
+37128,1,New Jersey double bus crash leaves 2 dead
+37193,23,A long commute is bad for your health and waist
+37275,2,Biden announces $2.45 billion federal loan to Amtrak
+37437,3,From a life sentence to clemency from Obama
+37823,1,Bombings suspect: An ordinary American terrorist
+38008,1,D.C. Area Sniper Fast Facts
+38018,1,Opinion: A Chicago (tough) love letter
+38061,5,Hoboken train crash: 1 dead, more than 100 injured
+38066,2,New Jersey train crash: A visual timeline
+38089,4,Hoboken train crash: Event recorder recovered
+38107,2,California cops buy walk-to-work teen a bike
+38171,1,New RNC ad attacking Kaine sparks controversy
+38363,1,Michelle Obama: This issue is personal for me
+38387,1,Thai King’s funeral procession arrives at the Grand Palace
+38461,1,Hoboken Terminal to return to full service after train crash
+38702,4,New Yorkers volunteer to accompany commuters
+39420,2,Football star-turned-addict gets second chance
+39441,1,2016 In Review Fast Facts
+39515,1,Frigid air, ice sweep nation, causing deadly road conditions
+39540,4,Obama grants clemency to 231 individuals, largest single day act
+39841,1,The 7 coolest things at CES 2015
+39857,1,Rise of the female jihadists (Opinion)
+40003,1,Fitness expert Greg Plitt dies
+40046,1,Palestinian man stabs Tel Aviv bus driver, passengers
+40127,1,Chinese court puts up ’wall of shame’ for overdue fines
+40141,2,Monster snowstorm expected to slam into the Northeast
+40205,1,Boston finish line: Three photos, one mystery
+40271,1,Winter storm cancels more than 2,000 flights
+40374,1,It’s snow time again in Boston
+40404,1,Southern, Midwest U.S. face mix of snow, ice and sleet
+40407,1,Denmark suspect swore fidelity to ISIS leader
+40451,1,Meet the ’rat tribe’ living in Beijing underground city
+40687,1,Minister Creflo Dollar asks for $60 million for a jet
+40940,2,Question about Mike Brown leads to beating in St. Louis
+40961,1,21 hurt as car, train collide in Los Angeles
+41168,12,Why your commute is bad for you
+41227,1,Imagining Daddy: A rig worker’s daughter and her dreams
+41255,1,The day a president died
+41428,1,Creflo Dollar: The devil is trying to discredit me
+41461,1,Homeless Washington D.C. man works at Capitol, protests wages
+41508,1,Do marijuana prisoners deserve amnesty? (Opinion)
+41633,1,Conductor: Amtrak train may have been hit by something
+41773,1,Why was I spared from Amtrak train 188’s crash?
+41884,2,Indian summer: What’s behind heat and when will it end?
+41951,1,Tragedy haunts Joe Biden once again
+41964,1,Today we are all Bidens
+42007,1,Spaceports and sky farms: Is this Britain in 2100?
+42698,1,Diana Douglas Webster, mother of Michael Douglas, dies
+42815,10,President Barack Obama commutes sentences of 46 drug offenders
+42856,1,’Trainwreck’ film review
+42988,1,The golden age of terrorism
+43237,4,9 former leaders write open letter urging Obama to commute sentences of more low-level drug offenders
+43271,1,Ford’s CEO reveals his plan for the company’s biggest transformation in history
+43294,2,Obama commutes WikiLeaks whistleblower Chelsea Manning’s sentence — she’ll be free in 5 months
+43297,3,Top Republicans blast Obama’s decision to commute Chelsea Manning’s sentence
+43307,2,’I feel that justice has been served’: Obama defends commuting Chelsea Manning’s sentence in final press conference
+43315,1,Lyft’s CEO has a simple plan that he claims could make traffic disappear in just 5 years
+44058,1,We went to Starbucks every day for a week to see how the coffee giant is dealing with its biggest problem
+44509,1,Starbucks is entering a new era — and 4 jokes reveal the biggest problems haunting its business
+45056,2,Self-driving cars could be terrible for traffic — here’s why
+45160,1,175 CEOs and senior execs of the US’s biggest companies have signed a pledge committing them to diversity goals
+45196,1,BANK OF AMERICA: We’ve reached ’peak car’
+45264,1,The South is bracing itself for more ’ugly’ flooding
+45364,1,Here are some of the most bizarre things flight attendants have seen in their line of duty
+45399,1,London rent is now so high it’s almost impossible for young Britons to save for a home
+45540,1,NJ Gov. Chris Christie declares a state of emergency ahead of major winter storm
+45560,1,The East Coast is digging out from an epic blizzard — here’s what you need to know about getting around
+45588,1,Snow shovels, plowing, and road salt could soon become a thing of the past
+45836,3,Subway crowding has an easy solution most countries have figured out by now
+45840,2,Freezing rain cancelled more than 700 flights and could make morning commutes ’tricky’ for East Coast
+45963,1,This McDonald’s secret menu item that’s unlike anything we’ve ever seen is going public
+46179,1,These are the best raincoats right now
+46229,1,The heartbreaking story of the man who asked Hillary Clinton a ’profoundly difficult question’
+46263,1,When I lost the ability to eat solid food, I tried Soylent — now I’m a believer
+46406,1,This is why public transportation in the US is crumbling
+46768,1,If you don’t think this man can get Donald Trump elected, you should reconsider
+46977,1,Trains in and out of New York City’s Grand Central Terminal suspended after fire
+47095,1,This ’straddling bus’ could be the future of China’s public transportation
+47171,1,This $2.8 billion startup serves breakfast at exactly 9:06 a.m. every day because of programmers’ bad habits
+47216,1,This 24-year-old skipped the chance to be the first in his family to go to college — now he’s raised $30 million to help everyone sleep better
+47283,3,Why Detroit has one of America’s worst public transportation systems
+47368,1,New York’s governor keeps pushing ahead with one of the worst transit ideas in America
+47419,5,EU REFERENDUM LIVE: MASSIVE FLOODS DISRUPT VOTING AND CAUSE TRAVEL CHAOS
+48066,1,Donald Trump has debuted a new ’world of charts,’ so we looked at how honest they are
+48193,1,I’ve used a meditation app loved by Wall Streeters and Olympic athletes daily for the past 8 months, and now I can’t imagine my life without it
+48511,1,An NYPD officer was attacked by a man with a meat cleaver
+48658,3,Here’s what Hillary Clinton and Donald Trump think about criminal justice
+48706,1,Brothers share what it was like quitting their corporate jobs to sell ties on the beach and cofound Vineyard Vines, a company worth nearly $1 billion
+48721,1,Brothers share what it was like quitting their corporate jobs to sell ties on the beach and cofound Vineyard Vines, a company worth nearly $1 billion
+48727,1,The era of cheap gas in New Jersey is over
+49010,1,Tesla just made it a lot harder to justify buying the Chevy Bolt
+49016,9,Obama is trying to fix the ’war on drugs’ with clemency — but it won’t make a dent in mass incarceration
+49057,1,What psychology actually says about the tragically social-media obsessed society in ’Black Mirror’
+49123,1,Brothers share what it was like quitting their corporate jobs to sell ties on the beach and cofound Vineyard Vines, a company worth nearly $1 billion
+49342,2,How New York’s capital avoided becoming ’a flaming city’ after police killed a mentally ill, unarmed black man
+49652,1,The man who invented the first self-driving motorcycle is leading Uber into the future
+49715,1,One of the biggest VC’s in Silicon Valley explains how basic income could fail in America
+49730,1,Obama just issued the largest number of individual clemencies in a single day
+49982,1,The Gaps in New York’s Free-College Plan

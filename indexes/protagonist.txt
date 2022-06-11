@@ -1,0 +1,101 @@
+123,1,Andrew Garfield, Spiritual Ghost in the Hollywood Machine - The New York Times
+151,1,What TV Says About Race and Money - The New York Times
+180,1,New David Bowie Video Arrives, Hours Before He Would Have Turned 70 - The New York Times
+314,1,Review: The First Concert at the New Elbphilharmonie in Germany - The New York Times
+415,1,Obama Understood the Power of Art. And He Wanted You to Get It, Too. - The New York Times
+522,1,Reading the Classic Novel That Predicted Trump - The New York Times
+575,1,At New York City Ballet, Lacing Up Their Sneakers to Unite - The New York Times
+667,1,Hugs and Hard Labor on an Indiana Farm - The New York Times
+685,1,Serena Williams Beats Venus Williams to Win Her 7th Australian Open Title - The New York Times
+768,1,25 Great Books by Refugees in America - The New York Times
+930,1,Turning the Tide Against Cholera - The New York Times
+1018,1,Taylor Sheridan on His Oscar-Nominated Screenplay for ‘Hell or High Water’ - The New York Times
+1087,1,Top Wall Street Journal Editor Defends Trump Coverage - The New York Times
+1187,1,Review: On ‘The Good Fight,’ a Lawyer Claws Her Way Back to Normal - The New York Times
+1360,1,Andy Weir’s Best Seller ‘The Martian’ Gets a Classroom-Friendly Makeover - The New York Times
+1477,1,Sergey Kislyak, Russian Envoy, Cultivated Powerful Network in U.S. - The New York Times
+1608,1,Global Migration Meets Magic in Mohsin Hamid’s Timely Novel - The New York Times
+2506,1,How to Write TV in the Age of Trump: Showrunners Reveal All - The New York Times
+2586,1,You Don’t Like the Girls in ‘Girls’? That’s Its Genius. - The New York Times
+2640,1,Review: In Don DeLillo’s ‘Zero K,’ Daring to Outwit Death - The New York Times
+2815,1,‘Veep’ Season 5, Episode 6: The Affront - The New York Times
+3299,1,Was She a Feminist? The Complicated Legacy of Helen Gurley Brown. - The New York Times
+3772,1,Gene Wilder Dies at 83 Star of ‘Willy Wonka’ and ‘Young Frankenstein’ - The New York Times
+3969,1,How Two Producers of ‘Transparent’ Made Their Own Trans Lives More Visible - The New York Times
+3975,1,Man Booker Prize Shortlist Is Announced - The New York Times
+3977,1,Emily Blunt Rides the Unnerving Rails of Addiction in ‘The Girl on the Train’ - The New York Times
+4008,1,At BlackRock, a Wall Street Rock Star’s $5 Trillion Comeback - The New York Times
+4215,1,Who Is Elena Ferrante? Supporters Say NOYB - The New York Times
+4269,2,Awkward Sex, Onscreen and Off - The New York Times
+4619,1,Talking About Sex and ‘The Affair’ With Dominic West - The New York Times
+4769,1,Trump, a Free-Form Leader, Experiments and Invites Drama - The New York Times
+4778,1,Another Mass Grave Dug by ISIS in Iraq, and a Ghastly Ritual Renewed - The New York Times
+4806,1,Katie Holmes Talks About Directing, Motherhood and Mistakes - The New York Times
+4895,1,A Casualty of ‘The Birth of a Nation’ Controversy Speaks Out - The New York Times
+4912,1,An Alt-Right Makeover Shrouds the Swastikas - The New York Times
+4947,1,Afrofuturism: The Next Generation - The New York Times
+4966,1,The Best Dance of 2016 - The New York Times
+5045,1,Trump’s and Xi’s Differences Magnify Uncertainties Between U.S. and China - The New York Times
+5356,1,Scapegoat or Spy? Vatican Consultant Commands Attention at Leaks Trial - The New York Times
+5807,1,Gene Wilder’s Understated Nuttiness - The New York Times
+5846,1,Cinema Is Dead? Telluride Says Not Yet - The New York Times
+5968,1,Clinton-Trump Debate Expected to Be Rare Draw in a Polarized Age - The New York Times
+6014,1,Reader’s Guide to This Fall’s Big Book Awards - The New York Times
+6125,1,Media’s Odd Couple: Proudly Freewheeling HBO and Buttoned-Up AT&ampT - The New York Times
+6441,1,Aleppo, Berlin, Russia: Your Morning Briefing - The New York Times
+6612,1,Bill Simmons Prepares to Stand Up to Sports Incorporated - The New York Times
+7057,1,A Latina Disney Movie Princess? The Wait Isn’t Over - The New York Times
+7092,1,The Best TV Shows of 2016 - The New York Times
+7100,1,The Best Movies of 2016 - The New York Times
+7341,1,Edward Snowden’s Long, Strange Journey to Hollywood - The New York Times
+9510,1,’Mass Effect: Andromeda’ Review: This Awful Game Should Have Been Left Lost in Space - Breitbart
+9585,1,’Resident Evil 7’ Review: A Thrilling, Terrifying New Direction for the Classic Horror Series - Breitbart
+10115,1,’Far Cry 5’ Official Announce Trailer - Breitbart
+11083,1,BET: Katy Perry Latest ‘White Pop Act’ to Appropriate ‘Black Urban Culture’
+11200,2,’Apocalypse Now’ Game Director: We’re Making a Game for ’The 45 Other States’ Hollywood Doesn’t Care About - Breitbart
+11441,1,Ubisoft Surprises with ’Mario’ Crossover Title at E3 Press Conference - Breitbart
+11738,1,Pope Francis Warns Against Judging Trump Too Hastily
+11804,1,Vatican Expresses Concerns Over ‘Spread of Nationalism, Populism’
+12317,1,’Jane Roe’ of Roe v. Wade Abortion Decision Dies in Texas Facility
+13108,1,Moby Music Video Blows Up Cartoon Nazi Trump - Breitbart
+13534,1,Bethesda Pushes VR Support at E3, Raises Concerns About Possible Return of ’Paid Mods’ - Breitbart
+14798,1,Virgil: The Battle Between Donald Trump and John McCain
+14854,2,Sony Lets Exclusives and Gameplay Speak for Themselves at E3 - Breitbart
+15117,1,Leftist Rage Unleashed Against ’The Last Night’ Creator During E3 Gaming Expo - Breitbart
+16496,2,SPOILER: New Anthony Weiner Documentary Backed By George Soros - Breitbart
+19862,4,’Fire Emblem: Fates’ Edited for Western Release over Accusations of ’Gay Conversion’ Subplot - Breitbart
+22607,1,MILO Goes American Psycho: Smashes ’Twitter Coffin’ With An AXE! - Breitbart
+23639,2,’The Technomancer’ Review: A Disappointing Step Backwards - Breitbart
+25932,1,’Gears of War 4’ - Gameplay Launch Trailer - Breitbart
+26005,2,’Deus Ex: Mankind Divided’ Review: A Brilliant, Mature RPG That Pulls No Punches - Breitbart
+27074,2,’Watch Dogs 2’ Review: A Competent but Cringeworthy Open-World Adventure - Breitbart
+27413,1,Farage: Clinton Has ’Lost The Plot’ By Claiming UKIP Funded By Russia
+29145,2,’Dishonored 2’ Review: Still One of the Best Games of the Year Despite Falling Short of the Original - Breitbart
+29255,2,Developer Responds to Controversy over ’Rust’ Assigning Permanent Random Race and Gender to Players - Breitbart
+31561,1,Fans Petition Marvel for Gay Captain America - Breitbart
+31747,1,A failure to see the obvious
+33620,1,US signals possible shift on Assad
+34227,1,John F. Kennedy’s diary sells for over $700k
+34300,1,How ’Thelma’ still drives Geena Davis
+35150,2, If Wonder Woman can’t win, how can the rest of us?
+35864,1,Vladimir Putin: Is this one sporting contest he can’t win?
+38756,1,Gown of salt crystals rises from Dead Sea
+38872,3,Does the perfect boyfriend live inside your phone?
+38936,1,What ’Moana’ gets right
+39564,1,Fantasy worlds that will make you squirm
+39777,1,Luise Rainer, back-to-back Oscar winner, dead at 104
+40835,1,’Pretty Woman’ at 25: Misunderstood feminist classic?
+41689,1,David Lynch back on ’Twin Peaks’ after salary standoff
+41691,1,’Mad Men’ creator: No, Don isn’t D.B. Cooper
+45146,1,Delta pulled its sponsorship of a Shakespeare play that showed a Trump-like figure getting stabbed
+45853,1,ANALYST: Saudi Arabia is using the Frank Underwood playbook
+45871,1,’The Ultra Rich Asian Girls of Vancouver’ help explain why China has a unique 1% problem
+47003,1,Here’s the trailer for ’Equity,’ the new movie about a badass female banker
+49721,2,’The Big Short’ author Michael Lewis tells us what scares him most about Trump and Wall Street — and why his new book is ’a love story without the sex’
+49865,1,Why the Technology in ’Rogue One’ Is So Old-Fashioned
+49868,2,27 Movies to Look Forward to in 2017
+49890,1,Hedge-Fund Managers With Flashy Sports Cars Make Worse Investors
+49897,1,Opening Paragraphs Don’t Always Have to Be Exciting
+49915,1,Silence Is Easier to Admire Than to Love
+49945,1,The Mystery of  Sherlock’s New Antagonist
+49962,1,What Sets the Smart Heroines of Hidden Figures Apart

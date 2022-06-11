@@ -1,0 +1,229 @@
+65,1,My Canada - The New York Times
+219,1,A Gut Makeover for the New Year - The New York Times
+319,1,Meet Julio Torres, the New ‘S.N.L.’ Star No One Sees - The New York Times
+329,1,In the Shopping Cart of a Food Stamp Household: Lots of Soda - The New York Times
+338,1,The ‘Impossible’ Veggie Burger: A Tech Industry Answer to the Big Mac - The New York Times
+407,2,Life on the Farm Draws Some French Tired of Urban Rat Race - The New York Times
+552,1,Donald Trump, ‘Brexit,’ Syria: Your Morning Briefing - The New York Times
+597,1,U.S. Team Wins Bocuse d’Or Competition for First Time - The New York Times
+657,2,Why Clam-Chowder Pizza Is the Best Kind - The New York Times
+713,1,A ‘Menagerie’ That Fulfills a London Dream - The New York Times
+731,1,Israel’s Hard-Liners Want to ‘Go Big’: Annex a Settlement - The New York Times
+844,1,New England Patriots, the Louvre: Your Friday Evening Briefing - The New York Times
+888,1,Spicing Up the Colombian Melting Pot - The New York Times
+900,1,Valentine’s Day Can Mean Savings for Travelers - The New York Times
+933,1,Split by ‘Brexit,’ May and Merkel Diverge on Wider Issues, Too - The New York Times
+985,2,Former Prime Minister Is Elected President of Struggling Somalia - The New York Times
+1073,1,A Long Way From Mexico: Company Bets China Has an Appetite for Taco Bell - The New York Times
+1086,1,Adele, Justin Trudeau, Trump: Your Monday Evening Briefing - The New York Times
+1134,1,South Korea’s Olympian Winter Moment - The New York Times
+1185,1,The Dirty Projectors Go Solo - The New York Times
+1294,2,The Businessman Behind Cool British Fashion Brands - The New York Times
+1318,1,Just 11 Miles Off Coast, California’s Galápagos - The New York Times
+1387,3,A Vegetable Tart, but Nothing Too Dainty - The New York Times
+1424,1,Looking for a Trump Doctrine in the White House Kitchen - The New York Times
+1441,1,As France’s Towns Wither, Fears of a Decline in ‘Frenchness’ - The New York Times
+1648,2,Indo-Chinese Food Is Hard to Find, Except in New Jersey - The New York Times
+1697,32,Two People Die after Eating Raw-Milk Cheese Made in New York State - The New York Times
+1716,1,Another Woman at the March Madness Mike? That Only Took 2 Decades - The New York Times
+1758,1,Snowed In? Here’s What to Cook, Watch, Listen To and More - The New York Times
+1788,1,How Egypt’s Activists Became ‘Generation Jail’ - The New York Times
+1852,2,What to Cook This Weekend - The New York Times
+1904,1,Beer on a Budget in San Diego - The New York Times
+1905,3,Celebrating Food and Wine in Bordeaux - The New York Times
+1908,1,Is Gascony the Most Delicious Corner of France? - The New York Times
+1910,2,The Verdant Food of Iran Entices at Persian New Year - The New York Times
+1921,1,In New York, Bringing Broadband to Everyone by 2018 - The New York Times
+1934,1,That’s Not the Burglar Growling. It’s His Stomach. - The New York Times
+1970,2,What Are the Best Snacks Before Bedtime? - The New York Times
+2070,1,Who Killed the Iceman? Clues Emerge in a Very Cold Case - The New York Times
+2218,1,Park Geun-hye’s Life in Jail: Cheap Meals and a Mattress on the Floor - The New York Times
+2285,1,Inviting the Easter Bunny to the Seder - The New York Times
+2311,1,Butter or Margarine? In Dunkin’ Donuts Lawsuit, Man Accepts No Substitutes - The New York Times
+2377,1,Tuscany Travel Tips From Massimo Ferragamo - The New York Times
+2506,1,How to Write TV in the Age of Trump: Showrunners Reveal All - The New York Times
+2617,1,In an Age of Privilege, Not Everyone Is in the Same Boat - The New York Times
+2647,1,Chaiwali, an Indian Restaurant That Feels Like Home - The New York Times
+2666,3,The Best Sandwich Ever - The New York Times
+2764,1,Just Add Salt: How to Make Bacon and Pancetta at Home - The New York Times
+2773,1,Revel in the Bounty of Spring, With a Feast From Yotam Ottolenghi - The New York Times
+2779,1,Beer Outdoors and Around the Clock - The New York Times
+2938,2,The Chinese Hackers in the Back Office - The New York Times
+2963,1,Weasels Are Built for the Hunt - The New York Times
+2976,1,Don’t Like Roller Coasters? The View From Earth Is Fine - The New York Times
+2977,1,Poultry Has a Pedigree at Le Coq Rico - The New York Times
+2985,1,F.D.A. Warns Whole Foods on Failure to Address Food Safety Problems - The New York Times
+2996,1,Defining, and Proclaiming, a New Black Power - The New York Times
+3036,1,Will Trump Swallow the G.O.P. Whole? - The New York Times
+3101,1,Bill Cunningham, Legendary Times Fashion Photographer, Dies at 87 - The New York Times
+3348,1,By Bulgaria’s Beautiful Black Sea - The New York Times
+3444,2,‘I Have No Choice but to Keep Looking’ - The New York Times
+3451,1,In France, a Recipe Squabble over Marseille Soap - The New York Times
+3532,1,3 Quick and Savory Recipes for Peak-of-the-Season Tomatoes - The New York Times
+3623,1,Mark Twain Found Inspiration in Germany (Though Not German) - The New York Times
+3684,1,Gord Downie, Frontman for the Tragically Hip, in His Final Act - The New York Times
+4051,1,How Bad Off Is Oil-Rich Venezuela? It’s Buying U.S. Oil - The New York Times
+4278,1,How U.S. Torture Left a Legacy of Damaged Minds - The New York Times
+4431,2,Want the ‘Real’ Brooklyn? Go Cheap - The New York Times
+4490,2,The Pecan Steps Off the Pie Plate - The New York Times
+4633,7,Cheesy Mashed Potatoes for the Soul - The New York Times
+4953,1,Donald Trump, Rex Tillerson, Aleppo: Your Morning Briefing - The New York Times
+5031,1,Mindful Eating as Way to Fight Bingeing - The New York Times
+5070,1,Is American Baking Really Limited to Fruitcake and Gingerbread? - The New York Times
+5122,10,Gentrification and Junk Food: Chopped-Cheese Edition - The New York Times
+5220,1,In Los Angeles, Ditching the Car for an Eco-Friendly Trip - The New York Times
+5336,2,Enthralled by Sicily, Again - The New York Times
+5421,1,Enough With the Gefilte Fish. I’ll Have Sushi. - The New York Times
+5502,1,Luck Runs Out for a Leader of ‘Brexit’ Campaign - The New York Times
+5551,1,Have the Dallas Police Improved? Depends on Whom You Ask - The New York Times
+5650,1,All Aboard the Nordic Express, at Agern - The New York Times
+5659,1,Social Circles Collide on a Dance Floor. Then a Brawl Ends in Death. - The New York Times
+5775,1,After Earthquake in Italy, ‘Half the Town No Longer Exists’ - The New York Times
+5819,1,As Donald Trump Calls for Wall on Mexican Border, Smugglers Dig Tunnels - The New York Times
+5849,1,The Same, Only Different: Designing a New Union Square Cafe - The New York Times
+6021,3,Carla Hall’s Southern Kitchen Likes It Hot, but Not Hellish - The New York Times
+6131,1,Should We Be Scared of Butter? - The New York Times
+6153,1,Hillary Clinton, Donald Trump, New Delhi: Your Tuesday Briefing - The New York Times
+6155,3,An ‘I Voted’ Sticker Can Get You Free Stuff, but It Shouldn’t - The New York Times
+6200,1,Martha’s Vineyard, Off-Season - The New York Times
+6229,1,Gems, Hidden in Plain Sight in Macedonia - The New York Times
+6242,2,An Airport Survival Guide - The New York Times
+6383,1,Donald Trump, Russia, Dylann Roof: Your Weekend Briefing - The New York Times
+6389,1,New Mothers Derailed by Drugs Find Support in New Hampshire Home - The New York Times
+6553,1,The (Very Lazy) Sunday Routine of Vanessa Bayer of ‘Saturday Night Live’ - The New York Times
+6562,1,At Momofuku Nishi, David Chang’s Magic Shows a Little Wear - The New York Times
+6677,1,Confused About Quinoa and Nutrition? So Are Other Americans - The New York Times
+6725,1,When Community-Supported Agriculture Is Not What It Seems - The New York Times
+6746,2,Five Sauces for the Modern Cook - The New York Times
+6986,2,Adventures in Upscale Brooklyn - The New York Times
+6987,2,For Helping Immigrants, Chobani’s Founder Draws Threats - The New York Times
+7026,1,In a Late-Night Move, Russia Arrests a Top Economic Official in a Bribery Case - The New York Times
+7098,3,The Year’s Best Baking Cookbooks: Radical Ideas, Classic Treats - The New York Times
+7111,1,How the Twinkie Made the Superrich Even Richer - The New York Times
+7173,1,How to Have a Dinner Party: Friends Not Required - The New York Times
+7244,1,What to Cook This Weekend - The New York Times
+7281,1,Regaining Chicken Salad’s Dignity, Any Time of Day - The New York Times
+7288,5,Tips to Reduce Food Waste - The New York Times
+7309,1,Donald Trump’s Diet: He’ll Have Fries With That - The New York Times
+7340,1,Turning Instagram Into a Radically Unfiltered Travel Guide - The New York Times
+7341,1,Edward Snowden’s Long, Strange Journey to Hollywood - The New York Times
+7409,2,A Grand Tour of Switzerland, Reluctant Son in Tow - The New York Times
+7420,2,Yes! Foods may fight acne - The New York Times
+7429,2,Clinton, Trump, Reno: Your Monday Evening Briefing - The New York Times
+7535,1,Arianna Huffington’s Sleep Revolution Starts at Home - The New York Times
+7626,1,Ahmad Rahami: Fixture in Family’s Business and, Lately, a ‘Completely Different Person’ - The New York Times
+7708,1,A Creamy, Sweet Tribute to Summer - The New York Times
+7729,1,David’s Ankles: How Imperfections Could Bring Down the World’s Most Perfect Statue - The New York Times
+8624,1,Was Hillary Clinton’s Nomination Legitimate? Six Reasons to Say No - Breitbart
+8870,1,Expert: Refugee ’Chain Migration’ Puts Foreign Labor First
+10574,1,Islamists from Across Europe Moving to UK for ’Freedom’ to Practice Radical Islam
+11245,1,Nanny State Health Warning: Burnt Toast Can Give You Cancer - Breitbart
+11559,1,Fyre Festival Organizers Slapped with $100 Million Fraud Lawsuit
+11710,1,Celebrities Freak Out Over DeVos Confirmation
+13564,1,Maher: Trump’s Tax Plan Proves ’Mental Illness Is Sad’ - Breitbart
+14968,1,Donald Trump’s Ag Secretary Pushes for Illegal Immigrants, Not Robots - Breitbart
+15010,1,Peter Sallis, Voice of ’Wallace and Gromit,’ Dead at 96 - Breitbart
+15782,1,Ann Coulter Lights Wisconsin on Fire for Paul Nehlen, Not Ryan
+15870,1,’Minecraft’ Creator Declares Support for #FreeMilo - Breitbart
+15905,1,***Horse Race LiveWire*** Cruz to Address CO GOP Convention Trump Clashes with Anti-Trump WI Radio Host - Breitbart
+16545,1,Geert Wilders: Let’s Dump Turkey
+17509,1,Cruz on Trump: ‘Whine Is Something Best Served with Cheese’ - Breitbart
+17533,2,***Horse Race LiveWire*** 2 Days to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+18792,1,Kristol: Trump Knows Deep in His Heart He Shouldn’t Be President - Breitbart
+18986,2,Ted Cruz: ‘Environmental Policies’ Kill Jobs for ‘3-In Bait Fish’
+19274,1,FULL TEXT: Milo’s Annie Taylor Award Acceptance Speech At David Horowitz’s Restoration Weekend - Breitbart
+19709,1,Popular Pages Revolt Against Facebook’s Arbitrary Censorship - Breitbart
+19767,1,Fox Faces Its Uncertain Future: The Minor Murdochs Take Command - Breitbart
+20265,1,John Allen: Global War on Christianity, ‘200 million Daily at Risk’ of Assault, Torture, Death - Breitbart
+20584,2,Donald Trump: ’Look at Our Borders, They’re Like Swiss Cheese’ - Breitbart
+21608,1,MILO Receives Annie Taylor Award For Courage At David Horowitz’s Restoration Weekend - Breitbart
+22141,1,Ted Cruz Defends Colorado ’Election’: ’65,000 Voted’ - Breitbart
+23094,1,WSJ: Only One in Five Millennials Has Ever Eaten a Big Mac
+23299,1,Forgotten History: How American Presidents from Washington to Lincoln Agree with Trump on Trade - Breitbart
+23674,1,No, JC Penney, Fat People Should Absolutely Hate Themselves - Breitbart
+23689,1,ABC’s Karl to Dem Sen Murphy: ’Why Are We Focusing on Things That Have Nothing to Do With the Massacres?’ - Breitbart
+24996,1,***Horse Race LiveWire*** GOP Candidates Debate in Houston - Breitbart
+25660,2,***Horse Race LiveWire*** Cruz, Sanders Leading in Wisconsin Poll - Breitbart
+26008,6,Paul Ryan Scrambles to Explain Trade Policy Effects on Workers
+26075,1,Backlash Follows Adblock Plus Decision to Display Its Own Ads - Breitbart
+26270,1,FULL TEXT: MILO on ’Master Baiters: The Leftists Keeping America’s Race War Alive’ - Breitbart
+26451,1,***Horse Race LiveWire*** Brooklyn Brawlers: Sanders, Clinton Square Off in NY Debate - Breitbart
+27255,1,Life Inside the Armed Oregon Standoff HQ: Guns, Food and a Baby
+27955,1,Robot-phobia: Paul Ryan Says Dairy industry Needs More Migrant Labor - Breitbart
+29273,1,Palin To #NeverTrump: ‘You’re Either With Us Or You’re Against Us’ - Breitbart
+30080,1,’West Wing’ Cast to Campaign for Hillary Clinton
+30103,1,Exclusive — Donald Trump: Ted Cruz Would Implement Obamatrade, ‘Will Vote for It Again’ After the Election - Breitbart
+30148,1,Rep. Mike Kelly: Donald Trump Has A Mandate to ’Implement Colossal Change’ - Breitbart
+31417,1,Paul Ryan Promises Endless Supply of Cheap Foreign Workers for Employers - Breitbart
+31717,2,CNN 10 - January 6, 2017
+31830,1,Twinkies, Palmer Candy join recall
+32342,1,Warren jokingly wagers DeVos vote on Patriots
+32508,1,Binge-watch, facepalm added to Merriam-Webster’s dictionary
+32618,1,At Mar-a-Lago, Trump tackles crisis diplomacy at close range
+32706,1,’Day Without Immigrants’ shuts down businesses
+32875,4,Cheesemaker Sargento cuts supplier after product recall
+33238,12,FDA investigating after two deaths linked to listeria in cheese
+33368,2,20,000 lbs of frozen pizza recalled over listeria fears
+33749,1,Masters 2017: All you need to know about Augusta
+34013,1,Start your Monday smart
+34039,3,10 of the world’s best fresh markets
+34204,1,Controversial paper says saturated fat won’t clog arteries
+34268,1,When a $12,000 luxury festival in a Caribbean paradise turns into chaos
+34344,1,Ja Rule still fried over Fyre -- and now sued
+34648,1,Kamau Bell: Standing Rock changed how I see America
+35142,1,Tommy Franks Fast Facts
+35180,16,Listeria Fast Facts
+35916,1,Make UK the 51st state
+36444,1,Unconventional: An outsider’s look at the RNC
+37211,1,Amatrice: The town at the epicenter of the Italian earthquake
+38011,1,Washington mall shooting: Victims were aged 16 to 95
+38505,3,Debate coach: Trump’s strategy mistakes too serious to overcome
+38786,2,Salmonella concern prompts cheese recall
+40013,1,Fighting death: At 75, nun’s soul still stirs for cause
+40033,1,Bubba Watson buys into baseball team
+40061,1,Best social media moments of the State of the Union
+40381,2,Is this a trial or a remake of ’Groundhog Day’?
+40563,2,Swarms you’ve never seen before
+40646,2,Osama bin Laden’s Afghan hideout: Rare look in photos
+40701,2,5 key issues for next Israeli prime minister
+40801,1,Sam Smith debuts new look after weight loss
+41026,1,Best and worst foods to eat when sick
+41388,1,The quickest weight loss habits to squeeze into a busy day
+41419,1,CDC: Blue Bell listeria outbreak dates back to 2010
+41484,1,BP spill: Cultivating demand for raw oysters from Gulf
+41622,1,Mother’s Day: Kids on #IWishMyMotherKnew
+42111,1,Metric America: Lincoln Chafee’s America
+42742,1,Subway’s Jared Fogle, from inspiration to suspicion
+42904,2,9 bizarre snacks to try for National Junk Food Day
+43179,1,McDonald’s killed one of its customers’ favorite things about eating there — and now Taco Bell is cashing in
+43214,1,This Mexican chain doesn’t want to be the ’sexy’ new Chipotle — and that’s why it’s winning
+43546,1,The prices for food and beer at the Super Bowl are flabbergasting
+43736,1,At least 5 people feared dead as plane crashes into major Melbourne retail centre
+43959,1,’Like a block of cheese with holes in it’ — How Mexican cartels will subvert and avoid Trump’s border wall
+44080,2,11 things people think are terrible for your diet that actually aren’t
+44168,1,The company that owns Olive Garden just placed a $780 million bet on a tiny restaurant chain
+44499,1,Here’s what’s behind the US-Canada dairy spat that has Chuck Schumer agreeing with Trump
+44531,1,Trump is taking aim at one of America’s closest allies — and he has bipartisan backing
+44572,1,Here’s what Fyre Festival attendees thought they were getting when they bought $12,000 tickets — and here’s the nightmarish reality
+44586,1,Fyre Festival organizer says he was ’naive’ about the luxury event that became a nightmare  — but he’s still planning another one
+44618,1,Take a look at the failed Fyre Festival’s promotional pitch to investors
+44661,1,A lawyer is trying to get people to sue Fyre Festival with an incredible horror movie trailer about the doomed weekend
+44848,4,The worst tourist trap in every state
+45242,1,A pizza chain created by a former Starbucks exec should worry Pizza Hut and Domino’s
+45545,2,Aldi is fixing its biggest weakness, and that should terrify Whole Foods
+45684,2,Farmers are trying to turn Russia into an ’agricultural superpower’
+45716,1,This might be one of the most sensible, scientifically supported diets we’ve ever seen
+45963,1,This McDonald’s secret menu item that’s unlike anything we’ve ever seen is going public
+46350,1,A groundbreaking technology will soon let us see exactly what is in our food
+47283,1,Why Detroit has one of America’s worst public transportation systems
+47441,1,We tried Burger King’s new Mac n’ Cheetos — and they’re an ’affront to nature’
+47678,1,Fast food still includes an ingredient with no purpose and plenty of negatives
+47981,1,Fireworks, ancient ruins, and celebrities: Inside Larry Page and Sergey Brin’s exclusive conference in Italy
+48211,5,The US government is buying 11 million pounds of cheese because no one else will
+48271,1,4 dinner party treats you can put together with only 5 ingredients and 15 minutes
+48532,1,’A very unusual’ librarian donated his entire $4 million estate to his university upon his death — and it spent $1 million on a football scoreboard
+49093,1,I spent 2 hours with 12 undecided voters who hate Trump and Clinton — here’s what I learned
+49619,8,We ranked everything on the Chick-fil-A breakfast menu — and the best thing isn’t even the chicken
+49631,1,14 surprising things you didn’t know about Malaysia
+49811,2,I found the best fried chicken sandwiches of 2016
+49904,1,Bright Lights Captures the Magic of Carrie Fisher and Debbie Reynolds

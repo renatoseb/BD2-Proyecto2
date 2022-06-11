@@ -1,0 +1,431 @@
+155,1,Donald Trump, Golden Globes, Jerusalem: Your Monday Briefing - The New York Times
+157,1,Data Could Be the Next Tech Hot Button for Regulators - The New York Times
+256,2,Wintry Blast in Greece Imperils Refugees in Crowded Camps - The New York Times
+416,1,From Headline to Photograph, a Fake News Masterpiece - The New York Times
+423,1,Challenges Await Antonio Tajani, the European Parliament’s New President - The New York Times
+425,1,Germany’s Extreme Right Challenges Guilt Over Nazi Past  - The New York Times
+757,1,Trump Threatens Europe’s Stability, a Top Leader Warns - The New York Times
+1029,1,Japan Limited Immigration Now It’s Short of Workers - The New York Times
+1045,3,Losing Hope in U.S., Migrants Make Icy Crossing to Canada - The New York Times
+1102,3,Migrating North, but to Mexico, Not the U.S. - The New York Times
+1239,3,‘Last Night in Sweden’? Trump’s Remark Baffles a Nation - The New York Times
+1274,1,New Trump Deportation Rules Allow Far More Expulsions - The New York Times
+1302,1,Trump’s Immigration Policies Explained - The New York Times
+1347,1,Sweden, Nation of Open Arms, Debates Implications of Immigration - The New York Times
+1363,3,Fleeing U.S. for Asylum, and Handcuffed in Canada - The New York Times
+1479,1,Jeff Sessions, Snapchat, Palmyra: Your Thursday Evening Briefing - The New York Times
+1596,1,China, C.I.A., International Women’s Day: Your Morning Briefing - The New York Times
+1617,1,Kazakh Capital, a Post-Soviet Creation, Is Growing Real Roots - The New York Times
+1773,1,Geert Wilders, Donald Trump, Scotland: Your Wednesday Briefing - The New York Times
+1787,1,A Threat on Migration That May Prove to Be Empty - The New York Times
+1806,1,Dutch Vote Watched Across Europe With a Finger in the Wind - The New York Times
+1821,1,The Magician Who Wants to Break Magic - The New York Times
+1838,1,Justin Trudeau Brings Ivanka Trump to Broadway Show on Welcoming Outsiders - The New York Times
+1976,1,Erdogan Warns Europeans on Their Safety as Tensions Rise With West - The New York Times
+2146,1,Nikki Haley Calls United Nations Human Rights Council ‘So Corrupt’ - The New York Times
+2371,1,British Companies Must Reveal How They Pay Women vs. Men - The New York Times
+2442,1,Stockholm Suspect Was Denied Asylum and Told to Leave in ’16 - The New York Times
+2590,1,500 Migrants May Have Died in Sinking of Boat in Mediterranean, U.N. Says - The New York Times
+2778,1,Turkish Parliament Approves Stripping Lawmakers of Their Immunity - The New York Times
+3323,1,Can the G.O.P. Senate Majority Survive Donald Trump? - The New York Times
+3583,2,Aid and Attention Dwindling, Migrant Crisis Intensifies in Greece - The New York Times
+3633,12,Australia Will Close Detention Center on Manus Island, but Still Won’t Accept Asylum Seekers - The New York Times
+3871,1,Merkel Vows to Stay on Course Despite Party Setback - The New York Times
+3889,1,Donald Trump, Hillary Clinton, iPhone: Your Wednesday Evening Briefing - The New York Times
+3898,1,Camerawoman Who Kicked Refugees in Hungary Is Charged With ‘Breach of Peace’ - The New York Times
+3924,1,How to Become a C.E.O.? The Quickest Path Is a Winding One - The New York Times
+4584,1,Germany Bans ‘True Religion’ Muslim Group and Raids Mosques - The New York Times
+4623,1,High in Tower, Trump Reads, Tweets and Plans - The New York Times
+4659,1,The Passion of Martin Scorsese - The New York Times
+4871,3,What It’s Like to Apply for a Job in Donald Trump’s White House - The New York Times
+5017,2,E.U. Faces Its Next Big Test as France’s Election Looms - The New York Times
+5087,1,Anis Amri, Suspect in the Berlin Truck Attack: What We Know - The New York Times
+5214,1,Earthquake Leaves a Trail of Destruction in Ecuador - The New York Times
+5254,1,Indiana Economy Offers Caution and Inspiration as Primary Nears - The New York Times
+5350,1,Sharp Fall in U.S. Hiring Saps Chance of Fed Rate Increase in June - The New York Times
+5534,2,Jobs Roar Back With Gain of 287,000 in June, Easing Worry - The New York Times
+5843,3,‘I’ve Become a Racist’: Migrant Wave Unleashes Danish Tensions Over Identity - The New York Times
+5887,1,Angela Merkel’s Problems in Germany Could Challenge Europe, Too - The New York Times
+5915,1,After Years of War, Celebrities Find a Syrian Group to Back - The New York Times
+6122,1,Clinton, Mosul, Pirate Party: Your Monday Briefing - The New York Times
+6183,1,Fleeing Gangs, Central American Families Surge Toward U.S. - The New York Times
+6439,1,Deadly Berlin Christmas Market Episode Is Latest in Europe - The New York Times
+6563,2,Hiring Hurdle: Finding Workers Who Can Pass a Drug Test - The New York Times
+6605,1,Choosing a School for My Daughter in a Segregated City - The New York Times
+6789,1,Greek Villagers Rescued Migrants. Now They Are the Ones Suffering. - The New York Times
+6814,1,Clinton and Trump Campaigns Are Buzzing About the Race … for the Cabinet - The New York Times
+6952,1,Syrian, Feared to Be Planning Bombing, Is Arrested in Germany - The New York Times
+7040,1,Angela Merkel to Seek 4th Term as Germany’s Leader - The New York Times
+7061,1,At Home With the Macabre - The New York Times
+7078,1,Deluged Immigration Courts, Where Cases Stall for Years, Begin to Buckle - The New York Times
+7095,1,Angela Merkel Calls for Ban on Full-Face Veils in Germany - The New York Times
+7147,1,Germany Seeks Tunisian Tied to Berlin Christmas Market Attack - The New York Times
+7297,1,Nonprofit Work After Retirement? Maybe You Can Make It Pay - The New York Times
+7377,1,Greeks Appeal for Aid After Fire Damages Refugee Camp - The New York Times
+7588,1,A Young Syrian Torchbearer Highlights Brazil’s Embrace of Refugees - The New York Times
+7680,1,Aleppo, Donald Trump, Chennai: Your Tuesday Briefing - The New York Times
+7720,1,Illegal in Massachusetts: Asking Your Salary in a Job Interview - The New York Times
+7902,1,London Bridge Terror Ringleader May Have Plotted to Attack Wimbledon
+7926,1,Pakistan Home of London Terrorist Who Came to UK as Child Refugee Raided, Had Access to Tunnels Under Parliament
+7930,1,Iran Conducts ’Unsafe and Unprofessional’ Encounter With U.S. Ships
+7979,1,House Oversight Testimony: ’America Has Spoken-We Want the Wall Built Right Away’ - Breitbart
+8015,1,Austria Spearheads Balkan Frontier Defence Project
+8202,1,German Man Convicted for Attack on Migrant Home
+8322,2,Church Attendance Increases in Conservative Poland
+8488,5,UN Urges EU to Stop Sending Migrants to Hungary
+8494,2,Sweden to Give Prison Guard Internships To New Migrants
+9080,1,Migrants Who ’Fled War’ Use Welfare to Holiday in Homelands
+9211,2,Stockholm Attacker Was ’Rejected Asylum Seeker’: British Citizen Among Dead
+9255,1,Al-Nusra Linked Radical Islamists Raided in Germany and The UK
+9285,4,Migrant Crime and Violence Soars in German States - Breitbart
+9291,5,Merkel Warned Support Being ’Destroyed’ by Failure to Deport 500,000 Asylum Seekers
+9307,2,Google Adds Jobs Section to Search Engine, Including Employer Ratings - Breitbart
+9427,3,EU Gave Notre Dame Hammer Attack Jihadi Award For Writing Pro-Immigration Articles in Sweden
+9515,2,German Police Chief Claims Asylum Seekers Using Christian Conversion to Avoid Deportation
+9556,5,Red Cross Therapist Stabbed to Death by Syrian Asylum Seeker
+9579,1,WATCH: ’Kill Jews, Americans’ - Osama Bin Laden’s Son Calls for Global Terrorist Attacks
+9688,3,Brussels Trying to ’Pressure’ Hungary into Accepting Migrant Quotas, Relaxing Border Controls
+9779,3,Facebook Livestream Alleged Rapists to Be Prosecuted in Sweden
+9789,2,Undocumented Migrants To Be Made To Hand Over Mobile Phones
+9808,1,Swedish Journo: Sweden Will Collapse Without Illegal Migrants
+9836,1,Four Afghans Found Guilty of Raping Lost 16-Year-Old Girl Above Takeaway
+10042,1,9 in 10 Gang Rapists In Sweden Have Foreign Origins
+10086,1,Merkel Will Pay Migrants Millions To Leave Germany
+10096,1,Now the European Union Wants "Build A Wall" – With Russia
+10277,1,Adult Baptisms Skyrocket Due To Migrant Conversions
+10347,1,Family of Nine Asylum Seekers Accused of Gang-Rape Attack
+10413,1,Italians Rejoice as Soros Ally Mayor Awarded UN Prize for Welcoming Migrants Kicked Out of Office
+10550,1,Manhunt for Migrant Plotting Toxic Gas Attacks on Seaside Towns
+10684,1,UN Migration Agency Says People-Smugglers Making $35 Billion from Migrant Trade
+10770,9,Asylum Seeker Suicides On the Rise in Sweden
+10785,1,Shock Report: Migrants Become Less Integrated the Longer They Stay in Europe
+10855,1,Spotify Executive Confirmed as British Victim of Sweden Terror Attack - Breitbart
+10914,1,Dutch Court Convicts Asylum Seeker of Raping Woman
+11171,1,Austrian Populist Leader: Put Islamists on Prison Islands
+11413,2,Indian Call Centers Become Major Centers for Defrauding Americans - Breitbart
+11725,1,Germany’s Islamist Scene Growing: Security Chief
+11739,3,Assad: Some Syrian Migrants Are ’Definitely’ Terrorists
+11743,3,Italy Prepares for Possible Mediterranean Refugee Crisis This Summer
+11755,1,Trump Flips Liberals’ Script, Says New Border Policies Will Aid Americans and Mexicans - Breitbart
+11781,2,Germany to Fit Ankle Trackers to Suspected Jihadists
+11882,1,MARKO, SOON, ET AL: To Put America First Is to Put Our Planet’s Climate First - Breitbart
+11929,1,Lily Allen Lost a Twitter Row with Tommy Robinson, Threatens Legal Action
+11942,2,’Merkel’s Migrants’: Germany’s Rejected Asylum Seekers Flood Paris
+11982,1,Migrants Applying For Asylum in Australia from Middle East Camps Fail Security Checks
+12081,1,Half of German Women Feel Unsafe in Their Own Neighbourhoods
+12111,2,Migrant Stabs Christian Woman Because She Was Reading Bible
+12197,1,Entire German 2016 Budget Surplus Earmarked For Migrants
+12387,4,Police Report: Migrant Crime Drastically Increased in 2016
+12655,1,Swedish Anti-Mass Migration Party Score Record Polling Numbers
+12741,1,Abbott: Finsbury Park a ’Terror Attack’, But Westminster, Manchester, and London Bridge ’Incidents’
+12871,1,Wilders: Put Dutch First, Not ’Brussels, Africa and Asylum Seekers’
+13039,1,Top Uni’s Islamic Society Gave out Leaflets Urging Terror Against West - Breitbart
+13121,1,Goldman Sachs Tells Investors Marine Le Pen Could Be France’s Next President - Breitbart
+13145,1,Swedish Woman of the Year Runner-Up Advocates Banning Men from Television
+13170,3,Somali Asylum Seeker Accused of Killing Woman and Raping Disabled Elderly Men
+13174,6,Dutch Police Allegedly Bribe Newspaper to Bury Data on Criminal Asylum Seekers
+13186,1,Afghan Migrant Sexually Attacked 14 Women in Less than Six Months
+13249,3,German Regions Refuse To Deport Afghan Migrants
+13324,6,Eight Convictions in Asylum Seeker Gang Rape Case
+13448,1,Anger After Unvetted Migrants Hired To Walk Children To School
+13578,1,Asylum Claims on Grounds of Sexuality Jumps 450 Per Cent
+13589,3,German Police Accused of Covering up Child Rape in Asylum Home
+13658,1,Climate Skeptics Welcome Open Debate Under Trump Presidency
+13725,3,Mayor Reported to Police for Telling ‘Criminal’ Migrants to Stay In
+13832,4,90 Per Cent of Asylum Seekers Unemployed
+13943,5,"Frustrated" Migrants On Trial For Setting Asylum Centre on Fire
+14113,4,Swedish LGBT Group Releases Graphic Sex Brochure for Asylum Seekers
+14116,1,Iraqi Asylum Seeker Jailed for Raping Drunk Woman in London
+14242,2,North African Migrants on Trial for Burning Asylum Centre
+14423,1,Robert Reich Implies Trump Incited Sweden’s Migrant Riots - Breitbart
+14427,4,Migrant Mass Brawl Turns Quiet Austrian City Into Chaos
+14465,3,African Migrant Sentenced For Raping 15-Year-Old Girl
+14470,2,L.A. Times: Southwest Border Crossings at ’Lowest Point in at Least 17 Years’ - Breitbart
+14519,1,Police Chief After Terror Raids: Muslims Are Stand Out Suspects
+14686,3,Poland Says Taking Migrants ’Much Worse’ Than EU Sanctions
+14728,1,Sadiq Khan: ’Cancel President Donald Trump’s State Visit’ - Breitbart
+14892,2,Claim: Widespread Sexual Assault from Migrants in Swedish Schools
+14941,1,Underage Runaway Migrants in Germany Forced into Prostitution and Drug Peddling
+15076,1,’Fairy Godmother’ Brings Migrants to Europe in EU-Backed Cartoon
+15176,1,Newspaper Editor Calls for ’Murder in the White House’
+15218,4,Just 368 of 8,000 Rejected North African Asylum Seekers Deported
+15415,1,Whistle-Blower: ’Global Warming’ Data Manipulated Before Paris Conference
+15429,5,Somali Asylum Seeker Accused of Raping Helpless Pensioners and Killing An Elderly Woman
+15462,1,UN Demands EU Punish Eastern Europe for Refusing Migrants
+15639,2,Financial Times: Mass Immigration Is Unstoppable - Breitbart
+15758,1,Cologne New Year’s Chaos: Women ’Ran a Gauntlet’
+15774,1,Full Extent of Germany Migrant Sex Attacks Revealed - Incidents in 12 of 16 States - Breitbart
+16081,3,Merkel Under Fire on Migrants After New Year Sex Attacks
+16125,1,Media, Authorities Play Down Migrant Sex Assaults As Cologne Attacks Highlight ’New Dimension’ For Europe
+16162,1,Austria Arrests Nine Iraqis Over Gang Rape Of German Woman
+16276,5,Merkel Says Germany Must Have Frank Talk About Integration
+16380,1,President Obama Invites Syrian Refugee to State of the Union - Breitbart
+17171,3,Mexican Cartels Coaching Illegal Immigrants to Request Asylum, Say Agents
+17252,3,Sweden: Asylum Seeker Chaos Accounts for Quarter of Police Resources - Breitbart
+17363,1,Frontex Chief: 300,000 More Migrants Headed from Africa to Europe
+17441,1,European Churches Witnessing ’Mass Baptisms’ For Migrants
+17483,1,LinkedIn $11B Stock Loss: Job Crisis in Silicon Valley
+17542,3,Norway Bribes Fake Asylum Seekers Thousands To Leave
+17553,1,Germany’s Secret Islamic Horror: How Blind Elites Are Destroying A Once-Great Nation - Breitbart
+17554,1,Teenage Girl Rushed To Hospital After Rape Attack By Afghan Migrant In Public Park
+17845,1,German Dentists Warn Treating Migrant’s ’Catastrophic’ Teeth Will Cost Tax Payer BILLIONS
+18170,2,Swedish Prof: Hot Weather, Not Rapey Migrants Driving Sweden’s Place As The Rape Capital Of The World
+18296,1,Albanian Migrant On The Run After Double-Stabbing Murder
+18613,1,Pew: Migrant Crisis Fuels Europe’s Embrace of Populism
+18693,1,Slovakia to Send Police to Help Macedonia Guard its Border
+18828,5,Wilders: ’Political Revolution Is Brewing in Europe’
+18874,1, Migrants In Sweden Three Times More Likely To Suffer From Mental Illness
+19094,1,Czech President: Deport All Economic Migrants From Europe
+19098,2,Migrant Terror Suspect Used Amazon Gift Cards to Purchase Bomb Components
+19132,3,Islamic Radicalism Rife in Asylum Homes According to Undercover Report
+19150,1,European Union Declares Balkan Route Closed To Illegal Migrants, But Prepares To Open Borders To Millions
+19200,1,’Foreign Men’ Blamed After Mass Sex Assault At Music Festival, Youngest Victim Just 12 Years Old
+19369,1,North African Migrants Turning Berlin’s Notorious ’Kotti’ Area Into No-Go Zone
+19385,2,Fears Rise in Europe of Jihadist Influx if Iraq Retakes Mosul
+19394,1,Afghan’s Murder-Rape Arrest Reignites Germany Migrant Debate
+19518,1,Geert Wilders For Breitbart: The West Is Sick Of Politics, But It Isn’t Sick Of Democracy
+19537,1,Migrant Arrested for Suspected Rape and Attempted Murder
+19622,1,Next EU Prez: ’Islam Has No Place’... ’Migrants Change The Character Of Our Country’
+19696,3,REPORT: Locals Fled Pool After Migrants Masturbated Into Jacuzzi, Defecated Into Kid’s Pool, Invaded Girls Changing Rooms - Breitbart
+19706,2,Austrian Politician Attacked For Comparing Migrants To Neanderthals - Breitbart
+19799,1,Libertarian Author Charles Murray Calls for Pause in Low-Skill Immigration - Breitbart
+19801,1,WATCH: Pope Francis Washes, Kisses Feet of Migrants on Holy Thursday - Breitbart
+19831,2,Protests Mount As Migrants Breach Razor Wire Fence Before EU-Turkey Deal Takes Effect
+19859,5,Germany Sees Record Breaking 2 Million Migrants in 2015 - Breitbart
+19951,2,Soros: Migrants Great for EU Economy... But Make Sure To Spend Billions On Them Each Year
+19994,1,Court Rules: Not All Syrians Are Legitimate Refugees
+20042,3,Pope Francis to Wash Refugees’ Feet on Holy Thursday - Breitbart
+20055,2,Britain On Hook to Pay Millions Towards EU Army, UKIP MEP Warns
+20225,2,Migrant Threw Kids Out Window As Wife Wanted ‘Western Freedom’
+20266,1,Mafia Taking Over As Italy Flooded with Migrants
+20297,5,AfD Demands Government Access Migrants Bank Accounts
+20395,1,Swedish Economist: Low Skilled Migrants a ’Ticking Time Bomb’
+20434,1,WikiLeaks, Video: Hillary Clinton Touts H-1B White-Collar Outsourcing Program - Breitbart
+20564,2,Syrian Refugee Machetes Woman To Death, Injures Two More In Germany
+20631,2,Migrants Registered In Swiss Asylum Centres Disappearing
+20669,1,After Shooting of Main Suspect, Germany Hunts Accomplices of Berlin Killer
+20716,2,Migrant Attacker Sent Text Saying He Wanted To Stab Girlfriend
+20866,1,Number of Syrian Migrants in Germany Could DOUBLE Due to Family Reunification
+20885,1,Obama: Angela Merkel ‘On The Right Side of History’ On Syrian Refugees - Breitbart
+21600,3,German Government Admits They Have Lost 130,000 Migrants
+21733,2,Migrants Set Fire To Asylum Centre While Smoking Hookah Pipe
+21849,10,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+21957,1,FULL TEXT: MILO At West Virginia University On What Trump Means - Breitbart
+21990,2,Police Investigate Social Media Critics Of Migrant Centre
+22071,4,CONFIRMED: Berlin Attack Suspect Shot Dead in Milan
+22107,1,Police to Monitor Social Media To Prevent Migrant Sex Mobs
+22348,1,Major Anti-Islamisation Protest Planned Following Mass Migrant Rape Scandal
+22446,3,’Fleeing War’ Yet Only 7 Per Cent of Asylum Seekers Would Actually Return After Conflict
+22500,1,WSJ: Even Rejected Asylum Seekers Don’t Leave Germany
+22574,1,Taliban Video Shows Kidnapped U.S.-Canadian Family - Breitbart
+22606,1,Number Of Migrants Claiming Benefits In Germany Surges By 169 Per Cent
+22925,1,Ben Shapiro to Megyn Kelly: Breitbart Would Call for Lewandowski’s Firing if He Were on Hillary Campaign - Breitbart
+23055,1,Sen. Sessions: More Visa Overstays Last Year than Population of Any City in Iowa, NH, SC - Breitbart
+23136,1,WATCH: Ungrateful ’Wristband Migrant’ Complains Free, Tax Payer Funded Meals Are The Same Twice A Day - Breitbart
+23259,1,Sweden: Interpreter Suspended For Saying Arab Migrants Lie To Secure Asylum, Welfare Bonuses - Breitbart
+23324,1,Migrant Arrested for Rape and Murder of German Medical Student
+23364,1,Afghan Migrants Planned Terror Attacks Across Europe
+23544,1,Asylum Seeker Masturbated In Middle Of Street Because He Could Not Afford Prostitutes
+23561,1,Recently Arrived Migrant Arrested After Rape and Murder of EU Official’s Teen Daughter
+23607,1,Paris Police Circulate Photo of Afghan Migrant Who May Be Planning Attack
+23652,3,Geert Wilders: Close All Mosques In The Netherlands
+23922,1,Asylum Seekers Cry ’Discrimination’ Over Quality of Taxpayer-Funded Hotelnded Hotel Stays
+23971,5,HELSINKI COPS: ’Widespread’ Sexual Harrasment By ’Asylum Seekers’ on New Years Eve
+24011,3,Migrants Leave Blood, Faeces, Semen Smeared on Asylum Home Walls
+24064,1,After Cologne, Perhaps It Is Time For The People Of Germany To Consider The Sanity Of Angela Merkel
+24266,1,Brussels Bomber Was ‘Migrant Rights Activist’ Who Lived Next Door To EU
+24319,1,AFP: Europe’s Populist Surge Fuelled by Migrant Crisis - Breitbart
+24533,1,Study: Border Controls Cheaper Than Mass Immigration
+24659,1,Anti-Mass Migration Political Party Hands Out ’Anti-Migrant’ Spray
+24732,1,German Intelligence: Train Attacker May Have Pretended To Be Afghan To Gain Asylum
+24773,4,Austria To Ban Migrants From Purchasing Firearms
+24778,1,Italy Breaks Immigration Record in 2016
+24827,1,Underage Migrant Gang Sexually Assault German Women
+24865,16,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+24866,9,Australia Resists International Pressure Not To Deport Child Migrants, Says Allowing Them To Stay Encourages More To Come By Boat
+24889,1,Anis Amri: Small-Time Criminal Turned Berlin Truck Killer
+25002,1,Islamic State Recruited Jobless At Government Employment Centre
+25011,1,Unaccompanied Minors Launch Brutal Attack on Family Enjoying Halloween Stroll
+25212,2,Top Judge On Migrant Crisis: ’Authorities Are No Longer In Charge’
+25464,1,WATCH: Syrians, Afghan Migrants Riot And Fight Over Free Food 24 Hours After Angelina Jolie Visit - Breitbart
+25497,3,Germany To Set Up "Ministry of Truth" Ahead of 2017 Federal Election
+25606,2,Germany’s ’Mr. Flirt’ Teaches Refugees How to Pick Up Women - Breitbart
+25630,1,Merkel Faces Voter Backlash After Open-Door Migrant Policy - Breitbart
+25865,1,Geert Wilders For Breitbart: ’We Ain’t Seen Nothing Yet’
+25962,1,Cameron Overruled on Migrants, Commission Insists EU Has a ‘Moral Duty’ to Take Them In
+26034,1,German Media Fail to Report Girl Raped and Murdered by ’Refugee’
+26063,1,MILO Urges #NotMyPresident Liberals To Move To Cuba - Breitbart
+26068,1,Driver Threatened with Chainsaw During Calais Night Of Violence
+26104,2,Asylum Seeker Threatens to Kill Two Court Officials
+26320,1,Lavish Library of Islamic Knowledge ’For Everyone,’ Says Houston Mayor
+26328,1,Merkel: National Push Needed in Germany to Deport Migrants
+26340,2,Hungary Referendum: EU Humiliated as 95 Percent Say NO to Migrant Quotas
+26354,1,Town Mayor Beaten Unconscious By Locals After Announcing Plan To Welcome Migrants
+26492,3,Germany Accuses Doctors of Preventing Migrant Deportations
+26586,2,BBC Still Puzzled By Motive Of Syrian With Suicide Bomb Rucksack
+26619,1,Austria Threatens to Extend Border Controls
+26734,4,Australian Minister Attacks Pro-Migration ’Hype’, Says Immigrants ’Lie’, ’Cheat’ to Gain Entry
+27151,2,Intelligence Service Concern After Migrant Camp Built Next To Radical Mosque
+27325,1,Councils in Crisis as Child Migrants Overwhelm Services - But Govt Considers Taking MORE
+27361,3,Merkel’s Party, Sliding in Polls, Explores Speedy Repatriation Centres - Breitbart
+27435,4,’Xenophobia is Highly Rational and Justified’: Police Chief
+27459,1,Young Women Beaten And Sexually Assaulted In Migrant Attacks As Carnival Season Gets Under Way
+27608,1,Austria To Build Huge Border Fence To Stop Migrants
+27737,1,Marine and Marion Le Pen Slam Merkel for Berlin Attack
+27955,1,Robot-phobia: Paul Ryan Says Dairy industry Needs More Migrant Labor - Breitbart
+28026,4,Priest Stabbed After Opening His Home To ’Asylum Seeker’ Who Claimed To Be In Need
+28128,3,Hollywood Actor George Clooney Lobbies Merkel On Migrants - Breitbart
+28151,1,Mass Migration Brings Rise Of Islamic Polygamy In Europe
+28161,2,Police Claim: Islamic State Deliberately Stoking Tensions Between Migrants And Europeans
+28264,1,100 Riot In Migrant Reception Centre, Triggered By Woman’s Refusal To Wear A Head Scarf
+28461,1,Sex Crimes Increase as Oktoberfest Has Lowest Attendance for 15 Years
+28564,1,BACKGROUND: ‘Refugee’ Paris-Linked Terrorist Hunted Through Brussels Yesterday
+29269,1,Migrant Sex Pests: ’You Have To Treat Me Kindly! Mrs Merkel Has Invited Me’, 14 of 15 Arrested ’Syrian’
+29366,1,UN Chief Compares Trump and Farage to Islamic State
+29610,8,US to Resettle Australia’s Refugees Languishing on Islands - Breitbart
+29617,1,Hungary Border Fence Success, Balkans Route Down To ’A Trickle’
+29886,1,’Jesus 2016 is a Refugee in a Boat’, Says Catholic Bishop
+30002,2,Watch: Huge Brawl in Germany Asylum Centre
+30046,1,Reddit Moderators Censor Refugee Rape Stories - Breitbart
+30092,1,***Live Updates*** GOP Debate Night in South Carolina - Breitbart
+30144,1,Majority of Swedes Would Want to Follow Britain Out of the EU
+30179,1,Wear a Headscarf Or Be Raped, Swedish Women Warned
+30327,1,Raped German Politician Lied About Attackers’ Nationality To ’Stop Racism’
+30502,1,German Broadcaster ’Sorry’ For Slow Reporting On Cologne Sex Assaults
+30508,1,’Tom Clancy’s The Division’ Review: We’re Here to Rescue You - Breitbart
+30548,3,Switzerland Forces Migrants to Hand over Possessions to Pay for Upkeep - Breitbart
+30553,1,Germany Spends At Least €10 Million Deporting Illegal Migrants
+30591,1,Gary Kaltbaum on Breitbart News Radio: Markets Are Crashing As Fiscal Steroids Wear Off - Breitbart
+30637,3,Mexico Helping Unvetted African Migrants to U.S. Border, Many From Al-Shabaab Terror Hotbed
+30750,1,German Cop Breaks Ranks: We Are BANNED From Detaining Migrants
+31004,2,In Austria, Over Half Of All ’Asylum Seekers’ Commit Crimes
+31218,1,San Francisco to Expand ’Sanctuary City’ Law - Even After Steinle Murder - Breitbart
+31279,1,Soros: European Union In Mortal Danger
+31303,3,’Asylum Seekers’ Turn Down Meals, Would Rather Have Money Instead
+31315,1,Angela Merkel Will ‘Stop Illegal Migration’
+31423,1,Police Try To Link Munich Gunman To Anders Breivik
+31487,2,Migrants Sexually Attack Girls at City Hall Youth Party
+31682,1,CNN 10 - January 5, 2017
+31717,1,CNN 10 - January 6, 2017
+31793,1,CNN 10 - January 9, 2017
+31794,1,CNN 10 - January 10, 2017
+31813,1,Obama’s final report card: Did he live up to his promise?
+31831,1,CNN 10 - January 11, 2017
+31882,1,CNN 10 - January 13, 2017
+31965,1,CNN 10 - January 17, 2017
+31966,2,Trump rattles NATO with ’obsolete’ blast
+31992,1,CNN 10 - January 18, 2017
+32012,1,CNN 10 - January 19, 2017
+32144,1,CNN 10 - January 24, 2017
+32171,1,CNN 10 - January 25, 2017
+32190,1,CNN 10 - January 26, 2017
+32218,1,CNN 10 - January 27, 2017
+32303,1,CNN 10 - January 30, 2017
+32313,1,CNN 10 - January 31, 2017
+32333,1,CNN 10 - February 1, 2017
+32351,1,US-Australia refugee deal: What you need to know
+32388,1,Trump continues to question refugee deal after heated call with Australian PM
+32536,1,CNN 10 - February 9, 2017
+32564,1,CNN 10 - February 10, 2017
+32641,1,CNN 10 - February 13, 2017
+32645,1,CNN 10 - February 14, 2017
+32675,1,CNN 10 - February 15, 2017
+32689,1,CNN 10 - February 16, 2017
+32719,1,CNN 10 - February 17, 2017
+32754,4,DHS immigration and border memos aim to tighten asylum, unaccompanied minor policies
+32785,1,Trump’s Sweden comment raises questions
+32809,1,CNN 10 - February 21, 2017
+32835,1,CNN 10 - February 22, 2017
+32840,2,Trump admin sets stage for mass deportations
+32865,1,Six barriers to Trump’s border security plans
+32870,1,CNN 10 - February 23, 2017
+32881,1,CNN 10 - February 24, 2017
+32958,1,CNN 10 - February 27, 2017
+32973,2,Fire at Swedish asylum shelter injures 15 to 20
+32988,1,CNN 10 - February 28, 2017
+33045,1,CNN 10 - March 2, 2017
+33074,2,CNN 10 - March 3, 2017
+33141,1,CNN 10 - March 6, 2017
+33151,2,Attorneys: travel ban fight is a ’marathon’
+33204,1,CNN 10 - March 9, 2017
+33290,1,CNN 10 - March 13, 2017
+33337,1,Dutch elections: Populism on the rise?
+33351,1,CNN 10 - March 16, 2017
+33376,1,CNN 10 - March 17, 2017
+33377,2,In Yemen, urgent support for survivors of deadly boat attack
+33380,1,Email hack suspect showed off the good life
+33503,1,Trump has given the EU a chance to lead the world
+33540,1,CNN 10 - March 27, 2017
+33588,1,CNN 10 - March 29, 2017
+33601,1,CNN 10 - March 30, 2017
+33617,1,CNN 10 - March 31, 2017
+33696,1,CNN 10 - April 3, 2017
+33722,1,CNN 10 - April 4, 2017
+33857,1,CNN 10 - April 10, 2017
+33898,1,Hard-line anti-illegal immigration advocates hired at 2 federal agencies
+34180,1,CNN 10 - April 25, 2017
+34211,1,CNN 10 - April 26, 2017
+34236,1,CNN 10 - April 27, 2017
+34249,1,CNN 10 - April 28, 2017
+34316,1,CNN 10 - May 1, 2017
+34382,1,CNN 10 - May 3, 2017
+34399,1,CNN 10 - May 4, 2017
+34416,1,CNN 10 - May 5, 2017
+34425,1,Jordan Edwards’ killing fuels grief and call for justice
+34476,1,CNN 10 - May 8, 2017
+34543,1,CNN 10 - May 10, 2017
+34572,1,CNN 10 - May 11, 2017
+34600,1,CNN 10 - May 12, 2017
+34660,1,CNN 10 - May 15, 2017
+34689,1,CNN 10 - May 16, 2017
+34713,1,CNN 10 - May 17, 2017
+34738,1,CNN 10 - May 18, 2017
+34753,1,CNN 10 - May 19, 2017
+34846,1,CNN 10 - May 22, 2017
+34874,1,CNN 10 - May 23, 2017
+34935,1,CNN 10 - May 26, 2017
+35090,1,CNN 10 - June 1, 2017
+35198,4,America, don’t abandon gay Chechens
+35310,1,LGBT community prepares for a march -- and a fight
+35409,5,Australia agrees to pay $70 million to Manus Island detainees
+35487,1,DREAMers get well-deserved reprieve from Trump
+35556,1,UK Chancellor: Cladding on Grenfell Tower ’banned on high-rises’
+35580,1,Why Kim agreed to release Otto Warmbier
+35591,1,They came, they camped, they baked at Death Valley ... on purpose
+35898,1,Trump will say anything to get elected
+36455,1,Munich attacker researched rampage killings, police say
+36505,6,Ansbach suicide bomber pledged allegiance to ISIS
+36888,5,Leaked files catalog cruelty and abuse on Nauru
+37415,1,What a Trump win would mean for LGBT equality
+38210,6,The outcasts who hid Edward Snowden
+38314,1,Ken Bone: The real presidential debate winner
+38748,12,Australia to send refugees to the US: Why it took so long
+39139,1,Austria’s far-right: Hipsters or hatemongers?
+39165,1,Sweat lodge guru’s return angers victims
+39334,1,Trump vs. Trump’s Cabinet
+39535,1,Deadly attacks in Germany have targeted public life
+39543,1,Berlin attack: ISIS claims it inspired truck assault
+39569,1,Berlin attack: Police hunt Tunisian suspect
+39578,1,Berlin attack: Fingerprints clue in manhunt
+39607,1,Berlin attack suspect Anis Amri killed in Milan shootout
+39625,1,Anis Amri: 3 arrested, including his nephew
+39664,1,Manus Island detainees blame Australia for death of young refugee
+40128,1,Newtown votes: Sandy Hook killer’s home to be razed
+40541,1,1-84-I-DOUBT-IT: A new helpline for troubled atheists
+40877,2,Opinion: How I became a ’seeker’
+41045,1,Deepak Chopra on the problem with atheism
+41301,1,What prison life will be like for Aaron Hernandez
+41735,1,Unwanted: The plight of Myanmar’s Rohingya boat people
+41973,1,What social workers can teach us about staying sane
+42485,1,U.N. World Refugee Day: Richer nations urged to step up
+42678,1,Time to split the euro in two (Opinion)
+43536,2,Everything we know about what Trump called the ’worst deal ever’ between the US and Australia
+43613,1,24 unprofessional habits that could cost you a job
+44145,1,23 questions you should never ask at the end of a job interview
+45034,1,23 questions you should never ask at the end of a job interview
+46510,1,Supermarkets have a millennial problem, and their history of catering to white suburbanites is to blame
+48572,1,Here’s everything we know about Ahmad Khan Rahami, the suspect in custody in connection with the New York and New Jersey bombings
+49190,1,The wealthiest Americans have a new attitude about homebuying — and it has led to a crisis in the luxury market
+49788,1,People are giving their Trump-supporting relatives ’revenge gifts’ instead of Christmas presents
+49880,1,A President Without an Administration
+49890,2,Hedge-Fund Managers With Flashy Sports Cars Make Worse Investors

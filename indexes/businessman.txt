@@ -1,0 +1,894 @@
+12,1,Mar-a-Lago, the Future Winter White House and Home of the Calmer Trump - The New York Times
+31,1,Benjamin Netanyahu Questioned in Israel Graft Inquiry - The New York Times
+241,1,Donald Trump Concedes Russia’s Interference in Election - The New York Times
+318,1,I Know How It Feels to Be Someone’s ‘Token.’ I’m Sure Ben Carson Does, Too. - The New York Times
+320,1,‘You Focus on the Good’: Women Who Voted for Trump, in Their Own Words - The New York Times
+342,1,Trump, Twitter and the Art of His Deal - The New York Times
+346,1,Australian Drug Maker Has Low Profile but Powerful Backers in Washington - The New York Times
+348,1,Yellow Cab, Long a Fixture of City Life, Is for Many a Thing of the Past - The New York Times
+424,1,In a Blow to Prosecutor, South Korean Court Blocks Arrest of Samsung Group Leader - The New York Times
+457,1,At Least 20 Firefighters Killed in Tehran Building Collapse - The New York Times
+485,1,Trump Inspires Cheers, and Alarm, Around the World - The New York Times
+507,1,Donald Trump’s Inauguration, Women’s March: Your Weekend Briefing - The New York Times
+510,1,In a Rust Belt Town, the Women’s March Draws Shrugs and Cheers From Afar - The New York Times
+515,2,New England Patriots’ Owner, Still Sore at N.F.L., Has Payback in Sight - The New York Times
+582,1,Mar-a-Lago Doubles Its Initiation Fee as Membership Interest Swells - The New York Times
+678,1,‘Up Is Down’: Trump’s Unreality Show Echoes His Business Past - The New York Times
+728,1,Refugees, Quebec, Rodrigo Duterte: Your Morning Briefing - The New York Times
+760,1,Billionaire Is Reported Seized From Hong Kong Hotel and Taken Into China - The New York Times
+800,1,Iran, Puzzled by Trump, Treads Carefully for Now - The New York Times
+889,1,Trump Clashes Early With Courts, Portending Years of Legal Battles - The New York Times
+955,1,Guardians of a Vast Lake, and a Refuge for Humanity - The New York Times
+978,1,Mothers and Daughters Divided by Refugee Ban Encounter the Guilt of Good Fortune - The New York Times
+1012,1,California Farmers Backed Trump, but Now Fear Losing Field Workers - The New York Times
+1022,1,Flynn Is Said to Have Talked to Russians About Sanctions Before Trump Took Office - The New York Times
+1050,1,Yale Will Drop John Calhoun’s Name From Building - The New York Times
+1057,1,Mike Ilitch, Little Caesars Founder and Detroit Sports Owner, Dies at 87 - The New York Times
+1060,1,Raymond Smullyan, Puzzle-Creating Logician, Dies at 97 - The New York Times
+1137,1,For Kushner, Israel Policy May Be Shaped by the Personal - The New York Times
+1138,1,Trump Campaign Aides Had Repeated Contacts With Russian Intelligence - The New York Times
+1147,1,SoftBank of Japan Will Buy U.S. Private Equity Giant Fortress - The New York Times
+1211,1,Trump, an Outsider Demanding Loyalty, Struggles to Fill Top Posts - The New York Times
+1213,1,Trump’s Dual Roles Collide With Openings in Dubai and Vancouver - The New York Times
+1233,1,A Back-Channel Plan for Ukraine and Russia, Courtesy of Trump Associates - The New York Times
+1237,1,Trump’s ‘Winter White House’: A Peek at the Exclusive Members’ List at Mar-a-Lago - The New York Times
+1251,1,Ecuador Votes as Latin America’s Left Sags, a Generation of Icons Gone - The New York Times
+1328,1,A Tee Time With Trump? Pro Golfers Say Absolutely - The New York Times
+1369,3,For Commerce Pick Wilbur Ross, ‘Inherently Bad’ Deals Paid Off - The New York Times
+1370,1,Trump Ruled the Tabloid Media. Washington Is a Different Story. - The New York Times
+1379,2,The Trump-Like Figures Popping Up in Central Europe - The New York Times
+1397,1,Bill Paxton, Star of ‘Big Love’ and Movie Blockbusters, Dies at 61 - The New York Times
+1422,1,A Suit Over Schiele Drawings Invokes New Law on Nazi-Looted Art - The New York Times
+1434,1,California Today: After Lawmaker’s Silencing, More Cries of ‘She Persisted’ - The New York Times
+1441,1,As France’s Towns Wither, Fears of a Decline in ‘Frenchness’ - The New York Times
+1446,2,Soaring at 1,500 Feet With Michael Fabiano, Opera’s Risk-Taking Tenor - The New York Times
+1476,1,Jeff Sessions Recuses Himself From Russia Inquiry - The New York Times
+1480,1,Kim Jong-nam, Jeff Sessions, Snapchat: Your Morning Briefing - The New York Times
+1494,1,Harvard Ordered to Reveal Financial Records of Influential Donor - The New York Times
+1523,2,How to Steal a River - The New York Times
+1544,2,Trump, Offering No Evidence, Says Obama Tapped His Phones - The New York Times
+1631,1,Among Questions for Trump on Iran: What About American Prisoners? - The New York Times
+1683,1,Michael Flynn Was Paid to Represent Turkey’s Interests During Trump Campaign - The New York Times
+1728,1,Trump Lets Key Offices Gather Dust Amid ‘Slowest Transition in Decades’ - The New York Times
+1788,1,How Egypt’s Activists Became ‘Generation Jail’ - The New York Times
+1922,1,As French Election Nears, Le Pen Targets Voters Her Party Once Repelled - The New York Times
+1923,1,Robert Silvers, a Founding Editor of New York Review of Books, Dies at 87 - The New York Times
+1999,1,A Man Who Hated Black Men Found a Victim Who Cared for Others - The New York Times
+2038,1,Trump’s Biggest Obstacle to Policy Goals? His Own Missteps - The New York Times
+2109,1,5 Reasons Trump’s Promised Tax Overhaul Won’t Be So Easy - The New York Times
+2113,1,Mysterious Buyer of Trump’s Childhood Home Said to Be From China - The New York Times
+2221,1,Michael Flynn Failed to Disclose Income From Russia-Linked Entities - The New York Times
+2290,1,Syria, Hungary, Marine Le Pen: Your Wednesday Briefing - The New York Times
+2302,1,As Trump Meets Xi at Mar-a-Lago, There’s a ‘Wild Card’ - The New York Times
+2437,1,As Georgia Vote Nears, G.O.P. Asks if Ideological Purity Matters Anymore - The New York Times
+2440,1,‘It Did Not Stick’: The First Federal Effort to Curb Police Abuse - The New York Times
+2559,1,Campaigns Are Long, Expensive and Chaotic. Maybe That’s a Good Thing. - The New York Times
+2604,1,Donald Trump’s More Accepting Views on Gay Issues Set Him Apart in G.O.P. - The New York Times
+2615,2,In College Roommate David Panton, Ted Cruz Finds Unwavering Support - The New York Times
+2655,1,Justices Lean Toward Bob McDonnell, Ex-Virginia Governor, in Corruption Case - The New York Times
+2701,1,‘President Trump?’ Here’s How He Says It Would Look - The New York Times
+2716,1,Julianna Margulies, in Closing Arguments for ‘The Good Wife’ - The New York Times
+2735,1,In the New Hollywood, Sumner Redstone Is a Man Out of Time - The New York Times
+2740,2,The Strange, Unending Limbo of Egypt’s Hosni Mubarak - The New York Times
+2757,1,Mr. Trump’s Wild Ride - The New York Times
+2781,1,These Wealthy People Refuse to Give Donald Trump Money. Here’s Why. - The New York Times
+2800,1,Libertarians See Chance Amid Discontent Over Donald Trump and Hillary Clinton - The New York Times
+2842,1,Speaker Paul Ryan, After an Awkward Courtship, Endorses Donald Trump - The New York Times
+2853,1,Why Donald Trump, Not Paul Ryan, Is Setting the G.O.P. Agenda - The New York Times
+2862,2,Once a Trump Target, John McCain Now Finds Their Political Fates Intertwined - The New York Times
+2869,1,Panama Papers Show How Rich United States Clients Hid Millions Abroad - The New York Times
+2878,1,‘Silicon Valley’ Season 3, Episode 7: Stop, Beta Time - The New York Times
+2949,3,Canadian Neighborhood Rots in the Shadow of an Unborn Bridge to Detroit - The New York Times
+2972,2,How China Won the Keys to Disney’s Magic Kingdom - The New York Times
+3038,1,U.S. Senate, Orlando, Donald Trump: Your Tuesday Evening Briefing - The New York Times
+3050,1,A New Verb in Mexico: Trumpear (From ‘to Punch’) - The New York Times
+3067,1,Despite Campaign Woes, Donald Trump Flies to Scotland to Tend to Business Interests - The New York Times
+3113,1,Hillary Clinton and Elizabeth Warren Take Aim at Donald Trump - The New York Times
+3122,1,Supreme Court Complicates Corruption Cases From New York to Illinois - The New York Times
+3137,1,Shakespeare: Actor. Playwright. Social Climber. - The New York Times
+3143,1,Istanbul, Donald Trump, Boris Johnson: Your Thursday Evening Briefing - The New York Times
+3175,2,Emirates Warn Against Traditional Clothing Abroad After Man Is Mistaken for Terrorist in Ohio - The New York Times
+3308,1,The American Who Accidentally Became a Chinese Movie Star - The New York Times
+3329,1,‘I Feel a Deep Sense of Remorse,’ Donald Trump’s Ghostwriter Says - The New York Times
+3352,1,For Donald Trump’s Big Speech, an Added Pressure: No Echoes - The New York Times
+3455,1,Mike Pence Splits With Donald Trump on Paul Ryan Endorsement - The New York Times
+3512,1,Donald Trump’s Economic Team Is Far From Typical - The New York Times
+3676,2,Trump’s Empire: A Maze of Debts and Opaque Ties - The New York Times
+3697,1,Lou Pearlman, Svengali Behind Backstreet Boys and ’NSync, Dies at 62 - The New York Times
+3700,1,Review: ‘Halt and Catch Fire’ Time-Travels to Silicon Valley’s Dawn - The New York Times
+3733,2,In Books on Donald Trump, Consistent Portraits of a High-Decibel Narcissist - The New York Times
+3769,2,Hillary Clinton Piles Up Research in Bid to Needle Donald Trump at First Debate - The New York Times
+3792,1,Paul LePage, Besieged Maine Governor, Sends Conflicting Signals Over Intentions - The New York Times
+3810,1,A Chinese Mystery: Who Owns a Firm on a Global Shopping Spree? - The New York Times
+3848,1,Venture Communism: How China Is Building a Start-Up Boom - The New York Times
+3875,1,U.S. Presidential Race, Rodrigo Duterte, Roger Ailes: Your Tuesday Evening Briefing - The New York Times
+3899,1,Ferguson Protest Leader Darren Seals Found Dead in Vehicle - The New York Times
+3942,1,Putin, Admired by Donald Trump, Emphasizes Strength as Virtue - The New York Times
+4012,1,A Trump Empire Built on Inside Connections and $885 Million in Tax Breaks - The New York Times
+4046,1,Sheldon Adelson Focuses on Congressional Races, Despite Donald Trump’s Pleas - The New York Times
+4110,2,Chinese Jews of Ancient Lineage Huddle Under Pressure - The New York Times
+4127,1,Theories of the Race: How Solid Is Hillary Clinton’s Lead? - The New York Times
+4143,1,Trump’s a Businessman. Where’s His Business Backing? - The New York Times
+4154,1,How Donald Trump Set Off a Civil War Within the Right-Wing Media - The New York Times
+4156,1,Angered by 9/11 Victims Law, Saudis Rethink U.S. Alliance - The New York Times
+4164,1,Democrats Rake In Money, Thanks to Suit by Republicans - The New York Times
+4176,1,A Curious Plan to Fight Climate Change: Buy Mines, Sell Coal - The New York Times
+4184,2,Donald Trump and His Allies Struggle to Move Past Tax Revelation - The New York Times
+4205,1,Vice-Presidential Debate: What You Missed - The New York Times
+4213,1,A Look at Clinton’s Marriage Woes Raises a Question: Really? - The New York Times
+4278,2,How U.S. Torture Left a Legacy of Damaged Minds - The New York Times
+4330,1,‘The Greatest Loss and Despair’: Thais Mourn Their King - The New York Times
+4391,1,Scotland Embraces Gay Politicians in a Profound Cultural Shift - The New York Times
+4458,1,California Today: How Do Top Newspapers Line Up on the Election? - The New York Times
+4497,1,Donald Trump, Republican Party, Marijuana: Your Wednesday Evening Briefing - The New York Times
+4507,1,For Trump Voters, Uncertainty Mixes With Elation - The New York Times
+4558,1,U.K.’s Bridge to Trump? Nigel Farage, Who Pushed ‘Brexit,’ Posits Himself - The New York Times
+4569,1,Globalism: A Far-Right Conspiracy Theory Buoyed by Trump - The New York Times
+4593,1,Jean Kennedy Smith Remembers Growing Up Kennedy - The New York Times
+4623,1,High in Tower, Trump Reads, Tweets and Plans - The New York Times
+4624,1,Muslim Americans Speak of Escalating Worries - The New York Times
+4631,1,Along the Autism Spectrum, a Path Through Campus Life - The New York Times
+4663,1,Less Defiant Trump at The Times: ‘I Hope We Can All Get Along’ - The New York Times
+4664,1,At Donald Trump’s Properties, a Showcase for a Brand and a President-Elect - The New York Times
+4717,4,Potential Conflicts Around the Globe for Trump, the Businessman President - The New York Times
+4739,1,Trump’s Promises Will Be Hard to Keep, but Coal Country Has Faith - The New York Times
+4752,1,Trump to Announce Carrier Plant Will Keep Jobs in U.S. - The New York Times
+4787,1,François Hollande, Buzz Aldrin, Vladimir Putin: Your Friday Briefing - The New York Times
+4834,1,Trump’s Call with Taiwan: A Diplomatic Gaffe or a New Start? - The New York Times
+4859,1,Oakland Fire Victims Included Performers, Educators and Lawyers - The New York Times
+4871,2,What It’s Like to Apply for a Job in Donald Trump’s White House - The New York Times
+4887,1,Trump’s Labor Pick, Andrew Puzder, Is Critic of Minimum Wage Increases - The New York Times
+4901,1,As ‘The Apprentice’ Returns to TV, Trump Stands to Profit - The New York Times
+4927,1,An Artistic Discovery Makes a Curator’s Heart Pound - The New York Times
+4942,1,Christine Lagarde on Trial in France, Overshadowing I.M.F. Role - The New York Times
+5066,1,Romania Set for First Female, and First Muslim, Prime Minister - The New York Times
+5103,2,Intent on Unsettling E.U., Russia Taps Foot Soldiers From the Fringe - The New York Times
+5112,1,Refugees Encounter a Foreign Word: Welcome - The New York Times
+5148,1,Cristina Fernández de Kirchner Indicted Again on Corruption Charges - The New York Times
+5164,1,In Bahrain, Arabs and Jews Gather (and Dance) at a Hanukkah Celebration - The New York Times
+5210,1,China’s Vaccine Scandal Threatens Public Faith in Immunizations - The New York Times
+5215,1,How New York Took Primary Day: Personally - The New York Times
+5253,1,Why Mayor de Blasio Is Facing So Many Investigations - The New York Times
+5314,1,In the Clear, Phil Mickelson Can Thank an Insider Trading Ruling - The New York Times
+5331,2,Former Trump University Workers Call the School a ‘Lie’ and a ‘Scheme’ in Testimony - The New York Times
+5335,2,Ex-Army Sniper Gets 20-Year Sentence in Murder-for-Hire Scheme - The New York Times
+5365,1,Graft Fighter in Egypt Finds Himself a Defendant in Court - The New York Times
+5419,1,A Funeral for a Fire Chief, 15 Years After He Died on 9/11 - The New York Times
+5443,2,Hillary Clinton Makes Dire Predictions for Economy if Donald Trump Wins - The New York Times
+5468,1,‘We’re an Easy Target’: Taken In by the Trump Brand - The New York Times
+5490,2,Ronald Perelman Donates $75 Million for Arts Complex at World Trade Center Site - The New York Times
+5547,1,Wharton Business School Backers Seek Distance From Donald Trump - The New York Times
+5562,1,At Donald Trump’s Convention, Matters of Control (and Self-Control) - The New York Times
+5623,1,With the Conventions Behind Us, Our Takeaways From Both - The New York Times
+5696,1,Speculation Ends: Date and Venue Set for World Chess Championship in New York - The New York Times
+5700,1,In Michigan, Hillary Clinton Calls Donald Trump Enemy of ‘the Little Guy’ - The New York Times
+5733,1,Trump Casinos’ Tax Debt Was $30 Million. Then Christie Took Office. - The New York Times
+5998,1,Donald Trump Tax Records Show He Could Have Avoided Taxes for Nearly Two Decades, The Times Found - The New York Times
+6004,4,How Donald Trump Turned the Tax Code Into a Giant Tax Shelter - The New York Times
+6044,1,Asian-American Fighters Return to Ancestral Homelands, and Find Fans Waiting - The New York Times
+6054,1,Samsung Halts Galaxy Note 7 Production as Battery Problems Linger - The New York Times
+6101,1,Magnate’s Twin Goals: Fighting Climate Change and Electing Donald Trump - The New York Times
+6159,1,Donald Trump’s Victory Is Met With Shock Across a Wide Political Divide - The New York Times
+6181,1,David Bowie’s Seal of Approval Bolsters Art at Auction - The New York Times
+6224,1,Donald Trump Agrees to Pay $25 Million in Trump University Settlement - The New York Times
+6261,1,All the Clamor? Trump’s Palm Beach Neighbors See an Upside - The New York Times
+6284,1,Combative, Populist Steve Bannon Found His Man in Donald Trump - The New York Times
+6307,3,How to Hide $400 Million - The New York Times
+6310,2,Donald Trump, François Hollande, Tiger Woods: Your Thursday Evening Briefing - The New York Times
+6320,1,Gambia’s President, in Power 22 Years, Loses Election - The New York Times
+6332,1,Business Since Birth: Trump’s Children and the Tangle That Awaits - The New York Times
+6342,1,Revisited ‘Last Tango in Paris’ Rape Scene Causes Internet Outcry - The New York Times
+6447,1,Trump Taps Peter Navarro, Vocal Critic of China, for New Trade Post - The New York Times
+6455,1,Trump Rewards Kellyanne Conway With a Top White House Staff Slot - The New York Times
+6539,1,With Brazil in Turmoil, Rio Counts Down to Olympics - The New York Times
+6546,1,For Hillary Clinton and John Kerry, Divergent Paths to Iran Nuclear Talks - The New York Times
+6570,1,Economic Promises a President Trump Could (and Couldn’t) Keep - The New York Times
+6633,1,Congolese Politician, Jean-Pierre Bemba, Sentenced to 18 Years for War Crimes - The New York Times
+6634,1,Donald Trump Returns Fire, Calling Hillary Clinton a ‘World-Class Liar’ - The New York Times
+6663,1,Donald Trump Has Long Benefited From Trade Practices He Now Scorns - The New York Times
+6665,1,Bangladeshi Troops Move to End Hostage Standoff - The New York Times
+6670,1,Elie Wiesel Is Recalled at Funeral for a Legacy Beyond His Moral Voice - The New York Times
+6675,1,Is the Supreme Court Clueless About Corruption? Ask Jack Abramoff - The New York Times
+6713,1,Donald Trump’s Deals Rely on Being Creative With the Truth - The New York Times
+6785,3,João Havelange, Who Built and Ruled World Soccer With Firm Hand, Dies at 100 - The New York Times
+6927,2,Met Picasso Belonged to Family That Fled Nazis, Suit Says - The New York Times
+6948,1,Paul Ryan, Reluctant Supporter, Weighs Response to Donald Trump’s Remarks - The New York Times
+6977,1,A Traveler’s Guide to Customs: When to Shake Hands, Hug or Kiss - The New York Times
+7032,1,Jeff Sessions, as Attorney General, Could Overhaul Department He’s Skewered - The New York Times
+7039,1,Killers on a Shoestring: Inside the Gangs of El Salvador - The New York Times
+7069,1,‘Born a Crime,’ Trevor Noah’s Raw Account of Life Under Apartheid - The New York Times
+7088,1,Taiwan City Planning a Makeover Says a Trump Agent Showed Interest - The New York Times
+7198,1,Dennis Hastert Sentenced to 15 Months, and Apologizes for Sex Abuse - The New York Times
+7199,1,Yale Defies Calls to Rename Calhoun College - The New York Times
+7215,1,What Are Donald Trump’s Views on Climate Change? Some Clues Emerge - The New York Times
+7232,1,Bernie Sanders Meets President Obama and Pledges to Work to Defeat Donald Trump - The New York Times
+7256,1,When You Dial 911 and Wall Street Answers - The New York Times
+7260,1,Victims in Istanbul Airport Attack Reflect City’s International Character - The New York Times
+7268,1,Donald Trump’s Potential Running Mates: Pros and Cons - The New York Times
+7271,1,Internet Porn Nearly Ruined His Life. Now He Wants to Help. - The New York Times
+7289,2,Republican Convention Night 4: What You Missed - The New York Times
+7298,2,Warren Buffett Is Latest Billionaire to Excoriate Donald Trump - The New York Times
+7299,1,Body Count Rises as Philippine President Wages War on Drugs - The New York Times
+7303,1,A ‘Short-Circuit’ on F.B.I. Inquiry? Hillary Clinton Seeks to Explain - The New York Times
+7435,1,Donald Trump Is Elected President in Stunning Repudiation of the Establishment - The New York Times
+7471,1,Trump Speaks With Taiwan’s Leader, an Affront to China - The New York Times
+7473,1,Donald Trump Thrusts Taiwan Back on the Table, Rattling a Region - The New York Times
+7480,1,‘Cancel Order!’ Donald Trump Attacks Plans for Upgraded Air Force One - The New York Times
+7495,1,Democratic House Candidates Were Also Targets of Russian Hacking - The New York Times
+7532,1,Wrestling Propelled Hastert’s Career, and Provided Opportunity for Abuse - The New York Times
+7626,1,Ahmad Rahami: Fixture in Family’s Business and, Lately, a ‘Completely Different Person’ - The New York Times
+7727,1,Inside the Failing Mission to Tame Donald Trump’s Tongue - The New York Times
+7744,1,Donald Trump the Philanthropist Is Known for His Reluctance - The New York Times
+7753,2,How Donald Trump Used Hollywood to Create ‘Donald Trump’ - The New York Times
+7899,1,GRAPHIC: Three Killed in Drug Shootout Outside Ritzy Mexican Border State Bar
+8396,3,Hate Crime Hoax Finds Black Man Posing as Racist White Man in Obscene Letter Campaign - Breitbart
+8562,1,Mark Cuban on Breitbart News Daily: ‘I Learn from People Who Disagree with Me’
+9041,1,Paul Ryan Under Fire as Health Care Is Delayed Again
+9304,2,Senate Confirms Scott Pruitt to Lead Trump’s EPA Despite Dems’ Delay Tactics - Breitbart
+9972,1,Mark Cuban: Trump Is ’Political Chemotherapy’ for the System - Breitbart
+10297,1,Anonymous American Donor Funds ’Some Girls Have Penises, Some Boys Vaginas’ Poster Campaign
+10413,1,Italians Rejoice as Soros Ally Mayor Awarded UN Prize for Welcoming Migrants Kicked Out of Office
+10661,1,’Muslim Majority’ Versus Islamic Nations, Part 2: Sharia Law and Islam as the State Religion - Breitbart
+11161,2,100 Days of Trump in Asia: Winning over Duterte, Golf with Abe, and a ’Not as Good’ Deal with China - Breitbart
+11183,1,AP Source: Joshua Kushner May Buy Miami Marlins - Breitbart
+11325,1,15 Times Celebrities Envisioned Violence Against Trump and the GOP
+11328,1,Mark Cuban Hints at 2020 Presidential Run Against ’Idiot’ Trump - Breitbart
+11512,3,Ann Coulter: Swamp People: 47 Trump: 0
+11578,1,EXCLUSIVE -- Mexico Backs Down in Fight With U.S. over Extradition of Cartel Governor
+11609,1,The Vanquished to Witness the Takeover: Bushes, Clintons Will Attend Donald Trump’s Inauguration - Breitbart
+11711,1,Report: Probe of Netanyahu Focuses on Cigars, Champagne from Hollywood Producer
+11795,1,Exclusive — Sarah Palin on Paul Ryan’s ‘RINO-Care’: ‘Socialized Medicine’ President Trump Will ‘Step In and Fix It’
+11799,1,Otto Warmbier, American Taken Hostage by North Korea, Dies Days After Return to U.S. - Breitbart
+11823,1,5 Things We Know for Certain About the Mike Flynn Case - Breitbart
+11894,1,FULL TEXT: MILO on why the Democrats Lost the White Working Class - Breitbart
+11969,1,Republican Hindu Coalition Founder: Steve Bannon ’An Absolutely Great Guy’
+12198,1,Exclusive — Sean Spicer: President Trump Taking Message of Success Directly to America Around Inaccurate ‘Filter of the Mainstream Media’ - Breitbart
+12253,2,Chinese State Media: Trump Struck Syria to Show He Is ’No Businessman President’ - Breitbart
+12390,1,Rep. Mark Sanford: GOP House Leadership Bill an ’Opening Bid’
+12416,1,Comey: Russia Favored Trump Because Putin ‘Hated’ Hillary Clinton - Breitbart
+12489,1,Report: FBI Used ‘Peeing Russian Prostitutes’ Dossier As Justification For Spying On Trump Associate - Breitbart
+12559,1,Echo Chamber: Senators Ask Jeff Sessions Same Question About Russians 12 Times - Breitbart
+12788,1,President Trump Said ’Terror’ 31 Times, Obama in Cairo Said it ZERO Times
+12816,1,Russian MP Who Compared Putin’s Russia to Nazi Germany Publicly Assassinated in Ukraine
+13116,1,Paul Nehlen Launches Another Bid Against Anti-Trump Speaker Paul Ryan - Breitbart
+13366,1,Mayoral Candidate Paul Massey: New York Is Terror Target Number One, Time to Get Proactive
+13512,1,Paul Nehlen: Ryan’s Obamacare Bill ’a Bailout for the Insurance Industry’
+13815,1,Germany’s Merkel Hits Back After Trump Predicts Shrinking European Union
+14052,1,Nintendo of America Co-Founder Alan Stone Dead at 71 - Breitbart
+14151,1,Sacha Baron Cohen Takes Aim at Billionaire ’Greed’ with Latest Character
+14185,1,Report: U.N. Agency Is Helping North Korea with Patent for Nerve Gas Component
+14364,1,Leonardo DiCaprio Surrenders Marlon Brando’s Oscar to Justice Department
+14409,1,Gorka: Trump ’Incredibly Pragmatic’ About Relations with Russia, Iran
+14701,1,Actress Emma Thompson Tells TV Host Trump Once Asked Her Out
+14731,1,Duterte Berates 228 Policemen: ’Let’s Have a Gunfight... I Will Kick You, You Sons of Whores’ - Breitbart
+15047,1,Five Delicate Problems Trump Trusts Jared Kushner to Solve - Breitbart
+15055,1,Mike Pompeo: Attempts to Invalidate Trump’s Presidency Plays into Putin’s Hands - Breitbart
+15078,1,Trump Walk of Fame Star Vandalized During L.A. Gay Pride ’Resist’ March
+15099,1,ABC’s ’Black-ish’: ’A Vote for Trump is a Vote for Racism’
+15135,2,Exclusive — Inaugural Committee: ‘We Want All Americans’ to Join Donald Trump’s Inauguration This Is a ‘Movement of Unity for the People’
+15161,1,Tim Allen on Hollywood’s Anti-Trump Thought Police: It’s ’Like ’30s Germany’
+15455,1,Megyn Kelly Advances 4 Democratic Conspiracy Theories in Putin Interview - Breitbart
+15609,1,Social Media Society, Not Daily Beast, Should be Shamed
+15626,1,HuffPo Policy: Trump Must Be Be Called ’Liar, Racist, Sexist Bully’ In Every Post - Breitbart
+15782,1,Ann Coulter Lights Wisconsin on Fire for Paul Nehlen, Not Ryan
+15818,1,Judicial Watch, Allied Educational Foundation to SCOTUS: Protect the Laws that Keep Public Officials Honest - Breitbart
+15876,1,5 Reasons Why Trump Would be a Better President than You Thought - Breitbart
+16102,1,GOP Rivals Questioning Whether They’d Back Trump as Nominee - Breitbart
+16174,1,Mark Krikorian: Puzder Was Champion of ‘Jobs Americans Won’t Do’ Myth
+16195,1,Exclusive — ‘Don’t Vote for the Lying Witch’: Inside Donald Trump’s Movement-Driven Sunshine State Effort to Defeat Hillary Clinton in Florida - Breitbart
+16359,1,***GOP Convention LiveWire*** Trump Accepts Nomination - Breitbart
+16361,1,Elizabeth Warren: Donald Trump Is a ’Proven Failure’ in Business - Breitbart
+16368,1,Phil Ruffin: ’Trump’s Handshake Is Better Than Any Contract You Will Ever Write’ - Breitbart
+16398,2,Muslim Businessman Builds Huge Christmas Tree to Support Iraq’s Christians - Breitbart
+16510,1,Readers Are Abandoning Marvel Comics After Social Justice Invasion. Can You Blame Them? - Breitbart
+16832,1,Pastor Mark Burns: Trump Going to the Black Community to Solve Problems, Not Say ‘See You in Four Years’ Like Democrats - Breitbart
+16863,1,WATCH: The Investor Who Predicted The Recession Warns The EU Is About To Implode
+16942,1,National Review Spreads Debunked Claim Trump Voted for Obama - Breitbart
+16966,1,Globalists Unite: Hillary Clinton Running Mate Tim Kaine Dines with George Soros’ Son as Donald Trump’s Rise Terrifies World Elite - Breitbart
+17071,4,Trump to FNC’s Wallace on If He ’Snubbed’ Iowa Voters by Skipping Debate: ’You Have to Stick Up for Your Rights’ - Breitbart
+17095,1,Donald Trump Discloses 104 Page Personal Financial Report - Breitbart
+17177,2,Official: Turn South China Sea Island into Cayman Islands-Style Bank
+17189,1,Video: Islamic State-Linked Filipino Terrorists Threaten to Behead 3 Hostages
+17228,1,Brad Thor Warned That Demonizing Trump Would Lead to ‘Unprecedented Assassination Attempts’ - Breitbart
+17267,1,Daniel Pipes: Trump’s Muslim Immigration Policy Is Evolving for the Better - Breitbart
+17281,1,Seth MacFarlane, Barry Diller to Host Hillary Clinton Fundraisers in L.A. - Breitbart
+17289,1,Paul Ryan Plummets to 43 Percent in New Primary Poll
+17341,2,Cartel Violence Continues to Touch Wealthy Families in Coahuila’s Society
+17436,1,***Horse Race LiveWire*** Trump, Clinton Predicted to Stomp Super Tuesday - Breitbart
+17450,1,Debate Grades: Trump Comes Out on Top - Breitbart
+17486,1,Day After Election, GM Announces 2,000 Layoffs in Ohio, Michigan
+17533,1,***Horse Race LiveWire*** 2 Days to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+17567,1,Underdog Claudia Tenney Beats Establishment in New York Primary
+17598,1,Republican Establishment Flees Trump over 2005 Comments
+17645,1,The Big Nasty: Trump Rips Hillary’s ’Enabling’ Bill Questions ’Fauxcahontas’ Warren’s Indian Cred - Breitbart
+17669,1,The Legend Speaks -- Schlafly Thunders for Ryan Ouster: ‘Get Rid of Him!’
+17699,1,Trump Battles Jeb: George W Bush ’Lied’ - He Knew There Were No WMD - Breitbart
+17710,1,Meet the ‘Trumpocrats’: Lifelong Democrats Breaking with Party Over Hillary Clinton to Support Donald Trump for President - Breitbart
+17718,1,New Mexico Poll: Trump Leads Clinton 43% to 38% - Breitbart
+17743,1,Klukowski: Trump’s Supreme Court List a ’Conservative Goldmine’ - Breitbart
+17753,1,Hillary Appointed Clinton Foundation Donor, Financial Bundler to Sensitive Intel Post - Breitbart
+17810,1,***Horse Race LiveWire*** Ryan: I Don’t Want, Won’t Accept Nomination Jeb!, Top GOPers to Skip Convention - Breitbart
+17884,2,Donald Trump and Barack Obama: Proof Republicans and Democrats Live on Different Planets - Breitbart
+17886,1,Politico: Trump, Cruz on Collision Course in South Carolina
+17888,1,Trump Rallies the ‘Noisy as Hell Majority’ in Rubio and Jeb’s Backyard - ‘Kicking Ass in Florida’
+17954,1,Paul Nehlen: ’People Like Paul Ryan Have Hijacked This Great Country of Ours’
+18049,3,Shalabh Kumar: Electing Hillary Will Mean ’The End of This American Civilization’ - Breitbart
+18092,1,Marco Rubio: Donald Trump Should Sue Whoever Messed Up His Face - Breitbart
+18098,1,PICTURES: Farage Hailed A Hero On ‘Brexit The Movie’ Red Carpet
+18104,1,Ben Carson Calls For Meeting Of GOP Hopefuls To Restore ‘Civility’ - Breitbart
+18138,1,As Paul Nehlen Gains Traction, Paul Ryan Does Local Interviews
+18178,1,Mitt Romney Robotically Repeats Marco Rubio’s Robotic Talking Points to Attack Donald Trump - Breitbart
+18230,1,Watch: CNN’s Cuomo Battles Trump Supporter Michael Cohen Over Bill Clinton and ’Enabler-in-Chief’ Hillary Clinton - Breitbart
+18249,1,Rosie Defends Questioning Whether Barron Trump is Autistic
+18272,3,Trump: ’I Assumed’ Clinton Foundation Donations Were ’Put To Good Use,’ Clintons ’Never Really Did Anything For Me’ - Breitbart
+18304,1,Paul Nehlen Ad: Paul Ryan Lifted His Core Message from Hillary’s Running Mate Tim Kaine - Breitbart
+18337,1,Newsmax CEO: Give Jeb! a Second Look - Breitbart
+18379,1,The Hill: Clinton’s Lead Over Trump Down to 5 Points in Poll
+18471,1,Tom Fitton: Clinton Foundation Still ‘Open for Business’ -- ‘to Get in on the Racket, You Make a Donation Now’
+18491,1,Breitbart News Daily: Trump Unshackled - Breitbart
+18594,1,RNC on Debate: Hillary Clinton Must Deliver ’Near-Flawless Performance’ - Breitbart
+18745,1,Breitbart News Sunday: A Tale of Two Cities -- Janesville, Wisconsin and Twin Falls, Idaho
+18762,1,Police, Soldiers Swarm Mexico’s Acapulco, Killings Continue
+18788,1,Donna Brazile: Donald Trump ’Doesn’t Even Look Like Change’ - Breitbart
+18839,1,Hillary: Trump’s Candidacy Poses a Danger to America - Breitbart
+18896,1,Paul Nehlen’s Battle With Paul Ryan Kills Obamatrade
+18922,1,Exclusive — Tens of Thousands Projected to See Trump in Colorado as He Takes Lead in State over Hillary - Breitbart
+18930,1,CNN’s Tapper: NH GOP Primary ’A Great Night’ For Trump, ’Horrible Night’ for GOP Establishment - Breitbart
+18961,1,Patton Oswalt: Clinton a ’Badass’ for Campaigning with Pneumonia
+19040,1,New York Times Hits Donald Trump Over Guest Workers at Mar-a-Lago - Breitbart
+19136,1,New York Times: Trump Losses May Mean He Didn’t Pay Taxes for Years - Breitbart
+19164,1,Poll: One Third of Swing Voters Say Media Pulling for Hillary Clinton, One Tenth Say for Donald Trump - Breitbart
+19179,1,Panetta: Americans Should ‘Move On’ From Clinton Emails - Breitbart
+19230,1,Myra Adams: ‘Clinton Cash’ Tells America, ’We Are Stark Raving Mad If We Elect the Clintons‘ Again
+19339,2,Glenn Beck at CPAC: Compares Trump to Film Villain, Claims Industrial Revolution Started in America Because of Constitution
+19402,1,San Antonio Woos Raiders After NFL Rejects L.A. for Them - Breitbart
+19706,1,Austrian Politician Attacked For Comparing Migrants To Neanderthals - Breitbart
+19925,1,Statistics Show How Rarely Wisconsin Reps Are Ever Challenged
+19929,1,’Why I Am Campaigning For Article 50 Now!’
+19941,1,Sen. Jeff Flake Gets 2018 Primary Challenge For Opposing Donald Trump - Breitbart
+19948,1,Hillary Will Have Trouble Arguing Trump Is ‘Reckless’ After FBI Director Revealed Gmail Accounts More Secure than Her Private Email Server - Breitbart
+20020,1,Rodman Rebounds: Trump About to Fire Cruz, Too - Breitbart
+20026,1,Donald Trump Threatens To Sue Media Outlets, ’Open Up’ Libel Laws: ‘With Me, They’re Not Protected’ - Breitbart
+20045,2,Business Interests Benefitting from Castro Regime Urge Trump to Be Friendly to Cuba - Breitbart
+20046,1,Blacklisted: Drudge, Coulter, Hannity, Carson, Breitbart, O’Reilly, Christie Make GOP Smart Set’s List of ’Ideological Hustlers’ - Breitbart
+20050,1,Exclusive: James O’Keefe Outs Himself in George Soros Sting
+20061,1,Supreme Court Throws Out Bob McDonnell’s Federal Conviction
+20093,1,It’s a Boy! Ivanka Trump Gives Birth to Third Child - Breitbart
+20115,1,Tancredo: Good Thing Crony Capitalists Oppose Trump - Breitbart
+20162,1,Anti-Trump Mavericks Owner Mark Cuban Spotted Meeting with Steve Bannon - Breitbart
+20167,2,Bret Easton Ellis: Hollywood Players in the Closet for Trump - Breitbart
+20187,2,’The Hill’ Interviews Dr. Carson on Trump: ’They Genuinely Seem to Like Each Other’ - Breitbart
+20260,1,Ted Cruz On Corruption, and the Democrat Devastation of Detroit - Breitbart
+20454,1,Kendall: Rebellion in Wisconsin - Breitbart
+20548,1,Hillary Emails: ‘Overwhelm People with Five-Point Plans’ - Breitbart
+20553,1,’I Want to Quit Life’: Hollywood ’Devastated’ after Trump Win
+20597,2,Donald Trump: Clinton Foundation ’Must be Shut Down’ - Breitbart
+20776,1,’Angel Moms’ Who Lost Children to Illegal Alien Crimes to Hold Event at Wall Surrounding Paul Ryan’s Home - Breitbart
+20805,1,Paris Hilton: I Voted for Donald Trump
+20903,1,Betsy McCaughey: ‘Clinton Cash’ Shows How the ‘Crooked’ Clintons ‘Went from Broke to Filthy Rich’ - Breitbart
+20983,1,Trump Scores Historic 13 Million GOP Primary Vote Blowout
+21032,1,David Geffen Backs Away from Hillary, ’Not Supporting’ Anyone in Dem Primary
+21065,1,Hedge Fund Donations: $123M to Clinton, $19K to Trump
+21117,1,Trump Son-in-Law Emerges As Quiet Force - Breitbart
+21163,1,Quinnipiac Poll Shows Donald Trump, Ted Cruz Tied in Iowa - Breitbart
+21216,1,What Donald Trump Gets Right, and Wrong, on Trade - Breitbart
+21281,1,Saudi-Linked Company Works on Air Force One, VIP Aircrafts
+21289,2,WATCH: Trump Tells NH Rally FBI Re-opening Hillary Clinton Case
+21453,1,Sally Field: ’I Just Don’t Understand’ How Trump Won
+21466,1,Fox Host to WH Spox: People With Shrapnel in Their Shoulders Don’t Think This Is a Narrative Battle - Breitbart
+21477,1,Watchdog Demands DiCaprio Return ’Wolf of Wall Street’ Paycheck
+21522,1,Donald the Good - Breitbart
+21640,1,Islamic State Terrorists ’Shave Beards’, Prepare to Flee Mosul
+21645,1,BLOWOUT: TRUMP WINS NEW HAMPSHIRE - Breitbart
+21670,1,Ted Cruz in the Trenches: May Pick up Delegates in Louisiana as Donald Trump Caught Napping - Breitbart
+21676,1,Trump Flips Clinton’s Attacks: ’She Lacks the Temperament’ to Lead - Breitbart
+21701,1,EXCLUSIVE - Sheriff Joe: Country Should ’Go Bananas’ That ‘Disgusting’ Ex-Mexican President Compared Trump to Hitler - Breitbart
+21727,1,Business That Paid Bill Clinton $17M+ Linked to Nonprofit Funded by Hillary’s State Department - Breitbart
+21813,2,Ted Cruz: ’Trump Scared to Debate Me’ - Breitbart
+21830,1,***2016 GOP Convention LiveWire*** Trump Officially Clinches GOP Nomination - Breitbart
+22007,1,Six Refugees in Wisconsin Diagnosed with Multi-Drug Resistant TB Since 2014 - Breitbart
+22015,1,Malkin Backs Donald Trump On Hillary Clinton Attacks - Breitbart
+22087,1,Nervous! Scott Walker Sends Fundraising Letter for Paul Ryan: Nehlen ’Paul’s Toughest Fight Yet’ - Breitbart
+22121,1,Report: Donald Trump to Reach GOP Convention Only 74 Delegates Short of Majority - Breitbart
+22177,1,Breitbart News Daily: Bolton, Palumbo, and Captain Cook’s Endeavor - Breitbart
+22194,2,1/3 of South Carolina’s Manufacturing Jobs Have Disappeared Since NAFTA - Breitbart
+22212,1,The Truth about Huma Abedin that Media Matters Doesn’t Want America to See - Breitbart
+22230,1,Donald Trump, a Good Sport from Way Back - Breitbart
+22338,1,Donald Trump Moves to Unify GOP at California Party Convention - Breitbart
+22419,1,GOP Debate: Ted Cruz, Marco Rubio Level Donald Trump For His ‘Neutral’ Position on Israel - Breitbart
+22466,1,Sean Penn Interviews El Chapo for Rolling Stone... SHOCK: Magazine Gives Fugitive Drug Lord Editorial Control
+22470,1,Comedian Sacha Baron Cohen Suggests Trump will Choose Bill Cosby for V.P. - Breitbart
+22487,1,Five Devastating Facts About Hillary Clinton’s Foreign Funder, Gilbert Chagoury
+22541,1,Presumptive GOP Nominee Donald Trump: Republican Party Now ’A Worker’s Party’ - Breitbart
+22616,1,Andy McCarthy: Trump Playing GOP Voters For ‘Chumps,’ Because ‘He Is Exactly What We’ve Been Fighting All This Time’ - Breitbart
+22645,1,’Love-Fest:’ Megyn Kelly Blasts Donald Trump, Flirts With Michael Moore - Breitbart
+22659,1,Hillary Clinton Rewarded 194 Donors With Seats on State Dept. Advisory Boards - Breitbart
+22779,1,Polls: Donald Trump Pulls Away In Iowa and Georgia, Ties Hillary Clinton In Colorado, Closes Gap In Virginia - Breitbart
+22826,1,Beware: Meet Top 6 #NeverTrump GOP Insiders - Breitbart
+22901,1,***Horse Race LiveWire** Clinton Argues Trump Not Qualified to Be POTUS, Refuses to Defend Husband’s ’Honor’ - Breitbart
+22914,1,Brexit Comes to America: Ryan Challenger Mounts Immigration Billboard - Breitbart
+22921,1,ACU’s Schlapp: Hillary Was Obama’s Secretary of State - She Owns the Last Seven Years - Breitbart
+23243,1,Bloomberg: Trump Can’t Win in Muhammad Ali’s America - Breitbart
+23263,1,Embracing ’Angry’ Voters May Help Trump Win Nomination - Breitbart
+23319,1,Brazil’s Leftist Workers’ Party Collapses in First National Election Since Impeachment
+23342,1,Arizona Police Officer: I Felt Safe with Trump Supporters, but Protesters Were Profane, Dangerous - Breitbart
+23367,3,Cruz to O’Reilly: You ’Defend’ Trump ’A Lot’ - Breitbart
+23508,1,Trump Team Responds to Carl Paladino’s ’Reprehensible’ Comments about Obamas - Breitbart
+23542,2,Hillary Clinton’s Foreign Policy Failures: A Recent History
+23562,1,Peter Hitchens: The Catastrophe Theresa May Could Inflict If She Fails To Regain Control Of Our Borders
+23746,1,DAVI: It’s Time for Trump to Take The Lumps Out - Breitbart
+23835,1,In Today’s Media World, Trump’s Ruthlessness Is a Virtue
+23846,2,Fake News: Associated Press Pushes ’Safe Border’ Narrative to Critique Trump Wall
+23959,1,Ted Cruz Campaign Blindsided by Fox’s Gotcha Montage During Debate - Breitbart
+24141,1,Stephen Miller: Hillary Clinton a Corrupt ‘Economic Globalist’ Who Enriches Herself by ‘Selling Out America’ - Breitbart
+24227,1,Kellyanne Conway: Wisconsin Can ’Re-Set The Race’ For GOP Nomination - Breitbart
+24271,1,Failure to Launch: #NeverTrump Third Party Effort Dies Aborning - Breitbart
+24280,1,Poll: Donald Trump Ties Hillary Clinton in Colorado as Surge Continues - Breitbart
+24307,1,Paul Nehlen: Paul Ryan ’Sold His Vote! I Absolutely Believe That’ - Breitbart
+24405,1,RNC Blasts Jobs Report, Economy Needs a ‘Businessman’
+24442,1,Twitter Explodes with Donald Trump Assassination Fantasies - Breitbart
+24503,1,Gloves Off at GOP Debate: Cruz, Trump Brawl over ’Birthers’
+24517,1,Glenn Beck Pandered to Black Lives Matter Just Prior to Milwaukee Riot - Breitbart
+24520,1,Team Ryan on Trump Endorsement: The Speaker ‘Appreciates the Gesture’ - Breitbart
+24521,1,Howard Dean: ’No Question’ Trump Is Racist, But Not an Anti-Semite - Breitbart
+24641,1,Poll: Paul Ryan Leading Challenger Paul Nehlen 80 to 14
+24702,1,Andrea Mitchell to Clinton Spox: It Looks Like Clinton Crossed the ’Firewall’ Between St Dept and Fdn She Promised Wouldn’t Be Crossed - Breitbart
+24738,1,Breitbart Caller Cites Constitution In Support of Cruz - Breitbart
+24852,1,Ann Coulter: Media’s Outrage Should Start Working Any Day Now! - Breitbart
+24896,1,***2016 LiveWire*** Trump: ’I’ll Do More for African-Americans than Obama Has Ever Done’ - Breitbart
+24939,1,’SNL’ Offers Man-Baby as Third-Party Conservative Alternative to Trump - Breitbart
+24996,1,***Horse Race LiveWire*** GOP Candidates Debate in Houston - Breitbart
+25023,1,Poll: Donald Trump Takes Lead in North Carolina with Three-Point Edge Over Hillary Clinton - Breitbart
+25181,1,New Emails Show Top Clinton Aide Huma Abedin Setting Up Meetings with Major Foundation Donors - Breitbart
+25277,1,Colorado Senate Ad Compares Illegal Immigration to Exploding Toilet
+25377,1,Hillary Clinton Tries to Change the Conversation in Atlantic City - Breitbart
+25424,1,Peter Schweizer: More Emails to Come Showing Hillary Clinton’s ’State Dept. Doing Favors for Foreign Oligarchs’
+25454,2,FBI Investigation of McAuliffe Illegal Foreign Cash May Broaden to 2009 - Breitbart
+25557,1,Mark Cuban Would Rather ‘Lose Every Penny’ Than Have Trump as President - Breitbart
+25618,1,Donald Trump: ’Dummy’ Bill Kristol Has Been Wrong for Two Years, ’An Embarrassed Loser’ - Breitbart
+25651,1,Washington Post: Inside Bill Clinton’s Nearly $18 Million For-Profit College Gig - Breitbart
+25656,1,Gawker: We Punked Trump into Retweeting Mussolini Quote
+25772,1,Mark Cuban: On November 9, Steve Bannon and Breitbart Are the Big Winners - Breitbart
+25816,2,Dr. Sebastian Gorka on Trump’s Cabinet: ‘After Eight Years of Pajama Boys, It’s Time for the Alpha Males’
+25834,1,Mickey Kaus: ‘How Wisconsin Democrats Can End Paul Ryan’s Career — Next Week!’ - Breitbart
+25841,2,Paul Nehlen: Paul Ryan ‘Abandoned’ His District, ’Failed’ as Speaker - Breitbart
+25871,1,Donald Trump’s Hypocrisies - Breitbart
+25935,1,Iowa Ground War: Ted Cruz’s High-Tech Machine Versus Donald Trump’s Secret Army - Breitbart
+25957,1,Candid Nails: Mets, Phils Great Lenny Dykstra Talks Trump, Palin, Tobacco, Strawberry, and More - Breitbart
+26008,1,Paul Ryan Scrambles to Explain Trade Policy Effects on Workers
+26014,1,Paul Nehlen Calls for Removal of Paul Ryan’s ‘Dishonest’ TV Ads
+26097,1,ACLU Sues Indiana Town over Cross on Top of Christmas Tree - Breitbart
+26264,1,Exclusive -- Excerpt from Ed Klein’s ’Guilty as Sin’ on Hillary Clinton’s ’Fatal Flaw’
+26334,1,HuffPo, Daily News, Time: Media Attacks Move From Trump to His Supporters - Breitbart
+26341,2,CLAIM: Labour Party Muslims ’Cover’ For Sex Grooming Gangs, Use Death Threats And ‘Clan’ Politics   - Breitbart
+26353,1,Paul Nehlen Makes Final Appeal to Wisconsin Voters: ’One Vote to Save America’ - Breitbart
+26536,2,***Horse Race LiveWire*** GOP Candidates Debate in Michigan - Breitbart
+26543,1,Former British PM Tony Blair Says Europeans Anxious About The Prospect Of President Donald Trump
+26647,1,Sgt. Maj. Endorses Paul Nehlen: ’Paul Ryan Puts America at Risk’
+26670,1,DNC Feared Russia-Uranium Clinton Foundation Scandal
+26722,1,Hillary Clinton Throws Down: Donald Trump ‘Shouldn’t Have His Hands on Our Economy’ - Breitbart
+26732,1,Dem. Congressman: 40,000 Cuban Asylum Seekers Could Arrive in Coming Months - Breitbart
+26758,1,Reuters/Ipsos: Clinton’s Lead over Trump Narrows to 9 Points - Breitbart
+26759,2,Death Cab for Cutie: Our Concerts ’Will Always Be a Safe Place’
+26829,1,***2016 Livewire*** Democrats In Disarray On Eve Of Hillary Clinton’s Coronation Convention in Philadelphia - Breitbart
+26842,1,AP: Republican Leaders Starting to See Ted Cruz as Best Anti-Trump Alternative - Breitbart
+26851,1,Trump Expands Big Lead In Florida, Up In Ohio - Breitbart
+26880,1,Phil Robertson on the Milo Yiannopoulos Show: Sanders’ Socialist Totalitarianism Never Works Out Well - Breitbart
+26906,1,Trump Against the World: The Donald Regains Control in Home Stretch - Breitbart
+26923,1,Report: Leo DiCaprio Foundation Tied to $3B Malaysian Embezzlement Scheme - Breitbart
+26948,1,Detroit News: ‘Clinton Cash’ Shows How ‘Greedy and Unethical’ Clintons ‘Mastered the Art of Using Public Service for Personal Enrichment’ - Breitbart
+26954,1,Donald Trump Says Presidential Debates Shouldn’t Compete with NFL - Breitbart
+26987,1,***Horse Race LiveWire*** One Day to Super Tuesday - Breitbart
+27037,1,***Live Updates*** Pence, Kaine Square Off in VP Debate - Breitbart
+27070,2,Exclusive — Behind The Scenes With Trump In Detroit: How The Donald Has Become ’The Hope Candidate’ - Breitbart
+27092,1,NBC Chairman Robert Greenblatt Blasts Trump in Private Facebook Post - Breitbart
+27258,1,AP: Palin Lights Fuse That Implodes GOP - Breitbart
+27259,1,Exclusive — Donald J. Trump to San Francisco: Sanctuary Cities ’Unacceptable,’ A ’Disaster’ Creating ’Safe-Haven for Criminals’ - Breitbart
+27285,1,Robert Reich: Trump’s ’Anti-Politics’ Resonating with Ordinary Americans - Breitbart
+27288,1,Hacked Colin Powell Email: Hillary Clinton ‘Using Me as A Blanket’ to Cover Up Scandal
+27490,1,Gary Johnson to Never-Trumpers: ’I’m It’ - Breitbart
+27550,1,Bolton and Gorka Slam ‘Neocons For Hillary’ - Breitbart
+27557,1,Why We Lose: Fox Ridicules Donald Trump, GOP Candidates Side With Fox - Breitbart
+27706,1,***Horse Race LiveWire*** Poll: Rubio Craters to 4th Place In Michigan - Breitbart
+27753,1,Islamic Kindergarten Used For Orgies, Drugs
+27760,1,Paul Ryan Bows to Nationalist Populism as His Career Flashes By
+27790,2,Trump Walk of Fame Star Smasher: ’If I Must Go to Jail, I Will’
+27881,1,Mitt Romney’s Improvident Choice - Breitbart
+27903,1,New California Primary Poll: Trump 41, Cruz 23, Kasich 21 - Breitbart
+27946,1,Super Saturday: Ted Cruz Scores Upset Victory in Kansas Republican Caucus - Breitbart
+28002,1,Exclusive Data Analysis: Donald Trump Wins More Than 2 Million More Votes Than Mitt Romney in 2012 in States Voting So Far - Breitbart
+28005,1,Koch Brothers Will Not Oppose Globalist Clinton Ryan Headlines
+28174,1,Twitter’s Attempt to Silence Generation Trump - Breitbart
+28186,1,China Shuts Down Online Discussion of ’Panama Papers’
+28308,1,Steve Wynn: NV Ballot Initiative Criminalizes Soldiers Who Leave Gun Behind with Fiancée - Breitbart
+28386,1,Hillary Clinton’s Foreign Policy Legacy: A More Unstable, Less Free World - Breitbart
+28530,1,Tech Company Invites U.S. Workers Who Fear Trump to Emigrate to Canada - Breitbart
+28579,1,***Horse Race LiveWire*** Summer Bummer: GOP Fight Drags on to Convention - Breitbart
+28701,1,Wisconsin Media Refusing to Report on Law Enforcement Concerns with Paul Ryan on Immigration - Breitbart
+28798,1,Diamond, Silk toHillary Clinton: ‘Can’t Let a Crook Off the Hook’
+28863,1,Report: Megyn Kelly Insults Donald Trump Off-Camera as The Evil ’Voldemort’ - Breitbart
+28872,1,Kellyanne Conway First Woman to Run Victorious Presidential Campaign - Breitbart
+28881,1,Donald Trump Hits 50% In Massachusetts Primary Poll - Breitbart
+28917,1,***GOP Convention LiveWire*** Pence, Cruz Headline Day 3 - Breitbart
+28988,1,Reactions to ExxonMobil CEO Rex Tillerson as Secretary of State - Breitbart
+28997,1,Politico Scoop: Eric Trump Killed Two Deer - Breitbart
+29050,1,Frank Gaffney: Charles Koch’s Isolationism Like ’A Lot Of American Businessmen’ ’Towards Nazi Germany Before World War II’ - Breitbart
+29105,1,What Mike Pence Would Bring to a Trump-Pence Ticket - Breitbart
+29114,1,***Live Updates*** New Hampshire Primary Results: Trump, Sanders Projected Winners - Breitbart
+29120,1,Emma Watson Subscribes to Explicit Sex Website: ’Expensive’ but ’Worth It’ - Breitbart
+29260,1,***Live Updates*** 2016 Iowa Caucuses: Cruz 28%, Trump 24%, Rubio 23% Clinton 49.9%, Sanders 49.6% - Breitbart
+29301,1,Paul Nehlen Billboard Hits Ryan on Trade
+29304,1,Beijing Goes Ballistic after Peter Navarro Appointment
+29318,1,Reeling from Falling Polls, Paul Ryan Floods District with Mailers on Border Security After Funding Every Obama Open Borders Initiative - Breitbart
+29376,1,Exclusive-Rep. Mark Meadows: House Conservatives Ready on Day One to Help Donald Trump - Breitbart
+29396,1,Team Trump to Ryan: Maybe We Need a New Speaker - Breitbart
+29457,1,’Revenant’ Director Blasts Trump: Building a Wall Would ’Betray the Foundation’ of America - Breitbart
+29520,1,Khizr Khan Attack on Donald Trump Goes Down in Flames
+29681,1,Paul Nehlen: ’We Wouldn’t Even Have Borders’ If It Was Up To Paul Ryan - Breitbart
+29701,2,Ted Cruz Refuses to Endorse Paul Ryan for Congress - Breitbart
+29713,1,Trump Fans Protest West Hollywood Mayor’s ’Ban’ on The Donald
+29715,2,***2016 LiveWire*** Clinton in Atlantic City Trump to Campaign with Newt in Ohio - Breitbart
+29723,1,San Diego Businessman Launches Petition To Repeal ’Gunmageddon’
+29739,1,Navy SEAL Congressman: Trump Will ‘Put Our Veterans in Front of the Line Rather than Watch Them Die’ - Breitbart
+29743,1,Trump: ’I Am Pro-Life’ as U.S. Slides Toward ’Culture of Death’
+29808,1,Politico Scoop: Donald Trump May Be 6’ 2", Not 6’ 3" - Breitbart
+29848,1,Trump to Michigan Rally: ’Hillary’s Guilty. She Knows It’
+29895,2,Pakistani Police Strip Christian Man Naked, Beat Him to Death with Logs
+29925,1,Chris Matthews: Why Is Trump Thinking About Hiring ’Two-Faced Politician’ Romney? - Breitbart
+30012,1,Matthew McConaughey’s ’Sea of Trees’ Bombs With $2,730 Opening Week - Breitbart
+30052,1,Phyllis Schlafly’s Last Stand: The Inside Story of the Conservative Icon’s Internal Battle for Survival - Breitbart
+30126,1,Trump in Oklahoma: ’I Promise We Will Start Winning Again’
+30213,1,Trump, Cruz Fight It Out in South Carolina - Breitbart
+30257,2,The Nuclear Option: Founders Smiling on Trump for Returning Power to People - Breitbart
+30326,1,Trump: My Vice President Must Help Pass ’Wonderful Legislation’
+30333,1,Libertarian Party Suits Up For 2016 Race - Breitbart
+30340,1,Pennsylvania GOP Primary Rendered ’Meaningless’ by Uncommitted Delegates - Breitbart
+30467,1,National Review Goes Full-Snob: Attacks Donald Trump Voters as Ignorant Bigots - Breitbart
+30493,1,Tea Party Patriots Citizens Fund Endorses Paul Ryan Challenger Paul Nehlen - Breitbart
+30576,1,Peter Schweizer: Clinton Foundation Probe Must Continue — You Can’t Say ’She Gets a Free Pass Because She Lost’
+30605,1,Trump Walk of Fame Star Destroyed in Sledgehammer Attack
+30616,1,Paul Ryan Gets Standing Ovation at Koch Donors Retreat After Repudiating Trump’s Trade Policies - Breitbart
+30618,1,BBC: ’Trump Accuses China Of Raping U.S. Unfair Trade Policy’
+30652,1,Levin: Drudge and Breitbart ’Have Put Their Finger on the Scales’ For Trump - Breitbart
+30834,1,Civil Rights Leader Clarence Henderson Backs Trump: ’America Is a Business’ - Breitbart
+31061,1,Millionaire Donor Arron Banks Backs Kassam For UKIP Leader
+31068,1,Marc Rich Pardon Still Paying Off for Bill Clinton
+31079,1,NH: GOP Establishment Spends 20X Per Vote as Trump/Cruz - Breitbart
+31105,2,Ryan Challenger Responds to #NeverTrump Movement with #NeverRyan - Breitbart
+31240,1,Obama Hosts Secret White House Meeting With China’s Richest Man - Breitbart
+31254,1,Shock-Headline In Washington Post Attack On Trump’s Faith Not Supported By Story - Breitbart
+31277,1,David Bossie: Cruz Campaign ’in a Fetal Position Last Night,’ No ‘Path Forward’ without Indiana - Breitbart
+31290,1,HuffPo on Trump/Palin: ’Confederacy of Dunces’ - Breitbart
+31291,1,Tom Tancredo: Paul Ryan Has Enabled Illegal Immigration ’Since The Day He Walked Into Congress’ - Breitbart
+31373,2,***Horse Race LiveWire*** GOP Debate Tonight! - Breitbart
+31516,1,Exclusive: Benghazi Hero Would Not Enlist in Military Under President Hillary Clinton - Breitbart
+31527,1,It’s Time for Conservatives to Consolidate for Trump - Breitbart
+31528,2,Argentina’s Former President May Be Indicted for Money Laundering
+31581,1,Florida Senate Candidate Drops Out, Opening Space for Marco Rubio
+31742,1,Hill GOP skeptical over Trump plan to force Mexico payment of border wall
+31789,1,Tanden: Clinton will never run for office again
+31808,1,Cabinet hearings kick off: Meet Trump’s new government
+31815,1,Republicans ask if they should take Trump literally
+31832,3,Trump wants Obamacare repeal ’quickly,’ but Republicans aren’t ready
+31892,1,The 14 Trump tweets that defined his high-stakes week
+31899,1,The 7 top confirmation hearing moments
+32041,1,How the world sees a Trump presidency
+32144,1,CNN 10 - January 24, 2017
+32150,1,Senate committee approves Tillerson for secretary of state
+32170,1,Nikki Haley easily confirmed as UN ambassador
+32249,1,Trump meets with ’great guy’ Carlos Slim whom he once disparaged
+32268,1,Student, doctor, son banned by Trump: Now what?
+32328,1,Trump’s first days in office spawn dozens of lawsuits
+32374,1,Melania Trump hires chief of staff
+32400,1,Georgia lawmaker moves to shake up college rape investigations
+32414,2,Cubans anxious about change in US relations
+32454,1,Trump’s ’Muslim ban’ comments can hurt him in court
+32475,1,Romania protests continue over plans to revive corruption bill
+32477,1,Trump’s Labor Dept. pick admits to employing undocumented worker
+32529,1,Chris Kennedy joins Illinois governor race
+32797,1,Zakaria: Trump has ’hardly done anything’
+32854,1,Huge stakes for Trump immigration do-over
+33132,1,’America First’ puts freedom and leadership last
+33259,1,These Muslim Americans approve of the travel ban
+33263,1,Trump transition knew of Flynn’s pro-Turkey lobbying before White House appointment
+33268,1,Border mystery: Where are the immigrants?
+33294,2,Putting ’America First,’ Trump said to plan lighter foreign travel than predecessors
+33421,1,Iceland’s secret to happiness? It’s in the water
+33486,1,House Republicans pull health care bill
+33647,1,The only 4 things you need to know about Trump and Russia
+33692,1,Ivanka and Jared’s millions won’t help them govern
+33749,1,Masters 2017: All you need to know about Augusta
+33761,1,One week, three more Trump-Russia connections
+33777,1,Hertling: Trump’s first cold slap of reality
+33857,1,CNN 10 - April 10, 2017
+34002,1,Ethel Kennedy Fast Facts
+34072,1,Africans fear US travel after border denials
+34170,1,Barack Obama returns to remind us how radically different he is from Donald Trump
+34185,1,This poll number should scare Democrats
+34288,1,Detained Americans Fast Facts
+34304,1,How the world sees Trump, 100 days in
+34412,1,South Korea’s all-singing, all-dancing K-pop politics
+34472,1,Trump aims for high drama on first foreign swing
+34499,1,Dems hope Quist will win over Montana’s red voters
+34585,1,Many Trump backers are ’totally OK’ with Comey firing
+34597,1,Trump gets 2 scoops of ice cream, everyone else gets 1
+34616,1,Escalating the war in Afghanistan would be the wrong decision
+34680,1,Trump again reveals his dangerous incompetence
+34753,1,CNN 10 - May 19, 2017
+34759,1,What did Mike Pence know?
+34798,1,Sumner Redstone Fast Facts
+34881,1,The Pope and President: Unpredictable pair finally meet
+34886,1,Trump should be scared, Comey friend says
+34984,1,Trump, feted and chided abroad, returns to uncertainty
+35185,1,Peyton Manning joins Trump at golf club
+35265,1,Frank Lloyd Wright in 5 buildings
+35389,1,Rodman hopes to do ’something pretty positive’ in North Korea
+35401,1,Exclusive: Dennis Rodman heading to North Korea
+35417,1,Comatose Otto Warmbier lands in US after release by North Korea
+35465,1,Doctors: Ex-North Korea detainee Otto Warmbier has severe brain injury
+35502,1,Money stolen by Russian mob linked to man sanctioned for supporting Syria’s chemical weapons program
+35530,1,Trump, America needs Cuba’s business
+35560,1,FL governor: Zuckerberg missed out by skipping Trump meeting
+35663,1,Warren slams Trump and key surrogate Scott Brown
+35686,1,Did Donald Trump self-fund his way to the Republican nomination? Not exactly
+35775,1,NHL announces plans for Las Vegas team
+35898,1,Trump will say anything to get elected
+35914,1,Poll: Clinton extends lead over Trump
+35953,1,Public vetting of Kaine for Clinton VP begins
+35992,1,Clinton questioned by FBI as part of email probe
+35995,1,Trump campaign defends tweet as a ’basic star’ in wake of criticism
+36020,1,Ohio officials apologize to Muslim man falsely accused of ties to ISIS
+36021,1,The U.S. presidential graveyard: Intriguing end for lifelike sculptures
+36041,1,How Trump overshadowed Clinton’s bad weekend
+36060,1,ISIS: 143 attacks in 29 countries have killed 2,043
+36081,1,Donald Trump defends tweet blasted as anti-Semitic
+36083,1,How Newt Gingrich became Donald Trump’s inside man
+36092,1,Republicans cite conflicts and plan to skip Trump Hill meetings
+36213,1,Gen. Michael Flynn, possible Trump VP pick
+36217,1,First on CNN: House Democrats bracket Ryan with cable ad buy
+36232,1,Paul Ryan defends support of Donald Trump
+36248,1,GOP establishment welcomes Pence as potential Trump VP
+36315,2,Trump supporter stands by threatening email
+36348,1,Republican convention speakers: Ivanka, Newt
+36386,3,It’s official: Trump is Republican nominee
+36388,1,Trump benefits from countries with anti-gay laws
+36390,1,A spurned Christie commands the spotlight
+36425,1,Analysis: How plagiarism flap hurts Trump
+36440,1,Trump super PACs battle in Cleveland
+36443,2,Ivanka Trump delivers in prime-time
+36562,1,Hillary Clinton Fast Facts
+36585,1,Dems accuse Trump of disloyalty over Clinton emails
+36587,2,Bloomberg at DNC: Trump a ’dangerous demagogue’
+36603,1,Dem convention speeches Day 4: CNN’s Reality Check Team vets the claims
+36621,1,Trump to Khizr Khan: ’I’ve made a lot of sacrifices’
+36666,1,Ellicott City man details rescue of woman
+36675,1,Trump praises Ryan’s primary challenger
+36688,1,Trump isn’t backing Paul Ryan, John McCain
+36698,1,Obama says Trump ’unfit’ for presidency
+36727,1,Obama: Trump’s warning on elections is ’ridiculous’
+36758,1,How the GOP is betraying America
+36801,1,Thailand votes in favor of new constitution, preliminary results show
+36809,1,Chasing ’El Chapo’: Prison breaks, hideaways and life on the lam
+36844,2,Clinton slams Trump, rebuts his economic proposals
+36845,1,Organized protests disrupt Trump speech
+36857,1,Trump’s 2nd Amendment comments are his latest dangerous falsehoods
+36872,1,Secret Service spoke to Trump campaign about 2nd Amendment comment
+37068,1,Trump regrets saying ’the wrong thing’
+37129,1,Trump campaign, RNC convene Hispanic outreach effort
+37131,1,Timberlake steps in for DiCaprio to host Clinton fundraiser
+37145,1,Backstreet Boys, *NSYNC manager Pearlman dies
+37161,1,The Gordon Gekko era: Donald Trump’s lucrative and controversial time as an activist investor
+37311,1,Clinton Foundation official plays defense over accusations
+37319,1,Clinton’s debate strategy: It’s about setting low expectations
+37348,1,Rubio, McCain, Wasserman Schultz win primaries
+37357,1,I was on board with Kaepernick until....
+37522,1,Clinton, press do awkward dance at 30,000 feet
+37580,1,How Trump can woo black voters
+37597,1,Clinton plays role of commander in chief
+37667,1,Pence declines to call David Duke ’deplorable,’ disavows support
+37725,1,Pence says he’s getting ’whiff of desperation’ from Democrats
+37745,1,24 turbulent hours for Trump’s children
+37770,1,Obama: Would be ’personal insult’ to legacy if black voters don’t back Clinton
+37854,1,Trump: Black communities in worst shape ’ever, ever, ever’
+37882,1,NAACP president: Trump’s comments ’insulting’
+37946,1,Trump threatens to bring Gennifer Flowers to debate
+38008,1,D.C. Area Sniper Fast Facts
+38015,1,Candidates didn’t ’play nice,’ kids say of debate
+38028,1,Who won the debate?
+38040,1,2016 Presidential Candidates Fast Facts
+38106,2,What Trump tax report could mean for his campaign
+38146,2,Johnny Depp’s $12.7 million show-stopper
+38174,2,LinkedIn chief slams Trump over tax returns
+38181,1,Clinton: Trump ’contributing nothing to our nation’
+38186,1,Who won the debate?
+38188,1,Kaine, Pence debate: CNN’s Reality Check Team vets the claims
+38262,1,Evangelicals ’disgusted’ by Trump’s remarks, but still backing him
+38263,1,Lewandowski on Trump: ’We’re not electing a Sunday school teacher’
+38352,1,Three rich guys talk taxes, Trump and the vilified one percent
+38355,1,Crown Prince returns to Bangkok as Thailand holds vigil for ailing king
+38400,1,Remembering Mosul ahead of battle with ISIS
+38558,1,Ana Navarro: I’m voting for Hillary Clinton
+38562,1,Clinton, Trump administrations likely stocked with insiders
+38574,1,Exit polls: Clinton fails to energize African-Americans, Latinos and the young
+38607,1,Russia’s Putin pleased as Trump win shocks world
+38631,1,Why it’s difficult to predict what Trump will actually do as president
+38676,1,Jacob Zuma Fast Facts
+38703,1,This rare blue diamond could sell for $25M
+38787,1,Early Trump-world lesson: Don’t cross Jared Kushner
+38816,1,Flynn ran company that lobbied for foreign clients while he received intel briefings
+38842,1,Trump-Romney meeting another wild 2016 twist
+38906,1,Kushner explains how he led Trump to victory
+38918,1,Don’t worry! Trump is the Pillsbury Doughboy
+38920,1,Trump then and now: His changes since Election Day
+38959,1,Malaysia: Key government critic jailed under anti-extremism law
+39003,1,Trump should be the one apologizing, not Mitt Romney
+39010,1,Donald Trump: Fidel Castro is dead!
+39111,1,New Trump, same as the old Trump
+39194,1,Republicans angling for posh ambassadorships, RNC chair
+39264,1,Trump describes Election Night jitters to donors offers olive branch to critics
+39375,1,Trump could face showdown over Tillerson pick
+39387,1,White males dominate Trump’s top cabinet posts
+39393,1,Why is Rex Tillerson so controversial?
+39404,1,GOP heavyweights with ties to Exxon pushed Tillerson
+39423,1,Trump’s books offer clues on how he’ll lead from White House
+39649,1,He goes after the mob now he’s the target
+39703,1,Argentina’s ex-president charged in corruption case
+39741,1,Could this former death squad member bring down Duterte?
+39771,1,The folly of Trump’s palace guard
+39840,1,7 things we learned about Mike Huckabee from his new book
+39841,1,The 7 coolest things at CES 2015
+39946,1,Mike Huckabee, stop bashing Beyonce
+40161,1,Mental wellness warriors: Fighting for the mentally ill
+40185,1,Why the alleged Russian spy ring matters
+40222,1,Why Romney bowed out
+40396,2,Strauss-Kahn admits rough approach to sex
+40527,1,Inequality: Time for grown-up debate
+40835,1,’Pretty Woman’ at 25: Misunderstood feminist classic?
+41220,1,Soccer player Oliver Minatel attacked on plane
+41264,1,Tulsa shooting: Did volunteer deputy pay to play a cop?
+41266,1,Ex-Blackwater contractors sentenced in Iraq shooting
+41290,1,An accidental death, a fatal retaliation rips apart 2 Milwaukee families
+41404,1,David Koch picks a favorite?
+41525,1,David Beckham turns 40 - why booze and gambling?
+41764,1,Gay donor questions Rubio on same-sex marriage
+41796,2,Sex trade goes underground in China’s ’sin city’
+42167,1,The superyacht that’s also a jet plane and a helicopter
+42188,1,Manhunt for escaped killers expands to Vermont
+42211,1,Dogs hit escapees’ scent at gas station near prison
+42231,1,How escaped killers will give themselves away
+42278,1,Most diverse place in America is not where you think
+42347,1,Jeb Bush aims to define himself
+42378,1,Orange: The new black in Bangladesh?
+42399,1,Kohn: Trump’s outrageous Mexico remarks
+42492,1,Poll: Jeb Bush, Marco Rubio have broadest GOP appeal
+42504,1,Defying expectations, Bush makes serious push for Iowa
+42547,1,Poll: Trump near top of GOP pack in New Hampshire
+42609,1,Former Playboy girlfriends feud
+42647,2,Trump asks ’Who is doing the raping?’
+42654,1,Nicholas Winton, who saved children from Holocaust, dies
+42737,1,Trump: RNC call was ’congratulatory’
+42777,2,Trump draws thousands to Phoenix rally
+42826,1,El Chapo’s escape: No light at the end of his tunnel
+42831,1,Donald Trump, Jeb Bush heckler
+42864,1,Democrats hone name-free Clinton attacks
+42865,1,Why Donald Trump is surging in the polls
+42886,1,Lindsey Graham: Donald Trump is a ’jackass’
+42907,1,Veterans sound off on Donald Trump
+42927,1,Trump supporters shrug off McCain controversy
+42965,3,Trump lashes out at lawyer over breast pump break
+43024,1,The big money behind the super PACs
+43138,1,Warren Buffett looks for these 3 traits in people when he hires them
+43453,1,Mark Cuban goes after Trump in days-long tweetstorm for ’not vetted’ travel ban: ’I’m not sure he realizes how divisive he is’
+43458,2,Here’s why Elon Musk is changing his tune on Trump
+43520,1,How Tesla emerged from the brink of bankruptcy to become America’s coolest car company
+43572,1,Colombian president who hunted down Pablo Escobar: Don’t fight the drug war the way I did
+43614,2,The timeline of Trump’s ties with Russia lines up with allegations of conspiracy and misconduct
+43643,2,Mark Cuban offers cryptic response when asked if he’s considering future presidential bid
+43746,1,WHITE HOUSE: Russia-Ukraine ’peace plan’ controversy is an ’absurd, misleading attempt to distract’
+43926,3,Mark Cuban fires his opening salvo at attempting to fix Obamacare
+43995,1,Former White House national security pick Monica Crowley is now reportedly working for a pro-Russian oligarch
+44008,1,Yes, Trump paid taxes in 2005, they just don’t look much like a billionaire’s taxes
+44122,1,The Republican healthcare plan just failed because Trump is bad at making deals
+44126,1,’You don’t haul somebody overseas’: Ex CIA director says Michael Flynn may have gone too far in a meeting with Turkish officials
+44147,2,Mark Cuban is getting more serious than ever about politics — and in the age of Trump, the political world is starting to notice
+44169,1,’What I do depends on how things play out’: Mark Cuban on Trump, his 2020 plans, and why healthcare is a ’right’
+44176,1,Mark Cuban says healthcare ’should be a right’
+44214,1,It looks like Flynn is willing to ’turn his back’ on Trump — but the FBI may not need him to
+44229,2,MARK CUBAN: ’Here is my take on Trump and Russia’
+44259,1, A Trump associate reportedly set up a secret meeting to establish a back-channel between Trump and Moscow
+44310,1,Trump is reportedly considering a major staff shakeup amid a deepening rivalry between Steve Bannon and Jared Kushner
+44367,1,How North Korea pays for a nuclear program and lavish parties while under the tightest sanctions on earth
+44408,1,Tesla is getting dangerously distracted
+44571,1,Trump personally blames Obama for Michael Flynn’s security clearance
+44592,1,Carlos Ghosn saved Nissan — here’s his plan to do it again at Mitsubishi
+44655,2,A powerful Trump cabinet member is proving a point economists have been trying to make for years
+44737,2,MARK CUBAN: Here’s the bigger issue with Trump’s firing of James Comey
+44747,1,The Goldman guys in the White House are acting exactly how America feared they would
+44867,1,Sears’ CEO blames the media for company’s decline — but his obsession with Wall Street set it up for failure
+45018,2,’Call his bluff’: Mark Cuban tells Democrats how to punch back after Trump pulls out of Paris climate deal
+45027,1,The special counsel investigating Trump and Russia will include the Manafort case and possibly a look at Jeff Sessions
+45192,1,Jared Kushner’s finances and business dealings are now a focus of the Trump-Russia investigation
+45273,1,5 planes wrote ’Trump is disgusting’ in the air over California’s annual Rose Parade
+45337,1,TRUMP: I’ll write a very successful book about ’my own theory’ of Obama’s citizenship
+45370,1,TRUMP: You’ve got to give that ’maniac’ in North Korea some credit
+45663,1,NATE SILVER: Here’s who’s favored to win the Iowa caucuses
+45685,1,Lululemon’s founder gave a bizarre and cringeworthy interview
+45701,1,Republicans pile on Ted Cruz after Donald Trump accuses him of cheating in Iowa
+45863,1,A new national poll just found Ted Cruz vaulting past Donald Trump for the first time
+45987,2,Here are the terrible business deals Trump has swept under the rug
+46125,1,Trump paraded raw steaks and assorted ’Trump’ products out during his victory speech
+46144,1,Here are all the best moments from the big GOP debate
+46146,1,Ted Cruz delivered a parting shot at Donald Trump at the CNN debate
+46236,1,Here’s the man who’s destroying the Republican Party — but it’s not Donald Trump
+46345,1,Paul Ryan and Donald Trump are fighting for the control of the GOP
+46419,1,Donald Trump says NATO countries must ’pay up’ or ’get out’
+46659,1,John Kasich said some very strange things in his interview with the Washington Post
+46749,1,Influential Twitter investor Chris Sacca explains why Mark Cuban will be elected president of the US
+46775,1,Republicans are beginning to make peace with Donald Trump
+46778,1,Charles Schwab’s daughter shares the investing advice her father gave her in her 20s
+46800,1,HBO’s ’Silicon Valley’ nailed a huge question that all tech companies must answer
+46849,1,Michael Moore: Here’s how Donald Trump can win the general election
+46959,1,TRUMP: My financial disclosure ’is the largest in the history of the FEC’
+47023,1,Donald Trump expects to raise $1 billion for the general election, but some wealthy GOP donors have vowed to ignore his calls
+47063,1,PETER THIEL ON GAWKER: ’If I didn’t do something, nobody would’
+47111,2,Trump blasts ’loser’ Bill Kristol for promising a ’spoiler’ independent candidate
+47136,1,MITCH McCONNELL: I hope Bill Kristol is ’not successful’ in his efforts against Donald Trump
+47172,1,’I’m building a wall’: Donald Trump and CNN’s Jake Tapper have heated exchange over judge attacks
+47187,1,Hillary Clinton is hinting at her strategy to beat Trump — but she has to avoid falling into his ’trap’
+47217,1,These Chris Christie poll numbers are just brutal
+47230,1,One thing stood out to everyone watching Trump’s victory speech
+47249,1,Hundreds of small businesses and employees have reportedly accused Donald Trump of not paying them
+47263,1,Clinton has opened a double-digit lead on Trump in a new national poll
+47275,1,The ’Never Trump’ movement has emerged from the ashes
+47366,1,’I beat the hell out of them’: Donald Trump rails against establishment Republicans
+47396,1,4 New York police were arrested on charges of corruption and accepting bribes
+47537,1,At least 6 militants killed, several hostages rescued in Dhaka restaurant attack
+47635,1,Donald Trump entertains idea he might not actually serve as president if he wins election
+47673,1,After Dallas, conservatives rebel against the Drudge Report
+47986,1,Donald Trump officially endorses Paul Ryan after 4-day standoff
+48007,1,Donald Trump attack ad turns Hillary Clinton into a malfunctioning robot
+48052,1,Like ’David’ going up against ’the Leviathan’: Paul Ryan’s opponent speaks out after landslide loss
+48060,1,Donald Trump’s plummet in the polls doesn’t seem to be hurting Republican senators in swing states
+48107,2,What Paul Ryan’s primary could tell us about Donald Trump and the GOP
+48134,1,’The war on our police must end’: Donald Trump delivers ’law and order’ speech in Wisconsin
+48156,1,THE LEBRON JAMES INTERVIEW: The world’s best athlete reveals how his team pulled off the greatest comeback in NBA history
+48174,1,Former US congressman: Trump should have ’a backdrop with a burning car’ in outreach to black voters
+48177,3,Taking down Zetas cartel leaders has had an alarming effect on violence in Mexico
+48267,2,Silicon Valley investor says the IRS should drop its audit of Donald Trump
+48295,1,Trump speaks at a 7th-grade level — here’s how other politicians compare
+48316,1,A stunning number of Trump supporters are more likely to back him if he softens on immigration
+48347,1,Trump’s humiliating visit could doom Mexico’s president and his party
+48353,1,Hillary Clinton is facing mounting pressure to hold a press conference
+48355,1,MIKE PENCE: ’Donald Trump and I are both going to release our tax returns’
+48399,3,Tim Kaine tears into ’self-obsessed’ Donald Trump
+48420,1,Trump spends 7 minutes of major education speech defending false assertion he was against Iraq War before it started
+48492,1,Mark Cuban sounds off on the iPhone 7: ’They needed it’
+48642,1,What you need to know about the controversies surrounding the Trump and Clinton foundations
+48689,1,The 2016 ranking of the 10 most innovative universities in the world
+48716,1,’Shark Tank’ investor Barbara Corcoran weighs in on fellow real estate mogul Donald Trump
+48742,1,6 reasons why Trump’s tax returns bombshell could be devastating for his campaign
+48750,1,TRUMP: I ’brilliantly used’ tax laws to pay as little as possible
+48767,1,Donald Trump is trying out a new defense for allegedly not paying his federal income taxes
+48885,1,CUBAN: It’s ’the middle of the end’ for Trump and his business empire ’has a chance of going down with him’
+48930,1,Melania Trump says it’s acceptable for the campaign to bring up Bill Clinton’s infidelities, says Billy Bush ’egged on’ Donald
+48944,1,Donald Trump’s attorney: Trump’s sexual-assault accusers ’aren’t even women he’d be attracted to’
+49002,1,Donald Trump promised to stop a proposed deal for AT&T to buy Time Warner if he wins the election
+49008,2,Donald Trump has received his first major newspaper endorsement
+49078,1,Mark Cuban goes on tweetstorm to reassure panicked Dems: ’Everyone relax’
+49087,1,Donald Trump rips ’sleaze’ Anthony Weiner and ’problem’ Huma Abedin as he digs in on Clinton emails
+49093,1,I spent 2 hours with 12 undecided voters who hate Trump and Clinton — here’s what I learned
+49126,1,GLENN BECK: The ’race is over,’ Donald Trump ’should win’ by 5 points
+49142,1,Mitt Romney has cast his ballot — but hasn’t revealed whom he voted for
+49163,1,Kochs dismiss bombshell Mark Cuban allegation about trying to bribe Donald Trump out of the race
+49189,1,Trump reacts to FBI clearing Clinton in email probe: She is ’being protected by a rigged system’
+49202,1,Why a deep-red state is turning against the GOP
+49411,1,25 Wall Street movies to watch over Thanksgiving
+49580,1,CUBAN: ’Trump is our No. 1 draft pick’
+49637,1,Trump officially taps Goldman Sachs President Gary Cohn to be National Economic Council director
+49716,1,Actress Zsa Zsa Gabor has died at age 99
+49861,1,When America Last Had Two Presidents at One Time
+49939,2,The Donald Trump Cabinet Tracker
+49945,1,The Mystery of  Sherlock’s New Antagonist
+49965,1,A Brief Guide to Rex Tillerson’s Controversial Foreign Ties
+49993,1,Why Trump’s Conflict-of-Interest Plan Won’t Prevent Conflicts of Interest
+49997,1,Trump Announces Plan That Does Little to Resolve His Conflicts of Interest

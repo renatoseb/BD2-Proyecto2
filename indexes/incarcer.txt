@@ -1,0 +1,343 @@
+2,1,Tyrus Wong, ‘Bambi’ Artist Thwarted by Racial Bias, Dies at 106 - The New York Times
+83,1,Italian Inmates Sip, Smell and Taste Their Way to Rehabilitation - The New York Times
+239,1,Danielle Brooks: The First Time I Saw Myself on a Billboard - The New York Times
+240,1,For Troubled Student, a Change of School and Direction - The New York Times
+354,1,Tony Rosato, of 1981-82 ‘Saturday Night Live’ Cast, Dies at 62 - The New York Times
+378,2,Chelsea Manning to Be Released Early as Obama Commutes Sentence - The New York Times
+379,2,Chelsea Manning Describes Bleak Life in a Men’s Prison - The New York Times
+424,1,In a Blow to Prosecutor, South Korean Court Blocks Arrest of Samsung Group Leader - The New York Times
+560,1,Oscar Nominations 2017: 14 for ‘La La Land,’ and 6 for Black Actors - The New York Times
+1169,1,Trump’s News Conference, Russia, Facebook: Your Evening Briefing - The New York Times
+1198,1,Beyond ‘Hidden Figures’: Nurturing New Black and Latino Math Whizzes - The New York Times
+1331,1,The Jobs Americans Do - The New York Times
+1348,1,Trump Immigration Policies Pose Conflict for Police in ‘Sanctuary Cities’ - The New York Times
+1353,1,In a Champion’s Corner, a Real Coach Who Inspired One on ‘The Wire’ - The New York Times
+1393,1,‘Moonlight,’ ‘La La Land’ and Everything Else That Happened at the Oscars - The New York Times
+1584,1,2 Men Wrongfully Convicted in 1980 Fire Will Receive $31 Million - The New York Times
+1631,1,Among Questions for Trump on Iran: What About American Prisoners? - The New York Times
+1699,1,Netflix Casts a Wider Net for Original Documentaries - The New York Times
+1741,1,In Chicago and Philadelphia, the Difference a Park Makes - The New York Times
+1788,1,How Egypt’s Activists Became ‘Generation Jail’ - The New York Times
+1951,1,A Friend Lied About Dylann Roof’s Massacre Plan. Now He’ll Go to Prison. - The New York Times
+2017,1,The London Attacker: Quiet and Friendly, but With a Hostile Side - The New York Times
+2084,1,White House to States: Shield the Undocumented and Lose Police Funding - The New York Times
+2189,1,3 Men on Death Row in Louisiana Sue Over Solitary Confinement - The New York Times
+2292,1,A Debate: Should the Justice Department Police the Police? - The New York Times
+2560,2,On Crime Bill and the Clintons, Young Blacks Clash With Parents - The New York Times
+2622,1,An Amateur vs. ISIS: A Car Salesman Investigates and Ends Up in Prison - The New York Times
+2694,1,Sheldon Silver, Ex-New York Assembly Speaker, Gets 12-Year Prison Sentence - The New York Times
+2711,1,Black Americans See Gains in Life Expectancy - The New York Times
+2740,1,The Strange, Unending Limbo of Egypt’s Hosni Mubarak - The New York Times
+2834,1,Rich Defendants’ Request to Judges: Lock Me Up in a Gilded Cage - The New York Times
+2964,1,Oscar Pistorius Is Unfit to Testify at Sentencing, Psychologist Says - The New York Times
+3064,2,Democratic Party, Hillary Clinton, Donald Trump: Your Thursday Evening Briefing - The New York Times
+3070,5,Justice Department Reaches Deal With Mississippi County on Prison Reform - The New York Times
+3219,2,Peter Doig Says He Didn’t Paint This. Now He Has to Prove It. - The New York Times
+3221,2,Hillary Clinton and Donald Trump Strike Different Tones After Dallas Shooting - The New York Times
+3259,2,How a $2 Roadside Drug Test Sends Innocent People to Jail - The New York Times
+3523,1,Artist Accused of Disowning a Painting Testifies - The New York Times
+3600,2,In U.S. Jails, a Constitutional Clash Over Air-Conditioning - The New York Times
+3615,1,Pennsylvania’s Attorney General Is Convicted on All Counts - The New York Times
+3638,3,U.S. to Phase Out Use of Private Prisons for Federal Inmates - The New York Times
+3764,1,Iran Arrests Person Linked to Negotiations on Nuclear Deal - The New York Times
+3862,1,Young Blacks Voice Skepticism on Hillary Clinton, Worrying Democrats - The New York Times
+3926,1,The Secret History of Colombia’s Paramilitaries and the U.S. War on Drugs - The New York Times
+4278,1,How U.S. Torture Left a Legacy of Damaged Minds - The New York Times
+4317,2,WikiLeaks Emails Show Mayor de Blasio Venting at and Appealing to Clinton Campaign - The New York Times
+4336,1,Donald Trump Assails His Accusers as Liars, and Unattractive - The New York Times
+4428,1,Trump’s Inconvenient Racial Truth - The New York Times
+4548,1,Chelsea Manning Asks Obama to Cut Sentence to Time Served - The New York Times
+4634,1,Many in Milwaukee Neighborhood Didn’t Vote — and Don’t Regret It - The New York Times
+4712,1,100 Notable Books of 2016 - The New York Times
+4873,1,California Today: Schools Try to Calm New Fears Over Deportation - The New York Times
+5090,2,A Role Model and Mentor While Dad Serves Time - The New York Times
+5150,1,A Song for Bill de Blasio Sounds a Sour Note for Watchdogs - The New York Times
+5179,1,How Russia Recruited Elite Hackers for Its Cyberwar - The New York Times
+5209,1,Spare a Swipe? New York City Eases Rules for a Subway Request - The New York Times
+5256,1,From Albany to Prison: Ex-Lawmakers on Life Behind Bars - The New York Times
+5310,1,Donald Trump Tells N.R.A. Hillary Clinton Wants to Let Violent Criminals Go Free - The New York Times
+5315,1,Citing Family, Hillary Clinton Affirms Gun-Control Stance - The New York Times
+5670,1,Black Lives Matter Activists Stage Protests Across Britain - The New York Times
+5746,1,Alienated and Angry, Coal Miners See Donald Trump as Their Only Choice - The New York Times
+5809,1,Few Consular Visits for American Held in North Korea - The New York Times
+5875,1,The Playlist: Lady Gaga Returns Lovelorn, and Zack de la Rocha Returns Furious - The New York Times
+5997,1,Harry Belafonte: ‘Movements Don’t Die’ - The New York Times
+6014,1,Reader’s Guide to This Fall’s Big Book Awards - The New York Times
+6040,1,Showgirls, Pastrami and Candor: Gloria Steinem’s New York - The New York Times
+6217,1,California Today: Meet the New Mayor, Age 26 - The New York Times
+6389,1,New Mothers Derailed by Drugs Find Support in New Hampshire Home - The New York Times
+6390,1,After a Crime, the Price of a Second Chance - The New York Times
+6507,2,Cuomo Commutes Sentence of Judith Clark, Driver in Deadly Brink’s Robbery - The New York Times
+6523,1,Ex-New York Officer Gets 5 Years of Probation in Fatal Brooklyn Shooting - The New York Times
+6544,1,Daniel J. Berrigan, Defiant Priest Who Preached Pacifism, Dies at 94 - The New York Times
+6738,1,Harley Quinn, Just the Nice, Fun-Loving Psycho Next Door - The New York Times
+6807,1,The Artist Peter Doig Wins a Case Involving a Painting’s Attribution - The New York Times
+6838,9,This small Indiana county sends more people to prison than San Francisco and Durham, N.C., combined. Why? - The New York Times
+6864,1,Minority Youths Mistrust Police. A Brooklyn High School Has a Plan. - The New York Times
+6885,1,Black Female Playwrights Want You to Face Facts. The Harsh Ones. - The New York Times
+7013,2,Where Even Nightmares Are Classified: Psychiatric Care at Guantánamo - The New York Times
+7039,1,Killers on a Shoestring: Inside the Gangs of El Salvador - The New York Times
+7138,2,Trading the ‘Ugliness’ of Drugs and Jail for Motherhood and College - The New York Times
+7174,3,The Fighter - The New York Times
+7181,1,In Democratic Debate, Clinton and Sanders Spar Over Judgment - The New York Times
+7189,1,Earning the ‘Woke’ Badge - The New York Times
+7410,2,After Torture, Ex-Detainee Is Still Captive of ‘The Darkness’ - The New York Times
+7426,3,Life Beyond Bars: One Man’s Journey From Prison to College - The New York Times
+7477,3,For Blacks Facing Parole in New York State, Signs of a Broken System - The New York Times
+7570,3,One Robber’s 3 Life Sentences: ’90s Legacy Fills Prisons Today - The New York Times
+7572,1,Dallas Shootings Were ‘Vicious’ and ‘Despicable,’ Obama Says - The New York Times
+7637,1,The Best TV Shows and Movies New to Netflix, Hulu and More in October - The New York Times
+7941,2,EXCLUSIVE: Cartel Smugglers, Migrants Growing More Violent Against Border Patrol Agents
+7943,1,Jerry Brown’s AB 109 ’Reform’ Put L.A.’s Most Wanted Back on Streets - Breitbart
+7970,1,University of Wisconsin Students Demand Free Tuition for Black Students
+8507,1,International Women’s Strike Message: ’Decolonize Palestine’’
+8610,1,Exclusive—Regnery: Why Law Enforcement Will Like Justice Neil Gorsuch - Breitbart
+8853,5,Report: Colorado Taxpayers Paid $522M to Imprison Criminal Illegal Aliens in Last 20 Years - Breitbart
+9062,1,Four Illegal Aliens Arrested After ’Savage’ Gang-Related Killing of MD Teen
+9288,1,Geller: MILO to Speak at AFDI #CancelSarsour Protest at CUNY - Breitbart
+9337,2,Wikileaks’ Julian Assange at Embassy Balcony: ’I Will Not Forgive And Forget’, Criticises CIA and European Union
+9573,1,Berkeley Student Op-Ed: Free Speech Puts Student Safety at Risk - Breitbart
+9851,1,Resistance: Democrats Plan to Withhold Federal Taxes to Protest Trump - Breitbart
+10025,1,Libya: Migrant Women and Children Beaten, Raped in Jails
+10056,2,NY Times: Being a Sanctuary City ’Not Enough’
+10173,2,DHS Kelly Creates VOICE For Many Victims of Illegal Alien Criminals - Breitbart
+10755,1,Attorney General Jeff Sessions Reforming Obama’s Lax Policies on Crime, Drug Trafficking - Breitbart
+10784,1,Suburban Chicago School Teaches ’Blackenomics,’ ’Trans-Rights,’ and ’White Genocide Against Blacks’ - Breitbart
+10805,3,How Federal Agencies Keep Americans in the Dark About Crime Statistics
+11041,1,Report: Obama Gave $221 Million to Palestinians in Last Hours
+11063,1,Los Zetas Cartel Leader Arrested in Mexican Border State
+11574,1,AG Sessions: ’No Legal Problem’ with Imprisoning Jihadists at Guantánamo
+11705,1,WINNING: Trump Meets with American Freed from Egyptian Jail in No Quid Pro Quo Deal
+11815,4,Tancredo: Over 300 Sanctuary Cities Are Costing State and Local Taxpayers over $7,000,000,000 Annually - Breitbart
+12168,1,Berkeley Police Arrest Local Professor for Allegedly Beating Trump Supporters with Bike Lock - Breitbart
+12173,1,Trump on the US-Mexico Border Wall: ’We’re Going to Start Building’ - Breitbart
+12186,1,Report: Roman Polanski to Return to U.S., Settle Child Rape Case
+12249,1,NYT Slammed For Publishing Oped By Palestinian Terror Leader And Omitting Author’s History
+12279,1,Tancredo – Memo to President Trump: Two Border Patrol Patriots Still Awaiting Justice - Breitbart
+12381,1,Kansas City Man Freed After 17 Years in Prison When His Doppelganger Is Found
+12570,1,Stolen ’Work Will Set You Free’ Gate Returned to Dachau
+12636,1,FBI: Major Cities Hit by 21.6 Percent Spike in Murders - Breitbart
+12690,1,Tancredo - Illegal Aliens and Violent Crime: Some Amazing Facts - Breitbart
+13284,1,Prison Hell for Aaron Hernandez - Breitbart
+13494,2,Google Gives $11.5 Million to Combat ’Racial Bias’ in Justice System - Breitbart
+13527,2,Fake News: AP Touts Anti-Trump Poll with Warped Demographics Conducted by Soros-Backed Org
+14779,1,Katy Perry: ’I Did More’ Than Just Kiss a Girl During Christian Upbringing
+14819,1,Reuters: Remittances to Mexico Rose 25 Percent After Trump’s Election - Breitbart
+15181,1,Woman Only Given Probation After Allegedly Admitting She Raped 13-Year-Old Boy
+15869,1,Colin Kaepernick Praises Castro, Lashes Out at NFL Fans - Breitbart
+15903,1,Jay Z: War on Drugs an ’Epic Fail’ - Breitbart
+16416,2,Leaked Memo Reveals Soros Plan for Federally Controlled Police - Breitbart
+16521,1,Alicia Keys to Paul Ryan: Be My Valentine for Criminal Justice Reform - Breitbart
+16523,1,Black Lives Matter UK Halts Heathrow Airport Traffic For ’Moment Of Rage’
+16591,1,Haitians at DNC: ’We Hate Hillary’ She ’Belongs in Jail’
+16597,1,Cornel West: Bernie Sanders Would be ’Better for Black America’ Than Hillary Clinton - Breitbart
+16909,3,Leaked Doc: Soros Open Society Seeks to Reshape Census, Electoral Districts - Breitbart
+17023,1,7 Serious Issues Facing Black People that Aren’t ’Oscars So White’ - Breitbart
+17064,2,Hillary Loses the Left - Breitbart
+17169,1,Stalker’s Nude Peephole Vid Transforms Erin Andrews to ‘Shell of Person She Used to Be’ - Breitbart
+17333,1,Henry Rollins: White People Would ’Lose Their Minds’ If Forced to Be Black
+17445,1,Donald Trump Officially Opens Los Angeles Campaign HQ - Breitbart
+17505,1,John Legend: Planned Parenthood ‘Protects People from an Oppressive Government’
+17533,1,***Horse Race LiveWire*** 2 Days to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+17536,3,The Specter of De-Gentrification: The Once and Future Suburb - Breitbart
+17850,1,Activists Crash Stage, Threaten Milo Yiannopoulos at DePaul
+17938,1,Obama Commutes More Drug Traffickers’ Sentences Amid Heroin Epidemic, Crime Spike - Breitbart
+18124,1,***Live Updates*** Throwdown Thursday: GOP Candidates Debate Sans Trump - Breitbart
+18290,1,Mike Huckabee to George Will: Bye, Felicia!
+18342,1,***Live Updates*** Bernie, Hillary Debate in Wisconsin Moderator Donated to Clinton Foundation - Breitbart
+18628,1,Criminal Aliens Sexually Assault 70,000 American Women — But Paul Ryan Targets Trump - Breitbart
+18652,1,County Ends ‘Sanctuary’ Policy Before Trump Inauguration
+19270,1,’Welcome to Oaxacafornia’: Latinos Rally for Bernie Sanders
+19342,3,Dark Lord: Hacked Documents Reveal Magnitude of George Soros’s Influence
+19554,1,Teachers to Wear Black Lives Matter Shirts to Class to Protest ’Systemic Oppression’
+20077,1,***Live Updates*** Sanders, Clinton Participate in Ohio Town Hall  - Breitbart
+20302,1,Bernie Sanders Defeats Hillary Clinton in New Hampshire - Breitbart
+20388,1,Remembering Grant Ronnebeck: A Victim of A Mexican Cartel and Illegal Alien Crime - Breitbart
+20770,1,Black Lives Matter Named Grand Marshall of San Francisco Gay Pride Parade - Breitbart
+20966,1,Bill Clinton Half-Apologizes for Criticism of Black Lives Matter: ’A Sign of Old Age’ - Breitbart
+21584,1,Rape Victim’s Opinion On Stanford Rape Case Not PC Enough for Buzzfeed - Breitbart
+22055,1,‘Blunt’ Obama: Drug Problem Was Ignored When It Was Hurting Minority Communities - Breitbart
+22083,1,MS-13 Gang Members Convicted for Gruesome Murders in Virginia as Illegal Immigration Surge Continues - Breitbart
+22149,1,Stanford Students Demand Non-White University President, Microagression Policing - Breitbart
+22223,1,***Horse Race LiveWire*** Nevada Votes: Trump Beats Rubio, Cruz Combined - Breitbart
+22977,1,Jesse Jackson Strays from Prepared DNC Remarks, Flubs Tim Kaine’s Name - Breitbart
+23051,1,Hillary Clinton Slams Criminal Justice Policies Established By Bill Clinton - Breitbart
+23057,1,Feds, NYPD Conduct Largest Gang Bust in New York City’s History As Republicans Plot ’Jailbreak’ Bill - Breitbart
+23201,1,’Make America Mexico Again’: We Warned You About America-Hating Mobs - Breitbart
+23252,1,***DNC LiveWire*** Hillary Clinton Accepts Nomination - Breitbart
+23437,1,Jack Abramoff: I Was Imprisoned for Same Things Hillary Clinton Has Done
+23597,1,WATCH: 60s Radical Communist Angela Davis Supports Voting For Hillary - Breitbart
+23844,1,George Soros Spending $2 Million to Topple Arizona’s Sheriff Joe Arpaio - Breitbart
+23850,1,Politico Asks: ’What’s Wrong with Hillary?’ - Breitbart
+23899,1,***Horse Race LiveWire*** Clinton Plays Amnesty Card to Gin Up Left-Wing Base - Breitbart
+23964,1,Congress Demands Details on Illegal Immigrant Charged in Killing Spree - Breitbart
+24107,1,***Live Updates*** Dems Hold Sunday Evening Debate in South Carolina - Breitbart
+24204,1,Center for Immigration Studies Blasts ‘Sloppy’ Immigration ‘Fact-Checkers’ - Breitbart
+24236,1,Previously Deported Illegal Alien to Stand Trial for Murder
+24432,1,Al Regnery on Republicans’ Sentencing Reform Bill: ’Too Many Innocent People Will Get Hurt If This Bill Gets Passed’ - Breitbart
+24547,1,Sonnie Johnson: Are You Ready to Talk About Real Freedom Now, Jesse Williams? - Breitbart
+24921,1,Americans’ Opposition to Amnesty is Boosting Wages, Business Leader Admits - Breitbart
+24996,2,***Horse Race LiveWire*** GOP Candidates Debate in Houston - Breitbart
+25219,1,Rapper Hangs Noose Around Neck, Orders Fans to Destroy Confederate Flag to Protest Mississippi’s Confederate Heritage Month - Breitbart
+26049,2,Mitch McConnell: ‘All Of Us Came Here From Somewhere Else’
+26408,2,’Officers Down’: Cops Shot in Baton Rouge - Breitbart
+26465,1,Sheriff Joe: 39 Percent of Illegals Turned Over to ICE Return Back to Maricopa Co Jails - Breitbart
+26702,1,Bernie Sanders Supporters in Philadelphia Chant: ’Lock Her Up!’
+26790,3,O’Reilly: If Blacks Are Committing Crime ‘Out-of-Proportion’ to Other Groups, Why Is There a Racial Component to Blacks in Prison? - Breitbart
+26881,1,Sanders After Vermont Victory: This Is About ’Transforming America’ - Breitbart
+27340,2,FS1’s Whitlock: Kaepernick Protest Real Issues - Mass Incarceration, Destruction of Black Families - Breitbart
+27384,1,Bernie Is Back in Vermont: Write-In Hopes Soaring - Breitbart
+27700,4,Hillary: ’Over Incarceration’ a Consequence of Bill Clinton’s Crime Bill - Breitbart
+27706,1,***Horse Race LiveWire*** Poll: Rubio Craters to 4th Place In Michigan - Breitbart
+27769,1,As Hillary Clinton’s Campaign Falters, Progressive Presidential Nominee Jill Stein Has Opening to Rise - Breitbart
+27950,1,’Political Correctness’ Allows Islamist Hate To Spread In Prisons
+28027,1,Jack Abramoff: If Hillary Clinton Is Elected, She Will Have ‘Gotten Away with Selling Our Government for Hundreds of Millions of Dollars’
+28272,1,Hillary Loses Key Progressive Endorsement from Dr. Cornel West - Breitbart
+28311,1,Former Arizona Gov. Jan Brewer Endorses Donald Trump - Breitbart
+28358,1,Geller: Huffington Post Says Muslim Kids Fear Deportation, ’Internment Camps’ Under President Trump - Breitbart
+28478,1,Report Decries ‘Surge of Islamist Hyper-Extremism’
+28497,1,Anti-White Racism: The Hate That Dares Not Speak Its Name - Breitbart
+28616,1,Angela Rye: ’Superpredator’ Term, Reminds Me of When Black People Were Deemed ’3/5s Human’ - Breitbart
+29024,6,Criminal Justice Reform: Hijacked by The Left - Breitbart
+29210,1,Green Presidential Nominee to Face Criminal Charges After Pipeline Vandalism
+29289,1,Protesters Harass Chicago’s Trump Tower for Second Week - Breitbart
+29479,1,’Don’t Jail Jihadis, They’ll Only Get More Radicalised In Prison’
+29556,1,Report: Religious Freedom Worldwide ‘Under Serious and Sustained Assault’ - Breitbart
+29611,1,Officials Investigate How Rapper C-Murder Made Album from Jail
+29629,1,Ann Coulter: Throwing the Baby out with the Bongwater
+29754,1,***Live Updates*** Clinton, Sanders Debate in Flint, Michigan - Breitbart
+29954,1,Republican Joins Progressives in Fight to Abolish Death Penalty
+30006,1,Obama: I Will Consider It a ’Personal Insult’ to My ’Legacy’ If You Don’t Vote For Hillary - Breitbart
+30125,1,Britain Will Jail Islamic Extremists Separately From Other Prisoners
+30631,2,Ben Carson: Black Dependence on Democrats Has Meant ’Poverty and Broken Homes and Crime and Incarceration’ - Breitbart
+31042,6,REGNERY: Why Are Liberals Anxious to Free Violent Criminals From Prison? - Breitbart
+31128,2,Cruz: Hillary’s Conduct ’Far More Serious’ Than Petraeus, ’Could Well Face Felony Incarceration’ If Indicted - Breitbart
+31218,1,San Francisco to Expand ’Sanctuary City’ Law - Even After Steinle Murder - Breitbart
+31259,1,FBI Agents Furious at Top Brass for Letting Clinton Off the Hook
+31295,1,El Chapo’s Lawyer Slams Sean Penn - Breitbart
+31535,2,Lee Stranahan: My Weekend Incarceration in a Baton Rouge Prison
+31648,1,Prisoners decapitated in Brazil riot over drug turf
+31722,1,Attack a reminder of violence faced by disabled
+31927,1,Ahead of inauguration, thousands rally for immigration and civil rights
+31971,1,Fake IDs may have cracked 18-year kidnapping case
+32004,1,Obama cuts sentences of hundreds of drug offenders
+32014,3,Obama commutes Puerto Rican nationalist’s sentence
+32162,3,El Chapo meets his match: Brooklyn
+32213,1,’Justice failed’: Town apologizes for 1940 lynching
+32274,1,Violent crime in your city? More cops are not enough
+32775,3,Japanese-Americans recall WWII prison camps
+32781,1,New Yorkers rally to say ’Today I am a Muslim, too’
+32799,2,The cleric who altered the course of modern history
+32891,1,Philippines: Duterte critic De Lima arrested on drug-related charges
+32914,1,The historic Oscar moment you shouldn’t miss
+33114,1,Norway Terror Attacks Fast Facts
+33331,1,Jurnee Smollett-Bell: The wounds of slavery have not healed
+33355,2,Trump’s policies and how they’ll change America -- in charts
+33550,2,Mexico: 14 inmates at large after tunnel prison break
+33613,5,What $100 can buy you in jail might surprise you
+33835,3,Barack Obama’s evolution in 10 years of hip-hop lyrics
+33902,1,I got bumped from a flight. Then I sued
+33944,1,Teen guilty in fatal Delaware high school fight
+33968,1,1957 cold case officials sued for misconduct
+34289,1,MS-13 is Trump’s public enemy No.1, but should it be?
+34905,1,Caroline Kennedy on JFK: I miss him every day
+35119,1,US School Violence Fast Facts
+35416,1,Man freed after lookalike becomes suspect
+35692,4,The tale of two fatherhoods
+35852,1,Time to push back against the big guys
+35975,1,Why Adnan Syed case will give prisoners hope
+36149,1,Baton Rouge after Dallas: ’Where are we headed?’
+36195,1,Teresa Giudice on prison sentence: ’No one has a perfect life’
+36258,1,What police -- and the policed -- need to do
+36361,1,Terrorism: The jihad-crime nexus
+36548,4,CNN’s Reality Check Team vets the DNC claims
+36711,1,Black Lives Matter’s big step
+36770,1,Video purportedly showing US payment to Iran emerges
+36980,3,How to register to vote in every US state and territory
+37052,1,Jill Stein: I will have trouble sleeping at night if either Trump or Clinton is elected
+37104,1,How Lochte should have responded
+37109,1,Life inside the Philippines’ most overcrowded jail
+37303,2,Duterte’s crackdown: 6 stories from the front lines
+37423,2,Mad about Brock Turner’s sentence? It’s not uncommon
+37437,2,From a life sentence to clemency from Obama
+37540,1,Meet ’Queen Sugar’ standout Kofi Siriboe
+37615,1,Reagan shooter John Hinckley Jr. released from hospital
+37625,1,Eric Robert Rudolph Fast Facts
+37962,1,Pop. 17,049: Welcome to America’s largest jail
+37994,1,The debate in 140 characters (and more)
+38069,1,Are 911 calls affected by police violence?
+38161,1,Supreme Court, like the country, struggles with race
+38166,1,Former jails transformed into...
+38177,3,Ava DuVernay hopes ’13th’ will spark a ’revolution within’
+38283,1,Trump’s GOP trouble? It’s about white women
+38545,1,Janet Reno’s career punctuated by highs, lows
+38585,1,Coordinator of Paris, Brussels attacks ID’d
+38590,3,Penn State Scandal Fast Facts
+38602,1,Tear up the Democratic Party
+38693,1,Trump to supporters harassing minorities: ’Stop it’
+38728,1,’Making a Murderer’s’ Brendan Dassey ordered released from prison
+38755,2,Mexico works on plan to deal with Trump’s deportations
+39359,1,A home of their own after foster care
+39420,2,Football star-turned-addict gets second chance
+39676,1,7 huge stories you probably missed this year (but shouldn’t have)
+39825,1,Charlie Hebdo attack: Three terrorists killed in raids
+39923,1,Man freed by DNA after 20 years dies a year later
+39950,1,AQAP: How will France respond to Charlie Hebdo attack?
+40111,1,Colorado woman gets 4 years for wanting to join ISIS
+40119,1,Man wrongly imprisoned for decades now free
+40188,1,Court to toss Friendship Nine’s sit-in convictions
+40223,1,Aaron Hernandez murder trial and the Super Bowl
+41377,1,There aren’t more police shootings, just more coverage
+41495,2,Baltimore violence and the lack of black men in the city
+41508,2,Do marijuana prisoners deserve amnesty? (Opinion)
+41524,1,Dreams ’scattered’ by Nepal quake
+41563,2,Bill Clinton concedes role in mass incarceration
+41594,1,San Francisco text scandal: Police arrests questioned
+41841,3,Mental illness is no crime
+41934,1,A divided Baltimore watches Martin O’Malley
+42059,1,When the Bronx Zoo exhibited a man in an iron cage
+42069,1,Clinton calls for universal voter registration, calls out GOP opponents
+42424,1,Mental illness, addiction: Mother takes on ’broken system’
+42459,1,How babysitting money planted a seed to help Nepali kids blossom
+42479,1,In Charleston’s wake, Clinton speaks forcefully on guns, race
+42564,2,Opinion: Could you lose your license to drink?
+42595,1,Fight for equality isn’t over (Opinion)
+42739,1,Immigrants and crime: Crunching the numbers
+42757,1,Jared Fogle’s home raid: What does it mean? (Opinion)
+42815,2,President Barack Obama commutes sentences of 46 drug offenders
+42829,3,Rupert Murdoch: Donald Trump ’wrong’ on immigration
+42873,2,Changing how police respond to mental illness
+42894,1,DA: Sandra Bland’s death to be investigated as murder
+42914,2,Dispelling the myth of black fathers (Opinion)
+42952,1,’Black lives matter’: Why we need that slogan (Opinion)
+43033,1,Social media helps catch fugitive wanted for sex crimes with children
+43035,3,Paying for their time? Life after death row exoneration
+43237,1,9 former leaders write open letter urging Obama to commute sentences of more low-level drug offenders
+43249,1,REPORT: Bernie Madoff dominates the hot chocolate market in prison
+43645,2,A group of nearly 200 police chiefs slammed Trump’s ’law and order’ crime plan
+43935,1,Jeff Sessions says he will enforce federal law in an ’appropriate way’ — and the marijuana industry is rattled
+44019,1,Jeff Sessions ’appears intent on taking us back to the 1980s’ and the ’War on Drugs’
+44500,1,Two former prisoners reveal how they turned their lives around after their release
+44537,1,A judge just blocked Trump’s order on ’sanctuary cities’ — but they still offer only limited protection
+45029,1,ACLU files lawsuit against a South Carolina county for allegedly imprisoning people who can’t afford to pay minor fines
+45484,1,Mexico finally recaptured fugitive drug lord ’El Chapo’ Guzmán, but the fight is far from over — here’s what could come next
+46229,1,The heartbreaking story of the man who asked Hillary Clinton a ’profoundly difficult question’
+46522,2,Here’s what everyone is getting wrong about Bill Clinton’s 1994 crime reforms
+46922,1,The number of wrongfully convicted prisoners being exonerated is skyrocketing
+47709,1,I was a white police officer in the US — I know how deep the crisis of racism is
+48153,3,The number of women in jail is reportedly skyrocketing, but no one knows why
+48163,8,The debate over private prisons is masking the real problems with America’s prison industry
+48177,1,Taking down Zetas cartel leaders has had an alarming effect on violence in Mexico
+48180,1,A fast-casual chain is bringing healthy food to LA’s food deserts
+48294,1,The most hotly debated policing strategy of the last 20 years is far from finished
+48356,1,Donald Trump wades through protesters and parishioners in renewed outreach to African-American voters
+48438,1,Inmates are kicking off what could be the biggest prison strike in America
+48658,9,Here’s what Hillary Clinton and Donald Trump think about criminal justice
+48769,1,Bill Clinton to protester: I agree, it ’wouldn’t be good’ if I’d ’sent millions of your people to prison’
+48875,1,Texas has been locking people up for possessing traces of drugs too minuscule to be measured
+49016,1,Obama is trying to fix the ’war on drugs’ with clemency — but it won’t make a dent in mass incarceration
+49272,1,Trump plans to immediately deport or jail 2 to 3 million immigrants living in country illegally
+49289,2,Trump is starting to sound like Obama on immigration
+49342,1,How New York’s capital avoided becoming ’a flaming city’ after police killed a mentally ill, unarmed black man
+49474,1,How pedophiles could be better diagnosed — and possibly treated — using virtual reality
+49684,1,These maps show how Mexican cartels dominate the US drug market

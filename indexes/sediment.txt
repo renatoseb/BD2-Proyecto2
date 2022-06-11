@@ -1,0 +1,27 @@
+270,1,Neanderthals Were People, Too - The New York Times
+809,1,Republicans Move to Block Rule on Coal Mining Near Streams - The New York Times
+966,1,Meteor Puts on a Light Show Over Midwest, and for the Cameras - The New York Times
+1181,2,Disappearing Seagrass Protects Against Pathogens, Even Climate Change, Scientists Find - The New York Times
+1468,1,Scientists Say Canadian Bacteria Fossils May Be Earth’s Oldest - The New York Times
+1703,2,A Lake Turned Pink in Australia. It’s Not the Only One. - The New York Times
+2135,1,Slowing Down, Finding Hidden Paradise on St. John - The New York Times
+2487,4,In Ancient Guano, a Record of Penguin Disaster - The New York Times
+2677,7,Dredging of Miami Port Badly Damaged Coral Reef, Study Finds - The New York Times
+3201,1,Should the United States Save Tangier Island From Oblivion? - The New York Times
+3282,1,Central Park, Bucolic but Aging, Is in a Quest for $300 Million - The New York Times
+3804,3,World’s Oldest Fossils Found in Greenland - The New York Times
+4860,1,Cold Hands May Signal Raynaud’s Phenomenon - The New York Times
+6299,1,Great Barrier Reef Hit by Worst Coral Die-Off on Record, Scientists Say - The New York Times
+6871,2,Visions of Life on Mars in Earth’s Depths - The New York Times
+32869,2,NASA satellite photos show effects of California rain
+33750,2,The rise of the urban jungle
+35078,2,Toxic foam floods the streets of Bangalore
+35270,1,Oldest Homo sapiens fossils discovered
+35763,1,Ohio teen dies from brain-eating amoeba
+36023,1,Brain-eating amoeba at unusually high levels
+37043,1,Fourth brain-eating amoeba case of the year being treated
+37214,1,El Faro data recorder details crew’s final moments
+37850,3,Human skeleton found in Antikythera shipwreck
+40572,2,Oldest known jawbone from human genus found in Ethiopia
+41041,1,Ottoman camel skeleton found in Austrian cellar
+49543,1,A 58-story skyscraper in San Francisco is sinking — here’s why it probably won’t fall

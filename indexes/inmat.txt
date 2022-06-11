@@ -1,0 +1,418 @@
+26,1,Istanbul, Donald Trump, Benjamin Netanyahu: Your Morning Briefing - The New York Times
+34,4,Riot by Drug Gangs in Brazil Prison Leaves at Least 56 Dead - The New York Times
+76,6,Philippines Jailbreak Frees More Than 150 Inmates, Prompting Manhunt - The New York Times
+83,9,Italian Inmates Sip, Smell and Taste Their Way to Rehabilitation - The New York Times
+116,1,Donald Trump, Fort Lauderdale: Your Friday Evening Briefing - The New York Times
+128,8,Dozens of Inmates Killed as Prison Violence Escalates in Brazil - The New York Times
+134,1,A Young Mother’s Solitary, Uphill Struggle - The New York Times
+142,1,When Killer and Victim’s Mother Meet, Paths From Grief, Fear and Guilt Emerge - The New York Times
+215,3,Sentenced to Death: A Look at Dylann Roof’s Rampage and Its Aftermath - The New York Times
+222,3,Prisons Run by C.E.O.s? Privatization Under Trump Could Carry a Heavy Price - The New York Times
+237,7,The Hunger Strike, the Protest Tactic of Gandhi, is Vexing Iran’s Penal Overseers - The New York Times
+304,1,California Today: Is the Drought Over? - The New York Times
+339,1,Scott Pruitt, Trump’s E.P.A. Pick, Backed Industry Donors Over Regulators - The New York Times
+355,2,Death Toll From Brazil Prison Riot Reaches 26 Decapitations Are Seen - The New York Times
+379,9,Chelsea Manning Describes Bleak Life in a Men’s Prison - The New York Times
+475,1,‘Justice Nightmare’: 32 Years in Texas Prisons After Conviction Voided - The New York Times
+780,16,Inmates Take Employees Hostage at a Delaware State Prison - The New York Times
+810,3,New England Patriots, Lady Gaga: Your Thursday Evening Briefing - The New York Times
+879,1,Argentina’s Trump-Like Immigration Order Rattles South America - The New York Times
+954,1,Amnesty Report Accuses Syria of Executing Thousands Since War Began - The New York Times
+1234,1,Trump Proposal Would Deport More Immigrants Immediately - The New York Times
+1348,2,Trump Immigration Policies Pose Conflict for Police in ‘Sanctuary Cities’ - The New York Times
+1385,1,Feyisa Lilesa, Marathoner in Exile, Finds Refuge in Arizona - The New York Times
+1505,1,European Union, Nintendo Switch, ‘Logan’: Your Friday Evening Briefing - The New York Times
+1510,6,Arkansas Rushes to Execute 8 Men in the Space of 10 Days - The New York Times
+1951,2,A Friend Lied About Dylann Roof’s Massacre Plan. Now He’ll Go to Prison. - The New York Times
+1981,1,His Idea for Fighting Terrorism? Funny Plays - The New York Times
+2084,2,White House to States: Shield the Undocumented and Lose Police Funding - The New York Times
+2132,3,Ahmed Kathrada, Anti-Apartheid Activist in South Africa, Dies at 87 - The New York Times
+2163,1,Maajid Nawaz’s Radical Ambition - The New York Times
+2189,6,3 Men on Death Row in Louisiana Sue Over Solitary Confinement - The New York Times
+2218,12,Park Geun-hye’s Life in Jail: Cheap Meals and a Mattress on the Floor - The New York Times
+2311,1,Butter or Margarine? In Dunkin’ Donuts Lawsuit, Man Accepts No Substitutes - The New York Times
+2314,15,Brutal Force at Rikers Island Continues at an ‘Alarming Rate,’ Report Says - The New York Times
+2320,1,Assad’s History of Chemical Attacks, and Other Atrocities - The New York Times
+2340,3,Arkansas Parole Board Recommends Clemency for Death-Row Inmate - The New York Times
+2445,3,Frederick Wiseman: The Filmmaker Who Shows Us Ourselves - The New York Times
+2635,1,For Police, a Playbook for Conflicts Involving Mental Illness - The New York Times
+2694,1,Sheldon Silver, Ex-New York Assembly Speaker, Gets 12-Year Prison Sentence - The New York Times
+2882,8,‘Systemic’ Lapses Found in Escape of 2 Killers From Dannemora Prison - The New York Times
+2894,2,Hillary Clinton, Donald Trump, Narendra Modi: Your Tuesday Evening Briefing - The New York Times
+2896,4,5 Key Factors to the New York Prison Escape, in a Killer’s Words - The New York Times
+2970,1,Killing Twice for ISIS and Saying So Live on Facebook - The New York Times
+3042,4,What J. Dennis Hastert, Ex-House Speaker, Will Face in Prison - The New York Times
+3070,11,Justice Department Reaches Deal With Mississippi County on Prison Reform - The New York Times
+3121,1,California Today: How Badly Do You Want That New Rail Line? - The New York Times
+3143,1,Istanbul, Donald Trump, Boris Johnson: Your Thursday Evening Briefing - The New York Times
+3147,1,Adnan Syed, of ‘Serial’ Podcast, Gets a Retrial in Murder Case - The New York Times
+3200,1,‘I Was a Spy’: He Lived a Hidden Life, and Now Fears Deportation - The New York Times
+3218,1,Review: ‘The Night Of’ Takes a Cab Ride to Hell - The New York Times
+3219,1,Peter Doig Says He Didn’t Paint This. Now He Has to Prove It. - The New York Times
+3449,1,Dylann Roof’s Lawyers Argue Against Death Penalty - The New York Times
+3523,1,Artist Accused of Disowning a Painting Testifies - The New York Times
+3600,10,In U.S. Jails, a Constitutional Clash Over Air-Conditioning - The New York Times
+3638,13,U.S. to Phase Out Use of Private Prisons for Federal Inmates - The New York Times
+3668,1,‘This Only Confirms the Image of the U.S.A.’ - The New York Times
+3697,1,Lou Pearlman, Svengali Behind Backstreet Boys and ’NSync, Dies at 62 - The New York Times
+3905,1,Taliban Close to Overtaking Afghan Provincial Capital, Officials Say - The New York Times
+3926,5,The Secret History of Colombia’s Paramilitaries and the U.S. War on Drugs - The New York Times
+4144,1,New York Tonight: A Fatal Blast in the Bronx, and a Bullet in Brooklyn - The New York Times
+4422,12,Merciless End for a Long Island Cop Killer - The New York Times
+4474,1,Hillary Clinton, Donald Trump, Mosul: Your Wednesday Briefing - The New York Times
+4580,31,‘I Was Terrified’: Inmates Say They Paid a Brutal Price for a Guard’s Injury - The New York Times
+4667,2,After Obama Push for Clemency, Hints of Reversal Likely to Come - The New York Times
+4686,1,Jailed by Egypt, Honored for His Photojournalism - The New York Times
+4814,65,The Scourge of Racial Bias in New York State’s Prisons - The New York Times
+4856,2,Donald Trump, Iran, Joe McKnight: Your Tuesday Evening Briefing - The New York Times
+4873,1,California Today: Schools Try to Calm New Fears Over Deportation - The New York Times
+4938,4,Once Again, Justice Breyer Presses Case Against Death Penalty - The New York Times
+5179,1,How Russia Recruited Elite Hackers for Its Cyberwar - The New York Times
+5184,13,Judith Clark’s Radical Transformation - The New York Times
+5214,1,Earthquake Leaves a Trail of Destruction in Ecuador - The New York Times
+5256,7,From Albany to Prison: Ex-Lawmakers on Life Behind Bars - The New York Times
+5343,1,From Paris to Bavaria, Heavy Rains Cause Deadly Floods - The New York Times
+5354,1,California Senate Race Is a Tale of Diversity and a Flailing G.O.P. - The New York Times
+5366,2,Supreme Court to Hear Death Penalty Cases - The New York Times
+5384,2,Hillary Clinton, Donald Trump, Muhammad Ali: Your Friday Evening Briefing - The New York Times
+5434,3,Brooklyn Residents Seek Answers After a Mentally Ill Ex-Convict Is Fatally Shot - The New York Times
+5504,1,Adnan Syed Retrial Ruling Disappoints Family of Victim in ‘Serial’ Case - The New York Times
+5610,2,Texas Rape Victim Was Jailed for Fear She Would Not Testify, Lawsuit Says - The New York Times
+5668,2,Dylann Roof Attacked by a Fellow Inmate, Officials Say - The New York Times
+5765,1,Abu Zubaydah, Tortured Guantánamo Detainee, Makes Case for Release - The New York Times
+5948,3,California Voters Face Choice: End Death Penalty, or Speed It Up - The New York Times
+5950,1,Keith Scott’s Family Sees Videos of His Killing, and Says the Public Should, Too - The New York Times
+6162,2,California Today: With Trump’s Rise, a Return to the ‘Rebel State’ - The New York Times
+6289,1,Holocaust-Themed Ice Dance in Russia Draws Condemnation - The New York Times
+6339,15,Governor Cuomo Orders Investigation of Racial Bias in N.Y. State Prisons - The New York Times
+6390,1,After a Crime, the Price of a Second Chance - The New York Times
+6507,2,Cuomo Commutes Sentence of Judith Clark, Driver in Deadly Brink’s Robbery - The New York Times
+6591,1,A Small-Town Resident’s Secret for 48 Years: He Was a Fugitive - The New York Times
+6680,12,‘Time in the Box’: Young Rikers Inmates, Still in Isolation - The New York Times
+6694,2,2 Bailiffs Shot to Death at Michigan Courthouse - The New York Times
+6756,1,From a Dacha Wall, a Clue to Raoul Wallenberg’s Cold War Fate - The New York Times
+6807,1,The Artist Peter Doig Wins a Case Involving a Painting’s Attribution - The New York Times
+6838,7,This small Indiana county sends more people to prison than San Francisco and Durham, N.C., combined. Why? - The New York Times
+6884,7,6 Ex-Rikers Guards Sentenced to Prison in Attack on Inmate - The New York Times
+6962,1,Lil Wayne’s Album Is Stalled. His Opinions Are Still Flowing. - The New York Times
+7155,1,Berlin, Putin, Trump, Israel: Your Friday Evening Briefing - The New York Times
+7174,15,The Fighter - The New York Times
+7175,1,A Brother’s Crimes and a Sister’s Betrayal Make ‘Judas’ a Dutch Best Seller - The New York Times
+7249,1,Out of Prison for Acid Attack, Dancer Hopes to Get Back to the Bolshoi - The New York Times
+7292,4,On Death Penalty Cases, Tim Kaine Revealed Inner Conflict - The New York Times
+7305,1,For Anne Holton, Tim Kaine’s Wife, Elite Circles Are Old Turf - The New York Times
+7356,9,Virginia Officials Request U.S. Inquiry After Inmate Deaths in Jail - The New York Times
+7426,9,Life Beyond Bars: One Man’s Journey From Prison to College - The New York Times
+7477,45,For Blacks Facing Parole in New York State, Signs of a Broken System - The New York Times
+7493,2,The Lethal Gaps in How the Supreme Court Handles the Death Penalty - The New York Times
+7570,6,One Robber’s 3 Life Sentences: ’90s Legacy Fills Prisons Today - The New York Times
+7597,1,Flocking to Robben Island: Tourists by Day, Poachers by Night - The New York Times
+8494,2,Sweden to Give Prison Guard Internships To New Migrants
+8625,1,Terrorist Who Killed Lee Rigby Will Pursue £20,000 Lawsuit for Teeth Broken in Prison
+9110,1,Sports Writer: NFL Great Jim Brown’s Decades of Civil Rights Work is Erased for Saying Nice Things About Donald Trump - Breitbart
+9213,1,East London Murder Suspect Used Welfare Benefits to Join Islamic State
+9263,1,Eight Immigration Victories Won for Americans in 2016 - Breitbart
+9657,3,Escaped Inmate Takes Cop’s Weapons, Kills Man in Texas Border City
+9667,1,UN Has Another Opportunity to Condemn Cuba’s Oppression with Disappearances Review - Breitbart
+9780,1,Son of Former Democratic VP Nominee Geraldine Ferraro Is Pardoned for 1988 Cocaine Conviction - Breitbart
+10173,1,DHS Kelly Creates VOICE For Many Victims of Illegal Alien Criminals - Breitbart
+10236,1,Report: George Soros Tied to More Than 50 ‘Partners’ of Anti-Trump Women’s March
+10441,1,Dave Chappelle Accused of Making ’Homophobic, Transphobic’ Jokes in Netflix Specials
+10508,1,Mexican Cartel Kills Activist Mom Searching for Mass Graves
+10862,4,Cuban Immigrant Behind Deadly Rampage in Texas
+10939,2,Open Borders Lobby Blasts Sheriff’s Deportation Deal
+11064,1,Sessions to Strip Billions from Sanctuary Cities
+11121,1,Exclusive - Pro-Trump VA Gov Candidate Corey Stewart Makes Final Appeal to Populist Voters on Eve of Primary - Breitbart
+11193,2,Detained Illegal Aliens End 3-Day Hunger Strike
+11338,9,8,000 Colorado Inmates Given Computer Tablets with Games, Books, Music - Breitbart
+11577,1,LULAC Files First Lawsuit Against Texas ’Sanctuary’ Ban
+11604,1,Trump and Kelly ’Dismantle’ Obama’s ’Progress’ for Illegal Immigrants
+11815,4,Tancredo: Over 300 Sanctuary Cities Are Costing State and Local Taxpayers over $7,000,000,000 Annually - Breitbart
+11835,1,Illegal Aliens in Maryland HS Bathroom Sex Case Face Child Porn Charges
+12083,1,Dozens of Barrio 18 Gangsters Escape Military Prison
+12179,1,Report: Refusal by Mass. Police to Honor Immigration Detainers Increasing
+12236,1,Protests in Paris Ahead of Putin Visit to French Capital
+12254,1,Aaron Hernandez’s Body Finally Catches Up to His Soul on Day Patriots Visit Trump White House - Breitbart
+12279,1,Tancredo – Memo to President Trump: Two Border Patrol Patriots Still Awaiting Justice - Breitbart
+12389,1,’Deport Me!’ Czech Child Abuser Begs the British Authorities
+12497,3,Video: Mexican Cartel Forces Rivals to Clean in Lingerie Inside Prison
+12670,7,Tennessee Prison Hosts Program to Help Inmates Become Better Fathers
+12690,3,Tancredo - Illegal Aliens and Violent Crime: Some Amazing Facts - Breitbart
+12904,3,29 Cartel Inmates Escape Border State Prison
+12983,1,Trump Tweets: Democrats Help MS-13, Heroin Smugglers by Opposing Border Wall - Breitbart
+13006,2,U.S. Supreme Court To Hear Texas Illegal Alien Death Penalty Case
+13284,1,Prison Hell for Aaron Hernandez - Breitbart
+13516,2,VIDEO: Cartel Tunnel Discovered Inside Mexican Border Prison
+13518,1,Pope Francis Gives TED Talk: ‘Power Is Like Drinking Gin on an Empty Stomach’
+13602,1,EXCLUSIVE -- Sanctuary Cities Subject to ‘Stiffest Penalties in America,’ Says Texas Governor
+13823,2,Mexican Cartel Leader Forced to Perform Prison Sex Acts on Rivals
+13826,3,Britain to Create ’Jihadi Jail’ to Stop Islamists Radicalising Fellow Inmates
+13833,1,Deep-State DOJ and Disqualified Judge Seek Jail Time for Sheriff Joe Arpaio - Breitbart
+13880,1,Former Gangster Goes from Prison to Ivy League Graduate
+14164,2,Massachusetts Sheriff Calls for Arrests of Sanctuary City Leaders - Breitbart
+14292,1,Report: Illegal Aliens Arrested for Murder, Violent Crimes Years After Deportation Orders - Breitbart
+14314,1,FLYNN: When Obama Blocked Cubans, the Sandwich Boards Molded Over - Breitbart
+14646,1,’No Chance’: Former Aaron Hernandez Agent Raises Fears of Foul Play in Player’s Suicide - Breitbart
+14715,2,Sheriff Caves to ACLU Pressure to Release Criminal Aliens
+14783,4,California Murder Convict Undergoes Taxpayer-Funded Sex Reassignment Surgery - Breitbart
+15318,1,Gitmo Doctor Would ’Consider’ Gender Transition Surgery for Jihadi Prisoners
+15422,1,Judge Rules Another Trump Immigration Order Unconstitutional
+15523,3,Murder Suspect Caught Taking Selfies Behind Bars
+15974,1,Study: Four of Five Criminals Acquire Guns Illegally
+16013,1,Police Ignored Anjem Choudary As They Persecuted Tommy Robinson
+16065,1,’Orange Is the New Black’ Concludes Season with Homage to Black Lives Matter - Breitbart
+16108,8,Inmates Show Off Weapons Arsenal in Venezuela Prison
+16515,6,Belgian Prisons ’Like North Korea’ As Strike Crisis Hits - Breitbart
+17308,1,‘Orange is the New Black’ Star Sues NYPD for $10M After Arrest
+17533,3,***Horse Race LiveWire*** 2 Days to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+17536,1,The Specter of De-Gentrification: The Once and Future Suburb - Breitbart
+17565,1,Comedy Central to Explore Racism and Excessive Force with ’Police Roast’ - Breitbart
+17794,3,Muslim Inmate Sues Indiana Sheriff’s Office for Refusing Him Halal Meal - Breitbart
+19264,1,Trans Star Laverne Cox: Bathroom Privacy Laws Are About ’Stigmatizing and Pretending We Don’t Exist’ - Breitbart
+19283,1,’Deradicalised’ Islamic State Fighters Producing Terror Propaganda Videos in Germany - Breitbart
+19344,6,REVEALED: Imams Preaching Saudi-Imported Hate Texts In British Jails
+20590,2,Hiring Criminals to Hire Criminals: Your Tax Dollars at Work
+21266,3,Mexican Cartel Attempts Armed Prison Break in Border State
+21539,3,Orlando Jihadi Cleric: Spongebob Turning Muslim Boys into ’F*ggots’
+21796,1,Texas AG: Sanctuary Cities Ignore the Rule of Law
+21849,1,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+21855,1,Ready for Ryan? Paul Ryan Refuses to Rule Out Running for President: ’Never Say Never’ - Breitbart
+22125,2,Family of Murdered Woman Sues San Francisco over ’Sanctuary City’
+22273,7,A Harsh New Reality May Await El Chapo in Colorado’s Supermax Prison - Breitbart
+22392,1,Anniversary of Sandra Bland’s Death Raises Tension Amid War on Cops
+22657,1,Media Focuses Illegal Immigrant Children Numbers, Forgets Horror Stories at Hands of Smugglers
+22795,2,Man Released by Prop. 47 Arrested for Attempted Murder
+23033,1,Iran State TV Announces ‘Prisoner Swap Deal’ for Four Americans Held in Iran - Breitbart
+23458,1,Bogus Cliven Bundy Lawsuit: BuzzFeed Busted Fabricating Trump Smear - Breitbart
+23893,3,Texas Sheriff Stands Strong on Jail Immigration Program Despite Activists’ Pressure
+24102,2,PHOTOS: Inmates in Mexican Prison Lived in Luxury Before Deadly Riot
+24248,1,Muslim Prisoner Carved ISIS Motto Into Army Veteran Cellmate’s Forehead
+24395,10,Texas Prisoners Bust Out of Jail – To Save Jailer
+24653,2,Paul Ryan to Take Up Prison Break Bill Amid Crime Wave, Cop Shootings - Breitbart
+24794,2,Jerry Brown Grants Another 112 Pardons for Christmas - Breitbart
+24881,1,Gun-Controlled San Francisco Leads U.S. with Property Crime Surge
+26790,1,O’Reilly: If Blacks Are Committing Crime ‘Out-of-Proportion’ to Other Groups, Why Is There a Racial Component to Blacks in Prison? - Breitbart
+26986,1,Female Prison Guard Suspected To Have Freed Migrant Rapist, Husband Fears The Pair Have Fled To Syria - Breitbart
+27049,1,Report: Wikileaks Whistleblower Bradley Manning Attempted Suicide Tuesday - Breitbart
+27149,1,FBI: Vanished Teen From 2009 Gang-Raped, Shot, Fed to Alligators - Breitbart
+27689,1,Donna Brazile Denies Feeding Hillary Clinton Questions Ahead of CNN Town Hall - Breitbart
+27815,4,Jorge Ramos to DREAMers: You Are the ’Rosa Parks of This Time’
+27950,1,’Political Correctness’ Allows Islamist Hate To Spread In Prisons
+27999,1,Venezuela: Government Allows Cannibal Prisoner to Torture, Eat Fellow Inmates - Breitbart
+28123,4,Pennsylvania Prison Ends ’Food Loaf’ Punishment for Prisoners
+28767,1,Vatican Expert: Pope Francis a ‘Friend of Islam’
+29024,2,Criminal Justice Reform: Hijacked by The Left - Breitbart
+29479,2,’Don’t Jail Jihadis, They’ll Only Get More Radicalised In Prison’
+29762,1,Jared Fogle Left Bloodied After Prison Yard Beatdown - Breitbart
+30015,2,DATA: Young Muslims in the West Are a Ticking Time Bomb, Increasingly Sympathising with Radicals, Terror
+30125,1,Britain Will Jail Islamic Extremists Separately From Other Prisoners
+30216,2,Donald Trump Slams ’Heartless Hillary’ Clinton’s Soft-On-Crime Plans - Breitbart
+30445,4,Jailers Arrested for Allegedly Having Sex with Inmate - Breitbart
+31042,2,REGNERY: Why Are Liberals Anxious to Free Violent Criminals From Prison? - Breitbart
+31134,1,Geller: Muslim Who Plotted to Behead Me Returns to Catholicism
+31218,1,San Francisco to Expand ’Sanctuary City’ Law - Even After Steinle Murder - Breitbart
+31535,3,Lee Stranahan: My Weekend Incarceration in a Baton Rouge Prison
+31641,1,Dylann Roof ruled competent for sentencing
+31648,2,Prisoners decapitated in Brazil riot over drug turf
+31654,1,Dylann Roof: ’There’s nothing wrong with me psychologically’
+31782,1,Brazilian prison riot leaves 4 dead
+31826,1,Dylann Roof jury: Death penalty for Charleston church shooter
+31852,2,They may not forgive Dylann Roof, but they don’t want him dead
+31856,1,What’s next for Dylann Roof after federal death sentence?
+31916,4,26 die in latest Brazilian prison riot
+31943,3,28 escape in deadly prison break, officials say
+32011,1,44 ways to judge the Obama era
+32049,6,Obama’s last transfer of Gitmo detainees, Trump inherits 41
+32252,1,Florida’s largest county to comply with Trump’s sanctuary crackdown
+32274,1,Violent crime in your city? More cops are not enough
+32370,9,Delaware corrections officers held hostage at prison
+32371,1,Ex-Manson Family member found ’suitable for parole’
+32379,8,Delaware prison officer ’saved lives’
+32558,1,Wave of deadly violence follows police walkout in Brazilian city
+32599,2,Gorsuch Judiciary Committee answers questionnaire
+32698,2,Suspect in Orlando officer’s killing indicted
+32731,1,Deadly storm slams Southern California
+32889,4,DOJ walks back guidance discouraging use of private prisons
+32891,1,Philippines: Duterte critic De Lima arrested on drug-related charges
+33072,2,Judge under scrutiny after undocumented immigrant escapes courtroom
+33291,1,Nearly 100,000 displaced since start of western Mosul assault
+33547,1,Taliban Fast Facts
+33550,9,Mexico: 14 inmates at large after tunnel prison break
+33613,3,What $100 can buy you in jail might surprise you
+33656,4,Wanted: Volunteers to witness Arkansas’ back-to-back executions
+33662,1,Rikers Island to close, New York mayor says
+33787,2,Wrongfully convicted man wants ’name back’
+33806,4,Four inmates dead at South Carolina prison
+33835,2,Barack Obama’s evolution in 10 years of hip-hop lyrics
+33854,7,Officers injured in incidents at two US prisons
+33872,1,Pakistan to execute Indian man accused of spying
+33971,4,Court blocks Arkansas from using lethal injection drug
+33975,2,Set to die: Does mental competence matter?
+33994,9,Federal judge issues injunction to block Arkansas executions
+33996,2,Aaron Hernandez Fast Facts
+34013,2,Start your Monday smart
+34014,2,Gorsuch full week 1: Religious liberty, voter IDs
+34044,5,Start your Tuesday smart
+34049,9,Arkansas execution delayed as Supreme Court refuses to overrule state court
+34101,6,Arkansas executes death row inmate Ledell Lee
+34131,1,Aaron Hernandez found dead near 3 handwritten notes
+34169,5,Arkansas executes 2 men in one night
+34205,3,Oklahoma commission recommends death penalty moratorium
+34246,5,Arkansas puts hold on execution as US Supreme Court reviews case
+34283,9,Executed inmate’s convulsions put new spotlight on midazolam
+34336,2,Jurors recommend criminal charges in inmate’s dehydration death
+34419,1,Aerial images show devastating flooding in central US
+34421,1,New details on Aaron Hernandez’s apparent suicide in prison
+34434,1,Flooding hits NYC after inundating Midwest
+34437,7,Aaron Hernandez suicide note to fiancee: ’Tell my story fully ...’
+34508,1,Boko Haram Fast Facts
+34606,10,Georgia inmate seeks execution by firing squad
+34610,15,Death Penalty Fast Facts
+34635,4,SWAT team kills inmate who took hostage at Illinois hospital
+34872,2,Aaron Hernandez requested cellmate he called ’my heart’
+34929,2,Alabama executes inmate Tommy Arthur after multiple delays
+34944,1,Serial Killers Fast Facts
+34976,1,Texas nurse indicted in second child’s death
+35131,9,Prisoner-transport officer accused of sexual assault
+35299,1,Accused leaker Reality Winner pleads not guilty
+35421,3,Police: 2 officers killed, 2 inmates on run in Georgia
+35464,3,Escaped Georgia inmates captured after chase
+35623,8,Botulism outbreak suspected at federal prison
+35781,5,Police recapture second jail escapees
+35971,2,Democrats call for end to death penalty
+36054,19,Cold case informant: Leak endangered my life
+36099,1,Manning’s lawyers seek answers after apparent suicide attempt
+36149,1,Baton Rouge after Dallas: ’Where are we headed?’
+36210,3,Michigan shooting: Inmate kills 2 bailiffs, sheriff says
+36234,1,Manning tweets ’I’m OK’ after suicide attempt
+36323,2,Texas correctional officer killed in prison
+36361,1,Terrorism: The jihad-crime nexus
+36463,1,Governor rejects parole for ex-Manson family member
+36548,2,CNN’s Reality Check Team vets the DNC claims
+36657,2,Dylann Roof case: Defense lawyers file challenge to death penalty
+36747,4,Accused Charleston church shooter Dylann Roof beaten in jail
+36978,2,Fallen officers: 64 shot dead this year
+37004,1,Largest transfer of Gitmo detainees under Obama announced
+37042,1,Little boy in Aleppo a reminder of war’s horror
+37109,11,Life inside the Philippines’ most overcrowded jail
+37130,1,Judge seeks criminal contempt charges against  Arpaio
+37303,2,Duterte’s crackdown: 6 stories from the front lines
+37415,1,What a Trump win would mean for LGBT equality
+37435,1,Brock Turner released after 3 months in jail
+37437,1,From a life sentence to clemency from Obama
+37573,1,Georgia policeman charged with raping woman on way to jail
+37665,5,French inmate unlocks others fire set
+37680,2,Chelsea Manning will undergo gender transition surgery, lawyer says
+37962,22,Pop. 17,049: Welcome to America’s largest jail
+38312,2,US death toll from Matthew climbs to 21
+38453,1,50 years later, who are the heirs of the Black Panthers?
+38589,1,Larry King Fast Facts
+39273,1,Thomas temporarily stays execution of death row inmate
+39336,2,Supreme Court deliberations on execution kept quiet
+39420,4,Football star-turned-addict gets second chance
+39432,1,Trump picks campaign adviser Friedman as US ambassador to Israel
+39437,1,Dylann Roof trial: Will he get the death penalty?
+39441,1,2016 In Review Fast Facts
+39487,1,Phil Spector Fast Facts
+39540,1,Obama grants clemency to 231 individuals, largest single day act
+39676,1,7 huge stories you probably missed this year (but shouldn’t have)
+39839,1,Cleric Abu Hamza al-Masri sentenced to life in prison
+39918,3,Georgia executes Vietnam vet in deputy’s murder
+39935,1,Oklahoma execution now up to Supreme Court
+39959,1,Oklahoma executes Charles Warner
+40013,9,Fighting death: At 75, nun’s soul still stirs for cause
+40014,1,On patrol with Skid Row’s ’angel cop’
+40022,6,Supreme Court backs beards in prison
+40106,5,High Court reviews Oklahoma lethal injection procedure
+40119,1,Man wrongly imprisoned for decades now free
+40159,1,She danced for Dr. Mengele in Auschwitz
+40161,1,Mental wellness warriors: Fighting for the mentally ill
+40192,7,Georgia executes man despite disability claim
+40208,2,Supreme Court stays executions of three in Oklahoma
+40231,1,Ohio to delay 7 executions
+40290,9,Inmate’s teacher alleges rape, prison negligence
+40360,1,Brazil prison escape follows seduction
+40486,2,Mistakes made at cold case trial, but murder verdict sticks
+40612,1,Texas nearly out of execution drug
+40660,1,Utah Senate OKs execution by firing squads
+40742,2,New documents reveal botched execution details
+40766,1,Mesa shootings: 1 dead, 5 injured, police say
+40772,1,Robert Durst withdrew $40,000, had mask, affidavit says
+40867,1,Utah to allow firing squads for executions
+40944,1,’Family Matters&quot star busted for failure to pay
+41031,1,Al Qaeda fighters free 270 from Yemen prison
+41081,1,Lawsuit: Guatemalans deliberately infected with STDs
+41109,3,Bali Nine: Australian drug smugglers’ legal bids fail
+41301,12,What prison life will be like for Aaron Hernandez
+41302,1,Aaron Hernandez verdict: Guilty of murder
+41374,2,Public shaming, social media, ruined lives
+41462,1,Tsarnaev trial: The middle finger seen ’round the world
+41474,4,Indonesia executions: Foreign envoys summoned
+41526,1,Jeffrey Dahmer’s killer explains why he did it
+41562,2,Dzhokhar Tsarnaev relative testifies in bombing trial
+41594,1,San Francisco text scandal: Police arrests questioned
+41632,2,Federal inmates on death row: Life can go on and on
+41701,3,Source: Aaron Hernandez involved in prison fight
+41841,5,Mental illness is no crime
+41927,3,Unlikely friendship blossoms between killer and scholar
+42020,1,Texas biker shootout: Suspect sues city, cops
+42123,5,2 killers escape from prison in upstate New York
+42146,3,Escaped killers’ ride backed out, source says
+42147,5,Will ’Angola 3’ inmate Albert Woodfox be released?
+42188,4,Manhunt for escaped killers expands to Vermont
+42211,5,Dogs hit escapees’ scent at gas station near prison
+42238,2,New York prison escape: Towns under virtual lockdown
+42266,4,New York prison employee arraigned on felony
+42291,1,Joyce Mitchell: New York prison worker charged
+42311,2,New York prison break: Source says search has gone cold
+42331,4,New York prison break: Was husband warned about plan?
+42332,1,Al Qaeda No. 2 leader Nasir al-Wuhayshi killed in Yemen
+42355,6,New York prison break: Inmate gave Mitchell painting
+42375,1,What will happen to the prison tailor? (Opinion)
+42408,8,New York prison escapees added to most wanted list
+42409,4,Husband of prison worker Joyce Mitchell feels betrayed
+42424,5,Mental illness, addiction: Mother takes on ’broken system’
+42463,2,New York prison break: Possible sightings of escapees
+42475,1,Charleston shooting suspect appears in court
+42480,2,Kennedy, Thomas disagree on solitary confinement
+42487,1,New York prison break: Focus of manhunt shifts again
+42511,4,New York prison break: DNA found in cabin
+42539,13,2nd prison worker charged in inmates’ escape
+42556,3,Boston bomber Dzhokhar Tsarnaev says he’s sorry
+42579,1,Tsarnaev arrives at Colorado prison
+42649,3,David Sweat: I grew frustrated with breakout partner
+42739,2,Immigrants and crime: Crunching the numbers
+42773,1,Pope: Poor are sacrificed on ’the altar of money’
+42806,7,How the Court dodged lethal injection issue (Opinion)
+42826,1,El Chapo’s escape: No light at the end of his tunnel
+42868,3,Death penalty: Why America needs a rethink
+42898,3,Report: New York prison escapee broke out of cell nightly
+42967,16,Joyce Mitchell’s confession: Sex, a painting and a plan
+43035,2,Paying for their time? Life after death row exoneration
+43237,1,9 former leaders write open letter urging Obama to commute sentences of more low-level drug offenders
+43497,2,Inmates at a Delaware prison are taking the guards hostage
+43645,3,A group of nearly 200 police chiefs slammed Trump’s ’law and order’ crime plan
+43942,7,A man who went undercover in an Atlanta jail for 2 months learned something unexpected about gang life
+44406,1,Trump’s crackdown on ’sanctuary cities’ is creating a chasm among police
+44537,2,A judge just blocked Trump’s order on ’sanctuary cities’ — but they still offer only limited protection
+45220,1,Sheriff David Clarke has reportedly withdrawn his acceptance of a Homeland Security job
+45368,2,America may have unlocked a key to fighting terrorism — and it isn’t drones
+45511,1,There’s a ‘very strong possibility’ that ’El Chapo’ will go to America’s toughest prison, the ’Alcatraz of the Rockies’
+45559,2,3 California inmates pulled off an unreal escape from a maximum-security jail using bedsheets
+45753,1,’El Chapo’ Guzmán is willing to plead guilty in the US, but under one big condition
+45955,1,Al-Qaeda is taking control of a pivotal Middle East country
+46084,1,The remarkable story of a woman who was born at Auschwitz
+46152,2,7 people went undercover as inmates for 2 months, and they revealed harrowing details about an Indiana jail
+46885,4,A man who went undercover in a jail for 2 months discovered a disturbing truth about veterans who are locked up
+47082,2,7 undercover inmates spent 2 months in jail — here are the most outrageous things they witnessed
+47693,1,3 people dead, 1 injured after shooting at Michigan courthouse
+48153,2,The number of women in jail is reportedly skyrocketing, but no one knows why
+48163,5,The debate over private prisons is masking the real problems with America’s prison industry
+48201,2,The Department of Homeland Security is under more pressure than ever to dump private prisons for immigrant detainees
+48336,13,An aspiring police officer who went undercover in a jail for 2 months describes why ’violence is almost necessary’ behind bars
+48438,6,Inmates are kicking off what could be the biggest prison strike in America
+48607,2,Inmates at an Indiana jail came up with an ingenious way to work out
+48658,5,Here’s what Hillary Clinton and Donald Trump think about criminal justice
+48875,1,Texas has been locking people up for possessing traces of drugs too minuscule to be measured
+49016,9,Obama is trying to fix the ’war on drugs’ with clemency — but it won’t make a dent in mass incarceration
+49522,1,A 26-year old Bitcoin entrepreneur was handed prison time, and the experience only confirmed his belief in the cryptocurrency

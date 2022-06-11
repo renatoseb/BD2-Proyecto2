@@ -1,0 +1,752 @@
+18,4,Suicide Bombing in Baghdad Kills at Least 36 - The New York Times
+22,1,Damaged by War, Syria’s Cultural Sites Rise Anew in France - The New York Times
+26,1,Istanbul, Donald Trump, Benjamin Netanyahu: Your Morning Briefing - The New York Times
+27,4,Inside Trump Defense Secretary Pick’s Efforts to Halt Torture - The New York Times
+29,1,The Afghan War and the Evolution of Obama - The New York Times
+110,1,Russian Intervention in American Election Was No One-Off - The New York Times
+270,1,Neanderthals Were People, Too - The New York Times
+320,1,‘You Focus on the Good’: Women Who Voted for Trump, in Their Own Words - The New York Times
+378,1,Chelsea Manning to Be Released Early as Obama Commutes Sentence - The New York Times
+430,5,Iraqi Forces Take Eastern Mosul From Islamic State - The New York Times
+507,1,Donald Trump’s Inauguration, Women’s March: Your Weekend Briefing - The New York Times
+669,3,Judge Blocks Trump Order on Refugees Amid Chaos and Outcry Worldwide - The New York Times
+671,5,Banned From U.S.: ‘You Need to Go Back to Your Country’ - The New York Times
+672,1,Immigration Ban Is Unlikely to Reduce Terrorist Threat, Experts Say - The New York Times
+673,3,‘Dreams Die’ for Refugees on Verge of Coming to U.S. as Trump Closes Door - The New York Times
+677,1,Trump’s Visa Ban May Keep Nominated Iranian Director From Attending Oscars - The New York Times
+699,13,Trump’s Immigration Order Jolts Iraqis, U.S.’s Top Allies Against ISIS - The New York Times
+703,1,Christian Leaders Denounce Trump’s Plan to Favor Christian Refugees - The New York Times
+708,6,Iraqi Region Is Evicting Families of ISIS Members - The New York Times
+714,9,An Iraqi Family Split by the Vicissitudes of Asylum - The New York Times
+722,1,In a Week, Trump Reshapes Decades of Perceptions About America - The New York Times
+737,1,Donations to A.C.L.U. and Other Organizations Surge After Trump’s Order - The New York Times
+772,1,Rex Tillerson Is Confirmed as Secretary of State Amid Record Opposition - The New York Times
+799,1,Trump’s Harsh Talk With Malcolm Turnbull of Australia Strains Another Alliance - The New York Times
+805,1,Case Study in Chaos: How Management Experts Grade a Trump White House - The New York Times
+808,13,Visa Ban Amended to Allow Iraqi Interpreters Into U.S. - The New York Times
+810,1,New England Patriots, Lady Gaga: Your Thursday Evening Briefing - The New York Times
+840,1,Trump Responds to Louvre Attack in Paris, Urging U.S. to ‘Get Smart’ - The New York Times
+890,1,Kerry and Albright Ask Courts to Keep Blocking Trump’s Travel Ban - The New York Times
+894,1,Lady Gaga, Marine Le Pen, Romania: Your Monday Briefing - The New York Times
+919,3,The Massacre That Wasn’t, and a Turning Point for ‘Fake News’ - The New York Times
+921,1,New England Patriots, Elizabeth II: Your Monday Evening Briefing - The New York Times
+949,1,Iran’s Supreme Leader Thanks Trump for Showing America’s ‘True Face’ - The New York Times
+958,7,How 2 Refugees Were Vetted Even Before Trump’s Travel Ban - The New York Times
+978,1,Mothers and Daughters Divided by Refugee Ban Encounter the Guilt of Good Fortune - The New York Times
+1025,2,Shinzo Abe, Executive Orders: Your Friday Evening Briefing - The New York Times
+1026,4,Going Home to Falluja, a City Slipping Back Into Turmoil - The New York Times
+1176,2,Baghdad Car Bomb Kills Scores in Shiite Neighborhood - The New York Times
+1242,12,Iraq Starts Offensive to Retake Western Mosul From ISIS - The New York Times
+1298,1,Mexico, Syria, Trump: Your Wednesday Evening Briefing - The New York Times
+1299,1,Kim Jong-nam, Donald Tsang, Mexico: Your Morning Briefing - The New York Times
+1347,1,Sweden, Nation of Open Arms, Debates Implications of Immigration - The New York Times
+1392,13,U.S. Forces Play Crucial Role Against ISIS in Mosul - The New York Times
+1428,1,Trump Addressed Joint Session of Congress For the First Time - The New York Times
+1459,1,Donald Trump’s Speech, Mosul, Kim Jong-nam: Your Morning Briefing - The New York Times
+1546,3,Trump Expected to Issue New Travel Ban Excluding Iraq on Monday - The New York Times
+1564,1,New Travel Ban Garners Same Verdict in Middle East: A Slap at Muslims - The New York Times
+1596,1,China, C.I.A., International Women’s Day: Your Morning Briefing - The New York Times
+1604,1,Trump’s New Travel Ban Blocks Migrants From Six Nations, Sparing Iraq - The New York Times
+1613,5,Iraqi Forces Enter Western Mosul, in Fierce Battle Against ISIS - The New York Times
+1666,1,U.S. Is Sending 400 More Troops to Syria - The New York Times
+1724,2,Damascus Bombings Near Pilgrimage Sites Kill Dozens - The New York Times
+1828,1,2 Federal Judges Rule Against Trump’s Latest Travel Ban - The New York Times
+1858,1,Steven Levenson: The First Time I Attended a Political Protest - The New York Times
+1945,1,Resurgent Syrian Rebels Surprise Damascus With New Assaults - The New York Times
+1986,1,Trump Administration Orders Tougher Screening of Visa Applicants - The New York Times
+2015,8,U.S. Investigating Mosul Strikes Said to Have Killed Up to 200 Civilians - The New York Times
+2041,11,U.S.-Led Coalition Confirms Strikes Hit Mosul Site Where Civilians Died - The New York Times
+2043,1,Canadians Adopted Refugee Families for a Year. Then Came ‘Month 13.’ - The New York Times
+2082,1,Raiders, Mosul, Jared Kushner: Your Monday Evening Briefing - The New York Times
+2086,18,At Site of Deaths, Our Reporters Find Cost of U.S.-ISIS Battle - The New York Times
+2122,13,Engulfed in Battle, Mosul Civilians Run for Their Lives - The New York Times
+2123,13,U.S. ‘Probably Had a Role’ in Mosul Deaths, Commander Says - The New York Times
+2173,3,U.S. War Footprint Grows in Middle East, With No Endgame in Sight - The New York Times
+2237,5,U.S.-Led Coalition Counts 229 Civilian Deaths Before Mosul Strike - The New York Times
+2243,1,Jared Kushner Visits Iraq on Invitation From Joint Chiefs Chairman - The New York Times
+2442,1,Stockholm Suspect Was Denied Asylum and Told to Leave in ’16 - The New York Times
+2493,1,Trump Faces the Limits of American Power - The New York Times
+2513,3,Lula and Simba, Last Surviving Animals at Mosul Zoo, Have Been Rescued - The New York Times
+2546,1,Pope Francis Takes 12 Refugees Back to Vatican After Trip to Greece - The New York Times
+2547,5,U.S. Plans to Step Up Military Campaign Against ISIS - The New York Times
+2571,2,Alissa Rubin, 2016 Pulitzer Winner, Reports From the Front Lines - The New York Times
+2639,6,In Effort to Defeat ISIS, U.S. and Iran Impede One Another - The New York Times
+2658,5,With Iraq Mired in Turmoil, Some Call for Partitioning the Country - The New York Times
+2680,6,Iraq Protesters Leave Baghdad Green Zone on Cleric’s Order - The New York Times
+2687,9,Days of Chaos in Baghdad: Protest or Meltdown? - The New York Times
+2704,1,Your Wednesday Evening Briefing: Donald Trump, Hillary Clinton, Fort McMurray - The New York Times
+2707,1,An Army Captain Takes Obama to Court Over ISIS Fight - The New York Times
+2727,1,For Obama, an Unexpected Legacy of Two Full Terms at War - The New York Times
+2810,1,Three Days, 700 Deaths on Mediterranean as Migrant Crisis Flares - The New York Times
+2820,6,Fear of ‘Catastrophe Unfolding’ Amid Fighting in Falluja - The New York Times
+2864,24,Iraqi Army Seen as Ill Equipped to Retake Mosul From ISIS, Despite U.S. Aid - The New York Times
+2886,10,Iraqis Who Flee Fighting in Falluja Find Hardship and Hunger - The New York Times
+3005,9,Iraqi Forces Enter Falluja, Encountering Little Fight From ISIS - The New York Times
+3010,4,A War of Brothers in Iraq: ‘I Will Kill Him With My Own Hands’ - The New York Times
+3041,6,Falluja Restaurant Is Reborn in Baghdad, Offering Nostalgia With Its Kebab - The New York Times
+3094,2,C.I.A. Arms for Syrian Rebels Supplied Black Market, Officials Say - The New York Times
+3205,4,Chilcot Report on Iraq War Offers Devastating Critique of Tony Blair - The New York Times
+3209,1,In a Defiant, Angry Speech, Donald Trump Defends Image Seen as Anti-Semitic - The New York Times
+3240,1,Iran, Once Quiet About Its Casualties in Syria and Iraq, Now Glorifies Them - The New York Times
+3301,1,Attack in Nice, France, Represents Terrorism’s New Reality - The New York Times
+3413,1,Clinton’s Portrayal of Trump as Dictator Aims at the Left and Right - The New York Times
+3547,1,U.S.-Backed Militias in Libya Claim to Retake ISIS Stronghold of Surt - The New York Times
+3785,1,Does Killing Terrorist Leaders Make Any Difference? Scholars Are Doubtful - The New York Times
+3978,1,U.S. Presidential Race, Colin Powell, Carla Hayden: Your Wednesday Evening Briefing - The New York Times
+4026,2,Straightforward Answers to Basic Questions About Syria’s War - The New York Times
+4058,1,Bombing Case Points to Gaps in Trump’s and Clinton’s Antiterrorism Plans - The New York Times
+4067,1,Obama Administration Considers Arming Syrian Kurds Against ISIS - The New York Times
+4302,6,Pentagon Confronts a New Threat From ISIS: Exploding Drones - The New York Times
+4361,7,Iraqi Forces Attack Mosul, a Beleaguered Stronghold for ISIS - The New York Times
+4363,1,Mosul, ‘Brexit,’ U.S. Presidential Race: Your Monday Briefing - The New York Times
+4375,1,Trump, Mosul, Republican Party: Your Monday Evening Briefing - The New York Times
+4376,6,At the Mosul Front: Traps, Smoke Screens and Suicide Bombers - The New York Times
+4392,7,Pentagon Expects Mosul Push to Unlock Trove of ISIS Intelligence - The New York Times
+4400,1,Duterte, Mosul, Calais Jungle: Your Thursday Briefing - The New York Times
+4434,3,Mosul Is Breached by Iraqi Forces, Heralding a New, Complex Phase - The New York Times
+4474,1,Hillary Clinton, Donald Trump, Mosul: Your Wednesday Briefing - The New York Times
+4521,9,ISIS Is Massacring Mosul Civilians as Troops Advance, U.N. Says - The New York Times
+4563,1,Trump, Obama, Gwen Ifill: Your Monday Evening Briefing - The New York Times
+4579,1,Yemeni Bankers Get in Trouble Over a Customer, Al Qaeda - The New York Times
+4599,1,Donald Trump, President Obama, J.K. Rowling: Your Friday Briefing - The New York Times
+4627,5,How the Iranian-Saudi Proxy Struggle Tore Apart the Middle East - The New York Times
+4697,3,ISIS Bomb Aimed at Shiite Pilgrims in Iraq Kills at Least 80 - The New York Times
+4772,1,OPEC, Big Mac, Syria: Your Thursday Briefing - The New York Times
+4778,11,Another Mass Grave Dug by ISIS in Iraq, and a Ghastly Ritual Renewed - The New York Times
+4857,2,Jubilant Libyan Militias Declare Victory Over ISIS in Surt - The New York Times
+4919,1,U.S. to Send 200 More Troops to Syria in ISIS Fight - The New York Times
+4954,1,Battle Over Aleppo Is Over, Russia Says, as Evacuation Deal Reached - The New York Times
+5020,1,Benjamin Gilman, a New York Congressman for 30 Years, Dies at 94 - The New York Times
+5059,1,Berlin, Russia, Donald Trump: Your Wednesday Evening Briefing - The New York Times
+5071,1,Fight - The New York Times
+5076,1,Aleppo, Berlin, Donald Trump: Your Morning Briefing - The New York Times
+5128,1,Aboard a U.S. Eye in the Sky, Staring Down ISIS in Iraq and Syria - The New York Times
+5129,2,Weakened Militarily, ISIS Still Has Power to Sow Deadly Mayhem - The New York Times
+5171,6,Along Mosul’s Front Line, Desperate Civilians and Dug-In Troops and Fighters - The New York Times
+5234,4,How Hillary Clinton Became a Hawk - The New York Times
+5284,3,U.S. Combat Missions May End, but Fighting Goes On - The New York Times
+5332,1,Your Tuesday Evening Briefing: Donald Trump, Golden State Warriors, Hillary Clinton - The New York Times
+5528,1,Iraq Report Prompts More Defensiveness Than Regret From Tony Blair - The New York Times
+5549,17,U.S. Will Deploy 560 More Troops to Iraq to Help Retake Mosul From ISIS - The New York Times
+5607,1,At Fox News, Kisses, Innuendo, Propositions and Fears of Reprisal - The New York Times
+5612,1,U.S. Secures Vast New Trove of Intelligence on ISIS - The New York Times
+5632,11,At the Front in a Scarred Falluja - The New York Times
+5692,6,‘A Fire Happened in the Newborn Unit, and Your Baby Died’ - The New York Times
+5805,3,Senior ISIS Strategist and Spokesman Is Reported Killed in Syria - The New York Times
+5843,1,‘I’ve Become a Racist’: Migrant Wave Unleashes Danish Tensions Over Identity - The New York Times
+6029,11,In Fight for Aleppo, Tangled Alliances in Syria Add to Chaos - The New York Times
+6042,12,U.S. Set to Open a Climactic Battle Against ISIS in Mosul, Iraq - The New York Times
+6097,8,East of Mosul, Kurdish Troops Advance on ISIS-Held Villages - The New York Times
+6115,1,Cubs, Trump, Mosul: Your Wednesday Evening Briefing - The New York Times
+6122,1,Clinton, Mosul, Pirate Party: Your Monday Briefing - The New York Times
+6169,3,In Once-Tolerant Mosul, a Social Unraveling That Feels Permanent - The New York Times
+6471,1,A Joyful Bustle to Get Ready for Guests: Syrian Refugees - The New York Times
+6546,1,For Hillary Clinton and John Kerry, Divergent Paths to Iran Nuclear Talks - The New York Times
+6566,1,Your Evening Briefing: EgyptAir, Hillary Clinton, Donald Trump - The New York Times
+6569,5,Iraqi Protesters Clash With Troops in Baghdad’s Green Zone - The New York Times
+6801,9,Iraq Executes Dozens for 2014 Massacre by ISIS - The New York Times
+6834,1,Kurds Fear the U.S. Will Again Betray Them, in Syria - The New York Times
+6946,1,Hurricane Matthew, Donald Trump, Nobel Prize: Your Friday Evening Briefing - The New York Times
+7009,2,Donald Trump, Leonard Cohen, Mosul: Your Friday Evening Briefing - The New York Times
+7011,1,Grappling With the Language of Love - The New York Times
+7021,18,‘They Will Have to Die Now’ - The New York Times
+7147,2,Germany Seeks Tunisian Tied to Berlin Christmas Market Attack - The New York Times
+7260,1,Victims in Istanbul Airport Attack Reflect City’s International Character - The New York Times
+7310,1,‘They Will Kill Us’: Afghan Translators Plead for Delayed U.S. Visas - The New York Times
+7376,4,Shell Fired by ISIS at U.S. and Iraqi Troops May Have Contained Chemical Agent - The New York Times
+7398,1,Syria, N.S.A., Michelle Obama: Your Evening Briefing - The New York Times
+7404,1,A Roar at a Funeral, and Yemen’s War Is Altered - The New York Times
+7418,1,Mosul, CETA, Trump: Your Tuesday Briefing - The New York Times
+7474,1,James Mattis, Trump’s Choice for Defense, Favors Working With Allies - The New York Times
+7551,1,Your Monday Evening Briefing: Hillary Clinton, Cleveland Cavaliers, Kanye West - The New York Times
+7569,11,Bombing Kills More Than 140 in Baghdad - The New York Times
+7592,1,U.S. Presidential Race, Baltimore, Olympics: Your Wednesday Evening Briefing - The New York Times
+7713,2,Dozens Killed in Suicide Attack on Shiite Shrine North of Baghdad - The New York Times
+7857,1,Irvine Unveils Memorial to Honor Fallen Heroes in Iraq and Afghanistan - Breitbart
+7993,1,Terror-Tied Group CAIR Causing Chaos, Promoting Protests &amp Lawsuits as Trump Protects Nation - Breitbart
+8172,1,Video Surfaces of U.S. Presence Near Turkish Soldiers, Kurdish Militia on Syrian Border - Breitbart
+8183,2,Iraqi and Egyptian Nationals Caught After Sneaking Across Open Border
+8208,11,U.S. General: Islamic State Chemical Attack Had ’No Impact’ on U.S. Forces
+8332,1,Left Wing Extremist Offences Up 112 Per Cent in Austria
+8494,2,Sweden to Give Prison Guard Internships To New Migrants
+8516,1,Germany: Iraqi Asylum-Seeker Convicted of Raping Chinese Students
+8753,1,Turkey Bombs U.S.-Supported Kurds in Syria, at Least 18 Killed
+8766,1,How the Obama Administration Was Caught Politicizing Intelligence
+9068,1,Islamic State Planning Chemical Attack on UK
+9073,1,EXCLUSIVE: Wife of 911 Victim Pens Letter to Donald Trump Urging Strength During Saudi Visit
+9109,1,Seattle Judge Was Ignorant About Jihad Convictions Prior to Imposing Refugee Reform Ban - Breitbart
+9167,1,More Than ’Chaos’: Terror Ties Make Venezuela Direct Threat to USA, Former UN Security Council President Says - Breitbart
+9362,4,Top U.S. General Praises Iran-Backed Shiite Militias in Mosul as Professional - Breitbart
+9520,2,Chelsea Manning to Remain on Active Duty, Receive Free Health Care after Release - Breitbart
+9560,1,Young Migrants Wreak Havoc In Bavarian City
+9711,15,Iraq Votes to Ban Americans in Response to Trump’s Immigration Order - Breitbart
+9853,1,Senior Haaretz Correspondent Uses New Yorker Satire Piece As Journalistic Source In Jared Kushner Takedown
+9867,1,Qanta Ahmed: ’Many of Us’ Muslims Welcome Extreme Vetting, Protests About Syria ’Rather Hollow’ - Breitbart
+9945,1,Kathy Griffin ’Beheading’: Hollywood’s Feminist A-List Cashes In on Global Suffering of People of Color - Breitbart
+9947,5,Report: More Citizens Saudi Arabia Have Joined Islamic State than Any Other Country
+10066,1,Trump Chooses Army General H.R. McMaster for National Security Adviser - Breitbart
+10347,1,Family of Nine Asylum Seekers Accused of Gang-Rape Attack
+10385,1,Yazidis to Anti-Trumpers: Where Were You During Genocide Against Us?
+10601,9,ICE Deporting 199 Iraqis after Trump Inks Repatriation Deal
+10630,2,Trump Aide Stephen Miller: The U.S. ’Has an Absolute Sovereign Right to Determine Who Can and Cannot Enter the Country’ - Breitbart
+10636,1,Report: Syrian Students in Damascus Chant ‘Death to America,’ ‘Death to Israel’
+10648,1,Yazidi Activist: Islamic State Cut Open My Friend, Raped Her Baby, Then Raped Her - Breitbart
+10663,1,Refugees Will Cost Taxpayers an Estimated $4.1 Billion in FY 2017 - Breitbart
+10717,1,Before Trump Executive Order, Obama Officials Warned Islamic State Would Use ’Refugee Flows’ to Enter West - Breitbart
+10752,2,Top U.S. General: ‘We Have Not Relaxed the Rules of Engagement’ in Mosul - Breitbart
+10836,4,EXCLUSIVE - Islamic State Supporters Vow Terror Group Will Retake Mosul as ‘Liberators’
+10929,3,Shia vs. Sunni: The Schism Western Politicians Don’t Understand and Won’t Discuss - Breitbart
+10952,1,KLEIN - Iran Is the Wild Card Following U.S. Air Strikes In Syria
+11014,2,Ramadan Rage 2017: 1,424 Fatalities Already More than Triple Those Last Year - Breitbart
+11128,5,Photos: Islamic State Says It’s Again Deploying Drones in Mosul
+11162,1,Ann Coulter: Give Me Your Tired Arguments...
+11316,2,George Soros-Financed Groups Scheme to Stop Trump’s Temporary Refugee Halt Order - Breitbart
+11320,2,Kremlin Makes Dubious Claim It Killed Islamic State Chief al-Baghdadi - Breitbart
+11639,2,Trump Promises White House Will No Longer Obscure Iraq and Syria Troop Deployments
+11811,1,Whistleblower Accuses Venezuela of Issuing Passports to Terrorists in CNN Interview - Breitbart
+11894,2,FULL TEXT: MILO on why the Democrats Lost the White Working Class - Breitbart
+11932,1,John Bolton: Trump Admin Put Iran ‘On Notice’ for First Time in Eight Years
+11989,1,SFO, LAX Lead Nationwide Protests of Trump Executive Order - Breitbart
+12166,1,Herd of Stampeding Wild Boars Kills Three Islamic State Jihadists - Breitbart
+12209,3,Guardian Opinion Writer: Trump, Bannon Counting On Terrorist ’Massacre’
+12220,1,FBI: We Have Not Found Jihadi Content on Ft. Lauderdale Shooter’s Social Media
+12246,1,FBI: Texan Tried to Take Kidnapped Child to Iraq via Mexico
+12255,1,Report: ISIS Developing Undetectable Laptop Bombs to Smuggle Aboard Planes - Breitbart
+12285,1,Mattis in Iraq: We’re Not Here For Your Oil
+12342,1,Obama-Appointed, Schumer-Allied Judge Blocks Trump on Deportations - Breitbart
+12442,1,Venezuela, Accused of Selling Passports to Hezbollah, Is Running Out of Passports for Venezuelans - Breitbart
+12517,1,EXCLUSIVE: Foreign Minister: Turkey ’Very Clear’ in Entering Syria to Defeat Islamic State - Breitbart
+12531,4,U.S. Arming Syrian Rebels amid Looming Threat from Iran-Allied Militias
+12534,1,Dueling Demonstrations at LAX Over Trump Travel Restriction - Breitbart
+12545,6,Coalition: U.S. Troops Fighting in Mosul Offensive ’Come Under Fire’
+12580,10,Baghdad Pans Kurdish Freedom Referendum as U.S. Warns Against Islamic State Distractions - Breitbart
+12718,2,Sweden: Migrant Cries ’Racism’ When Woman in Hijab Asked to Show Train Ticket Attacks Passengers with Knife
+12807,1,Democrats to Bring DREAMers, Muslims to Trump’s First Speech to Congress
+12893,1,Iraqi Christians Raise Giant Cross on Land Liberated from IS
+12895,2,Kohrs &amp Coleman: A Pen and a Phone - Breitbart
+12909,3,Mosul Suicide Bomber Was British, Says Islamic State
+13239,6,The 7 Nations Covered by Trump Executive Order
+13271,1,Hundreds of Islamic State Volunteers Have Returned to Britain
+13279,1,At Nearly Four Million, Immigration to Germany in 2000s Near Double 1980s Turkish Surge
+13301,1,WSJ’s Strassel: I Don’t Remember Protests, Lawsuits When Obama Paused Iraqi Immigration to U.S. in 2011 - Breitbart
+13324,2,Eight Convictions in Asylum Seeker Gang Rape Case
+13493,3,EXCLUSIVE: Iraqi Christians: We ’Just’ Want ’a Chance to Survive’ - Breitbart
+13577,1,Report: Islamic State Morality Police Torture 10-Year-Old to Death
+13586,8,Islamic State’s al-Baghdadi Orders Jihadists to ‘Flee and Hide’
+13615,1,FLASHBACK: Obama Suspended Iraq Refugee Program for Six Months Over Terrorism Fears in 2011 - Breitbart
+13624,1,Swedish Theatre: Play ’Humanising’ Terrorists Is ’Particularly Important’ after Stockholm Attack
+13686,3,Islamic State Jihadis Losing Morale Complaining of ’Back Pain’
+13898,1,Gorka &amp Jasser: We Are Fighting ‘Not a War with Islam, but a War Inside Islam’
+13901,1,EXCLUSIVE – Islamic State Supporters React Angrily to Trump’s Temporary Refugee Halt
+13932,1,Build That Wall: Turkey’s Plan to Seal Borders with Iraq, Iran
+14116,1,Iraqi Asylum Seeker Jailed for Raping Drunk Woman in London
+14385,1,Graphic Photos: Islamic State Throws Iraqi Man Accused of Homosexuality from Rooftop
+14465,1,African Migrant Sentenced For Raping 15-Year-Old Girl
+14476,1,Assad Regime: Trump Airstrikes Make U.S. a ’Partner’ of Islamic State - Breitbart
+14863,1,Soros-Tied ADL Chief Accuses Trump of ‘Heartless Attack on Refugees’ - Breitbart
+14910,1,White House: ‘Muslim Ban’ Hysteria is ‘Ludicrous’ - Breitbart
+15047,5,Five Delicate Problems Trump Trusts Jared Kushner to Solve - Breitbart
+15165,5,Islamic State Video Boasts of Weapons Workshops
+15178,1,U.S. Military Drops Massive Bomb on Islamic State in Afghanistan - Breitbart
+15299,2,The Truth Behind Media’s New Favorite Euphemism: ‘Muslim-Majority Countries’ - Breitbart
+15368,2,Erik Prince: DOJ Admits Blackwater Contractors Were Caught in Enemy Crossfire
+15383,4,Islamic State Holds Terrified Civilians as Human Shields as Raqqa Battle Nears
+15548,2,’Next Time in Jerusalem’: Islamic State Supporters Celebrate Baghdad Deadly Suicide Bombings
+15557,1,Islamic State Fighter: Expect More Attacks in the U.S.
+15624,1,Qatari Daily Publishes Ramadan Poem Outlining Jewish Plot
+15722,2,Islamic State Forcing Child Soldiers to Replace Dead Jihadis
+15809,1,U.S. Government-Accepted Iranian Refugee Joined ISIS Army - Breitbart
+16162,2,Austria Arrests Nine Iraqis Over Gang Rape Of German Woman
+16178,1,Apocalypse in the Jungle as Migrants Burn Camp Down
+16204,1,America’s Troops Celebrate Christmas Around the World - Breitbart
+16318,2,Meet Rex Tillerson, the Man Donald Trump Called ‘A World Class Player’ - Breitbart
+16398,7,Muslim Businessman Builds Huge Christmas Tree to Support Iraq’s Christians - Breitbart
+16530,3,To Destroy ISIS, We Must Give Its Victims the Tools to Fight Back - Breitbart
+16562,2,U.S. Intel Chief: Islamic State Produced, Deployed Chemical Weapons - Breitbart
+16724,1,Islamotopia: The First Hundred Years - Breitbart
+16796,1,Pamela Geller: Muslim Who Is Suing Gun Range Demanded CAIR Float for Veteran’s Day Parade - Breitbart
+17237,5,Iraq: Islamic State May Weaponize Stolen Radioactive Material
+17359,1,VIDEO – Bill Clinton: Rebuild Detroit with Syrian Refugees - Breitbart
+17383,6,Austrian Police Arrest Three Terror Suspects in Asylum Homes
+17438,1,Arab Intelligence: Iran Seeking to Hijack Russian Mideast Gains
+17533,2,***Horse Race LiveWire*** 2 Days to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+17585,1,Islamic State ‘Crucifies,’ Lashes Ramadan Fast Breakers
+17619,1,TB Spiked 500 Percent In Twin Falls During 2012, As Chobani Yogurt Opened Plant - Breitbart
+17853,2,EXTREMELY GRAPHIC PHOTOS: Islamic State Circulates Gory Beheading Pictures
+17957,3,Exclusive - Pamela Geller: Hospital Refuses to Release Medical Records of Five-Year-Old Idaho Victim Raped By Muslim Migrants - Breitbart
+18041,1,90 Jihadis Walked into France As ’Migrants’, Are Hiding in Paris Says Woman Who Caught Paris Terror Ringleader - Breitbart
+18118,1,Five Foreign-Born Cases of Multi-Drug Resistant TB Diagnosed in Philadelphia - Breitbart
+18342,1,***Live Updates*** Bernie, Hillary Debate in Wisconsin Moderator Donated to Clinton Foundation - Breitbart
+18351,1,Islamic State Video Claims to Show Paris Attackers, Threatens Britain
+18570,1,Trending Turkish Twitter Hashtag: ’I Don’t Want Syrians in My Country’ - Breitbart
+18583,1,WATCH: Iraqi Civilians Swim Euphrates to Escape Islamic State
+18621,1,Belgian-Born Islamic State Fighters Praise Brussels Attacks, Pledge More
+18654,1,PICTURES: Islamic State Celebrates Reported Recapture Of Palmyra
+18682,1,ProPublica: As ISIS Brewed in Iraq, Clinton’s State Department Cut Eyes and Ears on the Ground - Breitbart
+18828,1,Wilders: ’Political Revolution Is Brewing in Europe’
+18943,1,Islamic State Labors to Create Image of Business as Usual as International Forces Close in on Strongholds
+18952,3,Mosul Residents Say Islamic State Forcibly Gathering Civilians
+19142,1,Twin Falls Refugee Rape Special Report: Why Are The Refugees Moving In? - Breitbart
+19177,3,10-Year-Old Boy Brutally Raped By Iraqi Migrant at Pool in Vienna - Breitbart
+19213,1,Martel: Obama’s Absence on the World Stage Gave Putin an Opening to Take Over the World - Breitbart
+19276,5,Battle for Mosul Sparks Fears of Humanitarian Crisis
+19385,3,Fears Rise in Europe of Jihadist Influx if Iraq Retakes Mosul
+19537,1,Migrant Arrested for Suspected Rape and Attempted Murder
+19619,1,INVESTIGATION: Migrants Smuggled Into UK Posing As ‘Ferry Staff’ - Breitbart
+19710,1,Syrian Regime, Opposition Brace for Resumption of Battle for Key City
+19912,4,Twin Falls Crisis Imposed by Clinton-Era Pro-Refugee Advocates - Breitbart
+20063,3,Report: Islamic State Has Launched at Least 52 Chemical Weapons Attacks - Breitbart
+20188,13,Ground Assault Against Islamic State in Mosul A Slow Grind
+20214,3,Iraqi Journalist: Islamic State Motivated By Islam, Not Insanity
+20215,3,Police Report Kept from Family of Girl Raped by Refugees
+20233,1,More Than Half a Million Migrants Have Entered Europe This Year
+20367,3,Nineteen Refugees Diagnosed With Active Tuberculosis in Michigan - Breitbart
+20425,1,Trend: 680,000 Green Cards Issued to Migrants from Muslim Nations in Only 5 Years - Breitbart
+20432,1,Government Report: City Govt Turns A Blind Eye To Islamist Infiltration Of Schools, ’Cooperates’ With Salafists
+20636,2,Islamic State Attack Kills Nine Iraqis Near Jordan Border
+20648,1,17 Per Cent of Teachers Quit Migrant Crisis Malmö in Six Months
+20944,1,Police Told Girl To Dye Hair From Blonde After Migrant Attack
+20985,2,Obama: Very Important Not To Withdraw From Iraq - Breitbart
+21104,1,Read the Scary Descriptions of Refugees by Idaho Refugee Agency
+21330,3,Report: Islamic State Chief Fled Mosul Hours After Urging Jihadists Not to Flee Mosul
+21355,1,Michigan Poll Shows Opposition to Increase in Refugees Powering Trump Surge - Breitbart
+21363,3,Exclusive: Religious Minorities React to Islamic State Genocide Declaration - Breitbart
+21527,1,Donald Trump Goes Rogue on the Billionaires’ Consensus - Breitbart
+21590,2,Kurds Open ’Trump Fish’ Restaurant - Breitbart
+21640,7,Islamic State Terrorists ’Shave Beards’, Prepare to Flee Mosul
+21713,1,Nancy Pelosi Memo: Obama’s Iraq Withdrawal Created Islamic State - Breitbart
+21849,3,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+21874,10,PHOTOS: The Battle for Mosul, Iraq Has Begun - Breitbart
+21999,1,Saudi Columnist: Obama’s Gulf Visit Did Little To Patch Things Up
+22071,2,CONFIRMED: Berlin Attack Suspect Shot Dead in Milan
+22446,1,’Fleeing War’ Yet Only 7 Per Cent of Asylum Seekers Would Actually Return After Conflict
+22552,2,Texas Panhandle City Says ’Enough’ on Middle East Refugees - Breitbart
+22610,2,Facebook Used as ’Online Arms Bazaars’ for Terrorists
+22720,2,Paul Ryan Says He Passed Bill to Pause Somali Refugee Program
+22800,2,Ten Percent of Twin Falls Police Officers Are Refugees - Breitbart
+22866,1,Two Migrants Among Gang of Seven Who Raped Unconscious Girl Said ’Women Must Obey Men’
+22930,5,’Virgin. Beautiful.’: The Yazidi Girls Sold in the Islamic State’s Online Sex Market - Breitbart
+23001,1,Ramadan: Islamic State Urges Lone Wolf Attacks in U.S., Europe
+23062,1,Obama Urges Soldiers to Question Trump’s Authority, ’Criticize Our President’ - Breitbart
+23259,1,Sweden: Interpreter Suspended For Saying Arab Migrants Lie To Secure Asylum, Welfare Bonuses - Breitbart
+23402,7,U.S. Envoy: Operation to Take Mosul, Iraq from Islamic State ’Already Underway’ - Breitbart
+23413,1,‘RAPEFUGEES NOT WELCOME’: Thousands Take To Cologne Streets To Protest Migrant Sex Attacks - Breitbart
+23493,1,Islamic State Downplays Assault On ’Capital Of caliphate’ With Propaganda Reports, Pictures
+23505,1,Turkey Issues Warrant for Head of Pro-American Kurdish Militia - Breitbart
+23544,6,Asylum Seeker Masturbated In Middle Of Street Because He Could Not Afford Prostitutes
+23644,2,Report: Islamic State Has Captured 3,500 Slaves in Iraq
+23732,1,Hungary Launches New Anti-Migrant Media Offensive
+23920,1,EXCLUSIVE: After Brussels, Islamic State Supporters Warn America - You’re Next - Breitbart
+23971,2,HELSINKI COPS: ’Widespread’ Sexual Harrasment By ’Asylum Seekers’ on New Years Eve
+24051,1,IRS Corruption Fuels Billions in Fraudulent Payments to Illegal Aliens - Breitbart
+24120,1,Bloomberg’s Halperin: Kristol Third-Party Candidate is National Review’s David French - Breitbart
+24378,3,Cologne Migrant Who Licked And Groped Girls Laughs As He Walks Out of Court a Free Man
+24493,1,Matt Drudge: ’Hello Colorado Republicans, even Iraqis get a vote’ - Breitbart
+24534,5,Widow of Islamic State Leader Charged In Death of American Kayla Mueller - Breitbart
+24865,8,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+24872,1,Hillary’s World: How Clinton’s Foreign Policy Has Destabilized Nearly Every Corner of the Globe - Breitbart
+24889,1,Anis Amri: Small-Time Criminal Turned Berlin Truck Killer
+25008,1,Explosions Hit Brussels Airport, One Killed - Belgian Media
+25035,3,Obama’s Surge: City of Mosul Will Be Recaptured ‘Eventually’ from ISIS - Breitbart
+25076,2,Fact Check: Were Obama and Hillary Founders of ISIS? You Bet
+25235,1,Report: Islamic State Drowns Seven in Mosul - Breitbart
+25272,2,Refugees Arrested Across USA in Terrorism Investigation
+25344,2,The ’Liberated’ City of Sinjar, Iraq Remains Unlivable for Yezidis After Islamic State Retreat - Breitbart
+25353,2,Trump Advisor: Ted Cruz Should Demand an Election in Colorado - Breitbart
+25360,1,White Flight: Young Professionals Flock To Conservative, Mass Migration-Free Czech Republic
+25441,1,IS Said to Execute Dozens in Mosul, Including Fleeing Child
+25450,1,Holy War: Shiites Riot Over Saudi Execution of Prominent Cleric
+25606,1,Germany’s ’Mr. Flirt’ Teaches Refugees How to Pick Up Women - Breitbart
+25646,1,Liberal Blogger Says He Worked With Hillary Clinton’s Aide on Birther Claims - Breitbart
+25686,1,Graphic Photos: Islamic State Butcher Chops Off Man’s Hand With Machete
+26002,1,Muslim Migrants A Threat To Us In LGBT Community - Breitbart
+26086,1,Timeline: Germany’s Two Years of Islamist Terror
+26140,1,Ten Most Troubling Finds Inside House Probe of Pentagon’s ‘Distorted’ Intel on Islamic State
+26208,5,UN: Islamic State in Mosul Deploying Child Suicide Bombers
+26319,5,Ten Times in Past Two Years Terrorists Slipped Through Immigration Process into U.S.
+26345,1,Islamic State Turns Mosul Chemistry Lab into Bomb Factory
+26360,2,Record Number of Syrian Refugees Accepted in June, But Almost No Christians - Breitbart
+26387,3,Clinton Accused Saudi Arabia of ’Financial and Logistical Support’ to Islamic State
+26519,1,Egypt Orders ‘Urgent Investigation’ into EgyptAir Crash as Possible Terrorist Attack - Breitbart
+26577,3,EXCLUSIVE– Inside NSA Operation to Thwart 1973 Plot to Bomb NYC, Assassinate Israeli PM - Breitbart
+26623,1,CENTCOM Altered Intel to Make Obama’s Islamic State War Look Better
+26659,3,Italy Overtakes Greece As Prime Arrival Point for Migrants
+26672,3,91 Killed In Two ISIS-Claimed Baghdad Bombings
+26674,4,Jeff Sessions on 20 ‘Vetted’ Terrorist Refugees as Obama Ramps Up
+26684,3,Islamic State Publishes Picture of Palestinian ’Martyr’ In Seeming Bid to Embarrass Hamas
+26808,6,Video: Liberated Iraqi Christians Hope Trump Wins: ’Obama Abandoned Us’
+27076,1,Syrian Refugee Charged With Assault and Battery After Grabbing Girl in Massachusetts Swimming Pool - Breitbart
+27118,1,Another 100,000 Migrants Likely To Arrive In Bottleneck Greece By End Of Month - Breitbart
+27126,1,PHOTOS: Islamic State Throws Another Homosexual Man From Rooftop
+27194,4,Iraqi Group Wants to Sue U.S. for 2003 Invasion in Wake of 9/11 Bill
+27338,3,Islamic State Chief al-Baghdadi Cultivates Mystery
+27378,1,WATCH: Boy Suicide Bomber Stripped of Explosive Belt in Iraq
+27511,1,Shaves at Barber’s, Corpses in Streets as Islamic State Retreats
+27764,1,Mideast Christians Facing Islamic State Genocide Hopeful Trump Will ’Secure Peace’ - Breitbart
+27827,2,U.S. Serviceman Killed By Islamic State
+27854,1,Ingraham Blasts National Review For Damaging GOP’s 2016 Campaign With Anti-Trump Tirade - Breitbart
+27894,1,Iranian Refugee Branded ’Nazi’ for Condemning Cologne Sex Attacks
+28151,1,Mass Migration Brings Rise Of Islamic Polygamy In Europe
+28264,2,100 Riot In Migrant Reception Centre, Triggered By Woman’s Refusal To Wear A Head Scarf
+28405,9,Iran-Backed Iraqi Troops Begin Invasion of Fallujah
+28434,4,Leading Iraqi Shi’ite Cleric Tells Followers Target U.S. Troops
+28464,14,Report: Islamic State Incinerates Jihadis in Burning Oil for Fleeing Mosul Battle
+28483,1,Yet Another Migrant On Child Sex Attack At A European Swimming Pool
+28594,3,Left Media Migrant Rape Cover-Up: HuffPo, Indy, AND United Nations Claim Cologne Attackers ’Not Refugees’, German Prosecutor: ’Total Nonsense’ - Breitbart
+28699,1,Dr. Sebastian Gorka: After January 20, America Must ’Jettison Political Correctness’ to ’Inoculate Ourselves’ Against Jihad
+28702,1,***Live Updates*** Clinton, Sanders Face Off in First Head-to-Head Debate - Breitbart
+29569,3,Islamic State Demolishes Iconic ‘Clock Church’ in Mosul
+29591,1,Women Only Vigilante Group Formed In Sweden To Patrol Swimming Pool
+30143,3,Legal Rebellion in Michigan Over Refugees Could Help Trump Win State - Breitbart
+30307,7,Iraqi Army Fleeing for Their Lives Again
+30349,3,Saudi Social Media Outraged At Resolution Exposing 9/11 Claims
+30379,3,Open Borders Activists Again Whip Migrants Up Into Protests
+30487,1,Sen Cotton: Hillary Has Disqualified Herself to Be Commander-In-Chief - Breitbart
+30619,11,Iraq: Christians Seek Self-Rule Following Liberation of Mosul
+30771,2,Police: Iraq, Sudan Immigrants Allegedly Sexually Assaulted a Five-Year-Old Idaho Girl - Breitbart
+30775,3,Video: Kurdish Troops Free Sunnis Outside of Mosul: ’It Felt Like the Liberation of France’ - Breitbart
+30832,3,Report: Islamic State Using Children as Executioners in Mosul
+30858,1,Trump’s Mission: Make America Great Again Peace with Honor—Through Deal-Making - Breitbart
+30894,1,The West Embraces Nation-Building Again, This Time in Libya
+30912,1,Only Ten Percent of Migrant Influx Has Reached Us So Far, Says German Minister
+31497,1,Islamic State Driven Out Of Syria’s Ancient Palmyra City
+31510,1,Qatar Gives $100,000 to Texas School to Push Arabic Language and Culture
+31514,1,ISIS Admits Using Migration For Terror: ’If Door of Migration Closes, Door of Jihad Opens’
+31591,2,Timeline: Turkey’s bloody year
+31858,10,Iraq’s unnamed victims of terror
+31897,1,Defense chief: ISIS leader ’moves around’
+32074,1,James Mattis Fast Facts
+32244,2,For these people, Trump’s plans are personal
+32257,2,Trump’s immigration ban sends shockwaves
+32258,1,Inside the confusion of the Trump executive order and travel ban
+32259,3,Judges temporarily block part of Trump’s immigration order, WH stands by it
+32263,1,Protesters decry Trump’s immigration policies
+32273,5,Families feel the impact of Trump visa ban
+32285,2,Trump’s travel ban: What we know
+32292,4,Listen to the voicemails of people impacted by the immigration ban
+32301,1,What Trump said about travel ban is false
+32312,1,Travel ban protests stretch from US to UK
+32328,1,Trump’s first days in office spawn dozens of lawsuits
+32345,2,Trump order dangerous for LGBTQ refugees
+32365,6,Iraqis: Trump’s travel ban ignores their service to US
+32391,2,These zoo animals survived ISIS
+32408,1,Immigration ban strands children and families
+32417,1,Injured toddler’s future waits on Trump policy
+32429,2,Setback for Trump: Appeals court rejects demand to resume travel ban -- for now
+32526,2,White House considers designating IRGC
+32533,1,Donald Trump’s alternate universe
+32547,2,Oil Spills Fast Facts
+32575,1,US-led coalition targets ISIS leader in Iraq strike
+32602,2,Iraqi police officer killed in clashes
+32637,1,Gordon Brown Fast Facts
+32651,1,Injured Yazidi toddler to reunite with family
+32730,1,Donald Trump: How US President sees the world
+32753,7,Iraqi leaflet drop warns of Mosul offensive
+32787,9,Iraq starts operation to drive ISIS out of west Mosul
+32815,1,What McMaster needs to tell Americans
+32818,1,New Trump travel ban order nearing completion
+32835,1,CNN 10 - February 22, 2017
+32839,1,State Department’s silence gives others an opening
+32877,1,What is VX nerve agent, and what could North Korea do with it?
+32885,1,Who, exactly, is running US foreign policy?
+32894,5,Top general: US mulling ’long-term commitment’ in Iraq
+32936,5,Kurdish reporter Shifa Gardi killed in Iraq
+32941,16,Mosul: Fleeing civilians killed by mines
+32947,24,Battle for Mosul: Iraqi forces advance near key area in city’s west
+32958,2,CNN 10 - February 27, 2017
+33074,4,CNN 10 - March 3, 2017
+33085,5,Suspected chemical attack in Mosul, Red Cross says
+33147,1,Kelly: There are ’13 or 14’ more countries with questionable vetting procedures
+33148,9,Trump signs new travel ban, exempts Iraq
+33152,2,What Trump’s travel ban does, how it’s changed
+33215,13,Iraq Most Wanted Fast Facts
+33216,3,WikiLeaks Fast Facts
+33262,3,In western Mosul, a determined few remain
+33289,2,Islamist rebels claim responsibility for twin blasts in Damascus
+33291,12,Nearly 100,000 displaced since start of western Mosul assault
+33295,1,ISIS devastated Mosul Museum, or did it?
+33324,1,More than 2 dozen killed in Damascus suicide bombings at courthouse, restaurant
+33407,18,Will Iraq survive victory over ISIS in Mosul?
+33413,3,Nadia Murad and Amal Clooney demand justice for Yazidis
+33431,1,The airline electronics ban is already causing confusion and frustration
+33459,1,Anti-ISIS partners want US to clarify strategy
+33523,4,US military investigating if airstrikes caused nearly 300 civilian deaths
+33532,6,US investigating alleged Iraq civilian deaths
+33553,16,US-led strike caused civilian deaths in Mosul, Iraqi official says
+33571,9,Mosul: 112 civilian bodies pulled from site of coalition airstrike
+33601,5,CNN 10 - March 30, 2017
+33617,1,CNN 10 - March 31, 2017
+33630,5,Why ISIS offered to kill this 4-year-old girl
+33674,2,US-led coalition assesses civilian deaths
+33693,2,Jared Kushner travels to Iraq
+33725,1,Trump’s Secretary of Everything: Jared Kushner
+33746,1,With Bannon out, White House gets serious about national security
+33772,1,Trump on Syria’s Assad: ’Something should happen’
+33816,1,Five big risks after Trump’s Syria strike
+33881,3,Iran can’t be forced out of Syria -- but it can be contained
+33922,1,How Donald Trump came to love NATO
+33942,2,US defends dropping ’mother of all bombs’
+33997,2,Jessica Lynch Fast Facts
+34001,1,Saudi Arabia Fast Facts
+34098,3,This is life inside Mosul’s Old City
+34218,3,Turkish airstrikes kill US-backed Kurdish forces battling ISIS
+34288,1,Detained Americans Fast Facts
+34296,1,US service member killed near Mosul
+34304,1,How the world sees Trump, 100 days in
+34382,3,CNN 10 - May 3, 2017
+34416,1,CNN 10 - May 5, 2017
+34508,2,Boko Haram Fast Facts
+34543,8,CNN 10 - May 10, 2017
+34683,1,Latest al Qaeda propaganda highlights bin Laden’s son
+34785,1,Memorial Day Fast Facts
+34909,1,Trump at NATO: What to watch
+34948,1,Sarin Fast Facts
+34957,2,Opinion: What it’s like to meet terrorists
+35038,5,ISIS targets Iraqis at ice cream shop
+35142,1,Tommy Franks Fast Facts
+35248,1,Journey to the front line
+35249,10,Battle for Mosul rages on -- and civilians bear the terrible toll
+35344,1,The mysterious death of Marine Col. Stahlman
+35456,4,Iraqi Christians in Michigan fear deportation
+35708,1,Trump adviser resigns after mocking Lewandowski on Twitter
+35867,7,Iraqi general: ’Battle for Falluja is over’
+35899,1,John Kerry: Iran ’helpful’ in fighting ISIS in Iraq
+35915,1,ISIS’ Ramadan terror campaign
+35920,4,The unlikely godfather of the Islamic State
+35922,1,Istanbul terror attack: 42 killed nation mourns
+35925,1,What you need to know about the Turkey attack
+35937,1,Why we forget Muslim terror victims
+35940,1,ISIS leadership helped plan Istanbul attack, source says
+35944,1,Istanbul terror attack: These are the victims
+35954,14,Airstrikes target fleeing ISIS convoys
+35967,7,Airstrike kills 2 ISIS commanders, U.S. says
+36014,12,ISIS claims Baghdad bombing 200 dead
+36042,25,ISIS Fast Facts
+36044,35,Iraq Fast Facts
+36048,6,Bombing that killed more than 200 deadliest attack in Baghdad in years
+36072,3,Iraq’s interior minister resigns over bombing
+36081,1,Donald Trump defends tweet blasted as anti-Semitic
+36082,1,How GOP hopes to keep Clinton email scandal alive
+36093,1,Obama to leave more troops than planned in Afghanistan
+36101,2,Trump gets it right on Saddam
+36102,2,President Trump has a long history of praise for autocrats, dictators and strongmen
+36130,6,What Chilcot report got right -- and wrong
+36131,1,Dallas shooting: Who are the slain officers?
+36173,5,Iraqi forces retake air base from ISIS near Mosul
+36211,18,Ash Carter: U.S. sending more troops to Iraq
+36648,10,Grand Ayatollah Ali al-Sistani Fast Facts
+36699,1,Actually, Trump has a point
+36764,5,ISIS captures up to 3,000 people fleeing violence in Iraq, UN says
+36814,1,How Muslims in the nation’s capital feel about the 2016 race
+36887,2,Mother mourns newborn son lost in hospital fire
+36898,5,No, Obama was not the ’founder’ of ISIS
+37005,1,Trump proposes values test for would-be immigrants in fiery ISIS speech
+37007,1, Defense officials see gains against ISIS
+37028,1,Trump wants ’extreme vetting.’ What’s the process now?
+37157,4,Iraq executes 36 people for Camp Speicher massacre
+37184,1,Iraq stops would-be child bomber for ISIS
+37187,7,Iraqi troops plow toward key Iraqi city
+37194,1,CNN Student News - August 24, 2016
+37245,1,’Every time my work goes viral I ask myself: What do I do next?’
+37253,1,CNN Student News - August 26, 2016
+37345,4,Death of senior leader caps bad month for ISIS
+37569,2,Trump says he opposed the Iraq war -- but he didn’t
+37604,1,9/11: Bin Laden’s spectacular miscalculation
+37696,6,Pentagon mulls more troops to fight ISIS in Iraq
+37789,6,US, Iraqi troops close in on last ISIS-held city
+37872,3,Did ISIS use mustard agent against US troops?
+37913,1,US: ’Concerning’ mustard attack on US base
+37999,1,Julian Assange Fast Facts
+38014,1,What ISIS left behind
+38065,1,Housewife who ’cooked heads’ of ISIS fighters
+38188,5,Kaine, Pence debate: CNN’s Reality Check Team vets the claims
+38194,1,Pence goes further than Trump on Syria military action
+38203,2,Reality Check Quick Takes: Pence misstates Trump position on Putin
+38274,1,Iraq: Families flee battle for ISIS-held town
+38329,11,US urges calm as Turkey-Iraq tensions risk ISIS fight
+38400,14,Remembering Mosul ahead of battle with ISIS
+38416,7,Iraqi PM on ISIS-held cities: We will go in soon
+38433,10,Iraqi leaflets in Mosul warn of ISIS battle
+38460,9,Humanitarian crisis looms amid Mosul offensive
+38462,8,Battle for Mosul begins with gunfire, bombs
+38468,13,ISIS in the crosshairs: Battle for Mosul begins
+38480,1,Turkish airstrikes hit Kurdish fighters in Syria
+38492,11,Mosul: Most intense day of fighting since offensive began
+38501,4,Trump: Iraq fighting in Mosul to help Clinton
+38509,2,General: Up to 900 ISIS fighters killed in battle for Mosul
+38528,2,Syrian airstrikes hit school, killing 20 children, rescuers say
+38554,4,Battling ISIS with a bulletproof BMW
+38585,3,Coordinator of Paris, Brussels attacks ID’d
+38665,1,Trump’s national security guru
+38693,1,Trump to supporters harassing minorities: ’Stop it’
+38694,1,Aleppo residents get warning by text message
+38696,1,HRW: Kurds illegally destroying Arab homes in Iraq
+38748,1,Australia to send refugees to the US: Why it took so long
+38776,9,Iraqi forces recapture key air base near Mosul
+38780,5,Driven underground by Saddam, ’Iraq’s greatest photographer’ Latif Al Ani is honored at last
+38826,1,Obama’s counterterrorism adviser on threats facing Trump administration
+38939,2,U2 ’Dragonlady’ pilots spy on ISIS from the edge of space
+38940,3,Slaughter of innocents continues in battle for Mosul
+38949,4,’I was a believer’: Face-to-face with ISIS inside an Iraqi prison
+38960,1,Iraq bomb kills dozens, mostly Iranian Shi’ite pilgrims ISIS claims responsibility
+39033,2,Susan Rice: 55 percent of ISIS territory seized in Iraq
+39086,6,ISIS uses water as weapon in Mosul fight
+39105,1,Combating religious discrimination in Iraq
+39108,1,Trump wants James Mattis for secretary of defense
+39134,2,Inside the mind of ’Mad Dog’ Mattis
+39143,12,Iraq death toll climbs in grinding battle for Mosul
+39171,8,Iraq disputes number killed in battle against ISIS
+39275,3,ISIS hostage John Cantlie appears in propaganda video
+39313,2,Istanbul explosions: 38 killed, 155 wounded
+39316,1,US drone strike kills French ISIS operative
+39363,2,Analysis: Assad is winning a battle, but not the war for Syria
+39441,1,2016 In Review Fast Facts
+39454,1,How Russian playbook transformed war in Syria
+39530,2,Out of Mosul: The refugees fleeing ISIS
+39554,6,Ayad Allawi Fast Facts
+39569,1,Berlin attack: Police hunt Tunisian suspect
+39578,1,Berlin attack: Fingerprints clue in manhunt
+39622,5,Christmas reborn in Iraqi town freed from ISIS
+39730,13,Iraq’s PM says ISIS could be defeated ’within 3 months’
+39753,1,US aware of recent Baghdadi movements
+39782,4,What (not) to look forward to in 2015
+39825,1,Charlie Hebdo attack: Three terrorists killed in raids
+39915,1,Cherif and Said Kouachi: Their path to terror
+40005,1,How right was Romney?
+40015,1,ISIS threatens to kill 2 Japanese hostages
+40034,4,Why ’American Sniper’ is a hit
+40035,2,Why I refuse to see ’American Sniper’ (Opinion)
+40058,1,Last mission for class of Navy frigates
+40104,9,Will U.S. troops move closer to Iraqi front lines?
+40105,2,What’s happening in the Middle East and why it matters
+40144,2,ISIS appears to demand swap for Japan hostage
+40149,1,Sajida al-Rishawi, named in prisoner swap, executed
+40191,1,Purported ISIS post threatens Japanese, Jordan captives
+40201,1,ISIS sets new prisoner handover deadline, post claims
+40202,17,For ISIS, tough times as it seeks to regroup
+40226,1,How ISIS’ new hostage strategy is pressuring leaders
+40233,6,ISIS launches attack on Kirkuk
+40250,1,Hagel: Gitmo transfers caused friction with White House
+40262,6,Is U.S. coalition winning war against ISIS? (Opinion)
+40267,1,Video: ISIS purportedly beheads Japanese hostage
+40281,3,ISIS miscalculated in Jordanian pilot’s death (Opinion)
+40317,3,Airstrikes pound ISIS targets in Mosul
+40318,3,ISIS Mosul defense could trigger troop recommendation
+40369,12,Iraqi tribal leader: Anbar province could ’collapse’
+40370,9,U.S. copters support Iraqis fighting ISIS
+40431,3,How ISIS makes (and takes) money
+40458,20,U.S. defense chief puts success before timing in Mosul
+40525,2,Can Christianity survive in the Middle East?
+40553,1,Dallas cops want help in Iraqi man’s shooting death
+40607,5,Iraqi forces expected to retake Tikrit within days
+40649,1,Senators grill Obama officials on Iran
+40678,23,Iraqi forces retake most of Tikrit, militia head says
+40781,1,The Kurdish women fighting ISIS
+40848,1,CIA head: U.S. could handle Iran nuclear inspections
+40892,1,For Obama, a new twist in longest U.S. war
+40915,1,Saudis lead air campaign against rebels in Yemen
+40923,14,Coalition hammers ISIS targets around Tikrit
+40988,8,Exclusive: Detained ISIS members speak from Iraqi jail
+41096,7,Looting reported in Tikrit, Iraq, after ISIS driven out
+41128,1,Fourth man charged in connection with plot to help ISIS
+41130,12,Mass graves found in Tikrit
+41142,1,Could veterans have concussion-related CTE?
+41243,6,ISIS targets Iraq’s largest oil refinery
+41258,2,A Yazidi captive’s tale: Sold by ISIS as a sex slave
+41259,4,U.S.: ISIS problem ’off the charts historically’
+41266,2,Ex-Blackwater contractors sentenced in Iraq shooting
+41280,7,Ramadi could fall to ISIS offensive, Iraq official says
+41281,2,Foreigners training anti-ISIS militia in Iraq, Syria
+41303,1,Man taken into custody after landing aircraft on Capitol grounds
+41325,1,Australian model, DJ killed fighting for ISIS in Syria
+41360,1,ISIS executes more Christians in Libya, video shows
+41389,2,Famed Middle East writer Sandra Mackey dies
+41453,2,In Weinstein hostage ordeal, help from Congress
+41634,8,ISIS on offensive in Iraq’s Ramadi, governor says
+41673,7,Abu Sayyaf, key ISIS figure in Syria, killed in U.S. raid
+41674,5,ISIS withdraws from key parts of Ramadi, Iraq says
+41675,3,Carter: ISIS raid a ’significant blow’ to terror group
+41738,9,Iraqis launch counterattack against ISIS near Ramadi
+41766,5,President Obama: We’re not losing against ISIS
+41767,2,GOP 2016ers grapple with ground troops in Iraq
+41776,3,Ramadi, a decade after an encounter with an IED
+41777,4,ISIS fight: No quick solutions (Opinions)
+41786,6,Inside the battle for Ramadi: Iraqi soldier speaks
+41787,14,Iraq operation aims to push ISIS from Anbar, Salaheddin
+41801,9,CNN’s Wolf Blitzer: The whole world was watching
+41811,12,Joe Biden praises Iraqi military
+41814,8,Carter: Iraqis showed ’no will to fight’ in Ramadi
+41818,1,Bald eagle stands guard and other Memorial Day salutes
+41833,14,Iraqi forces, ISIS militants clash in Anbar operation
+41847,1,Jindal: Rand Paul ’unsuited’ to be commander in chief
+41902,11,Why ISIS is winning, and how its foes can reverse it
+41925,3,What Syria needs now (Opinion)
+41955,10,Iraqis shell Falluja, stirring memories of battles past
+41999,3,ISIS campaign as unpopular as Iraq
+42015,3,U.S. official: 10,000 ISIS fighters killed in 9 months
+42029,8,What does the U.S. do about ISIS?
+42048,6,Iraq: ISIS fighters close Ramadi dam gates
+42173,12,Obama Iraq troops: ’No complete strategy’ on ISIS fight
+42230,6,White House OKs up to 450 additional troops in Iraq
+42374,5,Whack-a-mole is not a strategy
+42571,1,O’Malley knocks Clinton on Iraq, Libya
+42849,3,Iraq ice truck bombing kills 120
+42917,5,Jessica Lynch copes with wounds, inside and out
+43062,2,CNN fact checks the 2016 Republican debates
+43201,1,US special ops carry out raid deep inside ISIS territory
+43207,1,How Iran made the US look weak with a tiny, outdated navy and some old ballistic missiles
+43370,1,This list of every ’Word of the Year’ is like taking a trip through time
+43435,2,’It’s not a Muslim ban’: Trump defends controversial executive order on refugees
+43436,5,Legal challenges are already being presented to Donald Trump’s ban on Muslim asylum-seekers
+43448,2,Trump defends immigration ban in fiery statement, says GOP senators opposing are ’looking to start World War III’
+43450,1,Trump just made an unprecedented, ’radical’ change to the National Security Council
+43530,1,Trump’s ’America First’ policies are catapulting Boeing into dangerous territory
+43545,1,Kellyanne Conway lashes out at ’haters’ after citing terror attack that never happened
+43552,1,Trump tells troops, without evidence, that the press isn’t reporting on terrorism: ’They have their reasons and you understand that’
+43737,3,Trump just made a fantastic choice for his new national security adviser
+43901,1,Here are 5 things different about Trump’s new travel ban
+44077,2,Iraq’s prime minister pokes fun at Trump over wiretapping claims during trip to White House
+44383,1,The phrase ’mother of all bombs’ has a long history in the Middle East
+44418,1,The White House may have violated its own ethics rules with Trump’s executive branch hires
+44868,5,Meet the small group of men who are risking everything to destroy ISIS
+44870,4,A former special forces sniper is taking up a new fight — protecting one of the world’s most endangered species
+44938,2,An elite military unit is accused of human rights violations by brutally torturing Iraqis
+45232,2,US-led coalition aircraft shoots down Syrian fighter jet near Raqqa
+45233,1,The 10 most important things in the world right now
+45385,3,The greatest threat in the Middle East is ’going to get much worse before it gets better’
+45437,1,The US is considering a new plan for Syria — and the Kurds ’will not be happy about it’
+45462,1,It’s been 25 years since the start of Operation Desert Storm
+45469,3,Report: 3 Americans kidnapped in Iraq
+45498,1,GATES: Don’t expect the nuclear agreement to lead to a more moderate Iran
+45680,4,Iraq’s about to plunge off a fiscal cliff — and the consequences could be dire
+46235,5,American IS fighter: I made a bad decision
+46316,2,Experts: Killing ISIS’ No. 2 isn’t enough to cripple the terror group
+46385,2,The military’s new award for service members fighting ISIS is badass
+46391,2,’It was a shock’: ISIS leader’s ex-wife speaks out
+46449,2,ISIS’s finances are taking a serious hit, and it’s hurting morale inside the terrorist group
+46727,2,US military uses controversial ’roof knock’ tactic in Iraq to try to warn civilians before bombing raids
+46945,1,This chart shows why Goldman Sachs just U-turned on its outlook for oil
+47149,1,We just got the clearest sign yet that Iran’s military mastermind is calling shots in Iraq — and that the US is letting him
+47327,2,A veteran went on a lengthy tweetstorm aimed at Trump after the nominee said soldiers stole millions
+47394,2,Former US ambassador to Syria: ’No surefire solution’ to the conflict, ’and we just have to live with that’
+47447,12,’These are not allies’: The most potent force fighting ISIS in Iraq has been accused of torturing and executing civilians
+47561,3,’He chose the perfect time to cause casualties’: At least 140 killed in central Baghdad suicide bombing
+47604,2,ISIS’ global suicide-bombing campaign is only just beginning
+47619,1,Donald Trump blasts ’liars’ in the media for coverage of his Saddam Hussein praise
+47893,3,’Unique, strange, and terrible’ — ISIS may have created a new type of bomb
+48069,1,There’s a glaring problem with CNN’s ’fact check’ of Trump’s claim that Obama founded ISIS
+48266,2,We interviewed a Peshmerga soldier fighting ISIS on the frontlines — here’s what he had to say
+48537,1,The UN is holding an emergency meeting after a US-led air strike killed Syrian troops
+48632,1,Where Hillary Clinton and Donald Trump stand on foreign policy
+48917,3,Iraq just began what could be ’the most complex and largest’ anti-ISIS operation ever
+49011,1,Get ready for Snapchat to feel a lot more like TV
+49039,1,ISIS militants have spread a toxic, corrosive cloud over parts of Syria, Iraq, and Turkey
+49358,4,Watch a US-led airstrike knock out a facility producing ISIS’ favorite weapon in Iraq
+49381,1,Where all 14 OPEC members stand ahead of November’s crucial meeting
+49553,6,Watch a US-led coalition airstrike knock out an ISIS headquarters near the group’s last Iraqi stronghold
+49569,1,Trump’s Cabinet is starting to look like the staff of one of the most storied units of the Iraq War
+49799,2,Here’s what we think is going to happen in 2017
+49913,2,Ranked: Twitter Wars That Came a Little Too Close to Real Wars
+49952,1,The Long Career of Ali Akbar Hashemi Rafsanjani
+49965,1,A Brief Guide to Rex Tillerson’s Controversial Foreign Ties
+49996,1,The Biggest Intelligence Questions Raised by the Trump Dossier

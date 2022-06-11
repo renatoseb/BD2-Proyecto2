@@ -1,0 +1,682 @@
+133,4,Four Movies You Should Know About Before the Golden Globes - The New York Times
+285,1,Living in Andy Cohen’s America - The New York Times
+325,2,Jolted by Deaths, Obama Found His Voice on Race - The New York Times
+385,4,Obama’s Last Battle: His Legacy - The New York Times
+401,1,New York Times Study Calls for Rapid Change in Newsroom - The New York Times
+415,1,Obama Understood the Power of Art. And He Wanted You to Get It, Too. - The New York Times
+472,1,Your Guide to Inauguration Day 2017 - The New York Times
+496,1,The Matriarch Behind Beyoncé and Solange - The New York Times
+775,1,New England Patriots, Rex Tillerson: Your Wednesday Evening Briefing - The New York Times
+776,1,‘The Daily’: Making Sense of the Gorsuch Pick - The New York Times
+795,1,A Personal Trainer for Heartbreak - The New York Times
+812,5,‘The Daily’: President Trump’s Foreign Policy Muse - The New York Times
+845,5,‘The Daily’: Trump Trumps the Super Bowl - The New York Times
+852,1,A Free Speech Battle at the Birthplace of a Movement at Berkeley - The New York Times
+921,1,New England Patriots, Elizabeth II: Your Monday Evening Briefing - The New York Times
+945,1,Syria, Travel Ban, Kabul: Your Morning Briefing - The New York Times
+1007,1,Executive Orders, Kellyanne Conway: Your Thursday Evening Briefing - The New York Times
+1017,4,The Women of ‘Girls’ and Protest Whack-a-Mole - The New York Times
+1028,3,Our Picks: Great Stories From Around the Web and in The Times - The New York Times
+1063,1,Donald Trump, North Korea, Kashmir: Your Morning Briefing - The New York Times
+1064,1,Trump’s Cabinet, Refugee Ban, Grammys: Your Weekend Briefing - The New York Times
+1085,1,Justin Trudeau, Lahore, Adele: Your Morning Briefing - The New York Times
+1086,1,Adele, Justin Trudeau, Trump: Your Monday Evening Briefing - The New York Times
+1117,1,Michael Flynn, Kim Jong-un: Your Tuesday Evening Briefing - The New York Times
+1125,2,13 Great Stories That Have Nothing to Do With Politics - The New York Times
+1133,1,Chris Rock Returns With Jokes and Personal Anguish - The New York Times
+1143,1,Israel, Kim Jong-un, Andrew Puzder: Your Evening Briefing - The New York Times
+1168,1,Samsung, Kim Jong-un, Rex Tillerson: Your Morning Briefing - The New York Times
+1169,1,Trump’s News Conference, Russia, Facebook: Your Evening Briefing - The New York Times
+1199,1,15 Great Stories That Have Nothing to Do With Politics - The New York Times
+1210,1,Letter of Recommendation: Presidential Biographies - The New York Times
+1292,1,Sick of Politics? Try These Great Reads - The New York Times
+1298,1,Mexico, Syria, Trump: Your Wednesday Evening Briefing - The New York Times
+1299,1,Kim Jong-nam, Donald Tsang, Mexico: Your Morning Briefing - The New York Times
+1320,2,Dale Earnhardt Jr. Begins Again After Concussion, With Altered Priorities - The New York Times
+1345,1,California Today: In Virtual Reality, Investigating the Trayvon Martin Case - The New York Times
+1433,1,Trump, Kellyanne Conway, Samsung: Your Tuesday Evening Briefing - The New York Times
+1458,1,Trump, Snapchat, Mosul: Your Wednesday Evening Briefing - The New York Times
+1459,1,Donald Trump’s Speech, Mosul, Kim Jong-nam: Your Morning Briefing - The New York Times
+1505,1,European Union, Nintendo Switch, ‘Logan’: Your Friday Evening Briefing - The New York Times
+1511,1,How to Escape Your Political Bubble for a Clearer View - The New York Times
+1575,1,Trump Tower, T.S.A., Iraq: Your Monday Evening Briefing - The New York Times
+1699,1,Netflix Casts a Wider Net for Original Documentaries - The New York Times
+1735,1,Donald Trump, Republican Party, Daylight Saving: Your Weekend Briefing - The New York Times
+1758,2,Snowed In? Here’s What to Cook, Watch, Listen To and More - The New York Times
+1768,13,Richard Simmons’s Disappearing Act Inspires a Hit Podcast - The New York Times
+1803,1,California Today: A Gallery Flees and Neighborhood Activists Cheer - The New York Times
+1808,2,Inside John Calipari’s Media Empire - The New York Times
+1948,1,11 Great Reads That Have Nothing to Do With Politics - The New York Times
+1990,1,Gorsuch, London, Republican Party: Your Thursday Evening Briefing - The New York Times
+2023,1,17 Great Stories That Have Nothing to Do With Politics - The New York Times
+2142,1,Brexit, Chris Christie, Ivanka Trump: Your Wednesday Evening Briefing - The New York Times
+2179,7,Liked ‘Serial’? Here’s Why the True-Crime Podcast ‘S-Town’ Is Better - The New York Times
+2227,2,What to Cook, Watch, Listen To and More This Weekend - The New York Times
+2239,2,How Women Over 50 Can Keep Their Careers on Track - The New York Times
+2267,1,Gorsuch, Russia, N.C.A.A. Final: Your Monday Evening Briefing - The New York Times
+2321,1,Trump, Syria, Pepsi: Your Wednesday Evening Briefing - The New York Times
+2322,1,Syria, Pepsi, Stephen Bannon: Your Thursday Briefing - The New York Times
+2403,10,Richard Simmons Signs With Licensing Firm. Is a Re-emergence Next? - The New York Times
+2419,3,17 Great Stories That Have Nothing to Do With Politics - The New York Times
+2441,1,Sleep Is the New Status Symbol - The New York Times
+2470,1,United Airlines, Sean Spicer: Your Tuesday Evening Briefing - The New York Times
+2494,1,Syria, Ahmadinejad, United Airlines: Your Morning Briefing - The New York Times
+2500,1,The Apps That Make Keeping Up With Soccer Easier - The New York Times
+2927,1,Donald Trump, Courting Evangelicals, Faults Hillary Clinton’s Policies and Character - The New York Times
+2928,1,Mitch McConnell Won’t Rule Out Rescinding His Endorsement of Donald Trump - The New York Times
+3020,1,Mike Allen, Politico’s Newsletter Pioneer, Is Handing Over the Reins - The New York Times
+3046,1,A ‘Honeymoon Tour’ of Laughs From Natasha Leggero and Moshe Kasher - The New York Times
+3128,1,10 Months, 45 National Parks, 11 Rules - The New York Times
+3143,2,Istanbul, Donald Trump, Boris Johnson: Your Thursday Evening Briefing - The New York Times
+3147,2,Adnan Syed, of ‘Serial’ Podcast, Gets a Retrial in Murder Case - The New York Times
+3203,1,So-So Players’ Salaries Soar in N.B.A. Flush With New TV Money - The New York Times
+3218,1,Review: ‘The Night Of’ Takes a Cab Ride to Hell - The New York Times
+3245,1,Dallas, Euro 2016, Wimbledon: Your Weekend Briefing - The New York Times
+3317,2,Baton Rouge Shooting Jolts a Nation on Edge - The New York Times
+3330,5,Online Trail Illuminates Baton Rouge Gunman’s Path to Violence - The New York Times
+3499,2,Why Self-Help Guru James Altucher Only Owns 15 Things - The New York Times
+3526,7,Introducing The Run-Up, Our New Election Podcast - The New York Times
+3528,1,Donald Trump, Michael Phelps, Zika: Your Tuesday Evening Briefing - The New York Times
+3610,4,Americans Don’t Trust Her. But Why? - The New York Times
+3652,4,Understanding the Trump Voter - The New York Times
+3667,1,Why Do You Want a Pet? Can You Afford It? - The New York Times
+3738,4,The Hidden Influence of Clinton and Trump’s Religion - The New York Times
+3757,1,Max Ritvo, Poet Who Chronicled His Cancer Fight, Dies at 25 - The New York Times
+3909,7,There’s a Lot We Need to Talk About - The New York Times
+3918,4,Did Hillary Clinton Have to Be First? - The New York Times
+3966,4,Turning Points: Rethinking a Campaign Cliché - The New York Times
+4000,4,‘You Can’t Code Your Way Out of Racism’ - The New York Times
+4001,1,U.S. Presidential Race, Syria, William Bratton: Your Friday Evening Briefing - The New York Times
+4053,1,Resolution of Jacob Wetterling Case Also Closes Chapter for a Reporter - The New York Times
+4087,1,Charlotte, Syria, Ted Cruz: Your Friday Evening Briefing - The New York Times
+4089,4,Trump’s Ghostwriter Explains How to Beat Him in a Debate - The New York Times
+4137,2,Chris Bosh’s Desire to Play Leaves Heat at an Ethical Crossroads - The New York Times
+4207,1,Tim Kaine, Mike Pence, Donald Trump: Your Tuesday Evening Briefing - The New York Times
+4219,1,Mike Pence, N.S.A., Nobel Prize: Your Wednesday Evening Briefing - The New York Times
+4338,1,Clinton, Trump, Cuba: Your Friday Evening Briefing - The New York Times
+4341,4,Revelations From the Final Weeks - The New York Times
+4358,1,Bob Dylan’s Nobel Prize: A Podcast Discussion - The New York Times
+4466,8,Listening to This New Podcast Could Save Your Life on Election Day - The New York Times
+4471,4,Your Election Day Questions, Answered - The New York Times
+4496,1,The New York Times to Offer Open Access on Web and Apps for the Election - The New York Times
+4504,1,The Modern Love Podcast: Ruth Negga Reads ‘My Touchstone and a Heart of Gold’ - The New York Times
+4695,4,Audio: Inside the Room With President-Elect Donald Trump - The New York Times
+4737,1,California Today: Fretting Over the ‘Netflix Tax’ - The New York Times
+4749,1,Venus Flytraps Need Protection From Poachers in North Carolina - The New York Times
+4760,1,More Law Degrees for Women, but Fewer Good Jobs - The New York Times
+4848,6,Keep Your Family Close and Your Roomba Closer - The New York Times
+4852,1,As Fake News Spreads Lies, More Readers Shrug at the Truth - The New York Times
+4923,6,Inside The New York Times Book Review: The 10 Best Books of 2016 - The New York Times
+4936,14,Too Many Favorite Shows? Take Them In at High Speed - The New York Times
+4966,1,The Best Dance of 2016 - The New York Times
+5060,1,California Today: Cast Your Vote for Californian of the Year - The New York Times
+5081,1,Tragedy Made Steve Kerr See the World Beyond the Court - The New York Times
+5093,4,Alec Baldwin, in His Own Words, on Playing Trump - The New York Times
+5126,1,Obama Says He Would Have Defeated Trump for a Third Term - The New York Times
+5504,3,Adnan Syed Retrial Ruling Disappoints Family of Victim in ‘Serial’ Case - The New York Times
+5583,1,The Baton Rouge Shooter, Gavin Long, Saw World ‘Run by Devils’ - The New York Times
+5615,1,Confessor. Feminist. Adult. What the Hell Happened to Howard Stern? - The New York Times
+5688,1,Is Trump Mentally Fit? ‘Sure,’ Gingrich Says - The New York Times
+5707,1,Hillary Clinton, Donald Trump, Vladimir Putin: Your Friday Evening Briefing - The New York Times
+5724,2,Devotion to the Stage, and to a Newborn - The New York Times
+5812,1,Donald Trump, Dilma Rousseff, Cuba: Your Wednesday Evening Briefing - The New York Times
+5829,4,What Donald Trump and Anthony Weiner Have in Common - The New York Times
+5830,1,2 TV Shows, 4 Books and 7 Viral Videos for Your Long Weekend - The New York Times
+5859,1,Gary Johnson, Donald Trump, Wells Fargo: Your Thursday Evening Briefing - The New York Times
+5954,1,Sarah Jessica Parker, Leaving Carrie Behind With HBO’s ‘Divorce’ - The New York Times
+5995,4,What Carmela Soprano Understood About Hillary Clinton - The New York Times
+5996,1,Packing Tips From Professional Travelers - The New York Times
+6014,1,Reader’s Guide to This Fall’s Big Book Awards - The New York Times
+6078,1,As Donald Trump Stumbles, Hillary Clinton Watches Her Step - The New York Times
+6129,4,Clinton’s Emails. Again - The New York Times
+6187,14,11 Fiction Podcasts Worth a Listen - The New York Times
+6233,1,Donald Trump, Obama, Thanksgiving: Your Weekend Briefing - The New York Times
+6370,4,40 Minutes With Kellyanne Conway - The New York Times
+6419,12,The Best New Podcasts of 2016 - The New York Times
+6612,1,Bill Simmons Prepares to Stand Up to Sports Incorporated - The New York Times
+6673,1,Why Tech Support Is (Purposely) Unbearable - The New York Times
+6794,1,Zika, U.S. Presidential Race, Ryan Lochte: Your Friday Evening Briefing - The New York Times
+6978,4,What We Learned From Five Hours of Trump on Tape - The New York Times
+7049,4,Tips for Shoring Up a Fragile Thanksgiving - The New York Times
+7054,4,I Voted Clinton. You Voted Trump. Let’s Talk. - The New York Times
+7092,1,The Best TV Shows of 2016 - The New York Times
+7100,1,The Best Movies of 2016 - The New York Times
+7185,1,For News Outlets Squeezed From the Middle, It’s Bend or Bust - The New York Times
+7244,1,What to Cook This Weekend - The New York Times
+7314,4,‘I Don’t Know.’ But Does He? The Hidden Meaning of Trump’s Words - The New York Times
+7328,1,Zika, Olympics, U.S. Presidential Race: Your Weekend Briefing - The New York Times
+7331,4,Media as Referee? Not Anymore - The New York Times
+7351,1,Overlooked Influences on Donald Trump: A Famous Minister and His Church - The New York Times
+7367,4,Why We Expect Health Disclosures From Presidential Candidates - The New York Times
+7418,1,Mosul, CETA, Trump: Your Tuesday Briefing - The New York Times
+7610,3,A Celebrity Z-List? Yes, It Exists - The New York Times
+7684,4,Why Russia’s Cyberattack Wasn’t Stopped - The New York Times
+7734,5,Trump Ignored Black Voters. But Has Clinton Earned 91% of Their Support? - The New York Times
+7820,1,Report: Illegal Aliens Forego Food Stamps to Stay off Trump’s Radar
+7886,1,LAPD’s ’Knock, Knock’ Task Force to Protect Celebrity Homes - Breitbart
+7900,1,Man Kicks in Ex-Girlfriend’s Door, Dies from Multiple Gunshot Wounds - Breitbart
+7917,1,Live Updates: 13 Shot at Fort Lauderdale Airport - Breitbart
+7919,1,David Frum: NRA Members Not Up to Task of Repelling Tyrants - Breitbart
+7941,1,EXCLUSIVE: Cartel Smugglers, Migrants Growing More Violent Against Border Patrol Agents
+7942,1,Iowa Senators Push Constitutional Amendment Blocking Gun Control - Breitbart
+7946,1,Moms Demand Pushes #DisarmHate For Orlando Pulse, but Everyone in Pulse Was Disarmed - Breitbart
+8036,1,VIDEO: Robbery Suspect Can’t Rack Slide, Points Jammed Gun at Cashier - Breitbart
+8037,2,’Political Hospice’ Is ’Way Forward’ For White Working Class, Says WashPo Editor - Breitbart
+8048,1,Six Self-Defense Handguns Under $350
+8056,1,Numerous Fatalities in Orlando Workplace Attack, Gunman Dead as Well
+8062,1,Army Develops New Bullet to Pierce Body Armor of Islamic State Jihadists - Breitbart
+8167,1,Chris Christie Commutes Sentence for USMC War Vet Charged over Legally Owned Gun - Breitbart
+8170,1,Dallas Police: ’Social Media’ Fueling Surge in Drive-by Shootings
+8194,1,Two Adults Killed in Alleged Murder-Suicide at CA Elementary School
+8201,1,Florida Gun Range Teaches 5-Year-Olds to Shoot
+8204,1,Fresno State Lecturer: ’Trump Must Hang’ to Save Democracy - Breitbart
+8215,1,Trump to NRA: ’You Came Through for Me, I am Going to Come Through for You’ - Breitbart
+8222,1,Chelsea Handler Rips Gun Owners: Your ’Hobby’ is Getting People Killed
+8245,1,’Real Housewives’ Star Grabs Gun, Chases Suspects from Home
+8260,1,Pepperdine University Removing Christopher Columbus Statue from Campus - Breitbart
+8303,1,VIDEO: Armed Employee Sneaks up Behind Armed Suspect, Foils Robbery Attempt - Breitbart
+8326,1,Amy Schumer Uses Netflix Special to go After ’Gun Nuts’
+8367,1,CBS News Awed by ’Relatively Reliable’ Smart Gun - Breitbart
+8428,1,Ronald Reagan: ’Those Who Seek to Inflict Harm Are Not Fazed by Gun Control Laws’ - Breitbart
+8430,1,Report: Trump Signs Repeal of Obama’s Social Security Gun Ban - Breitbart
+8467,1,House GOP Now Eyeing Repeal of Gun Ban for Military Veterans - Breitbart
+8480,1,Mississippi Suspect Kills Eight, Including Deputy Sheriff, in House-to-House Rampage
+8521,1,Debbie Wasserman Schultz: Federal Government May Ban Passengers from Checking Guns in Baggage
+8563,1,Gun-Controlled Chicago: Thieves Break Into Car of Top Cop
+8651,1,Dem: Charge Republican Who Took Down Anti-Cop Painting - Breitbart
+8847,1,Charles Barkley Mocks Shaq’s Flat Earth Confusion with Hilarious Story - Breitbart
+8848,1,Nevada Sheriffs: Bloomberg-Backed Background Checks Aren’t Going to Happen - Breitbart
+8889,1,Actor Jeffrey Wright on Scalise Shooting: ’Too Many Stupid Asses’ with ’Too Many F*cking Guns’
+8944,1,Eight Pro-Second Amendment Smackdowns from NRA Annual Meetings - Breitbart
+8948,1,Despite Strict Gun Control, One ’Child or Youth’ Shot Every Day in Ontario
+8961,1,Border Patrol Agent Tells Speaker Ryan the Wall ’Must Get Done’
+8993,1,Missouri Bill: Gun-Banning Businesses Liable for Injuries to Disarmed Customers - Breitbart
+9119,1,Donald Trump Attacks Bring Team Obama out of Retirement
+9185,1,Kristen Stewart: We Must ‘Shatter’ Idea That Playing With Toy Guns Is Cool
+9306,1,FULL REMARKS: MILO Delivers Speech at Press Conference Amid Video Scandal - Breitbart
+9326,1,Democrat Gutierrez Blames Chicago’s Gun Violence on NRA - Breitbart
+9343,1,Sonnie Johnson: The People Marc Lamont Hill Calls ‘Mediocre Negroes’
+9354,1,Fake News: WaPo - Congress Makes It Easier for ’Mentally Incompetent’ Vets to Carry Guns - Breitbart
+9361,1,$50,000 Reward for Facebook Killer as Manhunt Goes ’National’ - Breitbart
+9368,1,Home Invasion Suspect Wearing Only Underwear Shot, Killed After Attacking Pastor and Family - Breitbart
+9383,1,O’Reilly on Reports of Strife in the WH: ’Fake’ News, ’Crisis Is Being Manufactured’ - Breitbart
+9406,1,Trump Quietly Continues Obama’s ’Catch and Release’ at Border
+9425,1,Kansas Rally Against Campus Carry Draws 15 People
+9428,1,Terry McAuliffe: Alexandria Shooting Proves We Have ’Too Many Guns on the Street’ - Breitbart
+9463,1,Obama Lists Regrets -- Again: Failure to Secure Gun Control Still #1
+9572,1,Donald Trump to Be First President Since Reagan to Speak at NRA Annual Meetings - Breitbart
+9590,1,Chicago Mayor: City Needs More Regulations on Federally Licensed Gun Dealers - Breitbart
+9598,1,USMC War Vet Faces Prison for Legally Owned Gun Unregistered in New Jersey - Breitbart
+9643,1,France 2015 to Present: Strict Gun Control a Paper Tiger - Breitbart
+9671,1,Virginia Governor Vetoes Bill Allowing Women to Quickly Arm Themselves Against Domestic Abusers
+9681,1,Gun Controller Amy Schumer Wields Gun in ’Snatched’ Trailer
+9691,1,Lott: Police Commit More Gun Crimes Than Concealed Carry Permit Holders
+9710,1,Five-Year-Old Girl Suspended After Making ’Shooting Motion’ with Stick Shaped Like Gun - Breitbart
+9712,1,Actress Sarah Wynter: GOP Wants to Allow Concealed Carry for the Blind, Mentally Ill
+9718,1,Ohio Colleges Demand Students Remain Defenseless Despite Campus Carry Law - Breitbart
+9750,1,Bucknell Faculty Dismiss Academic Freedom of Expression Bill - Breitbart
+9837,1,Pre-Schooler Suspended for Bringing Empty .22 Shell Casing to School
+9841,1,DELINGPOLE: Facebook Banned Me For Defending Milo - Breitbart
+9889,1,Speaker Ryan Considers Fines to Prevent Gun Control ’Sit-In’
+9919,1,Pennsylvania Republican Pushing Ban on Private Gun Sales - Breitbart
+9927,1,Pennsylvania Republicans Push Bill to Make Gun Owners a ’Protected Class’
+9935,1,NRA’s Chris Cox: Trump’s First 100 Days Have Bolstered Second Amendment
+9952,1,Police One: Conditioning Britons to ’Run, Hide, Tell’ Does Not Demonstrate Resolve
+9966,1,ATF Permanently Relocating More Agents to Violence-Plagued Chicago - Breitbart
+9988,1,Supplier: L.A. Area Ammunition Purchases up Nearly 400% - Breitbart
+9989,1,ATF: 21st Century Suppressor Regulations are ’Archaic’ - Breitbart
+9992,1,Elizabeth Warren: Sessions ’Needs to Be Fired’ - Breitbart
+9994,1,Concealed Carry Up 215%, Murder Rate Down 14% - Breitbart
+10000,1,Concern Mounts as Over 250 Earthquakes Hit Border - Breitbart
+10009,1,Waffle House Waitress Fired After Shooting Gun During Alleged Robbery - Breitbart
+10068,1,Suspect Charged for Carrying Pistol Without Permit After Gun Falls Out of His Buttocks
+10089,1,GOP Rep Introduces Bill Protecting Gun Rights of Military Families - Breitbart
+10111,1,Daniel Defense: Second Amendment Rights Come From God, Not Government - Breitbart
+10122,1,Homeowner Attacks Robbery Suspects with Machete, Takes Away Gun
+10158,1,Surveillance Video: Armed Suspects Flee Foiled Home Invasion - Breitbart
+10170,1,Waters: I Believe Trump ’Colluded With the Russians,’ I Haven’t Seen Any Evidence to Back That Up - Breitbart
+10239,1,Ohio State Campus Carry Proponent Shot and Killed Near Campus - Breitbart
+10266,1,Gun-Controlled Chicago Ends 2016 with Nearly 800 Homicides for the Year
+10276,2,Bill O’Reilly Sets Return with ’No Spin News’ Podcast
+10333,1,Sheriff: Be Armed, Be Mentally Prepared, Make Terrorists Defend Their Lives for a Change - Breitbart
+10360,1,’Footy McFooty Face’ Leads Vote to Name San Diego MLS Team - Breitbart
+10365,1,70-Year-Old Veteran Kills Robbery Suspect Who Points Gun at Him
+10372,1,VIDEO: LAPD Shoots from Helicopter, Kills Armed Home Invasion Suspect
+10401,1,Breitbart News Daily: Red Scare - Breitbart
+10444,1,O’Reilly: ’I Can Tell You That I’m Very Confident the Truth Will Come Out’ - Breitbart
+10491,1,Six Years Ago Today SEAL Team Six Likely Used This Gun to End Osama bin Laden - Breitbart
+10497,1,Dems Defy Paul Ryan’s Rule Against Pictures on House Floor - Breitbart
+10506,1,VIDEO-Kid Rock Blasts Imported Grills With Shotgun: ’In Your Face, China’ - Breitbart
+10576,1,Woman Wearing ’Moms Demand Action’ Button: Murdering President Trump On Stage is Just ’Theater’ - Breitbart
+10605,1,Missouri Lawmakers Push Campus Carry, Liability for Gun-Free Businesses
+10609,1,Mark Kelly Renews Vow to Fight National Reciprocity After Shooting of Unarmed Congressman - Breitbart
+10629,1,Confirm Jeff Sessions as Attorney General To Curb Gun Crime in Chicago, Says NRA-ILA’s Chris Cox. - Breitbart
+10672,1,Homeowner Shoots, Kills Man Who Allegedly Brought 7-Year-Old Son Along for Home Invasion - Breitbart
+10679,1,FAKE NEWS: CNN Claims GOP Trying to Remove ’$200,000 Tax’ on Firearm Suppressors - Breitbart
+10763,1,Obama in Harvard Law Review: Prayer Won’t Do It We Need Gun Control
+10788,1,Fake News: NYT, NYDN, HuffPo Report GOP Helping Mentally Ill Get Guns
+10795,2,Kevin Shenkman: Ending Democracy as We Know It in Southern California? - Breitbart
+10854,1,’Footy McFooty Face’ Was a Prank Pushed by Los Angeles FC Fans - Breitbart
+10883,1,Jeff Sessions Asks Chicago’s Failed Obama-Appointed Federal Prosecutor to Resign - Breitbart
+10918,1,Moms Demand Action Founder: Trump is ’NRA’s Dream’ but America’s Nightmare - Breitbart
+10920,1,Strict Gun Control Impotent as Terrorist Opens Fire in Quebec
+10926,1,Second Amendment Foundation: Alexandria Shooting the Result of ’Democratic Hate Speech’ - Breitbart
+10963,1,January 8, 2011: Kathy Griffin Blamed Sarah Palin’s ’Crosshairs Map’ for Gabby Giffords’ Shooting - Breitbart
+11047,1,Sen. Feinstein at Gorsuch Confirmation: NRA an ’Extreme Organization’
+11058,1,Bartender Sets Woman On Fire During New Year’s Eve Trick
+11077,1,MILO: ’I Was A Victim Of Child Abuse’ - Breitbart
+11115,2,VIDEO: Sen. Kamala Harris Uses the F-Word at Public Event About Health Care - Breitbart
+11129,1,Neighbor Shoots Knife-Wielding Man Trying to Drown Babies in Bathtub - Breitbart
+11227,1,Navy Commissions Ship Honoring Gun Controller Gabby Giffords
+11240,1,Store Owner Fights Back, Fatally Shoots Two Robbery Suspects, Wounds Third - Breitbart
+11309,1,Trump Deputy Assistant Sebastian Gorka Reveals Death Threats
+11323,1,Dan Savage: Melania Trump Is ‘Ugly on the Inside’ - Breitbart
+11356,3,GOP Rep Introduces National Concealed Carry Reciprocity On Day One of New Congress - Breitbart
+11367,1,Police: Home Invasion Suspect Brings Crowbar to Gun Fight, Is Hospitalized in Stable Condition - Breitbart
+11372,1,Georgia Lawmakers Pass Campus Carry, Sending It to Governor’s Desk
+11375,1,Neil Gorsuch: Bill of Rights Added Because Founding Fathers Were ’Jealous of Their Liberties’ - Breitbart
+11377,1,Neil Gorsuch to Participate in Deciding SCOTUS Gun Rights Hearing
+11476,1,Minnesota Democrat Pushes $200K in Annual Taxpayer Gifts for Gun Control Groups
+11576,1,40-Year Sentence Handed Down in Kidnapping Case Police Called a ’Hoax’ - Breitbart
+11613,1,VIDEO: Police Shootout Kills Murder Suspect in Chicago ’War Zone’ - Breitbart
+11626,1,Trump SCOTUS Nominee: ’2nd Amendment Protects an Individual’s Right’ - Breitbart
+11707,2,California Lt. Gov: We’ll Stop Trump’s Wall with Environmental Suits
+11729,1,Dem. Assemblyman Pushes Bill to Guarantee Teachers Cannot Shoot Back if Attackers Strike - Breitbart
+11732,1,Politico Magazine: Despite Political Success, NRA Struggles to Attract Black Gun Owners - Breitbart
+11747,1,McAuliffe on Hillary: ’We Have Just Got to Move On’ - Breitbart
+11775,1,Suspect Dressed in Black Allegedly Kicks in Marine Veteran’s Door, Does Not Live to Tell
+11845,1,GOP Rep. Babin: Concealed Carry for Me but Not for Thee - Breitbart
+11849,1,Scott Uehlinger: Susan Rice Unmasking ‘Abuse of Power’ Violates ‘Spirit of the Law,’ Should Be ‘Further Investigated’
+11857,1,Lena Dunham Apologizes (Makes Excuses) for Her Racism - Breitbart
+11880,1,Study: Two Percent of U.S. Counties Have Fifty-One Percent U.S. Murders - Breitbart
+11918,1,Thomas Jefferson: Government’s Role is Defense of God-Given Rights - Breitbart
+11946,2,DELINGPOLE: Talking the Trump Revolution with Ted Malloch
+12028,1,Breitbart News Daily: Comey’s Revenge - Breitbart
+12071,1,Chickens Come Home to Roost: Massive Layoffs Predicted for ESPN Broadcasters - Breitbart
+12124,1,With Gorsuch on SCOTUS, NRA Launching ’Series’ of Lawsuits Against CA Gun Control - Breitbart
+12151,1,Oregon Counties Declare Sanctuary Status Against Gun Control
+12185,1,Shannon Watts: ’Gun Lobby’ Uses Word ’Suppressor’ to Confuse Us
+12210,1,Site of Ft. Lauderdale Airport Shooting a Gun-Free Zone - Breitbart
+12229,1,Justin Moore: Impossible to ’Rationalize’ with Gun Control Crowd
+12245,1,Silicon Valley’s Ro Khanna: I Will Go to Jail to Resist Trump
+12325,1,Gun Violence Researchers Fear Trump Will Erase Their Data - Breitbart
+12424,1,NRA to Campaign Against Red State Democrats who Oppose Gorsuch - Breitbart
+12476,1,Obama Drinks from Orange Cup to Support Gun Control Campaign - Breitbart
+12479,1,Chicago Police Board Chair: Windy City Needs Federal Help to Turn Tide on Crime - Breitbart
+12481,1,Fabio’s Advice to Americans: ’Don’t Ever Give up Your Guns’
+12622,1,Kathryn Steinle’s Family Gets Go-Ahead to Sue Federal Government - Breitbart
+12623,1,Stephen Miller: Trump Has ’Better Sense of the Pulse of the People’ Than Any President Since Andrew Jackson
+12745,1,FBI: 27.5 Million Gun Background Checks in 2016 New Record
+12764,1,Feminist Alice Walker: Muslim Scholars Have ‘Ignored the Problem of Female Genital Mutilation’ - Breitbart
+12769,1,The Advocate Calls for More Gun Control: Legal Guns No Different Than Illegal Guns
+12770,1,Fresno State Cancels Lecturer’s Classes After Breitbart News Report on ’Trump Must Hang’ Tweet - Breitbart
+12772,1,Armed Citizen Who Threw Wallet to Distracted Suspect: ’That’s When I Lit Him Up’ - Breitbart
+12786,1,Police: Concealed Carry Permit Holder Shoots, Kills ’Active Shooter’ - Breitbart
+12830,1,Gun-Controlled Chicago: Over 400 Shot Year-to-Date
+12877,2,SHOT Show-Karl Malone: Show Some Respect, Call Him President Trump - Breitbart
+12879,1,NYT: Trump ’Helping Terrorists’ by Refusing to Talk Gun Control after London Knife Attacks
+12913,1,ATF Associate Deputy Director: ’Assault Weapons’ Import Ban Nonsensical
+13057,1,Sasse: I Have ’Lots of Anxiety’ About Trump’s Reality TV World’s Effect on Our Kids - Breitbart
+13097,1,Fake News: NBC Claims Trump Revokes Gun Background Checks for Mentally Ill
+13196,1,Former NBA Star Kareem Abdul-Jabbar Hints That He Thinks Donald Trump Would Have Approved of Slavery
+13201,1,Police: Suspect Shoots Victim Using Shotgun Shell Packed with Rice Krispies
+13212,1,Officer Dead, Schools on Lockdown as Orlando Police Hunt Cop Killer
+13238,1,Prior to Attack: Pro-ISIS Channel Urged Islamists to Use Trucks to ’Kill the Civilians of the Crusaders’ - Breitbart
+13296,1,Podesta: Comey Helped Swing the Election, He ’Was a Significant Factor’ - Breitbart
+13310,1,NYDN: Ft. Lauderdale Gun-Free Zone Attack No Justification for Arming Citizens to Shoot Back
+13344,1,Ambushed Pizza Delivery Man Pulls Own Gun on Attackers - Breitbart
+13372,1,Border Patrol Chief Meets with Laredo Sector Agents
+13376,1,Sheriff: Fleeing Burglar Shoots Back Into Home, Kills Accomplice Running Behind Him - Breitbart
+13398,1,Report: Alexandria Attacker Carried List of Republicans Marked for ’Assassination’ - Breitbart
+13488,1,Armed Citizen Intervenes, Kills Suspect Beating AZ State Trooper on Roadside
+13543,1,Deceased Oklahoma Robbery Suspect’s Grandfather Says ’Unfair’ to Shoot Grandson with AR-15 - Breitbart
+13576,1,VIDEO: Homeowner with Shotgun Lies in Wait for Intruders - Breitbart
+13618,1,Gun Owners of America: Paul Ryan’s Obamacare 2.0 Still Contains Gun Control
+13627,1,Gun Control Groups Take Aim at ’Legally Obtained’ Weapons - Breitbart
+13668,1,Richard Simmons Sues National Enquirer Over ’Sex Change’ Story
+13673,1,100 Earthquakes Hit Near California-Mexico Border on New Year’s Eve - Breitbart
+13733,1,USA Today: NCAA Teams ’Should Boycott’ Arkansas Over Campus Carry
+13783,1,NBC’s Andrea Mitchell: Trump Administration Misleads, Obfuscates - ’People Just Flat Out Lie’ - Breitbart
+13789,1,Hollywood Reacts to Scalise Shooting: Maybe Congress Will Support Gun Control Now - Breitbart
+13800,1,Interior Sec. Zinke Repeals Obama-Era Lead Ammunition Ban
+13849,1,Gun-Controlled Chicago: Over 1,000 Shooting Victims This Year
+13864,1,Terry McAuliffe: ’We Lose 93 Million Americans a Day to Gun Violence’ - Breitbart
+13890,1,VIDEO: Muslim Man Charged After Brandishing Guns Outside Christian Conference, Warning People to ’Be Scared’ - Breitbart
+13891,1,Brady Campaign to Donald Trump: We Don’t Need Your Prayers, We Need Gun Control - Breitbart
+13915,1,California Governor Jerry Brown Asks President Trump for Help
+13988,1,In Search of a Star: Desperate Democrats Turn to Losing Candidate Under Age 40 - Breitbart
+14013,1,NYT: Allowing Guns for Self-Defense in Unsecured Airport Areas Is ’Delusional
+14023,1,Armed Grandma Shoots, Chases Intruder from Home
+14042,1,Breitbart News Daily: Sessions in Spotlight - Breitbart
+14050,1,Gun Controllers Advertise ’Bulletproof Hoodies’ for Students on Campus Carry Campuses
+14074,1,Armed Citizen Who Captured Georgia Cop Killers: ’I Loaded Every Weapon I Could’
+14084,1,Jason Whitlock: ESPN ’Lost the Culture War’ to Left-Wing Deadspin
+14150,1,MO School of Journalism Prof: NRA More Dangerous Than Islamic State
+14258,1,Bloomberg Gun Control Group Pledges $25 Million Against National Reciprocity
+14274,1,Gun Ownership, Shooting Classes Surge Among Black Women
+14307,1,Sports Journalist Bill Simmons Takes Another Left Turn by Joining Vox
+14316,1,Hackers May Have Obtained Names of over 16,000 Florida Concealed Permit Holders
+14323,1,Cedarville University Embraces Ohio’s Campus Carry Law, Arms Faculty
+14346,1,Gun-Controlled Chicago: Concealed Permit Holder Shoots Would-Be Carjacker
+14384,1,NRA Eyeing 30 Years of Pro-Gun SCOTUS - Breitbart
+14396,2,Exclusive - Adam Carolla and Dennis Prager Talk Smashing the Left’s ’Safe Spaces’
+14398,1,FBI: Suspect Flew to Gun-Free Ft. Lauderdale Airport ’Specifically’ for Attack - Breitbart
+14414,1,California DOJ Working on 60 Pages of ’Assault Weapon’ Regulatory Changes Behind Closed Doors
+14474,1,Katie Couric Beats Defamation Lawsuit over ’Edited’ Gun Control Documentary
+14495,1,May 2017 Shatters Background Check Records Set Under Obama - Breitbart
+14506,1,Woman Allegedly Assaulted at Gunpoint Retrieves Own Gun, Kills Suspect - Breitbart
+14537,1,Animal Rights Activists Outraged as Micheal Bloomberg’s Daughter Dates Trophy Hunter - Breitbart
+14540,1,New Mexico Democrats Undertake Last Ditch Effort to Ban Private Gun Sales - Breitbart
+14569,1,Chuck Todd: Media ‘Underplayed’ How ‘Hated’ Hillary Was in Heartland - Breitbart
+14579,1,President Trump Removes Obama’s Pro-Gun Control Surgeon General - Breitbart
+14599,1,Gun Control Fail: Baltimore Mayor Asks FBI to Stem Rising Murder Rate - Breitbart
+14869,1,Concealed Carry Instructor Has Firearm Classes for Church Members, Incorporates Scripture - Breitbart
+14876,1,Eight Wounded, Two Guns Recovered at MLK Rally in Miami - Breitbart
+15042,1,New York Times Columnist: Forget Immigration Bans Gun Control Would Make Us Safer
+15063,1,Man Gets Free After Being Tied Up, Shoots and Kills Home Invasion Suspect
+15082,1,Rotary International Bans Club Firearm Raffles, Firearm Maker Sponsorships - Breitbart
+15100,1,DELINGPOLE: How Twitter SJWs Turned Me Into a Fake News Hate Meme - Breitbart
+15110,1,EXCLUSIVE - NSA Whistleblower: Agency ’Absolutely’ Tapping Trump’s Calls
+15143,1,Rebel San Francisco P.D. Cuts Ties with FBI on Counterterrorism
+15166,1,GOP Rep Pushes Repeal of Gun-Free School Zones Act Under Trump - Breitbart
+15203,1,Another California School District Arms Teachers
+15240,1,Obama’s DOJ: Chicago Police Use Unconstitutional, ’Excessive’ Force - Breitbart
+15255,1,Joe Manchin: Trump Has the ’Fortitude’ to Make Senate Pass Gun Control - Breitbart
+15256,1,Alabama House Passes Bill Extending ’Stand-Your-Ground’ to Armed Church-Goers - Breitbart
+15320,1,Judge Tells Defendant: ’I Would Have Shot You’ Dead if You Broke into My House - Breitbart
+15327,1,Two More GOP Representatives Step Up, Remove Democrats’ Anti-Cop Painting from Wall - Breitbart
+15396,1,Trump Calls On NRA’s LaPierre to Help Secure Gorsuch Confirmation
+15407,1,GOP Representatives Introduce Bill Eliminating Paper Trail, Federal Tax on Firearm Suppressors
+15448,1,Arkansas House: State Universities, Colleges Must Allow Campus Carry for Self-Defense - Breitbart
+15618,1,National Border Patrol Council Endorses Trump for President
+15841,1,Milo Tears Into Hillary-Supporting Podcast Host in Epic Free Speech Rant - Breitbart
+15925,1,Kim Kardashian Urges Siblings to Support Gun Control Campaign - Breitbart
+15940,1,Kellyanne Conway: Bill Clinton’s Rape Accusers Altered Hillary Clinton Debate - Breitbart
+16284,1,WH Chief of Staff McDonough: Obama ’Our Most Catholic of Presidents’ - Breitbart
+16354,1,Border Patrol Agents: Colorado Voters Disenfranchised
+16470,1,Six Great AR-15 Rifles for Your Christmas Wish List - Breitbart
+16477,1,Shooting Victim Went Door-to-Door for Neighborhood Watch Group
+16549,1,The Moment ’Team Jeb’ Realized Donald Trump Was a Political ’Monster’ - Breitbart
+16573,1,UC Student Body President Opposes Campus Carry Because of ’Stabbings’
+16610,1,Jon Huntsman: I Could Support Donald Trump if He’s Nominated - Breitbart
+16613,1,Hillary Clinton: Donald Trump a ’Gun Lobby’ Sellout
+16720,1,ABC News: ’Clinton Cash’ Contains ’Very Serious Journalism’
+16786,1,Gun Owners of America: Top 10 Pro-Gun Successes of 2016 - Breitbart
+16985,1,Florida Parents to Carry Guns amid ’Creepy’ Clown Problem
+17135,1,White House: Obama Does Not Agree With Eric Holder On Edward Snowden - Breitbart
+17156,1,Donald Trump’s Eight Best Pro-Gun Moments on Campaign Trail
+17268,1,Guns N’ Roses’ Duff McKagan Pushes Gun Control in Vice Column
+17369,1,Poll: Support for Handgun Ban Down 13 Percent Since 2004 - Breitbart
+17489,1,Five Great Home Defense Shotguns for Your Christmas Wish List - Breitbart
+17514,2,Donald Trump Responds to President Obama’s ’Many Inflammatory’ Statements - Breitbart
+17575,1,Americans Bought ’17,850 Tons’ of Imported Ammo in Last 12 Months - Breitbart
+17703,1,Record: Ohio Issues Nearly 26,000 Concealed Permits in 3rd Quarter - Breitbart
+17738,8,Breitbart News Launches Two New Podcasts with AWR Hawkins and James Delingpole
+17772,1,Six Great Pocket Guns for Your Christmas Wish List - Breitbart
+17906,1,Glenn Beck: ’Donald Trump Is Going to Be the Next President’ - Breitbart
+17916,1,Here We Go Again: Obama Sends Arms Trade Treaty to Senate for Ratification - Breitbart
+17917,4,Lena Dunham Apologizes for ’Distasteful’ Abortion Comment
+17919,1,Report: Democrats Lost More than 1,000 Seats Under Obama - Breitbart
+18060,1,Spielberg Blasts #OscarsSoWhite: ’No Inherent or Dormant Racism’ in the Academy - Breitbart
+18195,1,Pentagon to End Gun-Free Zones on Military Bases - Breitbart
+18245,1,Clinton Campaign Manager: Hillary Will Earn Trust After She’s Elected President - Breitbart
+18324,2,‘American Psycho’ Author Bret Easton Ellis: ’A Backlash Is Beginning Against PC Victim Culture’ - Breitbart
+18325,1,Bowe Bergdahl Diagnosed with Personality Disorder - Breitbart
+18339,1,Washington Post: Dog Halloween Costumes ’Sexist’ for Perpetuating Gender Norms - Breitbart
+18408,1,***Horse Race LiveWire*** Erick Erickson: ’Trump Voters Have Failed at Life’ - Breitbart
+18574,1,Sonnie Johnson: Many Saying ’Black Lives Matter’ Are Genuine and Need a Reason to Hope - Breitbart
+18584,1,20 Times Bad Guys Were Stopped by Armed Citizens in 2016 - Breitbart
+18701,1,Obama Administration Finalizes Social Security Gun Ban - Breitbart
+18735,1,Trump to Work ’Closely, Directly’ with National Border Patrol Council on U.S. Border Policy
+18770,1,Two Killed, Four Wounded at Thanksgiving Football Game Shooting
+18898,1,Gavin Newsom: Trump’s Election a ’Leap Backward’ for States with Stringent Gun Control - Breitbart
+18940,1,Larry Wilmore: Bill Clinton’s Affair with Monica Lewinsky ’Was Predatory Behavior’ - Breitbart
+19039,1,Maine Voters Score ’Stunning Victory’ for Gun Rights
+19118,3,’American Psycho’ Author Bret Easton Ellis Reads Monologue Blasting SJWs, BLM Pandering, Political Correctness - Breitbart
+19208,1,Fact-Check: No, 33,000 Not Killed with Guns Each Year - Breitbart
+19481,2,Breitbart News Hits Record 240+ Million Pageviews, 37 Million Uniques in October
+20090,1,Steve Kerr Wants Gun Control Father Killed by Islamists
+20207,1,One Shot, Injured at Anti-Trump Protest in Portland - Breitbart
+20322,1,Five Actions President Trump Can Take to Save 2nd Amendment - Breitbart
+20536,1,Bryan Cranston Vows to Leave Country If Trump Wins
+20580,2,Milo &amp Ann: Hillary Will Only Worsen Race Relations - Breitbart
+20581,1,Reporter: Not Safe to Trust Second Amendment to Hillary Clinton
+20614,1,Where is Hillary? Presidential Nominee Still Silent After Second Night of Charlotte Riots - Breitbart
+20808,1,Leftists Organize to Silence Border Patrol Agents Over Trump Endorsement - Breitbart
+20845,2,Richard Branson Vs The Anti-Free-Speech Eco Loons - Breitbart
+20875,1,EXCLUSIVE–Clinton Rape Accuser Juanita Broaddrick: NY Times Should Interview Bill’s Alleged Female Victims - Breitbart
+20910,1,BBC: Why Do so Many People Dislike Hillary Clinton? - Breitbart
+20913,1,Levi Strauss: Do Not Bring Your Legal, Concealed Carry Firearms Into Our Stores - Breitbart
+21018,1,Politico: ’Obama Bros’ Learn to Love Hillary
+21085,2,Mike Huckabee: Ted Cruz’s Tactics ‘Cheap’ ‘Low Life, Sleazy Politics’ - Breitbart
+21294,1,GOP Rep: Paul Ryan ‘Does Not Have My Vote’ Trump Gave Congress a Mandate, Ryan Gave a ‘Constitutional Crisis’ - Breitbart
+21312,1,***Horse Race LiveWire*** Clinton-Sanders Feud Escalates Trump Goes All-In for NY Sweep - Breitbart
+21384,1,Breitbart News Sunday: Milo in Da House - Breitbart
+21508,1,NYT: ’Public Safety’ At Risk if Donald Trump Signs National Reciprocity - Breitbart
+21550,1,At Least One Wounded in Shooting at Will Rogers Airport - Breitbart
+21706,2,Adam Carolla Rips HuffPo’s Michelle Fields for Playing a Victim - ‘Crazy Bitch’ - Breitbart
+21803,1,CDC: Heroin Deaths Surpassed Firearm-Related Homicides in 2015 - Breitbart
+21944,1,#FabulousWall Contest: The Winners - Breitbart
+21951,1,FAIL: Slate ’Reporting’ Confuses Border Patrol Agents with Customs Officers
+22027,1,NYT: Europe More Courageous than US When It Comes to Gun Control - Breitbart
+22146,1,BBC: Even Liberals Are Buying Guns Under Trump
+22203,1,More Breitbart.com Site Records Fall: 200,000,000 Pageviews in Month 11.5M in Single Day - Breitbart
+22231,3,Huma Abedin: ‘It Does Take a Village to Support Hillary Clinton’ - Breitbart
+22239,1,Hillary Couldn’t Even ’Get Up’ After Exhausting Convention
+22463,1,Ben Carson: Barack Obama ’Raised White’ and ’Didn’t Grow Up Like I Grew Up’ - Breitbart
+22471,1,Hollywood, Gun Control Groups Pushing Gun Laws via TV, Movies
+22493,1,Massive Migrant Camp Set Up Near George Clooney’s Italian Mansion - Breitbart
+22510,1,WikiLeaks Emails: DNC Had Off-Record Meeting With Wall Street Journal, Leaked Doc from Sanders Campaign - Breitbart
+22557,1,Source: All-Out Ban on Semi-Automatic Long Guns Coming to CA Legislature - Breitbart
+22609,1,Moms Demand Founder: We’re Not Anti-Gun But We Oppose Law-abiding Citizens Carrying Nationally - Breitbart
+22827,1,Glenn Greenwald: Breitbart News Has ’Editorial Independence’ That ’Left and Establishment Right Utterly Lack’ - Breitbart
+22928,1,Arrest Made in Burning of Black Mississippi Church: Black Suspect Arrested - Breitbart
+22951,1,WSJ: No Hillary, The Heller Decision Does Not Endanger Toddlers - Breitbart
+23083,1,The Guardian: Trump Victory Provides NRA Historic ’Moment to Go on Offense’
+23229,1,The Milo Yiannopoulos Show: To Be Subversive These Days, You Have to Be a Conservative - Breitbart
+23485,1,Chicago Gun Deaths on Obama’s Watch Nearly Overtake Iraq War Deaths Under Bush - Breitbart
+23514,1,Dana Perino, Chris Stirewalt to Host Politics Show on Fox News
+23524,1,Obama: I Could Have Won if I Had Run for President Again - Breitbart
+23629,1,Whatever It Takes-Milo Yiannopoulos Joins Curt Schilling: ’Welcome to the Family’ - Breitbart
+23713,1,No Charges Against Man Who Shot, Killed Former NFL Player Joe McKnight - Breitbart
+23725,1,Wikileaks: Hillary Clinton Had Gun Control Supporters Planted In Town Hall Audience - Breitbart
+23726,7,BREITBART NEWS TO LAUNCH WEEKLY PODCASTS IN ASSOCIATION WITH PODCAST ONE - Breitbart
+23880,1,WikiLeaks: Obama Rejected Hillary Clinton’s Executive Gun Control Plan
+23921,1,Roger Stone: Kasich, Rubio ’Perfectly Serviceable’ as Trump Running Mates - Breitbart
+24058,1,Chuck Todd: Trump Is a ’Salesman’ Whose Ultimate Goal is ’Popularity’ - Breitbart
+24451,1,Gun-Controlled Chicago Approaches 4,000 Shooting Victims for 2016
+24462,1,Lisa De Pasquale: ‘Clinton Cash’ Graphic Novel a Perfect Mix of Culture, Entertainment and Politics - Breitbart
+24475,1,Milo Fires Up Trump Supporters in Cleveland: Donald Trump Will End Cancer Of Political Correctness - Breitbart
+24592,1,Begala: We Are Building a Trump ’Ceiling’ With Battleground Advertising - Breitbart
+24706,1,Skip Bayless ‘Dumbfounded’ Troy Aikman Upset With Being Called Gay in His Book - Breitbart
+24743,1,NSA Listens to In-Flight Mobile Calls Placed ’Above 10,000 Feet’
+24985,1,GOP Assemblyman: Make Attacks on Police as ’Hate Crimes’
+25157,1,Robert Gibbs: It Wasn’t Racism, Hillary Lost Because She Had No Economic Message - Breitbart
+25200,1,Trump: ’I Will Never Back Down from Supporting and Fighting’ for Border Patrol Agents - Breitbart
+25222,1,Police: Suspect Dead After Targeting Armed Gun Store Owner
+25240,6,Milo Yiannopoulos Show A Smash Hit On Opening Weekend - Breitbart
+25288,1,Lawyers Donate Millions in Pro-Bono Work to Help Gun Controllers Fight Trump’s Pro-Gun Push - Breitbart
+25491,1,Axelrod: Hillary Handled Email Scandal Badly - Numbers Took a Dive After Multiple Excuses - Breitbart
+25493,1,Reince Priebus Trusts Trump, Possibility of White Knight Candidate ’Highly, Highly Unlikely’ - Breitbart
+25713,1,NRA Photo Shows Election Day with Wrong Date for Gun Control Suppporters - Breitbart
+25837,2,Mark Cuban ’Wide Open’ to Being VP for Trump, Clinton - Breitbart
+25899,1,Entire Police Force Walks Off Job in Protest
+25900,1,LA County Considers $1 Million in Taxpayer Funds to Help Illegals Fight Deportation - Breitbart
+25926,1,Open Carry Group Guards Vandalized GOP Office in North Carolina
+25972,1,In The Grip Of A Left-Wing Foundation, Twitter Is Prioritising Politics Over Profit - Breitbart
+26144,1,Generation Me: Paul Ryan Tells America 10 Neat Things About Himself to Celebrate the Fourth
+26257,1,NYT: Trump Actually Supports ’Arming People to Defend Themselves in Gunfights’
+26372,1,Sonnie Johnson on Blacks for Donald Trump: ‘We Want Greatness We Do Not Want Free Sh*t’ - Breitbart
+26431,1,Governor Abbott: Arms Trade Treaty Could Allow UN to Regulate Guns in U.S.
+26584,1,Anti-Second Amendment Grinches Hold Christmas ’Toy Gun Turn-In’
+26594,1,ABC News: Obama Big Talk, ’Little’ Action on Guns Since Sandy Hook
+26721,1,Black Friday 2016 Breaks Background Check Record for Gun Purchases - Breitbart
+26880,1,Phil Robertson on the Milo Yiannopoulos Show: Sanders’ Socialist Totalitarianism Never Works Out Well - Breitbart
+26902,1,David Brock: Democrats ’in a Bad Situation,’ Hillary Loss ’Exposed the Lack of Democratic Power’ - Breitbart
+26946,1,James Hetfield Left San Francisco to Escape ’Elitist Attitudes’
+27014,1,Fail: Gun-Controlled Australia Admits Criminals Still Armed, Launches New Amnesty - Breitbart
+27087,4,Huma on Meeting Hillary: ‘Our Eyes Connected and I Thought, Wow’ - Breitbart
+27279,1,Baltimore Kids Get ’Prizes’ in Exchange for Surrendering Toy Guns - Breitbart
+27339,1,CeaseFirePA: Eagles Players Who Received Firearms for Christmas Should Join Gun Control Movement - Breitbart
+27413,1,Farage: Clinton Has ’Lost The Plot’ By Claiming UKIP Funded By Russia
+27463,1,More Than 40 Shot, 11 Killed Over Christmas Weekend in Gun-Controlled Chicago - Breitbart
+27713,1,CNN Commentator Angela Rye Slimes Sheriff David Clarke as ’Like a Terrorist’ - Breitbart
+27742,1,Breitbart News Sunday: Sarah Palin, Dakota Meyer, Milo - Breitbart
+27799,1,Wyoming Gaining the Millions of Dollars Colorado Traded for Gun Control
+27819,1,NFL Urges Players Not to Own Guns But Eagles Receiver Josh Huff Carries Anyway - Breitbart
+27957,1,Hunting, Fishing Recognized as Constitutional Rights in Kansas, Indiana - Breitbart
+27997,1,Politico’s Army of Democrats Driving Anti-Trump Narrative
+28023,1,Gun-Controlled Chicago Fast-Approaching 800 Homicides for 2016 - Breitbart
+28147,3,I Just Launched The Best Podcast Ever, You Guys - Breitbart
+28185,1,Schumer: Trump’s Trillion-Dollar Infrastructure Plan ’Sounded Good to Me’ - Breitbart
+28255,1,Brady Campaign Fights to Keep College Students Defenseless Day After Ohio State Attack - Breitbart
+28308,1,Steve Wynn: NV Ballot Initiative Criminalizes Soldiers Who Leave Gun Behind with Fiancée - Breitbart
+28400,1,Bob Dole Endorses Rubio: ‘He Wants to Grow the Party,’ Unlike Cruz - Breitbart
+28476,1,Gun Store Lines Stretched Around Corner on Black Friday
+28528,1,The Milo Yiannopoulos Show: How the Democratic Party Uses Identity Politics to Divide Americans - Breitbart
+28638,1,Mitt Romney: If President, Trump Will ’Have to Deal with Things Far More Complicated than Republican Delegate Rules’ - Breitbart
+28803,1,Firearms Training Is the New ’Therapy Session’ for Female Crime Victims
+28850,1,Trump Versus The Green Blob: The Biggest Science Scam In History - Breitbart
+28962,1,Suspects Open Fire on Home Full of Children, Killing Two
+28997,1,Politico Scoop: Eric Trump Killed Two Deer - Breitbart
+29032,1,Report: Ohio State Attacker a Somali Refugee Named Abdul Artan - Breitbart
+29079,1,Smith and Wesson Stock Falls as Trump’s Victory Signals Defeat of Gun Control - Breitbart
+29123,1,Ohio State President: Attack Was a Car, Knife Attack - Breitbart
+29124,1,Austrian Gun Sales Quadruple as Migrant Crime Rises - Breitbart
+29257,1,Valerie Jarrett: My Grandfather May Not Have Died If He Didn’t Have a Gun for Self-Defense
+29382,1,Obama: Establishment Media Were Shattered in 2016 Election - Breitbart
+29433,2,Eric Holder: Snowden Performed a ‘Public Service’
+29475,1,EXCLUSIVE: Border Patrol Agents Rebuke Ted Cruz Over ’Political Stunt’ on Border
+29618,3,LISTEN: Bret Easton Ellis Unloads on Snowflake Social Justice Warriors - Breitbart
+29639,1,Women Driving Gun Sales to New Highs
+29707,1,Dr. Drew Still ’Worried’ About Hillary’s Health Treatment - Breitbart
+29834,4,Twitter Doubles Down: Milo’s Podcast Account Banned - Breitbart
+30070,1,Ohio State: 7 Shot, Students Urged to ’Run Hide Fight’
+30086,1,Plouffe: Trump Is ’Lazy’ - Breitbart
+30211,1,Poll: Floridians Want Armed Teachers
+30604,1,Brexit: Shakespeare Was Dead Right About Lawyers...
+30671,1,Pastor: Nothing Wrong with Carrying Guns ’on This Side of Heaven’
+30684,1,Milo &amp Ann: If Trump Loses It Could Mean The End Of The GOP - Breitbart
+30784,1,Three Officers Wounded, One Dead in Four Attacks on Sunday
+30958,1,Poll: Support for ’Assault Weapons’ Ban at 20-Year Low
+31041,1,Twitter Suspends Women’s Rights Group After Criticizing Saudi Arabia - Breitbart
+31087,1,Obama Tells CNN His Greatest Regret Was Failure to Secure More Gun Control - Breitbart
+31112,1,Gov. Christie Signs Bill to Put Armed, Retired Cops in Schools
+31385,1,Lena Dunham Poses as Topless Mermaid for Christmas
+31421,1,Police: Woman in Porsche Shoots Would-Be Carjacker - Breitbart
+31615,2,Mark Shriver to Trump: Don’t forget about children, the poor
+31813,1,Obama’s final report card: Did he live up to his promise?
+31975,1,How white nationalists are losing faith in Trump
+32039,1,Washington prepares for Donald Trump’s big moment
+32061,1,Trump’s inauguration: How’d he do?
+32356,1,Democrats face their powerlessness
+32452,2,Matt Bai: Distrust of the media allows Trump to flourish
+32661,2,Katherine Jackson’s nephew responds to abuse claims
+32811,3,Lewandowski: Trump’s staff is letting him down
+32812,1,Lewandowski: If Manafort was contacting Russians, Trump didn’t know
+33670,2,McCain: No comparison between Trump and Reagan
+33866,2,3 ways WWI still shapes America
+33886,1,How to talk to kids about tragic events
+34018,1,Prince Harry sought counseling to cope with Diana’s death
+34377,1,19 things Ivanka Trump wants you to know, per her new book
+34457,2,Is Colbert’s Tump joke a firing offense?
+34809,1,Kamau Bell: What I learned from Muslims in small-town America
+35317,1,Sanders allies emboldened by Labour’s gains
+35404,1,Katy Perry and the gospel of ’Witness’
+35558,1,12-year-old girl comes out to her Mormon congregation
+35951,2,Judge grants new trial for ’Serial’ podcast subject
+35975,2,Why Adnan Syed case will give prisoners hope
+36136,1,NRA will comment on Philando Castile’s death following investigation
+36331,1,The lonely struggle of a gay Mormon
+36341,1,3 officers killed 3 injured in Baton Rouge
+36719,1,’The Hills’ 10th anniversary: They’re all grown up
+37143,1,Irish women live-tweet abortion journey
+37185,1,Huma Abedin takes another reluctant turn in the spotlight
+37586,1,On Russian TV, Trump says it’s ’unlikely’ Putin trying to sway election
+37852,1,Trump campaign defends son’s Skittles tweet
+37862,1,The GOP’s next civil war is brewing
+37906,2,Monday Debate: What celebrities want to ask Clinton and Trump
+37986,2,Barney Frank: Tea party outmaneuvered Dems
+37988,1,Hillary Clinton prepares for unpredictable Trump at debate
+38078,1,China banned from buying donkeys
+38302,3,Johnson: I’d be a continuation of Obama on ISIS
+38327,3,Norquist: Trump still hasn’t signed tax pledge
+38328,3,Norquist: Let governors moderate primary debates
+38589,1,Larry King Fast Facts
+38602,1,Tear up the Democratic Party
+38620,1,How do you talk to your kids about the election?
+39410,1,China installs weapons on contested South China Sea islands, report says
+39413,2,McDonough: It won’t be easy for Trump to dismantle Obama’s legacy
+39567,2,Lena Dunham’s an easy target but not the problem
+39624,2,’Howard Stern Show’ personality Joey Boots dies at 49
+39685,3,Axelrod: Obama looking to Bushes as a post-presidential model
+39710,3,Obama’s exit interview: I could’ve won again
+39727,1,Trump: ’NOT’ a smooth transition after Obama ’roadblocks’
+39756,2,Obama: My friends never call me Mr. President
+40427,3,’Parks and Recreation’ producer Harris Wittels dies
+40585,1,Sam Simon, ’Simpsons’ producer and philanthropist, dies
+40768,1,Study: Breastfed babies have a higher IQ
+40883,1,Why the n-word doesn’t go away
+41155,1,’Arrested Development’ gets new season, says producer
+41469,1,Hand-painted masterpieces smaller than a thumbnail
+41802,1,Anne Meara: Way more than Ben Stiller’s mom
+42528,1,Obama’s ’N’ word sparks debate
+42590,1,Best week in Washington: Barack Obama’s legacy
+42597,1,Understanding Obama in the fourth quarter
+42610,1,Gay rights, Obamacare and a week that changed the nation
+42620,1,Liberals win big
+43094,1,Forget a New Year’s resolution — ’The 4-Hour Workweek’ author Tim Ferriss explains the right way to set goals
+43120,1,Migrants document their trek to safety by taking selfies along the way
+43173,1,Cuba’s opening to the world has a problem much closer to home than Donald Trump
+43231,1,REPORT: Anthony Scaramucci is headed to the White House as an assistant to Trump
+43317,1,’The 4-Hour Workweek’ author says a 3-step process he learned from Tony Robbins drastically improved his life
+43394,1,Pro-Trump Twitter extraordinaire Bill Mitchell explains his political views: ’I’m a resultist’
+43401,1,It’s already fairly obvious where Trump’s infrastructure push will turn into a dog fight
+43475,1,The clearest articulation of what Trump wants to do to America’s economy comes from one person
+43500,1,A 30-something real estate investor with 13 years of experience shares his 3-word strategy for achieving financial independence
+43664,3,Anthony Bourdain says he lives and works according to ’The No A--hole Rule’
+43717,1,The top 12 rumors we’re hearing about Apple’s next iPhone
+43752,1,Milo Yiannopoulos resigns from Breitbart after appearing to condone sex between ’younger boys and older men’
+43808,2,A forgotten war technology could safely power Earth for millions of years. Here’s why we aren’t using it
+43810,3,A founder who sold his startup for $200 million paid for all 160 employees to party with him in Vegas  — ’On a scale of 1 to OMFG, it was probably a 10’
+43910,1,There’s a new ’most dangerous’ man in global economics
+43941,1,A computer engineer who retired at 31 with $1 million saved explains how her career changed her perspective on money
+44060,2,The ’messy’ way a former Goldman Sachs employee grew a $150 million startup, then turned half his employees into millionaires
+44714,1,’How are you?’ can actually be an insensitive question — here’s what you should say instead
+44942,1,How Tim Armstrong, a hotshot Boston sales guy, wowed Google’s founders, built its multi-billion-dollar ad business from scratch, then became AOL’s CEO
+45017,1,$2 billion meal-delivery service Blue Apron just filed to go public
+45030,1,BuzzFeed CEO Jonah Peretti explains the story behind his explosive tweet that claimed Ivanka Trump used lewd language
+45175,1,Dropbox founder explains how his $10 billion startup was created on a Chinatown bus
+45188,1,A top Apple executive is denying an unflattering story from an upcoming book
+45616,1,A documentary about O.J. Simpson is being called the greatest thing ESPN has ever done
+45859,1,An incredible 45 day storm turned California into a 300-mile-long sea — and it could happen again
+46150,5,Bill Simmons declares war on ESPN after it blocked employees from his podcast
+46623,1,MITT ROMNEY: Trump will win the nomination if Cruz and Kasich stay in the race
+46749,1,Influential Twitter investor Chris Sacca explains why Mark Cuban will be elected president of the US
+46753,1,An HGTV star who’s invested in over 100 properties says you should do one thing before buying any property
+46879,1,Jon Stewart breaks silence with rant on ’man-baby’ Donald Trump
+47677,7,A recent Goldman Sachs junior banker explains everything you need to know about Wall Street
+47851,5,Malcolm Gladwell tells us about his beef with billionaires, police violence, and how his new hit podcast lets him explores issues in ways his books can’t
+48082,1,After a year of isolation, ’the most miserable country in the world’ is ’interested in a new beginning’
+48193,1,I’ve used a meditation app loved by Wall Streeters and Olympic athletes daily for the past 8 months, and now I can’t imagine my life without it
+48287,1,Why Hillary Clinton won’t do a press conference
+48353,1,Hillary Clinton is facing mounting pressure to hold a press conference
+48401,1,I tried working out at the swankiest gym chain to see if it’s worth the money
+48436,1,Trump campaign says it had ’nothing to do with’ him appearing on Kremlin-backed Russian news outlet
+48592,1,Elizabeth Warren had one question for the maker of EpiPen, and the CEO couldn’t answer it at all
+48916,1,2 simple things you should be doing if you feel as though you won’t have enough money to retire
+49038,1,Tim Kaine says Hillary Clinton will be his first female boss
+49057,1,What psychology actually says about the tragically social-media obsessed society in ’Black Mirror’
+49298,1,All you have to do to understand Trump’s embattled chief adviser is read his own words
+49366,1,Trump wants to hand corporate America a sweet tax deal — but it doesn’t look like CEOs will share the wealth
+49375,1,Speculation is mounting that Jony Ive has checked out at Apple
+49382,1,A bizarre law could allow North Carolina lawmakers to flip the outcome of its governor election
+49417,1,Mall of America took a strong stand against the war on Thanksgiving — and it’s paying off
+49420,1,Black Friday online sales are about to hit an all-time high — here are the top-selling items
+49472,1,Top Trump Cabinet candidate claimed trans individuals ’suffer from mental disorders,’ live a ’freakish lifestyle’
+49522,3,A 26-year old Bitcoin entrepreneur was handed prison time, and the experience only confirmed his belief in the cryptocurrency
+49550,1,NY TIMES PUBLIC EDITOR: Some tweets from our politics reporters ’outrageous’ and there ’ought to be some kind of consequence’
+49641,2,This small Pennsylvania city packed with hundreds of cameras is like a mini-surveillance state
+49757,2,A Cold War technology designed to make jets fly for days might solve Earth’s looming energy crisis
+49763,1,The untold story of Trump son-in-law Jared Kushner’s quest to become a media mogul
+49813,1,’NO WAY!’: Trump fires back after Obama says he would’ve won if he ran

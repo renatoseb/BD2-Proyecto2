@@ -1,0 +1,654 @@
+123,1,Andrew Garfield, Spiritual Ghost in the Hollywood Machine - The New York Times
+186,1,Review: ‘The Present’: Even in Russia, It’s Hard to Turn 40 - The New York Times
+216,2,Fox News Settled Sexual Harassment Allegations Against Bill O’Reilly, Documents Show - The New York Times
+288,1,South Korea’s Blacklist of Artists Adds to Outrage Over Presidential Scandal - The New York Times
+510,1,In a Rust Belt Town, the Women’s March Draws Shrugs and Cheers From Afar - The New York Times
+544,1,Snapchat Discover Takes a Hard Line on Misleading and Explicit Images - The New York Times
+646,1,Trump on Their Side, Conservatives See Hope in Lengthy Abortion Fight - The New York Times
+726,1,Quebec Mosque Attack Forces Canadians to Confront a Strain of Intolerance - The New York Times
+825,1,The Uncomfortable Love Affair Between Donald Trump and the New England Patriots - The New York Times
+862,1,Misophonia Sufferers: Scientists May Have Found the Root of Your Pain - The New York Times
+1084,1,Trump Sons Forge Ahead Without Father, Expanding and Navigating Conflicts - The New York Times
+1183,1,Ireland’s Prime Minister in Crisis Over Case of Police Whistle-Blower - The New York Times
+1261,1,Milo Yiannopoulos’s Pedophilia Comments Cost Him CPAC Role and Book Deal - The New York Times
+1406,1,Justice Dept. Drops a Key Objection to a Texas Voter ID Law - The New York Times
+1554,1,How Liberian Women Delivered Africa’s First Female President - The New York Times
+1610,1,Inquiry Opens Into How a Network of Marines Shared Illicit Images of Female Peers - The New York Times
+1641,1,Politicians to Skip Boston St. Patrick’s Day Parade After Gay Group Is Banned - The New York Times
+1982,1,‘Cork Dork’ Sniffs, Swills and Spits Through the World of Wine Experts - The New York Times
+1999,1,A Man Who Hated Black Men Found a Victim Who Cared for Others - The New York Times
+2036,1,Trump Becomes Ensnared in Fiery G.O.P. Civil War - The New York Times
+2201,1,Trump University Suit Settlement Approved by Judge - The New York Times
+2215,1,‘Penis Seat’ Causes Double Takes on Mexico City Subway - The New York Times
+2251,1,For April Ryan, Clashes With the White House Bring a New Kind of Prominence - The New York Times
+2266,1,Maoists for Trump? In China, Fans Admire His Nationalist Views - The New York Times
+2562,1,Brazil’s Lower House of Congress Votes for Impeachment of Dilma Rousseff - The New York Times
+2589,1,Donald Trump, After Difficult Stretch, Shows a Softer Side - The New York Times
+2718,1,Crossing the Line: How Donald Trump Behaved With Women in Private - The New York Times
+2736,1,Little Is Off Limits as Donald Trump Plans Attacks on Hillary Clinton’s Character - The New York Times
+2757,1,Mr. Trump’s Wild Ride - The New York Times
+2792,2,Entrusted to Save Brazil: The Party That Ruined Rio - The New York Times
+2863,1,Anti-Trump Voices Amplify on Internet, With Violent Results - The New York Times
+2878,1,‘Silicon Valley’ Season 3, Episode 7: Stop, Beta Time - The New York Times
+2893,1,Hillary Clinton’s Long, Grueling Quest - The New York Times
+2940,1,Man Who Shot Christina Grimmie, a Singer on ‘The Voice,’ Is Identified - The New York Times
+2989,1,The 5 Types of Trump-Averse Republicans - The New York Times
+2994,1,Melvin Dwork, Once Cast From Navy for Being Gay, Dies at 94 - The New York Times
+3054,1,‘My First Gay Bar’: Rachel Maddow, Andy Cohen and Others Share Their Coming-Out Stories - The New York Times
+3074,1,European Union, Donald Trump, Bernie Sanders: Your Friday Evening Briefing - The New York Times
+3167,1,‘Brexit’ Bats Aside Younger Generation’s European Identity - The New York Times
+3191,1,Welsh Reject E.U., but Its Money Will Be Missed - The New York Times
+3209,1,In a Defiant, Angry Speech, Donald Trump Defends Image Seen as Anti-Semitic - The New York Times
+3214,1,Gretchen Carlson of Fox News Files Harassment Suit Against Roger Ailes - The New York Times
+3229,2,Micah Johnson, Gunman in Dallas, Honed Military Skills to a Deadly Conclusion - The New York Times
+3256,1,Republicans Begin Hashing Out Details of Convention Platform - The New York Times
+3531,1,In the Olympic Pool, Contempt for Drug Cheats Rises to the Surface - The New York Times
+3540,1,Donald Trump Suggests ‘Second Amendment People’ Could Act Against Hillary Clinton - The New York Times
+3577,1,The Rise of the Internet Fan Bully - The New York Times
+3703,1,Raising Money for Clinton, Cher Sounds Off (and Not Just About Trump) - The New York Times
+3717,1,Italy, U.S. Presidential Race, Syria: Your Wednesday Evening Briefing - The New York Times
+3724,1,Hackers Publish Nude Pictures on Leslie Jones’s Website - The New York Times
+4061,1,Donald Trump Jr.’s Skittles Tweet Fits a Pattern - The New York Times
+4109,1,Man, 20, in Custody After Fatal Shooting of 5 People at Mall Outside Seattle - The New York Times
+4149,1,Sharon Olds, Laureate of Sexuality, Scrutinizes the Body in ‘Odes’ - The New York Times
+4154,1,How Donald Trump Set Off a Civil War Within the Right-Wing Media - The New York Times
+4167,1,As America Sleeps, Donald Trump Seethes on Twitter - The New York Times
+4258,1,De Blasio Snubs New York Post Reporter and Calls Paper a ‘Right-Wing Rag’ - The New York Times
+4283,1,N.F.L.: Cowboys Like Their New QB, Patriots Love Their Old One - The New York Times
+4285,1,For G.O.P. Candidates, Renouncing Donald Trump Carries Dire Risks - The New York Times
+4309,1,What’s Really Behind Trump’s Obsession With Clinton’s ‘Stamina’? - The New York Times
+4324,1,‘Apprentice’ Producer Denounces Trump but Won’t Release Possibly Damning Tapes - The New York Times
+4339,1,How Turned Off Are Voters? Check Out Tommy’s Diner - The New York Times
+4341,1,Revelations From the Final Weeks - The New York Times
+4580,1,‘I Was Terrified’: Inmates Say They Paid a Brutal Price for a Guard’s Injury - The New York Times
+4720,1,In Scotland, Trump Built a Wall. Then He Sent Residents the Bill. - The New York Times
+4788,1,President François Hollande of France Won’t Seek Re-election - The New York Times
+4837,1,Tomi Lahren: Young, Vocal and the Right’s Rising Media Star - The New York Times
+5081,1,Tragedy Made Steve Kerr See the World Beyond the Court - The New York Times
+5215,1,How New York Took Primary Day: Personally - The New York Times
+5331,1,Former Trump University Workers Call the School a ‘Lie’ and a ‘Scheme’ in Testimony - The New York Times
+5405,1,49 Lives Lost to Horror in Orlando: Mostly Young, Gay and Latino - The New York Times
+5530,1,Marie Kondo and the Ruthless War on Stuff - The New York Times
+5574,1,A Grounded Plane and Anti-Clinton Passion: How Mike Pence Swayed the Trumps - The New York Times
+5651,1,Fueled by Small Donations, Donald Trump Makes Up Major Financial Ground - The New York Times
+5810,1,Victim in New Hampshire Prep School ‘Senior Salute’ Case Speaks Out - The New York Times
+5842,1,Obama Says Colin Kaepernick Is ‘Exercising His Constitutional Right’ - The New York Times
+5907,1,Trump Drops False ‘Birther’ Theory, but Floats a New One: Clinton Started It - The New York Times
+5995,1,What Carmela Soprano Understood About Hillary Clinton - The New York Times
+6003,1,On Twitter, Hate Speech Bounded Only by a Character Limit - The New York Times
+6036,1,Donald Trump Apology Caps Day of Outrage Over Lewd Tape - The New York Times
+6049,1,In Second Debate, Donald Trump and Hillary Clinton Spar in Bitter, Personal Terms - The New York Times
+6064,1,‘I’m the Last Thing Standing Between You and the Apocalypse’ - The New York Times
+6077,1,Two Women Say Donald Trump Touched Them Inappropriately - The New York Times
+6085,1,House Republicans in Close Races Worry Trump’s Problems May Hurt Them - The New York Times
+6101,1,Magnate’s Twin Goals: Fighting Climate Change and Electing Donald Trump - The New York Times
+6128,1,Donald Trump Used Legally Dubious Method to Avoid Paying Taxes - The New York Times
+6144,1,Earthquake and Aftershock: The Elections of 2008 and 2016 - The New York Times
+6195,1,Trump’s Choice of Stephen Bannon Is Nod to Anti-Washington Base - The New York Times
+6342,2,Revisited ‘Last Tango in Paris’ Rape Scene Causes Internet Outcry - The New York Times
+6418,1,Rodents Run Wild in Paris. Blame the European Union. - The New York Times
+6481,1,Japanese Leader’s Pearl Harbor Visit, Called a First, Looks More Like a Fourth - The New York Times
+6610,1,Globally, Orlando Attack Strikes Now-Familiar Fault Lines - The New York Times
+6810,1,Crusader Without a Cape Sends Out the Bat Signal in New Jersey - The New York Times
+6817,1,The Electric, Infuriating Nick Kyrgios - The New York Times
+6847,1,A George Carlin Special Too Raw After Sept. 11 Resurfaces Now - The New York Times
+6942,1,A Mother Criticizes Vince Staples, and the Rapper Defends Her - The New York Times
+6947,3,Lewd Donald Trump Tape Is a Breaking Point for Many in the G.O.P. - The New York Times
+6959,1,Some in G.O.P. Who Deserted Donald Trump Over Lewd Tape Are Returning - The New York Times
+6966,1,Trepidation at City College in Wake of President’s Abrupt Exit - The New York Times
+6970,1,Living as a Man, Fighting Breast Cancer: How Trans People Face Care Gaps - The New York Times
+6972,1,The New Protesters Defying Donald Trump: His Customers - The New York Times
+7122,1,Kanye West Visits Donald Trump - The New York Times
+7174,1,The Fighter - The New York Times
+7181,1,In Democratic Debate, Clinton and Sanders Spar Over Judgment - The New York Times
+7211,1,Which Ad Portraying Donald Trump as a Misogynist Was More Effective? - The New York Times
+7245,2,Shaken by Sex Scandal, Oakland Police to Get New Leader, Again - The New York Times
+7259,1,As Migrants Face Abuse, Fear That ‘Brexit’ Has Given License to Xenophobia - The New York Times
+7309,1,Donald Trump’s Diet: He’ll Have Fries With That - The New York Times
+7337,1,Democrats Step Up Pursuit of House Republicans Left Limping by Donald Trump - The New York Times
+7545,1,Panama Papers May Inspire More Big Leaks, if Not Reform - The New York Times
+7604,2,Donald Trump, Wavering on Immigration, Finds Anger in All Corners - The New York Times
+7649,1,For Democrats, Anthony Weiner Makes an Unwelcome Return - The New York Times
+7717,1,From Links to Lucifer to Calls for Execution, Republicans Seethe at Hillary Clinton - The New York Times
+7888,2,Kathy Griffin Faces Calls for Boycott of Comedy Tour after Trump ’Beheading’ Photo - Breitbart
+7913,2,Shaun King, The Nation’s Whitest Black Activist, ’Boycotts’ NFL for ’Bigotry’ and ’Anti-Blackness’
+7915,1,Social Media Reacts to Kathy Griffin’s Shock Trump ’Beheading’ Photo
+7966,1,CNN Drops Kathy Griffin after Trump ’Beheading’ Photo
+8001,3,ADT to Pull Advertising from CNN After Kathy Griffin ’Beheading’ Photo
+8084,1,Janelle Monáe Calls on Women to Withhold Sex Until Men ’Start Respecting the Vagina’ - Breitbart
+8537,1,Ubisoft Employee Threatens to Spread Pirated Copies of ’The Last Night’ over Politics - Breitbart
+8544,1,Trump Agenda on Offense: 7 Stories in 24 Hours Give President’s Base Hope
+8599,1,Mariah Carey Suffers Brutal Lip-Sync Fail During New Year’s Show
+8681,5,Anderson Cooper ’Appalled’ by Kathy Griffin ’Beheading’ Photo: ’Completely Inappropriate’
+8762,2,Pamela Geller: Universities Normalizing Anti-Semitic Voices like Linda Sarsour but Silencing Jewish Conservatives
+8770,1,Exclusive: Sean Spicer Gives CNN Public Dressing-down in Press Gaggle - Breitbart
+8773,1,DELINGPOLE: Al Gore - Global Warming Is Real Because... Production Values
+8784,2,Donald Trump on ’Sick’ Beheading Photo: ’Kathy Griffin Should Be Ashamed of Herself’ - Breitbart
+8910,1,DELINGPOLE: Why I Totally Hate Big Oil - And Why You Should Too...
+8921,1,John Podesta: ‘Alt-Right’ Media Like Sean Hannity Colluding with Russia - Breitbart
+8937,1,Celebs Attack Trump for Lifting Trans Bathroom School Guidelines
+8947,2,EXCLUSIVE: Ex-Gitmo Warden ‘Disgusted’ Obama Released More Detainees
+9032,1,Joyce Carol Oates: Christianity ’Virtually Synonymous’ with White Nationalism
+9035,1,Anderson Cooper Sorry for ’Crude’ Donald Trump Remark to Jeffrey Lord
+9071,1,DELINGPOLE: Rules for Righties -- a War-Winning Manifesto for 2017
+9096,1,New York Times: Rockville Rape Went ’Virtually Uncovered’ on CNN, MSNBC - Breitbart
+9217,1,Farage at CPAC: 2016 Was The Beginning of a Great Global Revolution
+9306,3,FULL REMARKS: MILO Delivers Speech at Press Conference Amid Video Scandal - Breitbart
+9384,1,Migrants Setting Blood, Faeces Traps for Prison Staff
+9500,2,MILO Rockets to #1 Spot on Amazon Bestsellers List One Day After Announcing Book - Breitbart
+9646,1,Left-Wing Columnists Throw Tantrum, Attack Bill Maher Over MILO Appearance - Breitbart
+9662,1,Leftists Melt Down on Twitter over MILO Appearance on Bill Maher - Breitbart
+9707,2,’Daily Show’ Mocks ’Mahatma Blondie’ Megyn Kelly’s NBC Debut
+9852,1,MILO: Dear Half Of America, We At Sears F*****g Hate You! - Breitbart
+9946,1,Rapper Wiz Khalifa Angers Colombia with Visit to Pablo Escobar’s Grave
+10063,1,NBA Coach Gregg Popovich Still Triggered by Trump Win - Breitbart
+10067,1,Students Denounced as ’Racist’ For Wearing Red, White and Blue Clothing at Basketball Game - Breitbart
+10073,1,CNN Fake News Protest Picking up Steam Following Leftist Attack on GOP Lawmakers and Staff
+10169,1,MILO: Trump Slims Down Lena Dunham. Is There Anything He Can’t Do? - Breitbart
+10206,1,Joel Pollak on What He Saw at the Trump Revolution: ‘How Trump Won’
+10222,1,Kathy Griffin in Tears at Press Conference: ’Trump Broke Me’ (Video)
+10244,1,FULL TEXT – MILO at Cal Poly State University: ’No More Dead Babies’ - Breitbart
+10581,1,Swedish Police Chief Shut Down By Interior Minister After Call to Deport Terror Suspects
+10651,1,E3 Hands-On with ’South Park: The Fractured but Whole’: South Park Takes Aim at Superhero Genre - Breitbart
+10746,1,Reporters Attempt to Smear White House Over Illegal Alien Rape Accusations - Breitbart
+10795,1,Kevin Shenkman: Ending Democracy as We Know It in Southern California? - Breitbart
+10870,2,7 Unhinged Celebrity Reactions to Comey Hearing
+11034,1,South Carolina GOP Special Election Primary Turns Ugly as Poll Approaches - Breitbart
+11121,1,Exclusive - Pro-Trump VA Gov Candidate Corey Stewart Makes Final Appeal to Populist Voters on Eve of Primary - Breitbart
+11182,2,Ivanka Trump Calls for ’Religious Tolerance’ After Threats Hit Jewish Communities - Breitbart
+11470,1,Comedy Central Launches Late-Night Trump-Mocking ’President Show’
+11530,1,FAKE NEWS: CNN Ties MILO to White Nationalists Despite Explicit Rejection of Racism - Breitbart
+11641,1,WATCH: NY Governor Cuomo At Yad Vashem: Antisemitic Acts ’Disgustiing’
+11808,2,CNN ’Evaluating’ Kathy Griffin’s Role in Annual New Year’s Eve Coverage after Trump ’Beheading’ Photo
+11821,1,Media Reports State Dept. ’Mass Resignation,’ Officials Actually Fired
+11873,1,Melania Trump Wins Libel Suit for Calling Her ’High-End Escort’
+11876,1,Marvel Abandons Fan Base: Un-American ‘Captain America’ on 24/7 Anti-Trump Rant
+12092,1,California Black Lives Matter Proud of Facebook Post Saying They Spit in Police Officer’s Starbucks - Breitbart
+12175,2,Macron: Merkel’s Open Door Migrant Policy ’Saved Our Dignity’
+12306,1,Hayward: Who Needs the ’Resistance’ When You’ve Got the GOP Writing the Budget? - Breitbart
+12346,1,Kathy Griffin: Trump ’Beheading’ Photo Is a Statement About Him Insulting Megyn Kelly - Breitbart
+12377,1,#FireColbert Trends as CBS Host Feels Heat for ’Homophobic’ Trump Joke
+12418,1,MILO Media Meltdown: Breitbart Editor’s UC Davis Event Dominates Headlines - Breitbart
+12457,1,Kareem Abdul-Jabbar: ’La La Land’ Sends ’Bigoted Message,’ ’Misleads’ on Race and Jazz - Breitbart
+12544,1,MSNBC’s Mika Brzezinski: Putting Kellyanne Conway on the Air Is ’Disgusting,’ ’Politics Porn’ - Breitbart
+12547,1,FBI’s Suspect for Anti-Semitic Threats: Bernie Voter, Fake News Reporter - Breitbart
+12648,1,Coulter on Kathy Griffin: Victims Are the Biggest Bullies in the Country Now - Breitbart
+12736,1,EXCLUSIVE: ’Human Centipede’ Director Tom Six on Political Correctness, Censorship, Fashion, and ’The Onania Club’ - Breitbart
+12832,1,NJ Teacher Who Engaged in Sex Acts with Students Blames Strict Muslim Upbringing That ’Repressed’ Her
+12899,2,Limbaugh: Many People Would Not Have Voted for Obama If He Were White - Breitbart
+12934,1,Delingpole: The Pause in Global Warming Is Real, Admits Climategate Scientist
+12998,1,Full Text: James Comey’s Prepared Remarks for His Congressional Testimony - Breitbart
+13182,1,Squatty Potty Pulls Ads Featuring Kathy Griffin: Comedian Violated Toilet Accessory Company’s ’Core Values’ - Breitbart
+13547,2,EXCLUSIVE -- Sarah Palin: Kaepernick, Take a Knee Over This One
+13574,1,Football ’Legend’ Sacked by Manchester United For Calling Female Colleague ’Love’
+13631,1,’White People Shouldn’t Breed’ Race-Hate Attacker Who Spat At Baby Avoids Jail Sentence
+13667,2,Democratic Rep. Richmond: Kellyanne Conway Looked ’Familiar’ Kneeling on Oval Office Couch
+13707,1,Senator John McCain Makes Secret Trip to Syria - Breitbart
+13743,1,How Leftism And The U.S. Government Corrupted American Art - Breitbart
+13900,2,Trump: Madonna’s Comments ’Disgraceful to Our Country’
+13963,2,Flipped Script: WaPost Calls Constant Trump Critic Rep. Tom Cole ’Frequent Defender’ in Ryancare Autopsy Piece - Breitbart
+13985,1,Pelosi Refuses to Condemn Sexist Joke About Kellyanne Conway
+14195,1,Jackie Mason: If Russia Investigators Don’t Need Evidence, Neither Does Trump
+14405,2,Report: Secret Service Opens Investigation into Kathy Griffin ’Beheading’ Photo
+14488,1,BOOKLASH: The Celebrities Mad About MILO’s Book Deal - Breitbart
+14502,2,ESPN’s Michael Smith: ’If You Are a City in America, You Are a Racist City’ - Breitbart
+14521,2,Azealia Banks Posts Rihanna’s Phone Number in Feud Over Trump Executive Order
+14526,1,Fake News: Media Smear Sebastian Gorka as Nazi Sympathizer
+14547,1,Rep. Trent Franks: Smears Against Gorka Are ’Repugnant’
+14635,1,Celebs Call for ’Month of Resistance’ to Fight ’Fascist’ Trump
+14761,1,Liberal journalists get nasty, make jokes after Roger Ailes’ death
+14923,1,5 of Madonna’s Dumbest Political Statements
+15028,2,Nikki Haley: Syrian People ’Don’t Want’ ’Disgusting,’ ’War Criminal’ Assad
+15062,1,Portland Mayor Ted Wheeler Links Murder Suspect to Trump Supporters, Free Speech Advocates - Breitbart
+15142,2,Sean Spicer: Media ’Cheering On Democrats,’ Disrespects President-elect Trump - Breitbart
+15257,1,Live Updates: FBI Director James Comey Testifies Before Congress - Breitbart
+15387,1,Trump Supports House Obamacare Replacement Plan Despite Conservative Dissent
+15432,1,KASSAM: ‘America, Use Trump Presidency to Save the World Again’
+15434,2,Nuns Accuse Katy Perry of ‘Witchcraft’ in Lawsuit Over Former Convent
+15482,1,Blue State Blues: The Debates Were Shamefully Silent on Benghazi
+15484,1,MILO: Hollywood Leftists, Stop Being Racist and Move to Cuba - Breitbart
+15489,1,Obama Willingly Met Islamic Preacher Who Said Gays Are ’Forbidden’ by Koran - Breitbart
+15591,1,Pamela Geller: Hamas-Tied CAIR’s ’Islamophobia’ Jihad - Breitbart
+15841,2,Milo Tears Into Hillary-Supporting Podcast Host in Epic Free Speech Rant - Breitbart
+15905,1,***Horse Race LiveWire*** Cruz to Address CO GOP Convention Trump Clashes with Anti-Trump WI Radio Host - Breitbart
+15906,2,Science Proves It: Fat-Shaming Works - Breitbart
+15947,1,Watch: Farage Says Trump Victory ’Bigger than Brexit’
+16028,1,Residents Disgusted by Michigan Strip Club Hiring High School Graduates - Breitbart
+16037,1,Ward Stuns Kovalev to Claim Light Heavyweight Crown - Breitbart
+16040,1,Barry Bonds Upset With Daughter’s School After Video of Students Rapping N-Word Surfaces - Breitbart
+16125,1,Media, Authorities Play Down Migrant Sex Assaults As Cologne Attacks Highlight ’New Dimension’ For Europe
+16140,1,Poll: Plurality Say Johnny Manziel Doesn’t Deserve Another Crack at NFL - Breitbart
+16310,2,Rio’s ’Sustainable’ Olympics Are Just Lipstick On A Pig
+16321,1,Lily Allen Says Jew Should be ‘Twice as Ashamed’ for Migrants
+16367,1,Trump Blasts Clinton Corruption, Disastrous Trade Policies That Left ’Empty Factories’ and ’Destroyed’ Wages - Breitbart
+16397,1,’Build the Wall: The Game’ Finally Released for iOS After Removing Pepe the Frog - Breitbart
+16454,1,World Series Game 7 Draws Most Viewers for MLB in a Quarter Century - Breitbart
+16460,1,Hillary Clinton Tries to Project ’Love and Kindness’
+16615,1,Muhammad Ali Was Wrong: Islam Enslaved Blacks for Centuries, Did Not Free Them - Breitbart
+16666,1,Women’s Group Calls for Advertisers to Drop Peyton Manning - Breitbart
+16679,4,Labour ‘Apologises’ For ‘Jeering’ At Working Class Fishermen
+16709,2,Sir Bob Geldof: Vote Remain If You’ve Got A Big Yacht And Hate Proles
+16767,1,Christie: Cruz’s Speech ’Awful’ and ’Selfish,’ He ’Richly Deserves’ Reputation He Has on Capitol Hill - Breitbart
+16824,1,Borelli: Why is Prominent Hillary Surrogate Tweeting Out Support for A Terrorist as Orlando Victims Lay Dying? - Breitbart
+16970,1,Thirteen Undiplomatic Statements by Mitt Romney About Donald Trump - Breitbart
+16992,1,Keith Ellison: Bernie Has Made Democrats ’Greater than Ever’ - Breitbart
+17073,1,James O’Keefe: If Media Covered Project Veritas Like They Covered Trump Tape, ‘I Guarantee You Trump Would Win the Election’
+17139,1,VIDEO: ’Drunk’ Protesters Loot Convenience Store, ’Taunt’ Officers After Dallas Police Massacre - Breitbart
+17143,1,Physician-Assisted Suicide Group Targets Blacks, Latinos - Breitbart
+17165,1,Washington Post Reporter Misconstrues Trump Statement on Heroin to Smear Him - Breitbart
+17272,2,***Horse Race LiveWire*** The Ides of March - Breitbart
+17306,1,U.S.-Backed ‘Moderate’ Syrian Rebels: Beheading Boy Was a ’Mistake’
+17392,3,Is Donald Trump Right? Watch John Kasich Eat Pancakes, Sandwiches, And Spaghetti - Breitbart
+17498,1,The Intercept: A Clinton Fan Manufactured Fake News That MSNBC Personalities Spread to Discredit WikiLeaks Docs - Breitbart
+17504,1,Exclusive -- Ann Coulter Post-Election Review: Media Bias, ’Fake News,’ and Burning Down the Conservative Establishment
+17533,3,***Horse Race LiveWire*** 2 Days to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+17593,1,The Nuclear Option: Trump Missteps on ’Mexican’ Judge, Still Exposes Professional Political Class - Breitbart
+17644,1,#BoycottHamilton Trends After ’Hamilton’ Cast Members Harass Mike Pence
+17651,1,Michigan Mother: Hillary Clinton Receiving Advance Debate Question ’Should Be an Automatic Disqualification’ - Breitbart
+17677,1,EXCLUSIVE - Juanita Broaddrick: ‘Evil’ Bill Clinton Doesn’t Regret the Rape, Hillary Thought I Would Fade
+17678,1,[*BN*]The Nuclear Option[*]: No Cure in Sight for Elites’ Donald Trump Derangement Syndrome - Breitbart
+17710,1,Meet the ‘Trumpocrats’: Lifelong Democrats Breaking with Party Over Hillary Clinton to Support Donald Trump for President - Breitbart
+17734,1,Establishment Republicans Blast Never-Trumpers for ’Moral Preening’ - Breitbart
+17736,1,Paul Ryan: ’I Plan to Support the Nominee,’ Trump Must ‘Reject Any Group Or Cause That Is Built On Bigotry’ - Breitbart
+18017,1,NC Congressman: NBA Hypocrites for Pulling All-Stars from Charlotte But Playing China Preseason Games - Breitbart
+18096,1,Pat Caddell: American People Will ’Revolt’ if Party Establishments Cheat Primary Winners Trump, Cruz, and Sanders - Breitbart
+18147,1,Former Al Jazeera Reporter on Twitter: France ’An Islamophobic Nation’, Attack Was ’Blowback’ - Breitbart
+18180,1,Meet Hillary Clinton’s Not-So-Secret Weapon - Breitbart
+18249,1,Rosie Defends Questioning Whether Barron Trump is Autistic
+18290,2,Mike Huckabee to George Will: Bye, Felicia!
+18329,1,Rape-Denier Andrea Mitchell Shames Bernie Sanders For Criticizing Bill Clinton - Breitbart
+18457,1,BBC Says Opposing Shariah Law Is ’Islamophobic’
+18554,1,8 Criminals, Abusers And Harassers Who Remain Verified On Twitter
+18608,2,All Aboard the Bernie Train: Middle Fingers for the DNC
+18609,1,***2016 LiveWire*** Report: Romney in Tears over Trump Nomination - Breitbart
+18784,2,***Horse Race LiveWire*** Welcome to Super Saturday - Breitbart
+18968,1,Mediaite Calls Their Commenters ’Disheartening and Disgusting’ - Breitbart
+19007,1,Marco Rubio Campaign Donor Behind Anti-Trump Writing In The Sky At Rose Bowl
+19032,2,Women’s Soccer Star Megan Rapinoe Joins Colin Kaepernick in Taking a Knee During Anthem - Breitbart
+19037,1,Hank Paulson Endorses Hillary for Globalist Platform
+19102,1,Police Investigate Man For ’Revenge Fart’ After Woman Rejected Sexual Advances
+19143,1,EXCLUSIVE: London’s LGBT Police Are Harassing Non-PC Twitter Users, Naming Family Members In Tweets
+19239,1,The Rio Olympics: Another Embarrassing Mess From Incompetent Globalists - Breitbart
+19527,1,The Nuclear Option - Whitewashing Orlando Jihad: Where Do Obama’s Loyalties Really Lie? - Breitbart
+19573,1,Islamic State Answers Pope Francis: Ours Is a Religious War and We Hate You
+19798,1,Kurtz: Recent Media Coverage of Trump Resembles ’Mob Hit’ - Breitbart
+19808,1,Perez Hilton: MILO is ’Walking Sack of Maggots’, Files Story Under ’Icky Icky Poo’ - Breitbart
+19845,1,’Game of Thrones’ Star: If You’re Not Feminist, You’re A Sexist - Breitbart
+20089,1,***Horse Race LiveWire*** Left-Wing Activists Plan Anti-Trump Protests in NYC, Arizona - Breitbart
+20146,1,Wilders: Cologne Assaults May Soon Happen on Large Scale
+20264,1,State Dep’t Won’t Say if Iran Violated Geneva Convention
+20326,1,Palin: ’‎#BlackLivesMatter Is a Farce and Hyphenating America Destroys Us’ - Breitbart
+20542,1,WATCH: Chinese Commercial Advertises Detergent Strong Enough to Wash Off Black Skin - Breitbart
+20556,2,FL Gov Scott: Obama’s Lack of Focus on Destroying ISIS Is ’Disgusting’ - Breitbart
+20582,1,Unprecedented: Hillary Clinton Faces Two Separate FBI Investigations on Eve of Presidential Primary Season - Breitbart
+20709,2,Amy Schumer Says Vow to Leave U.S. if Trump Won Was a Joke
+20934,1,Van Jones: Trump ’Very, Very Dangerous,’ Trying To ’Restart’ Feud Between Latinos and Blacks That Obama Stopped - Breitbart
+21047,1,Ben Shapiro Torches Cal State LA Faculty in ’Diversity’ Speech
+21063,1,Bay Area High Schools Stage Walk-Outs to Protest Trump
+21124,1,Bruce Jenner: Donald Trump Better Than Hillary Clinton on Women’s Issues - Breitbart
+21156,1,Professor Goes on Leave After Comparing Black Lives Matter to KKK - Breitbart
+21158,1,Erik Prince: Leaked ‘Pay-to-Play’ Clinton Emails Show ’Everything Is for Sale for the Democrats’
+21250,1,***Live Updates*** Trump, Clinton Share Stage at Annual Al Smith Charity Roast - Breitbart
+21295,1,Twitter Allows ’Rape Melania’ to Trend After Site Explodes with Trump Assassination Threats - Breitbart
+21454,1,Donald Trump Considers Complaint Against Ted Cruz ’Voter Fraud’ - Breitbart
+21531,1,Record Number Of Truck Drivers Fined For Transporting Migrants Into UK
+21603,1,Golden Globes Recap: Ricky Gervais Delivers, ’Revenant’ Wins Big, Stallone Gets Standing Ovation - Breitbart
+21701,5,EXCLUSIVE - Sheriff Joe: Country Should ’Go Bananas’ That ‘Disgusting’ Ex-Mexican President Compared Trump to Hitler - Breitbart
+21790,1,Best of #HidingHillary: How the American People Forced Hillary Clinton to Hold a Press Conference - Breitbart
+21800,1,Playboy Model Under Criminal Investigation for Fat-Shaming Photo
+21830,1,***2016 GOP Convention LiveWire*** Trump Officially Clinches GOP Nomination - Breitbart
+21893,1,Andrew Cuomo: Anthony Weiner Underage Sexting Allegations ’Sick,’ ’Possibly Criminal’ - Breitbart
+22092,1,Attorney for ’Bird-Dogging’ Victim: Assault Charges a ’Hoax’
+22109,1,Musicians For a ’Trump-Free America’ Launch Anti-Donald Campaign
+22128,1,War! How Breitbart’s Milo Yiannopoulos Reacted After He Was Banned on Twitter - Breitbart
+22223,2,***Horse Race LiveWire*** Nevada Votes: Trump Beats Rubio, Cruz Combined - Breitbart
+22230,1,Donald Trump, a Good Sport from Way Back - Breitbart
+22324,1,*** UPDATE: Account Restored *** Gay Conservative Suspended From Facebook For Using The Word ’Fag’ - Breitbart
+22338,1,Donald Trump Moves to Unify GOP at California Party Convention - Breitbart
+22374,3,WAR ON SPEECH: Chicago Review Of Books Boycotts Simon &amp Schuster Over MILO Deal - Breitbart
+22385,1,SJWs Force Canadian Oil Group To Apologize For Saudi-Mocking ’Hot Lesbians’ Ad - Breitbart
+22472,1,Abortion Clinic Exposé: Kermit Gosnell Was Just ‘Tip of the Iceberg’ - Breitbart
+22498,1,Obama To Meet With Baltimore Mosque’s Anti-LGBT Hate Preacher - Breitbart
+22575,2,WASH POST: GOP Donors Robert and Rebekah Mercer Stand by Donald Trump - Breitbart
+22686,2,’Mujahid’ Remain Campaigner Calls For Breitbart Editor Kassam To Be ’Attacked’
+22738,2,Erik Prince: NYPD Ready to Make Arrests in Anthony Weiner Case
+22815,2,Posh BBC Director Joins Anti-Brexit Attack On Working Class Fishermen - Breitbart
+22825,1,Exclusive — Gen. Mike Flynn: Hillary Clinton’s Email Setup Was ‘Unbelievable Active Criminal Behavior’ - Breitbart
+22828,1,***Horse Race LiveWire*** Sanders, Clinton Debate After Bernie’s Michigan Upset - Breitbart
+22864,2,Pat Caddell: Romney’s ’47 Percent’ Gaffe Disqualifies Slam on Trump
+22866,1,Two Migrants Among Gang of Seven Who Raped Unconscious Girl Said ’Women Must Obey Men’
+22886,1,***Second Presidential Debate Fact-Check Livewire***
+22925,2,Ben Shapiro to Megyn Kelly: Breitbart Would Call for Lewandowski’s Firing if He Were on Hillary Campaign - Breitbart
+22959,1,HuffPo Compares Milo To Gay Nazi Ernst Röhm — Milo Responds, ‘Only In The Bedroom’ - Breitbart
+23207,2,Eric Trump Dismisses Last-Minute Establishment Attacks: ’The Most Dangerous People Are The Ones Who Are Drowning’ - Breitbart
+23264,1,Radio Host Derek Hunter Breaks Ranks with Never Trump: ’The Media Needs to Be Destroyed’ - Breitbart
+23266,2,Google, Facebook and Twitter Yield to Government Demand to Censor ’Hate Speech’
+23270,1,Trump on Wife Battle: Cruz ’Started It,’ ’He Knew About The Picture’ - Breitbart
+23449,1,Woman Makes Six-Figure Salary as Online ’Humiliatrix’ - Breitbart
+23457,1,Donald Trump: Ted Cruz An ’Unstable Person,’ ’Totally Controlled’ by Special Interests - Breitbart
+23512,1,Trump Releases the ’Mainstream Media Accountability Survey’
+23544,1,Asylum Seeker Masturbated In Middle Of Street Because He Could Not Afford Prostitutes
+23549,2,Gigi Hadid Under Fire For Melania Trump Impression at AMAs
+23626,1,WikiLeaks: Clinton Political Director Wanted Hillary to Say ’Yo Mama’ at Black College - Breitbart
+23645,1,Muslim’s Tale of Subway Terror from Trump Supporters Exposed as a Faux Hate Crime and Fake News - Breitbart
+23655,3,DELINGPOLE: ’Moronic, Self-Righteous, Disgusting Losers’ Tried to Turn the Berlin Attack on Nigel Farage - Breitbart
+23674,2,No, JC Penney, Fat People Should Absolutely Hate Themselves - Breitbart
+23821,1,Donald Trump: ’I think Jeb Would Have Been The Nominee’ - Breitbart
+23930,1,Gove: ’Antizionism Is Antisemitism, Impure and Simple’
+24036,2,Gavin Newsom Calls Transgender Gun Activist ’Disgusting’
+24287,2,Donald Trump Calls John Kasich ’One for 41,’ Mocks Him as a Child, ’I Want It Mommy!’ - Breitbart
+24304,2,Gregg Popovich: Donald Trump ‘Xenophobic, Homophobic, Racist’ - Breitbart
+24319,2,AFP: Europe’s Populist Surge Fuelled by Migrant Crisis - Breitbart
+24326,1,Teary Obama Won’t Cry For Constitution
+24358,1,’Islamic State’ Chanting Attackers ’Behead’ Priest During Morning Mass In France
+24393,1,Hillary Clinton’s Private Emails About Israel - Breitbart
+24409,2,Outrage Abounds over Target’s Decision to Allow Transgenders in Any Bathroom - Breitbart
+24440,1,Celebrities Call for Gun Control, Rip Donald Trump After Orlando Nightclub Terror - Breitbart
+24449,2,Mysterious Establishment Millionaire Behind Anti-Trump Messages In The Sky At Rose Bowl Parade
+24508,1,**Live Wire** Jihad in Orlando: How Can We Prevent Another Pulse Massacre? - Breitbart
+24547,1,Sonnie Johnson: Are You Ready to Talk About Real Freedom Now, Jesse Williams? - Breitbart
+24551,1,Sanders Supporters Still Angry at Sarah Silverman for Calling Them ’Ridiculous’ - Breitbart
+24659,3,Anti-Mass Migration Political Party Hands Out ’Anti-Migrant’ Spray
+24771,1,Pro-Abortion Congressional Black Caucus Weighs Formal Condemnation of Pro-Life Rep. Sean Duffy - Breitbart
+24872,1,Hillary’s World: How Clinton’s Foreign Policy Has Destabilized Nearly Every Corner of the Globe - Breitbart
+24874,1,Cruz: Trump Attacked My Wife Because He’s ’Scared’ - Breitbart
+24916,1,CAIR LA Chief Tweets, Deletes Wish for 2x Death in Russian Crash
+24965,1,Texas Teacher Accused of Hosting Sex Parties with Teenage Boys
+24993,1,FT: Brexit Presents A Chance To Deliver A Slap In The Face Of The Elite
+24996,1,***Horse Race LiveWire*** GOP Candidates Debate in Houston - Breitbart
+25144,2,Court: Woman Paid for Drugs by Allowing Drug Dealer to Repeatedly Rape 11-Year-Old Daughter
+25189,1,***2016 LiveWire*** Trump Courts Evangelicals Clinton Addresses Abortion Activists - Breitbart
+25216,1,ABC’s ’Scandal’ Calls ’Country People’ ’Filthy, Inbred’ Morons Who Can’t Read - Breitbart
+25297,1,Geller: UK “Equalities” Chief Admits He Was Wrong, Muslims Won’t Assimilate
+25356,1,MILO Offers to Pay for Lena Dunham’s One-Way Ticket to Canada - Breitbart
+25458,1,Curt Schilling: ’Disgusting’ How America Treats Its Veterans, ’They Need to Gut’ the VA - Breitbart
+25517,1,The Most Explosive WikiLeaks Clinton Revelations (So Far)
+25586,1,WATCH: Beyoncé Smashes New Orleans Police Camera with Baseball Bat in Trailer for HBO Mystery Project - Breitbart
+25697,1,Sanders Supporter Rosario Dawson: ’We’re Not Feeling the Unity’ - Breitbart
+25765,1,Report: Illegal Alien in N.C. Bought Teen Girl Sex Slave From her Guatemalan Family - Breitbart
+25790,1,Texas Middle Schooler Takes Knee to Protest Pledge of Allegiance
+25910,1,Muslim Labour Councillor Suspended Over Claims She Called Hitler ’Greatest Man In History’
+26035,1,Pro-life Women: ‘Disgusted’ By Donald Trump, ‘He Has Impugned Dignity of Women’ - Breitbart
+26076,1,Police Commissioner Bans Gay Sauna, ’Too Close to Mosque... Caused Widespread Offence’
+26120,1,Rapper Everlast Warns Secret Service: Don’t Let Me Near Trump, I’ll ’Punch Him in His F—king Face’ - Breitbart
+26137,1,Rough Start: Bolt Cutters Open Olympic Stadium After Officials Lose Keys - Breitbart
+26171,1,How Donald Trump Could Become President - Breitbart
+26229,2,Social Media SLAMS #WILLFERRELL for Reagan Alzheimer’s Comedy
+26401,2,Texas GOP Consultant Calls for Targeting of Breitbart Advertisers
+26444,1,***2016 LiveWire*** Trump Slams ’Thugs’ Who Accosted His Supporters - Breitbart
+26464,1,Pitt Students ’In Tears’ and Feeling ’Unsafe’ After Milo Yiannopoulos Event - Breitbart
+26465,1,Sheriff Joe: 39 Percent of Illegals Turned Over to ICE Return Back to Maricopa Co Jails - Breitbart
+26497,1,Green Europe is Killing 40,000 Poor People a Year
+26638,1,Hate Hoax: NYC Muslim Arrested After Claiming Attack by Trump Fans
+26742,1,Gawker Lives: Jezebel Mocks the Death of Mike Pence’s Dog - Breitbart
+26757,2,Politico: Bush Family and Clintons Have ‘Mutual Regard’ for Each Other and ‘Shared Disgust for Trump’ - Breitbart
+26780,1,L.A. Football: NFL Approves Inglewood Stadium for Rams, Invites Chargers to Join Them - Breitbart
+26793,1,WATCH: Clashes Between Britain First and East London Muslims
+26821,1,Exclusive: On Eve of South Carolina Vote, Nation’s ICE Officers Detail How Marco Rubio Betrayed Them - Breitbart
+26839,1,National Review: Gov. Nathan Deal’s Veto of Religious Liberty Bill Is ‘Craven Capitulation’ - Breitbart
+26865,1,Damage Control: CNN Chief Jeff Zucker Slams Donna Brazile, Clinton Campaign’s Debate Cheat - Breitbart
+26955,1,Disgraced UN Climate Boss Pachauri: I’m The Victim Of A Big Oil Conspiracy
+27101,1,Maher: Given the Choice Between Cruz and Trump, I Pick Cruz - Breitbart
+27159,1,Alyssa Milano ’Feeling the Bern’: Other 2016 Candidates Make Me ’Sick to My Stomach’
+27253,1,Amazon Withdraws ’Offensive’ Allah Doormats and Dog Bedding
+27527,1,A Nation Gathers to Honor 5 Slain Dallas-Area Police Officers
+27590,1,Lena Dunham Mocked for Assuming NFL Star Odell Beckham Jr. Snubbed Her ’Marshmallow’ Body - Breitbart
+27606,1,Today Producer Suspends Billy Bush Despite Own Sexual Comments
+27617,1,Hiding Hillary Day 260: Hillary Fundraises with Cher - Breitbart
+27701,1,Captured Paris Attacker To Sue France For Revealing He Planned To Be A ’Suicide Bomber’
+27711,4,Adrienne Ross: Literature Must Not Be a ’Safe Space’
+27886,1,Cleveland Rocks: Is The Forest City Ready For GOP Convention Chaos? - Breitbart
+27952,1,Michelle Malkin: ‘Lazy Lemmings’ of Establishment Media Can’t Keep Up with Breitbart News and Conservative Review
+28027,1,Jack Abramoff: If Hillary Clinton Is Elected, She Will Have ‘Gotten Away with Selling Our Government for Hundreds of Millions of Dollars’
+28200,1,Michael Jackson’s ’Shocking’ Child Pornography Collection Detailed in 2003 Neverland Ranch Police Report - Breitbart
+28237,7,Congressional Black Caucus Chair: ’Donald Trump Is a Disgusting Fraud’ - Breitbart
+28252,2,Gingrich: ’Nobody Has Been Better at Being in the Mud’ Than the Clintons - Breitbart
+28323,2,George Osborne Tells Leave To ‘Tone Down Rhetoric After Jo Cox’
+28364,1,No Squatting Or Using Toilet Floor, Top University Tells ’International’ Students
+28381,1,Scott Jones Dumps Trump: This ’May Cost Me the Election’
+28418,1,Donald Trump Repeatedly Warned Anthony Weiner Was a National Security Risk - Breitbart
+28433,1,Leslie Jones Was Punching Down on Twitter Trolls for Hours Before Milo Ever Mentioned Her - Breitbart
+28459,1,Rep. Steve King: If Trump or Cruz Isn’t Nominated ’Could Be the End of the Republican Party’ - Breitbart
+28469,1,Hillary Clinton Calls 31 Million Breitbart Readers ’Racist’ Klansmen - Breitbart
+28619,1,Source: NYPD Investigating Anthony Weiner’s Alleged Sexting with Minor - Breitbart
+28658,1,Arcan Cetin Mentioned Ayatollah, Islamic State on Blog
+28739,1,5 Police Officers Killed, 6 Wounded by Snipers in Dallas #BlackLivesMatter Protest
+28756,2,Jenner on ’SI’ 40 Years Later: My ‘Macho Male’ Olympics Body Disguised ‘The Woman Living Inside Me’ - Breitbart
+28820,1,Exclusive: Donald Trump: ‘I Am the Messenger’
+28840,1,MILO: ’The Only Thing Hillary Likes More Than Clamping Down On Free Speech Is Scissoring’ - Breitbart
+28877,2,Utah’s Gov. Gary Herbert and Rep. Jason Chaffetz Revoke Support for Trump - Breitbart
+28879,1,CNN Contrib: The Trump Tape Doesn’t Matter - Breitbart
+28934,3,EXCLUSIVE - Jackie Mason Slams #NeverTrump Movement: ’Disgusting Pigs and Low Lives’
+28953,1,ZUMWALT: Berlin: When Will Merkel Realize the Unknown Unknowns Have Become Known Knowns? - Breitbart
+29014,1,CNN Lies: Says Breitbart ’Most Prominent’ Site for ’Nazi Salute’
+29167,1,Boston Graffiti Urges Death on Trump Supporters - Breitbart
+29238,1,Rudy Giuliani to Clinton Campaign: ’Are You Out of Your Mind?’
+29359,1,***2016 LiveWire*** Trump v. Clinton on Foreign Policy - Breitbart
+29389,1,Scalpers Look to Cash In Selling Muhammad Ali Funeral Tickets - Breitbart
+29392,1,The Nuclear Option - Hillary Clinton: The First Lady Who Will Not Go Away - Breitbart
+29528,1,Charles Hurt: Sanders Voters Are ’Totally Ignorant’ Kids Who Just ’Want Free Crap’ - Breitbart
+29561,1,Jill Stein On Recount: We Had ’A Lot Of Hacking in This Election’ - Breitbart
+29570,1,Texas Woman Stands Behind Her ‘F*ck The PoLice’ Sign
+29582,1,Fox Votes: Trump Agrees to Megyn Kelly Interview - Breitbart
+29618,1,LISTEN: Bret Easton Ellis Unloads on Snowflake Social Justice Warriors - Breitbart
+29675,1,Geller: On Trump and the Jews, David Horowitz Is Right - Breitbart
+29718,2,Hannity: Time for ’Republican Crybabies’ to Stop Being ’Stubborn’ and Support Trump - Breitbart
+29837,1,San Francisco Moves to Open Voting to Illegals - Breitbart
+29912,1,Live Hate: Bob Geldof Let Slip The Ugly Side of The ’Remain’ Campaign
+29931,1,Juanita Broaddrick Tweets: ’It Never Goes Away’ References Bill Cosby Double Standard - Breitbart
+30099,1,***2016 LiveWire*** Trump: ‘Disgusting’ Hillary Using ‘Oldest Play in Dem. Playbook’ to Smear ‘Millions of Decent Americans as Racists’ - Breitbart
+30246,1,Judge Jeanine: Hamilton Cast’s Mike Pence Treatment ’Outrageous and Embarrassing’ - Breitbart
+30315,1,Anti-Mass Migration Party Barred from TV Debates Ahead of German Elections - Breitbart
+30469,2,EXCLUSIVE – Jackie Mason: Hollywood Should Blacklist Celebs Who Boycott Israel
+30494,1,Pro-Life Leaders: SCOTUS Decision Striking Down Abortion Clinic Safety Standards Will Allow More Gosnells - Breitbart
+30805,1,House Chairman Removes All State Flags with Confederate Emblems from Capitol Tunnel - Breitbart
+31007,1,Facebook Apologizes After Banning Picture of Burn Victim on His Birthday - Breitbart
+31107,2,Congressional Black Caucus Denounce Trump as ‘Two-bit Racial Arsonist,’ Demand Apology for Obama - Breitbart
+31256,1,Robert Jeffress Rebukes Glenn Beck for Criticism of Southern Evangelicals - Breitbart
+31259,2,FBI Agents Furious at Top Brass for Letting Clinton Off the Hook
+31294,1,Top Washington Catholic Blasts Pope for Cozy Photo with Iranian Strongman - Breitbart
+31611,1,How Trump made hatred profitable for Milo
+31746,1,The challenge of covering Trump
+31925,1,Controversial US Capitol art to be removed
+31934,1,Protesters shut down Milo Yiannopoulos event at UC Davis
+32121,1,Can women’s march make magic moment into a movement?
+32178,1,Why Donald Trump lies
+32245,1,Why we shouldn’t be so quick to dismiss Trump on Chicago
+32319,1,Spicer slams ’nitpicking’ of Holocaust statement
+32365,1,Iraqis: Trump’s travel ban ignores their service to US
+32377,1,Facing criticism, Gabbard to personally pay for Syria trip
+32387,1,Milo Yiannopoulos is trying to convince colleges that hate speech is cool
+32467,1,Super Bowl LI: A game is a game -- and what a game this was
+32588,1,US investigators corroborate some aspects of the Russia dossier
+32621,1,The folks packing Republican town halls
+32790,1,You’ve committed the graver sin, Senator Scott
+32858,1,Gymnastics doctor faces more charges in sex assault case
+33126,1,Rep. Richmond apologizes for Conway remarks
+33154,1,Toobin: Will courts bless Trump’s do-over?
+33220,2,Female Marine veteran ’disgusted’ to see photos online
+33286,1,Holiday bomb threats target 5 Jewish centers
+33292,1,ICE Twitter messages fuel deportation fears for student, 19
+33299,1,CBO report: 24 million fewer insured by 2026 under GOP health care bill
+33302,1,How CBO report could help Democrats beat Trump
+33476,1,Student in Maryland rape case undocumented
+33605,1,Stop shaming poor people for being poor
+33813,1,Trump’s Syria strike could be the moment that defines his legacy
+33884,1,Cosby’s children books targeted for censorship
+33892,1,Backlash erupts after United passenger gets yanked off overbooked flight
+34051,1,Maxine Waters is having a moment
+34079,1,Patriots player skips White House visit over Trump’s sexist remarks
+34445,1,Rape charge dropped against undocumented Maryland student
+34499,1,Dems hope Quist will win over Montana’s red voters
+34501,1,At Penn State, critics claim, there’s no handle on hazing
+34592,2,Donald Trump just trolled Rosie O’Donnell. Not good.
+34597,1,Trump gets 2 scoops of ice cream, everyone else gets 1
+34792,1,Why Turkish embassy violence is unforgivable
+34854,1,Ariana Grande on fatal Manchester terror attack: ’I don’t have words’
+34914,1,Suicide bombings kill 3 officers at Jakarta bus station, police say
+34919,1,Seth Rich and the myth behind the DNC staffer’s killing
+34966,1,United sorry for falsely accusing gay father of fondling his child
+35055,1,Heated argument erupts on Texas House floor
+35064,2,Kathy Griffin: ’I beg for your forgiveness’ for gruesome anti-Trump photo shoot
+35166,1,’March for Truth’ calls for independent probe of Trump’s alleged Russia ties
+35256,1,’I literally wanted to rinse myself off,’ ex-FBI agent says of Comey statement
+35264,1,READ: James Comey’s prepared testimony
+35277,1, Eric Trump shows that cluelessness runs in the family
+35376,1,Nadal wins historic 10th French Open title
+35482,1,Opinion: Trump hires the wedding planner --  to oversee housing program?
+35504,1,Chicago kids shot on school playground
+35679,2,Oakland mayor: ’I am here to run a police department, not a frat house’
+35753,1,Why the Brexit vote is so close
+35993,1,Brexit: Boris Johnson says he will not run as leader
+35995,1,Trump campaign defends tweet as a ’basic star’ in wake of criticism
+36163,1,Obama: U.S. ’not as divided as some have suggested’
+36329,1,Is Mike Pence OK with Donald Trump’s bigoted remarks?
+36333,1,The Manx Missile strikes again
+36341,1,3 officers killed 3 injured in Baton Rouge
+36363,1,Turkey coup attempt: Reaction on the streets of Istanbul
+36393,1,India rape case a chilling reminder for women
+36408,1,Secret Service investigating Trump adviser after Clinton remark
+36437,1,Politics behind embarrassing photos, Virgin Islands delegate says
+36543,1,DNC hack roils Philly convention
+36544,1,Michael Jordan breaks his silence on social issues
+36714,1,Trump mocking a mother: Big mistake
+36852,2,Trump: Gun advocates could deal with Clinton
+36857,1,Trump’s 2nd Amendment comments are his latest dangerous falsehoods
+36884,1,So, does Michael Phelps believe in flossing?
+37089,1,Trump pitches black voters: ’What the hell do you have to lose?’
+37121,1,Trump and African-Americans on the trail
+37202,1,Russia banned from Paralympic Games after appeal failure
+37232,1,Clinton’s straight talk on Trump and alt-right
+37234,1,Clinton: Trump campaign built on ’prejudice and paranoia’
+37262,1,Kaine: Trump ’pushing’ KKK values
+37303,1,Duterte’s crackdown: 6 stories from the front lines
+37395,1,’I had no idea I was witnessing the work of a saint’
+37516,1,Will women follow Gretchen Carlson’s example?
+37519,1,Senate resumes gridlock as Zika funding vote fails
+37603,1,Walmart 911 display, Twin Towers mattress sale - This year’s offensive 9/11 ads
+37792,1,Donald Trump’s surreal Friday, from press row
+37852,2,Trump campaign defends son’s Skittles tweet
+37889,1,Chicago to add almost 1,000 police to beleaguered force
+38019,7,Donald Trump’s trouble with women -- an incomplete list
+38050,1,Trump’s America: No fat chicks
+38085,2,Donald Trump quintuples down
+38262,2,Evangelicals ’disgusted’ by Trump’s remarks, but still backing him
+38264,3,Democrats seek to punish GOP Senate candidates over Trump audio
+38278,2,Which Republicans are abandoning Trump and which are sticking by him?
+38287,1,17 other things Trump said that didn’t stop Republicans from supporting him
+38289,1,We’re shocked: Donald Trump is a sexist
+38290,1,Kasich calls Trump’s actions ’disgusting’ but doesn’t urge withdrawal
+38307,3,Who won the town hall debate?
+38313,1,7 takeaways from the second presidential debate
+38319,1,Fact-checking the 2nd debate
+38323,1,GOP on the precipice
+38352,1,Three rich guys talk taxes, Trump and the vilified one percent
+38367,1,Trump’s moment of reckoning
+38390,1,Former Australia PM Tony Abbott defends Trump’s ’reasonable’ policies
+38395,1,Ex-contestant: Trump inspected each woman before pageant
+38406,1,These women have accused Trump of sexual harassment
+38436,1,Trump campaign is Nixon’s last gasp
+38451,1,Trump says EVERYTHING is broken, rigged, awful, a disaster
+38476,1,Local GOP office in North Carolina firebombed
+38491,1,The final debate: CNN’s Reality Check Team vets the claims
+38558,1,Ana Navarro: I’m voting for Hillary Clinton
+38573,1,The ultimate triumph: President Trump
+38642,1,’Make America White Again’: Hate speech and crimes post-election
+38650,1,Spartanburg, South Carolina, ’creeped out’ by killings
+38674,1,Weekend brings more anti-Trump protests
+38712,1,Bikers rescue stranded Bruce Springsteen
+38806,1,North Carolina GOP condemns KKK parade honoring Trump
+38934,1,What happens when you normalize the abnormal
+39152,1,Outrage at satirical children’s book covers
+39269,1,Robert Reich: Has Trump no decency?
+39543,1,Berlin attack: ISIS claims it inspired truck assault
+39570,1,Why celebrities are skipping the Trump inauguration festivities
+39750,1,Does Melania Trump’s libel suit really threaten a free press?
+39782,1,What (not) to look forward to in 2015
+39792,1,2015: Try the power of radical empathy (Opinion)
+39840,1,7 things we learned about Mike Huckabee from his new book
+39919,1,North Korea denies being behind Sony hack
+40114,1,Keystone debate ends in Senate
+40264,1,’The Evil Hours’: Lessons of PTSD
+40306,1,Monopoly set being released with real money
+40364,1,India’s problem with menstruation
+40475,1,Giuliani stands by Obama comments
+40486,1,Mistakes made at cold case trial, but murder verdict sticks
+40558,1,Female exec to working moms: ’I’m sorry’
+40581,3,U. of Oklahoma fraternity shuttered after racist chant
+40621,1,Report: OU student apologizes for racist chant
+40663,1,University of Okahoma: Who are the 2 frat students?
+40827,1,Four Florida police officers ousted for racist messages
+40940,2,Question about Mike Brown leads to beating in St. Louis
+40995,2,Outrage over Jamie Foxx’s Bruce Jenner joke at awards
+41283,1,Sheriff: No one tried to stop Panama City Beach gang rape
+41307,1,Third suspect arrested in alleged Panama City gang rape
+41328,1,Mobs in Durban, South Africa, attack immigrants
+41350,1,Parents ’opting out’ of standardized testing
+41373,1,The Woman Code: How women can help, not hurt each other
+41526,1,Jeffrey Dahmer’s killer explains why he did it
+41604,1,Is Joss Whedon a feminist? (Opinion)
+41763,1,Mike Huckabee stands by Josh Duggar, family
+41769,1,Sen. Claire McCaskill: ’I’m done’ with ’Game of Thrones’
+41798,1,Rabbit killed during live radio broadcast in Denmark
+41909,1,Ex-Chicago police officers pose over black man wearing antlers
+41931,1,United apologizes after discrimination claim
+42141,1,Carson dismisses report of campaign disarray
+42198,1,Chinese feminists show off armpit hair in photo contest
+42393,1,Armpit hair is a growing trend for women
+42420,1,Charleston shooting terrifies black America (Opinion)
+42430,1,Why are we obsessed with Rachel Dolezal? (Opinion)
+42606,1,Finding beauty in the trash
+42628,1,GOP field remains fractured over same-sex marriage ruling
+42641,1,NBC, dump Trump for his Mexico comments (Opinion)
+42747,1,Ariana Grande apologizes and explains doughnut licking
+42842,1,Defiant Donald Trump refuses to apologize to John McCain
+42875,1,’The Hunt with John Walsh:’ Decades of abuse end in death
+42915,1,What the Boy Scouts -- and I -- lost
+42965,4,Trump lashes out at lawyer over breast pump break
+43003,1,Cecil the lion’s brother Jericho is alive
+43160,1,NYPD captain suggests unsolved rape cases are ’not a trend that we’re too worried about’ because most weren’t committed by strangers
+43752,1,Milo Yiannopoulos resigns from Breitbart after appearing to condone sex between ’younger boys and older men’
+43759,1,Sebastian Gorka, Trump’s combative new national security aide, is widely disdained within his own field
+43846,1,SOLDIERS ON TRUMP’S SPEECH: Honoring fallen SEAL was to ’score political points,’ while others say it was ’sincere’
+43901,1,Here are 5 things different about Trump’s new travel ban
+43905,1,’This is ridiculous’: White House official denounces ’conspiracy’ about Trump and Russian billionaire
+44334,1,Hating Putin and loving Trump — why that makes sense to some Russian Americans
+44346,1,United responds after shocking video shows doctor being dragged from plane
+44415,2,Airline food shows a growing divide between premium and coach class
+44465,1,An ad for bulletproof hoodies and T-shirts takes aim at campus-carry laws
+44912,1,The latest test for the anti-Trump movement rests on a banjo-playing Montanan
+44987,2,People are reacting strongly to Kathy Griffin’s provocative Trump photo shoot
+45038,1,Bill Maher used the N-word on his show, HBO calls it ’completely inexcusable’
+45092,1,Comey told Trump 3 times that he wasn’t under investigation, but his refusal to publicly say so infuriated Trump
+45093,1,Former FBI Director Comey: Trump told me he ’had not been involved’ with Russian ’hookers’
+45146,1,Delta pulled its sponsorship of a Shakespeare play that showed a Trump-like figure getting stabbed
+45173,1,Apple imposes 30% tax on China’s digital content creators
+45273,1,5 planes wrote ’Trump is disgusting’ in the air over California’s annual Rose Parade
+45880,2,MURDOCH TO TRUMP: There’s no ’anti-Trump conspiracy’ at Fox News, Wall Street Journal
+46082,1,’Raise your right hand’: Striking photo shows Donald Trump leading massive rally in pledge to vote for him
+46175,1,’I’m not a Nazi’: Here’s why a Donald Trump supporter gave the Nazi salute in Chicago
+46332,2,’At some point the lie stops being news’: What it’s like for the ’disgusting reporters’ covering Donald Trump
+46615,1,Instagram is spurring the biggest shift the fitness world has seen in decades
+46709,1,Cleveland’s police union released a bizarre statement on the $6 million settlement paid out for the police shooting of a 12-year-old boy
+46929,1,White House pushes back on report of top aide saying he’s ’not proud’ of US policy in Syria
+47122,1,Obama defends a cornerstone of his legacy in Asia as it keeps getting shredded at home
+47296,1,Obama’s approval rating is at its highest point in years, and it could be a huge boon for Hillary Clinton
+47584,1,Gold is the only option for when paper currencies die — and that could be sooner than you think
+47693,1,3 people dead, 1 injured after shooting at Michigan courthouse
+47788,1,Chinese nationalists are taking their anger out on anything American they can touch
+48006,1,Obama’s approval rating is at its highest point in years, and that could be a big problem for Donald Trump
+48416,1,Andy Murray fell apart at the US Open after a bizarre ’gong’ sound interrupted play
+48496,1,TRUMP JUMP: Polls show Trump gain ground on Clinton nationally and in key swing states
+48821,2,Palin calls Trump comments ’disgusting,’ launches into lengthy attack on equally ’offensive’ media
+48865,1,Multiple women say Donald Trump made inappropriate sexual advances on them
+48871,1,’This entire story is fiction’: Campaign spokesman denies Trump made unwanted sexual advances on women years ago
+48946,1,Undercover videos lead to Democratic operative’s firing, force another to distance himself from DNC
+48984,1,Joe Biden says he would take Donald Trump ’behind the gym’ over lewd comments about women
+49067,1,Thomas Jefferson has some wise, comforting words for turbulent political times
+49114,1,A North Carolina senator takes back comment that a picture of Hillary Clinton should have a bullseye on it
+49116,1,As Silicon Valley vilifies Peter Thiel for his support of Trump, one group of techies is defending him
+49157,1,Eric Trump said former KKK leader David Duke deserves ’a bullet’
+49240,1,’Republican elites hated him for it’: Elizabeth Warren extends a slight olive branch to Trump in major speech
+49269,1,Gregg Popovich goes on lengthy rant over Trump’s election: ’I’m sick to my stomach’
+49342,1,How New York’s capital avoided becoming ’a flaming city’ after police killed a mentally ill, unarmed black man
+49986,1,The Absurdity of Attacking Celebrities to Defend Donald Trump

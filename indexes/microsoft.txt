@@ -1,0 +1,412 @@
+51,2,Tech Giants Seem Invincible. That Worries Lawmakers. - The New York Times
+71,1,Cyberwar for Sale - The New York Times
+89,1,The Perfect Weapon: How Russian Cyberpower Invaded the U.S. - The New York Times
+111,1,Russia Requires Apple and Google to Remove LinkedIn From Local App Stores - The New York Times
+157,6,Data Could Be the Next Tech Hot Button for Regulators - The New York Times
+370,1,What to Make of the ‘Davos Class’ in the Trump Era - The New York Times
+513,1,How Emotion Over Pet Care Helps Explain Human Health Spending - The New York Times
+701,3,Silicon Valley’s Ambivalence Toward Trump Turns to Anger - The New York Times
+797,1,Rebuilding a Life to Provide a Happier Childhood for Her Son - The New York Times
+814,1,Snap’s Chief Taps Into the ‘Right Now’ - The New York Times
+847,4,China’s Intelligent Weaponry Gets Smarter - The New York Times
+917,4,Tech Opposition to Trump Propelled by Employees, Not Executives - The New York Times
+920,1,White House Says Bathrobe Anecdote Is All Wet - The New York Times
+922,1,Travel Ban, Queen Elizabeth, Netanyahu: Your Morning Briefing - The New York Times
+956,2,Dumping a Bad App? Tips for a Painless Breakup - The New York Times
+1049,1,‘A Sense of Dread’ for Civil Servants Shaken by Trump Transition - The New York Times
+1265,1,Who Are the Richest of the Rich? - The New York Times
+1266,2,Where the World’s Wealthiest Invest Their Billions - The New York Times
+1306,1,I Ignored Trump News for a Week. Here’s What I Learned. - The New York Times
+1350,1,The Power of ‘Why?’ and ‘What If?’ - The New York Times
+1376,1,For Marketers, TV Sets Are an Invaluable Pair of Eyes - The New York Times
+1532,1,Nintendo Switch: A Blast at Home, So-So on the Go - The New York Times
+1592,2,With WikiLeaks Claims of C.I.A. Hacking, How Vulnerable Is Your Smartphone? - The New York Times
+1664,1,Profitable Companies, No Taxes: Here’s How They Did It - The New York Times
+1859,1,Opposing Views on What to Do About the Data We Create - The New York Times
+1969,2,When a Basic Laptop Will Do: Our Top Budget Picks - The New York Times
+2027,2,C.I.A. Developed Tools to Spy on Mac Computers, WikiLeaks Disclosure Shows - The New York Times
+2067,1,Push for Internet Privacy Rules Moves to Statehouses - The New York Times
+2155,1,In AMC’s Western ‘The Son,’ the Novelist Philipp Meyer Lassoes TV - The New York Times
+2230,1,North Carolina’s Dominance Fails to Cover Cheating’s Stain - The New York Times
+2534,2,Yahoo’s Suitors Uncover Few Financial Details - The New York Times
+2580,2,Intel to Cut 12,000 Jobs as PC Demand Plummets - The New York Times
+2595,1,Down to Lunch Founders Pursue Less-Traveled Path to App Success - The New York Times
+2738,3,China Quietly Targets U.S. Tech Companies in Security Reviews - The New York Times
+2895,8,Microsoft Finds Cancer Clues in Search Queries - The New York Times
+2960,29,Microsoft Buys LinkedIn for $26.2 Billion, Reasserting Its Muscle - The New York Times
+2995,13,The First Big Company to Say It’s Serving the Legal Marijuana Trade? Microsoft. - The New York Times
+3034,1,Hands Off My Smiley Face: Emoji Become Corporate Tools - The New York Times
+3121,1,California Today: How Badly Do You Want That New Rail Line? - The New York Times
+3217,1,Apple’s iOS 10 Is Available for Beta Testers Who Want a Head Start - The New York Times
+3265,1,Taser International Dominates the Police Body Camera Market - The New York Times
+3284,1,The Downside to Cord-Cutting - The New York Times
+3386,1,Oracle’s $9.3 Billion Deal for NetSuite Will Bolster Its Cloud Offerings - The New York Times
+3417,3,Yahoo and the Online Universe According to Verizon - The New York Times
+3545,4,Off to College? Maybe These Devices Should Go Along - The New York Times
+3896,2,IPhone 7 and Wireless Headphones: Analyzing Apple’s Announcements - The New York Times
+4099,3,Twitter Is Said to Be Discussing a Possible Takeover - The New York Times
+4162,1,A High-Stakes Bet: Turning Google Assistant Into a ‘Star Trek’ Computer - The New York Times
+4218,4,Yahoo Said to Have Aided U.S. Email Surveillance by Adapting Spam Filter - The New York Times
+4253,2,Salesforce Shareholders Besiege Possible Twitter Deal - The New York Times
+4410,13,Microsoft Unveils Its First Desktop PC - The New York Times
+4458,1,California Today: How Do Top Newspapers Line Up on the Election? - The New York Times
+4666,1,Donald Trump, Japan, Mosul: Your Wednesday Briefing - The New York Times
+4868,1,Instagram Introduces New Tools Meant to Curb Abuse and Expand Privacy - The New York Times
+4934,1,Donald Trump, Aleppo, Golden Globes: Your Monday Evening Briefing - The New York Times
+4969,2,‘I’m Here to Help,’ Trump Tells Tech Executives at Meeting - The New York Times
+4972,1,Rodrigo Duterte, Aleppo, Donald Trump: Your Morning Briefing - The New York Times
+5075,1,Obama to Dismantle Visitor Registry Before Trump Can Revive It - The New York Times
+5217,3,Google’s Antitrust Woes in Europe Are Likely to Grow - The New York Times
+5223,1,E.U. Charges Dispute Google’s Claims That Android Is Open to All - The New York Times
+5248,5,Google Shuts Out Competitors on Android? Hardly - The New York Times
+5264,1,Your Monday Evening Briefing: Hillary Clinton, Donald Trump, Bitcoin - The New York Times
+5309,1,Warren Buffett Stake Suggests Apple Is All Grown Up - The New York Times
+5337,1,‘I Can Watch It on TV’: Excuses for Republicans Skipping a Donald Trump Convention - The New York Times
+5341,1,Upheaval Amid ‘Alarming’ Revelations at William Koch’s Florida School - The New York Times
+5400,2,Orlando, Hillary Clinton, Donald Trump: Your Monday Evening Briefing - The New York Times
+5479,1,At Cannes, the Ad Industry Confronts the Rise of Facebook - The New York Times
+5575,3,When Yahoo Ruled the Valley: Stories of the Original ‘Surfers’ - The New York Times
+5788,13,Cloud Computing Brings Sprawling Centers, but Few Jobs, to Small Towns - The New York Times
+5947,1,Mark Zuckerberg and Priscilla Chan Pledge $3 Billion to Fighting Disease - The New York Times
+6054,1,Samsung Halts Galaxy Note 7 Production as Battery Problems Linger - The New York Times
+6146,1,Janet Reno, First Woman to Serve as U.S. Attorney General, Dies at 78 - The New York Times
+6238,1,The Future of Health Care Mergers Under Trump - The New York Times
+6311,1,Howard Schultz to Step Down as Starbucks Chief Next Year - The New York Times
+6345,1,Donald Trump Summons Tech Leaders to a Round-Table Meeting - The New York Times
+6364,2,Park Geun-hye, Donald Trump, Microsoft: Your Friday Briefing - The New York Times
+6407,1,The Great A.I. Awakening - The New York Times
+6430,2,Free Cash in Finland. Must Be Jobless. - The New York Times
+6524,1,F.B.I. Says It Needs Hackers to Keep Up With Tech Companies - The New York Times
+6619,2,Jo Cox, EgyptAir, Golden State Warriors: Your Thursday Evening Briefing - The New York Times
+6631,1,Telling Sign? Many Supporters of ‘Brexit’ Expect Defeat - The New York Times
+6760,2,How Think Tanks Amplify Corporate America’s Influence - The New York Times
+6819,5,G.E., the 124-Year-Old Software Start-Up - The New York Times
+6931,9,Next Big Tech Corridor? Between Seattle and Vancouver, Planners Hope - The New York Times
+7010,2,Russia Prepares to Block LinkedIn After Court Ruling - The New York Times
+7194,1,Donald Trump’s Aging Air Fleet Gives His Bid, and His Brand, a Lift - The New York Times
+7361,1,Apple Offers Free App to Teach Children Coding (iPads Sold Separately) - The New York Times
+7371,2,Artificial Intelligence Software Is Booming. But Why Now? - The New York Times
+7507,2,Rail Crossing Warnings Are Sought for Mapping Apps - The New York Times
+7680,1,Aleppo, Donald Trump, Chennai: Your Tuesday Briefing - The New York Times
+7716,2,Artificial Intelligence Swarms Silicon Valley on Wings and Wheels - The New York Times
+7767,1,Third Place? In Auction World, Phillips Is Making Strides - The New York Times
+7780,2,Europe Tried to Rein In Google. It Backfired. - The New York Times
+7999,1,Amazon to Add 100,000 Employees for Automated Market - Breitbart
+8098,1,Report: Jared Kushner Hires Top Hollywood Publicist for White House Post
+8288,1,Cheap-Labor Lobby Funds New H-1B Song-and-Dance Movie - Breitbart
+8509,1,Goldman Sachs: Almost One Million H-1B Foreign Workers Hold University-Level Jobs Here - Breitbart
+8537,1,Ubisoft Employee Threatens to Spread Pirated Copies of ’The Last Night’ over Politics - Breitbart
+8552,1,WikiLeaks: CIA ’Pandemic’ Malware Infected Servers to Spread Virus to Computers - Breitbart
+8561,1,WikiLeaks Claims CIA Lost Control of ’Hacking Arsenal’ - Breitbart
+8677,1,SXSW Focuses on Anti-Trump Rhetoric, Links Rise of A.I. with ’Fascism’ - Breitbart
+9166,4,Microsoft Cancels ’Scalebound’, Parts Ways with Developer Platinum Games - Breitbart
+9195,1,’Conan Exiles’ Won’t Have Customizable Penis Sizes on Xbox One - Breitbart
+9359,2,Disney Refuses Ransom to Hackers Who Stole ‘Pirates of The Caribbean’ - Breitbart
+9480,1,Gary Miliefsky on Ransomware Attack: Cybercrime a Trillion-Dollar Industry, ‘Only Going to Get Worse’
+9850,1,Bill Gates Calls for Robot Tax to Offset Jobs Lost to Automation - Breitbart
+9969,2,Microsoft Reveals Project Scorpio to Be High-Powered Xbox One X at E3 - Breitbart
+10059,3,Indian Software Mogul: Hire Americans Now Because Trump Opposes H-1B Outsourcing Visas - Breitbart
+10097,11,Microsoft Employees Sue Company over PTSD Suffered from Filtering Child Porn, Murder - Breitbart
+10533,1,Tech Execs Indicted for H-1B Visa Fraud
+10538,2,U.S. Stock Markets Hit Record Highs, but Tech Stocks Tumble - Breitbart
+10678,1,North Korean Hackers Suspected of ‘WannaCry’ Ransomware Attack - Breitbart
+10766,1,Amazon’s Jeff Bezos Exploring Legal Challenge to Trump Travel Ban - Breitbart
+10841,1,Silicon Valley Speaks Out Against U.S. Leaving Paris Accords - Breitbart
+10922,1,ROBOPOCALYPSE: The Coming Leftist Panic on The Robot Economy - Breitbart
+11006,11,Top 15 Things to Know About the ’WannaCry’ Global Ransomware Hacker Attack
+11215,10,Report: Microsoft Withheld Free Cyber Attack Patch, Charged Old Software Users Instead - Breitbart
+11612,1,Twitter Shares Crash Following Quarterly Earnings Report Release - Breitbart
+11867,1,Amazon Now Worth Twice As Much As Walmart - Breitbart
+12016,1,Liberal Tech Leaders at Risk from ’Occupy Silicon Valley’ - Breitbart
+12150,1,Politico Scoop: Lara Trump Supports Beagle Rescue Org with Felon in Leadership - Breitbart
+12445,1,Report: Robots to Take Over ’Wide Range’ of Military Jobs - Breitbart
+12720,1,Tech CEOs Plan to Attend Jared Kushner-Led White House Summit - Breitbart
+12866,7,‘Shadow Brokers’ Threaten to Release More Stolen NSA Cyber Weapons - Breitbart
+13251,2,WikiLeaks: CIA Hoarded ’Zero Day’ Exploits, Breached Obama Admin Commitments - Breitbart
+13906,3,Silicon Valley Elites Lash Out over Trump’s Temporary Halt on Refugees - Breitbart
+13979,6,Report: European Data Protection Authorities Concerned About Windows 10 - Breitbart
+14309,6,Microsoft Accelerating HoloLens Development, Skipping Version 2 - Breitbart
+14377,1,Tim Cook, Eric Schmidt, Jeff Bezos Praise Trump Admin After White House Tech Meeting - Breitbart
+14492,8,Microsoft Blames Global Cyberattack on Leaked NSA Code, Warns U.S. Government over Cyberweapons - Breitbart
+14533,1,Google, Facebook, Twitter Promise to Crack Down on Terrorist Content Online - Breitbart
+14536,1,Lobbyists for Google, Facebook Trying to Stop New Online Privacy Protections - Breitbart
+15002,1,40% Drop in Tech Companies Opposing Trump’s Revised Travel Order - Breitbart
+15117,1,Leftist Rage Unleashed Against ’The Last Night’ Creator During E3 Gaming Expo - Breitbart
+15220,2,Hackers Strike 74 Countries With Stoled NSA Hacking Tool
+15226,1,Federal Judge Who Blocked Trump Travel Ban Will Rule on Plaintiffs Request to Double Number of Refugees in FY 2017
+15314,2,Microsoft Services Including Outlook, Skype, Xbox Live Hit by Outage - Breitbart
+15470,3,Microsoft Apologizes for Go-Go Dancers at Company Party - Breitbart
+15521,1,Goldman Sachs Predicts Virtual Reality Industry to Reach $80 Billion by 2025 - Breitbart
+15612,1,Syrian Refugee, American Muslim, DREAMer, Gay Activist, Join Michelle Obama For State Of The Union - Breitbart
+15673,3,Minecraft Passes 100 Million Units Sold - Breitbart
+15874,5,Microsoft Introducing VR Headsets at Half the Price of Oculus Rift - Breitbart
+16194,2,Trump Leads Prediction Markets Betting Odds in 6 State Primaries - Breitbart
+16448,3,Bill Gates Offers Muddled Support for FBI in Apple Decryption Case - Breitbart
+16619,1,Mark Zuckerberg’s Group Launches Anti-Trump Video, Attacks Donald Trump, Ted Cruz on Immigration - Breitbart
+16998,1,EU Threatens Action if Facebook ‘Hate Speech’ Not Censored
+17015,1,Exclusive - Immigration Hawks: Facebook Engaging in Deliberate Suppression of Our Content - Breitbart
+17370,1,Exclusive Data Analysis: Prediction Markets Show Cruz Craters After Deal With Kasich Fiorina, Pence Not Boosting Him - Breitbart
+17386,7,Bernie Sanders’ Campaign Paranoid over Partnership Between Microsoft and Iowa Caucuses - Breitbart
+17429,1,3 Creepiest Things Discovered Within Oculus Rift’s Terms of Service &amp Privacy Policy - Breitbart
+17440,1,LoveBot Will Text Sweet Nothings to Your Significant Other for You - Breitbart
+17463,5,Microsoft Cancels ’Fable Legends,’ In Talks to Close Lionhead Studios - Breitbart
+17643,1,Bill Gates Visits Trump Tower Compares Him To JFK - Breitbart
+17668,4,Microsoft Sued for $10,000 After Windows 10 Auto Update Renders Woman’s PC Unusable - Breitbart
+18225,1,Google to Congress: Trash Constitution for Self-Driving Cars
+18413,3,Immigration Attorneys: Industry Pushes Foreign Labor, Claiming ‘U.S. Students Can’t Hack It in Tech’ - Breitbart
+18502,1,Peter Thiel Wants to Serve Trump Administration as Technology Adviser - Breitbart
+18507,1,WikiLeaks: Google’s Eric Schmidt Planning Hillary’s Presidential Campaign Since 2014 - Breitbart
+19106,1,Guardian: EU Anti-Hate Speech Code Doesn’t Go Far Enough, Must Cover ’Misogynist Abuse’
+19352,3,ZUCKED UP: Why Silicon Valley Is Scared to Death of Trump Part 1 - Breitbart
+19426,1,EXCLUSIVE - NSA Whistleblower: Clinton Email Server Was ‘Open To Being Hacked By Anybody’ - Breitbart
+20276,1,Claim: ‘Corrupt’ Google Suppressing Eurosceptic Website, Says Founder - Breitbart
+20340,1,End of Microchip Revolution Very Bad News for Wages - Breitbart
+20585,2,Breitbart’s Marlow: New EU IT Facebook Code ’About Controlling Message’ By An ’Open Borders, Globalist Organization’ - Breitbart
+20630,1,Verizon Buying Yahoo to Challenge Facebook and Google Internet Dominance - Breitbart
+20687,4,Windows 10 Tells Chrome and Firefox Users That Microsoft’s Browser Is ’Safer’ - Breitbart
+20748,1,Mark Zuckerberg Warns Iowa Ahead of Vote to Reject Trump - Breitbart
+21199,14,Microsoft’s Iowa Vote-Count A Dry Run for Bigger Corporate Role In U.S. Election Process - Breitbart
+21455,7,Tower Summit: Trump to Meet Silicon Valley Techies Who Funded Hillary Clinton, Democrats to Tune of Millions - Breitbart
+21479,1,Five Facts About Donald Trump’s Expected Pick for Interior Secretary, Rep. Cathy McMorris Rodgers - Breitbart
+21791,7,Microsoft Tests Underwater Data Center, Greenpeace Unimpressed - Breitbart
+21990,1,Police Investigate Social Media Critics Of Migrant Centre
+22758,1,Soros Board Member Chairs Firm Running Online Voting for Tuesday’s Utah Caucuses - Breitbart
+22896,2,Halo ’Forge’ Comes to Windows 10 - Breitbart
+24027,1,Another Twitter Exec Leaves After Just One Year at the Company - Breitbart
+24759,1,Silicon Valley Urges Giving Election Day Off to Help Democrats
+24887,2,Internet Radio Service Pandora Endorses Black Lives Matter Following Dallas Shootings - Breitbart
+24921,1,Americans’ Opposition to Amnesty is Boosting Wages, Business Leader Admits - Breitbart
+24980,5,Microsoft and Xiaomi Partner to bring ’iPhone Killer’ to US
+25490,1,EXCLUSIVE - Trump Adviser: Rubio Will Never Say ’I’m Sorry’ for Gang of 8 Bill - Breitbart
+25601,1,’Glitch’: Months’ Worth of Emails from Top Deputy Failed to Reach Hillary Clinton’s Inbox
+25742,1,Congressman Calls for Federal Boycott of Apple Products - Breitbart
+26059,1,Civil Rights Advocates Praise Jeff Sessions for Protecting Black American Workers - Breitbart
+26358,1,’Trump Rally’ Continues as Dow Jones Hits Record High - Breitbart
+26384,15,Microsoft Panders To Progressives Following Dallas Shootings - Breitbart
+26550,1,Senior Senate Staffer Reveals the Marco Rubio Story You’ve Never Heard - Breitbart
+27406,1,Oliver Stone Accuses Facebook, Google of ‘Collaborating’ With U.S. Government in Snowden Case - Breitbart
+27679,1,Clinton Global Initiative Meeting Was A Flop, According To Leaked Notes - Breitbart
+27922,1,Mark Zuckerberg Wants a Robot Butler Like Tony Stark’s - Breitbart
+28293,1,Google, Facebook, Apple, Microsoft Ban Smartphone Rifle Emoji - Breitbart
+28310,1,Here Are 37 Companies That Directly Fund Planned Parenthood - Breitbart
+28387,1,Clinton Foundation Hires H-1B Guest Workers in Place of American Graduates - Breitbart
+28390,1,Massive Increase In Arrests For ‘Offensive’ Social Media Posts
+29431,2,CNBC: ’Twitter Sale Could Happen In Next 30 Days’ - Breitbart
+29742,1,FULL TEXT: The EU And Facebook’s New Online ’Code Of Conduct’
+30035,1,Democrats’ Caucus-Chaos: Party Switched Iowa Delegate from Sanders to Clinton - Breitbart
+30271,1,Web Giants Coordinate to Remove Extremist Content - Breitbart
+30481,1,Israeli Medical Company Hopes To Save Thousands Of Women’s Lives Per Year
+30489,4,Microsoft Apologizes for Accidental ’Racist Slur’ in ’Dead Rising 4’ Promo Email - Breitbart
+31039,1,Silicon Valley Job Cuts Double in 2016 - Breitbart
+31100,1,Democratic Hacker Horror: Cellphone Numbers, Personal Email Addresses of Congressional Democrats Released - Breitbart
+31296,1,Trump to Tech Executives: ’I’m Here to Help You Folks Do Well’ - Breitbart
+31439,5,Beyond Zucked: The Indian Mega-Companies Behind the H-1B Visa Crisis - Breitbart
+31475,1,Marissa Mayer Has Become A Symbol Of Silicon Valley’s Disastrous Tokenism - Breitbart
+31831,1,CNN 10 - January 11, 2017
+31840,1,Alexa, what other devices are listening to me?
+32029,1,Hollywood gears up for the 2017 People’s Choice Awards
+32153,2,Edward Snowden Fast Facts
+32180,1,Card game seeks a new CEO(bama)
+32445,3,The legal arguments around Trump’s travel ban challenges
+32483,1,The name on everyone’s lips: Donald Trump
+33105,3,Cyberattack hits PA Democrats’ computers
+34660,3,CNN 10 - May 15, 2017
+35172,1,France taunts US by editing White House video on climate deal
+35560,1,FL governor: Zuckerberg missed out by skipping Trump meeting
+35621,8,Microsoft brings Starbucks to your inbox
+35995,1,Trump campaign defends tweet as a ’basic star’ in wake of criticism
+36034,1,Donald Trump’s ’Star of David’ tweet controversy, explained
+36041,1,How Trump overshadowed Clinton’s bad weekend
+36466,1,Report: MH370 pilot simulated suspected route
+36833,1,Trump agenda looks like more of the same
+38534,1,To triumph and tragedy, Reno followed law
+38545,3,Janet Reno’s career punctuated by highs, lows
+38943,1,Why Trump might not be so bad for China and Asia
+39146,14,Bill Gates Fast Facts
+39726,1,Alexa, can you help with this murder case?
+39749,1,Israel risks sliding toward apartheid
+39782,1,What (not) to look forward to in 2015
+40564,1,College kids make robotic arms for children without real ones
+40672,2,Robert Downey Jr. presents child with ’Iron Man’ arm
+40692,2,Paul Allen shows battleship Musashi, WWII wreck
+40779,3,11 startups to bet on in 2015
+41073,1,7 ’impossible’ dance GIFs to trick your eyes
+41513,2,How old do you look? This site tells you in seconds
+41546,1,Hangar of Japan’s aircraft carrier sub found
+42537,1,Gene hunter by day, Aerosmith organist by night
+43147,5,Microsoft’s crazy hologram goggles are finally coming to stores — here’s a first look
+43178,1,Inside Sears’ death spiral: How an iconic American brand has been driven to the edge of bankruptcy
+43221,14,LinkedIn may move its 10,000 employees off Google Apps – and not because of Microsoft
+43363,1,Our exclusive with Colorado’s colorful, rising-star governor, the man some Davos elites say could lead Democrats in 2020
+43380,1,A star tech and media banker shares his thoughts on dealmaking in 2017
+43443,1,Read the email Microsoft President Brad Smith sent employees on Trump’s immigration order
+43447,1,How to make your résumé stand out, according to a Harvard student who received internship offers from Microsoft and Goldman Sachs
+43453,1,Mark Cuban goes after Trump in days-long tweetstorm for ’not vetted’ travel ban: ’I’m not sure he realizes how divisive he is’
+43512,3,Bill Gates once stayed up until 4 a.m. to write a game that Apple thought was ’embarrassing’
+43519,1,Federal judge puts temporary hold on Trump’s immigration order nationwide
+43553,1,Tesla and SpaceX join 97 other companies in opposing Trump’s immigration ban
+43585,2,Why the secretive $35 billion company behind Twix and M&Ms bet on Microsoft’s big change
+43635,5,The 13 best stories about Bill Gates that show off his eccentric genius
+43758,7,Microsoft CEO Satya Nadella says Bill Gates’ original mission ’always bothered me’
+43809,2,Amazon keeps reminding us that it’s the most dangerous company in tech
+43861,1,Bill Gates explains how he defines success — and it has nothing to do with money or power
+43899,1,Marc Benioff says the ‘roaring’ market has ended Salesforce’s $5 billion buying binge
+43920,1,Google spent $30 billion on its cloud and is making some undeniable progress
+43934,1,Uber has hired recruiting giant Heidrick & Struggles to find a sidekick for embattled CEO Travis Kalanick
+43976,1,There’s a raging talent war for AI experts and its costing automakers millions
+44051,1,Meet ’Professor X,’ the AI genius who left his lab at Princeton to beat Uber, Google, and Intel at their own game
+44079,1,Only 3 major services let you stream live TV over the internet — here’s how they compare
+44158,10,Apple totally dissed WikiLeaks this week — here’s why
+44182,1,Apple just made a historic and risky change to all iPhones — and you probably didn’t even notice
+44189,2,Samsung’s Galaxy S8 resurrects a fantasy tech companies have had for years
+44222,4,$2 billion startup GitHub has officially won over Microsoft
+44227,1,Robots and automation are going white collar — but they’re not here to steal your job just yet
+44240,3,The smartphone is eventually going to die, and then things are going to get really crazy
+44324,4,4 reasons you’d want to buy a Project Scorpio Xbox when it’s released later this year
+44369,21,Microsoft is caught in an impossible smartphone situation
+44387,1,The CEO of a $3.7 billion startup is allegedly firing employees right before their stock options vest, report says
+44444,2,Mark Zuckerberg just signed the death warrant for the smartphone
+44467,1,WikiLeaks and its founder Julian Assange may face criminal charges in the US
+44498,1,An existential threat looms over Mark Zuckerberg’s quest to kill the smartphone
+44515,1,The smartphone is eventually going to die — this is Mark Zuckerberg’s crazy vision for what comes next
+44595,1,31 annoying words and phrases on your résumé that make hiring managers cringe
+44607,1,31 annoying words and phrases on your résumé that make hiring managers cringe
+44633,13,UNVEILED: Microsoft’s new $999 MacBook killer with over 14 hours of battery life
+44646,1,Microsoft’s CEO says ’I’m sure we’ll make more phones’ while its biggest visionary says ’the phone is already dead’
+44715,1,Amazon’s new Echo smart speaker with a touchscreen launches tomorrow
+44756,1,A massive cyberattack using leaked NSA exploits has hit 99 countries, and it’s still spreading
+44765,1,Silicon Valley’s ultimate status symbol is the sneaker — here are the rare, expensive, and goofy sneakers worn by the top tech CEOs
+44771,1,Elon Musk has discovered a new passion in life — and it could be Tesla’s best product yet
+44774,3,The spread of the massive cyberattack that hit 99 countries is slowing — but we still don’t know who’s behind it
+44787,1,The massive global cyberattack affecting 200,000 victims will cause more chaos on Monday
+44793,1,A 22-year-old who lives with his parents stopped the worldwide malware hack by registering a domain for $10.69
+44805,1,Bill Gates reveals what he’d study if he were a college freshman today
+44864,1,Inside Facebook’s plan to eat another $350 billion IT market
+44942,1,How Tim Armstrong, a hotshot Boston sales guy, wowed Google’s founders, built its multi-billion-dollar ad business from scratch, then became AOL’s CEO
+45007,1,TRUMP WITHDRAWING FROM PARIS CLIMATE AGREEMENT
+45008,1,An alliance of the nation’s biggest states could short-circuit Trump’s vow to leave the Paris Agreement
+45052,1,The iPad was supposed to revolutionize news, books, and computers. So what happened?
+45065,1,LIVE: Apple’s biggest conference of the year is here — get ready for new products
+45078,1,Apple announced the future this week, and you probably didn’t even notice
+45107,1,This startup wants to turn crazy-popular unboxing videos into a new ’QVC for millennials’
+45136,1,The people behind the popular ’Mass Effect’ games have a brand new title: ’Anthem’
+45137,1,Why billionaire Steve Ballmer spent $10 million to build a free — and strangely patriotic — website
+45156,6,By suing a former employee, Amazon may have revealed big plans to take on Microsoft
+45158,1,The tech stock ’fairy tale’ is heading for a bad ending
+45172,1,Traders are loading up on bets against Apple
+45224,3,Microsoft released two brand-new laptops this week, both killer Apple rivals — here’s how to choose between them
+45410,5,This stealth startup is trying to beat Microsoft and be the dashboard for all your documents
+45421,8,Netflix, Juniper, and Intuit explain how Amazon is eating the $3.5 trillion IT industry
+45569,3,Microsoft is changing how it invests in startups and has a new leader to help
+45571,4,Microsoft and Google are learning how hard it is to be like Apple
+45605,1,Satya Nadella’s master plan for Microsoft is starting to work
+45691,2,Microsoft has mastered what Apple can’t seem to do: Gmail on iOS
+45749,1,The CEO of one of Silicon Valley’s hottest startups has suddenly resigned
+45798,2,Startups are realizing there’s no Plan B: They have to survive the bad times like ’cockroaches’
+45838,8,Microsoft is marking the end of an era with a $199 Windows phone for the business customer
+45879,1,Why Apple needs to make such a big deal about privacy but Google doesn’t
+45954,1, China is now the billionaire capital of the world
+45959,1,The great, the good, and the gruesome of Warren Buffett’s investments
+45974,2,HP CEO: Windows PCs are like ’stale fish’
+46097,24,Microsoft is trying to bring back the ’80s with its Windows 10 strategy
+46124,6,Microsoft is beating Apple in a key battle for the future of computing
+46172,1,Amazon’s cloud boss told us something that should terrify a $140 billion industry
+46198,17,Microsoft has booted Okta, a customer and partner, from its upcoming tech conference
+46201,15,It’s no coincidence that Amazon and Microsoft are rethinking the computer
+46212,8,Larry Ellison explains why Microsoft and Amazon are going for Oracle’s throat
+46224,2,Google just scored a huge win against Amazon by landing Apple as a customer
+46227,4,Amazon’s $970 million purchase of Twitch makes so much sense now: It’s all about the cloud
+46283,1,Google’s new cloud boss is doing something that no company exec has done for almost a decade
+46307,3,Yahoo wants $10 billion, and Microsoft could back the bidder
+46317,6,Uber is trying to recruit engineers by randomly sending a coding game to play during rides
+46356,2,Yahoo wants bidders to submit offers to buy the company in the next 2 weeks
+46396,14,Why Microsoft Office’s Clippy had to die, according to the exec who killed him
+46445,2,Microsoft CEO: The secret to a harmonious life is to stop obsessing over your smartphone
+46452,2,Investors are overlooking Apple’s next $50 billion business
+46461,1,Here’s where the big money will be made in virtual reality
+46520,1,I spent a month as a human version of Siri for a once hot startup — here’s how Facebook can avoid repeating history
+46544,1,Facebook is playing a dangerous game with Apple
+46554,2,The computer-security industry just suffered a hilarious disappointment
+46579,5,Here are 15 jobs at Microsoft that will pay you more than $170,000 a year
+46614,1,ALL ABOUT EARNINGS: Your complete preview of the week’s big economic events
+46629,1,Bill Gates: There’s a simple way the next president can create jobs
+46634,1,Facebook’s vision for the year 2026 is scary and awesome
+46644,1,This company secretly runs the internet, and now it’s raised another $8 million to rule everything else, too
+46667,8,A huge shift in the Android market is hurting Microsoft
+46669,7,A top investor nails why Microsoft is getting more respect in Silicon Valley these days
+46685,5,Bill Gates’ worst decisions as CEO, according to a longtime Microsoft exec
+46798,3,Theranos sent David Boies and a team of lawyers to The Wall Street Journal to try and stop its bombshell story
+46821,1,Google competitor DuckDuckGo made so much money last year, it’s giving away $225,000
+46846,2,Apple should definitely copy Microsoft’s incredible finger-sensing smartphone technology
+46891,1,Amazon Web Services just scored a big partner in $50 billion Salesforce
+46926,1,Here’s proof that Google is getting serious about battling Facebook in a key area
+46975,1,Why a Taiwanese company is paying $350 million to build Nokia dumbphones
+46989,9,Facebook and Google are destined to become Apple and Microsoft
+46991,3,Salesforce CEO Marc Benioff just made a bold prediction about the future of tech
+47009,2,Google’s legal war with Oracle could undermine a core pillar of the software industry
+47010,3,Salesforce CEO Marc Benioff responds to questions about a Microsoft takeover bid
+47024,1,What it’s like to be part of the ’rare breed’ of people still using Google Glass
+47051,5,Microsoft slashes nearly 2,000 jobs as its smartphone business crumbles
+47054,1,10 things you need to know before the opening bell
+47120,1,Stop telling people there’s a dot in your Gmail address — it doesn’t matter
+47125,7,Apple and Microsoft are still fighting an old war — while Amazon and Google fight a new one
+47153,2,Wall Street is bracing for a software M&A frenzy after Salesforce’s Demandware deal
+47171,1,This $2.8 billion startup serves breakfast at exactly 9:06 a.m. every day because of programmers’ bad habits
+47179,1,Here’s why people don’t use Siri regularly, even though 98% of iPhone users have tried it
+47252,1,Here’s more evidence that Snapchat is working on a secret hardware product
+47300,1,Someone just lost a ton of money on LinkedIn, and the SEC probably has questions
+47302,4,Microsoft’s $26 billion LinkedIn deal reaffirms a trend that’s shaking up the entire tech industry
+47305,12,With LinkedIn and the Xbox, all of Microsoft’s wildest dreams are coming true
+47362,1,Snapchat’s CEO wore the company’s secret-camera sunglasses in public — and nobody noticed
+47363,1,The world’s largest investor is trying to break down the wall between you and your money
+47428,2,This is the single most powerful tool in Excel — and these courses can help you master it
+47448,2,iCloud is finally getting better
+47534,9,LinkedIn shopped itself to at least 4 other companies before selling to Microsoft
+47536,1,Why this top Silicon Valley investor was ’disappointed’ that LinkedIn sold out to Microsoft
+47651,6,Microsoft employees took to an anonymous chat app to rejoice after their COO left
+47876,5,Microsoft just released an iPhone app it says takes better photos than Apple’s camera
+47910,1,There’s a bull case for Apple — but the company won’t tell you about it
+48044,1,Yahoo’s most important business stopped growing, and now the company admits it will shrink even more
+48062,1,I spent five minutes inside the quietest room in the world and almost lost my mind
+48109,1,Tim Cook just admitted Apple is working on a new computing platform
+48124,1,A giant hedge fund could be about to shake up Morgan Stanley
+48144,1,This private investor document perfectly shows why people are sick and tired of hedge funds
+48251,1,Google Cloud shut down this guy’s business — but now he’s a fan for life
+48284,3,Microsoft rejected this guy for not showing ’passion’ — so he built his own version of Pokémon Go from scratch
+48354,1,Apple is facing a crisis of salesmanship
+48393,9,Bill Gates talked Microsoft out of trying to buy $3.8 billion Slack — so now Microsoft is trying to kill it
+48513,1,Google Maps is the ’Swiss army knife’ of the company’s smart assistant future
+48514,1,Apple is loading up talent for its push into Google Glass territory
+48576,4,This is how Oracle lured top-flight programmers away from Amazon and Microsoft to build its next big thing
+48585,1,Larry Ellison just spent an hour trashing Amazon’s $10 billion cloud
+48593,3,Oracle has a Mark Zuckerberg problem
+48595,2,Amazon and Google are admitting that Microsoft may be right about one thing
+48635,1,Minecraft for iPhone and Android is about to get a lot better
+48637,1,Twitter needs to sell now or risk becoming another Yahoo
+48672,5,Microsoft will start talking about how much money its cloud business actually makes
+48689,1,The 2016 ranking of the 10 most innovative universities in the world
+48697,19,Microsoft to Salesforce: Game on
+48715,22,Microsoft is giving its top scientists a new opportunity to actually change the world
+48724,1,What you should know about the ending of a US contract some say amounts to ’giving away the internet’
+48726,16,Microsoft bought Minecraft for $2.5 billion to make sure it’s around for the next 100 years
+48751,1,Salesforce just bought another company for $700 million after spending $4 billion over the past year
+48754,3,Microsoft CEO Satya Nadella’s latest report card had only one bad grade
+48765,3,Google still isn’t a hardware company, and it’s not even playing on the same field as Apple
+48768,1,Google is going to win the next major battle in computing
+48849,11,Sony is playing a dangerous game to continue its dominance of Microsoft
+48943,2,Facebook’s project to take on Cisco inspires such ’cultlike’ devotion, it once caused a whole team to quit Apple
+48977,21,WHERE ARE THEY NOW? What happened to the people in Microsoft’s iconic 1978 company photo
+49007,21,For Microsoft Windows, it’s do or die
+49009,1,Google quietly made a major privacy policy change — and barely anyone noticed
+49029,4,9 tech trends that will make billions of dollars starting in 2017
+49052,1,To everyone calling Microsoft’s new computer an iMac: You’re wrong
+49063,2,For crying out loud, Apple, just build a touchscreen Mac already
+49141,26,Microsoft just brought back the Bill Gates era with its new plan to take down Slack
+49155,1,$3.8 billion Slack’s chief marketing officer quietly stepped down after less than two years
+49285,1,Apple is working on smart glasses
+49370,1,Microsoft’s CEO takes a shot at Tim Cook over the iPad Pro’s similarities to the Surface
+49486,2,$3.8 billion Slack just poached a high-ranking Dropbox exec as it faces a new threat from Microsoft
+49575,9,A famous part of MS DOS, the program that made Bill Gates, is finally being retired
+49664,1,Here’s who sat where during Trump’s big meeting with tech leaders
+49693,2,The next multi-billion dollar tech market was quietly born this year, says A-list VC Peter Levine
+49747,1,The 11 best laptops of 2016

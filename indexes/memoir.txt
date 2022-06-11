@@ -1,0 +1,363 @@
+50,1,President Xi’s Great Chinese Soccer Dream - The New York Times
+227,1,Clare Hollingworth, Reporter Who Broke News of World War II, Dies at 105 - The New York Times
+228,2,Publishers Encounter Political Storms in Turn to Right - The New York Times
+238,2,Review: ‘Nicotine,’ the Stuff of Burning Desire - The New York Times
+293,2,Review: ‘A Really Good Day,’ Ayelet Waldman’s Better Living Through LSD - The New York Times
+330,2,William Peter Blatty, Author of ‘The Exorcist,’ Dies at 89 - The New York Times
+340,1,Trump, Davos, Martin Luther King Jr.: Your Weekend Briefing - The New York Times
+357,3,Lie to Me: Fiction in the Post-Truth Era - The New York Times
+384,1,Obama’s Secret to Surviving the White House Years: Books - The New York Times
+520,1,Historian’s Latest Book on Mao Turns Acclaim in China to Censure - The New York Times
+568,1,A Chinese Nuclear Site, Hidden in a Mountain, Is Reborn as a Tourist Draw - The New York Times
+569,1,Harold Hayes, Survivor of Secret World War II Odyssey, Dies at 94 - The New York Times
+712,1,Emmett Till’s Murder: What Really Happened That Day in the Store? - The New York Times
+768,4,25 Great Books by Refugees in America - The New York Times
+865,1,France’s Obsession With Decline Is a Booming Industry - The New York Times
+868,1,In Fall of Gorsuch’s Mother, a Painful Lesson in Politicking - The New York Times
+897,1,‘S.N.L.’ Goes After Trump Again, With Melissa McCarthy as Sean Spicer - The New York Times
+963,1,How a Fractious Women’s Movement Came to Lead the Left - The New York Times
+1144,1,Kim Jong-nam, the Hunted Heir to a Dictator Who Met Death in Exile - The New York Times
+1208,2,Irwin Stambler, 92, Dies Reference Book Writer With Songs in His Heart - The New York Times
+1261,1,Milo Yiannopoulos’s Pedophilia Comments Cost Him CPAC Role and Book Deal - The New York Times
+1268,1,Richard Schickel, Movie Critic, Author and Filmmaker, Dies at 84 - The New York Times
+1339,1,Nikki Haskell Learns the Social Cost of Supporting Donald Trump - The New York Times
+1430,7,Obamas Make Book Deal With Penguin Random House - The New York Times
+1443,1,Losing a Fortune Often Comes Down to One Thing: Family - The New York Times
+1500,2,Kurt Andersen-Alec Baldwin Satire Is Part of a Trump Cottage Book Industry - The New York Times
+1514,2,Paula Fox, Novelist Who Chronicled Dislocation, Dies at 93 - The New York Times
+1536,1,Torn Ballet Shoes, and a Life Upended - The New York Times
+1590,1,Past, Present and Future Collide in Joan Didion’s ‘South and West’ - The New York Times
+1663,2,Howard Hodgkin, Whose Paintings Were Coded With Emotion, Dies at 84 - The New York Times
+1759,2,Amy Krouse Rosenthal, Children’s Author and Filmmaker, Dies at 51 - The New York Times
+1819,1,Poland Says Minnesota Man, 98, Ordered Nazi-Led Atrocities - The New York Times
+1821,1,The Magician Who Wants to Break Magic - The New York Times
+1883,2,Avoid, Sidestep, Retreat: Justices’ Advice on Confirmation Tactics - The New York Times
+1890,1,Jimmy Breslin, Legendary New York City Newspaper Columnist, Dies at 88 - The New York Times
+1908,1,Is Gascony the Most Delicious Corner of France? - The New York Times
+1919,2,David Rockefeller, Philanthropist and Head of Chase Manhattan, Dies at 101 - The New York Times
+1948,1,11 Great Reads That Have Nothing to Do With Politics - The New York Times
+2058,1,Fran Lebowitz: By the Book - The New York Times
+2060,6,Ariel Levy Has Written a Thoroughly Modern Memoir - The New York Times
+2088,1,At 91, Ella Brennan Still Feeds (and Leads) New Orleans - The New York Times
+2101,3,Roger Wilkins, Champion of Civil Rights, Dies at 85 - The New York Times
+2124,1,A Florida of Sun, Sky, Sea and Mind - The New York Times
+2163,3,Maajid Nawaz’s Radical Ambition - The New York Times
+2248,1,Bill O’Reilly Thrives at Fox News, Even as Harassment Settlements Add Up - The New York Times
+2253,2,Now Batting: 14 New Baseball Books - The New York Times
+2342,2,Alex Tizon, Journalist Who Wrote of Alienation as Asian-American, Dies at 57 - The New York Times
+2361,2,Cultural Revolution Shaped Xi Jinping, From Schoolboy to Survivor - The New York Times
+2431,1,For Obama, Syria Chemical Attack Shows Risk of ‘Deals With Dictators’ - The New York Times
+2453,1,2017 Pulitzer Prize Winners - The New York Times
+2476,1,The Latest Test for the White House? Pulling Off Its Easter Egg Roll - The New York Times
+2524,1,James Baldwin’s Archive, Long Hidden, Comes (Mostly) Into View - The New York Times
+2613,1,Melissa Gilbert Never Saw Congress in Her Future - The New York Times
+2708,1,Men Have Book Clubs, Too - The New York Times
+2718,1,Crossing the Line: How Donald Trump Behaved With Women in Private - The New York Times
+2787,1,Bill Herz, Last of ‘War of the Worlds’ Broadcast Crew, Dies at 99 - The New York Times
+2807,1,Paula Broadwell, David Petraeus and the Afterlife of a Scandal - The New York Times
+2816,1,Middle Eastern Writers Find Refuge in the Dystopian Novel - The New York Times
+2903,1,Hillary Clinton on Winning, and Why Her Mother Would Be Nervous - The New York Times
+3046,1,A ‘Honeymoon Tour’ of Laughs From Natasha Leggero and Moshe Kasher - The New York Times
+3054,1,‘My First Gay Bar’: Rachel Maddow, Andy Cohen and Others Share Their Coming-Out Stories - The New York Times
+3080,1,Review: For Muhammad Ali, an Endless Round of Books - The New York Times
+3123,1,Pat Summitt, Tennessee Basketball Coach Who Emboldened Women’s Sports, Dies at 64 - The New York Times
+3124,2,Buddy Ryan, Combative Defensive Genius in the N.F.L., Dies at 85 - The New York Times
+3173,1,Garrison Keillor Turns Out the Lights on Lake Wobegon - The New York Times
+3184,1,Nigel Farage, Who Spurred ‘Brexit,’ Resigns as Head of U.K. Independence Party - The New York Times
+3299,1,Was She a Feminist? The Complicated Legacy of Helen Gurley Brown. - The New York Times
+3389,1,Helicopter Money: Why Some Economists Are Talking About Dropping Money From the Sky - The New York Times
+3406,1,‘Harry Potter and the Cursed Child’ Goes From Stage to Page on Saturday at the Witching Hour - The New York Times
+3457,1,U.S. Presidential Race, Bitcoin, Moon Express: Your Wednesday Evening Briefing - The New York Times
+3564,1,Hillary Clinton and Tim Kaine Show New Tax Returns, Pressuring Donald Trump - The New York Times
+3652,1,Understanding the Trump Voter - The New York Times
+3653,1,Nine Great New Books for August - The New York Times
+3758,1,‘No Vacancies’ for Blacks: How Donald Trump Got His Start, and Was First Accused of Bias - The New York Times
+3762,1,Watching the Obamas’ First Date, and Feeling a Little Uncomfortable - The New York Times
+3772,2,Gene Wilder Dies at 83 Star of ‘Willy Wonka’ and ‘Young Frankenstein’ - The New York Times
+3880,3,After Her Son’s Death, Sally Mann Stages a Haunting Show - The New York Times
+4045,1,Syria, U.S. Presidential Race, Tulsa: Your Evening Briefing - The New York Times
+4048,2,Bruce Springsteen’s Memoir: Riding Shotgun With the Boss - The New York Times
+4093,4,9 New Books We Recommend This Week - The New York Times
+4225,1,Panti Bliss, Ireland’s Queen of Drag, Expands Her Kingdom - The New York Times
+4243,1,Early Book Praising Hitler May Have Been Written by Hitler - The New York Times
+4260,2,Ladies and Gentlemen, Mr. Broadway – Nathan Lane! - The New York Times
+4284,3,Questioning Gender Amid a Chaotic East Village Childhood - The New York Times
+4288,1,Donald Trump, Samsung, Yemen: Your Monday Evening Briefing - The New York Times
+4291,1,Premier League Stars Score the Goals. He Scores Everything Else. - The New York Times
+4316,1,Jack Greenberg, a Courthouse Pillar of the Civil Rights Movement, Dies at 91 - The New York Times
+4327,3,Bob Dylan the Writer: An Authentic American Voice - The New York Times
+4398,1,Megyn Kelly’s Pivotal Moment in a Post-Ailes Era at Fox News - The New York Times
+4570,1,In Michael Chabon’s ‘Moonglow,’ Deathbed Stories Illuminate an Era - The New York Times
+4593,3,Jean Kennedy Smith Remembers Growing Up Kennedy - The New York Times
+4646,1,Reince Priebus, Normalizer in Chief - The New York Times
+4712,4,100 Notable Books of 2016 - The New York Times
+4740,1,Fidel Castro’s Sister, an Outspoken Critic, Takes No Joy in His Death - The New York Times
+4773,1,California Today: A View of San Francisco’s Leaning Tower From Space - The New York Times
+4817,4,This Season’s Best Books on Hollywood - The New York Times
+4906,1,John Glenn, American Hero of the Space Age, Dies at 95 - The New York Times
+5057,1,‘Ethics in the Real World,’ Peter Singer’s Provocative Essays - The New York Times
+5081,3,Tragedy Made Steve Kerr See the World Beyond the Court - The New York Times
+5092,1,Trump, Promising Arms Race, Could Set World on Uncertain Path - The New York Times
+5133,2,Mobster’s Daughter, Writer, Murder Victim: Woman at Center of Durst Trial - The New York Times
+5143,1,Carrie Fisher, a Princess, a Rebel and a Brave Comic Voice - The New York Times
+5170,4,Carrie Fisher’s Fans Find Solace in Her Books - The New York Times
+5205,1,Kiki and Herb: Kitsch, With a Whisky Chaser - The New York Times
+5213,1,Tenants Thwarted Donald Trump’s Central Park Real Estate Ambitions - The New York Times
+5234,1,How Hillary Clinton Became a Hawk - The New York Times
+5235,1,In a Big Hole for a Detroit House, but Happy - The New York Times
+5266,1,Now, Dennis Hastert Seems an Architect of Dysfunction as Speaker - The New York Times
+5298,1,Everything Is Different on an Island - The New York Times
+5346,2,Edgar Feuchtwanger Bore Witness, Horribly Close to Hitler - The New York Times
+5385,1,Learning to Speak for the Dead - The New York Times
+5415,2,Pat Cleveland: Early Supermodel and Author With Many Tales - The New York Times
+5489,4,Who Will Tell the Story of Slavery? - The New York Times
+5593,1,Not Even Plácido Domingo Can Say No to ‘Mozart in the Jungle’ - The New York Times
+5656,2,Barbra Streisand Sets the Record Straight - The New York Times
+5699,1,Review: In ‘Hillbilly Elegy,’ a Tough Love Analysis of the Poor Who Back Trump - The New York Times
+5743,3,Phil Collins Is Very Much Alive - The New York Times
+5769,1,What You Should Watch: ‘The Profit’ and ‘Gomorrah’ - The New York Times
+5830,1,2 TV Shows, 4 Books and 7 Viral Videos for Your Long Weekend - The New York Times
+5843,1,‘I’ve Become a Racist’: Migrant Wave Unleashes Danish Tensions Over Identity - The New York Times
+5893,1,Harvey Weinstein Gets Oscar Boost After ‘Lion’ Screening - The New York Times
+5951,1,Charlotte, Yahoo, U.S. Presidential Race: Your Thursday Evening Briefing - The New York Times
+6059,1,Tiger Woods Postpones Return, Saying He’s ‘Not Ready to Compete’ - The New York Times
+6064,1,‘I’m the Last Thing Standing Between You and the Apocalypse’ - The New York Times
+6091,1,Anna Kendrick: Movie Star. Twitter Star. Ready for More. - The New York Times
+6166,2,6 Books to Help Understand Trump’s Win - The New York Times
+6295,1,How Stable Are Democracies? ‘Warning Signs Are Flashing Red’ - The New York Times
+6365,1,South Korea’s President Park Awaits Her Fate, Dejected, Sleepless and Alone - The New York Times
+6378,1,High on Hitler and Meth: Book Says Nazis Were Fueled by Drugs - The New York Times
+6453,4,Norm Macdonald’s Often Funny, Always Fabulist ‘Based on a True Story’ - The New York Times
+6481,1,Japanese Leader’s Pearl Harbor Visit, Called a First, Looks More Like a Fourth - The New York Times
+6494,1,Carrie Fisher Put Pen and Voice in Service of ‘Bipolar Pride’ - The New York Times
+6499,1,Did Debbie Reynolds Die of a Broken Heart? - The New York Times
+6520,1,2016 Pulitzer Prizes: A.P. Wins Public Service Award ‘Hamilton’ Is Honored - The New York Times
+6531,1,Prince’s Heels Elevated Him as a Style Icon - The New York Times
+6550,2,Prince’s Addiction and an Intervention Too Late - The New York Times
+6554,1,50 Years After the Cultural Revolution, a Son Awaits Answers on His Father’s Death - The New York Times
+6581,1,Why Christopher Kimball Is Moving On From America’s Test Kitchen - The New York Times
+6585,2,One Guantánamo Detainee Pleads for Release, but Another Does Not Appear - The New York Times
+6602,1,The Playboy Mansion Has a Buyer: A Twinkie King - The New York Times
+6670,1,Elie Wiesel Is Recalled at Funeral for a Legacy Beyond His Moral Voice - The New York Times
+6695,2,A Fraud? Jonah Lehrer Says His Remorse Is Real - The New York Times
+6756,2,From a Dacha Wall, a Clue to Raoul Wallenberg’s Cold War Fate - The New York Times
+6794,2,Zika, U.S. Presidential Race, Ryan Lochte: Your Friday Evening Briefing - The New York Times
+6891,1,What to Cook This Week - The New York Times
+6939,1,Sarah Jessica Parker and Ta-Nehisi Coates, on New Literary Paths - The New York Times
+7013,1,Where Even Nightmares Are Classified: Psychiatric Care at Guantánamo - The New York Times
+7069,1,‘Born a Crime,’ Trevor Noah’s Raw Account of Life Under Apartheid - The New York Times
+7089,1,From Michael Lewis, a Portrait of the Men Who Shaped ‘Moneyball’ - The New York Times
+7100,1,The Best Movies of 2016 - The New York Times
+7125,7,Times Critics’ Top Books of 2016 - The New York Times
+7134,2,Rose Evansky, a Pioneer in Women’s Hairstyling, Dies at 94 - The New York Times
+7169,2,Carrie Fisher, Child of Hollywood and ‘Star Wars’ Royalty, Dies at 60 - The New York Times
+7175,1,A Brother’s Crimes and a Sister’s Betrayal Make ‘Judas’ a Dutch Best Seller - The New York Times
+7314,1,‘I Don’t Know.’ But Does He? The Hidden Meaning of Trump’s Words - The New York Times
+7407,5,New Memoirs Show How the Other Half Lives - The New York Times
+7411,1,Bob Dylan Wins Nobel Prize, Redefining Boundaries of Literature - The New York Times
+7503,2,Dr. Henry J. Heimlich, Famous for Antichoking Technique, Dies at 96 - The New York Times
+7559,1,Words of Obama’s Father Still Waiting to Be Read by His Son - The New York Times
+7583,1,Garry Marshall, ‘Pretty Woman’ Director, Dies at 81 a TV and Film Comedy Mastermind - The New York Times
+7661,4,8 New Books We Recommend This Week - The New York Times
+7779,2,Debbie Reynolds and Carrie Fisher, a Mother-Daughter Act for the Ages - The New York Times
+7790,2,Elie Wiesel, Auschwitz Survivor and Nobel Peace Prize Winner, Dies at 87 - The New York Times
+8581,1,Exclusive: Pat Buchanan Calls Watergate Comparisons ’Grossly Invalid’ - Breitbart
+8877,2,Illustrious Catholic Scholar Michael Novak Dies at 83
+9618,1,John Bolton: Trump’s Only Mistake Was Not Firing Comey on January the 20th - Breitbart
+9641,3,Report: Caitlyn Jenner Feels ’Liberated’ after Sex Reassignment Surgery
+9642,1,Report: Megyn Kelly to Kick Off NBC Show with Kardashian Family Interview
+9758,1,Caitlyn Jenner Warns Trump: You ’Mess’ with LGBT Community, ’I’m Coming After You’
+9815,1,New York Toymaker to Sell 1st Transgender Doll Based on Transgender Teen - Breitbart
+10369,1,Megyn Kelly Spox: Fox News Exit ‘Still Being Negotiated’ - Breitbart
+10698,1,Today in History: Harry Truman Defies State Department, Recognizes Israel - Breitbart
+10711,1,Donald Trump Invites Conservative Media to White House for Exclusive Briefing - Breitbart
+11043,1,Good Friday: Obamas Join Winfrey, Springsteen, Hanks on David Geffen’s Yacht
+11154,1,Report: Hillary, 6 Aides Had Access to Classified State Dept Info After Leaving Office - Breitbart
+11210,2,Report: Caitlyn Jenner Plans Nude Photo Shoot after Gender Reassignment Surgery
+11217,1,Alec Baldwin Would ’Love’ to Run for Office: Nobody ’On Deck’ is Going to Beat Trump in 2020
+11300,1,Megyn Kelly Leaving Fox News for NBC
+11521,1,Elizabeth Banks Calls Out Steven Spielberg for Sexist Casting
+11974,1,Pinkerton: The U.S.-China Competition: Cyberspace and Outer Space
+12034,1,Gorka: Trump Fired FBI Director to Make a Statement After Comey’s Latest Testimony
+12840,1,Liberals Get a Pass: 4 Times the Media Ignored Leftists’ Comments About Pedophilia - Breitbart
+12960,1,Caitlyn Jenner ‘Destroyed’ by Trump’s Decision on Bathroom Privacy Rules - Breitbart
+12971,1,RABBI SHMULEY: Spicer’s Actions Redeem His Words on Assad - Breitbart
+13292,7,President Obama Could Get $20 Million For Book Deal
+13666,1,Bill Ayers ‘Dancing in the Aisles’ Over Obama’s Pardon of FALN Member Oscar López Rivera
+13713,1,Designer Accused of ’Fat-Shaming’ Amy Schumer over InStyle ’Beauty’ Magazine Cover
+13843,1,Virgil: Donald Trump, Rosie the Riveter, and the Revival of American Economic Nationalism
+14204,1,Bernie Sanders, the Senator Who Hates Rich People, Made More Than $1 Million Last Year
+14290,2,’Pro-black, Activist’ Rachel Dolezal: ’Race is a Social Construct’ - Breitbart
+14436,1,Peter Schweizer: Trump Appoints to Ex-Im Bank Disgraced Ex-Congressman Andrew Breitbart Called On to Resign
+14963,1,Alec Baldwin: ’Thoughtless Pig’ Voicemail to Daughter Gets ’Thrown’ in My Face Every Day
+15891,1,Meghan McCain Named Co-Host of Fox News Channel’s ’Outnumbered’
+16060,1,Hillary Clinton’s ’Stronger Together’ Book a Major Flop - Breitbart
+16076,1,EXCLUSIVE - Clinton’s Alleged Ex-Lover: Hillary a ‘Terrorist,’ ‘Sex Addict’ Bill Told Me He Had 2,000 Women - Breitbart
+16316,1,Flashback: Hillary Clinton Praises ’Friend and Mentor’ Robert Byrd (a KKK Recruiter) - Breitbart
+16473,1,Trump Attacks Hillary Clinton’s ’Brainpower’ for Failing to Pass D.C. Bar Exam - Breitbart
+16685,1,’Brady Bunch’ Matriarch Florence Henderson Dead at 82 - Breitbart
+16899,1,Original Birther Hillary Falsely Accuses Breitbart of Birtherism
+17059,1,Megyn Kelly Doesn’t Deny Report About Leaving Fox for CNN
+17507,1,Trump Ad Attacks Clintons on NAFTA, American Jobs Disappearing - Breitbart
+17678,1,[*BN*]The Nuclear Option[*]: No Cure in Sight for Elites’ Donald Trump Derangement Syndrome - Breitbart
+17873,1,Legendary College Basketball Coach Pat Summitt Passes Away - Breitbart
+17987,2,Megyn Kelly-Roger Ailes Film Set from ’Big Short’ Writer
+18139,1,Former Facebook Employee Compares Company Culture To A Religion - Breitbart
+18312,5,French Revolution: Kristol’s Candidate Longtime Romney Supporter Wife Worked on Campaign, Wrote Ann’s Memoirs - Breitbart
+18389,1,Slut Shaming: Zuckerberg’s Facebook Forces Women to ’Cover Up’ - Breitbart
+18554,3,8 Criminals, Abusers And Harassers Who Remain Verified On Twitter
+18657,1,Actress: HBO Anti-Clarence Thomas Film ’Not a Propaganda Movie’
+18850,1,Transgender Teen TV Star Thanks Obama for Forcing Schools to Allow Boys to Use Girls’ Bathrooms - Breitbart
+18873,2,John Bolton Agrees with Bernie Sanders: Hillary Clinton not Qualified to Be President - Breitbart
+20442,1,Breitbart News Daily: Terror on Bastille Day Pence and Cleveland - Breitbart
+20678,1,Lena Dunham Faces ’More Hostility’ from Bernie Supporters than Conservatives
+20805,1,Paris Hilton: I Voted for Donald Trump
+21702,1,Zumwalt: How The New York Times Used Fake News to Help Fidel Castro - Breitbart
+21760,1,McConnell: ’It’s Disrespectful’ of the GOP Electorate For Republicans to Not Back Trump - Breitbart
+21778,1,Elie Wiesel, Holocaust Survivor and Nobel Laureate, Dies at 87
+22452,1,Amy Schumer to Star in Live-Action Movie ‘Barbie’
+22834,1,Paul Krugman Is Nearly Always Wrong - Breitbart
+23293,1,Exclusive Excerpt — Stacey Dash: My Dinner with Bill Cosby - Breitbart
+23335,1,Megyn Kelly Fires Shots at NYT’s ’Settle for More’ Book Review - Breitbart
+23340,1,How Hillary Clinton Treated Bill Clinton’s Female Accusers
+23348,1,Breitbart News Daily: Battle for New Hampshire — Carly, Ed Klein, Ambassador John Bolton - Breitbart
+24100,1,Lena Dunham: ’100 Percent’ Chance I’m Moving to Canada if Trump Wins - Breitbart
+24174,1,Breitbart News Daily: On Wisconsin - Breitbart
+24347,2,Steve Bannon: I Warned Roger Ailes About Megyn Kelly
+24650,2,Wikileaks Dump: Clinton Takes Credit for Freeing Chinese Dissident Who Said U.S. ’Gave In’ to Beijing - Breitbart
+24724,1,Top Vatican Exorcist Who Said ‘ISIS Is Satan’ Dead at 91 - Breitbart
+24861,1,Burt Reynolds 10 Greatest Films - An 80th Birthday Tribute - Breitbart
+24872,1,Hillary’s World: How Clinton’s Foreign Policy Has Destabilized Nearly Every Corner of the Globe - Breitbart
+25189,1,***2016 LiveWire*** Trump Courts Evangelicals Clinton Addresses Abortion Activists - Breitbart
+25435,1,Mia Farrow Compares Bill Cosby to Woody Allen
+25925,1,Media ’Triggered’ By Donald Trump Using the Word ’Ghetto’
+25957,1,Candid Nails: Mets, Phils Great Lenny Dykstra Talks Trump, Palin, Tobacco, Strawberry, and More - Breitbart
+26011,1,Elie Wiesel’s Perfect Tribute: Hate Tweet from Clinton Associate
+26617,1,John Bolton: Hostile Foreign Governments Will Use Obama’s Internet Surrender to Their Advantage - Breitbart
+27224,1,Bernie Sanders Won’t Join Democratic Party, Calls on Trump to Cut Ties with Bannon - Breitbart
+28056,1,Blue State Blues: Hillary Clinton Can See Russia from Her House
+28235,1,The Hollywood Reporter: Inside the ’War Room’ as Breitbart CEO Claims ’Smear Campaign from Mainstream’
+28371,1,Blue State Blues: ’Truth Isn’t Mean. It’s Truth.’ - Breitbart
+28602,2,Source: Fox ’Sick’ of Megyn Kelly ’Fox...Needs to Cut Her Loose’
+28905,1,Tina Fey: Trump ’Can’t Muster the Dignity of a Seventh-Grader’
+29787,1,Roger Ailes vs. the Liberal Sharks — But Which One Could Be Deadly? - Breitbart
+30470,1,Marco Rubio Says Cops Racist Against Blacks &amp He, Too Has Felt ’Sting of Racism’ - Breitbart
+30738,3,NYT: Obamas Could Bag $45 Million Book Deals - Breitbart
+31127,1,Personal and Financial Scandal Follow Rubio into Tuesday Florida Vote - Breitbart
+31289,2,Report: Megyn Kelly Accuses Roger Ailes of Sexual Harassment
+31334,1,Tech Failure Ellen Pao To Write Memoir Blaming Everything On Sexism And Racism - Breitbart
+31448,1,The Manhattan Populist - Breitbart
+31495,3,Shallow Pre-College Reading Assignments Pave Way for Social Justice Agenda - Breitbart
+31688,1,Homicide charges dropped against ex-pro wrestler
+31940,1,Jimmy ’Superfly’ Snuka dies
+31952,1,Donald Trump, attack me on Twitter, please
+32333,1,CNN 10 - February 1, 2017
+32537,1,Ivanka Trump quietly settles into White House life
+32551,1,Joe Biden Fast Facts
+32655,1,Is racism why Adele beat Beyoncé at the Grammys?
+32920,1,’When We Rise’ chronicles gay-rights movement
+33093,1,Will Trump use ’rustic’ presidential getaway Camp David?
+33318,1,Author who wrote heartbreaking ’dating profile’ for her husband dies
+33398,1,Barack Obama is probably lying on a beach in a deserted paradise right now
+33884,1,Cosby’s children books targeted for censorship
+33945,1,Jared Kushner, Ivanka Trump hit the slopes again
+34005,1,Willie Nelson Fast Facts
+34171,1,Obama re-emerges in public after avoiding political spotlight
+34194,1,CIA Leak Fast Facts
+34196,1,Caitlyn Jenner doesn’t regret voting for Trump
+34265,1,Michelle Obama says she won’t run for office
+34317,2,Cleveland Kidnappings Fast Facts
+34319,1,Scott Carpenter Fast Facts
+34515,1,Madeleine Albright Fast Facts
+34618,1,Leonard Nimoy Fast Facts
+34736,1,This is what Obama told his friend about Donald Trump
+34746,1,How aliens in film have evolved
+34982,1,Music legend Gregg Allman dies at 69
+35370,1,Brian Wilson Fast Facts
+35525,1,Meet the former ultra-Orthodox rabbi now living as a woman
+35548,1,The secret negotiations behind the Hong Kong handover
+35917,1,Sonia Sotomayor channels liberal voice on Supreme Court
+35972,1,’Eat, Pray, Love’ author announces separation from husband
+35987,1,Elie Wiesel, Nobel laureate, dead at 87
+35990,1,Elie Wiesel Fast Facts
+36203,1,Navy: ’American Sniper’ medal count corrected
+36430,1,Day 2 of GOP convention speeches: CNN vets the claims
+36558,1,Bill Clinton Fast Facts
+36562,1,Hillary Clinton Fast Facts
+36647,1,Jim McGreevey Fast Facts
+36963,1,Cuba’s Fidel Castro survived assassination attempts, officials say
+36968,1,George Mitchell Fast Facts
+36988,1,New book gives insight into Trump fervor
+37266,1,A look at US presidents and their dogs
+37318,1,Could Trump turn the tide post-Labor Day?
+37325,1,Gilda Radner and Gene Wilder: A love story
+37376,1,’Star-Spangled Banner’ critics miss the point
+37625,1,Eric Robert Rudolph Fast Facts
+37639,1,Robert Blake Fast Facts
+37944,2,Clinton hunkers down for debate prep
+37959,1,The last Flying Tigers of World War II
+38005,1,Roger Moore Fast Facts
+38104,1,Norman Lear Fast Facts
+38238,1,Incredible story behind Jennifer Lawrence’s new role
+38638,2,John McCain Fast Facts
+38643,1,Marco Rubio Fast Facts
+38660,2,Team Trump, don’t repeat Nixon’s mistake
+38712,1,Bikers rescue stranded Bruce Springsteen
+38812,1,Comedian with cerebral palsy keeps a sense of humor
+38861,1,Herman Cain Fast Facts
+38862,2,Ben Bernanke Fast Facts
+38962,1,Dennis Rodman Fast Facts
+39005,1,Fidel Castro Fast Facts
+39035,1,Larry Bird Fast Facts
+39072,1,Carrie Fisher on her affair with Harrison Ford and her serious Coca-Cola habit
+39123,1,Keith Richards Fast Facts
+39282,1,John Glenn, famed astronaut, senator dies at 95
+39605,1,Carrie Fisher of ’Star Wars’ in stable condition
+39699,1,Carrie Fisher, ’Star Wars’’ Princess Leia, dies at 60
+39705,1,Carrie Fisher: Hollywood royalty, but a jester in her writing
+39723,1,Debbie Reynolds Fast Facts
+39757,1,How Debbie Reynolds fought for her life
+39928,1,Some military relatives review online life after threat
+40000,1,North Korean prison camp survivor changes story
+40013,2,Fighting death: At 75, nun’s soul still stirs for cause
+40018,2,Dismay and support for North Korean defector
+40034,1,Why ’American Sniper’ is a hit
+40036,1,Michael Moore explains snipers are ’cowards’ tweet
+40488,2,Leonard Nimoy, ’Star Trek’s’ Spock, dead at 83
+40578,1,Why women should celebrate not medicate their moods
+40702,1,War hero Dakota Meyer proposes to Bristol Palin
+40821,2,Playboy model Holly Madison: I thought about suicide
+41241,1,Hillary Clinton launches second presidential bid
+41543,1,Grace Lee Whitney, Yeoman Rand on ’Star Trek,’ dead at
+41683,1,Hillary Clinton and Bill Clinton earned over $30 million since 2014
+41685,1,Mitt Romney rumbles with Holyfield in boxing match
+41711,1,Bristol Palin’s wedding is called off
+41756,1,The general who apologized to the dead soldiers
+42060,2,The U.S. and Cuba: A Love Story
+42150,1,Hillary Clinton’s other Libya problem
+42182,1,7 shows that mattered in the ’70s
+42271,1,Clinton opens up about his relationship with Hillary
+42422,2,When your daughter has anorexia
+42528,1,Obama’s ’N’ word sparks debate
+42550,1,Dick Van Patten, ’Eight Is Enough’ father, dies
+42567,1,Kennedy family items to be auctioned
+42582,1,Bristol Palin: I’m pregnant
+42698,2,Diana Douglas Webster, mother of Michael Douglas, dies
+42742,1,Subway’s Jared Fogle, from inspiration to suspicion
+42903,1,Transgender and over 50
+43082,1,The 50 best movies of 2016, according to critics
+43664,1,Anthony Bourdain says he lives and works according to ’The No A--hole Rule’
+44594,1,A hacker has leaked 10 stolen episodes of ’Orange Is the New Black’ season 5 after Netflix allegedly refused to pay ransom
+44831,1,Megyn Kelly said an ’underground army of women’ at Fox News helped oust Roger Ailes for sexual harassment
+45999,1,Navy SEAL details the harrowing mission that earned him a Medal of Honor
+46102,1,’I’m a little frumpy:’ How Obama learned to dress like the president
+46907,1,This is why Clinton might lose the election to Trump
+47136,1,MITCH McCONNELL: I hope Bill Kristol is ’not successful’ in his efforts against Donald Trump
+47374,1,The former CEO of a $34 billion company says you should always do 2 things when starting a new job
+47642,1,8 powerful life lessons from 93-year-old Norman Lear, one of the most influential people in TV history
+48450,1,What it takes to achieve fame and fortune on YouTube
+49017,1,Anthony Bourdain: ’I work really hard to not ever think about my place in the world’
+49411,1,25 Wall Street movies to watch over Thanksgiving
+49433,1,Barack Obama could run for Congress in 2018 — and he might be the Democrats’ best hope
+49837,1,Ten American Foreign Policy Luminaries Who Died in 2016
+49984,1,The Enduring Mystery of Pain Measurement

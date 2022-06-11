@@ -1,0 +1,407 @@
+61,1,Donald Trump Nominates Wall Street Lawyer to Head S.E.C. - The New York Times
+188,1,Jared Kushner, a Trump In-Law and Adviser, Chases a Chinese Deal - The New York Times
+245,1,Trump’s Plans on Businesses May Fall Short - The New York Times
+390,1,Museum Trustee, a Trump Donor, Supports Groups That Deny Climate Change - The New York Times
+427,1,On Obama’s Pardon List: A Hotel Magnate Who Owned Studio 54 - The New York Times
+469,6,‘I’m Nobody’? Not a Chance, Emily Dickinson - The New York Times
+497,1,Quicken Loans, the New Mortgage Machine - The New York Times
+530,1,Foreign Payments to Trump Firms Violate Constitution, Suit Will Claim - The New York Times
+573,3,Oscar Nomination Puts Lin-Manuel Miranda One Step Closer to an EGOT - The New York Times
+620,1,Elon Musk Has Trump’s Ear, and Wall Street Takes Note - The New York Times
+813,2,What Snap’s I.P.O. Filing Reveals About the Company - The New York Times
+899,1,A Super Bowl Awash in Politics, on Social Media and Off the Field - The New York Times
+1030,1,Former A.I.G. Executives Reach Settlement in Accounting Fraud Case - The New York Times
+1079,3,‘The Walking Dead’ Is Back: 7 Questions for the Second Half Premiere - The New York Times
+1098,1,With 100th Straight Win, Connecticut Women’s Team Redefines Dominance - The New York Times
+1243,1,Kraft Heinz Withdraws $143 Billion Offer to Merge With Unilever - The New York Times
+1272,1,Afropunk: Feeling Black Activism’s Joy, and Its Pain - The New York Times
+1315,1,Bill Maher, Faulted for Booking Milo Yiannopoulos, Takes Credit for His Fall - The New York Times
+1395,2,One of Atlanta’s Last Stores on Wheels Navigates a World of Change - The New York Times
+1665,3,A.I.G.’s Chief Executive to Resign After Turnaround Setback - The New York Times
+1817,1,Bank of England Official Resigns After Critical Parliament Report - The New York Times
+1835,1,Fed Raises Interest Rates for Third Time Since Financial Crisis - The New York Times
+1919,1,David Rockefeller, Philanthropist and Head of Chase Manhattan, Dies at 101 - The New York Times
+1927,1,Gabby Williams Soars as UConn Rolls On in N.C.A.A. Tournament - The New York Times
+1982,1,‘Cork Dork’ Sniffs, Swills and Spits Through the World of Wine Experts - The New York Times
+2212,1,Firing of South Africa’s Finance Minister Widens a Political Rift - The New York Times
+2229,1,A Small Guard Upends UConn and ‘Breathes a Little Life’ Into Her Sport - The New York Times
+2250,3,A Hushed Departure at the Met Museum Reveals Entrenched Management Culture - The New York Times
+2334,1,A Coffee Empire Grows, as Panera Is Sold to JAB Holding Company - The New York Times
+2338,2,Long Days, Google Docs and Anonymous Surveys: How the U.S. Soccer Team Forged a Deal - The New York Times
+2369,1,Tesla Has Something Hotter Than Cars to Sell: Its Story - The New York Times
+2441,1,Sleep Is the New Status Symbol - The New York Times
+2617,1,In an Age of Privilege, Not Everyone Is in the Same Boat - The New York Times
+2836,1,Uber Turns to Saudi Arabia for $3.5 Billion Cash Infusion - The New York Times
+2866,1,Credit Suisse Boss Faces Revolt From Bankers Over Strategy Shift - The New York Times
+2960,1,Microsoft Buys LinkedIn for $26.2 Billion, Reasserting Its Muscle - The New York Times
+3090,1,Fractures From ‘Brexit’ Vote Spread Into Opposition Labour Party - The New York Times
+3138,7,Nearly All U.S. Banks Pass Fed’s Stress Test - The New York Times
+3294,4,Emmy Nominations 2016: Tracy Morgan on His Emotional Return to ‘Saturday Night Live’ - The New York Times
+3315,1,How Donald Trump Finally Settled on Mike Pence - The New York Times
+3380,1,Why Companies Have Started to Coach New Parents - The New York Times
+3478,1,Everyone Despises SolarCity Deal, Except Tesla Shareholders - The New York Times
+3582,4,Hope Solo Takes Aim at Sweden After U.S. Women Are Ousted - The New York Times
+3611,2,As Louisiana Floodwaters Recede, the Scope of Disaster Comes Into View - The New York Times
+3619,9,After Lawsuit, New Jersey Allows Driver to Get ‘8THEIST’ License Plate - The New York Times
+3626,1,When the Pilot Is a Mom: Accommodating New Motherhood at 30,000 Feet - The New York Times
+3663,1,Headed to Miami? Here’s What You Need to Know About Zika - The New York Times
+3664,1,Private Equity Pursues Profits in Keeping the Elderly at Home - The New York Times
+3786,1,Their Soil Toxic, 1,100 Indiana Residents Scramble to Find New Homes - The New York Times
+3805,2,A Silicon Valley Dream Collapses in Allegations of Fraud - The New York Times
+3843,1,Where Has Hillary Clinton Been? Ask the Ultrarich - The New York Times
+4008,1,At BlackRock, a Wall Street Rock Star’s $5 Trillion Comeback - The New York Times
+4176,3,A Curious Plan to Fight Climate Change: Buy Mines, Sell Coal - The New York Times
+4311,1,Donald Trump, Samsung, Chicago Cubs: Your Wednesday Evening Briefing - The New York Times
+4318,2,Snap Is Said to Pick Bankers for an I.P.O. - The New York Times
+4431,1,Want the ‘Real’ Brooklyn? Go Cheap - The New York Times
+4463,2,‘The Crown’ Episodes 1 and 2: Stiff Lips, Warm Heart - The New York Times
+4488,1,Environmentalists Target Bankers Behind Pipeline - The New York Times
+4712,1,100 Notable Books of 2016 - The New York Times
+4767,3,Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite - The New York Times
+4920,1,21st Century Fox Reaches Preliminary Deal to Buy Sky - The New York Times
+5163,1,The Memorable TV Episodes of 2016 - The New York Times
+5225,1,Long Primary Carries Costs for Hillary Clinton: Money and Time - The New York Times
+5309,1,Warren Buffett Stake Suggests Apple Is All Grown Up - The New York Times
+5320,4,Decades After ‘Boom-Boom Room’ Suit, Bias Persists for Women - The New York Times
+5324,1,Those With Multiple Tours of War Overseas Struggle at Home - The New York Times
+5364,1,Regulators Fear $1 Billion Coal Cleanup Bill - The New York Times
+5434,1,Brooklyn Residents Seek Answers After a Mentally Ill Ex-Convict Is Fatally Shot - The New York Times
+5615,1,Confessor. Feminist. Adult. What the Hell Happened to Howard Stern? - The New York Times
+5866,3,She Was No Bird: ‘Jane Eyre’ Manuscript on First Trip to America - The New York Times
+5922,2,A Sour Surprise for Public Pensions: Two Sets of Books - The New York Times
+6111,2,Where Are Women in F.B.I.’s Top Ranks? - The New York Times
+6180,1,10-Second Videos From Your Sunglasses. Thank Snapchat. - The New York Times
+6277,1,Can Oil Help Mexico Withstand Trump’s Attack on Trade? It’s Hard to See How - The New York Times
+6334,1,$25 Million in Breakthrough Prizes Given in Science and Math - The New York Times
+6445,1,With Comic Book, Celebrities Pay Tribute to Orlando Victims - The New York Times
+6609,1,Hedge Fund Managers Work to Stanch Loss of Investors - The New York Times
+6640,1,Some Early Signs of ‘Brexit’ Upheaval - The New York Times
+6817,2,The Electric, Infuriating Nick Kyrgios - The New York Times
+6957,2,At Wells Fargo, Complaints About Fraudulent Accounts Since 2005 - The New York Times
+6997,1,Grandmother’s Killing Lays Bare a Dilemma in Child Welfare Work - The New York Times
+7020,2,Ahead of Trump Presidency, Global Investors Sell Bonds and Grab Stocks - The New York Times
+7125,1,Times Critics’ Top Books of 2016 - The New York Times
+7146,1,In Shadow of Amazon, European Challenger Looks to China for Inspiration - The New York Times
+7157,1,Smaller Bathrooms on Planes Pose Challenges for Passengers - The New York Times
+7161,1,‘I Didn’t Want to Lose My Identity’: 16,000 Readers Reflect on Their Surnames - The New York Times
+7312,1,How Much Does Donald Trump Pay in Taxes? It Could Be Zero - The New York Times
+7445,1,Snapchat’s Parent Files for a Stock Offering - The New York Times
+7598,1,Airbnb for Business Travelers: More Wi-Fi, Fewer Hosts in Towels - The New York Times
+7787,1,Why Uber Keeps Raising Billions - The New York Times
+7868,1,Exclusive: Source Says Megyn Kelly ‘Would Not Be Welcomed Back’ at Fox News
+7987,1,PBS Islamic Lesson Plan Encourages Students to Identify with Radical Jihadists - Breitbart
+8276,1,Trump Unveils Ethics Policy to Avoid Conflicts of Interest
+8376,1,Jamie Dimon: I’ll Help Trump Because I’m a Patriot - Breitbart
+8438,1,Under Armour CEO Faces Strong Backlash After Calling Trump ‘A Real Asset to the Country’ - Breitbart
+8494,1,Sweden to Give Prison Guard Internships To New Migrants
+8522,1,San Francisco Chronicle Admits: Some Anti-Trump Protesters are Paid - Breitbart
+8564,1,’Liberal Answer to Breitbart News’ Loses CEO Before It Even Launches - Breitbart
+8584,1,Wall Street, Populists, Fight Over Rules for Americans’ Pension Plans - Breitbart
+8614,1,Sweden Blocks Request for Data on Crime and Immigration
+8900,1,Border Patrol Agents Assaulted by Increasingly Aggressive Illegal Immigrants
+8990,5,EXCLUSIVE - ’Separation of Church and State!’: Leftist Activists Disrupt Michigan Town Hall
+9331,1,71-Year-Old Cher Dons See-Through Top and Nipple Pasties at Billboard Awards
+9399,1,ACLU Telethon: Tina Fey Says Trump ’Gave Up’ Assaulting Women ’for Lent’
+9433,2,J.P. Morgan Chase Pulls Ads from NBC News over Megyn Kelly Interview with Alex Jones
+9591,1,Charles Koch Makes Massive Donation to Historically Black Colleges - Breitbart
+9662,1,Leftists Melt Down on Twitter over MILO Appearance on Bill Maher - Breitbart
+9787,4,Fake News from CNN: Legal Expert Says Schumer’s Attacks on Trump’s Pick to Head HHS ’Are Entirely About Politics’
+9839,1,Illegal Alien Support Group Forces Border Patrol to Get Warrants
+9938,1,WSJ: Trump Will Sign Executive Order to Roll Back Dodd-Frank - Breitbart
+9987,1,Blue State Blues: The Media Suddenly Discover Presidential Ethics
+10008,2,Maher: Trump ’Is Mentally Ill’ - Breitbart
+10059,2,Indian Software Mogul: Hire Americans Now Because Trump Opposes H-1B Outsourcing Visas - Breitbart
+10222,1,Kathy Griffin in Tears at Press Conference: ’Trump Broke Me’ (Video)
+10233,1,Report: NBC Holding ’Crisis Meetings’ Over Megyn Kelly-Alex Jones Interview
+10250,1,Snapchat Files $3 Billion IPO, But May Never Be Profitable
+10274,1,Hannity: ’What Has Been Happening to Me in the Last Week Is a Kill Shot’ - Breitbart
+10581,1,Swedish Police Chief Shut Down By Interior Minister After Call to Deport Terror Suspects
+10741,1,Elon Musk’s Tesla Stock Up $2 Billion Since Joining Trump’s Team
+10823,1,Watch: More Car Mayhem in ’Fate of the Furious’ Trailer - Breitbart
+10888,2,Vanity Fair: No, Gal Gadot Isn’t Making 46 Times Less Than Henry Cavill
+11062,1,’Women Only’ Screenings of ’Wonder Woman’ to Benefit Planned Parenthood
+11163,4,Amazon to Begin Accepting Food Stamps - Breitbart
+11402,1,Swedish Pensioner Prosecuted for ’Hate’ for Accusing Migrants of Arson
+11635,1,Supreme Court Begins First Sitting of Trump Presidency
+11722,3,Piers Morgan: Streep’s Speech Was ’Worst Performance’ of Career
+12042,1,7 Great Conservative Films Everyone Should Own
+12085,9,Chicago Review of Books Editor Says MILO’s Words Could Inspire Terrorism - Breitbart
+12397,2,’Prey’ Review: An Immersive Though Sometimes Repetitive Sci-Fi Shooter RPG Hybrid - Breitbart
+12471,1,Trump Tweets Support for L.L. Bean Against Leftist Boycott
+12670,1,Tennessee Prison Hosts Program to Help Inmates Become Better Fathers
+12809,1,Morgan Freeman: Trump a Winner, I Hope Will Be ’Good President’
+12902,1,Biden Implies Trump Legitimized ‘Hate Speech,’ Rails Against ‘Forces of Populism’ - Breitbart
+13049,1,Elon Musk Says He’ll Solve Australian Power Problem in 100 Days, or It’s Free - Breitbart
+13101,4,Watch: Trump Press Conference at Trump Tower - Breitbart
+13357,5,Food Stamps: $1.3 Billion Spent on Junk Food, Soft Drinks, Says Study - Breitbart
+13492,1,Immigration: Few Americans Left in Hollywood’s Paparazzi Business - Breitbart
+13576,7,VIDEO: Homeowner with Shotgun Lies in Wait for Intruders - Breitbart
+13606,1,‘Delusional’ Theresa May Slammed for Giving ‘Victory Speech’
+13624,1,Swedish Theatre: Play ’Humanising’ Terrorists Is ’Particularly Important’ after Stockholm Attack
+13679,1,Tina Fey Blasts White Female Trump Voters: ’You Can’t Look Away’
+13681,2,Assaults on Border Patrol Agents Up 103 Percent
+13732,1,Regis Philbin: Trump Doing ’Quite Well’ and Getting ’Things Done’
+14172,1,CNN Gives Dow Jones Industrial Average 20K Milestone Two Mentions - MSNBC 8, Fox News 14 - Breitbart
+14231,2,Democrat Civil War: ’Anybody Who Gives Money to [David Brock] Is Pissing Down a Rat Hole.’
+14280,1,L.A. Teachers Hype Pre-Inauguration Tweetstorm Against Trump
+14756,1,KASSAM: London Cops Arrest Dozens for ’Hate Crimes’ Since London Attack, But Mayor Says Police Can’t Afford to Track Jihadists
+15000,2,BREAKING: Cartel Gunmen Fire at Border Patrol Agent in Arizona
+15095,1,BREX PISTOL: Punk Legend Johnny Rotten Hails Brexit, Backs Trump
+15226,1,Federal Judge Who Blocked Trump Travel Ban Will Rule on Plaintiffs Request to Double Number of Refugees in FY 2017
+15253,1,Box Office: ’Cars 3’ Races Past ’Wonder Woman,’ Tupac Biopic Debuts Strong
+15381,2,Pepsi Pulls Kendall Jenner ’Protest’ Ad as Backlash Intensifies
+15615,1,WikiLeaks: Hillary Clinton Tried To Save Wall Street Speech After Campaign Launch - Breitbart
+15654,1,U.S. Soccer Strikes Back at Women’s Bias Charges, Says Men Generate More Money - Breitbart
+15667,1,**Horse Race LiveWire** Utah, Arizona Vote in Wake of Brussels Terror - Breitbart
+15998,4,Analysts: EU Referendum To Boost Populism Across Europe - Breitbart
+16004,1,Ted Cruz Booed as He Tells Republicans: ’Vote Your Conscience’
+16362,12,Piers Morgan: Male Reporter Would Be ’Laughing Stock’ if He Said Lewandowski Assaulted Him - Breitbart
+16860,1,Warren Buffett Loses $1.4 Billion as Wells Fargo Deals with Scandal
+17039,1,Actress Emily Ratajkowski: I’m Too Sexy to Land ‘Serious Roles’ - Breitbart
+18037,1,Pence to Overflow Virginia Crowd: ‘This Isn’t About Us…This Is a Movement of the American People’ - Breitbart
+18164,1,’Ben-Hur’ Producer Mark Burnett: Faith-Based Films Need ’Epic’ Feel to Attract Secular Audiences - Breitbart
+18175,1,Rupert Murdoch’s Open Borders Wall Street Journal Warns: ’Bad Sign’ Trump Is Following Jeff Sessions’ Lead - Breitbart
+18487,1,***Horse Race LiveWire*** 1 Day to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+18528,2,***Horse Race LiveWire*** GOP Candidates in Wisconsin for Town Hall Event - Breitbart
+18592,1,Local AZ TV Reporter Finds Mexican Cartel Scouts Over 100 Miles from Border
+19088,1,Hillary ’Really Proud’ of Clinton Foundation — but Hid It Completely from DNC - Breitbart
+19472,1,Sperry: Huma Abedin Worked at Radical Muslim Journal for Decade - Breitbart
+19492,1,NFL Great Dana Stubblefield Charged with Raping Disabled Woman - Breitbart
+19943,2,Cheap Gas Prices are Trickle-Down Tax Cut of $1500 - Breitbart
+20065,2,Exclusive — Egyptian Leaders Praise Donald Trump, Blast Hillary Clinton After President El-Sisi Meets with Both Candidates - Breitbart
+20333,3,NostraBeckus Returns! Glenn Predicts ’Absolute Bloodbath’ from Bannon Trump Campaign Pivots to Humility
+20386,1,Hillary Clinton Collects Hollywood Cash at Harvey Weinstein’s House - Breitbart
+20489,1,Gary Kaltbaum: Janet Yellen ’Just Doesn’t Have a Clue’ - Breitbart
+21026,1,Snapchat IPO Valued at Up to $40 Billion - Breitbart
+21259,1,Hollywood Hate: White Man Tells Stacey Dash She’s Not Black
+21372,2,’Eco Sexuals’ Boast of Masturbating Under Waterfalls and F**king Trees To Save The Planet
+21491,1,Liberals Rage on Twitter After Cruz Compliments Duck Commander Phil Robertson
+21525,2,Now You Can Change Gender on Your Passport Without Medical Evidence
+21551,1,CBS Head: Trump Candidacy a ’Good Thing’ for Ratings - Breitbart
+21589,1,***Horse Race LiveWire*** Rubio’s ’Firewall’ Nevada Tomorrow, Cruz Apologizes to Rubio - Breitbart
+22323,1,Trump Names National Security Advisory Team - Breitbart
+22391,11,Piers Morgan Faces Onslaught of Rage for Pointing Out Muhammad Ali’s Thoughts on Race - Breitbart
+22435,1,Box Office: ’Ben-Hur’ Bombs, ’Suicide Squad’ Stays on Top - Breitbart
+22471,1,Hollywood, Gun Control Groups Pushing Gun Laws via TV, Movies
+22635,1,Chicago: 51 Wounded, Seven Killed During Hot, Humid Weekend - Breitbart
+22747,2,CAIR Negotiating on Behalf of Muslim Workers Fired from Meat Plant Over Prayer Dispute Walkout - Breitbart
+22889,1,Prominent Business Leader Predicts ’Massive Economic Problems’ If Britain Remains In EU - Breitbart
+23284,1,Brexit: Britain Votes To Leave EU, PM Cameron Resigns - Breitbart
+23849,1,Ted Cruz Wins Over 100 New Faith Leader Endorsements in Florida and Missouri - Breitbart
+23911,1,Hugo Awards Swept by Anti-SJW Authors — Again!
+23945,3,REACTIONS: Donald Trump Debate ‘Shames Britain’, Even MPs Thought It Was ‘Waste Of Time’ - Breitbart
+24093,1,Lower-Income Whites and Blacks Unite In Fear As Crime Soars Under Barack Obama - Breitbart
+24336,1,Video: Hillary Clinton Leaves 9/11 Memorial Ceremony Early, Dragged into Van - Breitbart
+24474,1,Fox News’s Rupert Murdoch Endorsed Obamatrade - Breitbart
+25150,1,Trump: British Muslims Not Reporting Terror Suspects
+25204,1,Lower Oil Prices Push Texas Tax Revenues and Economy Lower
+25231,1,FBI Informant Helps Bust Massive Tennessee Meth Ring
+25367,1,Actor Morgan Freeman Stars in New Hillary Clinton Ad - Breitbart
+25475,1,Harvey Weinstein Mocks Sanders: ’We Won’t Get Fooled Again’
+25527,2,Border Patrol Chief: Assaults on Agents Have Increased 200% From Previous Year-to-Date - Breitbart
+25628,1,WATCH: ’Scandal’ Creator Shonda Rhimes Produces ’Intimate’ Hillary Biopic for DNC - Breitbart
+25759,2,Morgan Freeman Narrates New Ad for Hillary Clinton
+25833,1,Morgan Wright: Hackers Have Emails from Hillary Clinton’s Server
+26401,1,Texas GOP Consultant Calls for Targeting of Breitbart Advertisers
+26408,1,’Officers Down’: Cops Shot in Baton Rouge - Breitbart
+26474,1,Hillary Campaign Budget Strategist Was Vice President at Goldman Sachs - Breitbart
+26645,1,Universities Hide Workforce of 100,000-plus H-1B Employees
+26673,1,Morgan Freeman: Hillary Clinton Will Stand For ’Racial Justice’ - Breitbart
+27029,2,Oscar-Nominee Charlotte Rampling: Oscar Boycott ’Racist to Whites’
+27291,1,Baltimore Rapper Shot to Death After Hosting ’Pray for Peace’ Charity Basketball Game - Breitbart
+27404,1,**Live Wire** California GOP Convention Chaos: Protesters Block Donald Trump’s Motorcade - Breitbart
+27512,1,She’s With Us: Christina Aguilera, John Legend, Stevie Wonder Lend Voices to Hillary Clinton Fundraiser - Breitbart
+27527,1,A Nation Gathers to Honor 5 Slain Dallas-Area Police Officers
+28299,1,Obama Cronies Cash in on Puerto Rico Bailout - Breitbart
+28303,1,Brexit: The Nationalist-Populist Rebellions Continue  - Breitbart
+28310,1,Here Are 37 Companies That Directly Fund Planned Parenthood - Breitbart
+28318,1,Obama Commutes 61 More Drug Offenders Sentences — More Than Previous Six Presidents Combined - Breitbart
+28600,1,Five U.S. Women’s Soccer Teammates File Discrimination Suit Against U.S. Soccer - Breitbart
+28722,3,Hillary Clinton Phones In Sympathies to Louisiana Flood Victims
+28815,1,Zimbabwe: Thousands Storm Capital Demanding Robert Mugabe Resign
+29110,2,Assaults on Border Patrol Agents Up 230 Percent
+29692,1,Actor Denis O’Hare: ’Coming Out As a Hillary Supporter’ in Hollywood is Harder Than Coming Out As Gay - Breitbart
+30085,1,Hillary Clinton: I’m Putting Bill Back In Charge If I’m Elected - Breitbart
+30210,3,Tracy Morgan Cancels Mississippi Show to Protest Religious Liberty Law - Breitbart
+30214,1,***Horse Race LiveWire*** Trump: ’We’re Going to Take Our Country Back from Those People’ - Breitbart
+30409,1,Spike Lee Endorses Bernie Sanders in Radio Ad - Breitbart
+30440,2,***Dem. Convention LiveWire*** Party Disunity Highlighted on Day One - Breitbart
+30694,1,Pau Gasol: ’Zika Is a Much Bigger and More Serious Threat Than We Think’ - Breitbart
+30721,1,FANG Tech Stocks Crash on Trump ’Trust-Buster’ Risk - Breitbart
+30885,1,**Horse Race LiveWire** All Eyes on Ted Cruz - Breitbart
+31090,1,T.J. Miller Mocks Donald Trump During 2016 Critics’ Choice Awards - Breitbart
+31120,2,Curry Industry Calls On Voters To Back Brexit To Save Thousands Of Restaurants
+31399,1,Bank Of America Bans Use Of Word ’Brexit’, Reverses Decision To Donate To Remain Campaign
+31493,1,George Clooney Joins #OscarsSoWhite Movement
+31706,3,Talladega College band will perform at inauguration, school president says
+31813,2,Obama’s final report card: Did he live up to his promise?
+32175,1,Nor’easter hits Northeast with winds, flooding
+32441,1,Back to reality: Obamas settle into DC life
+32633,2,’Walking Dead’ enters political coalition-building phase
+33431,1,The airline electronics ban is already causing confusion and frustration
+33689,2,’The Walking Dead’ sets stage for war in tense season finale
+34052,3,The Paris Agreement is bigger than Trump
+34152,2,American Airlines investigates after video shows mom in tears
+34572,1,CNN 10 - May 11, 2017
+34655,1,Nelson Mandela Fast Facts
+34717,1,Report: Dylann Roof told expert he was a sociopath, not autistic
+34942,3,Morgan Freeman Fast Facts
+35119,1,US School Violence Fast Facts
+35222,1,Trump is making Theresa May’s life miserable
+35982,1,West Virginia floods devastate 1,200 homes, many lives
+36156,1,Clinton supporters reject settlements proposal
+36279,1,Donald Trump selects Mike Pence as VP
+36470,1,Famous ’Shawshank’ oak falls
+36474,1,’The Walking Dead’: Season 7 sneak peek
+36526,2,Debbie Wasserman Schultz’s controversial tenure
+36603,1,Dem convention speeches Day 4: CNN’s Reality Check Team vets the claims
+36694,3,Texas hot air balloon victims: Who were they?
+36938,1,Hacker releases cell phone numbers, personal emails of House Democrats
+36957,1,’Historic’ flooding batters Louisiana
+37069,1,Trump, Pence tour flood damage in Baton Rouge
+37076,1,’Ben-Hur’ remake stumbles across the finish line
+37223,2,Charlie Sheen Fast Facts
+37545,1,Photos show nuclear facilities in disrepair
+37639,2,Robert Blake Fast Facts
+37640,1,Alexis Arquette dies at 47: Actress and transgender activist
+37675,1,NY attorney general is investigating Trump Foundation practices
+37879,1,Madame Tussauds splits Brangelina waxworks up
+38125,1,Seychelles: US sisters died of excess fluid in lungs
+38154,3,Los Angeles police investigating fatal shooting by officer
+38277,1,’The Walking Dead’ Season 7 clip hints at Negan’s victim
+38517,2,’The Crown’: A first look at the connection between Queen Elizabeth and Churchill
+38628,1,LGBT Rights Milestones Fast Facts
+39119,1,Weiner hit with fines by campaign board
+39441,1,2016 In Review Fast Facts
+39444,1,Screen Actors Guild Fast Facts
+39502,4,GOP’s illegal power grab in North Carolina
+39503,1,Can Trump’s Cabinet makeover work?
+39609,1,Santa Claus FC: Christmas’ very own football club
+39784,4,Ohio transgender teen’s mom: ’He was an amazing boy’
+40133,1,Fighters escort 2 passenger planes after bomb threats
+40302,2,Zoo lessons: Four animal facts only zookeepers know
+40397,3,Bobbi Kristina Brown case: What we know and don’t know
+40447,16,Alex Morgan: Body confident and ready to play
+40452,1,’It’s My Party’ singer Lesley Gore dead at 68
+40677,1,5 ways to help save the bees
+40798,2,Does National Park Service have a youth problem?
+41002,1,The real March Madness: When will women’s teams get equal buzz?
+41033,1,The new women’s movement: Reviving the ERA fight
+41083,1,’Furious 7’ has huge debut at the box office
+41135,1,Sneak peek in Hillary Clinton 2016: No I in campaign
+41267,1,North Carolina college employee shot dead
+41433,1,5 Georgia Southern students die in car crash
+41487,1,Climate change: 7 questions on 2 degrees (Opinion)
+41502,1,Perry, Cruz get warm receptions in South Carolina
+41643,1,CNN Hero gets food that would be wasted to the needy
+41683,1,Hillary Clinton and Bill Clinton earned over $30 million since 2014
+41774,1,Climate change: ’Two degrees’ may decide the future
+41783,1,The iconic movie I never saw
+41943,1,The bacteria battle waged in your gut
+42007,2,Spaceports and sky farms: Is this Britain in 2100?
+42020,3,Texas biker shootout: Suspect sues city, cops
+42716,2,Opinion: Women’s World Cup final: Let’s do this!
+42751,1,We can’t ignore climate change skeptics (Opinion)
+42897,1,George Coe, ’SNL’ original castmember, dies at 86
+42913,1,The Seventies: The sex freakout
+43109,1,These tech startups are IPO candidates to watch in 2017
+43234,1,Morgan Stanley just named 140 new managing directors
+43281,16,The money management business could reach ’a turning point’ in 2017
+43299,1,Morgan Stanley has pulled off a Wall Street magic trick
+43361,1,At a private lunch in Davos, Jamie Dimon was asked about the elephant in the room
+43401,2,It’s already fairly obvious where Trump’s infrastructure push will turn into a dog fight
+43403,2,The startup that was supposed to be the first tech IPO of 2017 pulled a shady move on some of its own bankers
+43447,1,How to make your résumé stand out, according to a Harvard student who received internship offers from Microsoft and Goldman Sachs
+43516,5,How Imran Khan swapped Wall Street for a huge role at Snapchat and earned $150 million in 2 years
+43549,1,It’s too early to start thinking of Tesla as more than just a car company
+43598,1,The Trump Administration doesn’t appear to be slowing investment in the marijuana industry
+43668,1,IT’S OFFICIAL: Canada Goose files for an IPO
+43691,3,This is the future of financial advice
+43789,1,Snap’s IPO is oversubscribed by $7 billion
+43961,1,Prescriptions for painkillers brought about the explosion in heroin use in America’s suburbs
+44012,1,Tesla just said it’s raising more than $1 billion ahead of the Model 3 launch
+44044,1,There is a huge hole in Trump’s promise to bring back US manufacturing jobs
+44057,3,A new breed of trader is threatening the Wall Street establishment
+44227,1,Robots and automation are going white collar — but they’re not here to steal your job just yet
+44234,1,How UConn blew their 111-game winning streak and a shot at another championship in 30 seconds
+44266,24,Morgan Stanley made an error analyzing Snapchat, and it shines a light on some big flaws in Wall Street research
+44331,2, The retail apocalypse is crushing a corner of Wall Street and triggering a downward spiral
+44411,2,Almost anyone can get a car loan now — and that’s not a good thing for the country
+44501,1,An elite university is offering a fast-track program for tech leaders that’s more competitive than Stanford
+44593,9,ESPN’s 100-person round of layoffs was brutal, but the network isn’t doomed
+44804,1,Tesla’s business model could be in trouble
+44871,3,A ’paradigm shift’ is taking place in financial technology
+44902,1,The chain hailed by Wall Street as a ’retail treasure’ runs the most disastrous store we’ve ever seen
+45007,1,TRUMP WITHDRAWING FROM PARIS CLIMATE AGREEMENT
+45008,1,An alliance of the nation’s biggest states could short-circuit Trump’s vow to leave the Paris Agreement
+45158,2,The tech stock ’fairy tale’ is heading for a bad ending
+45238,1,Early reviews praise Megyn Kelly’s controversial interview with far-right provocateur Alex Jones
+45417,1,GoPro cuts jobs and warns its sales are a disaster
+45420,1,Goldman Sachs is reportedly cutting 10% of its giant fixed-income division
+45431,1,Morgan Stanley just announced bonuses ― and fixed-income traders are not happy
+45468,2,This unique business model is taking over retail — and customers are saying they hate it
+45509,1,Goldman Sachs is swimming against the tide
+45555,2,Wall Street got the China oil story wrong, and it will make everything that’s happening now much worse
+45556,2,Morgan Stanley just announced 156 new managing directors
+45661,1,Apple could soon ditch Amazon Web Services after it’s expected to spend roughly $1 billion on it, says analyst
+45668,3,CBS and NBC are almost guaranteed to lose money on the NFL’s new ’Thursday Night Football’ package
+45687,1,GoPro posts wider-than-expected loss: Guidance for Q1 revenues miss, shares tank 20%
+45737,2,JPMORGAN: US recession risk is growing
+45769,1,The head of trading at Morgan Stanley just confirmed Wall Street’s worst fear
+45771,4,Here’s why Morgan Stanley’s trading head decided to cut 25% of his fixed-income staff last year
+45979,1,Bank of America is preparing big layoffs in investment banking and trading
+46224,1,Google just scored a huge win against Amazon by landing Apple as a customer
+46433,1,There are signs of life emerging from the world’s economic ’canary in the coal mine’
+46531,1,Morgan Stanley signaled a huge red flag for Under Armour
+46546,3,La Niña could have a massive impact on one of the world’s strongest economies
+46612,2,Morgan Stanley’s top stock strategist blows up everyone who thinks they’re just so smart
+46614,1,ALL ABOUT EARNINGS: Your complete preview of the week’s big economic events
+46648,5,Everyone is making the same mistake about the future of transportation
+46709,1,Cleveland’s police union released a bizarre statement on the $6 million settlement paid out for the police shooting of a 12-year-old boy
+46739,1,Banks could lose young talent because millennials are unhappy with their bonuses
+46947,1,Customer disdain for this ’innovative and disruptive’ business model is only growing
+47025,3,One of the biggest coups in sports apparel boosted Under Armor’s sales by 350%
+47040,2,The market as we know it is ’crumbling’
+47218,1,Warren Buffett is loading up on this oil company
+47294,1,We just got another example of the frenzy that’s sweeping the tech industry
+47406,1,Elon Musk just kicked his shareholders in the teeth
+47419,1,EU REFERENDUM LIVE: MASSIVE FLOODS DISRUPT VOTING AND CAUSE TRAVEL CHAOS
+47472,1,Britain is getting exactly what it voted for — economic and political destruction
+47502,4,Vodafone is threatening to move UK jobs to the EU, and Goldman says banking jobs could go
+47540,1,The world’s economic ’canary in the coal mine’ faces a growing threat
+47585,1,A tiny Wall Street firm is getting a huge payday on a big Hollywood deal
+47597,1,The big banks are ’baking in’ a rate cut
+47600,1,Barclays’ investment bank staff tell us why they are not freaking out about the Brexit vote
+47730,1,I just checked out Tesla Autopilot — there’s no way it can drive a car by itself
+47773,1,Goldman Sachs beats on Q2 earnings
+47786,6,Morgan Stanley is winning a Wall Street grudge match
+47789,2,MORGAN STANLEY CEO ON BREXIT: We’ll have to open a new European headquarters
+47838,1,Victoria’s Secret is ignoring a massive shift in the lingerie industry, and it could be costing it tons of money
+47954,1,Morgan Stanley addressed its interns’ most pressing career questions, and every young employee can learn from the answers
+48078,1,Hope Solo rips Swedish women’s soccer team for playing like ’cowards’ and says the best team didn’t win
+48124,6,A giant hedge fund could be about to shake up Morgan Stanley
+48144,1,This private investor document perfectly shows why people are sick and tired of hedge funds
+48241,12,’You’re at war’: I went inside the new TSA Academy, where officers learn to detect bombs, spot weapons, and find out why failure isn’t an option
+48312,3,The Brazilian billionaire who bought Heinz and Burger King could soon be able to strike a $100 billion deal
+48388,12,Meet the brother-and-sister team behind one of the first cannabis-focused hedge funds
+48448,2,Companies you’ve never heard of are making a killing off high drug prices
+48469,2,Watch out Wall Streeters: Your jobs are moving to Mumbai
+48609,1,What happened to transparency for investors?
+48683,1,Here are all the police killings since just the beginning of September
+48805,2,Wikileaks releases what appear to be transcripts of Hillary Clinton’s private speeches
+48874,1,Uber and Lyft are demolishing New York City taxi drivers
+48903,1,A TSA agent shares the weirdest things he’s experienced on the job
+48973,1,Trivago is planning to go public by Thanksgiving
+49048,1,LivingSocial was once worth $6 billion — now its main competitor is buying it for a ’non-material’ amount
+49070,3,How a hedge fund legend took time out, busked on the New York subway, and found himself in the process
+49084,1,EINHORN SLAMS TESLA: ’Years of over-promising and under-delivering from a promotional CEO’
+49383,1,A Nobel prize winning economist nails why Trump supporters reject the thing that will help them most
+49440,4,Here’s Morgan Stanley’s top FX trades for 2017
+49500,1,A hot new hedge fund just had a monster month
+49563,2,Elizabeth Warren is backing a hot investing startup that’s taking on Wall Street
+49600,4,Morgan Stanley just gave its senior leadership bigger roles
+49609,1,Tesla is about to crush a test that will silence the skeptics
+49743,1,Trump could easily make the same early mistake Obama made, and that puts a big promise at risk
+49835,1,The Atlantic Daily: Actions and Reactions
+49837,1,Ten American Foreign Policy Luminaries Who Died in 2016
+49889,1,The Growing Urban-Rural Divide Around the World

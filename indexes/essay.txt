@@ -1,0 +1,375 @@
+37,1,Inside Jonathan Lethem’s Oddball Trove - The New York Times
+56,1,For a Mother With Big Dreams, Two Forbidden Words: ‘I Can’t’ - The New York Times
+156,6,In Election Hacking, Julian Assange’s Years-Old Vision Becomes Reality - The New York Times
+215,2,Sentenced to Death: A Look at Dylann Roof’s Rampage and Its Aftermath - The New York Times
+270,1,Neanderthals Were People, Too - The New York Times
+293,2,Review: ‘A Really Good Day,’ Ayelet Waldman’s Better Living Through LSD - The New York Times
+357,1,Lie to Me: Fiction in the Post-Truth Era - The New York Times
+362,1,Celebration of Martin Luther King Jr. Still Faces Pushback - The New York Times
+476,1,A Rediscovered Mark Twain Fairy Tale Is Coming Soon - The New York Times
+523,1,Is This Los Angeles’s $600 Million Man? - The New York Times
+580,2,‘The Only Way We Can Fight Back Is to Excel’ - The New York Times
+639,1,Drama as Protest: ‘Our Complacency Is Dangerous’ - The New York Times
+746,1,In Judge Neil Gorsuch, an Echo of Scalia in Philosophy and Style - The New York Times
+768,2,25 Great Books by Refugees in America - The New York Times
+826,2,Review: ‘I Am Not Your Negro’ Will Make You Rethink Race - The New York Times
+996,1,Mother Jones Is Named Magazine of the Year - The New York Times
+1068,1,World’s Diplomats, Seeking a Bridge to Trump, Look to Haley - The New York Times
+1069,1,Stephen Miller Is a ‘True Believer’ Behind Core Trump Policies - The New York Times
+1085,1,Justin Trudeau, Lahore, Adele: Your Morning Briefing - The New York Times
+1143,2,Israel, Kim Jong-un, Andrew Puzder: Your Evening Briefing - The New York Times
+1210,1,Letter of Recommendation: Presidential Biographies - The New York Times
+1239,1,‘Last Night in Sweden’? Trump’s Remark Baffles a Nation - The New York Times
+1242,1,Iraq Starts Offensive to Retake Western Mosul From ISIS - The New York Times
+1277,2,Clashes in Stockholm Suburb Draw Attention to Trump’s Remarks - The New York Times
+1292,1,Sick of Politics? Try These Great Reads - The New York Times
+1326,1,California Today: On Catalina, the Drought Is Far From Over - The New York Times
+1385,1,Feyisa Lilesa, Marathoner in Exile, Finds Refuge in Arizona - The New York Times
+1578,1,Activists Rush to Save Government Science Data — If They Can Find It - The New York Times
+1590,2,Past, Present and Future Collide in Joan Didion’s ‘South and West’ - The New York Times
+1596,1,China, C.I.A., International Women’s Day: Your Morning Briefing - The New York Times
+1632,6,Talking Trumpism: A New Political Journal Enters the Fray - The New York Times
+1650,1,Republican Party, C.I.A., Syria: Your Thursday Evening Briefing - The New York Times
+1651,1,South Korea, Syria, C.I.A.: Your Morning Briefing - The New York Times
+1683,1,Michael Flynn Was Paid to Represent Turkey’s Interests During Trump Campaign - The New York Times
+1692,2,Robert James Waller, Author of ‘The Bridges of Madison County,’ Dies at 77 - The New York Times
+1855,1,Derek Walcott, Poet and Nobel Laureate of the Caribbean, Dies at 87 - The New York Times
+1883,2,Avoid, Sidestep, Retreat: Justices’ Advice on Confirmation Tactics - The New York Times
+1909,1,Debunking a Myth: The Irish Were Not Slaves, Too - The New York Times
+1923,7,Robert Silvers, a Founding Editor of New York Review of Books, Dies at 87 - The New York Times
+1937,1,Seven Highlights From the Gorsuch Confirmation Hearings - The New York Times
+2058,1,Fran Lebowitz: By the Book - The New York Times
+2060,4,Ariel Levy Has Written a Thoroughly Modern Memoir - The New York Times
+2124,9,A Florida of Sun, Sky, Sea and Mind - The New York Times
+2230,1,North Carolina’s Dominance Fails to Cover Cheating’s Stain - The New York Times
+2232,1,Yevgeny Yevtushenko, Poet Who Stirred a Generation of Soviets, Dies at 83 - The New York Times
+2266,1,Maoists for Trump? In China, Fans Admire His Nationalist Views - The New York Times
+2419,1,17 Great Stories That Have Nothing to Do With Politics - The New York Times
+2422,1,Independence Days: My Perfect Imperfect Gap Year - The New York Times
+2436,1,In the Shadow of a Fairy Tale - The New York Times
+2452,1,Pulitzer Prizes: New York Times Wins 3 Daily News and ProPublica Share Public Service Award - The New York Times
+2470,1,United Airlines, Sean Spicer: Your Tuesday Evening Briefing - The New York Times
+2478,4,I Thought I Understood the American Right. Trump Proved Me Wrong. - The New York Times
+2480,1,Fandor: A Streaming Rabbit Hole Worth Falling Down - The New York Times
+2494,1,Syria, Ahmadinejad, United Airlines: Your Morning Briefing - The New York Times
+2524,2,James Baldwin’s Archive, Long Hidden, Comes (Mostly) Into View - The New York Times
+2550,1,G.O.P. Chief Discourages Rule Changes That Seem to Block Donald Trump - The New York Times
+2605,1,Your Friday Evening Briefing: Prince, Donald Trump, Game of Thrones - The New York Times
+2658,1,With Iraq Mired in Turmoil, Some Call for Partitioning the Country - The New York Times
+2770,1,Morley Safer, Mainstay of ‘60 Minutes,’ Is Dead at 84 - The New York Times
+2833,2,Travel: Philip Marsden’s ‘Rising Ground’ and More - The New York Times
+2841,2,Donald Trump’s Secret Weapon: Letters of Love, Flattery and Revenge - The New York Times
+3080,2,Review: For Muhammad Ali, an Endless Round of Books - The New York Times
+3101,1,Bill Cunningham, Legendary Times Fashion Photographer, Dies at 87 - The New York Times
+3112,1,Your Monday Evening Briefing: Brexit, Abortion, ‘Game of Thrones’ - The New York Times
+3211,1,Hillary Clinton, Donald Trump, NATO: Your Thursday Evening Briefing - The New York Times
+3278,1,For Whites Sensing Decline, Donald Trump Unleashes Words of Resistance - The New York Times
+3306,1,Mike Pence: A Conservative Proudly Out of Sync With His Times - The New York Times
+3333,1,In Istanbul, Optimism Fades to a Familiar Melancholy - The New York Times
+3347,1,Too Many Deer on the Road? Let Cougars Return, Study Says - The New York Times
+3350,1,Behind Melania Trump’s Cribbed Lines, an Ex-Ballerina Who Loved Writing - The New York Times
+3352,1,For Donald Trump’s Big Speech, an Added Pressure: No Echoes - The New York Times
+3404,2,In Tribute to Son, Khizr Khan Offered Citizenship Lesson at Convention - The New York Times
+3433,1,Are Final Clubs Too Exclusive for Harvard? - The New York Times
+3473,1,Olympic Spirit in Brazil? They Stoned the Torch Relay - The New York Times
+3499,2,Why Self-Help Guru James Altucher Only Owns 15 Things - The New York Times
+3545,2,Off to College? Maybe These Devices Should Go Along - The New York Times
+3560,2,Snapchat Finds Itself on the Wrong Side of a Racial Lens. Again. - The New York Times
+3653,1,Nine Great New Books for August - The New York Times
+3665,1,Milwaukee’s Divide Runs Right Through Me - The New York Times
+3803,1,Marc Riboud, Photojournalist Who Found Grace in the Turbulent, Dies at 93 - The New York Times
+3815,1,Mike Birbiglia’s 6 Tips for Making It Small in Hollywood. Or Anywhere. - The New York Times
+3957,3,The Word a Headline Didn’t Need - The New York Times
+4001,2,U.S. Presidential Race, Syria, William Bratton: Your Friday Evening Briefing - The New York Times
+4035,1,New York City, U.S. Presidential Race, Syria: Your Evening Briefing - The New York Times
+4080,1,Email Hack Details Movements of Joe Biden, Michelle Obama and Hillary Clinton - The New York Times
+4093,1,9 New Books We Recommend This Week - The New York Times
+4154,1,How Donald Trump Set Off a Civil War Within the Right-Wing Media - The New York Times
+4187,1,Who Is the Real Elena Ferrante? Italian Journalist Reveals His Answer - The New York Times
+4201,1,A Rabbi’s Enduring Sermon on Living Your Last Five Minutes - The New York Times
+4268,1,‘Obviously, Marital Vows Mean Nothing to Him’ - The New York Times
+4309,1,What’s Really Behind Trump’s Obsession With Clinton’s ‘Stamina’? - The New York Times
+4344,1,The Fear of Having a Son - The New York Times
+4375,1,Trump, Mosul, Republican Party: Your Monday Evening Briefing - The New York Times
+4384,1,To the First Lady, With Love - The New York Times
+4389,1,A New Era of Internet Attacks Powered by Everyday Devices - The New York Times
+4484,1,Prince Harry Denounces Media Coverage of His Girlfriend, Meghan Markle - The New York Times
+4499,2,How a Word, ‘Chee-na,’ Renewed a Crisis Between Beijing and Hong Kong - The New York Times
+4675,1,Lauren Graham’s Taste of Tokyo - The New York Times
+4712,1,100 Notable Books of 2016 - The New York Times
+4912,1,An Alt-Right Makeover Shrouds the Swastikas - The New York Times
+4947,1,Afrofuturism: The Next Generation - The New York Times
+4949,1,Spy Agency Consensus Grows That Russia Hacked D.N.C. - The New York Times
+5044,1,Donald Trump, Aleppo, Russia: Your Monday Evening Briefing - The New York Times
+5057,3,‘Ethics in the Real World,’ Peter Singer’s Provocative Essays - The New York Times
+5059,1,Berlin, Russia, Donald Trump: Your Wednesday Evening Briefing - The New York Times
+5081,1,Tragedy Made Steve Kerr See the World Beyond the Court - The New York Times
+5111,1,Celebrating a Rugged Vision of Landscape Architecture - The New York Times
+5211,1,The Poet Idolized by a New Generation of Feminists - The New York Times
+5220,1,In Los Angeles, Ditching the Car for an Eco-Friendly Trip - The New York Times
+5332,1,Your Tuesday Evening Briefing: Donald Trump, Golden State Warriors, Hillary Clinton - The New York Times
+5339,1,Reviled by Many Russians, Mikhail Gorbachev Still Has Lots to Say - The New York Times
+5429,3,Cecile Richards, Barbara Bush and the Sisterhood of Political Progeny - The New York Times
+5471,1,Bill Cunningham Looked for Subjects. And They Looked for Him. - The New York Times
+5530,1,Marie Kondo and the Ruthless War on Stuff - The New York Times
+5636,1,Obama to Leave the White House a Nerdier Place Than He Found It - The New York Times
+5661,5,Obama Writes Feminist Essay in Glamour - The New York Times
+5756,1,Frank Ocean Ends His Long Silence With a Variety of Works - The New York Times
+5778,2,Italy, Hillary Clinton, Donald Trump: Your Thursday Evening Briefing - The New York Times
+5852,1,Riding the Rails to the Summer of Love - The New York Times
+5889,1,‘Mischling,’ a Holocaust Tale of Twin Sisters in Mengele’s Grip - The New York Times
+5901,2,Alicia Keys and the ‘Tyranny of Makeup’ - The New York Times
+5939,2,Angelina Jolie to Divorce Brad Pitt, Ending ‘Brangelina’ - The New York Times
+6063,1,Donald Trump Berates Paul Ryan and ‘Disloyal’ Republicans - The New York Times
+6069,1,Can the U.S. Really Get Astronauts to Mars by 2030? - The New York Times
+6072,2,Generation Adderall - The New York Times
+6084,3,Klimt’s Women, Real and on Canvas - The New York Times
+6091,2,Anna Kendrick: Movie Star. Twitter Star. Ready for More. - The New York Times
+6190,1,Syrian Rebels Brace for a Trump Cutoff, and Look for a Silver Lining - The New York Times
+6227,1,‘This Election Changed My Mind About America’ - The New York Times
+6250,3,How Conservative Sites Turn Celebrity Despair on Its Head - The New York Times
+6272,2,Hillary Clinton’s Team to Join Wisconsin Recount Pushed by Jill Stein - The New York Times
+6407,1,The Great A.I. Awakening - The New York Times
+6467,1,Review: ‘If Our Bodies Could Talk,’ Our Spleens Probably Wouldn’t Be Funny - The New York Times
+6544,1,Daniel J. Berrigan, Defiant Priest Who Preached Pacifism, Dies at 94 - The New York Times
+6652,1,Economic Fears Rising, Britain Hopes to Stay in E.U. Market - The New York Times
+6705,1,Object Lessons: The New Museum Explores Why We Keep Things - The New York Times
+6823,1,Gene Wilder, Huma Abedin, Donald Trump: Your Monday Evening Briefing - The New York Times
+6836,3,Tom Wolfe’s ‘The Kingdom of Speech’ Takes Aim at Darwin and Chomsky - The New York Times
+6939,1,Sarah Jessica Parker and Ta-Nehisi Coates, on New Literary Paths - The New York Times
+6971,1,Righting Wrongs and Generating Attention for Art of the African Diaspora - The New York Times
+7125,2,Times Critics’ Top Books of 2016 - The New York Times
+7189,1,Earning the ‘Woke’ Badge - The New York Times
+7343,2,Spokesman’s Death Will Have Islamic State Turning to Its ‘Deep Bench’ - The New York Times
+7386,1,Social Media Got You Down? Be More Like Beyoncé - The New York Times
+7405,1,To Wear Makeup or Not to Wear Makeup? - The New York Times
+7426,1,Life Beyond Bars: One Man’s Journey From Prison to College - The New York Times
+7549,1,Muhammad Ali Dies at 74: Titan of Boxing and the 20th Century - The New York Times
+7567,2,Ten Famous People on What to Read This Summer - The New York Times
+7616,2,Renée Zellweger Is Back and Standing Up for Herself - The New York Times
+7680,1,Aleppo, Donald Trump, Chennai: Your Tuesday Briefing - The New York Times
+7771,1,The Modern Love Podcast: Taissa Farmiga Reads ‘Friends Without Benefits’ - The New York Times
+7790,1,Elie Wiesel, Auschwitz Survivor and Nobel Peace Prize Winner, Dies at 87 - The New York Times
+8034,1,Fake News! Newsweek Continues War on Steve Bannon by Inventing Russia ‘Ties’
+8067,1,Ted Cruz Cleaned Sally Yates’s Clock. Here’s Why. - Breitbart
+8080,1,Virgil: Making America Great Again—Or Not: The Establishment Targets Trump’s Top Strategist
+8121,2,British High Court Forces Uber Drivers to Take English Tests - Breitbart
+8173,2,Chelsea Handler to Lead Anti-Trump ’Women’s March’ at Sundance
+8390,2,Obama: ‘We Cannot Deny the Legacy of Racism’ in Justice System - Breitbart
+8457,1,Asra Nomani: Alt-Left Is Waging ‘Propaganda War’ and ‘Cyber Jihad’ to Claim America
+8714,2,Alyssa Milano: Up to Women to Remove Trump from Office
+9057,1,Breitbart Exposed White House Visitor Logs as a Transparency Con - Breitbart
+9348,1,Christian Leader Sees ‘Spiritual Battle’ Over Trump Presidency
+9454,1,’Hunger Games’ Star: Gender Can Be ’Whatever You Want It to Be’
+10048,1,Delingpole: Dilbert Disses Global Warming Liberal Heads Explode
+10246,1,Elizabeth Warren: The Left’s Progressive Political Flip-Flopper - Breitbart
+10299,1,Katy Perry, Cher Join Anti-Trump Women’s March on Washington
+10984,1,Stanford Accepts Muslim Teenager Who Wrote ’BlackLivesMatter’ 100 Times On Application - Breitbart
+11259,1,CNN Contributor Blames Breitbart, White House for London Attack - Breitbart
+11334,1,Rabbi Complains of Pope Francis’ ‘Daily’ Use of Anti-Jewish Rhetoric
+11564,2,Florida Student Loses Credit for Using Word ’Man’ in History Essay - Breitbart
+12314,1,7 Virtue-Signaling Celebrities Silent on Massacre of Coptic Christians - Breitbart
+12376,1,American Pastors’ Prez: Jihadists Practice ’What the Qur’an Says’
+12636,2,FBI: Major Cities Hit by 21.6 Percent Spike in Murders - Breitbart
+12695,2,PHOTOS: Latin America Condemns Venezuela’s ’Excessive Use of Force’ Against Protests - Breitbart
+12978,1,Pope Francis Donates Politically-Incorrect Fossil Fuel to Heat Ukraine Homes
+13000,1,President Trump’s Father’s Day Proclamation: Dads Have Responsibility to ‘Instill in Us Core Values’
+13007,1,Fr. Paul Scalia: Our Spiritual Yearning Has Turned to Secular Politics and the Economy
+13679,2,Tina Fey Blasts White Female Trump Voters: ’You Can’t Look Away’
+14100,3,Dying Author Writes Death Bed Essay Encouraging Women to Date Her Husband After She Dies
+14842,1,Delingpole: Only Gullible Fools Believe that the Great Barrier Reef Is Dying - Breitbart
+15453,1,Suggestion Pope Benedict XVI Resigned Under Obama ‘Pressure’
+15827,1,Citing ‘Differences,’ Paul Ryan Endorses Donald Trump For President - Breitbart
+15931,6,Oxford University Special Snowflakes: These Essays Are Killing Us
+16091,1,Gaming Journos Throw Temper Tantrum over ’Minecraft’ Creator Notch Arguing with Feminists - Breitbart
+16141,1,#NeverHillary, In One Easy Lesson - Breitbart
+16372,4,Aziz Ansari Tells Trump to ’Go F*ck Himself’ With Essay Blasting Candidate’s ’Hate-Filled Rhetoric’ - Breitbart
+16611,2,Student: School Summons Police, Psychologists, After Seeing his Anti-Gun Control Essay - Breitbart
+16712,1,Mark Levin on the Constitutional Convention: The Framers Would Have Never Voted for ‘the Government as It Exists Today’ - Breitbart
+16878,1,Actor Jason Lee Confirms Exit from Scientology
+16955,1,Why Western Civilization Has Lost Its Self-Confidence - Breitbart
+17037,1,Mark Ruffalo Under Fire for Casting Cisgender Actor in Transgender Drama - Breitbart
+17401,1,Trolls Will Save The World - Breitbart
+17471,2,Now Race Warriors Decry ‘White Jesus’
+17594,2,SEXUAL TERRORISM: All the Perfumes of Eurabia Won’t Sweeten the Sharia Stench of Cologne - Breitbart
+17768,2,The Craziest Writings Of Social Justice Warrior Academics
+17868,1,Italy Deports Jihadist Suspected of Plotting Attack on Leaning Tower of Pisa
+17968,2,’The Holocaust Is Justified’: What Syrian Refugees Learn in School - Breitbart
+18020,1,Soros-Linked Think Tank Says Border Control Causing Hate Crimes
+18269,1,Blue State Blues: 10 Things That Journalists Did Wrong in 2016
+18401,2,Actress Courteney Cox: ’I Regret’ Getting Plastic Surgery - Breitbart
+18454,2,How Governments Force Silicon Valley To Censor You Online - Breitbart
+18666,2,Common Core A Part of Leftist Centralized Education Plan, Says Heritage Foundation Report - Breitbart
+19051,3,Bill Maher: Liberals Protested Apartheid in One Country, Ignore Sharia in 40 Countries
+19274,1,FULL TEXT: Milo’s Annie Taylor Award Acceptance Speech At David Horowitz’s Restoration Weekend - Breitbart
+19514,1,Activist Who Served on George Soros-Financed Boards Behind Scheme to Take Trump’s Electoral College Votes
+19686,1,Graphic Video: Baylor Football Player Abusing His Dog
+19913,1,Woman Card: Lady Gaga Posts American Flag Bikini Pic to Support First Female US President - Breitbart
+19915,3,Geraldo Rivera ’Filled with Regret’ for Defending Roger Ailes
+20139,1,If Georgetown Conservatives Are ’Traumatized’ by Criticism of Scalia, They Should Grow Up - Breitbart
+20200,1,Obama-Era Suicide Rate in U.S. Highest in 30 Years
+20263,1,Baby Got Backup: Sir Mix-a-Lot Defends Blake Lively After Booty Photo Racism Flap - Breitbart
+20343,2,Vatican Newspaper Eulogizes Pop Icon Prince
+20394,1,Bowdoin Students in Therapy After ’Culturally Appropriating’ Tequila Party - Breitbart
+20758,1,Programming Conference Rejects SJW Demands To Ban Speaker Over Political Views - Breitbart
+20940,2,Episcopal Priest: LGBTQ People Will ‘Revitalize Christianity’
+21070,1,Deepak Chopra: Donald Trump Is ‘Emotionally Retarded, Maybe Mentally Retarded’ - Breitbart
+21125,1,Pope Francis to Canonize Hillary Clinton Nemesis Mother Teresa - Breitbart
+21561,1,Why the Left Hates Mother Teresa of Calcutta
+21608,1,MILO Receives Annie Taylor Award For Courage At David Horowitz’s Restoration Weekend - Breitbart
+21956,1,HuffPo: Conservative Catholics Like Donald Trump Despite Pope’s Opposition
+22223,2,***Horse Race LiveWire*** Nevada Votes: Trump Beats Rubio, Cruz Combined - Breitbart
+22837,1,Mya Taylor Becomes First Transgender Winner at Spirit Awards - Breitbart
+23316,4,Sad Lena Dunham: White Women with ’Violent Privilege’ Voted Trump
+23448,3,Toni Morrison: White Voters ’Eagerly Embraced’ Trump Out of Fear of a ’Collapse of White Privilege’
+23595,1,MLK Day: The Enduring Power of the Declaration and American Ideas - Breitbart
+23675,2,Catholic Scholar Attacked for Catholic Views at Catholic College - Breitbart
+23765,1,Oscar-Winning Director Almodóvar: ’Diabolical Sexism’ in Hollywood, But Nobody to Blame - Breitbart
+23807,1,Social Justice Warrior Knives Out For Startup Guru Paul Graham
+24422,1,MILO: Black Lives Matter Is ’The Last Socially Acceptable Hate Group’ - Breitbart
+24986,3,WikiLeaks: Clinton Campaign Discards Shootings That Do Not Further Gun Control Agenda
+25063,1,Hollywood Quits Anti-Sharia Boycott, All-In for NC Trans Boycott
+25174,4,Camille Paglia Rips Madonna: ’Humiliating, Embarrassing’ Decline
+25354,1,AP: Evangelicals ‘Paranoid’ to Fear Liberal Attacks on Religion
+25388,1,Janet Napolitano Attacks ’Free Speech Darwinism’
+25547,1,Obama Writes For Glamour: All Men Should Be Feminists - Breitbart
+25598,1,Black Lives Matter Wants to Push Socialist Sanders Even Farther Left - Breitbart
+25999,1,Lena Dunham: I’d ’Kill Myself’ If ’I Woke Up And I Was a Man’ - Breitbart
+26270,1,FULL TEXT: MILO on ’Master Baiters: The Leftists Keeping America’s Race War Alive’ - Breitbart
+26280,1,Bill Maher: Democrats Could Lose to Trump for Refusing to Say ’Islamic Terrorism’
+26471,1,Ann Coulter: ‘In Trump We Trust’ Celebrates ‘Rebellion of the People Against All of Washington’
+26940,1,We Could Have Seen Europe’s Muslim Rape Crisis Coming - Breitbart
+26987,1,***Horse Race LiveWire*** One Day to Super Tuesday - Breitbart
+27041,1,Seahawks Lineman Says American Dream Greatest Lie Ever Told - Breitbart
+27150,1,Barbra Streisand Blasts ’Outright Sexism’ in Media’s Coverage of Hillary Clinton - Breitbart
+27386,1,Lena Dunham: I’ll ’Survive’ and ’Fight’ in Trump’s America
+27436,2,Christian-Basher Jennifer Lawrence: ’It’s Not Smart, Businesswise, to Be Opinionated’ But I Don’t Care
+27481,3,Newsweek Gets Anne Frank’s Step-sister to Describe Trump as a New Hitler
+27497,1,The Top 13 Reasons For Staying In The EU... Debunked
+27691,1,Italy Sets High-Security Perimeter Around Colosseum After Jihadist Threat
+28090,2,Breitbart Tech Editor Milo Yiannopoulos Launches College Scholarship for White Men - Breitbart
+28206,4,Schoolgirl Murdered By Latvian Opposed ’Racist’ Migration Limits
+28241,2,The Left’s Bloody War on Women: Sending Chicks into Combat Betrays Men, Women and Civilization - Breitbart
+28579,1,***Horse Race LiveWire*** Summer Bummer: GOP Fight Drags on to Convention - Breitbart
+28627,1,9 Scapegoats Progressives Blame for Hillary Clinton’s Stunning Loss - Breitbart
+28714,1,For the Ladies: Books That Won’t Make You Feel Like a Victim – Or Hate Men - Breitbart
+28759,3,Professor: Islamophobia Accelerates Global Warming
+28766,2,Bill Maher Compares Dem Primary to Low-Class Airline Meal: Settle for Hillary ’Chicken’
+28831,1,The New Playboy and the End of Adulthood
+28913,4,Jennifer Lawrence Doesn’t Get What’s ’So Scary’ About Feminism: ’It Just Means Equality’ - Breitbart
+29064,1,WATCH: Short Film ’Praesidium’ Highlights Danger Of Gun-Free Zones - Breitbart
+29243,3,David Byrne: Guns a ’Public Health Hazard,’ Should Be Regulated Like Cigarettes And ’Sugary Drinks’ - Breitbart
+29252,1,Kellogg Foundation Supported Racially Divisive Open Borders Group
+29373,1,Clinton Campaign Supports Call for Electors To Be Briefed On ’Foreign Intervention’ Claims
+29519,1,Trump’s Mission: Make America Great Again
+29564,1,Cosmo: Global Warming Causing Shark Attacks! - Breitbart
+29572,2,Barbra Streisand Says She Will Move to Australia If Trump Becomes President - Breitbart
+29635,1,NYT Op-Ed: Conservatives Are ‘Doing the Islamists’ Bidding’
+29649,1,Ben Stiller Reveals Battle with Prostate Cancer
+29777,1,Why Conservatives Will Always Lose The War On Climate Change
+29820,1,Bernie Sanders: Bill Clinton’s Affair with Monica Was ’Disgraceful’ - Breitbart
+29934,1,’Miss America’: GOP Bigwig Alex Castellanos Claims House Speaker ’What Delegates Really Want’ - Breitbart
+30412,2,20 Most Epic Celebrity Trump Meltdowns of 2016
+30483,1,Michael Moore: ’Donald Trump Is Gonna Get Us Killed’
+30639,1,Clash: eBay Founder Omidyar Backs Gawker as Thiel Backs Hogan
+30668,1,Muslims Stage Massive Protest, Chanting ‘Allahu Akbar’ Outside Rome’s Colosseum
+30745,1,Actress Patricia Clarkson: White Male Actors Should ’Shut Up and Sit in the Corner’ - Breitbart
+30981,1,Napalm Girl Ban: Mark Zuckerberg Declares SJW War On Norway - Breitbart
+31135,1,Susan Sarandon Slams ’Xenophobic’ Americans for Being Concerned About Syrian Refugees
+31181,1,In New Cardinal Picks, Pope Francis Sidelines Conservatives, Promotes Progressives - Breitbart
+31197,1,Ariana Rowlands On The Milo Show: Why Sanders Fans Backed The College Republicans - Breitbart
+31279,1,Soros: European Union In Mortal Danger
+31393,1,If You Don’t Want To Get nuked Don’t Bomb Pearl Harbor
+31415,1,Ben Shapiro Explains Why He’ll ’Never’ Vote for Trump - Breitbart
+31493,2,George Clooney Joins #OscarsSoWhite Movement
+31508,1,Pamela Geller: In the Year Since the First Islamic State Attack on American Soil, These Muslims Confirmed ’the War Has Just Begun’ - Breitbart
+31546,1,Orlando Terrorist Supported Hillary Clinton to Stop Donald Trump
+31852,1,They may not forgive Dylann Roof, but they don’t want him dead
+31970,1,Obama’s ’arc’ on race relations
+32024,2,Alexander Hamilton’s letters sell for $2.6 million at auction
+32052,1,25 years later, 3 women reunite for Washington march
+32437,1,The Bishop Eddie Long I knew
+32607,6,White privilege essay contest gets Smerconish thinking
+32830,1,How Uber got the message
+33142,2,Under Trump, America no longer represents the world
+33318,2,Author who wrote heartbreaking ’dating profile’ for her husband dies
+33528,1,A huge sigh of relief on health care
+33835,1,Barack Obama’s evolution in 10 years of hip-hop lyrics
+34246,1,Arkansas puts hold on execution as US Supreme Court reviews case
+34452,1,The woman who broke the Kentucky Derby’s glass ceiling
+34984,1,Trump, feted and chided abroad, returns to uncertainty
+35734,1,The absurd beauty of Australian hot rods
+36279,1,Donald Trump selects Mike Pence as VP
+36282,1,Will Asian-Americans get behind Black Lives Matter?
+36581,1,How to turn a used car into an $80,000 ride
+36624,1,The Democrats’ Republican moment
+36760,1,Renee Zellweger denies plastic surgery rumors
+36789,3,Fighters work to break siege in southern Aleppo
+37044,2,Alaskan village votes to relocate over global warming
+37395,1,’I had no idea I was witnessing the work of a saint’
+37751,2,’My decision and my right’ -- teen has sat out Pledge of Allegiance for years
+38400,1,Remembering Mosul ahead of battle with ISIS
+38463,1,’Safari’: Ulrich Seidl goes into the dark world of trophy hunting
+38673,1,A guide on how to get your Congress member’s attention
+38823,1,This is what ’whitelash’ looks like
+39005,2,Fidel Castro Fast Facts
+39055,2,Could you pass China’s grueling, 5-hour civil service exam?
+39134,1,Inside the mind of ’Mad Dog’ Mattis
+39207,1,And the winner of Turner Prize 2016 is...
+39210,1,CNN’s Donald Trump Supreme Court nominee shortlist
+39339,1,Reporting on the election as a Muslim woman
+39780,2,Mike Rowe discusses Ferguson, Garner and police protest
+39844,1,Front-row fanatics at Rock in Rio
+39851,1,The new threat: ’Racism without racists’
+39855,1,Who were victims in Charlie Hebdo, other Paris attacks?
+39897,1,The American who inspires terror from Paris to the U.S.
+39973,1,Faces, places in North Philadelphia
+39998,1,To finish MLK’s work, face up to racism (Opinion)
+40244,2,Portraits show affection for Portland area
+40428,4,Oliver Sacks says he has incurable cancer
+40558,6,Female exec to working moms: ’I’m sorry’
+40781,1,The Kurdish women fighting ISIS
+40979,1,Angelina Jolie appears at Nickelodeon award show
+41371,1,College admissions: Where you go doesn’t seal your fate
+41495,1,Baltimore violence and the lack of black men in the city
+41514,1,Brazil’s Young Miss pageants an escape from poverty
+41678,2,The mystery of the Tsarnaev brothers (Opinion)
+41773,1,Why was I spared from Amtrak train 188’s crash?
+41803,1,Plus-size modeling and race: When ’diversity’ isn’t
+42284,1,The real issue for #distractinglysexy female scientists
+42325,2,How passing the plate becomes a ’Sunday morning stickup’
+42505,1,Obama spends Father’s Day on the golf course
+42683,1,The Ultimate Back to the Future Quiz
+42782,1,One battle the Confederate flag is still winning
+42800,1,Why Jim Carrey is wrong about vaccination (Opinion)
+43058,1,’The Seventies’: Feminism makes waves
+43388,1,At one end of Trump’s revived Keystone XL pipeline, there’s a scene you must see to believe
+43419,1,I traveled to the middle of the desert to see ’The Door To Hell’ — Turkmenistan’s crater of fire
+43870,1,Experts previously on the fringes of the national-security community are now helping craft policy in the White House
+43882,1,The American suburbs as we know them are dying
+43889,1,Trump’s steak preference has men wondering the right way to order meat
+44060,1,The ’messy’ way a former Goldman Sachs employee grew a $150 million startup, then turned half his employees into millionaires
+44655,1,A powerful Trump cabinet member is proving a point economists have been trying to make for years
+44688,2,The best way to mix the legendary mint julep
+45397,1,One of the most beloved clothing stores from decades ago is reopening
+45721,1,Landing the job you want could come down to whether you possess this basic skill
+45995,1,Mark Zuckerberg talks about the future of Facebook, virtual reality and artificial intelligence
+46555,2,Ex-Ivy League admissions officers dissect an essay that got a girl into 5 Ivies and Stanford
+46629,1,Bill Gates: There’s a simple way the next president can create jobs
+46848,3,Sheryl Sandberg just wrote a moving essay about what it’s like to now be a single mom
+46920,7,A high-school student shared the powerful essay about growing up in one of America’s ’snobbiest’ cities that got her into Stanford
+47522,1,HSBC: Brexit may be merely the ’precarious calm’ before the real storm
+48294,1,The most hotly debated policing strategy of the last 20 years is far from finished
+48476,3,Ex-Ivy League admissions officers dissect an essay that got a teen into 5 Ivies and Stanford
+48517,1,A new lawsuit alleges Detroit schools are so understaffed that an 8th grader had to teach a math class
+48979,3,Mentally ill woman wrote a heartbreaking essay foreshadowing her own death at hands of police
+49108,1,Anthony Bourdain explains why, even after touring 80 countries, his favorite destination will always be Japan
+49160,3,Former Ivy League admissions directors say it’s harder than ever to get into elite schools — here’s why
+49383,2,A Nobel prize winning economist nails why Trump supporters reject the thing that will help them most
+49588,1,Peter Thiel is trying to save the world: The apocalyptic theory behind his actions
+49831,1,The New Reality TV
+49844,1,Obama’s Faith in White America Was Not Misplaced
+49882,1,The Atlantic Daily: Planetary Politics
+49899,1,The Ideological Reasons Why Democrats Have Neglected Local Politics
+49923,1,Can States Make People Pay Even When Their Convictions Are Overturned?
+49987,1,Drive-Through Redwoods Are Monuments to Violent Deforestation

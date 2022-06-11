@@ -1,0 +1,653 @@
+125,1,City to Close or Merge 9 Schools That Were in Support Program - The New York Times
+344,1,U.K. Set to Choose Sharp Break From European Union - The New York Times
+370,1,What to Make of the ‘Davos Class’ in the Trump Era - The New York Times
+371,1,Putting More Women on a Path to Political Power - The New York Times
+408,1,German Court Rejects Effort to Ban Neo-Nazi Party - The New York Times
+425,2,Germany’s Extreme Right Challenges Guilt Over Nazi Past  - The New York Times
+454,1,Ex-Chief of VW Holds Firm During Grilling on Emissions Deception - The New York Times
+459,1,Davos Elites See an ‘Abyss’: The Populist Surge Upending the Status Quo - The New York Times
+614,1,British Alignment With Trump Threatens European Order - The New York Times
+644,1,Trump Meets Theresa May of Britain as He Weighs Lifting Russia Sanctions - The New York Times
+684,1,Ten Centuries Later, a Pope and Knights Do Battle - The New York Times
+695,1,Travelers Stranded and Protests Swell Over Trump Order - The New York Times
+719,1,For Leaders of U.S. Allies, Getting Close to Trump Can Sting - The New York Times
+721,1,Trump’s Trade War May Have Already Begun - The New York Times
+757,1,Trump Threatens Europe’s Stability, a Top Leader Warns - The New York Times
+772,1,Rex Tillerson Is Confirmed as Secretary of State Amid Record Opposition - The New York Times
+801,1,For Europe, There’s a New Threat in Town: The U.S. - The New York Times
+883,1,Bulgaria Grows Uneasy as Trump Complicates Its Ties to Russia - The New York Times
+897,1,‘S.N.L.’ Goes After Trump Again, With Melissa McCarthy as Sean Spicer - The New York Times
+933,5,Split by ‘Brexit,’ May and Merkel Diverge on Wider Issues, Too - The New York Times
+945,1,Syria, Travel Ban, Kabul: Your Morning Briefing - The New York Times
+1104,2,Angela Merkel, Squeezed by Far Right, Now Faces a Rising Left - The New York Times
+1256,1,Europe Combats a New Foe of Political Stability: Fake News - The New York Times
+1484,1,Top Trump Advisers Are Split on Paris Agreement on Climate Change - The New York Times
+1580,2,Turkish Referendum Has Country Trading Barbs With Germany Over Free Speech - The New York Times
+1623,2,C.I.A., International Women’s Day, Barcelona: Your Thursday Briefing - The New York Times
+1670,2,Rising Tumult Over Principal at Elite Queens High School - The New York Times
+1684,4,After Warily Circling, Trump and Angela Merkel Prepare to Meet - The New York Times
+1735,1,Donald Trump, Republican Party, Daylight Saving: Your Weekend Briefing - The New York Times
+1780,1,Fed’s Challenge, After Raising Rates, May Be Existential - The New York Times
+1841,1,Trump Offers No Apology for Claim on British Spying - The New York Times
+1863,1,In One Rocky Week, Trump’s Self-Inflicted Chaos on Vivid Display - The New York Times
+1869,4,Germany Reacts to Merkel-Trump Visit: ‘Could Have Been a Lot Worse’ - The New York Times
+1888,1,Martin Schulz, Merkel Rival, Wins His Party’s Nomination With 100 Percent of Vote - The New York Times
+1952,1,8 Parcel Bombs Are Found in Greece - The New York Times
+2032,1,Marine Le Pen of France Meets With Vladimir Putin in Moscow - The New York Times
+2129,1,Daily Mail Compares 2 U.K. Leaders — Their Legs, Not Their Ideas - The New York Times
+2140,1,Pillars of the West Shaken by ‘Brexit,’ but They’re Not Crumbling Yet - The New York Times
+2184,1,Bill Minor, Journalist Who Was Called Conscience of Mississippi, Dies at 94 - The New York Times
+2211,1,On ‘Brexit,’ It’s Divorce First, Trade Talks Later, E.U. Tells U.K. - The New York Times
+2255,1,Serbia’s Prime Minister Projected to Win Presidency, Consolidating Control - The New York Times
+2362,1,Hillary Clinton Says Russia Used Hacking ‘to Great Effect’ in Her Defeat - The New York Times
+2378,1,Syria Strike Puts U.S. Relationship With Russia at Risk - The New York Times
+2484,1,Explosions Hit Borussia Dortmund’s Bus in Germany, Wounding a Player - The New York Times
+2571,1,Alissa Rubin, 2016 Pulitzer Winner, Reports From the Front Lines - The New York Times
+2802,2,Dreams Stall as CUNY, New York City’s Engine of Mobility, Sputters - The New York Times
+2838,2,Kenneth Starr to Resign as Chancellor at Baylor - The New York Times
+2844,1,How Will ‘Brexit’ Vote Go? Monty Python May Offer Clue - The New York Times
+3009,1,Regardless of ‘Brexit’ Vote, Experts Say, E.U. Must Rethink Status Quo - The New York Times
+3039,1,In ‘Brexit’ Vote, David Cameron Faces Problem of His Own Making - The New York Times
+3081,1,‘Brexit’ Aftershocks: More Rifts in Europe, and in Britain, Too - The New York Times
+3092,1,In American Markets, Panic Begins to Subside - The New York Times
+3111,1,What Leaders Said Before ‘Brexit,’ and What They Say Now - The New York Times
+3131,1,A Blunt Message After ‘Brexit’: Bolting Will Carry a Heavy Price - The New York Times
+3158,1,Austria’s Far Right Presents the E.U. With a New Test at the Polls - The New York Times
+3159,1,No Charisma, No Glamour: Michael Gove Makes His Case to Lead Britain - The New York Times
+3192,1,Theresa May, the Steely, Steady Woman Who Might Lead Britain - The New York Times
+3196,1,Rome Police Arrest Homeless Man in Murder of Beau Solomon, a U.S. Student - The New York Times
+3199,1,Hillary Clinton Embraces Ideas From Bernie Sanders’s College Tuition Plan - The New York Times
+3212,1,British Politics Gives a Sense of Government by Old School Chums - The New York Times
+3263,1,John Brademas, Indiana Congressman and N.Y.U. President, Dies at 89 - The New York Times
+3286,1,Theresa May, New British Prime Minister, Gives Boris Johnson a Key Post - The New York Times
+3310,1,Turkey Rounds Up Thousands of Military Personnel - The New York Times
+3377,1,Munich Killer Was Troubled, but Had No Terrorist Ties, Germany Says - The New York Times
+3436,1,British Decision on Nuclear Plant Angers China and France - The New York Times
+3439,1,Obama Says Republicans Should Withdraw Support for Trump - The New York Times
+3558,1,Employees Sue Four More Universities Over Retirement Plan Fees - The New York Times
+3736,1,University of Texas Students Find the Absurd in a New Gun Law - The New York Times
+3816,1,How Russia Often Benefits When Julian Assange Reveals the West’s Secrets - The New York Times
+3871,6,Merkel Vows to Stay on Course Despite Party Setback - The New York Times
+3973,1,N.C.A.A. Moves Championship Events From North Carolina, Citing Anti-Gay-Rights Law - The New York Times
+3982,1,A.C.C. Pulls League Championships Out of North Carolina - The New York Times
+4009,2,Theresa May, Britain’s Prime Minister, Plays the ‘Brexit’ Waiting Game - The New York Times
+4021,1,The Eternal Struggle of the Empty Nester - The New York Times
+4264,1,For Britain’s ‘Brexit’ Bunch, the Party Just Ended - The New York Times
+4558,1,U.K.’s Bridge to Trump? Nigel Farage, Who Pushed ‘Brexit,’ Posits Himself - The New York Times
+4573,1,Visiting Europe, Obama Warns Against Rise of ‘Crude Sort of Nationalism’ - The New York Times
+4592,1,Gwen Ifill, Political Reporter and Co-Anchor of ‘PBS NewsHour,’ Dies at 61 - The New York Times
+4596,2,Obama, With Angela Merkel in Berlin, Assails Spread of Fake News - The New York Times
+4607,1,Trump Turns to His Right Flank to Fill National Security Posts - The New York Times
+4610,1,Obama and E.U. Leaders Agree to Keep Sanctions on Russia - The New York Times
+4615,1,Dr. Denton Cooley, Whose Pioneering Heart Surgery Set Off a 40-Year Medical Feud, Dies at 96 - The New York Times
+4620,2,Trump Meets With Romney as He Starts to Look Outside His Inner Circle - The New York Times
+4636,1,Aleppo, Donald Trump, Asia-Pacific Economic Cooperation: Your Monday Briefing - The New York Times
+4643,2,N.F.L.: There’s Dallas’s Dak Prescott and Then All the Other Rookie QBs - The New York Times
+4651,1,Jurgen Klinsmann Fired as U.S. Soccer Coach - The New York Times
+4664,1,At Donald Trump’s Properties, a Showcase for a Brand and a President-Elect - The New York Times
+4682,1,Donald Trump, Global Warming, Facebook: Your Wednesday Briefing - The New York Times
+4698,3,Martin Schulz, President of European Parliament, Will Return to German Politics - The New York Times
+4787,1,François Hollande, Buzz Aldrin, Vladimir Putin: Your Friday Briefing - The New York Times
+4808,2,Extremists Turn to a Leader to Protect Western Values: Vladimir Putin - The New York Times
+4820,1,Italy’s Premier, Matteo Renzi, Says He’ll Resign After Reform Is Rejected - The New York Times
+4821,3,Austria Rejects Far-Right Presidential Candidate Norbert Hofer - The New York Times
+4859,2,Oakland Fire Victims Included Performers, Educators and Lawyers - The New York Times
+5058,5,Berlin Attack Poses Toughest Test in Merkel’s 11 Years in Power - The New York Times
+5103,1,Intent on Unsettling E.U., Russia Taps Foot Soldiers From the Fringe - The New York Times
+5177,1,How ‘Toni Erdmann’ Became an Unexpected Comedy - The New York Times
+5226,1,Obama Urges Britain to Remain in the E.U. - The New York Times
+5343,1,From Paris to Bavaria, Heavy Rains Cause Deadly Floods - The New York Times
+5346,2,Edgar Feuchtwanger Bore Witness, Horribly Close to Hitler - The New York Times
+5359,2,In a Reversal, Germany’s Military Growth Is Met With Western Relief - The New York Times
+5465,1,With ‘Brexit,’ Washington’s Direct Line to the Continent Suddenly Frays - The New York Times
+5466,1,Overwhelmed by ‘Brexit’? Here Are the Basics - The New York Times
+5482,1,Jeremy Corbyn, Leader of Britain’s Labour Party, Loses No-Confidence Vote - The New York Times
+5509,1,Quiet Fixer in Donald Trump’s Campaign: His Son-in-Law, Jared Kushner - The New York Times
+5527,2,Race for Britain’s Prime Minister Down to Theresa May and Andrea Leadsom - The New York Times
+5554,1,Theresa May Is Poised to Be Britain’s Next Prime Minister - The New York Times
+5566,1,France Says Truck Attacker Was Tunisia Native With Record of Petty Crime - The New York Times
+5573,1,A Surly Misfit With No Terror Links Turned a Truck Into a Tank - The New York Times
+5584,1,E.U. and U.S. Urge Erdogan to Show Restraint After Coup Attempt in Turkey - The New York Times
+5586,1,SoftBank’s $32 Billion Deal for Chip Designer ARM Is Britain’s Biggest Since Brexit - The New York Times
+5595,1,Republican Convention, Turkey, Garry Marshall: Your Wednesday Evening Briefing - The New York Times
+5709,1,Germany Proposes Tougher Measures to Combat Terrorism - The New York Times
+5719,1,Donald Trump’s Terrorism Plan Mixes Cold War Concepts and Limits on Immigrants - The New York Times
+5843,1,‘I’ve Become a Racist’: Migrant Wave Unleashes Danish Tensions Over Identity - The New York Times
+5887,4,Angela Merkel’s Problems in Germany Could Challenge Europe, Too - The New York Times
+5929,4,Berlin Election Deals Angela Merkel’s Party Another Blow - The New York Times
+5984,1,Syrian Troops Clash With Rebels as Bombs Fall on Aleppo - The New York Times
+5992,1,‘I Guess I’m Having an Aleppo Moment’: Gary Johnson Can’t Name a Single Foreign Leader - The New York Times
+6060,2,A Divisive President at City College, and a Long List of Personal Expenses - The New York Times
+6159,1,Donald Trump’s Victory Is Met With Shock Across a Wide Political Divide - The New York Times
+6192,3,N.F.L.: The New England Patriots Are Beatable. The Cowboys? Maybe Not. - The New York Times
+6236,1,As U.S. Soccer Weighs Jurgen Klinsmann’s Future, He Says, ‘I’m Not Afraid’ - The New York Times
+6360,1,Donald Trump Is Time’s Person of the Year, to No One’s Surprise - The New York Times
+6462,1,Coming to Newark Archdiocese: A Different Kind of Cardinal - The New York Times
+6583,1,U.C.L.A. Shooting Was Murder-Suicide, Police Say - The New York Times
+6605,2,Choosing a School for My Daughter in a Segregated City - The New York Times
+6610,1,Globally, Orlando Attack Strikes Now-Familiar Fault Lines - The New York Times
+6652,2,Economic Fears Rising, Britain Hopes to Stay in E.U. Market - The New York Times
+6659,1,E.U. Leaders Chart Future as David Cameron Leaves Brussels - The New York Times
+6666,3,‘Brexit’ Briefing: Battle of the Somme Tories Step Up as Boris Johnson Exits - The New York Times
+6699,2,David Cameron Gets Hustled Out of Downing Street, but the Cat Stays - The New York Times
+6701,1,Theresa May, Donald Trump, Hillary Clinton: Your Wednesday Evening Briefing - The New York Times
+6753,1,From Syrian Rubble to German Concert Halls With a Piano, a Mission and Survivor’s Guilt - The New York Times
+6789,1,Greek Villagers Rescued Migrants. Now They Are the Ones Suffering. - The New York Times
+6799,1,Where One Olympic Medal Is a Lot Better Than None - The New York Times
+6864,1,Minority Youths Mistrust Police. A Brooklyn High School Has a Plan. - The New York Times
+6952,1,Syrian, Feared to Be Planning Bombing, Is Arrested in Germany - The New York Times
+6956,1,Trump, Russia, Samsung: Your Wednesday Briefing - The New York Times
+6966,2,Trepidation at City College in Wake of President’s Abrupt Exit - The New York Times
+7001,1,Across the World, Shock and Uncertainty at Trump’s Victory - The New York Times
+7029,1,Fake News in U.S. Election? Elsewhere, That’s Nothing New - The New York Times
+7040,4,Angela Merkel to Seek 4th Term as Germany’s Leader - The New York Times
+7042,1,Where Donald Trump Stands on School Choice, Student Debt and Common Core - The New York Times
+7048,1,Donald Trump Close to Picking Ben Carson as Housing Secretary - The New York Times
+7067,1,Facebook Runs Up Against German Hate Speech Laws - The New York Times
+7084,1,Campus Press vs. Colleges: Kentucky Suit Highlights Free-Speech Fight - The New York Times
+7095,4,Angela Merkel Calls for Ban on Full-Face Veils in Germany - The New York Times
+7142,2,Berlin Crash Is Suspected to Be a Terror Attack, Police Say - The New York Times
+7147,1,Germany Seeks Tunisian Tied to Berlin Christmas Market Attack - The New York Times
+7200,1,VW Chief ‘Personally’ Apologized to Obama Over Cheating - The New York Times
+7302,2,Bank of England Cuts Interest Rate to Historic Low, Citing Economic Pressures - The New York Times
+7373,2,Angela Merkel Accepts Responsibility for Party’s Losses in Berlin Election - The New York Times
+7395,2,German Prosecutors Side With Satire, Not Turkish President - The New York Times
+7418,1,Mosul, CETA, Trump: Your Tuesday Briefing - The New York Times
+7503,1,Dr. Henry J. Heimlich, Famous for Antichoking Technique, Dies at 96 - The New York Times
+7509,1,Berlin, Russia, Narendra Modi: Your Morning Briefing - The New York Times
+7528,1,Bernie Sanders Meets With Pope Francis - The New York Times
+7529,2,Provost Resigns Amid Sexual Harassment Case at Berkeley - The New York Times
+7531,1,Tubman’s In. Jackson’s Out. What’s It Mean? - The New York Times
+7754,2,German E.U. Official Is in Trouble Over Remarks About Chinese - The New York Times
+7770,1,‘Brexit,’ Angela Merkel, Donald Trump: Your Wednesday Briefing - The New York Times
+7848,1,Investigation Launched After Pig Heads Hung On Site of Future Mosque
+7936,1,Red Bull Boss Slams Mass Migration, Forced Multiculturalism in Europe - Breitbart
+8011,1,Elizabeth Warren: ‘We Need a Justice Department Not an Obstruction of Justice Department’ - Breitbart
+8077,1,Refugee Launches Lawsuit Against Facebook After Selfie Used for Memes - Breitbart
+8078,2,Sean Spicer: Trump Didn’t Hear Merkel’s Handshake Request - Breitbart
+8113,1,After Berkeley, Treat the Violent, Anti-Speech Left Like the KKK
+8177,1,German Finance Minister Responds to Manchester Attack: Christians Can Learn from Muslim Migrants - Breitbart
+8302,2,Austria Wants to Exit EU Migrant Redistribution Scheme
+8485,1,More Asylum Requests in Germany than Rest of EU Combined
+8566,1,Macron to Lobby for Closer EU Integration on First Day as President
+8568,1,Turkish President Accuses Germany of ’Nazi Practices’
+8660,1,NBC News Head Says ’We’re Not the Opposition Party’
+8687,1,Two Thirds of Germans Fear Becoming Victims of Terror Attacks
+8759,2,Merkel Issues New Threat to Britain, Talks ’Price’ Of Limiting Open Border Migration
+8799,1,Globalists In Exile: ‘Party of Davos’ a Gloomy Event This Year After Brexit, Donald Trump’s Win - Breitbart
+8815,1,UC Davis Lied To Us, Say College Republicans, Forcing Us to Cancel MILO Event - Breitbart
+8822,1,New York State Kills Literacy Test for Teachers: Minority Kids Hardest Hit - Breitbart
+8922,1,Trudeau Sends Cabinet Officials to ’Make Friends’ in DC Ahead of Trump Meeting Monday
+9003,1,Islamic State German Magazine Tells Fighters To Kill "Apostate" Imams
+9025,1,Top Five Media-Generated Non-Stories from Trump’s Foreign Trip - Breitbart
+9049,1,State to Block Removal of Migrant Victims of ‘Right Wing’ Crime
+9060,1,Austria Ready to Host Soros University Embattled in Hungarian
+9085,1,Merkel Floats Fake News at Trump Presser: TTIP Deal is ‘Bilateral’
+9135,5,Trump’s 1st Win: Germany Hints at Compromises on Trade, Military
+9181,2,German Vice-Chancellor: EU Breaking Apart ’No Longer Unthinkable’
+9218,2,Trump: NATO Is ’Obsolete’
+9248,2,UC Berkeley Chancellor: Riots Caused by Armed Individuals in ‘Ninja-like’ Uniforms Using ‘Paramilitary Tactics’ - Breitbart
+9280,1,’Anti-Migrant’ Gun Shop Shut Down, Database of Customers Handed to Cops
+9291,1,Merkel Warned Support Being ’Destroyed’ by Failure to Deport 500,000 Asylum Seekers
+9393,1,LA College pays $28K Ransom to Free Student, Faculty Data
+9394,3,Merkel Tells Germans: Be Grateful You Have Free Speech
+9437,1,UKIP’s Paul Nuttall: ’Islamist Extremism is a Cancer Within Our Society’
+9468,1,Government to Revive Pledge to Cut Migrant Benefits
+9473,1,President Trump Takes Calls with World Leaders: Germany, France, Australia, Russia, Japan - Breitbart
+9568,1,DUP Set to Spurn Tory Remainers and Back Full Brexit
+9599,3,Poll: Merkel Eclipsed By Arch-Federalist Schulz in Race For Chancellor
+9638,1,In or Out? EU Is Hot-Button Issue In French Vote
+9680,3,UC Berkeley Administration Shares Blame for Anti-Free Speech Riot
+9688,1,Brussels Trying to ’Pressure’ Hungary into Accepting Migrant Quotas, Relaxing Border Controls
+9789,2,Undocumented Migrants To Be Made To Hand Over Mobile Phones
+9996,1,Report: Trump Tells Allies He Plans to Remove U.S. From Paris Climate Agreement - Breitbart
+10051,1,Virgil: Trump’s Nationalist Vision vs. the Gospel of Globalism
+10086,2,Merkel Will Pay Migrants Millions To Leave Germany
+10096,1,Now the European Union Wants "Build A Wall" – With Russia
+10304,2,DELINGPOLE: Revealed - The Real Reason Trump Pulled Out Of Paris...
+10368,1,Bono to World Leaders: No ’Wall High Enough’ to Keep Out Islamic Terror
+10453,2,UC Berkeley Administration Won’t Budge On Security Fees For MILO Event - Breitbart
+10518,1,John Bolton: Paris Climate Accord Objective Is ‘Reduction of National Sovereignty’ for ‘Global Governance’
+10573,1,UC Berkeley Extremists Dox Student MILO Event Hosts, Post Personal Details and Workplace Address - Breitbart
+10625,2,Trump Holds First Conversation with Putin in Oval Office
+11138,1,University of Washington Tacoma Declares Proper Grammar Is Racist - Breitbart
+11144,1,Emmanuel Macron Inaugurated as France’s New President - Breitbart
+11171,1,Austrian Populist Leader: Put Islamists on Prison Islands
+11186,2,Ivanka Rocks Berlin: President Trump’s ‘Policies Are Central to the Economic Empowerment of Women’
+11201,1,Turkey’s Erdogan Tells EU to ’Forget About’ Migrant Deal After Dutch Row - Breitbart
+11236,1,Merkel Stands by Migrant Policy, Fights Terrorism with Compassion
+11243,1,PHOTOS: German Carnival Floats Depict Decapitated Trump, Hitler Comparisons
+11265,2,UC Berkeley Bans Ann Coulter – But She Plans to Speak Anyway! - Breitbart
+11279,7,U-Turn: Merkel Considers Annual Migrant Number Cap
+11459,1,Russia’s Policies Thrown into Confusion as U.S. Resumes ’World Policeman’ Role
+11493,3,Top German Paper: We Need To Be ’More Gay, More Multicultural’ To Oppose Trump
+11550,1,MERKEL ASCENDANT: Mutti Set to Steal Socialist Seats in ’Key’ State Election - Breitbart
+11567,1,EU Adds Cost of Migrants in Turkey to Brexit Bill
+11633,1,Erdogan: Soon Europeans ’Will Not Walk Safely on Their Streets’
+11698,1,UCSD Students: Dalai Lama Violates ’Respect, Tolerance, Equality’
+11703,1,MILO Takes it to the Face, Reenacts Infamous UC Davis Pepper Spray - Breitbart
+11725,1,Germany’s Islamist Scene Growing: Security Chief
+11886,1,Transgender Actor Laverne Cox To Speak at Alternative CU Boulder Event During MILO Visit - Breitbart
+11947,1,MILO and Pamela Geller Protest Sharia-Advocate Linda Sarsour in NYC - Breitbart
+12031,1,Cash-Strapped Lefties Demand Money for Anti-Breitbart Site
+12081,1,Half of German Women Feel Unsafe in Their Own Neighbourhoods
+12103,1,Safety Of Students, Speaker, Officers ’Could Not Be Guaranteed’ Say UC Davis Police - Breitbart
+12175,5,Macron: Merkel’s Open Door Migrant Policy ’Saved Our Dignity’
+12197,3,Entire German 2016 Budget Surplus Earmarked For Migrants
+12259,1,Pope Francis Tells EU Leaders: Populism Is ’Egotism’
+12303,2,Germany ’Employing Nazi Measures Against My Turkish Brother Citizens’, Claims Erdogan
+12418,3,MILO Media Meltdown: Breitbart Editor’s UC Davis Event Dominates Headlines - Breitbart
+12570,2,Stolen ’Work Will Set You Free’ Gate Returned to Dachau
+12756,1,Black Student Group at UC Santa Cruz Threatens More Takeovers - Breitbart
+12827,1,Barack Obama and Angela Merkel Plan Globalist Reunion at Brandenburg Gate
+12834,1,Foundation for Individual Rights in Education Condemns UC Berkeley Riots - Breitbart
+12911,1,Brussels ’Crossing Fingers’ For Macron in French Vote
+12933,1,Parisian Women Face Constant Harassment By Migrants
+13054,1,Le Pen Maintains First Round Lead in Latest Polling
+13170,1,Somali Asylum Seeker Accused of Killing Woman and Raping Disabled Elderly Men
+13214,2,Poll: Lead for Angela Merkel’s Party Widens Ahead of September Election - Breitbart
+13314,1,Vocal Ex-President Barack Obama Desperate to Save His Legacy from Donald Trump - Breitbart
+13608,2,Matthews: Why Does Trump ’Hate Merkel?’ ’She’s the Best Leader in the World’ and ’She Is Functional’ - Breitbart
+13694,2,Former Hillary Clinton Surrogate James P. Rubin: Germany’s Merkel, Not Trump, is ‘the Leader of the Free World’
+13705,1,Europe to United States: DROP DEAD - Breitbart
+13785,2,World Leaders Condemn Manchester Terror Attack - Breitbart
+13815,2,Germany’s Merkel Hits Back After Trump Predicts Shrinking European Union
+13818,2,Berkeley Mayor, Police Union Blame University for Milo Riot
+13881,1,After Billionaire Yacht Party, Obama Announces Community Organizing Speech - Breitbart
+13882,2,Watch: Farage Slams EuroParl for Ignoring the People on Migration
+14088,2,Polls Open in Germany Local Elections as Social Democrats Attempt to Challenge Merkel Power
+14109,1,Germany’s Merkel to Meet Trump’s Vice President Pence Next Week
+14130,1,Merkel: Macron ’Carries Hopes’ of Millions in Europe
+14138,1,Austria to Ban Burqas from October
+14218,1,Muslims Have Greater Religious Freedom than Christians in Europe, Says Anti-Discrimination Chief
+14244,1,Speculation Brews Over Trump-Pope Meeting in May
+14261,1,In Pictures: Leftist Anti-May Protesters Outside Downing Street - Breitbart
+14371,2,UC Davis Chancellor ’Deeply Disappointed’ by MILO Protesters: School Based on ’Respect for All Views’ - Breitbart
+14433,1,O’Reilly on Comey Hearings: ’Surprised If Anything Comes of this Russian Deal’ - Breitbart
+14530,3,Merkel: EU Must Take More Migrants Islam Not The Cause Of Terror
+14593,1,A Hard Brexit Could Create 400,000 Jobs
+14621,2,College Republicans, YAF Demand Ann Coulter Berkeley Event Follow Original Schedule - Breitbart
+14725,2,Austrian "Migrant Party" To Stand In National Election
+14850,1,GQ Mag: ’There’s No Such Thing As an Illegal Immigrant’
+14891,1,CLAIM: Trump Planning to Resurrect TTIP, Put EU Before Britain in Trade Deal
+15053,1,World Leaders Praise U.S. Strike on Syria, ‘Proportionate, Appropriate’
+15079,1,Merkel Claims ’Strength of U.S.’ Grew Because of NATO
+15444,1,Britain’s General Election: A Ploy to Stop ’Hard Brexit’?
+15462,1,UN Demands EU Punish Eastern Europe for Refusing Migrants
+15596,1,Why There Is No Reason to Believe Facebook’s Promise Not to Influence Voters Against Trump - Breitbart
+15758,1,Cologne New Year’s Chaos: Women ’Ran a Gauntlet’
+15774,1,Full Extent of Germany Migrant Sex Attacks Revealed - Incidents in 12 of 16 States - Breitbart
+15865,1,’ISIS Supporters’ Cry ’Allahu Akbar’ at Memorial To Munich Shooting Victims, Shouted Down By Locals
+15866,2,Orban Declares ’War Against Brussels’ And EU Migrant Politics
+15937,5,’Lawless Areas, Helpless Police — Can We Still Feel Safe?’ Top Magazine Speaks Of Germany As Failed State
+15993,1,Left Wing Violence Erupts In German Capital
+15999,2,Merkel Demands All Big German Companies Hire Refugees
+16041,1,Hungary To Build Second Fence To Keep Out Migrants
+16047,1,Dana Perino: Facebook Meeting Not a Photo-Op, Conservatives Should Accept ’Olive Branch’ - Breitbart
+16081,1,Merkel Under Fire on Migrants After New Year Sex Attacks
+16125,1,Media, Authorities Play Down Migrant Sex Assaults As Cologne Attacks Highlight ’New Dimension’ For Europe
+16136,1,CSULA Students Vote to Fire University President for Letting Shapiro Speak - Breitbart
+16152,1,Germany’s Merkel Now Says She Will NOT Change Migrant Policy
+16227,1,Report: Facebook Employees Wanted to Censor ’Hate Speech’ from Trump, ’Threatened to Quit’ - Breitbart
+16264,1,Police Predict Migrant Violence Over Border Closure
+16274,1,At War With Conservatives, Stock Price Tanking, Users Alienated: Is This The Beginning Of The End For Twitter? - Breitbart
+16276,1,Merkel Says Germany Must Have Frank Talk About Integration
+16322,4,Liberal Hero Merkel Pushes Burqa Ban, Shifts to Election Footing
+16453,1,UC Irvine Professor Says ’Anti-Zionism Week’ At Least As Offensive As Milo - Breitbart
+16540,1,Trump Echoes Breitbart: Battle With Islam ’Like The Cold War’ - Breitbart
+16545,1,Geert Wilders: Let’s Dump Turkey
+16635,1,George Clooney Meeting with Angela Merkel to Offer Hollywood Help During Refugee Crisis - Breitbart
+16662,1,Belgian Terror Attacks: Only ’Brexit’ Can Save Britain From This Scourge Of Political Islam Waging War In Europe
+16705,1,Obama Worried Donald Trump Will ’Cut Some Deals’ with Russia - Breitbart
+16743,2,Orban At Conservative European Nations Conference: Migrants ’Are a Hoard Of Evil’
+17125,3,Multiple Shooters Reported Active In Munich Mall Terror Shooting — Six Reported Dead
+17147,1,Facebook Censorship and the War on Free Speech - Breitbart
+17196,1,Obama: The World Doesn’t Need More Walls - Breitbart
+17364,1,Hollande Set for Showdown With Trump Over Paris Climate Deal
+17384,1,NPR Kicks Off 2016 Pushing Muslim Immigration, Ignoring Terror Threat
+17548,3,Not Welcome Here – Obama’s Visit To UK Tanks As Poll Reveals 60% Of Britons Don’t Want His Pro-EU Lectures
+17553,1,Germany’s Secret Islamic Horror: How Blind Elites Are Destroying A Once-Great Nation - Breitbart
+17877,1,Trump Invites Hungarian PM Orbán To Washington D.C.
+17956,1,University of Missouri Spending $1 Million for ’Diversity Audit’ Despite Millions Lost Following Protests - Breitbart
+17994,1,EU Foreign Affairs Chief: Europe Needs an EU Army - Breitbart
+18057,1,Students Demand ’Sanctuary Campus’ for All Migrants
+18298,1,The British Are Going: 101 Days Until The UK’s Very Own Independence Day From The European Union - Breitbart
+18384,2,Merkel Must Go: Populists Hold Candlelight Vigil for Berlin Victims
+18425,1,Turkey To Grant 300,000 Syrians Citizenship
+18448,1,Turkish President Attempts to Suppress Song That Mocks Him for Media Suppression - Breitbart
+18451,2,Ten Reasons Why Glenn Beck Is Wrong About Facebook’s Bias Against Conservatives - Breitbart
+18454,2,How Governments Force Silicon Valley To Censor You Online - Breitbart
+18506,3,Obama Flies To Germany To Try To Shore Up TTIP Deal
+18599,1,TTIP Is Dead: EU-U.S. Trade Deal Has Collapsed, Germany Says
+18640,1,Turkish Man Gets 108 Years’ Jail For Sexually Abusing Syrian Boys
+18823,1,Obama to Anti-Trump Protesters: Don’t Be Silent - Breitbart
+18828,1,Wilders: ’Political Revolution Is Brewing in Europe’
+18973,1,Bloomberg: ’Nationalists and Populists Poised to Dominate European Balloting’ - Breitbart
+18983,1,We Can Win the War on Terror (If We Want To)
+18991,3,Tens of Thousands Protest Against TTIP In European Cities
+19008,5,Merkel With Obama: Internet ’Disruptive’ Force That Has To Be ’Contained, Managed and Steered’ by Government
+19094,1,Czech President: Deport All Economic Migrants From Europe
+19279,2,Mizzou Faces $32m Deficit, 20 Percent Decline In Enrolment After Last Year’s Protests - Breitbart
+19322,1,Pro-Trump Students Confront Anti-Chalk Protesters at UCSB Rally - Breitbart
+19394,2,Afghan’s Murder-Rape Arrest Reignites Germany Migrant Debate
+19515,1,Bangladesh in Shock after University Professor Hacked to Death
+19518,1,Geert Wilders For Breitbart: The West Is Sick Of Politics, But It Isn’t Sick Of Democracy
+19551,1,Merkel Rejects Early Deal Protecting British Expats in EU
+19643,1,German Court Considers Ban Of Nationalist Political Party
+19795,1,Stories On Cologne Assaults Face Censorship On Reddit - Breitbart
+19960,1,WikiLeaks: White House Wanted Bill Clinton to Pressure Tsipras into Accepting Greek Debt Deal - Breitbart
+19977,3,’Like Donald Trump’: Justice Minister Blasts Insurgent ’Nationalistic, Misogynistic’ Anti-Mass Migration AfD Party
+20311,1,Merkel Government ’Incapacitated’ Over Migrant Issue - Breitbart
+20393,1,Farage: Remoaners Blaming Russia Have Reached New Low
+20406,1,Merkel Hints at Wiggle Room over Free Movement of People
+20596,1,Foreign Leaders React to Donald Trump’s Election Victory - Breitbart
+20669,1,After Shooting of Main Suspect, Germany Hunts Accomplices of Berlin Killer
+20866,2,Number of Syrian Migrants in Germany Could DOUBLE Due to Family Reunification
+20868,2,University of Wisconsin-Madison to Hire More Counselors to Address Microaggressions - Breitbart
+20885,1,Obama: Angela Merkel ‘On The Right Side of History’ On Syrian Refugees - Breitbart
+21011,1,EXCLUSIVE VIDEO: Open Borders Campaigners Stage ’Die In’ In London, Claim Cologne Rapes NOT Committed By Muslim Migrants - Breitbart
+21013,1,EXCLUSIVE: Journalists Attacked In Calais Migrant Camp, Pro-Immigration Activists Urge Them To Remove Evidence From Internet - Breitbart
+21160,5,Germany’s Populists Beat Merkel’s Migrant CDU Party: Exit Polls
+21393,1,Frank Gaffney: Leaders like Merkel Still ‘Scratching Their Heads’ over Motivations of Jihadis
+21499,2,Europhile Labour MP: ‘Ignore’ White Men In EU Campaign
+21600,1,German Government Admits They Have Lost 130,000 Migrants
+21638,1,Berkeley Protesters Demand ’Spaces of Color,’ Block White Students from Passing Through - Breitbart
+21668,3,German Welfare Spending ’A Ticking Time Bomb’ That Could K.O. The Balanced Budget
+21678,1,Facebook Blocks Radio Host Michael Savage After He Posts Story of Migrant Murderer - Breitbart
+21727,1,Business That Paid Bill Clinton $17M+ Linked to Nonprofit Funded by Hillary’s State Department - Breitbart
+21773,1,LISTEN: East End Cab Driver - Open Borders Have ’Killed Britain’
+21872,1,AfD MEP Calls for Merkel to Be Investigated over Migrant Deaths
+21963,1,Politico: Bill Clinton Paid $17.5 Million by For-profit University - Breitbart
+22071,5,CONFIRMED: Berlin Attack Suspect Shot Dead in Milan
+22107,1,Police to Monitor Social Media To Prevent Migrant Sex Mobs
+22117,2,Merkel Again Forced To Defend Migrant Crisis Record, Hits Out At Anti-Migration AfD Party
+22162,1,Merkel: Islam Belongs In Germany
+22187,1,Obama and Angela Merkel Blame Internet and Social Media for Disrupting Globalism - Breitbart
+22255,1,John Bolton on Europe’s Migrant Crisis: ‘Only a Matter of Time Before Some of Those Terrorists Get to the United States’ - Breitbart
+22348,3,Major Anti-Islamisation Protest Planned Following Mass Migrant Rape Scandal
+22406,4,New York Times: Unease Over Mass Migration Is Spawning ’Far-Right’
+22407,1,Refugees Holiday in Countries They ’Fled’, At Taxpayers’ Expense
+22480,1,REAL EU Immigration Figures Twice As High As Previously Thought, Government Admits
+22491,1,Pamela Geller: New Year’s Eve Rapes in Germany A Wake-Up Call to U.S. Leaders to Stop Muslim Migration from ‘Jihad Nations’ - Breitbart
+22500,1,WSJ: Even Rejected Asylum Seekers Don’t Leave Germany
+22597,1,Obama Expresses ’Regret’ With Brexit Result
+22606,1,Number Of Migrants Claiming Benefits In Germany Surges By 169 Per Cent
+22656,1,Thousands March on Anti-Mass Migration PEGIDA’s Second Anniversary
+22686,1,’Mujahid’ Remain Campaigner Calls For Breitbart Editor Kassam To Be ’Attacked’
+22847,2,Learn German Or Lose Benefits, Berlin Tells Migrants In New Law
+23266,1,Google, Facebook and Twitter Yield to Government Demand to Censor ’Hate Speech’
+23284,3,Brexit: Britain Votes To Leave EU, PM Cameron Resigns - Breitbart
+23354,1,Obama: Younger Generation ‘More Inclusive’ Than Older Generations - Breitbart
+23401,1,Secret TTIP Docs Leaked: ’Corporations At The Heart Of EU-US Policy Making’
+23439,1,European Ministers Lay Out Plan to Create United States of Europe
+23507,2,Hillary University: Bill Clinton Bagged $16.46 Million from For-Profit College as State Dept. Funneled $55 Million Back - Breitbart
+23604,2,Thinker, Soldier, Business Boss: Many Faces Of Germany’s Anti-Mass Migration AfD
+23730,3,Angela Merkel’s Party Has Worst Result Ever In Berlin
+23788,1,Archbishop of Cologne Blasts Germany’s Anti-Islam Party
+23863,1,Polish Experts: ’Europe is at The End of its Existence. Western Europe is Practically Dead’
+23864,1,Germany’s Ruling Party ’Infiltrated by Turkish Nationalists and Erdogan Lobbyists’
+23962,2,East Carolina University Says Anti-American Anthem Protest By Band Won’t Be Tolerated - Breitbart
+24022,2,Merkel ‘Defeats Herself’ Says Populist Leader After Drubbing
+24064,1,After Cologne, Perhaps It Is Time For The People Of Germany To Consider The Sanity Of Angela Merkel
+24190,2,Domestic Intel Officer Arrested for Plotting Islamic Terror Attack on Germany’s FBI
+24202,1,Obamacare Pressures California University to Fire U.S. Professionals, Hire Foreign H-1B Workers
+24319,1,AFP: Europe’s Populist Surge Fuelled by Migrant Crisis - Breitbart
+24321,1,GOP Urges Firing of Mizzou Professor Who Called for ‘Muscle’
+24443,2,Poll: Majority In Germany Wants Repatriation of Government Powers From EU
+24588,1,University of Missouri Considers Banning Future Student Protests - Breitbart
+24670,1,Merkel Ally Threatens Legal Action Over Refugee Policy - Breitbart
+24761,3,Israel Rejects Report Claiming Germany Frustrated With Israel
+24768,4,IMF To Publish Report Damning Brexit Just Days Before Referendum, While European Commission Delays Budget Until AFTER It
+24823,1,Just Three Percent Of Newly Arrived Migrants Have Found Work
+24865,1,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+24937,1,Brexit: Why I’m Still Backing Gove for the Iron Throne
+25098,2,Merkel to Run as ’Anti-Populist’, Pro-EU Candidate
+25115,1,Trump Soars Among Catholics After Being Dissed by Pope
+25141,1,Mississippi Flag Confiscated at Ole Miss Football Game
+25221,1,Truck Attacker Photos Censored by Politician ’to Prevent Racism’
+25284,1,Obama Ignores Three Attempts for Comment on Trump’s Appointment of Steve Bannon - Breitbart
+25385,1,WikiLeaks: Hillary Clinton Calls Common Core a ‘Political Failure’ - Breitbart
+25497,1,Germany To Set Up "Ministry of Truth" Ahead of 2017 Federal Election
+25533,1,Peter Morici: By Destabilising Deutsche Bank, Hillary Could Ignite another Economic Crisis
+25575,1,Woman Describes Being Groped by Cologne Sex Assault Mob
+25606,1,Germany’s ’Mr. Flirt’ Teaches Refugees How to Pick Up Women - Breitbart
+25630,1,Merkel Faces Voter Backlash After Open-Door Migrant Policy - Breitbart
+25651,1,Washington Post: Inside Bill Clinton’s Nearly $18 Million For-Profit College Gig - Breitbart
+26034,2,German Media Fail to Report Girl Raped and Murdered by ’Refugee’
+26036,3,David Cameron Is A Bloody Idiot: He Should Have Refused To Publish His Tax Return
+26074,2,Obama Calls Angela Merkel with ‘Condolences’ After Berlin Terrorist Attack - Breitbart
+26086,1,Timeline: Germany’s Two Years of Islamist Terror
+26178,1,Twitter Shadowbans Donald Trump Tweet - Breitbart
+26213,1,Police Raid Apartments Over ’Right-Wing’ Social Media Posts
+26280,1,Bill Maher: Democrats Could Lose to Trump for Refusing to Say ’Islamic Terrorism’
+26328,1,Merkel: National Push Needed in Germany to Deport Migrants
+26340,1,Hungary Referendum: EU Humiliated as 95 Percent Say NO to Migrant Quotas
+26365,3,Rash of Cyber Attacks on Texas School District Worries Some Parents
+26396,3,Obama Subtly Endorses Angela Merkel for Re-election - Breitbart
+26497,1,Green Europe is Killing 40,000 Poor People a Year
+26590,1,Camp of the Saints: Europe Braces for Unabated Wave of Migrants After 1M+ in 2015
+26619,2,Austria Threatens to Extend Border Controls
+26631,1,Islamisation: Germany’s Tele5 TV Channel Puts Muslim Star And Crescent On Logo - Breitbart
+26913,1,Government Funded Website Teaches Migrants How To Have Sex... In 13 Different Languages
+26951,1,Turkey’s Erdogan Backs Reintroduction Of The Death Penalty
+26999,1,BOMBSHELL REPORT: Berlin ’Lost To Arab Clans’ Now Recruiting ’Physically Strong Young Migrants’
+27054,2,Cracking Down On Talk Of ’Rapefugees,’ Facebook Has Become The World’s Most Dangerous Censor - Breitbart
+27118,2,Another 100,000 Migrants Likely To Arrive In Bottleneck Greece By End Of Month - Breitbart
+27316,1,Europe’s First Migrant Political Party Accused Of Being Mouthpiece For Turkey
+27335,1,Merkel Wants Migrant Return Deals With North African States
+27361,2,Merkel’s Party, Sliding in Polls, Explores Speedy Repatriation Centres - Breitbart
+27469,5,64 Per Cent Of Germans Want Merkel Gone After Next Election
+27481,1,Newsweek Gets Anne Frank’s Step-sister to Describe Trump as a New Hitler
+27492,1,Syrian Migrants Who Named Child ‘Angela Merkel’ Rejected for Asylum
+27554,2,CAPITULATION: UC Irvine Permanently Reinstates College Republicans Following Breitbart Coverage - Breitbart
+27578,1,DELINGPOLE: Why I’m Backing Boris Johnson and Michael Gove
+27696,1,Migrants Refuse Jobs, Claiming They Are ’Guests of Merkel’
+27730,5,Austrian Citizens Overwhelmingly Reject EU Migrant Crisis Approach, Majority Would See Borders Closed Indefinitely
+27737,3,Marine and Marion Le Pen Slam Merkel for Berlin Attack
+27837,4,Blood-Smeared Milo Protest Girl Given ’Dignity Award’ by Rutgers - Breitbart
+27909,1,Left Wing German Politician Caked
+28018,2,Live: Shadow Cabinet Collapses As Members Resign Over Corbyn’s Brexit Performance
+28057,1,Top Downing Street Staffers Hurled Abuse at Candidate Donald Trump With Nazi Comparisons and Pro-Islam Baiting
+28079,2,Merkel: If We Close The Border, ’Europe Is Destroyed’
+28088,2,Top Merkel Advisors Demand Germany Blocks Brexit
+28102,3,Merkel Ally Blasts ’We Can Do It’ Approach To Migrant Crisis, Terrorism, Calls For Burka Ban
+28128,3,Hollywood Actor George Clooney Lobbies Merkel On Migrants - Breitbart
+28183,2,Islamist Expert: Give Syrians Their Own City in Germany
+28284,1,Angelina Jolie Pitt: ’Don’t Brexit, and Keep your Borders Open to Migrants’ - Breitbart
+28303,1,Brexit: The Nationalist-Populist Rebellions Continue  - Breitbart
+28323,2,George Osborne Tells Leave To ‘Tone Down Rhetoric After Jo Cox’
+28552,1,Geller: Turkish President Says No Muslim Family Should Engage in Birth Control - Breitbart
+28563,2,Merkel Deputy: Surging Anti Mass Migration Party Should Be ’Monitored’ By Govt - Breitbart
+28603,2,Austrian Nationalists Trounce Political Establishment In Landmark Presidential Election
+28609,1,After Minimum Wage Hike, UC Berkeley Cuts 500 Staff - Breitbart
+28643,1,Glenn Beck Defends Mark Zuckerberg, Attacks Conservatives
+28668,1,Bilderberg 2016 Guest List Combines Enough Elite Names to Make Everyone Feel Uneasy - Breitbart
+28799,1,Germany Will Make It Easier to Deport Lawbreaking Immigrants
+28900,1,Rupert Murdoch to Decide Brexit Position Taken by Leading Tabloid ’The Sun’
+28953,1,ZUMWALT: Berlin: When Will Merkel Realize the Unknown Unknowns Have Become Known Knowns? - Breitbart
+29223,1,EU Leaders Rush TTIP Negotiations As Fears Grow Deal Will Collapse
+29253,1,Top UK Historian Niall Ferguson: ’I Was Wrong to Oppose Brexit’
+29269,3,Migrant Sex Pests: ’You Have To Treat Me Kindly! Mrs Merkel Has Invited Me’, 14 of 15 Arrested ’Syrian’
+29305,1,Independent: ’Financial Markets Aren’t Afraid Of Brexit — They Are Afraid Of Incompetent Global Leadership’
+29329,1,FULL TEXT: MILO Explains The Patriarchy At Ohio University - Breitbart
+29386,1,James Pinkerton: Globalism Hits a Brick Wall: Now, What Will Donald Trump and Hillary Clinton Do?  - Breitbart
+29419,1,Pitt Student’s Family Harassed over Milo Yiannopoulos Event - Breitbart
+29526,1,MASSIVE Migrant Wave Expected As Male Majority Now Demand Wives And Children Are Brought To Europe
+29617,1,Hungary Border Fence Success, Balkans Route Down To ’A Trickle’
+29753,1,German Lawyers File Lawsuit Against Mark Zuckerberg over ’Hate Speech’ Against Migrants - Breitbart
+29841,1,George Soros Post-Brexit Backtrack: Merkel’s Open Borders Policy ’Not Properly Thought Out’
+29846,1,First Layoff at Berkeley, After Minimum Wage Hike, Sparks Protest
+30008,3,Obama In Germany: Merkel Is On ’Right Side Of History’ By Destroying Europe’s Borders
+30020,1,Eyewitness Cologne: Germany Deploys 143 Officers To Stop Migrant Rape, 1,500 Officers To Stop Anti-Rape Protest - Breitbart
+30136,1,Pamela Geller: UK Trump Ban Debate ‘Clown Contest’ Muslim Apologists Tried to ‘Out-Bootlick’ Islamic Supremacists - Breitbart
+30171,3,Merkel ‘Assassination Attempt’ On Czech Visit
+30190,1,Exclusive — Donald Trump On Brussels Attack: ‘The Terrorists Are Totally Winning’ - Breitbart
+30275,2,Thatcher’s Defence Secretary Quits Tories Over ’Poisonous’ Remain Campaign
+30477,1,Munich Killer Planned Shooting For Year, Shot Victims At Random
+30502,1,German Broadcaster ’Sorry’ For Slow Reporting On Cologne Sex Assaults
+30561,1,EU Threatens to Punish Britain for Getting Close to Trump
+30593,1,Pamela Geller: Why I Am Suing Facebook - Breitbart
+30641,3,Migrant Crisis Threatens Germany’s Governing Coalition
+30791,1,LIVE WIRE: Theresa May ’Coronation’ Expected As Leadsom Drops Out Of Tory Leadership Contest
+30959,1,German Federal Police: Rise in Crime Is Due To Migrant Crisis
+30982,1,Denmark Slams Germany’s Merkel: ’Underestimated Migrant Crisis’ - Breitbart
+31170,1,Police Chief Blames Merkel Policy for Death of Maria L.
+31273,1,Facebook Deletes Page of Swedish Immigration Critic, Reactivates It After Backlash - Breitbart
+31315,5,Angela Merkel Will ‘Stop Illegal Migration’
+31423,1,Police Try To Link Munich Gunman To Anders Breivik
+31474,1,Merkel Support Slips As Attacks Put Spotlight On Migrant Policy
+31498,2,POLL: Across Political Spectrum Massive Majority Reject Islam After Migrant Crisis
+31558,1,Khizr Khan No Constitutional ’Expert’ Passed Bar at Age 60 - Breitbart
+31604,1,Putin congratulates Trump in New Year statement
+31608,1,Get ready for another year of global tumult
+31934,1,Protesters shut down Milo Yiannopoulos event at UC Davis
+31939,1,Trump hints at European immigration restrictions
+31959,2,The world needs fixing — and Trump thinks he’s the man to do it
+31966,2,Trump rattles NATO with ’obsolete’ blast
+31989,3,Trump’s new world disorder
+31994,1,Trump nominee questions US funding of UN
+32002,1,Trump’s blast sends chill across Europe
+32091,1,Day Two: Trump prayed, met CIA, attacked press
+32094,1,Europe’s far-right leaders speak on Trump at conference
+32264,1,Trump talks to Putin, Merkel in day of calls
+32284,1,Trump travel ban: Here’s what you need to know
+32302,2,Trump’s roller coaster first week of diplomacy
+32316,2,World leaders react to Trump’s travel ban
+32364,1,Trump has heated exchange with Australian leader, sources say
+32381,2,Donald Trump’s undiplomatic diplomacy
+32387,1,Milo Yiannopoulos is trying to convince colleges that hate speech is cool
+32589,2,Merkel, Pence to meet in Germany
+32601,1,When handshakes get awkward
+32637,2,Gordon Brown Fast Facts
+32642,1,Liberal superhero Justin Trudeau is not immune to the forces of Trump
+32700,1,Tillerson, Russian counterpart to attend G-20
+33176,1,What’s a ’Deep State’ and why is it a new buzzword for the online right?
+33229,2,Europe is teetering on edge of change Trump might push it over
+33276,1,Protests after Netherlands bars Turkish FM
+33277,1,Trump casts long shadow over Dutch election
+33294,1,Putting ’America First,’ Trump said to plan lighter foreign travel than predecessors
+33297,1,Tensions rising between Turkish, European leaders before elections
+33335,1,Will Europe ride populist wave? Visual guide
+33337,1,Dutch elections: Populism on the rise?
+33383,2,Sources: DOJ report does not confirm Trump’s wiretap claim
+33394,1,Why Trump just can’t (and probably won’t) quit the wiretap story
+33396,4,Trump stands by wiretapping claim during Merkel visit
+33403,1,Trump’s wiretapping accusation comes to a head at Comey hearing
+33462,1,Houses of Parliament (Great Britain) Fast Facts
+33577,6,After combative meeting, Trump tries phone flattery to win over Merkel
+33590,1,UK to trigger Article 50, starting Brexit process
+33695,1,Trump discusses wiretapping tweet and Merkel in Financial Times
+33774,1,What’s your policy? Russia asks Trump after Syria gas attack
+33811,1,After Syria strike, populist supporters abandon Trump at home and abroad
+33826,1,Who’s with the US on Syria strike and who isn’t
+34023,1,Monitors deliver scathing verdict on Turkish referendum
+34037,1,Theresa May’s full election statement
+34097,1,Paris shooting overshadows election campaign
+34118,1,Ann Coulter is not letting Berkeley off easy
+34171,1,Obama re-emerges in public after avoiding political spotlight
+34197,2,Ivanka Trump’s coming out
+34287,1,Brexit: Irish border at forefront of talks
+34304,1,How the world sees Trump, 100 days in
+34383,1,Head to head: How Le Pen and Macron compare
+34479,1,French election results: Macron defeats Le Pen
+34493,1,Emmanuel Macron’s tricky to-do list after French election
+34654,2,Another local election buoys Merkel’s party
+34725,1,A timeline of Baylor University sex assault accusations
+34813,1,Melania and Ivanka Trump arrive in Saudi Arabia sans headscarves
+34844,1,Saudis, UAE pledge $100 million to Ivanka Trump-proposed fund
+34908,3,1 day, 2 presidents: Merkel meets with Obama, then Trump
+34947,1,Theresa May Fast Facts
+34952,1,Why Trump’s prime minister shove pleased Putin
+34983,1,Prince Harry hosts Obama at Kensington Palace
+34984,1,Trump, feted and chided abroad, returns to uncertainty
+35021,5,While campaigning, Merkel says Europeans can’t ’completely’ rely on US, others
+35037,1,How Trump can change the subject
+35081,1,Trump expected to withdraw from Paris climate agreement
+35111,1,Ghitis: Trump has finally gone too far
+35181,1,Putin speaks out on election meddling and more
+35334,1,Trump’s strain with Obama marks departure from presidential fraternity
+35556,1,UK Chancellor: Cladding on Grenfell Tower ’banned on high-rises’
+35571,1,79 presumed dead in London fire
+35811,1,Why the U.S. is freaked out about Brexit
+35819,1,Brexit vote wreaks financial, political havoc
+35825,1,Brexit: EU leaders demand quick UK exit
+35987,1,Elie Wiesel, Nobel laureate, dead at 87
+36119,1,Obama heads to NATO summit at ’inflection point’
+36181,1,In Poland, Obama confronts a legacy reality check
+36202,1,Opinion: Tests for British PM Theresa May
+36253,1,Theresa May becomes UK PM: Live updates
+36269,2,Theresa May becomes new British PM
+36455,1,Munich attacker researched rampage killings, police say
+36460,1,Munich shooting: 9 victims, gunman dead
+36482,2,Margaret Thatcher Fast Facts
+36505,1,Ansbach suicide bomber pledged allegiance to ISIS
+36528,1,Is Russia trying to influence U.S. election?
+37462,1,Obama, China ratify climate agreements
+37735,1,Why the presidential debates need an Hispanic moderator
+37791,4,UNC misconduct policy faces new scrutiny
+38039,1,Gary Johnson struggles to name a world leader he respects
+38063,1,World leader Trump admires? The same one he’s vilified
+38305,3,Syrian refugee detained in Germany for alleged attack plan
+38742,1,Obama’s last trip will be to a divided Europe
+38745,7,Germany’s Angela Merkel to run for 4th term as Chancellor, politician says
+38791,1,Obama leaves Europe with little certitude
+39017,1,Marine Le Pen: Impossible made possible by Trump win
+39157,1,How populism could shake up Europe: A visual guide
+39531,1,Witnesses describe Christmas market attack
+39543,2,Berlin attack: ISIS claims it inspired truck assault
+39569,1,Berlin attack: Police hunt Tunisian suspect
+39578,1,Berlin attack: Fingerprints clue in manhunt
+39607,1,Berlin attack suspect Anis Amri killed in Milan shootout
+39625,1,Anis Amri: 3 arrested, including his nephew
+39782,1,What (not) to look forward to in 2015
+39870,1,Obama, Kerry absent from unity rally in Paris
+39871,1,At least 3.7 million rally against terrorism in France
+39892,1,White House: ’Higher profile’ person should have gone to Paris
+40076,1,PEGIDA chief resigns amid Hitler selfie uproar
+40092,1,’Paper classes’ lawsuit: UNC and NCAA broke promises
+40260,1,Super Bowl: New England Patriots beat Seattle Seahawks
+40289,1,Ukraine’s PM: It’s ’crystal clear’ Russians are here
+40377,1,Jimmy Carter: Women’s rights the fight of my life
+40400,1,Ukrainian leader says ceasefire in effect
+40828,1,Putin to host Kim Jong Un
+40933,5,Vote to ax Ole Miss Chancellor Dan Jones riles alums
+41350,1,Parents ’opting out’ of standardized testing
+41583,1,Nicola Sturgeon is realigning British politics
+41600,1,Educator calls out ’black people’ for leaving graduation
+41639,1,GA principal fired after making ’black people’ remark
+42103,1,U.N. chief: Yes, we can end poverty
+42232,1,Climate: 15 scary facts about rising seas (Opinion)
+42630,1,Tunisia hotel attack: 38 killed, tourists flee
+42850,1,Young Elizabeth’s Nazi salute: The Sun sparks furor
+43321,1,BREMMER: ’The Pax Americana, as of tomorrow, is over’
+43710,1,BILL GATES: A new kind of terrorism could wipe out 30 million people in less than a year — and we are not prepared
+44033,1,Trump, confronted on wiretapping claims, tells Merkel: ’At least we have something in common, perhaps’
+44035,1,’Why are you scared of diversity in the news?’: German reporter confronts Trump with pointed question on media
+44039,2,Trump and Merkel don’t shake hands during awkward interaction in Oval Office
+44052,1,Trump repeated a delusion about Germany that’s been floating around the White House
+44085,1,The FBI made a ’very unusual’ move in an effort to quash Trump’s wiretapping claims
+44140,1,Ivanka Trump’s new White House position could be an ethical minefield
+44152,4,White House shoots down German officials’ claim that Trump gave Merkel a $374 billion bill to pay for NATO
+44510,1,North Korea has detained a US citizen — the 3rd American now held there
+44564,1,UC Berkeley police brace for unrest despite canceled Ann Coulter speech
+44567,1,A retired US Navy admiral explains how a lesson from the hardest exercise in SEAL training served him over 37 years in the military
+44689,1,Emmanuel Macron wins French presidential election in landslide
+44958,2,MERKEL: Germany can no longer ’fully rely’ on the US
+44984,1,Trump to world leaders: Why don’t you call me on my cellphone
+45105,3,IT’S LOOKING LIKE A HUNG PARLIAMENT WITH THE TORIES HANGING ON BY THEIR FINGERNAILS
+45118,3,MAY IN NEGOTIATIONS WITH IRISH UNIONISTS FOR MINORITY GOVERNMENT DEAL
+45234,1,Brexit negotiations begin despite Theresa May facing growing revolt over ’Hard Brexit’ plans
+45381,8,Putin defends Russia’s recent aggression, blames US and Europe for rising tensions
+45615,1,The leaked email that ex-Mizzou President Tim Wolfe sent to friends is shockingly tone-deaf
+45768,1,Hong Kong’s ’One Country, Two Systems’ is unraveling
+46072,1,Louisiana’s economy suffered after ’years of mismanagement’ under Bobby Jindal
+46139,1,Dean of prestigious law school takes ’indefinite leave of absence’ after sexual harassment lawsuit
+46674,1,Obama took a veiled shot at Trump over his comments about Muslims
+47103,1,This one sentence sums up why Britain’s housing market is going to crash
+47152,1,2 dead in murder-suicide on UCLA campus
+47472,1,Britain is getting exactly what it voted for — economic and political destruction
+49568,1,A 23-year-old rapper who refuses to sign a record deal is making history at the 2017 Grammys
+49616,1,Some colleges are refusing to call themselves ’sanctuary’ campuses because states could cut their funding
+49738,1,ISIS claims credit for Christmas market attack in Berlin
+49931,1,Did Putin Direct Russian Hacking? And Other Big Questions
+49939,1,The Donald Trump Cabinet Tracker

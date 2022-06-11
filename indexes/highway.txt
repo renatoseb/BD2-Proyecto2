@@ -1,0 +1,725 @@
+26,1,Istanbul, Donald Trump, Benjamin Netanyahu: Your Morning Briefing - The New York Times
+32,1,France Lets Workers Turn Off, Tune Out and Live Life - The New York Times
+65,1,My Canada - The New York Times
+70,1,Remaking Kennedy Airport Is Governor’s Next Big Plan - The New York Times
+94,1,Ending Speculation, Black College Says Band Will Play at Inaugural Parade - The New York Times
+117,1,California Today: Cracking Down on Distracted Driving - The New York Times
+145,1,U.S. Consulate Official Shot and Wounded in Mexico - The New York Times
+146,1,300 Marines to Aid Fight Against Taliban in Spring - The New York Times
+161,1,Experts Hesitate to Link Florida Airport Attack to PTSD - The New York Times
+200,1,The Best and Worst of the Golden Globes - The New York Times
+334,1,3 Takata Executives Face Criminal Charges Over Exploding Airbags - The New York Times
+337,2,Motorcycling Without the Mansplaining - The New York Times
+353,1,It Can Power a Small Nation. But This Wind Farm in China Is Mostly Idle. - The New York Times
+394,1,As Support for E.U. Flags Elsewhere, Bulgaria Sees Its Benefits - The New York Times
+450,1,Road Trip to Trump’s Inauguration: ‘Let’s See What He Can Do’ - The New York Times
+518,1,Baseball Tragedy: Two Players Die in Crashes in the Dominican Republic - The New York Times
+548,1,Trump Revives Keystone Pipeline Rejected by Obama - The New York Times
+550,1,Press Secretary Affirms that Trump Believes Lie of Millions of Illegal Voters - The New York Times
+567,3,Climate Change Activist’s Barefoot Walk Across America Ends in Tragedy - The New York Times
+596,1,Christo, Trump and the Art World’s Biggest Protest Yet - The New York Times
+658,1,Love and Black Lives, in Pictures Found on a Brooklyn Street - The New York Times
+708,1,Iraqi Region Is Evicting Families of ISIS Members - The New York Times
+714,1,An Iraqi Family Split by the Vicissitudes of Asylum - The New York Times
+957,2,How to Buy a Used Car in an Age of Widespread Recalls - The New York Times
+981,1,Joyous Africans Take to the Rails, With China’s Help - The New York Times
+1012,1,California Farmers Backed Trump, but Now Fear Losing Field Workers - The New York Times
+1029,1,Japan Limited Immigration Now It’s Short of Workers - The New York Times
+1035,1,Jackson Hole Ski Resort Forced to Close After ‘Unusual’ Storm - The New York Times
+1079,1,‘The Walking Dead’ Is Back: 7 Questions for the Second Half Premiere - The New York Times
+1091,1,Profitable Pickups May Be in Cross Hairs of Trump Border Tax - The New York Times
+1127,3,Corruption Scandals With Brazilian Roots Cascade Across Latin America - The New York Times
+1179,5,U.S. Traffic Deaths Rise for a Second Straight Year - The New York Times
+1189,1,Trump’s Inroads in Union Ranks Have Labor Leaders Scrambling - The New York Times
+1234,2,Trump Proposal Would Deport More Immigrants Immediately - The New York Times
+1237,1,Trump’s ‘Winter White House’: A Peek at the Exclusive Members’ List at Mar-a-Lago - The New York Times
+1250,1,Russia Stirs Friction in Balkans, as NATO Keeps an Uneasy Peace - The New York Times
+1251,2,Ecuador Votes as Latin America’s Left Sags, a Generation of Icons Gone - The New York Times
+1269,1,California Braces for More Rain. How Bad Can It Get? - The New York Times
+1311,1,North Dakota Arrests 10 as Pipeline Protest Camp Empties - The New York Times
+1326,1,California Today: On Catalina, the Drought Is Far From Over - The New York Times
+1333,2,The Future of Not Working - The New York Times
+1470,1,Mount Etna, Europe’s Most Active Volcano, Puts On a Show - The New York Times
+1523,1,How to Steal a River - The New York Times
+1692,1,Robert James Waller, Author of ‘The Bridges of Madison County,’ Dies at 77 - The New York Times
+1717,1,Nigeria’s Battles With Boko Haram Scar the Land and Its People - The New York Times
+1718,2,Uprooted by War, Threatened by Boko Haram and Desperate to Go Home - The New York Times
+1788,1,How Egypt’s Activists Became ‘Generation Jail’ - The New York Times
+1881,1,Sleepy Behind the Wheel? Some Cars Can Tell - The New York Times
+1904,1,Beer on a Budget in San Diego - The New York Times
+1921,1,In New York, Bringing Broadband to Everyone by 2018 - The New York Times
+1937,1,Seven Highlights From the Gorsuch Confirmation Hearings - The New York Times
+1942,2,The Hawaii Cure - The New York Times
+1945,1,Resurgent Syrian Rebels Surprise Damascus With New Assaults - The New York Times
+1973,1,Roused by Trump, First-Time Female Candidates Eye Local Seats - The New York Times
+2082,1,Raiders, Mosul, Jared Kushner: Your Monday Evening Briefing - The New York Times
+2085,2,Aleksei Navalny, Russian Opposition Leader, Receives 15-Day Sentence - The New York Times
+2091,1,Baltimoreans Mourn a Man Said to Have Been Killed by Their Neighbor - The New York Times
+2169,1,Trump, Tillerson, Venezuela: Your Thursday Evening Briefing - The New York Times
+2226,1,Ranks of Political Prisoners Grow as Democracy Ebbs in Venezuela - The New York Times
+2275,1,An Idaho Town Bucks the Perception of Rural Struggle - The New York Times
+2324,1,Trump Weighs Infrastructure Bill but Keeps New York Up in the Air - The New York Times
+2335,1,Christie Lies Low, but Can’t Avoid Wrath of Commuters - The New York Times
+2559,1,Campaigns Are Long, Expensive and Chaotic. Maybe That’s a Good Thing. - The New York Times
+2579,1,Appeals Court Favors Transgender Student in Virginia Restroom Case - The New York Times
+2583,1,Iceland’s Water Cure - The New York Times
+2607,1,Fiat Chrysler Announces Recall of 1.1 Million Autos - The New York Times
+2650,1,Your Wednesday Evening Briefing: Donald Trump, J. Dennis Hastert, Ted Cruz - The New York Times
+2651,1,Texting and Driving? Watch Out for the Textalyzer - The New York Times
+2653,1,A Toddler, a Loose Gun in a Car, and a Mother Dies - The New York Times
+2695,2,Takata Airbag Recall Is Said to Grow by 35 Million - The New York Times
+2696,4,Wildfire Empties Fort McMurray in Alberta’s Oil Sands Region - The New York Times
+2754,1,Doctors With Enemies: Did Afghan Forces Target the M.S.F. Hospital? - The New York Times
+2766,1,What Would It Take for Donald Trump to Deport 11 Million and Build a Wall? - The New York Times
+2772,2,Pioneertown Wants to Be the New Old West - The New York Times
+2785,1,Exaggerator Tops Nyquist in Preakness to End Bid for a Triple Crown - The New York Times
+2901,4,Chasing Hiroshige’s Vision of Japan - The New York Times
+2923,1,Tesla Model S Suspension Failures Under Scrutiny by Safety Agency - The New York Times
+3021,1,Anton Yelchin, ‘Star Trek’ Actor, Dies at 27 - The New York Times
+3040,1,How to Survive Being an Airbnb Host - The New York Times
+3041,1,Falluja Restaurant Is Reborn in Baghdad, Offering Nostalgia With Its Kebab - The New York Times
+3106,1,A Noah’s Ark in Kentucky, Dinosaurs Included - The New York Times
+3121,1,California Today: How Badly Do You Want That New Rail Line? - The New York Times
+3128,1,10 Months, 45 National Parks, 11 Rules - The New York Times
+3148,1,U.S. Warns Honda and Acura Owners to Replace Airbags - The New York Times
+3161,4,The Fully Self-Driving Car Is Still Years Away - The New York Times
+3166,2,A Fatality Forces Tesla to Confront Its Limits - The New York Times
+3259,1,How a $2 Roadside Drug Test Sends Innocent People to Jail - The New York Times
+3317,2,Baton Rouge Shooting Jolts a Nation on Edge - The New York Times
+3318,1,Baton Rouge Police Shooting: What We Know - The New York Times
+3330,1,Online Trail Illuminates Baton Rouge Gunman’s Path to Violence - The New York Times
+3344,1,Volkswagen Scandal Reaches All the Way to the Top, Lawsuits Say - The New York Times
+3345,1,Republican Convention, Hillary Clinton, Roger Ailes: Your Tuesday Evening Briefing - The New York Times
+3348,1,By Bulgaria’s Beautiful Black Sea - The New York Times
+3361,1,‘Nothing Short of a Miracle’: No Serious Injuries in Tappan Zee Crane Collapse - The New York Times
+3387,1,France Identifies 2nd Man Who Attacked Church and Killed Priest - The New York Times
+3475,1,Arrested Protester of Baton Rouge Police Shooting Files Suit - The New York Times
+3534,1,Transporting the Dead: A Booming but Lightly Regulated Industry - The New York Times
+3556,2,Driving Tips: How You Can Help Limit Traffic Jams - The New York Times
+3561,1,Trump Tower Climber Now Faces Charges - The New York Times
+3596,1,G.O.P. Urges Donald Trump to Broaden Outreach to Black Voters - The New York Times
+3664,1,Private Equity Pursues Profits in Keeping the Elderly at Home - The New York Times
+3669,1,From Montreal to Minnesota, by Inland Sea - The New York Times
+3688,1,Inside the Conservative Push for States to Amend the Constitution - The New York Times
+3706,1,Occupying the Prairie: Tensions Rise as Tribes Move to Block a Pipeline - The New York Times
+3723,2,N.C. Trooper Investigated in Fatal Shooting of Deaf Motorist - The New York Times
+3755,1,A Cheaper Airbag, and Takata’s Road to a Deadly Crisis - The New York Times
+3756,6,Laurie the Moose Lady Puts ‘Heart and Soul’ Into Roadkill - The New York Times
+3811,1,Georgetown University, Donald Trump, SpaceX: Your Thursday Evening Briefing - The New York Times
+3821,1,Thousands March in Venezuela to Demand President’s Ouster - The New York Times
+3848,1,Venture Communism: How China Is Building a Start-Up Boom - The New York Times
+3870,1,Syrian Forces Make Gains Near Aleppo With Russian Help - The New York Times
+3913,2,Ford Expands Costly Door Latch Recall - The New York Times
+3935,4,45,000 Pounds of Would-Be Pennies Coat Highway After Delaware Crash - The New York Times
+3941,2,Elon Musk Says Pending Tesla Updates Could Have Prevented Fatal Crash - The New York Times
+3968,1,Throwing Stones and Slaughtering Sheep at the Hajj - The New York Times
+3984,6,Autopilot Cited in Death of Chinese Tesla Driver - The New York Times
+4020,1,Inspired by the U.S., West Africans Wield Smartphones to Fight Police Abuse - The New York Times
+4025,1,Coming Soon, Economists Hope: Big Spending on Roads, Bridges and Ports - The New York Times
+4048,1,Bruce Springsteen’s Memoir: Riding Shotgun With the Boss - The New York Times
+4050,2,Protests Erupt in Charlotte After Police Kill a Black Man - The New York Times
+4071,1,‘South Park’: After Two Decades, It’s Still by the Seat of Their Pants - The New York Times
+4076,1,California Today: The Debate Over Indian Mascots and Imagery - The New York Times
+4092,2,Can Tesla’s Autopilot Be Trusted? Not Always - The New York Times
+4167,1,As America Sleeps, Donald Trump Seethes on Twitter - The New York Times
+4177,1,New Jersey Will Increase Gas Tax 23¢, Ending Long Political Stalemate - The New York Times
+4208,1,Hurricane Matthew Pummels Haiti and Moves Toward U.S. - The New York Times
+4232,1,Hurricane Matthew Approaches Florida Governor Urges 1.5 Million to Flee - The New York Times
+4246,1,In a Montana Bear Attack, Lessons on Hope, Survival and First Aid - The New York Times
+4290,2,In Haiti, a City’s Race Into the 21st Century Is Ruined by a Hurricane - The New York Times
+4315,4,Why Last-Second Lane Mergers Are Good for Traffic - The New York Times
+4403,1,Used Cars Slip Past Recall Safeguards, Putting Drivers in Danger - The New York Times
+4413,1,Before the Wedding, a Test: 3,000 Miles of Barbecue - The New York Times
+4420,2,Fire, Film, Tweet: The Taliban’s New Way of War - The New York Times
+4498,1,Californians Legalize Marijuana in Vote That Could Echo Nationally - The New York Times
+4575,1,Donald Trump, Syria, Russia: Your Wednesday Briefing - The New York Times
+4618,1,Review: Miranda Lambert Sings of What Comes After the Heartbreak - The New York Times
+4672,1,A Crumpled School Bus Leaves Chattanooga Dazed - The New York Times
+4700,1,As Wildfires Rage, Israel Suggests Arson and Asks for Foreign Help - The New York Times
+4711,1,Hungry Venezuelans Flee in Boats to Escape Economic Collapse - The New York Times
+4737,1,California Today: Fretting Over the ‘Netflix Tax’ - The New York Times
+4755,1,Trump, Gatlinburg, Fidel Castro: Your Tuesday Evening Briefing - The New York Times
+4763,1,Gatlinburg Wildfires Force Evacuations: ‘It Was Like Driving Into Hell’ - The New York Times
+4791,1,Joe McKnight, Former Jets Player, Killed in Possible Road Rage Episode - The New York Times
+4857,1,Jubilant Libyan Militias Declare Victory Over ISIS in Surt - The New York Times
+4858,1,Like Trump, Europe’s Populists Win Big With Rural Voters - The New York Times
+4903,1,In Chicago, Bodies Pile Up at Intersection of ‘Depression and Rage’ - The New York Times
+4967,4,Seeing Africa by Road - The New York Times
+5060,1,California Today: Cast Your Vote for Californian of the Year - The New York Times
+5071,1,Fight - The New York Times
+5104,1,In American Towns, Private Profits From Public Works - The New York Times
+5106,1,A Struggling Theme Park Asks: Do You Still Believe in Santa? - The New York Times
+5111,1,Celebrating a Rugged Vision of Landscape Architecture - The New York Times
+5188,1,Takata Said to Be Close to Deal With U.S. Over Deadly Airbags - The New York Times
+5211,1,The Poet Idolized by a New Generation of Feminists - The New York Times
+5214,1,Earthquake Leaves a Trail of Destruction in Ecuador - The New York Times
+5220,1,In Los Angeles, Ditching the Car for an Eco-Friendly Trip - The New York Times
+5266,1,Now, Dennis Hastert Seems an Architect of Dysfunction as Speaker - The New York Times
+5283,2,Police Official Found Dead on Long Island, and Suicide Is Suspected - The New York Times
+5289,1,Your Evening Briefing: Hillary Clinton, Donald Trump, Cultural Revolution - The New York Times
+5298,2,Everything Is Different on an Island - The New York Times
+5311,1,‘I Quit,’ Handcuffed Man Says in Video of Fatal Encounter With Georgia Police - The New York Times
+5382,1,He Had 8 Convictions for Driving Drunk. On His 9th, He Got Life. - The New York Times
+5428,1,Why ‘Transcending Race’ Is a Lie - The New York Times
+5485,1,Takata Chief Executive to Resign as Financial Pressure Mounts - The New York Times
+5493,5,Self-Driving Tesla Was Involved in Fatal Crash, U.S. Says - The New York Times
+5500,6,Joshua Brown, Who Died in Self-Driving Accident, Tested Limits of His Tesla - The New York Times
+5539,1,Sydney H. Schanberg Dies at 82 Times Reporter Chronicled Khmer Rouge Terror - The New York Times
+5541,4,Police and Protesters Clash in Minnesota Capital - The New York Times
+5580,1,Why Land and Homes Actually Tend to Be Disappointing Investments - The New York Times
+5656,1,Barbra Streisand Sets the Record Straight - The New York Times
+5735,2,Southern California Fire Flared Up at 5 Acres. A Day Later, It Covered 25,000. - The New York Times
+5773,1,With the Olympics Over, Six Former Host Cities Worth Visiting - The New York Times
+5788,1,Cloud Computing Brings Sprawling Centers, but Few Jobs, to Small Towns - The New York Times
+5794,2,As La Guardia Is Overhauled, the Check-In Line Starts at the Highway - The New York Times
+5799,1,Knowing the Risks, Some Syrian Rebels Seek a Lift From Turks’ Incursion - The New York Times
+5856,1,Veterans Back on Patrol, This Time to Protect Marijuana - The New York Times
+5909,1,California Today: A ‘See Something, Say Something’ Prostitution Plan - The New York Times
+5942,1,The Magnificent 10: Restaurants That Changed How We Eat - The New York Times
+5943,1,Man Is Shot in Charlotte as Unrest Stretches to Second Night - The New York Times
+5987,1,Leaderless and Underfunded, N.J. Transit Had Troubles Well Before Fatal Crash - The New York Times
+6006,1,Bundy Brothers, Who Sought to Rally a Nation, Draw Scant Support at Trial - The New York Times
+6023,1,As Hurricane Matthew Nears U.S., Residents Get Warning: Prepare - The New York Times
+6040,1,Showgirls, Pastrami and Candor: Gloria Steinem’s New York - The New York Times
+6070,2,In City Built by Immigrants, Immigration Is the Defining Political Issue - The New York Times
+6097,1,East of Mosul, Kurdish Troops Advance on ISIS-Held Villages - The New York Times
+6100,2,Dennis Byrd, Former Jets Player, Is Killed in Car Crash in Oklahoma - The New York Times
+6119,1,Venezuelans Take to Streets to Oppose President Nicolás Maduro - The New York Times
+6136,1,This Tiny West Village Garden Is Public Space. But You Can’t Go In. - The New York Times
+6167,2,‘Not Our President’: Protests Spread After Donald Trump’s Election - The New York Times
+6185,1,World (or at Least Brooklyn) Stops for Lost Dog - The New York Times
+6189,2,Protesters Take Anti-Trump Message to His Doorstep, and Plan Next Steps - The New York Times
+6206,8,Biggest Spike in Traffic Deaths in 50 Years? Blame Apps - The New York Times
+6262,2,Donald Trump’s New York Times Interview: Full Transcript - The New York Times
+6267,1,A Long-Gone Parasite Returns to Florida, Leaving a Trail of Dead Deer - The New York Times
+6268,2,Cause of Severe Injury at Pipeline Protest Becomes New Point of Dispute - The New York Times
+6278,1,Subdued Cuba Prepares Memorial for Castro - The New York Times
+6344,1,Life in Obamacare’s Dead Zone - The New York Times
+6349,1,Joe McKnight Shooting: Man Is Charged Days Later in Fatal ‘Road Rage’ - The New York Times
+6396,1,Rex Tillerson, Aleppo, Donald Trump: Your Evening Briefing - The New York Times
+6421,4,California Today: What Stinks in Huntington Beach? - The New York Times
+6433,1,Aleppo, China, Jordan: Your Morning Briefing - The New York Times
+6532,1,Missing Mexican Students Suffered a Night of ‘Terror,’ Investigators Say - The New York Times
+6552,2,Collision of Buses and Fuel Truck in Afghanistan Kills More Than 50 - The New York Times
+6569,1,Iraqi Protesters Clash With Troops in Baghdad’s Green Zone - The New York Times
+6573,2,It’s No Accident: Advocates Want to Speak of Car ‘Crashes’ Instead - The New York Times
+6645,1,Risks Higher for Front-Seat Passengers in Some S.U.V. Crashes, Tests Show - The New York Times
+6650,1,10 Injured During White Nationalist Protest in Sacramento - The New York Times
+6686,1,Black Lives Matter Was Gaining Ground. Then a Sniper Opened Fire. - The New York Times
+6689,1,Dallas Gunman Had Plans for Wider Attack, Police Say - The New York Times
+6760,1,How Think Tanks Amplify Corporate America’s Influence - The New York Times
+6782,1,Louisiana Floods Lead to 8 Deaths - The New York Times
+6803,1,Reflections From Rio - The New York Times
+6808,1,Donald Trump’s Description of Black America Is Offending Those Living in It - The New York Times
+6906,1,In Cranes’ Shadow, Los Angeles Strains to See a Future With Less Sprawl - The New York Times
+6908,4,Tesla Upgrades Autopilot in Cars on the Road - The New York Times
+6909,3,The Bangladeshi Traffic Jam That Never Ends - The New York Times
+6912,1,Young Rural Women in India Chase Big-City Dreams - The New York Times
+6931,1,Next Big Tech Corridor? Between Seattle and Vancouver, Planners Hope - The New York Times
+6938,1,An Alarming 10% Rise in Traffic Deaths in the First Half of 2016 - The New York Times
+6940,1,How to Get People to Evacuate? Try Fear - The New York Times
+6944,1,Auto Shop Owners Forced Out of Willets Point Struggle to Rebuild in the Bronx - The New York Times
+6983,1,Italy, Already Rattled, Is Struck by Another Powerful Quake - The New York Times
+7014,1,‘They Broke It. America Bought It.’ - The New York Times
+7016,1,Red, Blue and Divided: Six Views of America - The New York Times
+7039,2,Killers on a Shoestring: Inside the Gangs of El Salvador - The New York Times
+7058,1,In Havana, Castro’s Death Lays Bare a Generation Gap - The New York Times
+7090,1,How Ben Carson Could Undo a Desegregation Effort - The New York Times
+7136,1,Wonder and Worry, as a Syrian Child Transforms - The New York Times
+7174,1,The Fighter - The New York Times
+7230,1,Good Samaritan Helps Boy Survive ‘Internal Decapitation’ in Idaho Car Crash - The New York Times
+7275,3,DeRay Mckesson, Arrested While Protesting in Baton Rouge, Is Released - The New York Times
+7282,3,Amid Protests Over Police Shootings of Black Men, Latinos Note a Disparity - The New York Times
+7294,2,Tesla Faults Brakes, but Not Autopilot, in Fatal Crash - The New York Times
+7358,1,Hajj Prep: Search Soul, Buy Sturdy Shoes, Pay the Dentist - The New York Times
+7370,1,Hillary Clinton Struggles to Gain Traction in Florida, Despite Spending - The New York Times
+7411,1,Bob Dylan Wins Nobel Prize, Redefining Boundaries of Literature - The New York Times
+7463,2,Choke Point of a Nation: The High Cost of an Aging River Lock - The New York Times
+7467,1,Veterans to Serve as ‘Human Shields’ for Dakota Pipeline Protesters - The New York Times
+7482,1,The 5 Easiest and 5 Most Difficult Promises for Donald Trump to Keep - The New York Times
+7575,1,A Saudi Morals Enforcer Called for a More Liberal Islam. Then the Death Threats Began. - The New York Times
+7642,1,When You Have to Go, Japanese Rest Stops Won’t Keep You Waiting - The New York Times
+7664,2,As American as Apple Pie? The Rural Vote’s Disproportionate Slice of Power - The New York Times
+7691,1,Visiting the African-American Museum: Waiting, Reading, Thinking, Connecting, Feeling - The New York Times
+7718,1,One Police Shift: Patrolling an Anxious America - The New York Times
+7845,1,Rand Paul on Obamacare Lite: There Is a ’Separation Between’ Ryan, Trump - Breitbart
+8050,1,Complete Text of President Donald Trump’s Inaugural Address
+8093,3,Mexican Cops Arrest Gunman Tied to Beer Delivery Murders
+8145,6,Mexican Cartel Punishes Thieves with Highway Hanging
+8183,1,Iraqi and Egyptian Nationals Caught After Sneaking Across Open Border
+8392,1,Mexican Cartels Ramp Up Smuggling near Texas Border
+8442,1,5 Border Horrors Establishment Media Mostly Ignore
+8444,1,The Eagles Sue Mexican ’Hotel California’ That Opened Decades Before Release of Famous Song - Breitbart
+8508,1,PHOTOS: Mexican Cartel Executes Man in Broad Daylight near Texas Border
+8814,1,Texas Cop Survives New Year’s Day Ambush
+8909,1,Barcelona: Police Open Fire on Stolen Gas Truck Speeding Wrong Way Down Street
+9271,1,Mexican Authorities Struggle to ID 32 from Cartel’s Mass Grave
+9534,1,Warren Buffett Says Free Trade Has Turned American Workers Into Roadkill - Breitbart
+9709,4,California’s Big Sur, Highway 1 Closed By Massive Landslide - Breitbart
+9737,1,Exclusive — A Star Is Born: Rep. Claudia Tenney Celebrates Memorial Day on Rolling Thunder Ride with Rex Tillerson - Breitbart
+10180,1,Five Illegal Aliens Arrested After Shooting Woman 13 Times, Say Police
+10206,1,Joel Pollak on What He Saw at the Trump Revolution: ‘How Trump Won’
+10214,1,Peter Schweizer: Trump’s Infrastructure Bill Needs Transparency ‘So It’s Not Hijacked by the Permanent Political Class’
+10244,1,FULL TEXT – MILO at Cal Poly State University: ’No More Dead Babies’ - Breitbart
+10317,1,Cartel Robberies Continue Along Mexican Border State Highways
+10342,1,Jerry Brown Wishes He Ran for President in 2016 - Breitbart
+10508,1,Mexican Cartel Kills Activist Mom Searching for Mass Graves
+10773,1,Ossoff Campaign Told Volunteers to Say ’He Lives Three Blocks Away from the District,’ Reporter Shows Distance Is Three Miles
+10864,1,Mike Pence: ‘We Need Every Republican in Congress,’ Every American for Healthcare ‘Battle’
+10890,2,Can Trump Get to 3 Percent Growth Despite Predictions from the Congressional Budget Office?
+10909,1,’Great Wall’ Star Matt Damon: ’I’m Not a Believer in Walls’
+10938,1,Sinaloa Cartel Members Caught Pushing Drugs in Rival Border State
+10950,1,Human Smuggler Crashes Car Fleeing Border Patrol Agents
+10985,2,Michael Moore: ’Only Hope’ to Avoid Nuclear War Is for Pentagon to Avoid Putting Real Codes In Nuclear Football - Breitbart
+11153,1,Arizona Sheriffs Want To Help Trump With Border Security
+11175,1,Afghanistan Loses Control of Nearly Half the Country Under Obama
+11305,1,Illegal Alien Charged in Drunk Driving Crash that Injured Family of Four
+11479,1,DC Swamp Goes Crazy for James Comey Hearing - Breitbart
+11492,2,Texas Soldier Stands in Pouring Rain to Salute Funeral of Fellow Veteran
+11538,1,Rand Paul: Trump Has Been Sold a ‘Bill of Goods’ on Ryan Health Care Bill - Breitbart
+11605,1,President Donald Trump Brings the Rain in Inauguration Address
+11661,1,First Lady Melania Trump Boosts Tourism in Her Home Country
+11712,2,PHOTOS: From Caracas to Miami, Over 200,000 Venezuelans Mark Day 50 of Protests - Breitbart
+11743,1,Italy Prepares for Possible Mediterranean Refugee Crisis This Summer
+11773,1,Border Patrol K9 Finds 30 Pounds of Meth
+11783,1,PHOTOS: Chaos in Venezuela as Police Repress Resistance to Supreme Court ’Self-Coup’ - Breitbart
+11983,1,Brazile: Trump has ‘Enormous’ Opportunity to Find Common Ground with Dems - Breitbart
+12222,1,Suspected Cartel Boss Who Burned Hundreds of Victims Killed
+12399,1,**Livewire** President Trump’s First Address to a Joint Session of Congress
+12920,2,Highway Horror: Mexican Cartel Kidnap, Murder Beer Delivery Men
+12952,1,VP Mike Pence Promises Obamacare Repeal to Begin in a ’Few Days’ - Breitbart
+12999,1,Three Arrested for Starting Massive Fire on Atlanta Interstate Bridge
+13133,1,After Exposé, Anarchist Group Scales Back Plans to Blockade Roads, Disrupt Inauguration - Breitbart
+13154,1,Uber Drivers Dismembered in Mexican Border State by Cartel
+13282,1,Inauguration 2017: The Swearing In of President Donald Trump - Breitbart
+13535,1,Trump Empowers States with Massive Permitting Reform in ‘First Step’ to ‘Renewing America’s Roads, Rails, Runways and Rivers’ - Breitbart
+13683,1,FBI-DHS ’Russian Hacking’ Report Begins with Major Caveat
+13734,3,Media Refuse to Blame Anti-Trump Protesters for Violence at Rallies - Breitbart
+13802,2,VIDEO: Texas AG Advances Human Trafficking Awareness
+13840,1,Nine Killed in Border City Gun Battles in Hunt for Gulf Cartel Boss
+13907,1,Border Patrol Agents Find Meth in Gas Tank
+13946,6,Police: Naked Man Attacked, Urinated on Police Car - Breitbart
+14037,1,Speaker Paul Ryan Looks to New Term, Rep. Nancy Pelosi Awaits Revolt Aftershocks - Breitbart
+14092,1,Drug Cartel Delivers Texas Truck Full of Bodies in Mexican Border State
+14148,1,U.S. Maintains That Mexico Is High Risk for Tourist Kidnappings
+14170,2,Donald Trump Vows Massive Regulatory Cuts and $1 Trillion Infrastructure Spending - Breitbart
+14223,1,ZUMWALT: On Anniversary of Reagan’s ’Tear Down This Wall’ Speech, Radical Islam Trump’s Great Challenge - Breitbart
+14268,2,Gov. Brown Wants $5.2 Billion Tax Increase to Fix Transportation   - Breitbart
+14271,2,Border Patrol Agents Arrest More Previously Deported Sex Offenders
+14279,1,Trump to American Workers: ‘I Don’t Want to Be President of the World’
+14320,3,Riots, Looting in Mexico Over Spiking Gas Prices
+14542,1,Texas Hearse Thieves Dump Body on Roadside
+14651,1,Mexican Authorities Kill Gulf Cartel, Zetas Bosses in Key Strikes
+14690,1,Coulter’s Non-Speech Cost Berkeley Half Million Dollars to Pay Cops - Breitbart
+14825,1,Jerry Brown Praises Trump: ’Amen, Brother’ on Infrastructure
+14883,1,Texas Woman Bound, Kidnapped After Helping Illegal Immigrant
+15070,1,Oroville: Governor Orders Emergency, Pentagon Preps Military
+15180,1,Mexican Nationals Arrested in Sex-for-Money With Underage Girls Bust
+15200,1,Mexican National Charged for Alleged Assault on ICE Agent
+15664,19,**LIVE UPDATES** Massive Winter Storm Hits East Coast - Breitbart
+15743,1,Border Patrol Agents Rescue Migrant Minor in Desert
+15834,1,***LIVEWIRE*** Watch: Street Clashes in Charlotte, N.C., After Police Shooting - Breitbart
+15855,2,Highway Patrol Officers Deliver Baby in Broken-Down Truck
+16144,2,Cartel Terrorism at Border: 15 Kidnapped Off Hijacked Mexican Passenger Bus
+16178,1,Apocalypse in the Jungle as Migrants Burn Camp Down
+16359,2,***GOP Convention LiveWire*** Trump Accepts Nomination - Breitbart
+16523,1,Black Lives Matter UK Halts Heathrow Airport Traffic For ’Moment Of Rage’
+16735,1,***2016 LiveWire*** Trump Lays Out Economic Plan Hillary Returns to Campaign Trail - Breitbart
+16762,1,Trump Hotel Opens in Washington, D.C. Amidst Campaign Sprint
+16803,1,Tesla was Under SEC Audit before Autopilot Crashes - Breitbart
+16890,1,Cartel Gunmen Ambush Border Police with Armored Trucks
+16916,4,Mexican Cops Seize 1,800 Pounds of Cocaine Headed to Texas - Breitbart
+17088,1,Highest Military Court to Rule on Religious Liberty - Breitbart
+17089,2,Alexandria City Council Votes to Move Confederate Statue, Rename Jefferson Davis Highway - Breitbart
+17473,2,Truckers Block Calais To Demand Closure Of Migrant Camp
+17502,1,GRAPHIC: Executions and Hacked Corpses Terrorize Mexico near Texas Border
+17536,1,The Specter of De-Gentrification: The Once and Future Suburb - Breitbart
+17611,1,Tom Brokaw: Bernie Sanders Can Win Nomination if He Wins California - Breitbart
+17782,1,Texas Border County Overwhelmed with Bodies of Migrants, State Agencies Step In
+18069,1,GRAPHIC VIDEO: Mexican Cartel at Border Preps to Incinerate Victims’ Hacked Bodies, Plays Soccer with Head
+18129,2,Sen. McDaniel: Trump’s Position on Eminent Domain is Troubling - Breitbart
+18184,1,Mexican Cartel Smugglers Open Fire on U.S. Federal Agents at Texas Border - Breitbart
+18225,2,Google to Congress: Trash Constitution for Self-Driving Cars
+18318,1,Four Killed, More Wounded in Shooting Attack in Central Tel Aviv - Breitbart
+18614,1,The Inherent Violence of Grievance Culture - Breitbart
+18811,1,Sheriff Joe, Donald Trump: Protesters ’Think They’re Going To Intimidate,’ ’We’re Going To Be Heard’ - Breitbart
+18884,1,Central American Illegal Immigrants Continue to Flood U.S. Border at Record Rate
+18942,3,Syria: Israeli Warplanes Struck Targets Outside Damascus - Breitbart
+19053,1,Dole: Between Trump, Cruz ’I Would Vote for Trump - I Think He’s a Negotiator’ - Breitbart
+19074,2,At least 77 dead, hundreds injured in powerful Ecuador earthquake - Breitbart
+19221,2,Mexican Cowboy Caught Hiding Cartel Cash in Boots
+19370,1,Watch: Trump, Jeb Spar Over Eminent Domain - Breitbart
+19482,1,EXCLUSIVE DETAILS – Trump At RNC Will Declare ’They’re With Her... I’m With You’
+19494,1,Texas Principal Charged with Soliciting Minor Online Allegedly Sexting Young Relative
+19549,1,Illegal Aliens Rally for Sanctuary for Aliens, Muslims, LGBTs
+19584,1,Texas School Shocked -- Principal Arrested for Soliciting Minor Online
+19796,1,McDonald’s Employee Fired After Refusing to Serve Texas Cop
+19966,2,Phoenix Standoff: Protesters Block Highway, Force Police to Send Trump Supporters Home - Breitbart
+20085,1,Storm death toll in Haiti rises to more than 280 - Breitbart
+20089,4,***Horse Race LiveWire*** Left-Wing Activists Plan Anti-Trump Protests in NYC, Arizona - Breitbart
+20122,3,21 Officers Injured as St. Paul Freeway Protest Turns Violent - Breitbart
+20391,1,GRAPHIC: Cartel Shootouts Rain Terror in Mexican Border City -- Again
+20452,2,National Highway Traffic Safety Admin Shaming Texting Drivers on Twitter - Breitbart
+20464,1,Netanyahu: ’Evidence Of Arson’ In Wildfires Sweeping Israel - Breitbart
+20545,1,Venezuela: Chavista Gangs Attack Million-Strong Crowd Protesting
+20555,1,Tesla to Miss Revenue Target by $315 Million - Breitbart
+20589,2,Media, Palestinian Authority Misleading About Palestinian Teen Mistakenly Killed In ’Stone Throwing’ Incident - Breitbart
+20636,1,Islamic State Attack Kills Nine Iraqis Near Jordan Border
+20809,1,2 Dead, 1 Missing in Texas Flood After 18-Inch Rainfall
+21021,1,Politico: Donald Trump Poaching Blue-Collar Dems — ’Uprising in the Rust Belt’ - Breitbart
+21057,1,Corpses of 3 Illegal Immigrants Found in Remote Texas County -- 80 Miles from Border
+21209,1,Illegal Alien Bit by Copperhead After Cartel Coyotes Abandon Him in Texas
+21356,1,Live Updates: Search for NY-NJ Bombing Suspect Ahmad Khan Rahami - Breitbart
+21419,1,Gulf Cartel Human Smugglers Putting Tracking Devices on Illegal Immigrants in Texas
+21906,1,A Tale Of Two Cities: Protesters Fail to Disrupt Donald Trump in Tucson After Earlier Phoenix Chaos - Breitbart
+22001,1,Georgia Lawmaker Introduces Bill to Ban the Burqa
+22140,1,Exclusive -- Sarah Palin Defends Breitbart Against ’the Wrath of the Whiners’
+22152,1,How We Got to the Brink of Civil War, and How to Stop It
+22315,1,Arizona Protesters Block Highway, Roads to Donald Trump Campaign Rally - Breitbart
+22828,2,***Horse Race LiveWire*** Sanders, Clinton Debate After Bernie’s Michigan Upset - Breitbart
+22907,2,Report: Traffic Deaths on the Rise Due to Tech Distractions - Breitbart
+23110,1,Missing Country Singer Found Dead in Oklahoma Lake After Severe Storm
+23416,1,Muslim Profiling Isn’t Illegal, Unconstitutional, or Un-American - Breitbart
+23467,1,Corey Lewandowski’s Lawyer: Partial Birth Abortion Advocate, Accused of Biting Stripper - Breitbart
+23574,1,Multiple Dead, Dozens Injured in Texas Border Bus Crash
+23603,1,Black Lives Matter Mob Threatens Fox News Reporter - Breitbart
+23606,1,Border Patrol Agents Find Smuggled Aliens Packed Like Sardines
+23713,1,No Charges Against Man Who Shot, Killed Former NFL Player Joe McKnight - Breitbart
+23795,1,Kellogg Foundation’s Director of Racial Equity Wanted Castro to ’Rest In Power’
+23848,1,Cartel Smugglers Help Suspect Who Tried to Run Over Texas Cop Flee to Mexico
+24037,2,Trump Details MI Devastation Caused by Clinton’s Trade Policies
+24173,1,Coyotes Eat Corpse of Dead Migrant in Texas, Remains ’Scattered’
+24187,2,Town Instructed to Remove ’Christian Values’ Road Sign
+24322,2,***Live Updates*** Bernie, Hillary Meet in New Hampshire Town Hall - Breitbart
+24344,1,California 2nd Most Expensive State to Own a Car
+24463,1,Earthquake Hits Oklahoma –- Leaves Minor Damage
+24540,2,Calais: One Dead, Several Injured in Migrant Brawl
+24584,1,Radical Islamists Making a Home in Bosnia and Balkan States
+24651,1,Border Patrol Agents Stop 2 Human Smuggling Attempts
+24776,1,Olympics: Brazilian Soldier Killed After GPS Leads Him to Favela
+24787,1,Measles Outbreak in Memphis Began at Mosque - Breitbart
+24788,2,Trump: I’m Ready to Go Over $100 Million in the Campaign - Breitbart
+24888,1,Mexican Cop Shoots Illegal Immigrant Children - Mistook for Cartel Gunmen - Breitbart
+24919,1,What We Know About Mohamed Lahouaiej Bouhlel, the Nice Attacker
+24931,1,Trump Denounces ‘Outrageous’ Tel Aviv Terror Attack, Slams ‘Culture of Religious Hatred’ - Breitbart
+24950,2,Texas AG, Cops Team Up With Truckers to Stop Human Trafficking
+25175,2,Black Lives Matter Protester at American University: ’Riots Are the Voices of the Unheard’ - Breitbart
+25198,1,Operation #TrumpCup: ’This is a Statement, Not a Protest’
+25237,3,Massive Cartel Human Smuggling Ring Busted in Texas
+25309,1,Celebs Take RV Road Trip to Campaign for Bernie Sanders - Breitbart
+25447,2,Breitbart’s Aaron Klein: ’Almost Impossible’ Brussels Terrorists Could Infiltrate Israel’s Airport - Breitbart
+25660,1,***Horse Race LiveWire*** Cruz, Sanders Leading in Wisconsin Poll - Breitbart
+25798,1,Dallas Police: Manziel’s Domestic Violence Case Going to Grand Jury - Breitbart
+25849,1,Letter from a Black American: Barack Obama’s Lousiana Photo-Op Hides the Real Devastation - Breitbart
+25909,1,Dr. Dre Handcuffed by Police Outside Malibu Home - Breitbart
+25983,1,Top Soccer Player Kidnapped by Cartel Gunmen in Mexican Border State
+26155,2,Tesla on Fatal Autopilot Crash: Feature Still in ’Public Beta Phase’ - Breitbart
+26270,1,FULL TEXT: MILO on ’Master Baiters: The Leftists Keeping America’s Race War Alive’ - Breitbart
+26408,2,’Officers Down’: Cops Shot in Baton Rouge - Breitbart
+26618,1,WARNING GRAPHIC: 9 Reasons to Fear Mexican Cartels More than ISIS - Breitbart
+26650,1,Human Smugglers Abandon Illegal Aliens – 3 Dead, 1 Rescued
+26747,1,Feds Charge Previously Deported Illegal Alien After Death of Texas Firefighter, Two Children
+26751,1,Border Patrol Saves Illegal Alien from Buzzards
+27052,1,Twin Cities On Edge, No Charges Filed Against Police In Jamar Clark Shooting - Breitbart
+27079,1,Cuban Immigrant Arrested on Human Smuggling Charges near Texas Border
+27167,2,Thousands search for missing in Japan’s deadly earthquakes - Breitbart
+27236,1,Christian Rickers: Democrats Have ‘No Vision for the Future’ They’re ‘Still Looking in the Rear View Mirror’
+27584,1,Law Enforcement Drops Plans For Blockade of Dakota Access Pipeline Camp - Breitbart
+27660,1,Jon Stewart Goes Off: Obama ’Terrible for Press Freedom’ Left’s Race-Baiting ’Has to Stop’ - Breitbart
+27901,1,Obama Wants $4 Billion to Subsidize Silicon Valley Driverless Cars - Breitbart
+28184,1,Post-Dallas, Black Lives Matter Protests Sweep California
+28185,1,Schumer: Trump’s Trillion-Dollar Infrastructure Plan ’Sounded Good to Me’ - Breitbart
+28190,3,Goats Killed After Herd Wanders onto CA Highway - Breitbart
+28416,1,Kellogg Foundation Supports Group Headed by Cop-Killer-Loving Black Lives Matter Founder
+28531,1,Texas DPS Employee Pleads Guilty in Driver Licenses for Illegal Aliens Scheme
+28695,2,Tesla Attacks Blogger as Stock Free Falls Over Safety Concerns
+28820,1,Exclusive: Donald Trump: ‘I Am the Messenger’
+28822,1,Open Borders Rap Sheet: 30+ Crimes by Immigrant Suspects in September Alone - Breitbart
+28838,4,Black Lives Matter Shuts Down the 405 Freeway in L.A. - Breitbart
+29004,2,Charlotte ’Protest’: Looting, Shooting, and Social Justice
+29046,1,Chaos in Baton Rouge: The New Black Panthers Are Here
+29174,1,Peter Thiel at the National Press Club: The Movement Behind Trump Is ’Not Going Away’ - Breitbart
+29261,1,GRAPHIC: Mexican Authorities Find Another Cartel Execution Victim near Border
+29286,1,Anti-Trump Protesters Take to Streets for Third Night - Breitbart
+29424,1,WARNING GRAPHIC: The Most Brutal Murders Linked to El Chapo’s Sinaloa Cartel - Breitbart
+29441,1,Graphic: 8 Cartel Gunmen Killed in Ambush Turned Firefight near Texas Border
+29780,1,Where’s the Beef? Texas Man Arrested After Stealing Steaks, Say Police
+29868,2,VIDEO: Cartel Leader Released After Gunmen Stage Protest, Government Lied
+30082,1,Previously Deported Felon MS-13 Gang Member Enters U.S. - Breitbart
+30341,1,Tennessee Bureau of Investigation: Black Man Fired at Police Officers on Highway - Breitbart
+30360,1,The Worldwide Trumpian Majority: Lessons from Brexit, Britain, and the United States - Breitbart
+30521,2,WATCH: High-Speed Go-Kart Chase on Oakland Freeway - Breitbart
+30563,1,Bernie Supporters Hack Road Safety Sign and Post Bizarre Anti-Trump Message - Breitbart
+30780,4,EXCLUSIVE: MS GOP Chair Threatens Police Armed with ‘A Gun and a Badge’ Will Forcibly Remove Trump, Cruz Backers from Delegate Process - Breitbart
+30798,6,Black Lives Matter Protests Break Out Across America
+31012,1,Billboard Targets Illegal Immigrant Population in Texas
+31019,2,Violent Anti-Trump Riots Break out in West Coast Cities, Campuses
+31111,1,Border Patrol Agent Killed in Texas Crash
+31686,1,Living near a major road could be linked to higher dementia risk
+31688,1,Homicide charges dropped against ex-pro wrestler
+31700,1,Winter storm will bring snow to South
+31731,2,South hunkers down for winter storm
+31751,4,Winter storm moves up East Coast
+31827,1,Orlando tragedy: Two officers remembered
+31842,2,Stonehenge: Green light for tunnel plan
+31874,2,FedEx driver handles jackknifed big rig like a boss
+31882,2,CNN 10 - January 13, 2017
+31887,3,Tractor-trailer clips snowplow in Utah canyon
+31894,1,Motorist who assisted wounded trooper: He would have died
+31913,4,Weekend ice storm targets central US
+31941,3,Weekend ice storm glazes central US
+31978,1,Before presidential run, Trump called Russia the ’biggest problem’ and geopolitical foe of U.S.
+32065,1,Inaugural address: Trump’s full speech
+32109,2,Kansas City Royals pitcher dies in Dominican Republic
+32190,2,CNN 10 - January 26, 2017
+32224,3,Big city mayors confident they’ll remain sanctuaries
+32282,1,6 dead in Quebec mosque shooting
+32347,1,Spicer: Judge Hardiman didn’t drive to DC
+32658,1,Volcanoes Fast Facts
+32665,1,Residents return to homes near California dam
+32761,2,More rain in store after 5 killed in California storms
+32857,2,Dakota Access Pipeline protest site is cleared
+32945,1,Philippine protesters condemn drug war on anniversary of uprising
+33006,1,Donald Trump’s Congress speech (full text)
+33010,1,Trump: I will ask Congress for a $1 trillion infrastructure bill
+33018,1,3 critically hurt as SUV strikes marching band at Mardi Gras parade
+33040,5,Tornadoes rip through Midwest, Southeast 3 killed
+33045,1,CNN 10 - March 2, 2017
+33087,1,Being gay in Latin America: Legal but deadly
+33094,3,Trump-Kushner children appear to board motorcade sans car seats
+33233,2,Strange new twist in coldest murder case
+33255,1,ATV, dirt bike riders beat up driver on California freeway
+33296,1,Sen. Paul slams Rep. Ryan on health care
+33339,5,Nor’easter moving north as blizzard warning remains in some areas
+33407,1,Will Iraq survive victory over ISIS in Mosul?
+33422,1,Paraglider’s near-death experience
+33545,1,Controversial Police Encounters Fast Facts
+33594,2,NTSB investigates Texas church bus accident that left 13 dead
+33616,8,Fire causes section of I-85 in Atlanta to collapse
+33618,1,California’s replenished snowpack brings relief -- and worries
+33646,4,I-85 collapse in Atlanta: What caused it?
+33649,10,I-85 collapse: Three arrested after major fire under highway
+33651,1,Texas bus crash: NTSB wants to interview truck driver
+33685,9,I-85 collapse: Bond set at $200,000 for arson suspect in Atlanta highway fire
+33694,1,More than 200 dead, many missing in Colombia mudslides
+33787,1,Wrongfully convicted man wants ’name back’
+33789,2,Good Samaritan with a gun saves wounded cop
+33828,1,Violent clashes in Venezuela as thousands protest socialist government
+34005,1,Willie Nelson Fast Facts
+34042,1,Lewis Hamilton: My first ever car
+34175,2,Four-year-old falls out of moving bus
+34177,3,Numerous states considering anti-protest bills
+34193,1,Bill Cosby Fast Facts
+34246,1,Arkansas puts hold on execution as US Supreme Court reviews case
+34257,8,’Drugged driving’ surpasses drunken driving in deadly crashes
+34269,1,Why Muslims are marching for climate
+34393,1,More rain hits Missouri after deadly weekend flooding
+34401,1,Climate change expected to worsen turbulence
+34419,1,Aerial images show devastating flooding in central US
+34434,1,Flooding hits NYC after inundating Midwest
+34561,3,Daughter, father, future doctor: Victims of unrest in Venezuela
+34583,1,Arkansas sheriff’s deputy killed suspect in custody
+34646,4,Investigators may have missed a chance to stop a serial killer in Arizona
+34689,1,CNN 10 - May 16, 2017
+34823,1,Trump lands in Saudi Arabia as controversies swirl at home
+34884,7,Landslide buries California’s scenic highway in Big Sur
+34935,1,CNN 10 - May 26, 2017
+34944,1,Serial Killers Fast Facts
+34957,2,Opinion: What it’s like to meet terrorists
+35011,1,Sheriff’s deputy, 7 others killed in Mississippi shootings
+35140,1,Golden Gate Bridge Fast Facts
+35193,1,Ex-NBA player, coach Derek Fisher charged with DUI
+35286,1,One dead in Atlanta area church bus crash
+35335,1,Melania Trump moves in
+35371,1,Puerto Rico statehood vote: Big support -- but small turnout
+35428,2,Young drivers with ADHD 36% more likely to have an accident, study says
+35464,1,Escaped Georgia inmates captured after chase
+35565,1,How hot is it in the West? Let us count the ways
+35598,1,Georgia 6th guarantee: Nothing gets resolved
+35609,1,Should Disney have warned about alligators?
+35654,2,Pulse shooting victims honored at funerals
+35669,2,Six dead, 10 injured after van crash in Virginia
+35706,1,Oaxaca clashes: 8 killed, 25 injured
+35734,1,The absurd beauty of Australian hot rods
+35746,1,Rebounding after tragedy: Will Orlando club reopen?
+35849,1,At least 10 people injured at California rally, authorities say
+35966,1,Self driving cars: Can you trust them?
+36013,5,At least 4 dead when bus, tractor trailer collide in Florida
+36032,1,The independence America really needs
+36051,1,Welsh town opts for ’Brexit’ despite flow of EU funds
+36060,1,ISIS: 143 attacks in 29 countries have killed 2,043
+36265,1,Is Baton Rouge protest photo really iconic?
+36341,1,3 officers killed 3 injured in Baton Rouge
+36436,1,The West should embrace Turkey’s democratic resistance
+36445,1,Donald Trump accepts presidential nomination
+36493,1,Car chases and secret getaways: Tim Kaine’s wild 78 hours
+36513,1,Two college football punters die in car crash
+36721,1,Gavin Long: Who is Baton Rouge cop killer?
+36817,1,Macedonia flood deaths rise to 21
+36880,1,Arkansas deputy dies responding to 911 call
+36920,1,Southeast Louisiana floods prompt rescues
+36957,1,’Historic’ flooding batters Louisiana
+36986,1,Historic Louisiana floods displace thousands
+37053,2,Herd of cattle rescued from Louisiana flood
+37111,1,Judge sinks guilty sailor’s ’Clinton defense’
+37158,1,Louisiana flood victim: ’It was Katrina’
+37197,4,North Carolina family asks why trooper killed deaf man
+37257,1,Badges save officers struck by bullets
+37445,1,Earthquake rattles Oklahoma, six other states
+37503,1,Third bomb strikes Kabul, Afghanistan
+37508,1,Tribe files emergency request to stop Dakota Access Pipeline construction
+37538,1,Mexican authorities: Gangs shot down helicopter
+37739,2,Syrian airstrikes kill 23 Russia, US accuse each other of ceasefire violations
+37869,1,One person shot during violent Charlotte protest officer hurt
+37979,1,On Long Island, frustration has set in
+38014,2,What ISIS left behind
+38107,1,California cops buy walk-to-work teen a bike
+38205,1,Florida, East Coast prepares for Hurricane Matthew
+38212,1,Hurricane Matthew: Weather service issues dire warning
+38245,1,What it’s like in Hurricane Matthew’s path
+38249,1,Families flee as Hurricane Matthew looms
+38271,1,The world commits to zero climate pollution
+38369,1,Bob Dylan songs that changed the course of history (an incomplete list)
+38378,2,911 operator arrested for hanging up on calls
+38496,1,Libya: Five years after Gadhafi’s death
+38523,2,Oklahoma manhunt: ’It was all a setup,’ fugitive says on Facebook Live
+38529,2,Dakota Access Pipeline: Police remove protesters
+38616,2,Thousands take to the streets to protest Trump win
+38671,1,South Korean protesters march again
+38674,2,Weekend brings more anti-Trump protests
+38867,3,56-car pileup in China leaves 17 dead
+38876,1,Ex-NBA Star Dennis Rodman charged with hit and run
+38960,1,Iraq bomb kills dozens, mostly Iranian Shi’ite pilgrims ISIS claims responsibility
+38964,1,Dakota Pipeline: Army Corps orders protesters out
+39042,1,Tennessee fires force evacuations in Gatlinburg
+39237,1,Why they’re staying: A win for Standing Rock, but not a victory
+39271,1,Below-freezing temperatures set to sweep the country
+39412,1,More wind, snow and bitter cold coming
+39441,1,2016 In Review Fast Facts
+39481,4,At least 6 dead as frigid air, ice sweep nation
+39515,3,Frigid air, ice sweep nation, causing deadly road conditions
+39557,1,Atlanta lawyer’s bail set at $200,000 in wife’s shooting death
+39592,1,Make the Arctic great again
+39676,1,7 huge stories you probably missed this year (but shouldn’t have)
+39696,1,Why I took to the streets: The people behind the protests of 2016
+39784,1,Ohio transgender teen’s mom: ’He was an amazing boy’
+39858,1,Recording: Paris gunman had dialogue with hostages
+39865,1,Massive chain-reaction accident closes I-94 in Michigan
+40013,1,Fighting death: At 75, nun’s soul still stirs for cause
+40142,1,Obama trip to India has full agenda, high expectations
+40163,1,Here’s what you need to know about the blizzard of 2015
+40182,1,New England slammed as blizzard of 2015 churns north
+40270,1,White House proposes new foreign profits tax to fund infrastructure investments
+40287,1,Father saves toddler in TransAsia plane crash
+40314,2,Bruce Jenner involved in car accident with one death
+40338,1,Hambycast: A New Hampshire state of mind
+40376,1,Actor Gary Busey hits pedestrian in Malibu
+40403,1,What Corvette creator Harley Earl and Steve Jobs shared
+40425,1,Road rage+guns=tragedy
+40481,1,Car carrying Kardashians slides off road
+40487,2,Missouri shootings: 7 killed suspect dead, police say
+40639,2,Airlander 10: Is the world’s largest aircraft ready for take-off?
+40666,2,Ferguson protest security: State, county police step in
+40682,1,Boko Haram bomb factory uncovered in Nigeria
+40757,1,Dog chases truck that left it at Louisiana gas station
+40864,1,Singer David Crosby hits jogger with car
+40922,1,What’s streaming on Netflix, Amazon, Hulu, iTunes in April
+40956,1,7 shot at Florida house party
+40980,1,Threat of ground incursion looms over Yemen
+40999,3,’Spirit in the Sky’ singer Norman Greenbaum hurt
+41138,1,Horror actor Tom Towles dies at 65
+41199,1,Police: No forced entry to building in jewel heist
+41213,1,London police didn’t respond to burglar alarm
+41245,3,Disney ’driving experience’ crash: Passenger killed
+41287,2,Bonney Lake, Wash., family killed in overpass accident
+41323,1,Solar-powered plane gets stuck in China
+41467,1,’Avengers: Age of Ultron’: Film review
+41507,2,Bruce Jenner sued over fatal car accident
+41788,2,Texas mom, kids among those missing after floods
+41796,1,Sex trade goes underground in China’s ’sin city’
+41957,3,Oklahoma troopers shoot man during high water response
+41984,1,Phoenix sues FAA over airplane noise
+42013,1,Separatists, government forces clash in eastern Ukraine
+42109,1,21 random facts about ’Jaws’
+42154,1,2nd suit filed over accident involving Caitlyn Jenner
+42209,1,Kuwait’s ghost stadium prepares to breathe new life
+42320,1,Flooding kills 12, sets zoo animals free in Tbilisi
+42405,1,North Carolina woman who spotted massacre suspect: God put me here
+42511,1,New York prison break: DNA found in cabin
+42536,1,The girl in the photo from Vietnam War
+42631,1,Park visitor finds 8.52-carat diamond in Arkansas
+42711,1,Poll: Majority sees Confederate flag as Southern pride
+42841,1,Drones visit California wildfire, angering firefighters
+42860,2,Billionaire’s Beach just got a lot less exclusive
+42890,1,Sex trafficking: The new American slavery
+42909,6,Democrats block debate on highway bill
+42939,1,Walmart car seat designed to prevent hot car deaths
+43018,1,Firefighter dies as wildfires burn California ’tinderbox’
+43043,2,Ex-NYPD cop gets 2 years in bikers’ SUV attack
+43089,2,I traveled to Cuba after Fidel Castro’s death — and it was far different from what I expected
+43168,1,’It wasn’t random’: The FBI is offering $20,000 for information on the shooting of a US consular official in Mexico
+43188,1,Automakers are slowing their self-driving car plans — and that could be a good thing
+43305,3,Why psychedelics like magic mushrooms kill the ego and fundamentally transform the brain
+43315,3,Lyft’s CEO has a simple plan that he claims could make traffic disappear in just 5 years
+43370,1,This list of every ’Word of the Year’ is like taking a trip through time
+43520,3,How Tesla emerged from the brink of bankruptcy to become America’s coolest car company
+43637,1,We compared the Volvo S90 and the Buick LaCrosse head-to-head
+43710,1,BILL GATES: A new kind of terrorism could wipe out 30 million people in less than a year — and we are not prepared
+43882,3,The American suburbs as we know them are dying
+43961,1,Prescriptions for painkillers brought about the explosion in heroin use in America’s suburbs
+44138,2,Fights erupted at a pro-Trump rally in California
+44458,1,Tesla owners have filed a class-action lawsuit alleging Autopilot 2 is ’demonstrably dangerous’
+44512,1,An Israeli startup armed with $45 million is taking on Google and Apple in the race to sell your personal data
+44848,1,The worst tourist trap in every state
+44982,1,Police take armed man into custody after standoff at Orlando International Airport
+45264,1,The South is bracing itself for more ’ugly’ flooding
+45314,1,29-year-old country singer Craig Strickland is found dead in lake after going missing
+45540,1,NJ Gov. Chris Christie declares a state of emergency ahead of major winter storm
+45560,1,The East Coast is digging out from an epic blizzard — here’s what you need to know about getting around
+45751,1,Michael Bloomberg confirms: I’m thinking about running for president
+45922,1,A New York Times travel writer was on a Megabus that exploded and live-tweeted the whole thing
+46247,2,Dueling Trump protests take over the streets in Arizona and New York
+46406,1,This is why public transportation in the US is crumbling
+46690,1,How to be assertive rather than aggressive
+46856,3,Firefighters are using drones to fight the raging wildfire in Alberta
+46954,3,Switzerland is opening the world’s longest-ever railway tunnel
+47244,2,An Ivy League professor explains chaos theory, the prisoner’s dilemma, and why math isn’t really boring
+47268,1,Tesla is making changes to customer agreements after being accused of suppressing complaints
+47297,1,America’s gas stations are running out of time
+47523,1,10 things you need to know today
+47541,4,Airbags were not deployed in the fatal Tesla Autopilot crash, says accident report
+47551,1,The Tesla Autopilot crash proves self-driving technology isn’t perfect — but it is here to stay
+47555,2,I’ve driven many new cars with advanced cruise control, but I’m still not comfortable with it
+47566,3,A right-wing experiment sarcastically known as the ’bank of KDOT’ is ruining Kansas’ roads
+47721,1,We checked out Harley-Davidson’s newest rival
+47729,1,Elon Musk says a Tesla Model X that crashed in Pennsylvania was not operating on Autopilot
+47730,2,I just checked out Tesla Autopilot — there’s no way it can drive a car by itself
+47760,1,3 officers killed, 3 others injured in ’ambush’ in Baton Rouge
+47796,1,Scientists mapped the human brain like a city and revealed that we’ve been ignoring some of its most important parts
+48114,1,How to make a ridiculous amount of money in ’No Man’s Sky’
+48170,1,Tesla is at risk of being steamrolled by the next big transformation in how we get around
+48193,1,I’ve used a meditation app loved by Wall Streeters and Olympic athletes daily for the past 8 months, and now I can’t imagine my life without it
+48236,1,Get ready to say goodbye to a lot of electric cars
+48273,1,Trump’s hints about his favorite president tell us everything about his signature campaign theme
+48364,2,Here’s how cops actually trace a gun
+48460,1,Elon Musk just announced big improvements coming to Autopilot
+48463,1,How Texas explains Assad’s strategy in Syria
+48505,1,This education startup you’ve never heard of is in 75% of American classrooms
+48506,1,Tesla could get steamrolled by the next big thing in transportation
+48533,3,Follow these 6 rules to be an excellent defensive driver
+48577,2,Connecticut police were caught on video making up charges against man who filmed them
+48588,1,One person shot in 2nd night of unrest, protests in Charlotte after fatal police shooting
+48626,1,GE: Trains will become ’self-aware’ within 10 years and run on a network that lights up like a brain
+48893,1,Members of militia group charged with plotting to bomb Kansas apartment complex and mosque day after presidential election
+48954,2,Lincoln just rolled out one of the most hyped cars of the year — here’s the verdict
+49010,1,Tesla just made it a lot harder to justify buying the Chevy Bolt
+49186,1,The average American is personally responsible for melting 645 square feet of Arctic ice every year
+49260,1,Trump tweets message of unity amid continuing protests
+49267,3,The deadly roadside blunder that helped bring down one of Mexico’s most vicious cartels
+49282,1,I learned the meditation technique taking over Wall Street and now I get why traders are willing to set aside 40 minutes a day
+49419,2,10 things that make changing a tire much, much easier
+49652,6,The man who invented the first self-driving motorcycle is leading Uber into the future
+49692,1,The Fed’s rate hike could throw a wrench in Trump’s economic rally
+49889,1,The Growing Urban-Rural Divide Around the World
+49934,1,How Wall-Mounted Changing Tables Enabled Moms to Leave the House
+49972,1,The Atlantic Daily: Change and Confirmation

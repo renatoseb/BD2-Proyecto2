@@ -1,0 +1,321 @@
+303,2,Donald Trump, Chicago Police: Your Friday Evening Briefing - The New York Times
+308,5,The Coin? Gold. Its ‘Real Value’? Lady Liberty Is Black. - The New York Times
+362,3,Celebration of Martin Luther King Jr. Still Faces Pushback - The New York Times
+409,1,On a Day for King, a Rare Victory in the Sport of Kings - The New York Times
+477,1,Stunning Vistas and Wildlife Along Australia’s Great Ocean Road - The New York Times
+485,1,Trump Inspires Cheers, and Alarm, Around the World - The New York Times
+535,1,Shanghai Dwellings Vanish, and With Them, a Way of Life - The New York Times
+939,3,Queen Elizabeth II’s Sapphire Jubilee Takes On Low-Key Tone - The New York Times
+994,1,Time and a Relentless Clock Weigh on Hamburg Soccer Team - The New York Times
+1038,1,Surging on the Riviera, With Mario Balotelli in Tow - The New York Times
+1039,1,Germans Sent Gold Away to Keep It From the Soviets. Now Much of It Is Back. - The New York Times
+1050,1,Yale Will Drop John Calhoun’s Name From Building - The New York Times
+1136,1,Israeli Settlement Sees Friendly Faces in Trump Administration - The New York Times
+1137,1,For Kushner, Israel Policy May Be Shaped by the Personal - The New York Times
+1272,1,Afropunk: Feeling Black Activism’s Joy, and Its Pain - The New York Times
+1293,1,Vatican and Rome’s Jewish Museum Team Up for Menorah Exhibit - The New York Times
+1637,2,International Women’s Day: Calls to Action, Protests and Words of Praise - The New York Times
+1815,1,Candid Hitler Photos Sell for $41,000 to Unidentified Bidder - The New York Times
+1873,1,The Last-Second Shot: It’s This Tournament’s Buzzer-Beating Heart - The New York Times
+1887,1,Travel Ban Dampens Persian New Year Celebration - The New York Times
+1892,1,Chuck Berry, Fiery and Flinty Rock ’n’ Roll Innovator - The New York Times
+2099,1,‘Buffy the Vampire Slayer,’ Reimagined by Its Fans - The New York Times
+2160,1,Bob Dylan Will Receive His Nobel Prize While on Tour in Sweden - The New York Times
+2190,1,As Hong Kong Ponders Its Future Under Beijing, Politics Infuses Its Art - The New York Times
+2238,1,Philippines Leader Vows to Pardon Police Accused in Mayor’s Death - The New York Times
+2316,1,It’s Easy to Be Called ‘Thirsty’ on Social Media. What About on Capitol Hill? - The New York Times
+2346,2,In France, a Monument Honors the American Flyers of World War I - The New York Times
+2414,1,After Aung San Suu Kyi’s First Year in Power, Dismay Swirls in Myanmar - The New York Times
+2456,1,Edward Enninful Is Named Editor in Chief at British Vogue - The New York Times
+2461,1,Marine Le Pen Denies French Guilt for Rounding Up Jews - The New York Times
+2476,2,The Latest Test for the White House? Pulling Off Its Easter Egg Roll - The New York Times
+2844,1,How Will ‘Brexit’ Vote Go? Monty Python May Offer Clue - The New York Times
+2966,1,At the Tonys, Moments to Remember - The New York Times
+2991,1,‘Long and Genuine’ Hugs: Shooting Victims’ Relatives Recall Obama’s Empathy - The New York Times
+2996,1,Defining, and Proclaiming, a New Black Power - The New York Times
+3321,1,3 More Reported Held in Bastille Day Truck Attack in Nice - The New York Times
+3357,1,The Loneliness of Being Black in San Francisco - The New York Times
+3502,1,Michael Phelps Relishes the Cheer and Challenge of His New Reality - The New York Times
+3506,1,Alex Rodriguez’s Orchestrated Move May Not Be His Last - The New York Times
+3594,1,Hey Ho, It’s Old: England Embraces Punk Rock 40 Years Later - The New York Times
+3751,1,Mónica Puig, Puerto Rico’s Favorite Daughter (and Only Gold Medalist) - The New York Times
+3817,1,Georgetown University Plans Steps to Atone for Slave Past - The New York Times
+3914,3,What Muslims Do on Hajj, and Why - The New York Times
+3967,1,The View From Syria as a Cease-Fire Takes Effect - The New York Times
+3991,1,Hillary Clinton Returns to the Campaign Trail, Vowing New Approach - The New York Times
+4007,2,Why Is Penn State Celebrating Joe Paterno? - The New York Times
+4231,1,A Museum About Rights, and a Legacy of Uncomfortable Canadian Truths - The New York Times
+4438,1,Pope Francis, in Sweden, Urges Catholic-Lutheran Reconciliation - The New York Times
+4464,1,Iran’s Latest Propaganda Tool: The Clinton-Trump Debates on Live TV - The New York Times
+4522,2,Teenager Seeks to Honor Veterans of War by Preserving Their Stories - The New York Times
+4552,1,From Bataclan to Street Cafes, Paris Is Quiet but Resolute as It Mourns on Anniversary of Attacks - The New York Times
+4649,1,Pope Francis, Trump, Japan: Your Tuesday Briefing - The New York Times
+4655,1,Islamic State Again Strikes at Afghan Shiites, Killing at Least 30 in Kabul - The New York Times
+4697,1,ISIS Bomb Aimed at Shiite Pilgrims in Iraq Kills at Least 80 - The New York Times
+4758,2,A History of Air Disasters Involving Sports Teams - The New York Times
+5111,2,Celebrating a Rugged Vision of Landscape Architecture - The New York Times
+5160,1,Russians No Longer Dispute Olympic Doping Operation - The New York Times
+5174,1,China Warmly Welcomes a Giant Rooster With Trumpian Characteristics - The New York Times
+5180,1,Syria, Russia, Mosul: Your Friday Evening Briefing - The New York Times
+5185,1,Your Photos as Princess Leia, a Rebel and Role Model - The New York Times
+5345,1,At Carnegie Hall, a New Leader With a Son Named Hendrix - The New York Times
+5346,1,Edgar Feuchtwanger Bore Witness, Horribly Close to Hitler - The New York Times
+5619,1,Hillary Clinton, Donald Trump, Turkey’s Military: Your Thursday Evening Briefing - The New York Times
+5864,1,1 World Trade Center Gains Popularity in the Pantheon of New York Kitsch - The New York Times
+5878,1,On 9/11 Anniversary, Somber Reflections on Lives, and a World, Changed - The New York Times
+5881,1,A Consolation of Voices: At the Park Avenue Armory, Mourning the World Over - The New York Times
+6122,1,Clinton, Mosul, Pirate Party: Your Monday Briefing - The New York Times
+6150,4,Where Burning Effigies (Not Just Guy Fawkes’s) Is Part of the Fun - The New York Times
+6245,2,Jeff Koons Is Giving Sculpture to Paris to Remember Terror Victims - The New York Times
+6289,1,Holocaust-Themed Ice Dance in Russia Draws Condemnation - The New York Times
+6356,1,Aleppo, Donald Trump, Pakistan: Your Thursday Briefing - The New York Times
+6469,2,In Pearl Harbor Visit, a Symbol of Reconciliation in Japan - The New York Times
+6511,1,‘Comfort Woman’ Statue Reinstated Near Japan Consulate in South Korea - The New York Times
+6532,1,Missing Mexican Students Suffered a Night of ‘Terror,’ Investigators Say - The New York Times
+6586,1,Almost 100, ‘Forgotten Legend of Basketball’ Still Marvels at the Game - The New York Times
+6614,1,Before Orlando Shooting, an Anti-Gay Massacre in New Orleans Was Largely Forgotten - The New York Times
+6626,1,4,223 Central Park Benches With Stories to Tell - The New York Times
+6666,2,‘Brexit’ Briefing: Battle of the Somme Tories Step Up as Boris Johnson Exits - The New York Times
+6872,1,A Day When Fashion and Tragedy Continue to Intersect - The New York Times
+6961,1,The Latest Celebrity Diet? Cyberbullying - The New York Times
+6999,1,National Soccer Teams in Britain Fight to Wear Memorial Poppies - The New York Times
+7027,2,Poland Exhumes Ex-President’s Body in Inquiry of 2010 Plane Crash - The New York Times
+7028,1,In Charleston, Coming to Terms With the Past - The New York Times
+7063,2,Fidel Castro, Cuban Revolutionary Who Defied U.S., Dies at 90 - The New York Times
+7228,1,Kalashnikov, Maker of AK-47, Looks to Rebrand - The New York Times
+7234,1,Muhammad Ali Fans Pay Homage to Their Local Hero - The New York Times
+7360,1,U.S. Presidential Race, North Dakota, Syria: Your Weekend Briefing - The New York Times
+7620,1,Hillary Clinton’s Doctor Says Pneumonia Led to Abrupt Exit From 9/11 Event - The New York Times
+7621,1,Hillary Clinton, Zika, Syria: Your Monday Evening Briefing - The New York Times
+7638,1,One Season Ends and Another Begins: Baseball Playoff Matchups Are Set - The New York Times
+7681,1,The Twists and Turns of ‘La Marseillaise’ - The New York Times
+7714,1,Intent on a Reckoning With Georgetown’s Slavery-Stained Past - The New York Times
+7729,1,David’s Ankles: How Imperfections Could Bring Down the World’s Most Perfect Statue - The New York Times
+7781,1,Was Your Dog Walked? Your Phone Can Show You - The New York Times
+8039,1,Mike Pence Sends Project Hero Riders Off on 10th Memorial Day Ride for Veterans - Breitbart
+8179,1,Trump Gathers GOP Congressmen at WH: ’Unbelievable Victory When We Get It Through the Senate’ - Breitbart
+8333,1,Pope on Palm Sunday Decries Suffering from War, Terrorism Attacks in Egypt
+8763,1,Netanyahu On Purim: Like Ancient Persia, Modern Iran Will Fail To Destroy Jews - Breitbart
+9095,1,44th Anniversary of Roe v. Wade: Texans to Meet at State Capitol
+9336,2,President Trump Honors Little Sisters of the Poor on First White House Nat’l Day of Prayer in Years - Breitbart
+9348,1,Christian Leader Sees ‘Spiritual Battle’ Over Trump Presidency
+9365,1,World Jewish Congress Hits Anti-Defamation League for Crying Wolf
+9377,1,Jewish Fraternity at Rutgers Posthumously Inducts Palestinian Terror Victim Ezra Schwartz
+9490,1,Troublemakers Spark Panic at Seville’s Good Friday Event
+9855,1,Egyptian Christians Cancel Easter Festivities in Mourning Over Palm Sunday Massacre
+10467,1,Booker in 2016: ‘I Feel Blessed and Honored’ to Work With Sessions - Breitbart
+10469,1,Sessions, at San Diego Border, Warns California Not to Go ’Sanctuary’ - Breitbart
+10569,1,Inauguration Week: A User Guide to Donald J. Trump’s Big Day
+10760,1,Clarion: Syrian Christian Militia Condemns Turkey for Bombing Kurds - Breitbart
+10853,1,Ohio Teacher Shamed 9-Year-Old for Shirt Commemorating First Deer Kill - Breitbart
+11414,1,Christians Celebrate Palm Sunday - Breitbart
+11606,1,Jerusalem Unity Day: Republicans, Democrats Join Forces To Celebrate Israel’s Eternal Capital - Breitbart
+11610,1,7 Castro Victims and Cuban Heroes Invited to Trump’s Cuba Announcement - Breitbart
+11661,1,First Lady Melania Trump Boosts Tourism in Her Home Country
+11750,1,Transgender Texas Boy Gets New Birth Certificate
+11866,1,Breitbart News Daily: WWI Centennial - Breitbart
+12044,1,VE Day: 72 Years Since 1945 Allied Victory over Germany in Europe
+12267,1,The Civil War General From Illinois Who Gave Us Memorial Day
+12400,2,Iranian Official: ’Newcomer’ Trump Would Suffer ’Unprecedented Defeat’ If he Crossed Iran
+12430,1,Duterte: ’Priests Should Use’ Methamphetamine Before Judging Drug War
+12727,1,Major U.S. Jewish Groups Applaud Trump’s Holocaust Commemoration Speech
+12816,1,Russian MP Who Compared Putin’s Russia to Nazi Germany Publicly Assassinated in Ukraine
+12971,1,RABBI SHMULEY: Spicer’s Actions Redeem His Words on Assad - Breitbart
+12979,1,RABBI SHMULEY: For Steve Bannon, Israel Is on the Whiteboard - Breitbart
+13131,1,Pope Francis Condemns Islamic State-Inspired Terror Attacks on Egyptian Christians
+13151,1,Outrage as Saudi Soccer Team Refuse to Participate in Silence for London Attack Victims
+13187,1,Trump Honors Andrew Jackson, Rosie the Riveter in Weekly Address - Breitbart
+14079,1,As Trump Prepares Policy Shift, Human Rights Groups Clash with Pro-Cuba Interests - Breitbart
+14130,1,Merkel: Macron ’Carries Hopes’ of Millions in Europe
+14439,1,Tim Kaine Accuses Donald Trump of Holocaust Denial - Breitbart
+14755,1,Britain to Mark Queen Elizabeth II’s Record 65-Year Reign
+15231,3,Fake News: CNN Recycles False Claims in Bashing Trump’s Holocaust Speech - Breitbart
+15295,1,North Korea Nukes San Francisco in Propaganda Video - Breitbart
+15373,1,Anger at ’Hate Crime’ Desecration of Christ on the Cross War Memorial
+15496,1,Republican Senator: Honor D-Day Vets by Voting
+15859,7,Can We Remember the Americans Murdered on 9-11 Without Mentioning the Murderers? - Breitbart
+15908,1,Donald Trump Commemorates Anniversary of Martin Luther King’s March on Washington - Breitbart
+16316,1,Flashback: Hillary Clinton Praises ’Friend and Mentor’ Robert Byrd (a KKK Recruiter) - Breitbart
+16523,1,Black Lives Matter UK Halts Heathrow Airport Traffic For ’Moment Of Rage’
+16559,2,PICTURES: Riot Police And Migrants Clash With Anti-ISIS ‘Hooligans’ At Brussels Terror Shrine - Breitbart
+16615,1,Muhammad Ali Was Wrong: Islam Enslaved Blacks for Centuries, Did Not Free Them - Breitbart
+16808,1,Christian Refugees in Turkey Hide Their Religion in Fear - Breitbart
+16919,1,Who’s Who of Anti-American Elite to Attend Dictator Fidel Castro’s Funeral - Breitbart
+16969,1,Super Bowl Champion Burgess Owens: White Progressive Democrats ‘Programming’ Blacks - Breitbart
+16975,1,International Media Reacts to Trump’s Election - Breitbart
+17116,1,Michael Moore Celebrates ’Occupy’ Anniversary: ’No Going Back’
+17311,1,Ramadan: A Time to Kill for Allah - Breitbart
+17640,1,Holocaust Survivors Get Bar Mitzvahs In Jerusalem 70 Years Later
+17831,1,German Olympic Coach Dies Following Car Accident in Rio - Breitbart
+17868,1,Italy Deports Jihadist Suspected of Plotting Attack on Leaning Tower of Pisa
+18730,1,Chris Warren on Memorial Day at Arlington: ‘Read the Headstones Feel What It Is to Be an American’
+18750,1,WATCH: Israeli Flag Desecrated At Memorials For Terrorist Victims In BrusselsIn Brussels
+19306,1,Pope Francis: ‘Hypocritical to Call Oneself Christian and Send Away a Refugee’
+19329,1,WATCH: Navy Admiral Slams Colin Kaepernick in Pearl Harbor Speech
+19628,2,Obama Wishes Jews ’Happy Hanukkah’ -- as He Stabs Israel at UN
+19674,1,The Lives of Americans, The Livelihoods of the Drug Companies: Donald Trump Points the Way to a New Social Contract—Like It or Not - Breitbart
+19801,1,WATCH: Pope Francis Washes, Kisses Feet of Migrants on Holy Thursday - Breitbart
+19821,1,Cincinnati Proposes to Replace Columbus Day With ’Indigenous Peoples Day’ - Breitbart
+19844,2,Lady Gaga, Sexual Assault Survivors at Oscars Get Matching Tattoos - Breitbart
+19855,1,Week of Trump Rallies Draws Over 26,000 Hundreds at 2 Clinton Events - Breitbart
+19984,1,Bill Maher: ’I’d Vote for Dead Hillary’ Over Trump
+19998,2,In Pics: One Year On, France Mourns Victims of the Paris Attacks
+20211,1,Mexican Border City Hides Dark Side for Pope’s Visit
+20277,1,Michael Moore Urges Clinton to Rest after Pneumonia Diagnosis
+20343,1,Vatican Newspaper Eulogizes Pop Icon Prince
+20388,1,Remembering Grant Ronnebeck: A Victim of A Mexican Cartel and Illegal Alien Crime - Breitbart
+21062,1,Canadians Could Face Two Years in Jail For Criticizing Transgender, ’Gender Fluid’ Ideology - Breitbart
+22287,2,Chernobyl, 30 Years Later: Some Ukrainians Risk Radiation to Avoid Russian Invasion - Breitbart
+22365,1,Donald Trump Receives Bay of Pigs Veterans Association’s First Ever Endorsement - Breitbart
+22590,1,WATCH: College History Professor Pulls Down 9/11 ’Never Forget’ Posters - Breitbart
+22895,3,Vietnamese Protesters Stake South China Sea Claim
+23001,1,Ramadan: Islamic State Urges Lone Wolf Attacks in U.S., Europe
+23249,2,Rep. Steve King To Leave Empty Seat at State of Union Address For ‘9 Million Babies Aborted Under’ Obama’s Watch - Breitbart
+23398,1,PHOTOS: Pearl Harbor, 75 Years Later
+23659,1,White House Won’t Commit to Stripping Bill Cosby’s Presidential Medal of Freedom - Breitbart
+23681,2,WATCH: Outrage Over Verdun Art Performance
+23878,1,Steve Bannon: Fathers and Grandfathers of ‘Deplorables’ Turned War Around After Pearl Harbor
+23969,1,Self-Confessed Dual Loyalty Muslim Appointed Security Chief for UK House of Commons
+24189,1,President Obama Shares Family Photo to Celebrate Easter - Breitbart
+24336,1,Video: Hillary Clinton Leaves 9/11 Memorial Ceremony Early, Dragged into Van - Breitbart
+24341,1,Beyoncé’s Super Bowl Stunt: A Slap to Real Victims
+24945,1,Mother Of Terrorist Responsible For Murder Of Two Pays Respects To Her Son By Visiting Site Of The Attack
+25182,1,Colin Kaepernick Sits During National Anthem: ’I Have to Stand Up for People That Are Oppressed’ - Breitbart
+25269,1,Rush: Black Lives Matter Is ’A Terrorist Group,’ ’Quickly Becoming a Terrorist Group Committing Hate Crimes’ - Breitbart
+25432,1,BBC Downplayed Stalin’s Legacy, Falsely Claimed Victims Numbered ’Thousands’
+25495,1,Green Day Frontman Billie Joe Armstrong: Trump is ’F*cking Hitler, Man!’ - Breitbart
+25655,1,Muslims Hold Mass Eid al-Adha Prayer at Angels Stadium - Breitbart
+25766,1,Joy Behar: ‘Racist Rhetoric’ of Presidential Candidates Inspires KKK - Breitbart
+26298,1,Marine Le Pen Approval Ratings Up After Nice Attack
+26357,2,Donald Trump to Get Papal Treatment Barack Obama Never Got from D.C. Public Transit for Inauguration - Breitbart
+26814,3,Australian Teenage Terror Suspect ’Discussed Packing Kangaroo with Explosives for Attack on Police’
+26958,1,Students Demand Removal of Columbus Statue, Say It’s ’Celebration of Genocide’ - Breitbart
+27044,2,Hillary Clinton’s Doctor: She Was Diagnosed with Pneumonia on Friday - Breitbart
+27075,1,Charity Needs Help to Decorate Headstones of Fallen Heroes with Wreaths
+27306,1,EXCLUSIVE: Mexican Cartel Hitmen Forced to Wear Women’s Lingerie After Capture
+27971,1,John Fund: ‘FBI Investigation Goes on into the Clinton Foundation, Rather Than the Emails’
+28080,1,Berkeley Student Among 20+ Murdered In Bangladesh Islamic Terror
+28625,1,Christians In The Holy Land And Across The World Are Celebrating Easter
+29158,1,French President to Meet Pope Francis After Priest Murdered by Jihadists
+29194,1,Greek PM Alexis Tsipras Toasts ’Great 20th Century Revolutionary’ Fidel Castro - Breitbart
+29299,1,Internet Campaign Draws 200 to Funeral of Veteran with No Known Relatives
+29371,1,Update: Istanbul Ramadan Rampage Leaves 42 Dead, 239 Wounded - Breitbart
+29490,1,MSNBC Cover-up: Hillary Left 9/11 Memorial Quietly to Be Polite
+29653,1,Fact-Check -- Top 20 Lies in Hillary’s ’Alt-Right’ Speech
+29664,1,Istanbul Bombing Is Latest in Spate of Jihadist Ramadan Attacks
+29671,1,Billboards Against Communism Appear in New York’s Times Square - Breitbart
+29904,1,Live Updates: Donald Trump’s Veteran Fundraiser - Breitbart
+29940,1,West Virginia Professor Organizes ’Extra Credit’ Class During Milo Event - Breitbart
+29980,1,The Unfinished Memorial Day for the Men Who Saved America - Breitbart
+29998,1,Report Claims Islamic State Has 30,000-Jihadi Base in India - Breitbart
+30032,1,Video: Security Drags Hillary Clinton into Van After Exit from 9/11 Memorial - Breitbart
+30640,1,Bulldozing Monuments and the War on American History - Breitbart
+30692,1,FLASHBACK: Obama Insulted Nancy Reagan on Day One - Breitbart
+30703,1,Student Petitions Board of Ed to Recognize Muslim Holidays
+30805,1,House Chairman Removes All State Flags with Confederate Emblems from Capitol Tunnel - Breitbart
+31819,1,Trump may start with US ambassador in Jerusalem, not an embassy
+31927,1,Ahead of inauguration, thousands rally for immigration and civil rights
+31951,1,What MLK might say to Donald Trump
+31995,1,Everything you need to know about Trump’s inauguration, weekend protests
+32114,1,US committed to Israel embassy move but expected to act cautiously
+32124,1,Melania Trump returns to New York
+32193,2,Why Australia Day is so controversial
+32240,1,On Holocaust Remembrance Day, Trump slams door on refugees
+32266,1,WH: No mention of Jews on Holocaust Remembrance Day because others were killed too
+32768,1,Iditarod Fast Facts
+32775,1,Japanese-Americans recall WWII prison camps
+32802,1,Inside North Korea, world’s most reclusive country
+32945,2,Philippine protesters condemn drug war on anniversary of uprising
+33130,1,Angela Lee: The world’s youngest MMA champion
+33284,1,Should China move its historic monuments?
+33286,1,Holiday bomb threats target 5 Jewish centers
+33866,1,3 ways WWI still shapes America
+34099,1,Prince mourned one year after his death
+34455,1,Trump: Bedminster stay saves money
+34620,2,Elvis Presley Fast Facts
+34625,1,Pope John Paul II Fast Facts
+34655,1,Nelson Mandela Fast Facts
+34699,1,Another Confederate statue comes down in New Orleans
+34782,1,Final Confederate statue comes down in New Orleans
+34905,1,Caroline Kennedy on JFK: I miss him every day
+34995,2,Tillerson declines to host Ramadan reception
+35146,4,Tiananmen vigil brings back fears as Hong Kong marks 20 years of Chinese rule
+35205,1,In the pouring rain, Londoners pay tribute to attack victims
+35289,1,Jeremy Corbyn: Anti-establishment underdog who has shaken British politics
+35310,4,LGBT community prepares for a march -- and a fight
+35368,1,Paul McCartney Fast Facts
+35380,1,’Hearts and minds changed’
+35646,1,Alabama county refuses to lower flag to honor Orlando victims
+35675,1,In Jo Cox’s town, the shock is still so raw
+35746,1,Rebounding after tragedy: Will Orlando club reopen?
+35840,1,Pope, in Armenia, describes mass killing as genocide
+35857,1,Pride parades: U.S. cities mark events amid tight security
+35960,1,Modern men pay tribute to World War I soldiers
+36711,1,Black Lives Matter’s big step
+37220,1,Flight 93 National Memorial Fast Facts
+37273,1,A look back at the fight for equal rights
+37282,1,Trump spreads claim that Clinton’s ’mentor’ was ’KKK member’
+37342,1,Turkish warplanes wallop Syria, Iraq
+37551,1,These ’Notebook’-inspired photos are true love personified
+37632,1,Hillary Clinton has pneumonia, doctor says, after early 9/11 event exit
+37634,1,Obama commemorates 9/11 anniversary at Pentagon
+37636,2,What we know about Hillary Clinton’s health
+37652,1,The no-transparency election
+37653,1,Clinton didn’t think illness was ’going to be that big a deal’
+37657,1,Bill Clinton: Hillary Clinton has ’rarely,’ but on occasion, had dehydration spells
+37667,1,Pence declines to call David Duke ’deplorable,’ disavows support
+37670,1,Clinton campaign manager: Staff to blame for slow health disclosure
+37681,1,Syrian ceasefire appears to hold, but aid deliveries on standby
+37693,1,Clinton to return to campaign trail Thursday
+37752,1,The NFL’s protest crisis
+37797,1,Paralympics Day 11: Final day of action in Rio
+37940,1,The friendship of George W. Bush and Michelle Obama
+37959,1,The last Flying Tigers of World War II
+38091,1,Last Doolittle survivor recalls US revenge attack
+38405,1,China set to free last Tiananmen prisoner
+38641,1,CNN Student News - November 11, 2016
+38960,1,Iraq bomb kills dozens, mostly Iranian Shi’ite pilgrims ISIS claims responsibility
+39425,1,Separated twins move to rehab after emotional farewell
+39436,1,China: ’Political’ blue sky comes at a price
+39622,1,Christmas reborn in Iraqi town freed from ISIS
+39905,1,Boko Haram more worrying than ISIS
+39963,1,A 132-year-old rife found propped against Nevada tree
+40009,2,The greatest MLK speeches you never heard
+40078,1,Was oldest gospel really found in a mummy mask?
+40150,1,16 dead in protests marking Egypt revolution
+40463,1,Ukraine: Kerry threatens more sanctions against Russia
+40551,4,Obama: Selma marchers gave courage to millions
+40604,3,’Bloody Sunday’ commemoration march in Selma
+40623,1,Hillary Clinton’s press conference will satisfy no one (and 7 other strange things that happened)
+40640,2,From Selma: The people’s voice
+40705,1,Savage Beauty: The bizarre beauty of Alexander McQueen
+40734,1,UK’s Prince Harry to end military service in June
+40926,2,Richard III, King found under parking lot, laid to rest
+41008,1,Pence: ’Was I expecting this kind of backlash? Heavens no.’
+41023,1,Selena remembered: 20 years after her death
+41047,1,Britain’s Prince Harry to start Australian army stint
+41086,1,Top CNN op-eds of 2015 (so far)
+41115,1,Britain’s Prince Harry begins stint with Australia army
+41224,1,Selena Quintanilla-Perez to tour as hologram
+41586,1,Russia shows off new high-tech tank
+41599,3,Russia marks 70 years since victory over Nazi Germany
+42006,1,18th century Portuguese slave ship Sao Jose wreck found
+42376,2,Why Waterloo still fascinates us (Opinion)
+42403,1,Magna Carta: Still relevant 800 years on
+42500,1,White Christians reflect on Confederate flag
+42667,1,Don’t call me Shirley: ’Airplane!’ celebrates 35 years
+42726,2,What we can learn from the tattoos of our ancestors
+42742,1,Subway’s Jared Fogle, from inspiration to suspicion
+42744,1,Pope calls greed ’the devil’s dung’
+42913,1,The Seventies: The sex freakout
+44313,1,Salesforce’s $1 billion skyscraper will be the most expensive building in San Francisco — take a look
+44501,1,An elite university is offering a fast-track program for tech leaders that’s more competitive than Stanford
+44619,1,The LA Riots began 25 years ago this week — here’s how the city descended into total chaos
+44651,2,Malcolm Turnbull and Donald Trump met for just 30 minutes in New York
+44848,1,The worst tourist trap in every state
+44939,1,Rex Tillerson breaks 18 year tradition, declines to host Ramadan event at the State Department
+44972,1,General election debate: May says she’s willing to leave the EU without a deal as Corbyn is accused of supporting the IRA
+45147,1,’There are only two rules’ — Facebook explains how ’hackathons,’ one of its oldest traditions, is also one of its most important
+46084,1,The remarkable story of a woman who was born at Auschwitz
+47321,1,This company is offering a $35,000 deal on unlimited business-class flights
+49159,1,NASA is trying to keep part of its giant golden telescope a secret

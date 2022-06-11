@@ -1,0 +1,475 @@
+89,1,The Perfect Weapon: How Russian Cyberpower Invaded the U.S. - The New York Times
+136,1,Senate Confirmation Hearings to Begin Without All Background Checks - The New York Times
+163,1,‘La La Land’ Wins Seven Golden Globes ‘Moonlight’ Wins Best Drama - The New York Times
+166,1,On the Golden Globes Red Carpet, It’s Fantasy vs. Reality - The New York Times
+201,1,Trump Was the Elephant in the Ballroom at the Golden Globes - The New York Times
+382,1,Fear Spurs Support for Health Law as Republicans Work to Repeal It - The New York Times
+447,1,One President Out, Another In: You Don’t Just Hire 2 Guys With a Truck - The New York Times
+473,1,Concert for Trump Misses an Opportunity - The New York Times
+507,1,Donald Trump’s Inauguration, Women’s March: Your Weekend Briefing - The New York Times
+513,1,How Emotion Over Pet Care Helps Explain Human Health Spending - The New York Times
+538,1,Judge Blocks Aetna’s $37 Billion Deal for Humana - The New York Times
+560,1,Oscar Nominations 2017: 14 for ‘La La Land,’ and 6 for Black Actors - The New York Times
+745,1,Trump Has Made His Supreme Court Nomination. What Happens Next? - The New York Times
+885,1,U.S. Starts Year With Job Surge, but Pay Gains Are Weak - The New York Times
+893,1,At Cosseted ‘Winter White House,’ Outside World Intrudes on Trump - The New York Times
+991,1,Where Have You Gone, Angelina Jolie? Celebrities Vanish From Fashion’s Front Row - The New York Times
+1014,1,Can Raf Simons Reinvent Calvin Klein? - The New York Times
+1123,1,How to Keep the Bloom on That Mother’s Day Rose - The New York Times
+1160,1,‘I Inherited a Mess,’ Trump Says, Defending His Performance - The New York Times
+1190,1,In 77 Chaotic Minutes, Trump Defends ‘Fine-Tuned Machine’ - The New York Times
+1192,3,A Jewish Reporter Got to Ask Trump a Question. It Didn’t Go Well. - The New York Times
+1208,1,Irwin Stambler, 92, Dies Reference Book Writer With Songs in His Heart - The New York Times
+1230,1,Bill Maher and Milo Yiannopoulos Find Common Ground - The New York Times
+1239,1,‘Last Night in Sweden’? Trump’s Remark Baffles a Nation - The New York Times
+1255,1,From an Anchor’s Lips to Trump’s Ears to Sweden’s Disbelief - The New York Times
+1277,1,Clashes in Stockholm Suburb Draw Attention to Trump’s Remarks - The New York Times
+1292,1,Sick of Politics? Try These Great Reads - The New York Times
+1320,1,Dale Earnhardt Jr. Begins Again After Concussion, With Altered Priorities - The New York Times
+1372,1,The Anti-Trump Activist Taking On Retailers - The New York Times
+1381,1,And the Oscar Winners Will Be ... - The New York Times
+1451,1,Review: Elif Batuman’s ‘The Idiot’ Sets a Romantic Crush on Simmer - The New York Times
+1571,1,Trump Inherits a Secret Cyberwar Against North Korean Missiles - The New York Times
+1655,1,Trump Weighs Cuts to Coast Guard, T.S.A. and FEMA to Bolster Border Plan - The New York Times
+1748,1,The New Party of No - The New York Times
+1759,5,Amy Krouse Rosenthal, Children’s Author and Filmmaker, Dies at 51 - The New York Times
+1773,1,Geert Wilders, Donald Trump, Scotland: Your Wednesday Briefing - The New York Times
+1809,1,N.C.A.A. Tournament Reality: The Haves Get In, the Have-Nots Get Left Out - The New York Times
+1811,1,Us Weekly Is Sold to National Enquirer Publisher - The New York Times
+1821,1,The Magician Who Wants to Break Magic - The New York Times
+1923,1,Robert Silvers, a Founding Editor of New York Review of Books, Dies at 87 - The New York Times
+1927,1,Gabby Williams Soars as UConn Rolls On in N.C.A.A. Tournament - The New York Times
+1933,1,Rural Areas Brace for a Shortage of Doctors Due to Visa Policy - The New York Times
+1992,1,London Attack Leaves Citizens of 10 Nations Dead or Injured - The New York Times
+2101,1,Roger Wilkins, Champion of Civil Rights, Dies at 85 - The New York Times
+2131,2,Back Channel to Trump: Loyal Aide in Trump Tower Acts as Gatekeeper - The New York Times
+2168,1,Can Trump Change Libel Laws? - The New York Times
+2265,1,Trump Shifts Course on Egypt, Praising Its Authoritarian Leader - The New York Times
+2295,1,In Georgia, Anti-Trump Activism Stirs Democratic Hopes - The New York Times
+2344,1,High School Journalists Land a Scoop, and the Principal Resigns - The New York Times
+2427,1,Feist Wants to Ask You Some Questions About Sadness - The New York Times
+2464,1,Photos of Jupiter From NASA Spacecraft, Both Near and Far - The New York Times
+2609,1,Prince Is Mourned by Fashion World, Which Counted Him as One of Its Own - The New York Times
+2614,1,Hillary Clinton’s Campaign, Cautious but Confident, Begins Considering Running Mates - The New York Times
+2815,6,‘Veep’ Season 5, Episode 6: The Affront - The New York Times
+2847,1,Prince Died From Accidental Overdose of Opioid Painkiller - The New York Times
+3156,1,California Governor Signs Legislation Limiting Assault Weapons - The New York Times
+3219,1,Peter Doig Says He Didn’t Paint This. Now He Has to Prove It. - The New York Times
+3252,1,Our ‘Ghostbusters’ Review: Girls Rule. Women Are Funny. Get Over It. - The New York Times
+3259,5,How a $2 Roadside Drug Test Sends Innocent People to Jail - The New York Times
+3380,1,Why Companies Have Started to Coach New Parents - The New York Times
+3466,1,Kate McKinnon on ‘Ghostbusters,’ ‘S.N.L.’ and Hillary Clinton - The New York Times
+3526,1,Introducing The Run-Up, Our New Election Podcast - The New York Times
+3774,1,‘The Market Is Saturated’: Brooklyn’s Rental Boom May Turn Into a Glut - The New York Times
+3792,1,Paul LePage, Besieged Maine Governor, Sends Conflicting Signals Over Intentions - The New York Times
+3799,1,All Impeachments Are Political. But Was Brazil’s Something More Sinister? - The New York Times
+3861,1,On Labor Day, Donald Trump and Hillary Clinton Begin a Final Sprint - The New York Times
+3954,1,Value-Seekers Warm to a $450 Annual Credit Card Fee - The New York Times
+3966,1,Turning Points: Rethinking a Campaign Cliché - The New York Times
+4018,1,Edward Albee, Trenchant Playwright Who Laid Bare Modern Life, Dies at 88 - The New York Times
+4071,1,‘South Park’: After Two Decades, It’s Still by the Seat of Their Pants - The New York Times
+4089,1,Trump’s Ghostwriter Explains How to Beat Him in a Debate - The New York Times
+4116,1,Arnold Palmer, the Magnetic Face of Golf in the ’60s, Dies at 87 - The New York Times
+4120,2,Review: As Amy Schumer Evolves, So Does Her Arena Show - The New York Times
+4139,1,Anthony Doerr Reviews a New Book on Time Travel - The New York Times
+4259,1,Mylan to Settle EpiPen Overpricing Case for $465 Million - The New York Times
+4359,1,‘Carrie’ Is Back. Like a Bloody Hand From the Grave. - The New York Times
+4386,1,Regulatory Microscope Lies Ahead for AT&ampT and Time Warner - The New York Times
+4405,1,As Evening Commute Gets Darker, It Also Gets More Dangerous, Officials Warn - The New York Times
+4409,2,Fans Flock to Town That Inspired ‘Gilmore Girls’ - The New York Times
+4461,1,Want Co-Workers to Vote Your Way? Then Stop Pestering Them - The New York Times
+4471,1,Your Election Day Questions, Answered - The New York Times
+4585,3,Mose Allison, a Fount of Jazz and Blues, Dies at 89 - The New York Times
+4628,1,Sharon Jones, Powerhouse Soul Singer, Dies at 60 - The New York Times
+4676,1,Is Social Media Disconnecting Us From the Big Picture? - The New York Times
+4712,1,100 Notable Books of 2016 - The New York Times
+4716,1,Fate of U.S.-Cuba Thaw Is Less Certain Under Donald Trump - The New York Times
+4764,2,‘Moonlight’ Makes a Strong Showing at the Gotham Awards - The New York Times
+4833,1,Critics Worry Over How Ben Carson, Lacking Expertise in Public Housing, Will Lead It - The New York Times
+4884,1,Christie’s Contemporary Art Chief Departs to Become Dealer - The New York Times
+4909,1,Amy Adams on Eyes That Deceive - The New York Times
+4943,1,With Flood of Urbanites, a Canadian Hippie Haven Tries to Keep Its Mellow - The New York Times
+4980,1,SAG Nominees Include Viggo Mortensen and Other Surprises - The New York Times
+5086,1,Ikea Reaches $50 Million Settlement Over Deadly Furniture Accidents - The New York Times
+5114,1,Denying Conflict, Trump Family Tries to Resolve Potential Problems - The New York Times
+5235,1,In a Big Hole for a Detroit House, but Happy - The New York Times
+5245,1,Regulators Approve Charter Communications Deal for Time Warner Cable - The New York Times
+5499,1,F.B.I. Interviews Hillary Clinton Over Private Email Server - The New York Times
+5563,2,Emmy Nominations 2016: ‘Game of Thrones’ Rules Again - The New York Times
+5593,2,Not Even Plácido Domingo Can Say No to ‘Mozart in the Jungle’ - The New York Times
+5615,2,Confessor. Feminist. Adult. What the Hell Happened to Howard Stern? - The New York Times
+5629,5,Review: ‘Bad Moms,’ a Comedy of Outrage Pegged to Smother Mothers - The New York Times
+5691,1,Brazilians Speak Portuguese, but the Olympics Must Use French - The New York Times
+5846,1,Cinema Is Dead? Telluride Says Not Yet - The New York Times
+5860,1,Roger Goodell’s Power Play - The New York Times
+5876,1,In the Bonobo World, Female Camaraderie Prevails - The New York Times
+5922,1,A Sour Surprise for Public Pensions: Two Sets of Books - The New York Times
+5976,1,How The New York Times Will Fact-Check the Debate - The New York Times
+6014,1,Reader’s Guide to This Fall’s Big Book Awards - The New York Times
+6106,1,Audience Members Walk Out on Amy Schumer After Trump Criticisms - The New York Times
+6111,1,Where Are Women in F.B.I.’s Top Ranks? - The New York Times
+6129,1,Clinton’s Emails. Again - The New York Times
+6187,1,11 Fiction Podcasts Worth a Listen - The New York Times
+6191,1,‘Arrival’ Comes On Strong in a Generally Robust Box Office Weekend - The New York Times
+6253,1,5 Movies to See With (and Without) Family Over Thanksgiving - The New York Times
+6397,1,‘Rogue One’ Reviews: Here’s What the Critics Say - The New York Times
+6512,1,4 Trailers That Have Us Excited for 2017 - The New York Times
+6524,1,F.B.I. Says It Needs Hackers to Keep Up With Tech Companies - The New York Times
+6553,1,The (Very Lazy) Sunday Routine of Vanessa Bayer of ‘Saturday Night Live’ - The New York Times
+6573,1,It’s No Accident: Advocates Want to Speak of Car ‘Crashes’ Instead - The New York Times
+6605,1,Choosing a School for My Daughter in a Segregated City - The New York Times
+6739,2,3 Top D.N.C. Officials Leave as Upheaval After Email Breach Continues - The New York Times
+6806,1,Think Hillary Clinton Will Win in a Landslide? Don’t Bet on It - The New York Times
+6817,1,The Electric, Infuriating Nick Kyrgios - The New York Times
+6844,2,Cher’s Latest Road Show? The Campaign Trail - The New York Times
+6974,1,Bob Dylan, the Newest Nobel Laureate, Maintains His Reticence - The New York Times
+6976,1,Trump Recording Narrows Divide on Sexual Assault - The New York Times
+7009,1,Donald Trump, Leonard Cohen, Mosul: Your Friday Evening Briefing - The New York Times
+7054,5,I Voted Clinton. You Voted Trump. Let’s Talk. - The New York Times
+7092,1,The Best TV Shows of 2016 - The New York Times
+7100,1,The Best Movies of 2016 - The New York Times
+7160,1,It’s Not Easy Being Santa - The New York Times
+7164,1,From Yamaclaus to Menorah Bong: Hanukkah Goods That Can Hold a Candle - The New York Times
+7166,1,Holiday Movies to See (or Skip) - The New York Times
+7169,1,Carrie Fisher, Child of Hollywood and ‘Star Wars’ Royalty, Dies at 60 - The New York Times
+7341,1,Edward Snowden’s Long, Strange Journey to Hollywood - The New York Times
+7342,1,Serena Williams Prevails in Opener, No Problem - The New York Times
+7392,1,U.S. Captures Ryder Cup, Ending Europe’s Streak - The New York Times
+7457,1,Review: ‘Gilmore Girls: A Year in the Life’ Revives a Snow Globe Town - The New York Times
+7507,1,Rail Crossing Warnings Are Sought for Mapping Apps - The New York Times
+7564,1,Opinion Transforms Texas’ Abortion Landscape - The New York Times
+7567,1,Ten Famous People on What to Read This Summer - The New York Times
+7634,1,New York Tonight: Hoboken Train Crash and Wet Weather - The New York Times
+7697,3,‘Veep’ and ‘Game of Thrones’ Echo Our Politics, as Farce and Tragedy - The New York Times
+7834,1,Watch: Celebrities Narrate Animated History of Planned Parenthood
+7922,1,Economy Gains 227,000 Jobs in January Under President Trump - Breitbart
+8173,1,Chelsea Handler to Lead Anti-Trump ’Women’s March’ at Sundance
+8326,1,Amy Schumer Uses Netflix Special to go After ’Gun Nuts’
+8536,1,Virgil: On This Memorial Day, Breitbart Readers Remember and Look to the Future - Breitbart
+8571,2,Comedy Central’s ’Broad City’ to Bleep Out Donald Trump’s Name in Upcoming Season
+8575,1,Box Office: ’The Mummy’ Unravels as ’Wonder Woman’ Holds On to Top Spot
+8621,3,Amy Schumer Exits ’Barbie’ Movie
+8656,2,WATCH: Students Support Religious Freedom for Muslims, Not Christians - Breitbart
+9391,1,2017 Oscar Nominations: ’La La Land’ Dominates, #OscarsSoWhite Over - Breitbart
+9399,1,ACLU Telethon: Tina Fey Says Trump ’Gave Up’ Assaulting Women ’for Lent’
+9417,1,Report: Secret Service Investigating Madonna White House Comment
+9452,2,Celebrities Rage at House Obamacare Repeal: ’F*ck All Y’all’
+9681,1,Gun Controller Amy Schumer Wields Gun in ’Snatched’ Trailer
+9851,1,Resistance: Democrats Plan to Withhold Federal Taxes to Protest Trump - Breitbart
+9910,1,’King Arthur’ First Summer Bomb? $175M Film Tracking for $25M Debut
+9926,1,Students Busted for Allegedly Painting Trump Graffiti on Rice U’s Berlin Wall Memorial
+9945,3,Kathy Griffin ’Beheading’: Hollywood’s Feminist A-List Cashes In on Global Suffering of People of Color - Breitbart
+10029,1,Ciccotta: Guest Speaker’s Call to Violence Reveals Bucknell’s Radicalism - Breitbart
+10116,1,Reporter Who Asked Trump Anti-Semitism Question: I’m ’With’ Trump Being Outraged Over Anti-Semitism Charges - Breitbart
+10225,1,Republican Party Targets Four California Democrats in 2018 - Breitbart
+10244,1,FULL TEXT – MILO at Cal Poly State University: ’No More Dead Babies’ - Breitbart
+10299,1,Katy Perry, Cher Join Anti-Trump Women’s March on Washington
+10329,1,’Shattered’ Revelation: Clinton Campaign Hatched Russian Hacking Narrative 24 Hours After Hillary’s Loss
+10604,1,Oddsmaker Adds Kamala Harris to List of 2020 Candidates at 33-to-1 - Breitbart
+10794,1,San Francisco: Lowest Percentage of Kids in America - Breitbart
+10803,1,WhiteHouse.gov Takes Down Climate Page, Puts Up ’America First’ Energy Plan - Breitbart
+10961,1,NYT: ’Bill Maher and Milo Yiannopoulos Find Common Ground’ - Breitbart
+11287,1,Democrat on House Intel Committee to Question Flynn over Russia
+11423,1,FLYNN: Kathy Griffin Hopefully Decapitates Partisan Comedy, a Joyless Oxymoron - Breitbart
+11721,1,Celebrities Get Sentimental During Obama Farewell Speech
+11751,1,VIDEO: Oklahoma Community Gathers to Mourn Newborn Baby Found in a Dumpster - Breitbart
+11852,1,Summer Sweat: Box Office Revenue Dips 10 Percent in First 3 Weeks
+11883,1,MN Health Officials Hide High School Active TB Case for Six Weeks
+11908,1,Watch: Trailer for Don Rickles’ Final Project ’Dinner with Don’
+12150,1,Politico Scoop: Lara Trump Supports Beagle Rescue Org with Felon in Leadership - Breitbart
+12232,1,Watch: Celebs Sing ’I Will Survive’ Ahead of Trump Inauguration
+12292,3,Amy Schumer Netflix Special Flooded with One-Star Reviews
+12395,1,Budweiser Debuts Pro-Immigration Super Bowl Ad - Breitbart
+12432,1,Rick Perry Accuses Texas A&ampM of Disqualifying Student Government Election Winner in ’Name of Diversity’ - Breitbart
+12461,1,Big Business Lobby Covet Low-Skilled Foreign Workers
+12467,1,Critics Savage Amy Schumer Movie ’Snatched’: ’Lazy, Sloppy,’ and Racist
+12502,1,Orange County, California: Key Battleground for 2018 Midterm Elections - Breitbart
+12600,1,Amy Schumer to Star in ’I Feel Pretty’
+12618,1,Watch: Warner Bros. Unveils First Full ’Justice League’ Trailer
+12891,1,Amy Schumer Blames ’Alt-Right Trolls’ for Negative Reviews of Netflix Special
+13282,2,Inauguration 2017: The Swearing In of President Donald Trump - Breitbart
+13423,1,When Fake News Hurts: Media Hype Fears of Antisemitism
+13483,1,MILO Explains Why Ugly People Hate Him - Breitbart
+13487,1,Beyoncé Lends Support to Anti-Trump Women’s March on Washington - Breitbart
+13506,1,Netflix to Scrap Five-Star Ratings amid Amy Schumer Controversy - Breitbart
+13677,1,EXCLUSIVE - Carter Page: Investigate ‘Collusion’ Between Hillary and Obama Admin on Russia Fake News
+13679,1,Tina Fey Blasts White Female Trump Voters: ’You Can’t Look Away’
+13713,1,Designer Accused of ’Fat-Shaming’ Amy Schumer over InStyle ’Beauty’ Magazine Cover
+13848,1,EXCLUSIVE – John Bolton: ‘Travesty’ that Russia Collusion Conspiracy Is Being Dragged Out
+13988,1,In Search of a Star: Desperate Democrats Turn to Losing Candidate Under Age 40 - Breitbart
+14100,1,Dying Author Writes Death Bed Essay Encouraging Women to Date Her Husband After She Dies
+14230,1,31 Senators Call for More Foreign Workers to Replace Blue-Collar Americans - Breitbart
+14447,1,Senate Democrats Ignore Frantic Pleas from House Dems as Objections to Trump Victory Fizzle - Breitbart
+14553,1,Inauguration 2017: Almost One Million Attendees, Plus Protestors, Say Officials - Breitbart
+14742,1,MILO Warns Bill Maher: ’Democrats Are Party of Lena Dunham, Mental, Hideous People’ - Breitbart
+14876,1,Eight Wounded, Two Guns Recovered at MLK Rally in Miami - Breitbart
+14923,1,5 of Madonna’s Dumbest Political Statements
+14940,1,Hillary Clinton Apologized to Obama After Election Defeat, Won’t Run Again
+14983,4,Bad Jokes or Mean Internet Trolls? Amy Schumer Loses Either Way
+15185,1,DELINGPOLE: Why Trump Should Quit the Dangerous and Immoral UNFCCC
+15484,1,MILO: Hollywood Leftists, Stop Being Racist and Move to Cuba - Breitbart
+15537,1,Ted Cruz Protests Iran Deal, Blocks State Dept Nominees for Third Time in Week - Breitbart
+15784,1,Report: 15 Potential Democratic Candidates for President Against Trump in 2020 - Breitbart
+15804,1,’Let’s Do This!’ New York Celebrities Head to the Polls on Primary Day - Breitbart
+15946,1,***DNC LiveWire*** Obama, Biden, Kaine Featured Dems Look to Push Gun Control - Breitbart
+16014,1,Vegas Gun Store: Prices Will Skyrocket If ’Crooked Hillary’ Wins
+16794,1,Hollywood Reacts to Scalia’s Death with Sarcasm, Jubilation
+17116,1,Michael Moore Celebrates ’Occupy’ Anniversary: ’No Going Back’
+17316,3,Grammy Awards: Beyoncé Leads Noms with BLM-Inspired ’Lemonade’
+17597,2,Volunteer For Zoe Quinn’s Twitter-Partnered ’Anti-Harassment’ Organization Accused Of Sexual Harassment - Breitbart
+17801,1,Dem Sen Klobuchar: Questions About Hillary Clinton’s Health Are ‘Quite Sexist’ - Breitbart
+17866,1,Madonna Warns: ’Vote Clinton or We Are All F*cked’
+17976,1,Interview: Bryan Cranston Tells Breitbart News ’The Infiltrator’ Reinforces ’Distrust of Government’ - Breitbart
+18022,1,Tim Kaine: Bill Clinton Should Resign Over Lewinsky Scandal
+18273,1,Muslim Selfie Girl Returns To Twitter After Breitbart Expose: ’I Meant Zionists, Not Jews!’
+18603,1,Trans Actress to ’Piss In All the Wrong Bathrooms’ During North Carolina Tour - Breitbart
+18644,1,Previously Deported Illegal Alien May Face Charges for Killing Texas Firefighter, 2 Children
+18832,1,Barack Obama Backs Down Over Operation Fast and Furious, Drops Executive Privilege Claim Over Some Documents - Breitbart
+19187,1,Satirist Ami Horowitz Asks New Yorkers if Police Target Black People: ’I Pray for the NYPD Everyday’ - Breitbart
+19390,1,O’Keefe: Feingold Says Clinton to Use ’Executive Order’ on Guns
+19422,1,Amy Schumer Accepts Award, Thanks Those Who Died In Theater Shooting - Breitbart
+19495,1,Congressional Democrats And Republicans Flock To Cuba With Obama - Breitbart
+19698,1,Seven Worst Anti-Gun Hypocrites
+19740,1,Hillary Clinton Backed Off Crackdown on Chemical Dangerous to Pregnant Women After Dow Chemical Joined Clinton Global Initiative - Breitbart
+19918,1,Bud Light Disables YouTube Ratings, Comments for Gender Pay Gap Ad After Backlash - Breitbart
+20045,1,Business Interests Benefitting from Castro Regime Urge Trump to Be Friendly to Cuba - Breitbart
+20267,1,Hundreds of Trump Fans Boo, Walk Out On Amy Schumer - Breitbart
+20653,4,Lena Dunham Defends ’Plus Size’ Amy Schumer: ’Why Do You Have to Categorize Our Bodies?’ - Breitbart
+20709,1,Amy Schumer Says Vow to Leave U.S. if Trump Won Was a Joke
+20733,1,WATCH: Congressman Keith Ellison Talks Union Racism - Breitbart
+20919,5,Wikileaks: NYT’s Amy Chozick Privately Praised Hillary Clinton
+21034,1,Amy Schumer Calls On Women to March in Protest Against Trump
+21181,2,Moore: Low African-American Voting a ’Huge Fire Siren Going Off in the Clinton Campaign’ - Breitbart
+21347,1,WikiLeaks Revelation: Clinton Staff Pushed to Near Suicide - Breitbart
+21560,2,Gun Control Troll: Amy Schumer Disrobes to Disarm Americans - Breitbart
+21603,1,Golden Globes Recap: Ricky Gervais Delivers, ’Revenant’ Wins Big, Stallone Gets Standing Ovation - Breitbart
+21659,1,***2016 LiveWire*** Clinton Picks Tim Kaine as Running Mate - Breitbart
+21723,1,DNC Staffers Conspired Against Sanders, Using His Religion, Leak Shows - Breitbart
+21903,1,The Hill: Clinton Campaign Fears Trump’s ’Scorched Earth’ Strategy - Breitbart
+21957,3,FULL TEXT: MILO At West Virginia University On What Trump Means - Breitbart
+22050,1,Baby-Parts Seller Planned Parenthood Upset Trump Joked About Crying Infant - Breitbart
+22292,1,WaPo: Hillary’s Colin Powell Defense for Email ’Just Plain Wrong’
+22451,1,American Woman Found Naked, Strangled in Florence Apartment - Breitbart
+22452,2,Amy Schumer to Star in Live-Action Movie ‘Barbie’
+22501,1,McCarthy: Donald Trump Could Help GOP Win Seats - Breitbart
+22559,1,Live Updates: Heavy Security for America’s New Year’s Eve Celebrations - Breitbart
+22629,1,Here’s Why The Left Is So Desperate To Defend The New Feminist Ghostbusters - Breitbart
+22706,2,Teen Sought by Police Asks News to Use Better Mugshot on Facebook - Breitbart
+22720,1,Paul Ryan Says He Passed Bill to Pause Somali Refugee Program
+22905,1,16 Celebrities Who Will Leave the U.S. if Trump Wins
+23215,1,The Hill: Clinton Allies Criticize Campaign Over Health Secrecy
+23252,1,***DNC LiveWire*** Hillary Clinton Accepts Nomination - Breitbart
+23592,1,Breitbart News Daily: Pre-Christmas Cabinet - Breitbart
+23909,1,The Hill: ‘Shattered Dreams in Clintonworld’ as Longtime Aides Left Jobless
+24007,1,Hillary Clinton Dances to ’Fight Song’ - Breitbart
+24039,1,***2016 LiveWire*** Obama Endorses Clinton with Video - Breitbart
+24209,1,***2016 LiveWire*** Republican National Convention Kicks Off - Breitbart
+24253,3,Amy Schumer Outraged After Magazine Labels Her ’Plus-Size’ - Breitbart
+24336,1,Video: Hillary Clinton Leaves 9/11 Memorial Ceremony Early, Dragged into Van - Breitbart
+24446,1,New York Times Hires Glenn Thrush After Wikileaks Humiliation - Breitbart
+24647,1,Common Core Mocked on Jeopardy - Breitbart
+24758,3,Wikileaks: Journalists Dined at Top Clinton Staffers’ Homes Days Before Hillary’s Campaign Launch - Breitbart
+24996,2,***Horse Race LiveWire*** GOP Candidates Debate in Houston - Breitbart
+25170,1,Tears Of Rage: Obama Cries During Gun Control Speech - Breitbart
+25356,1,MILO Offers to Pay for Lena Dunham’s One-Way Ticket to Canada - Breitbart
+25430,2,Wikileaks: New York Times Caught Providing Bill Clinton Questions Before ’Interview’ - Breitbart
+25435,1,Mia Farrow Compares Bill Cosby to Woody Allen
+25477,2,Leaked Emails: Politico’s Ken Vogel Filed Story with DNC Before His Own Editors - Breitbart
+25496,1,Golden Globe Nominations: Complete List
+25660,1,***Horse Race LiveWire*** Cruz, Sanders Leading in Wisconsin Poll - Breitbart
+25789,1,Kathy Griffin Tells Trump to ’F*ck Off’ in Mock Campaign Ad
+25799,1,***DNC LiveWire*** Bill Clinton, ’Mothers of the Movement’ Featured ’Anti-Police’ March in Philly - Breitbart
+25930,1,***Horse Race LiveWire*** Trump Sweeps Super Tuesday - Breitbart
+26145,1,Accused Twin Falls Muslim Was Used by Media as Example Two Months Ago - Breitbart
+26154,1,Amy Walter: Women Are Voting Against Trump, Not For Hillary - Breitbart
+26326,1,Hillary Clinton: GOP Attacks Are Sexist - Breitbart
+26560,1,Report: Hillary Clinton’s Campaign Ignored Bill’s Suggestion to Court Working-Class Whites - Breitbart
+26705,1,SAG Awards Nominations: Complete List
+26708,4,Amy Schumer Can’t Take a Joke: Humiliates 17 Year-Old Film Critic - Breitbart
+26728,2,Dinesh D’Souza’s ’Hillary’s America’ is Top-Grossing Documentary of 2016 - Breitbart
+26829,4,***2016 Livewire*** Democrats In Disarray On Eve Of Hillary Clinton’s Coronation Convention in Philadelphia - Breitbart
+26942,1,Sen. Rand Paul Demands Senate Vote on Pakistan Arms Sale - Breitbart
+27133,1,***2016 LiveWire*** Clinton Introduces VP Pick Kaine - Breitbart
+27322,1,***2016 LiveWire*** AG Lynch Testifies Before Congress…Sanders Endorses Hillary…Pence to Campaign with Trump - Breitbart
+27418,1,Ted Cruz Pulls TV Ad Featuring Porn Actress - Breitbart
+27436,1,Christian-Basher Jennifer Lawrence: ’It’s Not Smart, Businesswise, to Be Opinionated’ But I Don’t Care
+27474,2,Cannes: Oscar-Winning Muslim Filmmaker Calls for Trump ’Boycott:’ He Doesn’t ’Need Any More Attention’ - Breitbart
+27480,1,THR: Hollywood Gripped By Red-Carpet Terror Fears - Breitbart
+27544,2,New York Times Alters Hillary Clinton Quote on Increasing ’Antihistamine Load’ - Breitbart
+27590,2,Lena Dunham Mocked for Assuming NFL Star Odell Beckham Jr. Snubbed Her ’Marshmallow’ Body - Breitbart
+27592,1,Dem Rep.: Fire DNC Officials Who Raised Bernie Sanders’s Religion
+27775,1,Megyn Kelly Dines with Hollywood Stars on Oscar Night - Breitbart
+27962,1,Lena Dunham Cops Out on Pledge to Move to Canada
+28110,2,Amy Schumer Ignores Facts to Push Gun Control at Critics’ Choice Awards
+28174,1,Twitter’s Attempt to Silence Generation Trump - Breitbart
+28184,1,Post-Dallas, Black Lives Matter Protests Sweep California
+28271,1,Elijah Wood: Hollywood Full of ’Organized’ Child Sex Abuse - Breitbart
+28272,1,Hillary Loses Key Progressive Endorsement from Dr. Cornel West - Breitbart
+28280,3,Twin Falls TV Station Slants Reporting on Community Debate Over Refugee Rape - Breitbart
+28303,1,Brexit: The Nationalist-Populist Rebellions Continue  - Breitbart
+28381,1,Scott Jones Dumps Trump: This ’May Cost Me the Election’
+28554,1,Abortion Providers Get Standing Ovation at Sundance Pro-Abortion Documentary - Breitbart
+28579,1,***Horse Race LiveWire*** Summer Bummer: GOP Fight Drags on to Convention - Breitbart
+28586,1,Carol Burnett: I’m Bored with TV Comedy Producers Saying Everything Has to Be ’Edgy’ - Breitbart
+28841,3,SEALS Forced to Abort Hostage Rescue While Obama Vacationed
+28985,1,The Self-Implosion of Debbie Wasserman Schultz - Breitbart
+28993,1,Documentary Filmmakers Launch Anti-Trump Ad Campaign
+29121,1,Amy Schumer Increases Personal Security While Pushing Gun Control for Americans - Breitbart
+29311,1,***2016 LiveWire*** Trump Surges to Lead in Ohio, Nevada - Breitbart
+29353,2,The Energizer: Clinton Campaign Closely Monitored Reports About Bill Clinton’s Alleged Mistress - Breitbart
+29802,2,Top DNC Officials Go Down as Convention E-Mail Scandal Rages
+29828,3,ComedyGate: Progressive Comedians Trying to Get Comedian Mike David Booted Off Social Media - Breitbart
+29993,1,***2016 LiveWire*** Clinton in Tar Heel State as She Trails in Another NC Poll Trump in Ohio - Breitbart
+30151,1,Clinton Raises Cash at Justin Timberlake’s House - Breitbart
+30214,2,***Horse Race LiveWire*** Trump: ’We’re Going to Take Our Country Back from Those People’ - Breitbart
+30412,1,20 Most Epic Celebrity Trump Meltdowns of 2016
+30544,1,Amy Poehler to Host ’Laugh Your Pantsuit Off’ Hillary Fundraiser
+30629,1,NFL Establishes ’Rooney Rule’ for Women - Breitbart
+30960,1,DNC Employee Emailed Passwords Twice Over Hacked Server
+31090,1,T.J. Miller Mocks Donald Trump During 2016 Critics’ Choice Awards - Breitbart
+31186,1,Super Bowl 50: Broncos Win 24-10 Behind Dominant Defense Von Miller Wins MVP - Breitbart
+31252,2,Amy Schumer ’Sickened’ By Senate’s ’Cowardice’ on Gun Control - Breitbart
+31268,1,Comedian Wanda Sykes Booed Off Stage after Anti-Trump Rant
+31461,1,Inquisitr: ‘Clinton Cash’ Shows How Bill and Hillary ‘Monetized Public Service’ - Breitbart
+31495,1,Shallow Pre-College Reading Assignments Pave Way for Social Justice Agenda - Breitbart
+31698,1,Morning sickness drug called into question
+31785,1,Golden Globe Awards: The winners list
+31810,1,Klobuchar: Experts should help investigate Russia hacking
+32060,1,How Trump’s speech played on Capitol Hill
+32296,1,SAG winners list: Who won what
+32318,1,Dems may back off big battle over Supreme Court pick
+32329,1,Trump’s Supreme Court pick marks end of one battle, starts new one
+32408,1,Immigration ban strands children and families
+32561,1,Betty White: ’I am the luckiest old broad on two feet’
+32620,1,’La La Land’ wins big at BAFTAs
+32655,1,Is racism why Adele beat Beyoncé at the Grammys?
+32711,1,Trump tells Jewish magazine’s reporter to ’sit down’
+32785,1,Trump’s Sweden comment raises questions
+32788,1,Oscar nominees have these gifts in the bag
+32823,1,Acupuncture shows promise in migraine treatment, study says
+32828,1,Trump condemns anti-Semitism but can’t stop questions
+32902,1,The Oscars: Everything you need to know
+33143,1,Sikh man’s shooting in Washington investigated as hate crime
+33305,1,Neil Gorsuch’s stealth Supreme Court nomination
+33318,5,Author who wrote heartbreaking ’dating profile’ for her husband dies
+33372,1,SXSW artist: Travel ban contributed to racism
+33437,1,Conjoined Twins Fast Facts
+33450,1,While partisans fight, Gorsuch glides through hearings Day 3
+33499,1,Rick Perry: Texas A&ampM election ’stolen’
+33569,1,Here’s how senators plan to vote on Gorsuch
+33718,1,Senate Dems reach filibuster threshold on Gorsuch setting up ’nuclear option’ change
+33944,5,Teen guilty in fatal Delaware high school fight
+34005,1,Willie Nelson Fast Facts
+34517,1,Yates explains why she won’t defend travel ban
+34557,1,What Rod Rosenstein said about Trump and Russia two months ago
+34665,1,Ebola kills 3 in DRC, WHO says scores more linked to deaths
+34695,1,Democrats set for first view of potential 2020 candidates
+35043,1,Britain’s young voters are angry, not apathetic
+35112,1,Moment of silence honors victims of deadly Portland train stabbing
+35150,1, If Wonder Woman can’t win, how can the rest of us?
+35705,1,Senate rejects series of gun measures
+35764,1,CNN’s Reality Check Team vets Trump’s claims
+35953,1,Public vetting of Kaine for Clinton VP begins
+36033,1,Hillary Clinton’s enviable list of VP choices
+36357,1,Erdogan demand that US extradite cleric could strain ties
+36430,1,Day 2 of GOP convention speeches: CNN vets the claims
+36456,1,CNN vets Obama’s response to Trump’s RNC speech
+36465,2,Labor, abortion rights groups praise Kaine pick
+36483,1,Trump campaign readies assault on Kaine
+36603,1,Dem convention speeches Day 4: CNN’s Reality Check Team vets the claims
+36627,1,Bill Cosby drops lawsuit against accuser
+37270,1,Prince’s death highlights fear of ’kill pill’
+37523,1,Kaine bungles Clinton Foundation policy on foreign donations
+37765,3,Emmys 2016: The list
+37904,1,What it’s like to document a ’minor miracle’
+38188,2,Kaine, Pence debate: CNN’s Reality Check Team vets the claims
+38319,1,Fact-checking the 2nd debate
+38380,1,The sexist trope Clinton’s supporters must not use
+38491,1,The final debate: CNN’s Reality Check Team vets the claims
+38970,1,Rod Blagojevich Fast Facts
+38971,1,Robert Redford Fast Facts
+39114,2,Steven Spielberg Fast Facts
+39188,1,Goodman: Standing Rock has been ’chilling’
+39204,1,Richard Spencer’s appearance at Texas A&ampM draws protests
+39623,1,Trump says he’ll dissolve foundation
+39699,1,Carrie Fisher, ’Star Wars’’ Princess Leia, dies at 60
+39888,1,Fey, Poehler jokes light up Golden Globes
+39928,1,Some military relatives review online life after threat
+40154,1,SAG Awards: See who’s nominated
+40341,1,Boston buried in snow new storm for Northeast
+40347,1,Cyberwar: CyberCaliphate hits military spouses group
+40356,1,Cuddling convention happens on Valentine’s Day
+40427,1,’Parks and Recreation’ producer Harris Wittels dies
+40673,1,Andy Samberg to host the 2015 Emmys
+40782,1,Fraternity crackdowns:
+40872,2,Amy’s Kitchen recall: Products may contain listeria
+40879,1,Rob Kardashian: Kim is like ’Gone Girl’ character
+40922,1,What’s streaming on Netflix, Amazon, Hulu, iTunes in April
+40924,1,Denise Huskins’ abduction: Lawyers defend boyfriend
+41060,1,Menendez indictment: 3 girlfriends, 7 lavish trips
+41431,1,Culture’s transgender ’moment’
+41593,1,New Yorker pleads guilty to sex abuse of Amish sisters
+41717,1,4 dead in arson near Washington’s Embassy Row
+41748,4,Washington family killings suspect charged with murder
+41802,2,Anne Meara: Way more than Ben Stiller’s mom
+41803,1,Plus-size modeling and race: When ’diversity’ isn’t
+41838,1,Live from your desk, Fey and Poehler action figures!
+41887,2,Amy Schumer is everywhere
+41996,1,Dehydration is a real health threat
+42011,1,Does blood on shoe link suspect to Washington slayings?
+42042,1,Second Yellowstone visitor injured in bison encounter
+42047,1,9th baby dies after heart surgery at a Florida hospital
+42074,1,Democrats fret unions’ pressure tactics on trade
+42155,1,’Lethal Weapon’ actress Mary Ellen Trainor dead
+42168,1,Corset training, a celebrity weightloss trend, busted
+42215,1,Official: Father in D.C. mansion murders strangled
+42257,1,The ’70s: When TV finally woke up to reality
+42283,1,Passing for black? Now that’s a twist
+42511,1,New York prison break: DNA found in cabin
+42542,2,New details emerge in D.C mansion murder case
+42674,3,Amy Schumer is no Donald Trump
+42724,1,Bison attack two more Yellowstone visitors
+42727,5,Amy Winehouse demos for unfinished third LP destroyed
+42752,2,Clinton: ’People should and do trust me’
+42768,1,Marisa Tomei in talks to play Aunt May in ’Spider-Man’
+42856,12,’Trainwreck’ film review
+42857,2,LeBron James a scene-stealer in his first movie
+42858,3,Amy Schumer goes ’Star Wars’ in GQ cover
+42859,4,Amy Schumer fires back at critics: ’I am not racist’
+42873,1,Changing how police respond to mental illness
+42904,10,9 bizarre snacks to try for National Junk Food Day
+42942,1,Massive fire engulfs Cosmopolitan Hotel in Las Vegas
+43290,1,For $8,000, this startup will fill your veins with the blood of young people — but it has no idea if it’ll have any benefits
+43442,1,Trump’s ’buy American’ policy directly conflicts with how his own hotels operate
+43548,1,People are threatening to boycott Budweiser because of its immigration-themed Super Bowl ad
+43609,1,INSIDE MEDIUM’S MELTDOWN: How an idealistic Silicon Valley founder raised $134 million to change journalism, then crashed into reality
+43721,1,Trump’s baffling ’Sweden’ comment came from a Fox News segment
+43760,1,The fight for the future of the Democratic Party is about to reach a critical point
+43935,1,Jeff Sessions says he will enforce federal law in an ’appropriate way’ — and the marijuana industry is rattled
+44099,1,Exxon admits it lost up to a year’s worth of Rex Tillerson’s ’Wayne Tracker’ emails
+44145,1,23 questions you should never ask at the end of a job interview
+44224,7,Here’s the bizarre reason you’re not supposed to use the bottom button on suits
+44442,1,Hillary Clinton reportedly blamed everyone but herself for her humiliating defeat to Trump
+44473,1,Former Clinton staffers are pushing back on allegations in a devastating new book on the campaign
+44531,1,Trump is taking aim at one of America’s closest allies — and he has bipartisan backing
+44678,1,What it’s like to have a surprise dinner with Mark Zuckerberg
+44748,1,A top Republican senator is pitching an out-of-the-box idea to replace James Comey — and top White House officials are into it
+44871,1,A ’paradigm shift’ is taking place in financial technology
+45034,1,23 questions you should never ask at the end of a job interview
+46325,1,’Batman v Superman’ killed off a major character from the comic books — and you probably missed it
+47003,1,Here’s the trailer for ’Equity,’ the new movie about a badass female banker
+47062,1,Japan’s prime minister is warning world leaders about a ’Lehman-scale crisis’
+47329,1,39 separate letters pleaded for a lenient sentence in the ex-Stanford swimmer’s sexual assault trial — here’s what they said
+47333,1,Police recover body of 2-year-old dragged into lagoon by alligator
+47427,1,13 things mentally strong people don’t do
+48156,1,THE LEBRON JAMES INTERVIEW: The world’s best athlete reveals how his team pulled off the greatest comeback in NBA history
+48199,1,The price of an EpiPen has skyrocketed more than 500% since 2009 — and people are losing patience
+48233,1,Facebook’s new app for high schoolers raises privacy concerns
+48440,2,Oscar favorite ’Arrival’ is one of the best movies of the year — and a big surprise
+48639,1,Inside the country’s first 100% vegetarian drive-thru restaurant
+48704,1,21 signs you’re mentally stronger than average
+48754,1,Microsoft CEO Satya Nadella’s latest report card had only one bad grade
+49399,2,How ’Gilmore Girls’ finally landed its Netflix revival after one star had ’given up hope’
+49897,1,Opening Paragraphs Don’t Always Have to Be Exciting
+49929,1,The Atlantic  Politics & Policy Daily: The Spy Who Phished Me
+49931,1,Did Putin Direct Russian Hacking? And Other Big Questions

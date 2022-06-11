@@ -1,0 +1,146 @@
+510,1,In a Rust Belt Town, the Women’s March Draws Shrugs and Cheers From Afar - The New York Times
+577,1,As Trump Orders Wall, Mexico’s President Considers Canceling U.S. Trip - The New York Times
+629,1,A Final Match for Venus and Serena Williams. But Maybe Not the Last One. - The New York Times
+952,1,30-Year Sentence for Man Who Burned Florida Mosque Attended by Omar Mateen - The New York Times
+991,1,Where Have You Gone, Angelina Jolie? Celebrities Vanish From Fashion’s Front Row - The New York Times
+1072,2,Grammy Winners 2017 - The New York Times
+1372,1,The Anti-Trump Activist Taking On Retailers - The New York Times
+1521,2,Catch of the Year. No Ball Involved. - The New York Times
+1890,1,Jimmy Breslin, Legendary New York City Newspaper Columnist, Dies at 88 - The New York Times
+2060,2,Ariel Levy Has Written a Thoroughly Modern Memoir - The New York Times
+2075,1,Baseball Is Practically a Water Sport to the Mets’ Curtis Granderson - The New York Times
+2328,1,As Latest Health Plan Dies, Republicans Can’t Agree on a Culprit - The New York Times
+2481,3,Special Ed School Vouchers May Come With Hidden Costs - The New York Times
+2943,2,Orlando Shooting: What We Know and Don’t Know - The New York Times
+2954,3,Omar Mateen, Twice Scrutinized by F.B.I., Shows Threat of Lone Terrorists - The New York Times
+3008,5,‘Always Agitated. Always Mad’: Omar Mateen, According to Those Who Knew Him - The New York Times
+3073,1,Dior Is Expected to Name Maria Grazia Chiuri as Artistic Director - The New York Times
+3074,1,European Union, Donald Trump, Bernie Sanders: Your Friday Evening Briefing - The New York Times
+3305,1,What You Should Watch: ‘Mustang’ and Good Background Shows - The New York Times
+3341,1,Miles of Algae and a Multitude of Hazards - The New York Times
+3959,1,Arson Suspected at Mosque That Orlando Nightclub Gunman Attended - The New York Times
+3975,1,Man Booker Prize Shortlist Is Announced - The New York Times
+4035,1,New York City, U.S. Presidential Race, Syria: Your Evening Briefing - The New York Times
+4087,1,Charlotte, Syria, Ted Cruz: Your Friday Evening Briefing - The New York Times
+4161,1,Tim Tebow Homers in First At-Bat (and Finishes 1 for 6) - The New York Times
+4232,1,Hurricane Matthew Approaches Florida Governor Urges 1.5 Million to Flee - The New York Times
+4233,1,What It’s Like to Be Trapped by a Category 5 Hurricane - The New York Times
+4412,1,The Uninvited Guest: The 2016 Campaign Crashes the Dinner Party - The New York Times
+4468,2,Zadie Smith’s ‘Swing Time’ Explores Friends’ Diverging Paths - The New York Times
+4712,2,100 Notable Books of 2016 - The New York Times
+4714,2,Review: ‘Lion’ Brings Tears for a Lost Boy, Wiped Dry by Google - The New York Times
+5161,1,Debbie Reynolds, Wholesome Ingénue in 1950s Films, Dies at 84 - The New York Times
+5189,1,A Peek Inside the Strange World of Fake Academia - The New York Times
+5237,1,Bernie Sanders and Allies Aim to Shape Democrats’ Agenda After Primaries - The New York Times
+5404,1,After F.B.I.’s Inquiry Into Omar Mateen, a Focus on What Else Could Be Done - The New York Times
+5497,3,Reeking, Oozing Algae Closes South Florida Beaches - The New York Times
+5519,1,Checking In at Trump Hotels - The New York Times
+5605,1,Review: ‘Absolutely Fabulous’ Brings Its Snickers and Bubbly to the Big Screen - The New York Times
+5703,1,Harassment Crisis Builds at Fox News, Despite Its Swift Response - The New York Times
+5753,1,At the Olympics, the Thrill of Victory, the Agony of Defeat and the Lure of the Dance Floor - The New York Times
+5934,1,Tim Tebow, Wearing No. 15, Participates in First Mets Workout - The New York Times
+6023,1,As Hurricane Matthew Nears U.S., Residents Get Warning: Prepare - The New York Times
+6037,1,California Today: Hollywood History vs. ‘Souvenir Junk’ - The New York Times
+6038,2,Hurricane Matthew Avoids Direct Hit on Florida, Continues North - The New York Times
+6550,1,Prince’s Addiction and an Intervention Too Late - The New York Times
+6673,1,Why Tech Support Is (Purposely) Unbearable - The New York Times
+6710,1,Terror Through the Eyes of Innocents: The Children in Nice - The New York Times
+6754,1,Rio Olympics Today: U.S. Swimmers Restock Their Trophy Case - The New York Times
+6823,1,Gene Wilder, Huma Abedin, Donald Trump: Your Monday Evening Briefing - The New York Times
+7302,1,Bank of England Cuts Interest Rate to Historic Low, Citing Economic Pressures - The New York Times
+7583,1,Garry Marshall, ‘Pretty Woman’ Director, Dies at 81 a TV and Film Comedy Mastermind - The New York Times
+7689,1,Asian-American Actors Are Fighting for Visibility. They Will Not Be Ignored. - The New York Times
+9883,1,Hillary Clinton Compares Herself to Wonder Woman
+10000,2,Concern Mounts as Over 250 Earthquakes Hit Border - Breitbart
+10223,2,Sunderland: ’Justice for Chelsey’ March Protests Alleged Police Inaction After Woman Reports Migrant Rape
+10235,1,United Messes Up Again: Flies Customer to San Francisco Instead of France
+11118,1,Report: Beheadings and and Islamist Stabbings Up 11-Fold in Five Years
+12551,4,Police: Woman Paid Teen $300 Each Time They Had Sex - Breitbart
+13341,1,’Wonder Woman’ Makes History for Female Director with $100 Million Opening Weekend
+13628,1,Thousands Brave L.A. Heat Wave to ’March for Science’ - Breitbart
+13673,2,100 Earthquakes Hit Near California-Mexico Border on New Year’s Eve - Breitbart
+13738,1,Think Tank: ’Crisis of Fatherlessness’ in Britain Fueling Poverty, Crime - Breitbart
+14167,4,Chemistry Teacher Arrested for Allegedly Having Sex with 17-Year-Old Student in Car - Breitbart
+15056,1,Tebow Launches Several Homers in Batting Practice, During First Day of Mets Spring Training - Breitbart
+15099,11,ABC’s ’Black-ish’: ’A Vote for Trump is a Vote for Racism’
+15456,1,79-Year-Old Great-Grandmother Awarded Bachelor’s Degree
+16234,2,Live Updates - Terror in Orlando: Approximately 50+ dead, 50+ More Wounded at Gay Nightclub - Breitbart
+16387,1,Report: Orlando Jihadi’s Father Helped Run Radical Mosque
+16456,1,Omar Saddiqui Mateen: 6 Facts About Orlando Terrorist - Breitbart
+16576,1,Students Walk Out Of ‘Patronising’ Sexual Consent Class
+17201,1,Venus Williams Knocked Out of Olympics in Singles - Breitbart
+17272,1,***Horse Race LiveWire*** The Ides of March - Breitbart
+17316,4,Grammy Awards: Beyoncé Leads Noms with BLM-Inspired ’Lemonade’
+18131,1,PETA Condemns Yoenis Cespedes Sending $7K Hog to Butcher - Breitbart
+18419,1,NBC ’Expert’ Blamed Orlando on Anti-Gay ’White Hate Groups’
+18792,1,Kristol: Trump Knows Deep in His Heart He Shouldn’t Be President - Breitbart
+20000,1,Report: Fire at Orlando Jihadi Omar Mateen’s Mosque ‘Intentional’
+20141,1,Orlando’s ’Pulse’ Gay Bar Was a ’Gun-Free Zone’ by State Law - Breitbart
+20255,1,The View: We Need Background Checks, Waiting Periods for Gun Sales
+20482,1,Obama’s FBI Shrugs off Mateen, But Red Flags Were Everywhere - Breitbart
+20523,1,Wachowski Sisters: Second ’Matrix’ Director Comes Out as Transgender - Breitbart
+20644,1,Texas Mom Claims Rope Injury on Daughter’s Neck Was Racially Motivated
+22412,1,Leading British Horserider Suffers ’Terrifying’ Attack at Calais
+22652,1,**Live Wire** Jihad in Orlando: Was Omar Mateen Really a Lone Wolf? - Breitbart
+22992,1,Orlando Terrorist Attended Islamic Center for 13+ Years, Despite Ex-Wife Saying he ’Wasn’t Very Religious’ - Breitbart
+23359,1,Producer: Xena Is Gay in ’Warrior Princess’ Reboot - Breitbart
+23600,1,CNN: Orlando Shooter Claimed Osama Bin Laden Was His Uncle After 9/11 - Breitbart
+23849,1,Ted Cruz Wins Over 100 New Faith Leader Endorsements in Florida and Missouri - Breitbart
+24346,1,’I Am No Longer A Dem’: Hillary Clinton Blasted Over Racist Skit - Breitbart
+24508,1,**Live Wire** Jihad in Orlando: How Can We Prevent Another Pulse Massacre? - Breitbart
+24724,1,Top Vatican Exorcist Who Said ‘ISIS Is Satan’ Dead at 91 - Breitbart
+26321,1,Historic Defeat: Overwhelming Bipartisan Bicameral Vote Overrides Obama’s 9/11 Families Bill Veto - Breitbart
+26349,4,Investors Defrauded For Millions Through EB-5 Visa Program - Breitbart
+26634,1,Center for Security Policy’s Hanson: Orlando Shooting ’Completely in Keeping With Totalitarian Islamic Code’ Shariah - Breitbart
+28018,3,Live: Shadow Cabinet Collapses As Members Resign Over Corbyn’s Brexit Performance
+28396,3,**Live Wire** Jihad in Orlando: Milo Yiannopoulos at Ground Zero - Breitbart
+29097,1,Coming 2016: All-Out War On So-Called ’Social Justice’
+29119,1,Long Lines Form to Donate Blood after Orlando Terror Attack - Breitbart
+29235,1,Tim Tebow Practices for First Time as a Pro Baseball Player Mets Already Selling Jerseys - Breitbart
+29393,1,Donald Trump: President Obama ’Should Immediately Resign’
+29982,1,Meet Donald Trump Otiendo: Kenya’s First Trump-Era Baby - Breitbart
+31353,1,Obama Falsely Claims That His Daughter Sasha Tweets Like Trump - Breitbart
+31609,1,California earthquake swarm rocks New Year’s Eve
+31860,1,Tough starts for Djokovic, Serena at Aus Open
+32192,1,The woman behind Rihanna’s most daring look
+32553,1,Deported mother: ’I did it for love’
+32587,1,Guadalupe Garcia de Rayos has become the focus of a national debate over the Trump administration’s crackdown on illegal immigration.
+33281,4,Arson suspect thought shop owners were Muslim
+34570,1,’Dynasty’ reboot coming to the CW
+34732,1,Turkish security involved in DC protester assault
+35061,1,Liberals say Dem establishment needs to fight
+35848,1,Britain’s Labour Party in turmoil over Brexit vote results
+35888,1,Wimbledon: Djokovic, Federer win openers
+35970,2,Toxic algae bloom blankets Florida beaches, prompts state of emergency
+36803,1,Novak Djokovic joins Williams sisters in day of shocks in Rio
+36933,1,Gold for Rafael Nadal in men’s doubles
+37414,1,U.S. Open 2016: Murray wins under new roof
+37451,1,Jason Day set to play on after family crash
+37654,1,Paralympics: Durand powers to second gold
+37687,2,Mosque attacks rising civil rights group cites Islamophobia
+37701,2,Man arrested in connection with fire at Orlando gunman’s mosque
+37719,1,Paralympics day seven: Highlights from Rio
+38240,1,Hurricane Matthew: 4 deaths in Florida
+39737,1,Snowboarding Olympians: ’It’s really scary!’
+39785,1,Streaming on Netflix, Amazon and iTunes in January
+39921,2,Titanic letter: ’Disgraceful’ treatment after rescue
+40383,1,’50 Shades of Grey’: What’s the verdict?
+40572,2,Oldest known jawbone from human genus found in Ethiopia
+41370,1,’Anne of Green Gables’ actor Jonathan Crombie dies
+41604,1,Is Joss Whedon a feminist? (Opinion)
+41785,1,Oldest stone tools discovered in Kenya
+42000,2,Beau Biden death: Tragedy evokes past presidencies
+42056,1,Dog recovering after being found with muzzle taped shut
+42080,2,French Open 2015: Serena Williams rallies to make final
+42139,1,French Open 2015: Serena Williams wins 20th major
+42424,5,Mental illness, addiction: Mother takes on ’broken system’
+42772,2,Paula Deen under fire for photo of son in brownface
+42784,1,Wimbledon 2015: Serena Williams wins 21st major
+43238,1,’Black-ish’ summed up the election of Trump and race in a scene you need to watch
+44651,1,Malcolm Turnbull and Donald Trump met for just 30 minutes in New York
+45859,1,An incredible 45 day storm turned California into a 300-mile-long sea — and it could happen again
+46893,1,Queen Elizabeth caught on camera calling Chinese officials ’very rude’
+47332,1,The Bernie Sanders political revolution just failed its first post-primary test
+48027,1,$9 BILLION HEDGE FUND: There’s one big problem with Netflix
+49147,1,Nordstrom responds to viral letter calling on retailer to drop Ivanka Trump’s ’toxic’ brand
+49922,1,Is NASA Paving the Way for Asteroid Mining?

@@ -1,0 +1,235 @@
+65,1,My Canada - The New York Times
+109,2,Putin Led a Complex Cyberattack Scheme to Aid Trump, Report Finds - The New York Times
+219,2,A Gut Makeover for the New Year - The New York Times
+407,2,Life on the Farm Draws Some French Tired of Urban Rat Race - The New York Times
+462,1,Who Decides Who Counts as Native American? - The New York Times
+512,1,These Foods Aren’t Genetically Modified but They Are ‘Edited’ - The New York Times
+517,1,Brenda Barnes, Pepsi Chief Who Spurred a Work-Life Debate, Dies at 63 - The New York Times
+615,1,Ahead of Theresa May’s Visit, Talk of Trade Deal Is Clouded by Politics - The New York Times
+628,1,New Prospects for Growing Human Replacement Organs in Animals - The New York Times
+686,2,In America’s Heartland, Discussing Climate Change Without Saying ‘Climate Change’ - The New York Times
+694,1,Hungry and Ill in a Country Plundered by Boko Haram - The New York Times
+782,1,Dangerous Fruit: Mystery of Deadly Outbreaks in India Is Solved - The New York Times
+816,1,Soul-Searching at Clinton Foundation in Trump Era - The New York Times
+901,1,Wine and Dine - The New York Times
+945,1,Syria, Travel Ban, Kabul: Your Morning Briefing - The New York Times
+1123,1,How to Keep the Bloom on That Mother’s Day Rose - The New York Times
+1181,1,Disappearing Seagrass Protects Against Pathogens, Even Climate Change, Scientists Find - The New York Times
+1349,1,Amazon Deforestation, Once Tamed, Comes Roaring Back - The New York Times
+1424,1,Looking for a Trump Doctrine in the White House Kitchen - The New York Times
+1703,1,A Lake Turned Pink in Australia. It’s Not the Only One. - The New York Times
+1865,1,Trump Budget Cuts Put Struggling Americans on Edge - The New York Times
+1905,1,Celebrating Food and Wine in Bordeaux - The New York Times
+1910,1,The Verdant Food of Iran Entices at Persian New Year - The New York Times
+1942,1,The Hawaii Cure - The New York Times
+2377,2,Tuscany Travel Tips From Massimo Ferragamo - The New York Times
+2386,6,California Today: Winemakers Wonder: Who Will Pick the Grapes? - The New York Times
+2436,1,In the Shadow of a Fairy Tale - The New York Times
+2445,1,Frederick Wiseman: The Filmmaker Who Shows Us Ourselves - The New York Times
+2478,1,I Thought I Understood the American Right. Trump Proved Me Wrong. - The New York Times
+2640,1,Review: In Don DeLillo’s ‘Zero K,’ Daring to Outwit Death - The New York Times
+2699,1,Long Island Plane Crash Kills 3 - The New York Times
+2720,1,Two-Hour Marathon. Can It Be Done? - The New York Times
+2883,1,Do Gorillas Even Belong in Zoos? Harambe’s Death Spurs Debate - The New York Times
+2977,1,Poultry Has a Pedigree at Le Coq Rico - The New York Times
+3036,1,Will Trump Swallow the G.O.P. Whole? - The New York Times
+3435,1,Setting the Body’s ‘Serial Killers’ Loose on Cancer - The New York Times
+3613,1,In the Brazilian Rain Forest, ‘a White Elephant, a Big One’ - The New York Times
+3625,1,Beyond Coal: Imagining Appalachia’s Future - The New York Times
+3641,1,Debt. Terror. Politics. To Seattle Millennials, the Future Looks Scary. - The New York Times
+3730,1,Investors Move Next Door, Unsettling a Black Beachside Enclave - The New York Times
+3756,4,Laurie the Moose Lady Puts ‘Heart and Soul’ Into Roadkill - The New York Times
+3838,2,Islam Karimov Dies at 78, Ending a Long, Ruthless Rule of Uzbekistan - The New York Times
+3981,1,Is That Real Tuna in Your Sushi? Now, a Way to Track That Fish - The New York Times
+4153,3,Torn Over Donald Trump and Cut Off by Culture Wars, Evangelicals Despair - The New York Times
+4208,1,Hurricane Matthew Pummels Haiti and Moves Toward U.S. - The New York Times
+4354,3,In Sagaponack, Betting the Farm on Boutique Vodka - The New York Times
+4381,1,Pedals the Walking Bear Is Dead, New Jersey Officials Believe - The New York Times
+4506,1,Donald Trump’s Victory Was Built on Unique Coalition of White Voters - The New York Times
+4604,2,With an Eye on Hunger, Scientists See Promise in Genetic Tinkering of Plants - The New York Times
+4683,1,Two Children, One Rich, One Poor, Gasping for Air in Delhi’s Smog - The New York Times
+4724,1,Good at Skipping Ads? No, You’re Not - The New York Times
+4741,1,One Family. Six Decades. Myriad Views of Fidel Castro’s Revolution. - The New York Times
+4749,1,Venus Flytraps Need Protection From Poachers in North Carolina - The New York Times
+4999,1,Miss World Contestant Who Challenged China Is Allowed to Speak Once More - The New York Times
+5007,1,In Montreal, an Ungainly and Unloved Christmas Tree - The New York Times
+5015,1,Obama Confronts Complexity of Using a Mighty Cyberarsenal Against Russia - The New York Times
+5149,1,As U.K. Tightens Voting Rules, Critics Say Labour and the Poor Will Suffer - The New York Times
+5270,14,Bountiful Afghan Opium Harvest Yields Profits for the Taliban - The New York Times
+5497,1,Reeking, Oozing Algae Closes South Florida Beaches - The New York Times
+5553,1,Tribunal Rejects Beijing’s Claims in South China Sea - The New York Times
+5614,1,Review: In ‘Jason Bourne,’ a Midlife Crisis for a Harried Former Assassin - The New York Times
+5816,1,In Afghanistan’s Farm Belt, Women Lead Unions and Find New Status - The New York Times
+5891,3,California Today: Fighting Fire With Fire - The New York Times
+5979,1,How Small Forests Can Help Save the Planet - The New York Times
+5997,1,Harry Belafonte: ‘Movements Don’t Die’ - The New York Times
+6048,1,An Opera Star Finds the Right Duet - The New York Times
+6136,1,This Tiny West Village Garden Is Public Space. But You Can’t Go In. - The New York Times
+6315,1,Trump’s Tough Trade Talk Could Damage American Factories - The New York Times
+6422,1,David Friedman, Choice for Envoy to Israel, Is Hostile to Two-State Efforts - The New York Times
+6505,1,Obama Strikes Back at Russia for Election Hacking - The New York Times
+6532,1,Missing Mexican Students Suffered a Night of ‘Terror,’ Investigators Say - The New York Times
+6537,4,The Mirage of a Return to Manufacturing Greatness - The New York Times
+6719,1,Melania Trump: From Small-Town Slovenia to Doorstep of White House - The New York Times
+6725,1,When Community-Supported Agriculture Is Not What It Seems - The New York Times
+6778,1,The Tyranny of Other People’s Vacation Photos - The New York Times
+6918,1,A New Debate Over Pricing the Risks of Climate Change - The New York Times
+7018,5,The Supermoon and Other Moons That Are Super in Their Own Ways - The New York Times
+7028,2,In Charleston, Coming to Terms With the Past - The New York Times
+7055,3,In a California Valley, Healthy Food Everywhere but on the Table - The New York Times
+7063,2,Fidel Castro, Cuban Revolutionary Who Defied U.S., Dies at 90 - The New York Times
+7105,1,A New Immigrant Hopes for a Culinary Career - The New York Times
+7148,1,Spiking Temperatures in the Arctic Startle Scientists - The New York Times
+7174,1,The Fighter - The New York Times
+7463,1,Choke Point of a Nation: The High Cost of an Aging River Lock - The New York Times
+7498,1,Pageant Silences Beauty Queen, a Critic of China, at U.S. Contest - The New York Times
+7709,8,Demand for ‘Himalayan Viagra’ Fungus Heats Up, Maybe Too Much - The New York Times
+7729,1,David’s Ankles: How Imperfections Could Bring Down the World’s Most Perfect Statue - The New York Times
+8284,1,Planned Parenthood Bids Farewell to Pro-Abortion Obama
+8975,1,Architecture Firm Unveils Plans for Space Skyscraper Hanging from Asteroid - Breitbart
+9113,1,Missing Indonesian Man’s Body Found Inside Python
+9258,2,As Taliban Depends More on Heroin, Anti-Cultivation Efforts Plummet
+9267,1,FL Sheriff: ’Not a Day Goes By That We All Don’t Arrest A Lot of Illegal Aliens’ Who Are ’Preying’ on People - Breitbart
+9458,1,‘Mom’ Stars Launch Campaign for Planned Parenthood
+9629,4,Planned Parenthood ‘Lamborghini’ Exec Haggles Over Price of Baby Parts
+10337,1,Police: Man Carrying Human Head Stabs Grocery Store Employee - Breitbart
+10540,1,Trump Signs Resolution Overturning Obama Planned Parenthood State Funding Mandate
+10721,1,Drug Traffickers Increasingly Involved in Migrant Smuggling
+11222,4,Afghanistan’s Green Gold: Taliban Terrorists Earn $15 Million a Year Selling Pistachios
+11351,2,NAACP: Sessions’ Voter Fraud Prosecutions Were ‘Intimidating’ to Voters
+11550,1,MERKEL ASCENDANT: Mutti Set to Steal Socialist Seats in ’Key’ State Election - Breitbart
+12003,1,Planned Parenthood #PinkOut: ‘Turn the Whole Internet Planned Parenthood Pink’
+12433,1,Trump and Pence Keeping Pro-Life Promises in First 100 Days
+12663,1,Dem Rep Sánchez: Trump Has Used ’Fear’ of Muslims And Immigrants To Promote Policies That ’Undermine’ Our Values - Breitbart
+12711,8,Congress’s Planned Parenthood Investigations Find Horrifying, Criminal Practices
+12861,1,#ProtestPP: Nationwide Protests Against Government Funding of Planned Parenthood Underway - Breitbart
+13184,1,’Horizon Zero Dawn’ Review: Gameplay Relics from the Past Hold Back an Otherwise Engrossing Open-World Adventure - Breitbart
+13427,1,California Farmer Fined $2.8M for Plowing His Own Field - Breitbart
+13773,1,Anti-Abortion Leaders: Sen. Susan Collins Spreads ‘Misinformation’ that Planned Parenthood Provides Health Care
+13845,2,California Charges Planned Parenthood Video Journalists with 15 Felonies
+13922,1,Paul Ryan Says Obamacare Repeal Bill Will Defund Planned Parenthood - Breitbart
+14146,1,Center for Medical Progress Video Investigation - Planned Parenthood Abortionist: ’Pay Attention to Who’s in the Room’ When Verifying Signs of Life - Breitbart
+14824,1,Massachusetts GOP Governor Vows to Increase Planned Parenthood’s State Subsidy If Federal Funding Is Cut
+14968,7,Donald Trump’s Ag Secretary Pushes for Illegal Immigrants, Not Robots - Breitbart
+15369,1,Kardashian Sisters Tape Visit to Planned Parenthood - Breitbart
+15717,4,Study: China Harvesting Organs from Tens of Thousands of Political Prisoners Annually - Breitbart
+15788,1,Hackers Using Facebook Quizzes to Harvest Personal Data - Breitbart
+16094,1,Planned Parenthood Looks to Miley Cyrus Photo to Raise Cash - Breitbart
+16537,1,Hillary Clinton in Charlotte: ‘My Worries Are Not the Same as Black Grandmothers’ - Breitbart
+16622,2,Planned Parenthood IDs Sen. Kelly Ayotte as First 2016 Target - Breitbart
+16643,3,Planned Parenthood Says Ted Cruz ‘Biggest Liar in the Room’ on Abortion - Breitbart
+16678,1,Scammers Are Pretending to Be Your Facebook Friends - Breitbart
+16841,1,Luis Gutierrez: GOP’s Dirty, Filthy Hands Off Planned Parenthood
+17220,1,Wisconsin Defunds Planned Parenthood - Breitbart
+17398,1,DA Sues Two CA Companies for Profiting from Baby Parts from Abortions - Breitbart
+17429,1,3 Creepiest Things Discovered Within Oculus Rift’s Terms of Service &amp Privacy Policy - Breitbart
+17549,1,Planned Parenthood CEO: ‘I Don’t Know’ When A Baby Receives Constitutional Rights - Breitbart
+17793,2,Jennifer Lawrence Got Birth Control, Condoms from Planned Parenthood: Everything ‘Normal Teenager Growing Up in a Jesus House’ Needs
+18017,1,NC Congressman: NBA Hypocrites for Pulling All-Stars from Charlotte But Playing China Preseason Games - Breitbart
+18124,1,***Live Updates*** Throwdown Thursday: GOP Candidates Debate Sans Trump - Breitbart
+18681,1,’Largest’ Voter Fraud Probe Underway in North Texas
+18780,1,House Panel Documents Point to Planned Parenthood Profits from Aborted Baby Parts - Breitbart
+19343,2,Planned Parenthood Announces Lawsuit Against Pro-Life Video Group Group: ’Complex Criminal Enterprise’
+19563,1,Planned Parenthood’s Cecile Richards: No Comment on Bill Clinton’s Sexual History
+19932,2,Senate Democrats Block Zika Funding Because It Doesn’t Fund Planned Parenthood - Breitbart
+20114,2,7 Robots That Are Replacing Farm Workers Around the World - Breitbart
+20371,1,Americans United for Life 2016 Report: Triumphs and Tragedies
+20399,1,Video Maker David Daleiden Turns Himself In To Houston Law Enforcement Officials - Breitbart
+20590,1,Hiring Criminals to Hire Criminals: Your Tax Dollars at Work
+20841,1,Peter Schweizer: The Clintons ’Function as a Kind of Political Mafia’ - Breitbart
+22069,1,House Panel Refers Planned Parenthood Gulf Coast for Criminal Prosecution - Breitbart
+22664,1,Exclusive Excerpt: Kristin Tate’s ’Government Gone Wild’ on How ’We Can Get Un-Screwed’ - Breitbart
+22950,1,Latino Activists Reject Union’s Support For Hillary, Rally For Bernie Sanders - Breitbart
+23206,2,PHOTOS: Islamic State Destroys Alcohol, Cigarettes In Former Al Qaeda-Controlled Areas
+23449,1,Woman Makes Six-Figure Salary as Online ’Humiliatrix’ - Breitbart
+23799,1,Macy’s Halts Donations to Planned Parenthood: ‘Another Miracle on 34th Street’ - Breitbart
+24566,1,’The Populist Explosion’: New Book Explains Rise of Trump, Sanders, and the Populist Future - Breitbart
+24656,1,Emails Suggest AG Kamala Harris Worked with Planned Parenthood
+24705,1,Gloria Steinem Refuses to Pay Taxes If Planned Parenthood’s Funding Eliminated
+24921,2,Americans’ Opposition to Amnesty is Boosting Wages, Business Leader Admits - Breitbart
+25087,1,Story of Planned Parenthood Founder Margaret Sanger Heading to Big Screen - Breitbart
+25274,1,Federal Judge Inadvertently Confirms Existence of NSA Spying Program - Breitbart
+25545,1,Obama Threatens to Veto GOP Zika Funding Bill Because It Doesn’t Fund Planned Parenthood - Breitbart
+25643,2,Congress To Send Obama Bill Defunding Planned Parenthood and Repealing Obamacare - Breitbart
+26616,2,Senate Judiciary Committee Refers Planned Parenthood For Possible Criminal Prosecution - Breitbart
+27177,2,RSPB: We Must Build More Bird-Chopping Eco Crucifixes!
+27342,1,NARAL Rebukes Nancy Pelosi for Denying She Supports Abortion on Demand - Breitbart
+27510,1,Stolen Elections? It Has Happened and Could Happen Again - Breitbart
+27618,1,Chinese Scientist Plans to Clone a Million Cows per Year - Breitbart
+27718,1,Rain! California Doubles Water Allocation as Drought Fades
+27965,1,The FCC’s Push to Unlock Set-Top Boxes May Backfire - Breitbart
+28209,1,Farage’s UKIP Farewell: Promises To Keep Fighting Globalisation
+28310,1,Here Are 37 Companies That Directly Fund Planned Parenthood - Breitbart
+28659,1,2016 Election: World Reacts to Donald Trump’s Stunning Upset Victory - Breitbart
+28947,1,Government Spending Millions Encouraging Eating Insects
+29438,1,Duterte: ICC Is ’BullS**t,’ European Lawyers Have ’Brains Like a Pea’
+29625,1,Planned Parenthood President Heads to Nevada to Campaign for Hillary After Crushing New Hampshire Defeat - Breitbart
+29735,1,SHOCK: Amnesty International Blasts Kellogg’s for Child Labor
+29939,1,Gov. Jerry Brown Signs Bill Criminalizing Journalists Who Distribute Recordings of Abortion Providers
+29983,1,Russians Also Tried to Hack Republican National Committee, and Failed - Breitbart
+30066,1,Missing Migrant Children May Have Had Their Organs Harvested Claims Leading German Muslim - Breitbart
+30862,1,Watchdog: Corruption Funneled U.S. Taxpayer Dollars to Taliban in Afghanistan - Breitbart
+31074,1,8th Month in a Row: More than 25 Million Foreign-Born People Employed in U.S. - Breitbart
+31418,1,Mining Industry Looks to Space as Asteroids May Inspire the Next Gold Rush - Breitbart
+31632,1,The agony of Earth’s hottest year
+31750,1,Evangelicals and Trump: A story of forgiveness
+31794,1,CNN 10 - January 10, 2017
+31796,2,Barred from China and silenced in the US, this beauty queen isn’t backing down
+31881,1,Nutella defends palm oil, deemed a ’potential health concern’
+32171,1,CNN 10 - January 25, 2017
+32778,1,Jorge Ramos: Trump wants to be ’deportation czar’
+33540,2,CNN 10 - March 27, 2017
+33548,1,NATO Fast Facts
+33600,1,How Congress can fix Internet privacy rule
+34104,2,Making Star Wars-style ’vaporators’ real
+34147,1,Frozen hash brown recall due to possible  ’extraneous golf ball materials’
+34519,1,Wife of American detained in North Korea pleads for his release
+35136,4,Stem Cells Fast Facts
+35716,1,Another frozen veggies recall due to Listeria
+36115,2,Volcano mining: Toughest job in the world?
+36646,6,Are fireflies flickering out?
+36949,1,Rio 2016: Big day for athletic and gymnast greats
+36972,1,How to help Louisiana flood victims
+37044,1,Alaskan village votes to relocate over global warming
+37783,3,Harvest moon dazzles worldwide
+38173,6,Mussels and clams from Maine are recalled
+38363,1,Michelle Obama: This issue is personal for me
+38411,1,Was New Jersey’s bipedal bear Pedals killed?
+38600,1,Important, fascinating and weird ballot votes
+38926,1,Thunderstorm asthma kills 4 in Australia: What is it?
+39007,1,Fidel, the promise and the betrayal
+39544,1,Ethiopia becomes the wind capital of Africa
+40078,1,Was oldest gospel really found in a mummy mask?
+40431,2,How ISIS makes (and takes) money
+40539,1,American truffles: Sniffing out a dream
+40639,1,Airlander 10: Is the world’s largest aircraft ready for take-off?
+40901,1,The skyscrapers made from wood
+41080,2,How historic California drought hurts nation
+41484,4,BP spill: Cultivating demand for raw oysters from Gulf
+41707,1,Traitors no more? North Korean defectors ’forgiven’
+42133,1,13 dead, search for 6 on Malaysia’s Mount Kinabalu
+42299,1,Turning gorilla poachers into protectors
+42407,1,Pope: ’Revolution’ needed to fight climate change
+42576,4,North Korea faces historic drought, famine
+42715,1,Are shark attacks on the rise? (Opinion)
+42972,1,Now there are 4
+43070,1,Natalia Molchanova and the risks of freediving (Opinion)
+43287,1,Spray this invisible, edible coating on produce and it will last five times longer
+43808,2,A forgotten war technology could safely power Earth for millions of years. Here’s why we aren’t using it
+44804,1,Tesla’s business model could be in trouble
+45266,1,The ’January effect’ has gotten the stock market right 75% of the time
+45400,1,’El Chapo’ may have made a security ’screw up’ that led to his capture
+45684,1,Farmers are trying to turn Russia into an ’agricultural superpower’
+46427,1,Climate change is turning these unexpected regions into the next wine hotspots
+46546,1,La Niña could have a massive impact on one of the world’s strongest economies
+47453,1,Scientists grew a bunch of vegetables in ’Martian’ soil — and they’re about to taste them
+47556,1,The FDA says there’s a reason other than raw eggs you shouldn’t eat cookie dough
+48084,1,3 American cities that use 100% renewable energy — and 7 that plan to join them within 20 years
+48167,2,Under Armour drops deal with hunter who filmed husband using a 7-foot spear to brutally kill a bear
+48516,1,A gigantic floating pipe covered in solar panels could help save California from drought
+48714,1,Impoverished people are risking their lives for your smartphone batteries
+49030,1,How the fleece vest became the unofficial uniform of Silicon Valley investors
+49593,1,Here’s the presentation David Einhorn just gave to a room of elite hedge fund managers
+49702,1,Here’s the biggest thing Google got wrong about self-driving cars
+49800,3,5 foods that are poised to become the LaCroix of 2017
+49823,1,The US government is loaning millions of dollars to jumpstart urban farming

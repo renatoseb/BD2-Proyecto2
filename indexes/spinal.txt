@@ -1,0 +1,100 @@
+289,1,Baltimore Agrees to Broad Change for Troubled Police Dept. - The New York Times
+782,1,Dangerous Fruit: Mystery of Deadly Outbreaks in India Is Solved - The New York Times
+878,1,His Doctors Were Stumped. Then He Took Over. - The New York Times
+942,1,Comatose, Then Homeless: ‘My Closest Friend Has Been Pain’ - The New York Times
+1353,1,In a Champion’s Corner, a Real Coach Who Inspired One on ‘The Wire’ - The New York Times
+1907,2,Patients Lose Sight After Stem Cells Are Injected Into Their Eyes - The New York Times
+2046,1,Watching My Surgeon Cut Into My Knee - The New York Times
+2531,1,Becoming Duterte: The Making of a Philippine Strongman - The New York Times
+2676,2,What Is Alzheimer’s Disease? - The New York Times
+2714,2,A Shooting, the Hospital and Then, Months Later, It’s a Homicide - The New York Times
+3033,2,Judge Presses Prosecutors on ‘Rough Ride’ in Death of Freddie Gray - The New York Times
+3042,1,What J. Dennis Hastert, Ex-House Speaker, Will Face in Prison - The New York Times
+3063,2,Acquittal in Freddie Gray Case Casts Doubts About Future Trials - The New York Times
+3064,1,Democratic Party, Hillary Clinton, Donald Trump: Your Thursday Evening Briefing - The New York Times
+3227,1,For Fourth Time, Baltimore Opens a Trial in the Death of Freddie Gray - The New York Times
+3422,3,Immunotherapy Offers Hope to a Cancer Patient, but No Certainty - The New York Times
+3461,3,Why ‘Useless’ Surgery Is Still Popular - The New York Times
+3528,1,Donald Trump, Michael Phelps, Zika: Your Tuesday Evening Briefing - The New York Times
+3614,1,How to Get the Most out of Visiting World-Famous Sites - The New York Times
+3754,1,Quake Exposes Italy’s Challenge to Retrofit Its Architecture - The New York Times
+4509,13,Wireless Brain-Spine Connection Overcomes Paralysis in Monkey - The New York Times
+5187,4,Costly Drug for Fatal Muscular Disease Wins F.D.A. Approval - The New York Times
+5631,1,The Pillow Cure - The New York Times
+5634,1,‘We Still Have a Lot of People Dying’ - The New York Times
+6113,1,Christopher Guest: No Eccentric Obsession Left Behind - The New York Times
+6499,1,Did Debbie Reynolds Die of a Broken Heart? - The New York Times
+6624,2,Officer’s Murder Trial in Freddie Gray Death Turns on ‘Rough Ride’ - The New York Times
+6716,1,Another Baltimore Police Officer Acquitted in Freddie Gray Case - The New York Times
+6729,1,Prosecutors Say Baltimore Police Mishandled Freddie Gray Case - The New York Times
+6763,1,Justice Department to Release Blistering Report of Racial Bias by Baltimore Police - The New York Times
+6767,1,Findings of Police Bias in Baltimore Validate What Many Have Long Felt - The New York Times
+7198,1,Dennis Hastert Sentenced to 15 Months, and Apologizes for Sex Abuse - The New York Times
+7230,3,Good Samaritan Helps Boy Survive ‘Internal Decapitation’ in Idaho Car Crash - The New York Times
+7408,1,Hurricane Plunges a North Carolina Town’s Future Into Doubt - The New York Times
+7549,1,Muhammad Ali Dies at 74: Titan of Boxing and the 20th Century - The New York Times
+7553,2,Stakes Rise for Prosecutors Trying Officer in Freddie Gray Case for Murder - The New York Times
+7732,1,‘I Have a Black Son in Baltimore’: Anxious New Parents and an Era of Unease - The New York Times
+8755,1,Pennsylvania Abortion Clinic Shut Down by Health Department
+10290,1,Thought-Control Technology Enables Quadriplegic to Move Arm - Breitbart
+10502,1,Paralyzed NYPD Detective Who Forgave Shooter Remembered as Hero - Breitbart
+11333,1,Democrats: Trump ’Stole’ Neil Gorsuch Seat from Obama - Breitbart
+12711,1,Congress’s Planned Parenthood Investigations Find Horrifying, Criminal Practices
+12984,1,COULTER: The ‘Resistance’ Goes Live-Fire - Breitbart
+15196,1,PINKERTON: Trump Lays Down the Law to Big Pharma, Embraces the Cure Strategy
+16255,1,Victims of Illegal Alien Crime on ’Sham’ Colorado Cruz Win: This Is ’Third World Tyranny’ - Breitbart
+16880,1,Tom Brokaw, Patient 2640: Cancer ‘Is the Most Pernicious Enemy That Medicine Has’ - Breitbart
+17450,1,Debate Grades: Trump Comes Out on Top - Breitbart
+20096,1,Accused 19 Year-Old Louisiana Cop-Killer Pleads Not Guilty
+21257,1,Wheelchair-Bound Teen Stands for the American Flag
+23822,4,10 Diseases Other Than Alzheimer’s Ripe for Will Ferrell Comedy - Breitbart
+25011,1,Unaccompanied Minors Launch Brutal Attack on Family Enjoying Halloween Stroll
+25831,1,Implanted Brain Chip Allows Paralyzed Man to Control Hand Again - Breitbart
+32524,1,Washington mumps outbreak continues to grow
+32952,1,Five years after Trayvon Martin’s death, a movement lives on
+33130,1,Angela Lee: The world’s youngest MMA champion
+33436,3,Risky surgery separates 10-month-old from parasitic twin
+33437,1,Conjoined Twins Fast Facts
+33545,1,Controversial Police Encounters Fast Facts
+33568,1,Lupus: What you need to know
+33794,2,Police shootout survivor battles paralysis
+34266,1,Diabetes, weight can combine to alter brain, study says
+34407,1,GOP bill says it covers pre-existing conditions. But some are worried sick
+34461,1,FDA approves new treatment for ALS
+34637,5,Warned he would die by age 10, he just graduated college
+35136,3,Stem Cells Fast Facts
+35638,2,Freddie Gray: Testimony ends in 3rd trial
+35763,1,Ohio teen dies from brain-eating amoeba
+35879,1,Officials working with water park after amoeba kills woman
+36586,1,Freddie Gray officers suing prosecutor
+37532,1,The coffee that can keep you up for 18 hours
+37654,1,Paralympics: Durand powers to second gold
+37695,1,Paralympics: Tatyana McFadden wins 5th gold
+37773,1,Iranian Para-cyclist dies after crash
+38070,1,Clinton super PAC puts $10M behind anti-Trump ad
+38892,1,Chattanooga school bus crash: Investigators search for answers
+38914,1,Chattanooga bus crash: 6 children dead Titans to help victims’ families
+38951,1,Chattanooga school bus crash: Bus was not on designated route
+40993,1,U.S. ends Boston bombing case with grisly photos
+41081,1,Lawsuit: Guatemalans deliberately infected with STDs
+41378,2,Baltimore looks into Freddie Gray police custody death
+41384,1,18 dead from mysterious illness in Nigeria
+41411,2,Freddie Gray death: Protesters rally in Baltimore
+41426,2,Freddie Gray death: Protesters, police scuffle
+41454,2,Police: Freddie Gray didn’t get timely medical care after arrest
+41477,4,Freddie Gray death: 12 arrested during protests
+41582,1,Bizarre moments of UK election
+41608,1,Inside the mind of a black Baltimore cop
+41611,1,Baltimore Korean business gets help to rebuild
+41726,1,David Letterman’s cast of characters
+41944,1,Sit smarter with yoga
+41976,1,CNN uncovers high surgical death rate at hospital
+42088,1,Baltimore police blame high crime on drugs
+42461,1,Spending puberty in a shell
+42466,1,James Holmes trial: tears, then prosecution rests
+42553,1,Freddie Gray death: Autopsy shows homicide, paper says
+44777,2,A 24-year old got a mysterious disease where her body attacked her brain — and everyone thought it was in her mind
+44870,1,A former special forces sniper is taking up a new fight — protecting one of the world’s most endangered species
+46734,1,Baltimore police shot a 13-year-old boy who was carrying a fake gun
+47435,1,Convictions may not be likely for the remaining cops awaiting trial in the death of Freddie Gray
+49984,6,The Enduring Mystery of Pain Measurement

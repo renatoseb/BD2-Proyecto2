@@ -1,0 +1,459 @@
+51,1,Tech Giants Seem Invincible. That Worries Lawmakers. - The New York Times
+60,1,Ivanka Trump’s New Washington Home Once Belonged to a Putin Foe - The New York Times
+75,1,Rockefeller Foundation Picks Rajiv J. Shah, a Trustee, as President - The New York Times
+138,1,The Major Potential Impact of a Corporate Tax Overhaul - The New York Times
+188,4,Jared Kushner, a Trump In-Law and Adviser, Chases a Chinese Deal - The New York Times
+206,1,Is Edward Snowden a Spy? A New Book Calls Him One. - The New York Times
+249,1,Elaine Chao Gets Cozy Reception at Confirmation Hearing - The New York Times
+264,1,Immigrants Head to Washington to Rally While Obama Is Still There - The New York Times
+347,1,A High-End Kitchen on the Cheap - The New York Times
+422,1,Davos Elite Fret About Inequality Over Vintage Wine and Canapés - The New York Times
+446,1,For Trump’s Nominees, a Billionaires’ Guide to Running the Government - The New York Times
+498,1,Off Long Island, Wind Power Tests the Waters - The New York Times
+531,2,Taxpayers Will Defend Trump in Suit Charging Constitutional Violations - The New York Times
+571,2,Bernie Ecclestone Is Replaced as Formula One Chief Executive - The New York Times
+582,1,Mar-a-Lago Doubles Its Initiation Fee as Membership Interest Swells - The New York Times
+592,1,Nation’s Largest Offshore Wind Farm Will Be Built Off Long Island - The New York Times
+721,1,Trump’s Trade War May Have Already Begun - The New York Times
+838,1,Trump Moves to Roll Back Obama-Era Financial Regulations - The New York Times
+1021,1,Trump Team Didn’t Put Nominees to ‘Sex, Drugs and Rock ’n’ Roll’ Test - The New York Times
+1147,7,SoftBank of Japan Will Buy U.S. Private Equity Giant Fortress - The New York Times
+1189,1,Trump’s Inroads in Union Ranks Have Labor Leaders Scrambling - The New York Times
+1265,1,Who Are the Richest of the Rich? - The New York Times
+1266,2,Where the World’s Wealthiest Invest Their Billions - The New York Times
+1294,1,The Businessman Behind Cool British Fashion Brands - The New York Times
+1309,1,Inside Uber’s Aggressive, Unrestrained Workplace Culture - The New York Times
+1322,1,As Kelly and Tillerson Visit Mexico, Their Reassurances Differ From Trump’s Stance - The New York Times
+1346,3,Did Someone Say ‘Tax Code Rewrite’? Lobbyists Scramble - The New York Times
+1369,2,For Commerce Pick Wilbur Ross, ‘Inherently Bad’ Deals Paid Off - The New York Times
+1407,1,Wilbur Ross, a Billionaire Investor, Is Confirmed as Commerce Secretary - The New York Times
+1512,1,Brazil’s Leaders Tout Austerity (Just Not for Them) - The New York Times
+1630,1,Trump’s S.E.C. Nominee Disclosure Offers Rare Glimpse of Clients and Conflicts - The New York Times
+1661,1,The Rise, Then Shame, of Baylor Nation - The New York Times
+1868,1,Donald Trump Jr. Is His Own Kind of Trump - The New York Times
+1879,3,The Battle of ‘Miss Saigon’: Yellowface, Art and Opportunity - The New York Times
+2069,1,Trump vs. Congress: Now What? - The New York Times
+2115,5,At BlackRock, Machines Are Rising Over Managers to Pick Stocks - The New York Times
+2127,1,A Rare Venture Capitalist — Female and Retail-Focused - The New York Times
+2158,2,E.U. Blocks Merger of London Stock Exchange and Deutsche Börse - The New York Times
+2180,1,Sears and Its Hedge Fund Owner, in Slow Decline Together - The New York Times
+2294,1,2 Education Dept. Picks Raise Fears on Civil Rights Enforcement - The New York Times
+2338,1,Long Days, Google Docs and Anonymous Surveys: How the U.S. Soccer Team Forged a Deal - The New York Times
+2420,1,Men Bet She Would Fail Now She Runs a $26 Billion Fund - The New York Times
+2446,1,Wells Fargo to Claw Back $75 Million From 2 Former Executives - The New York Times
+2448,2,Democrats See Opening in Tax Overhaul Fight: Trump’s Own Deductions - The New York Times
+2534,3,Yahoo’s Suitors Uncover Few Financial Details - The New York Times
+2615,1,In College Roommate David Panton, Ted Cruz Finds Unwavering Support - The New York Times
+2645,1,Yahoo Agrees to Give 4 Board Seats to Starboard Value - The New York Times
+2719,1,Start-Ups Embrace Arbitration to Settle Workplace Disputes - The New York Times
+2734,3,Warren Buffett and Dan Gilbert Unite in Bid to Acquire Yahoo - The New York Times
+2789,1,Start-Ups Once Showered With Cash Now Have to Work for It - The New York Times
+2807,1,Paula Broadwell, David Petraeus and the Afterlife of a Scandal - The New York Times
+2945,1,How Donald Trump Bankrupted His Atlantic City Casinos, but Still Earned Millions - The New York Times
+2981,1,Fed Holds Interest Rates Steady and Plans Slower Increases - The New York Times
+2982,1,De Blasio’s $325 Million Ferry Push: Rides to 5 Boroughs, at Subway Price - The New York Times
+3044,1,SoftBank President Nikesh Arora Plans to Step Down - The New York Times
+3073,1,Dior Is Expected to Name Maria Grazia Chiuri as Artistic Director - The New York Times
+3081,1,‘Brexit’ Aftershocks: More Rifts in Europe, and in Britain, Too - The New York Times
+3093,33,How Housing’s New Players Spiraled Into Banks’ Old Mistakes - The New York Times
+3133,1,The Humiliating Practice of Sex-Testing Female Athletes - The New York Times
+3138,1,Nearly All U.S. Banks Pass Fed’s Stress Test - The New York Times
+3195,1,U.S. Urges Kansas State to Heed Reports of Off-Campus Rape - The New York Times
+3199,1,Hillary Clinton Embraces Ideas From Bernie Sanders’s College Tuition Plan - The New York Times
+3257,1,Moving Past Gender Barriers to Negotiate a Raise - The New York Times
+3271,2,Stock Market Rally Continues, With Records for Dow and S.&ampP. 500 - The New York Times
+3297,23,How Private Equity Found Power and Profit in State Capitols - The New York Times
+3388,1,How a Hollywood Talent Agency Won Big With Sports - The New York Times
+3408,1,Gloomy Days in the Oil Patch, but Some See a Glimmer of Light - The New York Times
+3509,1,‘This Is Your Brain on Drugs,’ Tweaked for Today’s Parents - The New York Times
+3512,1,Donald Trump’s Economic Team Is Far From Typical - The New York Times
+3543,1,Wealthy Donors Dangle a Huge Payday in Front of U.S. Wrestlers - The New York Times
+3579,1,Why Some Life Insurance Premiums Are Skyrocketing - The New York Times
+3604,3,Sale of Federal Mortgages to Investors Puts Greater Burden on Blacks, Suit Says - The New York Times
+3664,4,Private Equity Pursues Profits in Keeping the Elderly at Home - The New York Times
+3745,1,IPhone Users Urged to Update Software After Security Flaws Are Found - The New York Times
+3749,1,Venus Williams, Off the Court - The New York Times
+3813,3,If Trump Gets His Way, Real Estate Will Get Even More Tax Breaks - The New York Times
+3814,1,SpaceX Rocket Explodes at Launchpad in Cape Canaveral - The New York Times
+3832,1,How Spy Tech Firms Let Governments See Everything on a Smartphone - The New York Times
+3924,1,How to Become a C.E.O.? The Quickest Path Is a Winding One - The New York Times
+3977,1,Emily Blunt Rides the Unnerving Rails of Addiction in ‘The Girl on the Train’ - The New York Times
+4008,3,At BlackRock, a Wall Street Rock Star’s $5 Trillion Comeback - The New York Times
+4069,1,Leon Cooperman, a Billionaire Charged With Insider Trading, Prepares to Fight - The New York Times
+4169,1,Deutsche Bank Troubles Raise Fear of Global Shock - The New York Times
+4227,2,Union Boss (and Former Miss America) Hits the Road in ‘Fun Home’ - The New York Times
+4253,1,Salesforce Shareholders Besiege Possible Twitter Deal - The New York Times
+4276,1,Oliver Hart and Bengt Holmstrom Win Nobel in Economics for Work on Contracts - The New York Times
+4500,1,Narendra Modi Bans India’s Largest Currency Bills in Bid to Cut Corruption - The New York Times
+4558,1,U.K.’s Bridge to Trump? Nigel Farage, Who Pushed ‘Brexit,’ Posits Himself - The New York Times
+4561,1,Mary Jo White to Step Down as S.E.C. Chief - The New York Times
+4572,2,Trump Transition Nominates No One — But Does Name Inaugural Committee - The New York Times
+4582,7,Trump Won the Election, but 3 Manhattan Buildings Will Lose His Name - The New York Times
+4590,1,Marvel’s ‘Inhumans’ TV Series Will Arrive via Imax Theaters - The New York Times
+4637,1,How Apple Empowers, and Employs, the American Working Class - The New York Times
+4692,1,Wilbur Ross, Billionaire Investor, Is Said to Be Trump’s Commerce Pick - The New York Times
+4717,2,Potential Conflicts Around the Globe for Trump, the Businessman President - The New York Times
+4752,1,Trump to Announce Carrier Plant Will Keep Jobs in U.S. - The New York Times
+4767,1,Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite - The New York Times
+4812,1,How Big Banks Are Putting Rain Forests in Peril - The New York Times
+4847,1,The Hunt for Hatchimals, the Elusive Toy of the Holiday Season - The New York Times
+4890,1,Trump Is Still Not Very Popular, and His Problem With Women Could Return - The New York Times
+4925,1,Aleppo, Donald Trump, Istanbul: Your Morning Briefing - The New York Times
+4962,2,U.N. Drops Wonder Woman as an Ambassador - The New York Times
+4972,1,Rodrigo Duterte, Aleppo, Donald Trump: Your Morning Briefing - The New York Times
+5051,1,Harnessing the U.S. Taxpayer to Fight Cancer and Make Profits - The New York Times
+5104,17,In American Towns, Private Profits From Public Works - The New York Times
+5202,7,‘Hamilton’ Producers and Actors Reach Deal on Sharing Profits - The New York Times
+5236,2,U.S. Cyberattacks Target ISIS in a New Line of Combat - The New York Times
+5237,1,Bernie Sanders and Allies Aim to Shape Democrats’ Agenda After Primaries - The New York Times
+5345,3,At Carnegie Hall, a New Leader With a Son Named Hendrix - The New York Times
+5423,1,IEX Group, Critical of Wall St., Gains Approval for Stock Exchange - The New York Times
+5483,1,A Sea of Charter Schools in Detroit Leaves Students Adrift - The New York Times
+5533,2,Study Supports Suspicion That Police Are More Likely to Use Force on Blacks - The New York Times
+5534,1,Jobs Roar Back With Gain of 287,000 in June, Easing Worry - The New York Times
+5561,1,Why Your Financial Life Feels Like Whac-A-Mole - The New York Times
+5611,1,After Lying Low, Deep-Pocketed Clinton Donors Return to the Fore - The New York Times
+5666,1,Trump’s Economic Team: Bankers and Billionaires (and All Men) - The New York Times
+5742,2,How Millennials Became Spooked by Credit Cards - The New York Times
+6017,3,How to Pay for College With Less Stress - The New York Times
+6066,1,How to Improve Your Retirement Income if You Haven’t Saved - The New York Times
+6128,1,Donald Trump Used Legally Dubious Method to Avoid Paying Taxes - The New York Times
+6194,1,Pulling Democrats Back to ‘It’s the Economy, Stupid’ - The New York Times
+6210,5,Ever Wanted to Back a Start-Up? Indiegogo Opens the Door to Small Investors - The New York Times
+6284,1,Combative, Populist Steve Bannon Found His Man in Donald Trump - The New York Times
+6361,1,Aston Martin Broadens the Brand - The New York Times
+6383,1,Donald Trump, Russia, Dylann Roof: Your Weekend Briefing - The New York Times
+6399,2,It Turns Out Spending More Probably Does Improve Education - The New York Times
+6540,1,After #OscarsSoWhite, Broadway Seeks a #TonysSoDiverse - The New York Times
+6545,1,Halliburton and Baker Hughes Call Off $35 Billion Merger - The New York Times
+6602,1,The Playboy Mansion Has a Buyer: A Twinkie King - The New York Times
+6609,1,Hedge Fund Managers Work to Stanch Loss of Investors - The New York Times
+6647,2,Central Banks Worry About Engaging World Markets After ‘Brexit’ - The New York Times
+6800,1,Rent-to-Own Homes: A Win-Win for Landlords, a Risk for Struggling Tenants - The New York Times
+6944,1,Auto Shop Owners Forced Out of Willets Point Struggle to Rebuild in the Bronx - The New York Times
+6971,1,Righting Wrongs and Generating Attention for Art of the African Diaspora - The New York Times
+6991,4,Wall Street Bonuses Are Expected to Sink for 3rd Straight Year - The New York Times
+7042,1,Where Donald Trump Stands on School Choice, Student Debt and Common Core - The New York Times
+7052,1,Trump to Accept Inauguration Funds From Corporations and Big Donors - The New York Times
+7102,1,Grandiose Ideas for Donald Trump Inaugural Give Way to Traditional - The New York Times
+7111,42,How the Twinkie Made the Superrich Even Richer - The New York Times
+7146,1,In Shadow of Amazon, European Challenger Looks to China for Inspiration - The New York Times
+7256,45,When You Dial 911 and Wall Street Answers - The New York Times
+7278,1,U.F.C. Sells Itself for $4 Billion - The New York Times
+7399,1,António Guterres Pledges to Help Vulnerable as Secretary General - The New York Times
+7469,1,Trump Sealed Carrier Deal With Mix of Threat and Incentive - The New York Times
+7568,1,UnitedHealthcare Sues Dialysis Chain Over Billing - The New York Times
+7616,1,Renée Zellweger Is Back and Standing Up for Herself - The New York Times
+7669,1,Trump Taps Hollywood’s Mnuchin for Treasury and Dines With Romney - The New York Times
+7696,3,Yahoo’s Troubles Mount, and Revenue Shrinks, as It Vets Suitors - The New York Times
+7787,1,Why Uber Keeps Raising Billions - The New York Times
+8012,2,Think Progress Editor Mocks Audi for Equal Pay Super Bowl Ad
+8165,1,Wall Street Cheers as Joe Biden Smacks Hillary Clinton in Vegas: ‘I Never Thought She Was the Correct Candidate’
+8454,1,Blackstone, Saudi Arabia Announce $40 Billion Investment in U.S. Infrastructure - Breitbart
+8649,2,Black Students at University of Michigan Demand Segregated Space
+8894,1,Phony Obamacare Attack Aimed At Luring Conservatives To Support A Hedge Fund Windfall
+9047,2,GWB Daughter Barbara Bush to Keynote Planned Parenthood Fundraiser
+9294,1,Trump Says He Likes Janet Yellen and Supports the Export-Import Bank - Breitbart
+9387,1,California’s Ban on Travel to States With Less Friendly LGBT Laws Could Stop UCLA from Playing in NCAA - Breitbart
+9421,1,Canada’s Largest School System Cancels USA Trips, Fears Travel Ban
+10520,1,Romney Family in Talks to Purchase Share of New York Yankees - Breitbart
+10784,1,Suburban Chicago School Teaches ’Blackenomics,’ ’Trans-Rights,’ and ’White Genocide Against Blacks’ - Breitbart
+11054,1,Steven Mnuchin: ’Regulation Is Killing Community Banks’ - Breitbart
+11638,1,Austin Schools Jump on ’Sanctuary’ Bandwagon
+12088,1,DNC ’Russian Hacking’ Conclusion Comes from Google-Linked Firm
+12277,1,Nigerian Archbishop Calls on Govt to Protect Christians from ‘Wanton Destruction’ from Muslims
+12307,1,Hawaii Judge Blocks Donald Trump’s Refugee Reform as Violation of Muslims’ Rights - Breitbart
+12587,1,Peter Schweizer: Media Chases Trump-Putin Conspiracy Theories, Ignores Evidence of John Podesta’s Russia Ties
+12738,1,Penn State President Claims MILO Creating ’Anti-Free Speech Movement’ - Breitbart
+13034,1,Melbourne Installs ’Female Traffic Lights’ to Promote Gender Equality
+13122,1,Dem Rep Schiff: ’Accusation’ Susan Rice Politicized Intelligence ’Slanderous’ - Breitbart
+13178,1,Barnard College Diversity Task Force Wants a Chief Diversity Officer, Social Justice Workshops - Breitbart
+13251,3,WikiLeaks: CIA Hoarded ’Zero Day’ Exploits, Breached Obama Admin Commitments - Breitbart
+13354,1,Senate Committee to Vote on Confirmation of Dr. Ben Carson to Lead HUD - Breitbart
+13455,1,Education Secretary Betsy DeVos Announces Key Senior Staff - Breitbart
+13494,2,Google Gives $11.5 Million to Combat ’Racial Bias’ in Justice System - Breitbart
+13729,1,Tiger Woods Turns to TaylorMade in Return to Tour at Farmers Insurance Open - Breitbart
+13911,1,Duke Professor Facing Disciplinary Action for Criticizing ’Diversity Training’ - Breitbart
+14240,2,’Equal Pay Day’ Reminds Us That the Gender Wage Gap Myth Persists - Breitbart
+14450,1,Zacks: Twitter Will Struggle to Convince Advertisers to Return Following Bot Scandal - Breitbart
+14528,1,Washington City Council to Consider ’Sanctuary City’ Label
+14675,1,Huffington Post Contributor: Hillary Clinton’s Failure to Win Even 20 States Means She Is ‘Legitimate President-Elect’ - Breitbart
+14735,2,Starbucks CEO Howard Schultz to Step Down in April - Breitbart
+15324,1,President Trump to Commerce Dept: Steel Trade Investigation a Matter of National Security - Breitbart
+15340,1,Ciccotta to NYT: Conservative Students Aren’t Victims, They Just Want a Real Education - Breitbart
+15461,1,Credit Suisse Says Plan to Hire 10,000 Muslim Refugees Is Hurting Starbucks’ Brand and Sales - Breitbart
+15577,1,Wikileaks: Investor Conspired with Clinton Campaign to Ambush Trump Live on CNBC - Breitbart
+15933,1,Three Refugees Diagnosed with Active TB in California - Breitbart
+16138,1,Frank Gaffney: Pearl Harbor an Object Lesson in Practicing Ronald Reagan’s ‘Peace Through Strength’
+16416,1,Leaked Memo Reveals Soros Plan for Federally Controlled Police - Breitbart
+16453,2,UC Irvine Professor Says ’Anti-Zionism Week’ At Least As Offensive As Milo - Breitbart
+16708,1,Morici: Donald Trump’s Economy Will Benefit Ordinary Investors - Breitbart
+16837,2,Sanders Agrees With Clinton - His Supporters Are Living in Their Parents Basement - Breitbart
+17399,1,Turkish Chobani Owner Has Deep Ties to Clinton Global Initiative and Clinton Campaign - Breitbart
+17756,1,Twitter Offering Cash Rewards to Keep Employees from Fleeing - Breitbart
+17839,1,Kellogg Foundation Gave Big to Soros Organization, Tides Foundation
+17872,1,Artist Covers Hillary Mural In Islamic Veil After Fine Threat
+17884,1,Donald Trump and Barack Obama: Proof Republicans and Democrats Live on Different Planets - Breitbart
+17937,3,New Democrat Brainstorm: Forgive Student Loan Debt, So the Kids Can Take Out Mortgages - Breitbart
+17956,2,University of Missouri Spending $1 Million for ’Diversity Audit’ Despite Millions Lost Following Protests - Breitbart
+18284,5,Obama Administration’s ‘Equity’ Ideology in Public Schools Breeding Violence - Breitbart
+18429,3,Analyst: Twitter Is ’Toast,’ Massively Overvalued Stock Value - Breitbart
+18524,1,Turkey Suspends Human Rights Convention As Europe Raises Concerns Over Torture
+18597,1,#BoycottTarget Effort over Pro-Transgender Bathroom Policy Goes Viral
+19124,1,Cal High-Speed Rail Wins Dubious ’Golden Fleece’ Award
+19201,2,Twitter’s Post-Milo Depression - Breitbart
+19674,1,The Lives of Americans, The Livelihoods of the Drug Companies: Donald Trump Points the Way to a New Social Contract—Like It or Not - Breitbart
+19683,1,Stock Market Crash Anticipating Trump’s Win is Just Like Reagan
+19891,1,R.E.M. Frontman Michael Stipe Stumps for Bernie Sanders in NYC... and Then Hot Dogs - Breitbart
+20254,1,University of Oklahoma Introduces 24/7 ’Microagression’ Hotline - Breitbart
+20400,1,#DumpKelloggs: Far-Left Cereal Giant Kellogg’s Warns of ‘Racial Privilege’
+20630,1,Verizon Buying Yahoo to Challenge Facebook and Google Internet Dominance - Breitbart
+21026,1,Snapchat IPO Valued at Up to $40 Billion - Breitbart
+21536,1,James Pinkerton: Franklin D. Roosevelt’s Four Freedoms Are from 1941: We Need New Freedoms in the 21st Century  - Breitbart
+21564,1,University of Utah and Planned Parenthood Fund ‘Sex Week’ to ‘Deconstruct Reproductive Oppression’ - Breitbart
+21833,1,SF High School Football Team Refuses to Stand for Anthem - Breitbart
+21913,2,Clinton Campaign Admits ’Huge Discrepancies’ in Gender Pay at Clinton Foundation - Breitbart
+22030,1,One Week after Brexit, Only UK Stocks Are Higher - Breitbart
+22080,1,Kellogg Foundation Gave Nearly $1 Million to Black Lives Matter
+22174,1,Twin Falls Newspaper Financed by Globalist Warren Buffett Attacks Breitbart - Breitbart
+22413,2,Feds to Spend $10 Million for ’Gender Equity’ in Animal Testing - Breitbart
+23685,2,America Last: 20 American-Born Companies that Have Sold Out to Foreign Interests - Breitbart
+23738,1,Viola Davis on #OscarsSoWhite: ’Diversity is Not a Trending Topic’ - Breitbart
+23753,1,Net Neutrality Sparks Telco Interest in Buying Yahoo! Mail - Breitbart
+23765,1,Oscar-Winning Director Almodóvar: ’Diabolical Sexism’ in Hollywood, But Nobody to Blame - Breitbart
+23795,2,Kellogg Foundation’s Director of Racial Equity Wanted Castro to ’Rest In Power’
+23889,1,China’s Xi: Relationship with Russia Stronger and Growing Daily
+23899,1,***Horse Race LiveWire*** Clinton Plays Amnesty Card to Gin Up Left-Wing Base - Breitbart
+24103,1,Mittens: GOP Establishment Chooses Mount Romney as Hill to Die on
+24148,1,***Live Updates*** Trump vs. Clinton, Round One - Breitbart
+24207,1,Sia, Leslie Jones to Headline Free ’Abortion Rights’ Concert - Breitbart
+24565,1,Re-Suicide: Obama Adopts Bush-era Tricks To Re-inflate Property Bubble - Breitbart
+24887,1,Internet Radio Service Pandora Endorses Black Lives Matter Following Dallas Shootings - Breitbart
+25736,1,Bobby Knight: In a Trump Administration There Will Be No Bullsh*t
+25841,2,Paul Nehlen: Paul Ryan ‘Abandoned’ His District, ’Failed’ as Speaker - Breitbart
+25961,1,BLM’s DeRay Mckesson: ‘All Lives Matter’ a ‘Distraction’ - I Would Never Yell ‘Colon Cancer Matters’ at a Breast Cancer Rally - Breitbart
+26069,1,Tesla Uses $300M in Model 3 Deposits to Stay Afloat - Breitbart
+26233,1,Erik Prince: U.S. Must Deny Entry to People Who May Threaten Christian Way of Life
+26339,1,‘Wake Up America’ Paints Picture of Hillary Clinton Inaugurated
+26358,2,’Trump Rally’ Continues as Dow Jones Hits Record High - Breitbart
+26367,1,Target: Men in Girls’ Restrooms Okay, Armed Law-Abiding Citizens Not Okay
+26889,1,Media Ignore Sanders’ Deep Ties to Racial Power-Brokers Al Sharpton, Jesse Jackson - Breitbart
+27545,1,The Seeds of Revolt: American Families Owe Trillions of Dollars in Debt They Can’t Pay Off - Breitbart
+27706,1,***Horse Race LiveWire*** Poll: Rubio Craters to 4th Place In Michigan - Breitbart
+27757,1,MSNBC’s Ruhle Flings ’Hate’ Charge at Donald Trump, Hides Own Financial Conflicts - Breitbart
+27830,1,Posters Vandalized, Protest Planned for Milo Yiannopoulos Talk at American University - Breitbart
+28087,1,***Horse Race LiveWire*** Hillary Wins South Carolina, Three Days to Super Tuesday - Breitbart
+28644,2,EXCLUSIVE—Dick Morris: Hillary Will ‘Feast’ on Rubio’s Finance Scandals, Voters ‘Must Demand Truth’ - Breitbart
+28909,1,Jennifer Lawrence Set to Play Theranos CEO Elizabeth Holmes in Upcoming Film - Breitbart
+29260,1,***Live Updates*** 2016 Iowa Caucuses: Cruz 28%, Trump 24%, Rubio 23% Clinton 49.9%, Sanders 49.6% - Breitbart
+29694,1,Egypt’s Sisi: Globalization Yields ’Poverty, Inequality, and Undermining of the Social Contract’
+29821,2,Obama Admin Rule Forces Hospitals, Doctors Accepting Federal Funds to Provide Gender Transition Services and Abortions - Breitbart
+29950,1,Frank Gaffney on Obama’s Attempt to Slip Irreversible Internet Surrender Under the Radar: ’We’ve Got Three Days to Fix This’
+30368,1,Oil Prices Plunge - Breitbart
+30599,2,Kellyanne Conway: ‘Millennial Women Have Rejected Hillary Clinton in Her Own Party’ - Breitbart
+30654,1,Tinfoil Hillary: ’Alt-Right,’ Alex Jones, Brexit, Putin All Part of Global Conspiracy Against Her - Breitbart
+30774,1,Hillary Clinton’s Next Campaign Phase: If You Disagree with Me, You’re a Racist - Breitbart
+30848,1,Report: Twitter Overbills Advertisers as Video Bug Increases Ad Metrics by 35% - Breitbart
+31091,1,Glenn Beck: God Prolonged GOP Primary So Every State Could Choose Between ‘Good or Evil’ - Breitbart
+31212,1,Franken Urges Trump ’to Appeal to America’s Better Angels’ and Reject Stephen Bannon - Breitbart
+32001,1,I’m a feminist against abortion. Why exclude me from a march for women?
+32149,1,Liberty Media completes $8 billion takeover of Formula One
+32537,1,Ivanka Trump quietly settles into White House life
+32714,1,White House considering outsider to review intelligence agencies
+32961,2,Navy secretary nominee Philip Bilden withdraws
+32963,1,Navy secretary nominee withdraws
+32991,1,Wilbur Ross Fast Facts
+33173,1,The rise of ’modest’ fashion
+33193,1,Ryan Murphy shows support for ’A Day Without Women’
+33211,1,International Women’s Day events: How to show solidarity
+33345,1,Trump admin to appeal travel ban rulings ’soon’
+33351,1,CNN 10 - March 16, 2017
+33567,1,The millennials cashing in on Africa’s internet addiction
+34313,1,Congressional negotiators reach deal on government funding
+34505,1,Removing gender from MTV awards: a start, but not equality
+35458,1,Trump gives away his most consequential decision to the Pentagon
+35690,1,Trump’s tax bill: Smaller than you think?
+35816,1,Trump on Brexit: America is next
+36282,1,Will Asian-Americans get behind Black Lives Matter?
+36534,3,Police acts of violence unbiased, says study
+37151,1,Records contradict Bayh’s assertion over staying in Indiana
+37227,1,Paul Volcker Fast Facts
+37322,1,Tom Barrack: Trump shouldn’t talk about Weiner
+37378,1,September 11th Commission Fast Facts
+37419,1,Trump is the king of debt but not of taxes
+38779,1,Draft-ending former Secretary of Defense Melvin Laird dies
+39268,1,Petraeus, and the double standard on sex
+39334,1,Trump vs. Trump’s Cabinet
+39416,1,The $7 plan bringing solar power to Tanzania
+40042,1,Obama goes on offense
+40661,1,SAE racist chant: Textbook case of frat behaving badly?
+40738,1,Gen. Petraeus still advising White House
+41033,1,The new women’s movement: Reviving the ERA fight
+41327,3,Why Hillary Clinton is going after hedge fund managers
+41427,1,Petraeus sentenced: 2 years probation $100K fine
+41525,1,David Beckham turns 40 - why booze and gambling?
+42304,1,GOP candidates scramble for cash at Romney’s donor retreat
+42328,1,Chasing the elusive Silicon Valley dream (Opinion)
+42615,1,Rock-climbing baby scaled walls before she could walk
+42618,1,Clinton weathers the summer of Sanders
+42896,1,Theodore Bikel, ’Sound of Music’ star, dies at 91
+43121,2,Meet the 4 Goldman Sachs ’game changers’ who made Forbes’ 30 Under 30 list this year
+43122,1,Customers developed a new habit during the recession — it’s killing Applebee’s and Buffalo Wild Wings
+43166,1,REPORT: Jared Kushner is taking steps to explore a White House role
+43200,2,SIGN IN
+43211,1,GUNDLACH: Here’s how we’ll know the bond bull market is dead
+43235,1,Amazon’s plan for 100,000 new jobs in the US may not exactly be what Trump was looking for
+43311,1,An open letter to Treasury Secretary nominee Steven Mnuchin
+43336,1,An $11 billion hedge fund is betting President Trump will cause violent stock market movements
+43356,1,$25 BILLION: Trump’s plan to cut Wall Street regulation is going to have a big impact
+43387,1,The first tech IPO of 2017 is cancelled: Cisco is buying AppDynamics for $3.7 billion
+43391,2,A top strategist explains the biggest problem China faces
+43491,3,Ken Griffin has shut down one of Citadel’s stock-picking units
+43501,1,Snap will list its shares on the NYSE — its filing is expected this week
+43504,1,Snapchat paid its third cofounder $158 million in cash to disappear
+43516,2,How Imran Khan swapped Wall Street for a huge role at Snapchat and earned $150 million in 2 years
+43525,1,Analyst: Snap’s ’core health is very poor’ but there is a silver lining
+43610,2,Ford just invested $1 billion in a secretive AI startup founded by former Google and Uber execs
+43642,1,A high-profile hedge fund sent a letter explaining all the reasons it lost money last year, and why it is going to do better this time
+43657,1,SoftBank is buying Fortress for $3.3 billion — and Fortress is soaring
+43714,1,A Wall Street performance coach who’s consulted on Showtime’s ’Billions’ says too many people have the same misconception about success
+43826,1,Yahoo’s top lawyer is out after investigation finds Yahoo execs didn’t ’properly comprehend or investigate’ massive hacks
+43849,1,A tiny California college whose graduates outearn Harvard and Stanford grads is changing how we train students to enter the job market
+43987,1,BUCKLE UP: The stock market could get crazy
+44057,1,A new breed of trader is threatening the Wall Street establishment
+44060,8,The ’messy’ way a former Goldman Sachs employee grew a $150 million startup, then turned half his employees into millionaires
+44156,1,Tesla is about to confront dueling best- and worst-case scenarios, and anything could happen
+44168,1,The company that owns Olive Garden just placed a $780 million bet on a tiny restaurant chain
+44195,2,The world’s largest fund manager just sent a message to investors everywhere
+44266,8,Morgan Stanley made an error analyzing Snapchat, and it shines a light on some big flaws in Wall Street research
+44276,1,Machine learning is now used in Wall Street dealmaking, and bankers should probably be worried
+44469,1,Cantor Fitzgerald just made a huge hire in trading
+44792,1,Sears CEO’s master plan to profit off the demise of his stores is taking a turn for the worst
+44871,1,A ’paradigm shift’ is taking place in financial technology
+44918,1,$33 BILLION HEDGE FUND: There could be a recession if the Trump administration doesn’t get its act together
+44957,1,Kellyanne Conway and other women reveal what it’s like to work in Trump’s White House
+45032,1,Elon Musk is a hypocrite for leaving Trump’s advisory councils — and the move could spell bigger problems for Tesla
+45141,1,Trump is starting to draw battle lines with Congress on an issue with huge implications for the global economy
+45158,3,The tech stock ’fairy tale’ is heading for a bad ending
+45183,1,Uber 2.0 doesn’t need a Travis 2.0 — even if he does change
+45266,1,The ’January effect’ has gotten the stock market right 75% of the time
+45294,1,Here’s your complete preview of this week’s big market-moving events
+45329,2,China has shut down its stock market after a 7% meltdown in 15 minutes
+45342,1,It’s been another chaotic day on Chinese markets
+45396,1,Carl Icahn is buying up shares of Time Warner — and no one knows why
+45480,1,DEUTSCHE BANK: We expect the stock market to go ’up and soon’
+45514,1,Bill Ackman is getting slammed in 2016
+45580,3,Big investors are bailing out of stocks
+45620,1,Wall Street’s deal machine is shutting down
+45632,1,I sat down with a bunch of really smart research analysts — this is what their clients are freaking out about
+45634,1,Former US military commander David Petraeus won’t face further punishment for leaking classified information
+45655,1,Why Jon Stewart was so much better at hosting ’The Daily Show’ than Trevor Noah
+45694,1,A hedge fund has laid out why it is closing — and it is enough to set alarm bells ringing everywhere
+45722,1,Millennials, you’re investing all wrong
+45749,1,The CEO of one of Silicon Valley’s hottest startups has suddenly resigned
+45752,1,Here’s a look at the personal finances of the 2016 presidential candidates
+45769,1,The head of trading at Morgan Stanley just confirmed Wall Street’s worst fear
+45771,3,Here’s why Morgan Stanley’s trading head decided to cut 25% of his fixed-income staff last year
+45778,1,The incredible rise of Sundar Pichai, one of the most powerful CEOs in the world
+45827,1,China’s latest trade data is a very worrying sign for global growth
+45899,1,I’ve been investing in real estate for 25 years, and I think buying a house is for suckers
+45921,1,Here’s who Yahoo could approach as soon as Monday to buy its core business
+45980,1,’The King of Capital’ earned $734 million last year
+46042,1,LinkedIn’s CEO just gave his $14 million stock bonus to his employees
+46068,1,Here’s what 18 Wall Street pros are predicting for the stock market in 2016
+46090,1,There are ’green shoots’ coming from the world’s economic ’canary in the coal mine’
+46156,1,The sale of Intel’s VC unit could trigger another avalanche in startup valuations
+46251,2,How this ’Shark Tank’ entrepreneur negotiated hard for a $2 million deal with Kevin O’Leary and Lori Greiner
+46257,4,China’s stock market may be about to receive another debt-fueled boost
+46293,1,The definitive ranking of Wall Street investment banks in every business line
+46361,1,This stunning machine is the future of a brand new car company
+46375,1,Billionaire Louis Bacon’s charity was the victim of a banker’s alleged $95 million fraud
+46420,1,5 things Starbucks shareholders should know
+46421,1,These 3 things mark a turning point in crude oil
+46435,2,MAJOR FEDSPEAK: Here’s your full preview of this week’s big economic events
+46516,1,The Daily Mail is exploring a bid for Yahoo
+46567,3,Car startup Cruise wants to stop an alleged cofounder from blowing its $1 billion sale to GM
+46580,1,The guy who says he cofounded the startup GM just bought for $1 billion fires back at ’naked ambition’ and ’greed’
+46597,3,Cash levels are climbing
+46614,1,ALL ABOUT EARNINGS: Your complete preview of the week’s big economic events
+46673,1,More than 10 companies want to buy Yahoo, with some willing to pay $8 billion for the core business
+46697,2,Investors aren’t going to make money is this ’fragile’ market
+46699,1,Here’s your full preview of a jam-packed week for the US economy
+46731,2,The market is going to suck for the next 20 years, and you’re going to have to double your life savings
+46745,1,Goldman Sachs just made another big change in its trading business
+46768,1,If you don’t think this man can get Donald Trump elected, you should reconsider
+46773,1,Most of the offers Yahoo is shortlisting are from companies offering cash
+46778,1,Charles Schwab’s daughter shares the investing advice her father gave her in her 20s
+46783,1,The laziest investing argument in the world gets blown up
+46790,2,Investors are missing the big picture about Goldman Sachs
+46794,2,How the founder of a preschool management app cleverly negotiated a $600,000 deal with Mark Cuban and Chris Sacca
+46829,1,INVESTOR: Hedge funds are facing their own Uber moment
+46962,2,Here are the most profitable businesses on Wall Street
+46969,1,Oil could snap back bigger and badder than ever
+46971,4,Goldman Sachs just downgraded stocks all over the world
+47003,2,Here’s the trailer for ’Equity,’ the new movie about a badass female banker
+47005,2,The Fed has come back to life
+47021,7,There may be a ’new normal’ for a $3.5 trillion industry
+47022,1,The world economy is running on monetary fumes
+47030,2,Bayer is making a $62 billion move for Monsanto
+47087,1,The side effects of negative interest rates are ’fanning out across the globe’
+47124,1,CREDIT SUISSE: These 3 things could send China’s markets crazy
+47151,2,APOLLO: ’We are going to keep on filling the role of banks’
+47164,2,The tide for a huge part of the housing market may be starting to shift
+47224,1,Lending Club’s ousted CEO is plotting an audacious comeback bid
+47240,1,American oil’s ’sleeping giant’ is about to spring to life
+47294,1,We just got another example of the frenzy that’s sweeping the tech industry
+47353,2,The hedge fund at the center of an insider-trading scandal is shutting down
+47363,2,The world’s largest investor is trying to break down the wall between you and your money
+47421,1,Here’s how much the top Wall Street banks have earned in fees this year
+47429,1,EU REFERENDUM BLOG: BRITAIN VOTES FOR BREXIT
+47457,1,A huge shift happening in the fitness industry is threatening traditional gyms
+47470,1,Brexit is going to do some serious damage on Wall Street
+47487,1,We’re all in a Brexit market now
+47597,1,The big banks are ’baking in’ a rate cut
+47605,2,The next correction will ’extract more than a pound of flesh in damage’
+47700,1,This market is hastening a future that has been terrifying Wall Street for years
+47755,1,Mark Cuban’s best investing advice: ’Don’t’
+47773,3,Goldman Sachs beats on Q2 earnings
+47786,5,Morgan Stanley is winning a Wall Street grudge match
+47816,3,Goldman Sachs is getting back into the corporate buyout game
+47919,8,’Equity’ is such a good Wall Street movie, you almost forget that all the characters are women
+48055,1,A year ago, Google blew itself up to become Alphabet — and a lot has changed since then ...
+48086,1,One of Hillary Clinton’s top advisers said Clinton would make the crucial change to marijuana the DEA just passed on
+48124,1,A giant hedge fund could be about to shake up Morgan Stanley
+48141,2,An investor who owns 4,000 apartments explains why multi-family real estate is the best investment he’s made
+48144,1,This private investor document perfectly shows why people are sick and tired of hedge funds
+48151,3,This is the biggest trend in the hedge fund world right now
+48235,1,Here’s what we know about the secretive company building terrifying tools to hack your iPhone
+48239,2,Something odd is going on in the market, and it could be setting us up for a fall
+48263,2,The Bank of Japan is worried about a stock market crash
+48369,1,Satellite owner may seek $50 million from SpaceX after explosion
+48379,1,A definitive breakdown of the sorry state of Wall Street
+48488,3,WESTON: Here’s why markets have suddenly gone haywire
+48539,1,The world’s biggest hedge fund is worried the Federal Reserve could mess up everything
+48567,6,Inside the quiet shake-up taking place at Goldman Sachs
+48594,1,COOPERMAN: I want to protect my legacy
+48600,1,Jawbone hasn’t paid one of its key business partners and has almost no inventory left, sources say
+48641,3,A 28-year-old raised $75 million for his new hedge fund
+48645,1,Spotify is causing a major problem for economists
+48719,1,7 success tips from a man who built a $2.2 billion business in 10 months
+48776,3,The US economy shows ’evidence for an imminent recession’
+48994,1,AT&T is buying Time Warner for $85 billion
+49171,1,Google’s investment arm has quietly invested in Snapchat
+49214,1,LIVE: MARKETS ARE GOING HAYWIRE
+49217,3,WORLD’S BIGGEST HEDGE FUND: Stock markets around the world will tank if Trump wins
+49234,1,Trump warned Amazon would have ’problems’ under his presidency — here’s what could happen
+49286,1,The head of the SEC will step down at the end of the Obama administration
+49316,2,What we know about the former Valeant employee who just got arrested on fraud charges
+49444,1,Tesla is entering the solar business at a terrible time
+49468,2,Report: Trump taps billionaire investor Wilbur Ross for commerce secretary
+49471,2,China’s about to unleash its roller-coaster tech market on the world
+49510,1,Chobani COO who played a crucial role in the company’s turnaround is leaving the yogurt maker
+49541,1,A pensions time bomb spells disaster for the US economy
+49562,1,SCHWARZMAN: Donald Trump is going to change the ’architecture of the world’
+49593,2,Here’s the presentation David Einhorn just gave to a room of elite hedge fund managers
+49689,1,Trump’s tax plan could knee-cap a bunch of huge companies
+49755,2,One of Trump’s biggest plans to stimulate the economy won’t be great for most Americans
+49843,2,How to Stop Short-Term Thinking at America’s Companies
+49939,1,The Donald Trump Cabinet Tracker
+49965,1,A Brief Guide to Rex Tillerson’s Controversial Foreign Ties

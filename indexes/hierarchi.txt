@@ -1,0 +1,137 @@
+123,1,Andrew Garfield, Spiritual Ghost in the Hollywood Machine - The New York Times
+171,2,Ayatollah Ali Akbar Hashemi Rafsanjani, Ex-President of Iran, Dies at 82 - The New York Times
+224,1,Jared Kushner Named Senior White House Adviser to Donald Trump - The New York Times
+684,1,Ten Centuries Later, a Pope and Knights Do Battle - The New York Times
+851,1,Anarchists Respond to Trump’s Inauguration, by Any Means Necessary - The New York Times
+980,1,Aleksei Navalny, Viable Putin Rival, Is Barred From a Presidential Run - The New York Times
+1024,1,Steve Bannon Cited Italian Thinker Who Inspired Fascists - The New York Times
+1198,1,Beyond ‘Hidden Figures’: Nurturing New Black and Latino Math Whizzes - The New York Times
+1203,1,Samsung Heir’s Arrest in South Korea Intensifies Calls for Cleanup - The New York Times
+1335,1,South Korea, Next Olympics Host, Went Shopping in North America to Build Its Hockey Teams - The New York Times
+1339,1,Nikki Haskell Learns the Social Cost of Supporting Donald Trump - The New York Times
+1367,1,Immigration Agents Discover New Freedom to Deport Under Trump - The New York Times
+1788,1,How Egypt’s Activists Became ‘Generation Jail’ - The New York Times
+1889,1,Offices of Volkswagen and Audi Chiefs Searched in Raid, Warrant Says - The New York Times
+2058,1,Fran Lebowitz: By the Book - The New York Times
+2132,1,Ahmed Kathrada, Anti-Apartheid Activist in South Africa, Dies at 87 - The New York Times
+2155,1,In AMC’s Western ‘The Son,’ the Novelist Philipp Meyer Lassoes TV - The New York Times
+2191,1,‘Age of Empires’: How 2 Dynasties of Art Forged China’s Identity - The New York Times
+2250,1,A Hushed Departure at the Met Museum Reveals Entrenched Management Culture - The New York Times
+2336,1,In Canada, Where Muslims Are Few, Group Stirs Fear of Islamists - The New York Times
+2361,1,Cultural Revolution Shaped Xi Jinping, From Schoolboy to Survivor - The New York Times
+2478,1,I Thought I Understood the American Right. Trump Proved Me Wrong. - The New York Times
+2541,1,Files Suggest Honduran Police Leaders Ordered Killing of Antidrug Officials - The New York Times
+2552,2,The Billionaire Who’s Building a Davos of His Own - The New York Times
+3241,1,The Agony of the Digital Tease - The New York Times
+3456,1,How a Secretive Branch of ISIS Built a Global Network of Killers - The New York Times
+3715,1,Tucson Becomes an Unlikely Food Star - The New York Times
+3785,1,Does Killing Terrorist Leaders Make Any Difference? Scholars Are Doubtful - The New York Times
+3870,1,Syrian Forces Make Gains Near Aleppo With Russian Help - The New York Times
+3996,1,Ralph Lauren Stops Traffic - The New York Times
+4117,1,Can Teenage Defiance Be Manipulated for Good? - The New York Times
+4182,1,Building Zaha Hadid’s Bold Afterlife - The New York Times
+4525,1,Robert Vaughn, Who Starred as Napoleon Solo in ‘Man From U.N.C.L.E.,’ Dies at 83 - The New York Times
+4837,1,Tomi Lahren: Young, Vocal and the Right’s Rising Media Star - The New York Times
+5404,1,After F.B.I.’s Inquiry Into Omar Mateen, a Focus on What Else Could Be Done - The New York Times
+5509,1,Quiet Fixer in Donald Trump’s Campaign: His Son-in-Law, Jared Kushner - The New York Times
+5516,1,Wigan’s Road to ‘Brexit’: Anger, Loss and Class Resentments - The New York Times
+6081,1,Bhumibol Adulyadej, 88, People’s King of Thailand, Dies After 7-Decade Reign - The New York Times
+6147,1,Pope Francis Names Joseph Tobin to Lead Archdiocese of Newark - The New York Times
+6407,1,The Great A.I. Awakening - The New York Times
+6544,1,Daniel J. Berrigan, Defiant Priest Who Preached Pacifism, Dies at 94 - The New York Times
+6705,1,Object Lessons: The New Museum Explores Why We Keep Things - The New York Times
+6837,1,In Honduras, a Spiritual and Political Awakening for Tim Kaine - The New York Times
+6968,1,How to Suppress the Apology Reflex - The New York Times
+7063,1,Fidel Castro, Cuban Revolutionary Who Defied U.S., Dies at 90 - The New York Times
+7209,1,Al Qaeda Turns to Syria, With a Plan to Challenge ISIS - The New York Times
+7305,1,For Anne Holton, Tim Kaine’s Wife, Elite Circles Are Old Turf - The New York Times
+7386,1,Social Media Got You Down? Be More Like Beyoncé - The New York Times
+7470,1,At Real Madrid, Zinedine Zidane’s Gift Is Wrapped in Charisma - The New York Times
+7520,1,Rick Perry, as Energy Secretary, May Be Pressed to Resume Nuclear Tests - The New York Times
+7729,1,David’s Ankles: How Imperfections Could Bring Down the World’s Most Perfect Statue - The New York Times
+7796,1,When Your Child Is the Travel Agent - The New York Times
+9167,1,More Than ’Chaos’: Terror Ties Make Venezuela Direct Threat to USA, Former UN Security Council President Says - Breitbart
+10051,1,Virgil: Trump’s Nationalist Vision vs. the Gospel of Globalism
+10913,1,Report: Only 6% of Millennials Said Their Social Media Was a ’Completely True’ Depiction of Them - Breitbart
+10929,1,Shia vs. Sunni: The Schism Western Politicians Don’t Understand and Won’t Discuss - Breitbart
+11138,1,University of Washington Tacoma Declares Proper Grammar Is Racist - Breitbart
+11315,1,DELINGPOLE: The Archbishop of Canterbury Thinks We’re All Fascists. Cheers! - Breitbart
+11580,1,Christians Targeted by Islamic State Flee Egypt’s Sinai Villages
+12764,1,Feminist Alice Walker: Muslim Scholars Have ‘Ignored the Problem of Female Genital Mutilation’ - Breitbart
+12777,1,Madrid Buses Ban Men ’Manspreading’ - Breitbart
+13857,1,’Ghost Recon Wildlands’ Review - A Fun but Forgettable Sprawling Cartel Hunt That’s Better with Friends - Breitbart
+13927,1,Mark Tapson: Trump’s Big Agenda: David Horowitz’s New Book Lays Out the Plan
+14321,1,Study: Instagram Rated the Most Narcissistic Social Media Platform - Breitbart
+14928,1,What If Trump Had Lost? The Original Ending to ’How Trump Won’
+15453,1,Suggestion Pope Benedict XVI Resigned Under Obama ‘Pressure’
+18447,1,Malaysia Admits Islamic State Poses ’Very Real’ Threat
+18614,2,The Inherent Violence of Grievance Culture - Breitbart
+19532,1,Sarah Palin Surprise in San Diego: Trump Supporters Aren’t ’Stupid,’ but Obama’s ’Apology Lap’ Is
+19978,1,Los Zetas Cartel Used Network of Ovens to Hide Mass Extermination in Mexico’s Coahuila - Breitbart
+20189,1,An Establishment Conservative’s Guide To The Alt-Right - Breitbart
+20471,1,Sports Page Social Justice Warriors Flip Out over Breitbart Curt Schilling Interview - Breitbart
+21658,1,Scarborough Likens Fox News Coverage of Rubio to MSNBC, Olbermann’s 2008 Obama Coverage - Breitbart
+21744,1,The Ten Ideologies of America
+22273,1,A Harsh New Reality May Await El Chapo in Colorado’s Supermax Prison - Breitbart
+22874,1,Milo on the Bernie and Sid Show: Bill Clinton Ripped the Black Community Apart - Breitbart
+23277,1,Milo On Breitbart News Daily: Islam Has ’Contempt And Loathing’ For Gays - Breitbart
+24149,1,Ted Cruz Winning Battle for Evangelicals in Iowa But Losing War Nationally to Trump - Breitbart
+24350,1,The Conservative Case for Paul Ryan - Breitbart
+24637,1,Milo Yiannopoulos on Facebook, Twitter: ’They’re Only a Free Speech Party If You’re a Progressive’ - Breitbart
+25969,1,How Donald Trump Made It Cool To Be Gay Again - Breitbart
+26553,1,Rubin: John Bolton Is No Loose Cannon - Breitbart
+27239,2,The Left Chose Islam Over Gays. Now 100 People Are Dead Or Maimed In Orlando - Breitbart
+27294,1,YouTube Adds Trigger Warning to ’Milo Tosser’ Game Footage
+28241,1,The Left’s Bloody War on Women: Sending Chicks into Combat Betrays Men, Women and Civilization - Breitbart
+28391,1,After the Orlando Attack, Democrats Rally While GOP Splits - Breitbart
+28574,2,Milo On The Todd Shapiro Show: Muslims ’At The Top’ Of The Left’s ’Victim Hierarchy’ - Breitbart
+28666,1,Libertarian Commentator Lauren Southern Assaulted by ’Anti-Fascist’ Protesters - Breitbart
+28861,1,GOP Establishment Still Refuses to Negotiate or Compromise With Donald Trump’s Voters - Breitbart
+29182,1,Christians And Gays Unite: Billy Graham Team Pray For Milo - Breitbart
+29244,1,#JeSuisMilo Is a Tipping Point for Twitter - Breitbart
+29295,1,James Pinkerton – The Democrats vs. The Deplorables, Part Two: The Immigration Flashpoint  - Breitbart
+29737,1,Podesta Calls for Investigation Into Trump Campaigns ’Collusion’ With Russia - Breitbart
+31013,1,Politico: GOP Establishment Rallies Behind Rubio
+31026,1,Jeb Bush Joins Rebel Alliance: Fox News Has ’Different Standard’ for Marco Rubio - Breitbart
+31181,1,In New Cardinal Picks, Pope Francis Sidelines Conservatives, Promotes Progressives - Breitbart
+33464,2,Samoura: ’Facelift’ of FIFA’s male hierarchy is ’ongoing’
+34505,1,Removing gender from MTV awards: a start, but not equality
+34737,1,Dozens of MS-13 gang members nabbed in 50 Los Angeles raids
+34939,1,Spicer’s absence in papal visit reveals Trump’s family-first rule
+35047,1,Trump hasn’t changed. Neither has Washington
+35068,1,America’s Cup: Van Velthooven swaps freewheeling for foiling
+35581,1,Saudi Arabia’s king replaces nephew with son as heir to throne
+36064,1,Observer writer issues plea to Trump son-in-law
+36292,1,Amnesty International sending ’human rights observers’ to conventions
+36452,2,What’s fueling the Republican fury
+36543,1,DNC hack roils Philly convention
+37095,1,Trump goes mainstream -- but will it last?
+37345,1,Death of senior leader caps bad month for ISIS
+38256,1,Republicans back away from Trump
+38262,1,Evangelicals ’disgusted’ by Trump’s remarks, but still backing him
+38508,1,’Good Girls Revolt’ filters journalism, feminism through ’60s prism
+38998,1,Castro’s death takes time to absorb in hometown
+39036,1,What Trudeau’s Castro comments reveal
+39292,1,Should Americans worry about Trump’s generals?
+39914,1,Muslims offer mixed response to new Mohammed cover
+39954,1,ISIS: Everything you need to know
+40661,1,SAE racist chant: Textbook case of frat behaving badly?
+40782,1,Fraternity crackdowns:
+40902,1,Should Elizabeth Warren run? A debate with myself
+42677,3,Katy Perry meets her match--nuns
+42881,1,Indian men marrying multiple wives to help beat drought
+42974,1,Two Zimbabweans granted bail in death of Cecil the lion
+43637,1,We compared the Volvo S90 and the Buick LaCrosse head-to-head
+43690,1,We pitted the BMW X1 against the Buick Encore in a battle of the small SUVs
+44729,3,You probably shouldn’t hug your dog, and 3 other common things we get wrong about dogs
+45448,1,Hyundai’s Genesis luxury brand is taking aim at Mercedes and BMW
+45834,2,An archaeologist studied Mardi Gras beads and found the ’season of madness’ has much deeper roots than we think
+46181,5,Here’s why Trump is dominating despite a strong economy
+46230,1,The Anonymous attack on Donald Trump is setting off a hacker civil war
+48336,1,An aspiring police officer who went undercover in a jail for 2 months describes why ’violence is almost necessary’ behind bars
+48373,1,New York’s 1900s Chinatown was a whirlpool of violence and tactical politics
+48556,1,The most disturbing aspect of a sexual-abuse scandal at an elite, New England prep school
+48888,1,Maserati has hit a home run with the Levante SUV
+48902,1,The NFL’s highest-paid players at every position, from quarterback to long snapper
+49669,1,TRUMP TO TECH TITANS: Call me anytime, there’s ’no formal chain of command around here’
+49812,1,Scientists discovered an absurdly easy way to seem convincing

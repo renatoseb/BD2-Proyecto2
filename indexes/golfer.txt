@@ -1,0 +1,128 @@
+610,2,Trump to G.O.P. Gathering: Where’s My C.I.A. Director? - The New York Times
+794,1,Political Fashion Statements at the Men’s Wear Shows - The New York Times
+825,1,The Uncomfortable Love Affair Between Donald Trump and the New England Patriots - The New York Times
+887,4,Indian Teenager Begins a Lonely Climb in Women’s Golf - The New York Times
+922,1,Travel Ban, Queen Elizabeth, Netanyahu: Your Morning Briefing - The New York Times
+1065,1,A Presidential Golf Outing, With a Twist: Trump Owns the Place - The New York Times
+1328,2,A Tee Time With Trump? Pro Golfers Say Absolutely - The New York Times
+2126,5,The L.P.G.A. Tour and Donald Trump: It’s Complicated - The New York Times
+2367,4,Charley Hoffman Grabs Four-Stroke First-Round Lead at Windy Augusta - The New York Times
+2986,1,Among Olympians’ Zika Precautions: Fewer Guests, Frozen Sperm - The New York Times
+3053,6,Rory McIlroy Says He Won’t Attend Olympics Over Zika Concerns - The New York Times
+3297,3,How Private Equity Found Power and Profit in State Capitols - The New York Times
+3316,4,At Royal Troon, the Bunkers Bury the Best - The New York Times
+3325,3,Henrik Stenson Beats Phil Mickelson in British Open Duel - The New York Times
+3548,1,Echoing a Film Plot, Chinese Gangs Kill Drifters in an Elaborate Mining Ruse - The New York Times
+3592,3,Justin Rose Outduels Henrik Stenson for Golf Gold Medal - The New York Times
+4021,1,The Eternal Struggle of the Empty Nester - The New York Times
+4047,3,Donald Trump Used Over $250,000 From Charity for Business Disputes, Report Says - The New York Times
+4116,6,Arnold Palmer, the Magnetic Face of Golf in the ’60s, Dies at 87 - The New York Times
+4186,1,‘Captain America’ Smites Rory McIlroy in Spirited Duel at Ryder Cup - The New York Times
+4598,1,Donald Trump, After Fits and Starts, Focuses on Foreign Policy - The New York Times
+4646,1,Reince Priebus, Normalizer in Chief - The New York Times
+4817,1,This Season’s Best Books on Hollywood - The New York Times
+4993,1,Craig Sager, Colorful N.B.A. Sideline Reporter, Dies at 65 - The New York Times
+5314,1,In the Clear, Phil Mickelson Can Thank an Insider Trading Ruling - The New York Times
+5448,1,Hillary Clinton, Donald Trump, Cleveland Cavaliers: Your Wednesday Evening Briefing - The New York Times
+5484,7,Jason Day, World’s Top Golfer, Pulls Out of Olympics Over Zika Fears - The New York Times
+5498,2,Royal Troon Golf Club Votes to Allow Female Members - The New York Times
+6059,2,Tiger Woods Postpones Return, Saying He’s ‘Not Ready to Compete’ - The New York Times
+6262,1,Donald Trump’s New York Times Interview: Full Transcript - The New York Times
+6326,1,As Double Dutch Wanes in New York, Competition Comes From Abroad - The New York Times
+6735,2,Jimmy Walker Wins the P.G.A. Championship, Capping a Year of New Faces - The New York Times
+7091,1,Donald Trump, Matteo Renzi, Shinzo Abe: Your Tuesday Briefing - The New York Times
+7246,1,Dustin Johnson Wins U.S. Open at Oakmont for First Major Title - The New York Times
+7392,1,U.S. Captures Ryder Cup, Ending Europe’s Streak - The New York Times
+7592,1,U.S. Presidential Race, Baltimore, Olympics: Your Wednesday Evening Briefing - The New York Times
+8640,3,Rory McIlroy Caves to Fan Pressure, Would ‘Think Twice’ About Golfing with Trump Again - Breitbart
+9069,5,Former Cowboy Tony Romo: Now Lining Up Behind the Golf Ball, Fails in US Open Bid - Breitbart
+9084,2,A Round with Rory McIlroy on St. Patrick’s Day Weekend - Breitbart
+9323,1,Four Sit Atop a Crowded Leaderboard at U.S. Open - Breitbart
+10599,3,Survey: 89% of PGA Tour Players Would Love to Tee It Up with Trump - Breitbart
+10739,3,17 Month Layoff Takes Its Toll on Tiger Woods at Torrey Pines - Breitbart
+11070,1,Brooks Koepka Wins First Major at U.S. Open - Breitbart
+11130,2,President Trump to Appear on Golf Channel Tribute to Jack Nicklaus - Breitbart
+11563,1,Rory McIlroy Comes Back Early From Golf Rehab to Tee It Up With President Trump - Breitbart
+11678,1,GE CEO Jeff Immelt Recalls Trump Hole-in-One: ’I’ve Seen the Magic’ - Breitbart
+11981,2,Ernie Els: ‘We Would Not be Playing For the Money We Play For If It Wasn’t For Tiger’ - Breitbart
+12001,7,Time Saving, Common Sense Rules Proposed by Golf’s Governing Bodies - Breitbart
+12423,1,Kicking Money Out of Politics: Trump Boots Koch Brother from Golf Course - Breitbart
+12455,1,Vintage 50s Era Masters Jacket Found in Thrift Store for $5 Sells for $139,000 at Auction - Breitbart
+13729,2,Tiger Woods Turns to TaylorMade in Return to Tour at Farmers Insurance Open - Breitbart
+13991,3,Golf Channel’s Brandel Chamblee Thinks ‘Golf Should Ban Twitter’ - Breitbart
+15145,1,Tiger Woods On His Round of Golf With Donald Trump - Breitbart
+16048,1,USA Today Columnist Calls U.S. Women’s Open at Trump National a ’Nightmare’ - Breitbart
+17312,1,Zika Fears Force Pirates-Marlins Games from Puerto Rico - Breitbart
+17810,1,***Horse Race LiveWire*** Ryan: I Don’t Want, Won’t Accept Nomination Jeb!, Top GOPers to Skip Convention - Breitbart
+18397,1,Asia Pivot: Obama Hosts Southeast Asian Leaders in SoCal - Breitbart
+19525,1,Jordan Spieth Still the Man to Catch as Masters Drama Builds - Breitbart
+20652,1,Barry University Bans Golf Team from Trump-Owned Golf Courses - Breitbart
+21711,1,Donald Trump to Play Golf with Tiger Woods - Breitbart
+21830,1,***2016 GOP Convention LiveWire*** Trump Officially Clinches GOP Nomination - Breitbart
+22389,1,Marco Rubio Campaign Plans Seven Last-Minute Attacks on Trump - Breitbart
+22612,1,Jordan Spieth Joins Top Golfers in Rebuffing Olympics - Breitbart
+23778,1,AP: More Establishment Than Celebrity in Trump Convention Lineup - Breitbart
+23856,1,Nike to End Golf Equipment Manufacturing - Breitbart
+24199,2,Rory McIlroy Not Playing Masters ’Hassle’ Three-Par Competition - Breitbart
+24632,1,***2016 LiveWire*** ‘Never Trump’ Leader Wears All Black ‘In Mourning’ After Movement’s Death - Breitbart
+25333,6,Jack Nicklaus Says Modifying Ball Will Solve Two Big Problems for Golf - Breitbart
+25609,1,Zika Prompts Pregnant NBC Anchor Savannah Guthrie to Pass on Olympics Assignment - Breitbart
+25735,1,Phil Mickelson Leads Open after Stunning 63 - Breitbart
+26288,1,George Lopez on Tiger Woods, Trump Golfing Together: ’Just a Couple of White Dudes Playing Golf’ - Breitbart
+26883,3,Irish Golfer Rory McIlroy Ribs Trump over Loss of PGA Tournament to Mexico - Breitbart
+28158,1,Americans Win First Ryder Cup Since 2008 - Breitbart
+28833,1,World’s Largest Rodents Take Over Rio’s Olympic Golf Course - Breitbart
+30694,1,Pau Gasol: ’Zika Is a Much Bigger and More Serious Threat Than We Think’ - Breitbart
+30801,3,Tiger Woods Pulls Out of PGA Championship, Intends to Sit the Rest of 2016 - Breitbart
+30962,1,Jack Nicklaus on Donald Trump: ’I’ll Be Voting for Him’ - Breitbart
+31957,3,Rory loses out as Storm’s dream comes true
+32608,1,Golf diplomacy teed up at the Winter White House
+32808,5,Trump’s aides don’t want to admit the President is golfing
+33410,3,Trump, critic of Obama’s golfing, regularly hits the links
+33723,2,LPGA Commissioner: ’I feel horrible for Lexi Thompson’
+33771,1,Masters 2017: Dustin Johnson pulls out at Augusta
+33862,1,Trump, who scorned Obama’s golf habits, outpacing him in rounds
+34848,1,Why Trump’s No. 2 donor isn’t asking for much
+35056,5,Tiger Woods’ car had flat tires, he was asleep at wheel, police say
+35089,3,Tiger Woods dashcam video: Golfer stumbles, appears confused
+35609,1,Should Disney have warned about alligators?
+35643,1,U.S. Open 2016: Rookie Landry sets record
+35662,2,McIlroy and big guns misfire at Oakmont
+35806,1,At least 26 dead in West Virginia flooding
+35830,1,West Virginia flooding: At least 24 dead
+35901,1,Jason Day to miss Rio Olympics over Zika virus scare
+36076,1,Rio police tell tourists they won’t be able to protect them
+36103,2,Will Rio Games really be a catastrophe?
+36619,1,Rio Olympics: Is Brazil ready for the 2016 Games?
+36951,1,Elaine Thompson wins women’s 100m gold at Rio 2016
+36966,2,Henrik Stenson encounters reptile in Rio
+37289,2,Reed beats O’Hair by one shot in Barclays showdown
+37381,1,U.S. Open 2016: Wozniacki flourishing
+37471,3,Could Boston breeze ruffle PGA battle?
+37666,1,Ryder Cup 2016: Rickie Fowler wins US wildcard
+37788,1,Evian Championship: In-Gee Chun leads going into final round
+38098,1,’It was wild!’ Fan drains pressure putt after taunting Ryder Cup pros
+38771,1,Jet-skiing jugs and other trophy tales
+39084,1,From horses to Hooverball: How presidents stay fit
+39095,1,Trump’s transition rollercoaster ride
+39486,3,Tiger Woods Fast Facts
+39596,2,Donald Trump tees up for golf with Tiger Woods
+39767,1,No, 2016 wasn’t the worst year for celebrity deaths -- and we’ll prove it
+40033,1,Bubba Watson buys into baseball team
+41003,1,Tiger Woods out of world’s 100 for first time
+41227,1,Imagining Daddy: A rig worker’s daughter and her dreams
+41578,1,Golf-ball diving: Lakes lined with $150K of ’white gold’
+41598,1,Tiger Woods fails to reach women’s tee at Players Championship
+42241,1,MH370 possibly plunged straight into ocean, expert says
+43138,1,Warren Buffett looks for these 3 traits in people when he hires them
+43476,1,’President Bannon’s’ hugely destructive first week in office
+44029,2,PGA golfer casually taps an alligator on the tail to get it off the golf course
+44329,2,Sergio Garcia wins the Masters with one of the most thrilling 5-hole stretches you will ever see
+44651,1,Malcolm Turnbull and Donald Trump met for just 30 minutes in New York
+44754,1,Sergio Garcia became just the 8th player to ever hit a hole-in-one on the famed No. 17 island green at the TPC
+44973,2,Tiger Woods has been arrested on DUI charges
+45326,1,Samuel L. Jackson fires back at Donald Trump: ’I’m gonna block his a-- too!’
+46512,1,Wind at the Masters blew a golfer’s ball off the green and into the water
+47532,2,Adam Scott gave a brutal explanation for why he’s skipping the Rio Olympics
+48703,3,A Ryder Cup fan who heckled Rory McIlroy for missing a putt came out and hit the same shot to win $100
+49773,2,Trump is reportedly playing golf with Tiger Woods Friday morning

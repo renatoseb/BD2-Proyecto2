@@ -1,0 +1,116 @@
+65,1,My Canada - The New York Times
+293,1,Review: ‘A Really Good Day,’ Ayelet Waldman’s Better Living Through LSD - The New York Times
+589,1,A Bloody Reminder for Somalia: Chaos Is Never Far Away - The New York Times
+709,3,Troops Who Cleaned Up Radioactive Islands Can’t Get Medical Care - The New York Times
+791,1,A Rare Pacific Islander Captivates Its Neighborhood - The New York Times
+989,1,Why Do Cooks Love the Instant Pot? I Bought One to Find Out - The New York Times
+1103,1,Report Rebuts Russia’s Claims of Restraint in Syrian Bombing Campaign - The New York Times
+1246,2,Omar Abdel Rahman’s Death Stirs Memories of 1993 Attack - The New York Times
+1340,2,An Aquatic Paradise in Mexico, Pushed to the Edge of Extinction - The New York Times
+1688,1,Flecks of Extraterrestrial Dust, All Over the Roof - The New York Times
+1806,1,Dutch Vote Watched Across Europe With a Finger in the Wind - The New York Times
+1831,1,Trump May Have Pushed Dutch Voters Away From Populism - The New York Times
+1847,1,Pentagon Releases Photo to Rebut Contention It Bombed a Mosque - The New York Times
+2045,1,Going Under the Knife, With Eyes and Ears Wide Open - The New York Times
+2126,1,The L.P.G.A. Tour and Donald Trump: It’s Complicated - The New York Times
+2143,1,Brexit, Donald Trump, Jordan: Your Morning Briefing - The New York Times
+2625,1,Beyoncé Unearths Pain and Lets It Flow in ‘Lemonade’ - The New York Times
+2723,1,Alan Rusbridger, Once Guardian’s Celebrated Editor, Severs Ties With It - The New York Times
+2820,1,Fear of ‘Catastrophe Unfolding’ Amid Fighting in Falluja - The New York Times
+3068,1,Why Isn’t Donald Trump Campaigning in Swing States? - The New York Times
+3128,1,10 Months, 45 National Parks, 11 Rules - The New York Times
+3496,1,Don’t Let Them Tell You You’re Not at the Center of the Universe - The New York Times
+3588,1,Hard Times in Venezuela Breed Malaria as Desperate Flock to Mines - The New York Times
+3627,1,How (and Why) to Camp in the National Parks - The New York Times
+3804,5,World’s Oldest Fossils Found in Greenland - The New York Times
+3868,1,NASA Aims at an Asteroid Holding Clues to the Solar System’s Roots - The New York Times
+4114,1,Syria and Russia Appear Ready to Scorch Aleppo - The New York Times
+4128,1,Unrelenting Assault on Aleppo Is Called Worst Yet in Syria’s Civil War - The New York Times
+4202,1,Under Hawaii’s Starriest Skies, a Fight Over Sacred Ground - The New York Times
+4285,1,For G.O.P. Candidates, Renouncing Donald Trump Carries Dire Risks - The New York Times
+4408,1,Rodrigo Duterte, Pushing Split With U.S., Counters Philippines’ Deep Ties - The New York Times
+4816,2,Twinkle, Twinkle Little [Insert Name Here] - The New York Times
+5433,8,Decades Later, Sickness Among Airmen After a Hydrogen Bomb Accident - The New York Times
+6099,1,Donald Trump and the G.O.P.: The Party of Lincoln, Reagan and, Perhaps, Extinction - The New York Times
+6149,1,How a Shop Owner in the Hamptons Knows Who Will Be President - The New York Times
+6233,1,Donald Trump, Obama, Thanksgiving: Your Weekend Briefing - The New York Times
+6871,1,Visions of Life on Mars in Earth’s Depths - The New York Times
+6983,1,Italy, Already Rattled, Is Struck by Another Powerful Quake - The New York Times
+7772,1,Only a Rumbling Volcano Could Make North Korea and the West Play Nice - The New York Times
+9852,1,MILO: Dear Half Of America, We At Sears F*****g Hate You! - Breitbart
+10167,2,Jeff Bezos Wants to Improve Amazon Delivery Service... to the Moon - Breitbart
+10503,1,Big Layoffs Coming to Financially Struggling ESPN - Breitbart
+11682,1,Goldman-Sachs Says an Asteroid Mining Rush Is Coming - Breitbart
+13096,1,Report: ESPN Losing 10,000 Subscribers a Day Over Its Political Left Turn - Breitbart
+14623,1,UK Jews Abandon Labour as Support Craters on Anti-Semitism Charges
+14900,1,McCain: Trump Missile Strike Not Enough, Syrian Jets Flying Again ’Not a Good Signal’ - Breitbart
+16007,2,The 100th Anniversary of the Tank - Breitbart
+17620,1,2015: Sold Out South Carolina Tea Party Convention Kicks Off In Myrtle Beach - Breitbart
+17884,1,Donald Trump and Barack Obama: Proof Republicans and Democrats Live on Different Planets - Breitbart
+18026,1,Target Stays Silent as Mixed Bathroom Disaster Threatens Sales, Stocks - Breitbart
+18611,1,Box Office Analysts: George Clooney Headed for Another Flop with ’Money Monster’ - Breitbart
+19724,1,Ann Coulter: A Slow-Talker and a Homeless Guy Walk into a Bar... - Breitbart
+20087,1,Hands-On with ’Halo Wars 2’ at E3: Move Like You’ve Got a Purpose - Breitbart
+20715,1,Fans Agree: NFL Ratings Fall Due to Anti-American National Anthem Protests - Breitbart
+22038,1,The Week: ‘How Steve Bannon Stole Progressives’ Anti-Wall Street Thunder’
+22350,1,Flashback: Hillary Clinton Says Islam Is ’Not Our Adversary’ - Breitbart
+24309,1,Police Take Credit for Tarantino’s ’Hateful Eight’ Box Office Crash - Breitbart
+25317,1,Michelle Malkin: ’My Base Is Fed Up with Fox’ News Channel Murdoch ’Treacherous Bedfellow’ - Breitbart
+25882,1,Chicago Police Union Tells Officers to Refuse Overtime During Expected Labor Day Violence Spree - Breitbart
+28593,1,Advocates of Puerto Rico Bill Say the Choice Is Between Orderly Restructure and Chaotic Collapse - Breitbart
+29695,1,Phyllis Schlafly, Chris Christie, Jeff Sessions Deliver Body Blow to Rubio in New Hampshire - Breitbart
+31974,1,Eugene Cernan, last man on the moon, dies
+32313,3,CNN 10 - January 31, 2017
+32658,3,Volcanoes Fast Facts
+33262,1,In western Mosul, a determined few remain
+33376,1,CNN 10 - March 17, 2017
+33809,1,Satellite images show before, after US strikes on Syrian base
+33946,1,NASA: Nearby ocean worlds could be best bet for life beyond Earth
+34330,1,Lessons from the LA riots: How a troubled police department changed
+34572,3,CNN 10 - May 11, 2017
+36077,1,How Jupiter saves Earth from destruction
+36115,12,Volcano mining: Toughest job in the world?
+36240,1,Message from Mars? Morse code dunes found red planet
+37341,1,CNN Student News - August 30, 2016
+37404,1,CNN Student News - September 2, 2016
+37502,2,NASA to catch asteroid and take a sample
+37577,1,Did Gary Johnson miss his chance?
+37688,1,Is America at risk of following the path of failing states?
+38261,1,Trump now too toxic for Paul Ryan, Hill GOP
+38284,1,Mike Pence has own woes with women
+38313,1,7 takeaways from the second presidential debate
+38427,1,GOP must speak out over Trump’s sexism
+38978,2,Mexico’s Popocatepetl Volcano spews ash miles into the air
+39782,1,What (not) to look forward to in 2015
+40264,1,’The Evil Hours’: Lessons of PTSD
+40453,2,The planet you’ve probably never heard of
+40571,4,NASA’s Dawn spacecraft begins orbiting Ceres
+40893,1,Opportunity rover celebrates marathon milestone
+41282,2,Briny puddles could dot Mars, new research says
+41435,1,Chile’s Calbuco volcano erupts
+41458,2,Magma expanse under Yellowstone supervolcano more vast
+41473,1,More activity expected from Calbuco Volcano in Chile
+41491,1,Yemen: Living under fire
+41776,1,Ramadi, a decade after an encounter with an IED
+42549,1,Dwarf planet Ceres reveals pyramid-shaped mystery
+42631,4,Park visitor finds 8.52-carat diamond in Arkansas
+42845,2,New photos show a youthful Pluto still taking shape
+42849,1,Iraq ice truck bombing kills 120
+42937,1,Kick ’em Jenny: Underwater volcano rumbles to life off Grenada
+43037,1,Photos from a city under siege
+43419,3,I traveled to the middle of the desert to see ’The Door To Hell’ — Turkmenistan’s crater of fire
+44503,1,25 photos that prove you’re a stowaway on a tiny, fragile spaceship we call Earth
+44870,1,A former special forces sniper is taking up a new fight — protecting one of the world’s most endangered species
+46202,1,Scientists may have just made a huge breakthrough in explaining the mystery of the Bermuda Triangle
+46255,1,A lot of people are making the same mistake about Tesla and the Model 3
+46313,7,Giant holes found in Siberia could be signs of a ticking climate ’time bomb’
+46340,1,With the Model 3, Tesla is on the verge of something it’s never done
+46724,1,DAN LOEB: We just saw ’one of the most catastrophic periods’ for hedge funds in decades
+46878,1,10 things you need to know today
+46989,1,Facebook and Google are destined to become Apple and Microsoft
+47199,1,IVY ZELMAN: ’There’s a shortage of shelter.’
+47224,1,Lending Club’s ousted CEO is plotting an audacious comeback bid
+47893,1,’Unique, strange, and terrible’ — ISIS may have created a new type of bomb
+49169,1,Depressing new photos show Europe’s Mars probe exploded into pieces
+49409,1,Jefferies CEO Rich Handler shares what he is thankful for this year
+49876,1,Tweeting Mao’s Cultural Revolution in Real-Time

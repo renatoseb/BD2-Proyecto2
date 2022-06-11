@@ -1,0 +1,499 @@
+26,1,Istanbul, Donald Trump, Benjamin Netanyahu: Your Morning Briefing - The New York Times
+31,22,Benjamin Netanyahu Questioned in Israel Graft Inquiry - The New York Times
+40,2,Republican Party, Megyn Kelly, Titanic: Your Wednesday Briefing - The New York Times
+45,4,Israeli Soldier Who Shot Wounded Palestinian Assailant Is Convicted - The New York Times
+155,1,Donald Trump, Golden Globes, Jerusalem: Your Monday Briefing - The New York Times
+175,3,4 Die in Jerusalem Attack as Palestinian Rams Truck Into Soldiers - The New York Times
+561,11,Emboldened by Trump, Israel Approves a Wave of West Bank Settlement Expansion - The New York Times
+582,4,Mar-a-Lago Doubles Its Initiation Fee as Membership Interest Swells - The New York Times
+705,1,Refugees, Lunar New Year, Malaysia: Your Morning Briefing - The New York Times
+731,2,Israel’s Hard-Liners Want to ‘Go Big’: Annex a Settlement - The New York Times
+798,7,Trump Embraces Pillars of Obama’s Foreign Policy - The New York Times
+810,1,New England Patriots, Lady Gaga: Your Thursday Evening Briefing - The New York Times
+894,1,Lady Gaga, Marine Le Pen, Romania: Your Monday Briefing - The New York Times
+921,1,New England Patriots, Elizabeth II: Your Monday Evening Briefing - The New York Times
+922,2,Travel Ban, Queen Elizabeth, Netanyahu: Your Morning Briefing - The New York Times
+931,9,Israel Passes Provocative Law to Retroactively Legalize Settlements - The New York Times
+1003,8,Trump May Turn to Arab Allies for Help With Israeli-Palestinian Relations - The New York Times
+1007,1,Executive Orders, Kellyanne Conway: Your Thursday Evening Briefing - The New York Times
+1048,5,Trump Adopts a Harder Line on Israeli Settlements - The New York Times
+1063,1,Donald Trump, North Korea, Kashmir: Your Morning Briefing - The New York Times
+1064,1,Trump’s Cabinet, Refugee Ban, Grammys: Your Weekend Briefing - The New York Times
+1085,1,Justin Trudeau, Lahore, Adele: Your Morning Briefing - The New York Times
+1117,1,Michael Flynn, Kim Jong-un: Your Tuesday Evening Briefing - The New York Times
+1124,1,Trump’s Shift to ‘Outside-In’ Strategy for Mideast Peace Is a Long Shot - The New York Times
+1135,5,Palestinians Dismayed as U.S. Appears to Back Off Two-State Solution - The New York Times
+1136,4,Israeli Settlement Sees Friendly Faces in Trump Administration - The New York Times
+1137,14,For Kushner, Israel Policy May Be Shaped by the Personal - The New York Times
+1139,1,Flynn Was Brought Down by Illegal Leaks to News Media, Trump Says - The New York Times
+1143,1,Israel, Kim Jong-un, Andrew Puzder: Your Evening Briefing - The New York Times
+1162,1,Full Transcript and Video: Trump News Conference - The New York Times
+1166,7,Is 2-State Solution Dead? In Israel, a Debate Over What’s Next - The New York Times
+1173,1,Campaign Over, President Trump Will Hold a (What Else?) Campaign Rally - The New York Times
+1192,3,A Jewish Reporter Got to Ask Trump a Question. It Didn’t Go Well. - The New York Times
+1281,1,Australia, Libya, North Korea: Your Morning Briefing - The New York Times
+1299,1,Kim Jong-nam, Donald Tsang, Mexico: Your Morning Briefing - The New York Times
+1551,8,In Israel, Lauding and Lamenting the Era of Trump - The New York Times
+1646,1,Israeli Lawmakers Advance Bill to Curb Loudspeakers in Muslim Call to Prayer - The New York Times
+1685,3,Trump Ends Silence With Palestinians, Opening a Path - The New York Times
+1779,2,Prerequisite for Key White House Posts: Loyalty, Not Experience - The New York Times
+1838,1,Justin Trudeau Brings Ivanka Trump to Broadway Show on Welcoming Outsiders - The New York Times
+2210,4,Israel Says It Will Rein In ‘Footprint’ of West Bank Settlements - The New York Times
+2223,3,Meet the Obama Holdovers Who Survived Trump’s Sweep - The New York Times
+2349,1,Dozens of U.S. Missiles Hit Air Base in Syria - The New York Times
+2378,1,Syria Strike Puts U.S. Relationship With Russia at Risk - The New York Times
+2381,1,Trump’s Strike on Syria Has All Sides Asking: What Next? - The New York Times
+2575,3,Bus Bombing in Jerusalem Wounds 21 - The New York Times
+2775,12,Moshe Yaalon, Israeli Defense Minister, Resigns - The New York Times
+2805,2,Debate Over Role of ‘People’s Army’ in Israel Reflects Wider Fissures - The New York Times
+3022,6,Israel Approves Additional Funding for Settlements in West Bank - The New York Times
+3398,3,Donald Trump’s Appeal to Russia Shocks Foreign Policy Experts - The New York Times
+3942,1,Putin, Admired by Donald Trump, Emphasizes Strength as Virtue - The New York Times
+3986,2,Shimon Peres, Former Prime Minister of Israel, Suffers a Stroke - The New York Times
+4030,6,Obama, Keen to Push Israeli-Palestinian Peace, Will Meet With Netanyahu - The New York Times
+4190,1,For Mahmoud Abbas, a Gesture. For Critics, a Betrayal. - The New York Times
+4236,5,West Bank Settlers Prepare for Clash, With Israeli Government - The New York Times
+4495,1,Donald Trump’s Victory Promises to Upend the International Order - The New York Times
+4574,13,Israel’s Right, Cheering Donald Trump’s Win, Renews Calls to Abandon 2-State Solution - The New York Times
+4700,4,As Wildfires Rage, Israel Suggests Arson and Asks for Foreign Help - The New York Times
+4998,1,Israel’s Parliament Draws a Line on Short Hemlines - The New York Times
+5020,1,Benjamin Gilman, a New York Congressman for 30 Years, Dies at 94 - The New York Times
+5073,6,Trump Pressures Obama Over U.N. Resolution on Israeli Settlements - The New York Times
+5091,14,For Obama and Netanyahu, a Final Clash After Years of Conflict - The New York Times
+5125,2,George Michael, United Nations, Shinzo Abe: Your Tuesday Briefing - The New York Times
+5139,8,John Kerry, in a Final, Pointed Plea, Will Outline a Vision of Mideast Peace - The New York Times
+5154,10,Kerry Rebukes Israel, Calling Settlements a Threat to Peace - The New York Times
+5155,2,Kerry’s Blunt Words for Israel Denounced by Lawmakers in Both Parties - The New York Times
+5182,4,American Jews Divided Over Strain in U.S.-Israel Relations - The New York Times
+5183,4,In ‘Red’ and ‘Blue’ Israel, Separate Lives and Divergent Narratives - The New York Times
+5197,5,Criticizing Israel, Bernie Sanders Highlights Split Among Jewish Democrats - The New York Times
+5639,1,Donald Trump, Hillary Clinton, Zika Virus: Your Tuesday Briefing - The New York Times
+5823,22,As Trump vs. Clinton Captivates World, Netanyahu Is Unusually Silent - The New York Times
+5869,12,Russia, Already Reinserting Itself in Middle East, Enters Israeli-Palestinian Fray - The New York Times
+6030,9,United States Criticizes Israel Over West Bank Settlement Plan - The New York Times
+6082,1,Israeli President Hosts Quiet Meeting of Muslim and Jewish Leaders - The New York Times
+6159,1,Donald Trump’s Victory Is Met With Shock Across a Wide Political Divide - The New York Times
+6201,1,Firings and Discord Put Trump Transition Team in a State of Disarray - The New York Times
+6232,1,The In-Law in the Trump Inner Circle: Jared Kushner’s Steadying Hand - The New York Times
+6255,6,Jared Kushner, Cast as Potential Player on Israel, Is Little Known There - The New York Times
+6285,5,‘Trump Effect’ Is Already Shaping Events Around the World - The New York Times
+6422,3,David Friedman, Choice for Envoy to Israel, Is Hostile to Two-State Efforts - The New York Times
+6460,5,Rebuffing Israel, U.S. Allows Censure Over Settlements - The New York Times
+6468,15,Netanyahu Promises Retribution for ‘Biased’ U.N. Resolution - The New York Times
+6474,21,Israel Wonders How Long Netanyahu Can Back Settlements and Two-State Solution - The New York Times
+6477,6,A Defiant Israel Vows to Expand Its Settlements - The New York Times
+6498,1,Russia, Syria, Debbie Reynolds: Your Thursday Evening Briefing - The New York Times
+6546,1,For Hillary Clinton and John Kerry, Divergent Paths to Iran Nuclear Talks - The New York Times
+6654,8,Diplomatic Deal With Turkey Upsets Israelis Wary of Conceding Too Much - The New York Times
+6749,1,Fatah Makes Incendiary Facebook Claim of Killing 11,000 Israelis - The New York Times
+6926,1,Roy Moore, U.S. Presidential Race, ‘Deepwater Horizon’: Your Friday Evening Briefing - The New York Times
+7001,1,Across the World, Shock and Uncertainty at Trump’s Victory - The New York Times
+7005,1,Russian Officials Were in Contact With Trump Allies, Diplomat Says - The New York Times
+7147,1,Germany Seeks Tunisian Tied to Berlin Christmas Market Attack - The New York Times
+7158,21,U.S. Transition Puts Israeli Focus Back on Palestinians - The New York Times
+7172,1,Carrie Fisher, Trump, Israel: Your Wednesday Evening Briefing - The New York Times
+7417,6,Settlement Debate Flares Again in Israel’s Quarrel With Rights Group - The New York Times
+7502,1,A Charity Auction for Coffee With Ivanka Trump Appears to Be Canceled - The New York Times
+7522,20,In John Kerry’s Mideast Speech, a Clash of Policies and Personalities - The New York Times
+7525,3,Theresa May Scolds Kerry for Focus on Israel Settlements - The New York Times
+7694,3,The Two-State Solution: What It Is and Why It Hasn’t Happened - The New York Times
+7762,1,Donald Trump’s New York Times Interview in 12 Tweets - The New York Times
+7765,1,Israel Defense Forces Kill 4 ISIS-Linked Attackers in Golan Heights - The New York Times
+7916,2,Knesset Bill Proposes Annexing All Jerusalem-Area Settlements
+8095,2,Report: Iran Pushing Deal With Assad Regime To Build Naval Base In Syria
+8224,2,Jordan Blames Israel for ‘Ugly Crime’ of Killing Terrorist in Midst of Stabbing - Breitbart
+8445,1,Kellyanne Conway: General Flynn Enjoys the ’Full Confidence of the President’ - Breitbart
+8487,1,John Bolton: Left ‘Engaging in Collective Hysteria’ Because They Cannot Make ‘Substantive Arguments’ Against Trump Policies
+8572,1,Back with the People: Trump to Rally in Florida this Weekend - Breitbart
+8598,9,Israeli Envoys Meet Trump Officials To Negotiate Settlements
+8683,1,Sisi: Israeli-Palestinian Deal A Top Priority for Egypt
+8701,2,Donald Trump: ’Anti-Semitism is Horrible’
+8725,1,U.S. Envoy To UN Haley Witness To Spat Between IDF and UN Officials
+8727,3,Netanyahu Slams NYT for Presenting Arch-Terrorist Marwan Barghouti as ‘Parliamentarian’
+8762,1,Pamela Geller: Universities Normalizing Anti-Semitic Voices like Linda Sarsour but Silencing Jewish Conservatives
+8763,6,Netanyahu On Purim: Like Ancient Persia, Modern Iran Will Fail To Destroy Jews - Breitbart
+8796,1,Islamic State Claims Responsibility for London Bridge Terror Attack, Seven Fatalities, Multiple Injuries - Breitbart
+8846,5,Sarah Netanyahu Tells Melania Trump of Common Bond: ‘Media Hate Us but the People Love Us’
+8858,1,Nikki Haley Blasts U.N. Human Rights Council Before Visit: ’A Haven for Dictators’
+8982,1,Palestinian Factions Demand ‘Day of Rage’ During Trump Trip to Israel
+9025,1,Top Five Media-Generated Non-Stories from Trump’s Foreign Trip - Breitbart
+9253,4,Elliott Abrams: Trump, Netanyahu ’Reset’ U.S.-Israel Relations
+9352,2,Exclusive — Taylor Force Family’s Attorneys: Cut U.S. Funding to Palestinian Terrorists, Suicide Bombers’ Families Now - Breitbart
+9422,1,John Bolton: Moving U.S. Embassy to Jerusalem as Simple as Moving the Sign from One Building to Another
+9435,1,Palestinian Authority Media Likens Trump to Hamas
+9447,1,Gorka: Leaks from Obama Loyalists ‘Dangerous Politicization of Intelligence’
+9479,1,Muslim Reform Leader Asra Nomani: Donald Trump’s Overseas Trip Has Been ’Genius’ So Far
+9511,9,Trump Arrives in Israel for Presidential Trip to Holy Land
+9525,2,FAKE NEWS: Media Attempts to Malign Melania and Her Marriage on Trip Abroad - Breitbart
+9620,1,Pence Speaks of ’Unbreakable’ Bond Between America and Israel at AIPAC
+9623,1,Truck Terror Attack in Jerusalem Follows Mounting International Pressure on Israel
+9661,2,John Kerry, 72 Countries Set to Gang Up On Israel At Paris ‘Peace’ Summit on Sunday
+9706,3,WATCH: Netanyahu in Singapore Calls for ’World of Tolerance’
+9746,3,Trump: Netanyahu, Abbas Vowed To ’Reach For Peace’ - And I Believe Them
+9941,8,Restored: 5 Ways Trump, Netanyahu Improved U.S.-Israel Relations
+9998,3,Netanyahu: U.S.-Israel Alliance is ’About to Get Stronger’
+10093,3,Trump Tells Reporters: ‘Walls Work - Just Ask Israel’ - Breitbart
+10142,1,Trump: ’Our Partners Must Show That They’re Partners’ and ’Must Contribute Financially’ - Breitbart
+10251,1,Grieving Families Of Victims Of Jailed Palestinian Terrorist Leader Slam NYT For Publishing Oped
+10349,2,Trump on Israel: There’s a ’Big Beautiful Difference’ Between My Administration and Obama’s
+10366,1,Five Anti-Israel Offenses In Paris ‘Peace’ Summit Final Declaration - Breitbart
+10431,1,Jerusalem Truck Terrorist’s Sister: We’re Thankful To Allah For His ’Saintly’ Death
+10465,2,Report: U.S., Russia Said Agree To Assist Israel In Expelling Iran From Syria
+10835,1,Trump’s Inauguration Rabbi: President Likely to Affirm His Stance on Jerusalem During Next Week’s Visit
+10863,1,PICTURES – Trump Visits Western Wall, Church of the Holy Sepulcher in Jerusalem - Breitbart
+10952,1,KLEIN - Iran Is the Wild Card Following U.S. Air Strikes In Syria
+11066,4,PHOTOS: President Trump Welcome Ceremony At Tel Aviv Airport
+11098,1,Netanyahu’s Office Denies Report It Was Informed Trump Would Not Move U.S. Embassy to Jerusalem
+11109,2,Donald Trump Rips Media for ’Wrong’ Russia Meeting Report: ’Never Mentioned the Word Israel’
+11231,1,Israeli Minister Publicly Meets Gulf Officials, Credits Trump Visit as Game Changer
+11475,1,John Bolton: I’m Concerned That U.S. Is Pushing Back on Israeli Settlements, Delaying Jerusalem Embassy Move
+11500,3,Jewish Leader Close To Trump Says President Has Persuaded Abbas To Make Concessions to Israel
+11515,3,Netanyahu: Trump Visit Will ‘Strengthen Our Great Alliance’
+11569,1,Trump: ’We Must Realize the Full Potential of Women in Our Economy’ - Breitbart
+11641,1,WATCH: NY Governor Cuomo At Yad Vashem: Antisemitic Acts ’Disgustiing’
+11651,2,WATCH: Netanyahu Thanks House For Condemning UN Resolution
+11711,1,Report: Probe of Netanyahu Focuses on Cigars, Champagne from Hollywood Producer
+11715,3,Netanyahu: We Must Retain West Bank to ’Assure Our Existence’
+11830,3,Five Things to Watch for During Trump’s Israel Trip
+11891,1,Trump Vows to Catch ‘Low Life Leakers’ in Washington D.C.
+11932,1,John Bolton: Trump Admin Put Iran ‘On Notice’ for First Time in Eight Years
+11947,1,MILO and Pamela Geller Protest Sharia-Advocate Linda Sarsour in NYC - Breitbart
+11965,1,Israel Greenlights 3000 More West Bank Jewish Homes
+12067,1,Frank Luntz: Obama on a ’FU Tour,’ Trying to ’Settle Scores’ With Republicans - Breitbart
+12074,2,Netanyahu: ’Repeal or Replace’ Iran Deal - Breitbart
+12177,3,Netanyahu Wraps Up ’Wonderful’ Visit to Australia
+12190,4,Netanyahu at White House: ‘There Is No Bigger Supporter of Israel Than Trump’
+12363,1,Israeli Ambassador Ron Dermer at AIPAC: For First Time in Years ’No Daylight’ between U.S and Israel
+12516,2,EXCLUSIVE AUDIO - Jackie Mason: Trump ‘More Jewish Than Me’
+12582,3,Iran Parliament Speaker Lectures Netanyahu on Purim Story: ’Read The Torah’ - Breitbart
+12669,1,Full Text: Donald Trump’s Speech in Saudi Arabia - Breitbart
+12684,3,Israel Opposition Leader: Trump Brings ’Aura of Optimism’ to Region - Breitbart
+12785,1,Four killed, 10 Injured in Jerusalem Truck-Ramming Terror Attack
+12808,1,Trump: ’Natural Talent’ Kushner Will ’Broker Mideast Peace’
+12851,1,Trump: Flynn Treated ’Very Unfair’ by ’Fake Media,’ Illegal Leaks - Breitbart
+12853,4,Netanyahu Meets African Leaders to Expand Israel Ties
+12905,2,Israel to Make Rare Overture to Palestinians ’at Trump Request’ - Breitbart
+12943,1,Firebrand Israeli Politician Endorses Marine Le Pen
+13033,1,John Bolton: ‘Politically Motivated’ Leaks Are ‘Partisan Tools’ to Destroy the Trump Presidency
+13315,1,Rep. Ron DeSantis: I Believe Trump Will Move U.S. Embassy to Jerusalem Before June
+13423,1,When Fake News Hurts: Media Hype Fears of Antisemitism
+13546,1,Trump Flight from Saudi to Israel Thought to Be First Ever
+13601,1,Christian Zionist Group Publishes Policy Paper Urging Trump To Relocate Embassy To Jerusalem
+13639,1,Netanyahu: ‘All Signs’ Indicate Jerusalem Truck Terrorist was ‘Backer of Islamic State’
+13656,1,White House, Netanyahu’s Office Deny Reports of Trump Backtrack on Embassy Move
+13714,4,Israeli Leaders Hail ’New Era’ of Donald Trump - Breitbart
+13785,1,World Leaders Condemn Manchester Terror Attack - Breitbart
+13855,1,Iran FM Warns U.S., Saudi Arabia, Israel: ’We Will Defend Ourselves’
+13896,1,Gorka: Left Cares About Alinsky Tactics and Political ‘Triangulation’ More Than Safety of Americans - Breitbart
+13903,5,WATCH: Netanyahu To Trump: Israel Appreciates ’Reassertion Of American Leadership In Middle East’
+13997,1,UN Ambassador Nikki Haley Rips Security Council’s ’Breathtaking’ Anti-Israel Bias - Breitbart
+14066,2,Netanyahu Hails Trump’s ’Strong Stand’ Against Anti-Semitism
+14294,2,Gorka: Trump’s Riyadh Speech Was ‘Kryptonite to Neo-Conservatism’ and Obama’s ‘Alice in Wonderland’ Policies
+14630,1,Lieberman To Mattis: Three Main Problems Are Iran, Iran, Iran
+14631,1,Bernie Sanders Says ’Entire World is Watching’ Trump and Bannon Response to Anti-Semitism - Breitbart
+14674,3,’Peace, Love and Gold’ Menu Revealed for Netanyahu’s Private Dinner with Trump
+14733,2,Netanyahu’s Office ’Disappointed’ At Trump Embassy Waiver, ’Will Strengthen Palestinian Fantasy’
+14784,3,Trump Promises Israel That Iran Will Never Get Bomb
+14868,1,EXCLUSIVE: Watch - Israeli Envoy Dani Dayan: Campaign to Silence Pro-Israel Voices on U.S. Campuses a ‘Real War’
+15047,1,Five Delicate Problems Trump Trusts Jared Kushner to Solve - Breitbart
+15053,2,World Leaders Praise U.S. Strike on Syria, ‘Proportionate, Appropriate’
+15065,6,Netanyahu: I Hope One Day An Israeli PM Can Fly To Saudi Arabia
+15112,2,Netanyahu Backs Trump’s Wall as A ‘Great Idea’ - Breitbart
+15299,1,The Truth Behind Media’s New Favorite Euphemism: ‘Muslim-Majority Countries’ - Breitbart
+15576,1,Code Pink Disrupts Donald Trump RNC Speech After Warning Breitbart They Would - Breitbart
+15606,2,CNN: Obama Fired a ’Parting Shot’ Towards Israel and Netanyahu - Breitbart
+15616,4,Israel Urges Jews to Leave France Following Critical UN Vote
+15783,2,Netanyahu: ’I Must Express My Deep Disappointment’ With Kerry - ‘Israelis Do Not Need To Be Lectured’ - Breitbart
+15819,1,Obama Joins Israel Boycott, Labels West Bank Goods
+15973,1,Marco Rubio Slams NSA Spying on Israel
+16024,2,10 Ways the CIA ’Russian Hacking’ Story is Left-Wing ’Fake News’
+16027,7,Report: Obama to Bid for U.N. Secretary-General
+16234,5,Live Updates - Terror in Orlando: Approximately 50+ dead, 50+ More Wounded at Gay Nightclub - Breitbart
+16263,2,Tim Kaine Boycotted Netanyahu Speech, Backed Iran Deal - Breitbart
+16458,1,Rabbi Uses National Menorah Lighting to Rebuke UN, Obama
+16587,1,Obama Administration Allows Anti-Israel UN Resolution Against Settlements to Pass - Breitbart
+16642,2,REPORT: Germany Rethinking its ’Unconditional Support’ for Israel - Breitbart
+16646,7,Melania Trump To Sara Netanyahu: Relations Between Our Two Countries, Families Will Be Wonderful
+16787,1,Paper: Hillary Plans to Attack Sanders on Israel
+16817,1,Israeli West Bank Leader Publishes Open Letter Supporting Bannon
+16821,7,Netanyahu Praises Bronze Medal Judoka For Showing ’Beautiful, Strong’ Israel
+17057,1,Cruz Pitch To Republican Jewish Coalition: Trump’s Nomination ‘A Bloodbath Of Walter Mondale Proportions’ - Breitbart
+17123,1,Muslim Ambassadors Receive Gift Menorahs At Hanukkah Party
+17137,3,Netanyahu: Trump Support for Israel ’Very Clear,’ He ’Feels Very Warmly’ About Jewish State, People - Breitbart
+17442,3,Report: Electors Will Not Receive Intelligence Briefing on Russia Prior to Vote - Breitbart
+17526,13,UPDATE: Netanyahu Denies Reports of Assassination Attempt in Kenya
+17566,2,Tens Of Thousands Flee Raging Israeli Bushfires - Breitbart
+17716,1,Rabbi Turns Ali Service Into Political Pep Rally, Denounces ’Racist Police,’ Says ’1 Percent’ Must ’Share Their Wealth’ - Breitbart
+17819,1,Obama and Hillary Let Iran Take Israel and the Jews Hostage
+17981,2,Palestinians Condemn Trump Vow on Jerusalem as Israel’s Capital
+18048,2,Sen. Tom Cotton: Obama Set up Israel with Anti-Settlement UN Resolution He Lacked Courage to Support or Veto - Breitbart
+18318,1,Four Killed, More Wounded in Shooting Attack in Central Tel Aviv - Breitbart
+18326,1,Report: Donald Trump to Pick Mike Huckabee as Ambassador to Israel - Breitbart
+18369,1,ANALYSIS: Hezbollah Doesn’t Want Border War, But Likely to React Following Top Terror Commander’s Death
+18675,1,Rep. Jim McDermott on Israeli Government, Trump: ’They’re Running Their Own War Against Us and Our Policies’
+18709,2,Obama Gives Parting Middle Finger to Israel with Anti-Settlement Resolution - Breitbart
+18976,2,Senior Israeli Official: Obama, Netanyahu Hold ’Light-Hearted’ Meeting, Avoid Palestinian ’Elephant In The Room’
+19018,2,Netanyahu: Israel Investigating Whether Istanbul Attack Was Aimed at Israelis - Breitbart
+19023,6,Trump Invites Netanyahu To White House ’At First Opportunity’
+19050,1,The Democrats Are Officially the Anti-Israel Party - Breitbart
+19129,3,Abbas’ Fatah: Netanyahu Is A Baby Killer
+19202,6,Porn Icon Jenna Jameson Admits to ‘Massive Crush’ on Netanyahu
+19274,1,FULL TEXT: Milo’s Annie Taylor Award Acceptance Speech At David Horowitz’s Restoration Weekend - Breitbart
+19310,6,King: UN Anti-Israel Move Obama’s ’Final Shot’ at Netanyahu For Opposing Iran Deal - Breitbart
+19405,2,Gay Israeli Lawmaker Leads Fight for Gun Rights: ’Anyone Who Rises to Kill You - Kill Him First’ - Breitbart
+19439,2,Hillary Clinton Has Not Done One Thing for Israel - Breitbart
+19598,8,Israel’s Netanyahu Declines Offer to Meet With Obama: White House - Breitbart
+19614,1,Donald Trump Invite Roils Pro-Israel AIPAC Conference
+19961,6,EXCLUSIVE - Palestinian Terrorists Vent to Breitbart Jerusalem Over Trump’s AIPAC Speech - Breitbart
+20019,1,IOC to Probe Egyptian Judoka’s Refusal to Shake Israeli’s Hand
+20176,3,Israeli Minister: ’Obama Is History, We Have Trump’ - Breitbart
+20329,1,READ: Netanyahu’s Chanukah Speech Blasts Obama, Salutes Soldiers
+20379,1,France Aims To Relaunch Israel-Palestinian Peace Process ’By Summer’
+20464,2,Netanyahu: ’Evidence Of Arson’ In Wildfires Sweeping Israel - Breitbart
+20506,1,Walls Around The World That Work: Britain Is The Latest Country Bolstering Its Borders
+20589,1,Media, Palestinian Authority Misleading About Palestinian Teen Mistakenly Killed In ’Stone Throwing’ Incident - Breitbart
+20628,1,Hillary Iran Deal Support Disqualifies Her as Commander-in-Chief
+20908,1,Obama’s SOTU: The Transformative President Triumphant - Breitbart
+20995,1,WATCH: Mike Huckabee In ’Seething Rage’ Over Obama’s ’Cowardly’ UN Anti-Israel Move - Breitbart
+21087,1,Heilemann: ’All Sides’ Will Turn Obama Into a ’Piñata’ If Israel Spying Report True - Breitbart
+21097,1,Report: Israel Welcomes Trump’s Security Picks
+21443,2,Iran’s ’Military-Religious Amusement Park’ Lets Kids Practice Attacks on Israel
+21675,2,Clinton Emails Reveal Thoughts On Israel
+21778,1,Elie Wiesel, Holocaust Survivor and Nobel Laureate, Dies at 87
+21912,2,Ted Cruz: ’No $ for UN’ Until Anti-Israel Resolution Reversed
+22012,1,A Defiant Chanukah After Obama’s UN Betrayal - Breitbart
+22106,1,EXCLUSIVE: Hamas Evacuates Gaza Offices, Deploys Militants Following Jerusalem Bombing
+22164,5,Netanyahu: UN Silent About Jews Being Massacred, Expelled from West Bank, Eastern Jerusalem - Breitbart
+22429,2,Netanyahu: Obama ’Failed to Protect Israel Against This Gang-Up at the UN’ - Breitbart
+22476,1,Second Hamas Terror Tunnel Possibly Detected by Private Firm
+22548,1,Breitbart’s Aaron Klein: Stabbings Are ‘The New Normal’ in Israel - Breitbart
+22617,2,More Christian Zionists than Muslims in U.S. - Breitbart
+22766,1,Israel Almost Never Benefits from Compromise - Breitbart
+22767,1,EXCLUSIVE – Bolton: U.S. Should Nix Nuclear Accord With Iran - Breitbart
+22810,2,’Forward’ Newspaper Attempts to Save Smear of Steve Bannon: He Loves Israel, But...
+22949,1,Donald Trump Broadens Base of support, As Hillary Clinton Courts Extremists - Breitbart
+22979,1,Israeli Officials: Obama Showed His ’True Face’ By Allowing Anti-Settlement UN Resolution - Breitbart
+23044,2,Inside The Terror Fires Raging Across Israel - Breitbart
+23175,1,Transcript Shows US Worked with Palestinians on Anti-Israel UN Resolution, Egyptian Paper Claims - Breitbart
+23498,1,Hillary Clinton: Hearing Peres Talk ‘Like Listening to a Psalm’
+23867,3,White House Blames Netanyahu for Anti-Israel UN Resolution - Breitbart
+23944,3,John Bolton: Obama Administration Denying Jerusalem Is in Israel Was ‘Thumb in the Eye to Bibi Netanyahu’ - Breitbart
+23979,1,Netanyahu Eulogizes Nancy Reagan - ’A Great Friend of Israel’ - Breitbart
+23985,1,Israel, Hamas And Egypt In Unlikely Alliance Against IS Affiliate
+24306,1,Eight Anti-Israel Outrages Inside the UN Draft Resolution on Settlements   - Breitbart
+24393,9,Hillary Clinton’s Private Emails About Israel - Breitbart
+24516,1,If You Love Israel, Trump is the Only Possible Choice - Breitbart
+24761,7,Israel Rejects Report Claiming Germany Frustrated With Israel
+24828,3,Netanyahu Backs Bill to Limit Noise From Mosques - Breitbart
+24891,6,Trump’s Five Most Important Declarations At AIPAC Speech - Breitbart
+25008,2,Explosions Hit Brussels Airport, One Killed - Belgian Media
+25191,5,Netanyahu Goes Full Trump: Surround Israel With Barrier To ’To Defend Ourselves Against Wild Beasts’
+25250,1,Israeli Leader: Iran Mocks WWII Holocaust, Prepares Another
+25330,5,Obama Administration Denies ’Leaked Transcripts’ Claim It Helped Palestinians Orchestrate Anti-Israel UN Resolution
+25403,1,Buzzfeed, Guardian, Independent: How A Fifth Column Is Using Dead Syrians And Left Wing News Outlets For Islamist Propaganda - Breitbart
+25537,1,Pamela Geller: As a Jew, I Stand with Steve Bannon - Breitbart
+25572,1,Ted Cruz at AIPAC: Iran Deal Is Like Munich in 1938, Arming Israel’s Enemy - Breitbart
+25635,1,Five Major Foreign Policy Reveals from the Wikileaks Clinton Email Dump - Breitbart
+26080,1,Trump Demands Obama Veto UN Resolution on Israeli Settlements
+26198,1,CNN Fails To Mention Jerusalem Bus Bomb Was Terror Attack
+26248,3,Sara Netanyahu Questioned for Five Hours on Suspicions of Corruption
+26451,1,***Horse Race LiveWire*** Brooklyn Brawlers: Sanders, Clinton Square Off in NY Debate - Breitbart
+26882,2,Krauthammer: Trump Biggest Winner of 2015, Netanyahu the Biggest Loser - Breitbart
+27146,2,Sanders’s Jewish Outreach Coordinator in ‘F-ck You Bibi’ Tirade
+27287,2,Netanyahu Slams John Kerry For ‘Biased Speech Against Israel’ - Breitbart
+27296,3,Hey John Kerry: Here’s Why Israel Must Never Give Up Golan Heights
+27297,1,21 Injured in Jerusalem Bus Terror Bombing - Breitbart
+27327,1,Report: Obama Administration Funded Campaign to Topple Netanyahu
+27708,5,Vice Presidential Debate Fact-Check Livewire
+27738,8,Netanyahu: Obama May Have More Anti-Israel Surprises Up His Sleeve - Breitbart
+27758,1,Trump on UN Israel Vote: ’Things Will Be Different After Jan. 20’
+27788,2,Two Americans Dead in Istanbul Suicide Bombing Killing At Least Five - Breitbart
+27895,1,EXCLUSIVE - Code Pink Founder: We’ll Try To Infiltrate, Disrupt RNC - Breitbart
+27969,6,Prime Minister Benjamin Netanyahu: United Nations A ‘Moral Farce’ - Breitbart
+27974,1,John Kerry to Deliver Major Address on Israel on Wednesday
+28019,1,Arab Nations: Iran’s Sponsorship Of Terrorism Has Only Worsened Since Nuclear Deal - Breitbart
+28117,1,ADL Chief Who Smeared Steve Bannon Directed Project at Soros-Funded Institute - Breitbart
+28315,18,Netanyahu Echoes Trump on Arab Population Following Tel Aviv Attacks
+28380,2,Donald Trump, Israeli Prime Minister Netanyahu Talk Border Fence - Breitbart
+28396,1,**Live Wire** Jihad in Orlando: Milo Yiannopoulos at Ground Zero - Breitbart
+28502,3,Kerry Attacks Israeli Government, Defends UN Resolution
+28659,1,2016 Election: World Reacts to Donald Trump’s Stunning Upset Victory - Breitbart
+28758,6,Netanyahu Complicit in Assassination of Israeli PM Yitzhak Rabin, Claims Ex-U.S. Official Who Advised Sanders
+28912,1,Bernie Sanders Seems Hell Bent on Losing the New York Democratic Primary - Breitbart
+28942,2,Israel to Sell Iron Dome Technology to Azerbaijan
+28985,3,The Self-Implosion of Debbie Wasserman Schultz - Breitbart
+29199,1,Dershowitz: Sanders Is Dangerous Ignoramus, Picking ’Professional Israel-Hater’ For Democratic Platform
+29208,1,Page Six: 20 Guards Required to Secure Netanyahu Bathroom Trip at NYC Restaurant
+29447,2,***Horse Race LiveWire*** Trump Reveals Foreign Policy Team - Breitbart
+29845,1,Five Outrages in Bernie Sanders’s Undelivered AIPAC Speech Text
+29919,6,Ted Cruz in NY Recalls Obama’s Netanyahu Boycott, Tells Jihadists ‘We Are Coming to Kill You’ - Breitbart
+29958,2,Guardian: Israeli Self-defense Measures Are ’Deadly Retaliations’
+30225,1,The Campaign to Toxify Donald Trump Among Jews
+30290,10,Netanyahu Slams Hollande For Backing ‘Shameful’ UNESCO Resolution
+30383,6,Syrian Minister Threatens ’Resistance’ to Capture Golan Heights
+30507,3,Israeli Minister: Obama ’Naive and Messianic’ Toward Jewish State
+30672,1,Military Aid to Israel Will Increase Under a Trump Administration, Says Advisor - Breitbart
+30872,6,Israel Investigating IDF Soldier Shooting Terrorist
+31073,2,Netanyahu Lights Menorah in ’Illegal’ Jewish Quarter of Jerusalem
+31373,1,***Horse Race LiveWire*** GOP Debate Tonight! - Breitbart
+31425,4,Netanyahu Summons US Ambassador Over Anti-Israel UN Resolution - Breitbart
+31604,1,Putin congratulates Trump in New Year statement
+31638,12,Netanyahu questioned in corruption probe
+31655,2,Israeli soldier convicted of manslaughter
+31682,1,CNN 10 - January 5, 2017
+31717,1,CNN 10 - January 6, 2017
+31780,5,Jerusalem truck attack suspect may have supported ISIS, Netanyahu says
+31953,3,Netanyahu: Paris peace conference is ’useless’
+32020,1,Israeli police video shows officer killed in suspected ramming
+32041,3,How the world sees a Trump presidency
+32059,2,The world reacts as Donald Trump takes power
+32114,7,US committed to Israel embassy move but expected to act cautiously
+32199,2,Palestinian hopes of blocking settlements dim
+32381,1,Donald Trump’s undiplomatic diplomacy
+32398,10,WH: New or expanded settlements ’may not be helpful in achieving’ peace
+32433,3,How Iran-US relations plummeted in a week
+32662,1,Trump defends travel ban as Trudeau looks on
+32683,10,Netanyahu, Trump push reset of US-Israel relationship
+32689,4,CNN 10 - February 16, 2017
+32692,3,Melania Trump debuts as White House hostess alongside Netanyahus
+32711,2,Trump tells Jewish magazine’s reporter to ’sit down’
+32714,1,White House considering outsider to review intelligence agencies
+32721,1,Full transcript: President Donald Trump’s news conference
+32772,20,Benjamin Netanyahu Fast Facts
+32777,1,Trump interviews candidates to fill national security slot
+32809,1,CNN 10 - February 21, 2017
+32841,1,Anne Frank Center: Anti-Semitism has ’infected’ Trump administration
+32885,1,Who, exactly, is running US foreign policy?
+33136,1,Congressman tours possible embassy sites in Jerusalem
+33495,9,US, Israel move closer to agreement to curb settlements
+33531,32,Netanyahu’s honeymoon with Trump ends abruptly
+33629,3,Israel approves first new settlement in more than 20 years
+33725,1,Trump’s Secretary of Everything: Jared Kushner
+33739,1,Suspected gas attack in Syria reportedly kills dozens
+34100,2,Trump wings it without chief of protocol
+34267,1,Melania Trump finds her way in her first 100 days
+34304,2,How the world sees Trump, 100 days in
+34356,1,Hamas presents new policy document
+34399,1,CNN 10 - May 4, 2017
+34468,1,Trump’s tour to the seats of three religions
+34745,1,Donald Trump’s risky religious pilgrimage
+34748,3,Israelis on edge before Trump visit
+34829,7,Trump lands in Israel: What to watch
+34842,3,Israel: Netanyahu says all government ministers must attend Trump’s arrival
+34859,2,In first foreign swing, Trump works to reposition US allies
+34860,9,Trump sets sight on the big deal: Mideast peace
+34870,3,First lady’s hand swat a viral sensation
+34874,1,CNN 10 - May 23, 2017
+34926,1,US-UK intel sharing back on after Trump vows to plug leaks
+34939,1,Spicer’s absence in papal visit reveals Trump’s family-first rule
+34941,1,What signal is Melania sending?
+34974,2,President Trump passes his first test on the world stage
+34984,1,Trump, feted and chided abroad, returns to uncertainty
+35037,1,How Trump can change the subject
+35387,1,What the Qatar crisis means for Hamas
+35422,1,Syrian artist depicts Trump and other leaders as refugees
+35537,2,Kushner heads to Jerusalem and Ramallah to talk peace
+35783,11,Low expectations for Kerry-Netanyahu meeting
+35810,3,Clinton’s Israel views win out in DNC platform, for now
+35941,2,Israeli-American girl, 13, fatally stabbed in West Bank home
+35987,2,Elie Wiesel, Nobel laureate, dead at 87
+35993,1,Brexit: Boris Johnson says he will not run as leader
+36639,1,Barack Obama Fast Facts
+36644,1,Shimon Peres Fast Facts
+37065,1,Egyptian sent home for refusing to shake Israeli’s hand?
+37566,2,Rash of snubs complicates US diplomacy
+37582,2,Soviet papers: Palestinian President was a KGB agent
+37629,2,Israel targets Syrian artillery after projectile lands in Golan Heights
+37717,1,Shimon Peres shows improvement after stroke, doctors say
+37920,6,Netanyahu to meet with Clinton, Trump on Sunday
+37982,1,Team Trump: We didn’t invite Gennifer Flowers
+38038,1,Ehud Olmert Fast Facts
+38203,2,Reality Check Quick Takes: Pence misstates Trump position on Putin
+38946,2,Israel wildfires scorch more land, 60,000 evacuated in Haifa
+38973,4,Israel wildfires: Haifa residents allowed home
+39001,2,Israeli police detain 23 in string of wildfires
+39302,1,Turkey drops case against Israelis over deadly flotilla raid
+39492,3,Why Trump’s Israel ambassador could upend Middle East ties
+39576,2,Aleppo evacuations resume after brief delay
+39577,6,Israelis called Trump to weigh in ahead of UN Security Council vote
+39606,3,US abstains as UN demands end to Israeli settlements
+39610,2,WH denies UN resolution was swipe at Netanyahu
+39611,9,What the UN vote says about how Trump will treat Israel
+39628,2,Graham: Defund UN after Israeli settlement vote
+39655,12,Israeli official: Proof of US role in UN vote to be given to Trump
+39671,7,Israel curbs working ties with nations that voted for UN resolution
+39679,1,Opinion: Obama administration was hypocritical on UN’s Israeli settlements vote
+39680,2,Israel says there’s proof Obama pushed UN vote
+39682,14,Kerry: Two-state solution in ’serious jeopardy’
+39686,7,What the UNSC resolution means for the US and Israel
+39718,6,Israel backs away from Jerusalem settlement vote
+39728,1,What did Kerry’s parting shot on Middle East mean?
+39749,6,Israel risks sliding toward apartheid
+39825,2,Charlie Hebdo attack: Three terrorists killed in raids
+39826,1,Charlie Hebdo attack: What we know and don’t know
+39854,3,Charlie Hebdo attack: Terror cells activated in France
+39858,3,Recording: Paris gunman had dialogue with hostages
+39870,2,Obama, Kerry absent from unity rally in Paris
+39871,3,At least 3.7 million rally against terrorism in France
+39875,1,’Je suis Charlie,’ at least for now
+39884,1,History moment awaits Palestine at Asian Cup
+39892,2,White House: ’Higher profile’ person should have gone to Paris
+39894,2,Jake Tapper: Where were U.S. leaders in Paris march?
+39896,1,Get up to speed on the French terror attacks
+40046,1,Palestinian man stabs Tel Aviv bus driver, passengers
+40069,10,Netanyahu coming to Congress next month
+40105,5,What’s happening in the Middle East and why it matters
+40112,18,Netanyahu snub takes relations to a new low
+40157,1,Obama’s ANWR move triggers fight with Alaska Republicans
+40226,1,How ISIS’ new hostage strategy is pressuring leaders
+40268,1,Why Obama won’t call terror fight a war on radical Islam
+40459,9,Herzog ’calling Netanyahu’s bluff’ on security
+40495,2,CPAC liveblog: Republicans unite against Hillary
+40530,27,6 questions about Netanyahu’s visit
+40610,1,Republicans warn Iran, and White House
+40626,1,Iran letter: Did 47 Republican senators break the law?
+40701,19,5 key issues for next Israeli prime minister
+40743,3,Obama redefines the lame duck presidency
+40748,17,Israel election: Exit polls show near dead heat
+40769,35,U.S. could abandon Israel at the U.N.
+40789,19,Netanyahu walks back Palestinian state comment
+40811,5,GOP seizes on Obama-Netanyahu rift
+40829,2,Opinion: Leave U.S. troops in Afghanistan beyond 2016
+40840,6,Rep. King: U.S. Jews are Democrats first, Jewish second
+40846,4,McCain: Obama’s Israel priorities ’screwed up’
+40848,1,CIA head: U.S. could handle Iran nuclear inspections
+40863,8,Israel denies it spied on U.S. in Iran nuclear talks
+40898,1,Capitol Police Board says no more drunken Fourth of July parties
+40975,3,Talks intensify on Iran’s nuclear future
+40980,1,Threat of ground incursion looms over Yemen
+40986,1,Airstrike on Yemen refugee camp could portend incursion
+40994,2,Iran nuclear framework talks to continue past deadline
+41006,2,Progress, but no deal yet on Iran nuclear talks
+41034,5,Iran nuclear deal framework announced
+41057,2,Obama ties his fate to Iran nuclear deal
+41110,3,Obama: I’m ’absolutely committed’ to Israel’s security
+41195,1,Senate nears veto-proof tally on Iran bill
+41429,2,First on CNN: Jeb Bush distances himself from Baker
+41542,5,Ethiopian-Israeli soldier describes beating by police
+41728,1,Is Saudi Arabia seeking nuclear weapons from Pakistan?
+41775,1,The viral presidency: Obama’s best unscripted moments
+42162,1,Time to be honest about Israel’s capital (Opinion)
+42490,2,Israeli politician’s wife apologizes for Obama ’joke’
+42847,1,Iran’s Supreme Leader vows no change in U.S. relations
+43041,2,6 stabbed at Jerusalem gay pride parade, police say
+43182,1,How Putin engineered Russia’s return to superpower status
+43374,1,A bill has already been introduced in Congress to remove the US from the United Nations
+43465,17,Israel’s prime minister is facing a sharp backlash after getting involved in Trump’s border-wall debate
+43507,1,Trump reportedly warns Israel to stop announcing settlements that ’undermine’ his efforts toward peace
+43811,1,Pennsylvania AG: Trump called wave of anti-Semitic attacks ’reprehensible,’ but says they’re sometimes done in ’the reverse’
+44863,1,’We are not here to lecture’: Trump calls on Middle Eastern leaders to ’drive out’ the ’crisis of Islamic extremism’
+44955,1,’Melania needs to get with the program’: Ian Bremmer explains the biggest takeaways from Trump’s first foreign trip
+46266,1,Donald Trump just gave a major speech aiming to silence his foreign-policy critics
+47581,1,UN officials say the best chance at a 2 state solution in Israel is slipping away
+48646,3,Donald Trump: I will ’recognize Jerusalem as the undivided capital of the State of Israel’
+49707,1,Trump’s ambassador pick could drastically alter 2 of the thorniest issues in the US-Israel relationship
+49775,2,The UN just put Israel on notice — and the US let it happen
+49776,4,The ’grudge match’ between Obama and Israel ’finally reached its peak’
+49779,1,TRUMP ON UN VOTE: Things will be different when I’m in charge
+49814,1,Israel has reportedly suspended ties with 12 UN Security Council nations
+49829,2,Obama: Reaching Out to Adversaries, Alienating Allies

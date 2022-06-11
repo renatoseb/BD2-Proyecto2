@@ -1,0 +1,763 @@
+43,5,Trump Appears to Side With Assange Over Intelligence Agencies’ Conclusions - The New York Times
+71,1,Cyberwar for Sale - The New York Times
+87,2,Countering Trump, Bipartisan Voices Strongly Affirm Findings on Russian Hacking - The New York Times
+89,16,The Perfect Weapon: How Russian Cyberpower Invaded the U.S. - The New York Times
+93,1,Trump Takes on Democrats and Health Law in New Twitter Blitz - The New York Times
+109,2,Putin Led a Complex Cyberattack Scheme to Aid Trump, Report Finds - The New York Times
+156,18,In Election Hacking, Julian Assange’s Years-Old Vision Becomes Reality - The New York Times
+158,1,Russian Hackers Find Ready Bullhorns in the Media - The New York Times
+206,2,Is Edward Snowden a Spy? A New Book Calls Him One. - The New York Times
+272,1,Comey Letter on Clinton Email Is Subject of Justice Dept. Inquiry - The New York Times
+279,1,As Trump Berates News Media, a New Strategy Is Needed to Cover Him - The New York Times
+303,1,Donald Trump, Chicago Police: Your Friday Evening Briefing - The New York Times
+378,3,Chelsea Manning to Be Released Early as Obama Commutes Sentence - The New York Times
+379,4,Chelsea Manning Describes Bleak Life in a Men’s Prison - The New York Times
+396,1,Brexit, Chelsea Manning: Your Tuesday Evening Briefing - The New York Times
+397,1,Brexit, Donald Trump, Chelsea Manning: Your Morning Briefing - The New York Times
+502,1,With False Claims, Trump Attacks Media on Turnout and Intelligence Rift - The New York Times
+1162,3,Full Transcript and Video: Trump News Conference - The New York Times
+1207,2,Julian Assange’s Fate Could Be Decided by Ecuador’s Election - The New York Times
+1222,1,After Eight Years in Guantánamo, He Yearns to Return - The New York Times
+1251,1,Ecuador Votes as Latin America’s Left Sags, a Generation of Icons Gone - The New York Times
+1303,1,California Today: The State’s Hate Landscape - The New York Times
+1478,1,Obama Administration Rushed to Preserve Intelligence of Russian Election Hacking - The New York Times
+1544,2,Trump, Offering No Evidence, Says Obama Tapped His Phones - The New York Times
+1571,1,Trump Inherits a Secret Cyberwar Against North Korean Missiles - The New York Times
+1591,16,WikiLeaks Releases Trove of Alleged C.I.A. Hacking Documents - The New York Times
+1592,13,With WikiLeaks Claims of C.I.A. Hacking, How Vulnerable Is Your Smartphone? - The New York Times
+1595,2,Republican Party, Central Intelligence Agency: Your Tuesday Evening Briefing - The New York Times
+1596,2,China, C.I.A., International Women’s Day: Your Morning Briefing - The New York Times
+1623,1,C.I.A., International Women’s Day, Barcelona: Your Thursday Briefing - The New York Times
+1624,11,C.I.A. Scrambles to Contain Damage From WikiLeaks Documents - The New York Times
+1625,13,With C.I.A. Hacking Revelations, How to Protect Your Devices - The New York Times
+1626,1,Russia’s RT Network: Is It More BBC or K.G.B.? - The New York Times
+1650,1,Republican Party, C.I.A., Syria: Your Thursday Evening Briefing - The New York Times
+1651,1,South Korea, Syria, C.I.A.: Your Morning Briefing - The New York Times
+1683,1,Michael Flynn Was Paid to Represent Turkey’s Interests During Trump Campaign - The New York Times
+1710,4,Trump Adviser Had Twitter Contact With Figure Tied to Russians - The New York Times
+1735,1,Donald Trump, Republican Party, Daylight Saving: Your Weekend Briefing - The New York Times
+1911,2,F.B.I. Is Investigating Trump’s Russia Ties, Comey Confirms - The New York Times
+1940,2,Roger Stone, the ‘Trickster’ on Trump’s Side, Is Under F.B.I. Scrutiny - The New York Times
+2027,6,C.I.A. Developed Tools to Spy on Mac Computers, WikiLeaks Disclosure Shows - The New York Times
+2080,1,Senate Committee to Question Jared Kushner Over Meetings With Russians - The New York Times
+2355,1,C.I.A. Had Evidence of Russian Effort to Help Trump Earlier Than Believed - The New York Times
+2723,1,Alan Rusbridger, Once Guardian’s Celebrated Editor, Severs Ties With It - The New York Times
+2784,1,How Kosovo Was Turned Into Fertile Ground for ISIS - The New York Times
+3356,1,Turkey Declares 3-Month State of Emergency - The New York Times
+3384,7,Is D.N.C. Email Hacker a Person or a Russian Front? Experts Aren’t Sure - The New York Times
+3397,1,Did Putin Try to Steal an American Election? - The New York Times
+3410,7,Snowden and WikiLeaks Clash Over How to Disclose Secrets - The New York Times
+3551,2,Simone Biles, Michael Phelps, U.S. Presidential Race: Your Thursday Evening Briefing - The New York Times
+3731,1,Saudis and Extremism: ‘Both the Arsonists and the Firefighters’ - The New York Times
+3816,61,How Russia Often Benefits When Julian Assange Reveals the West’s Secrets - The New York Times
+3900,1,Zimbabwe Follows Robert Mugabe’s Health by Following His Plane - The New York Times
+4111,1,Hackers Trawl User Data in Hopes a Small Target Will Lead to a Big One - The New York Times
+4248,3,U.S. Says Russia Directed Hacks to Influence Elections - The New York Times
+4299,1,Obama Considers ‘Proportional’ Response to Russian Hacking in U.S. Election - The New York Times
+4313,1,Group’s Tactic on Hillary Clinton: Sue Her Again and Again - The New York Times
+4317,1,WikiLeaks Emails Show Mayor de Blasio Venting at and Appealing to Clinton Campaign - The New York Times
+4323,1,Trump Accuses Clinton of Guiding Global Elite Against U.S. Working Class - The New York Times
+4348,1,Issues in Hillary Clinton’s Past Leave Her Muted in Furor Over Donald Trump - The New York Times
+4349,3,Anatomy of a Media Conspiracy - The New York Times
+4351,3,Hacked Transcripts Reveal a Genial Hillary Clinton at Goldman Sachs Events - The New York Times
+4357,1,Biden Hints at U.S. Response to Russia for Cyberattacks - The New York Times
+4362,2,Hillary Clinton Liked Covert Action if It Stayed Covert, Transcript Shows - The New York Times
+4397,1,Donations to Foundation Vexed Hillary Clinton’s Aides, Emails Show - The New York Times
+4400,1,Duterte, Mosul, Calais Jungle: Your Thursday Briefing - The New York Times
+4423,1,Iceland’s Prime Minister Resigns, After Pirate Party Makes Strong Gains - The New York Times
+4548,3,Chelsea Manning Asks Obama to Cut Sentence to Time Served - The New York Times
+4627,1,How the Iranian-Saudi Proxy Struggle Tore Apart the Middle East - The New York Times
+4861,1,Saudis Bankroll Taliban, Even as King Officially Supports Afghan Government - The New York Times
+4897,2,Russian Hackers Acted to Aid Trump in Election, U.S. Says - The New York Times
+4949,5,Spy Agency Consensus Grows That Russia Hacked D.N.C. - The New York Times
+5015,1,Obama Confronts Complexity of Using a Mighty Cyberarsenal Against Russia - The New York Times
+5016,1,Russia’s Hacks Followed Years of Paranoia Toward Hillary Clinton - The New York Times
+5019,1,As President Joseph Kabila Digs In, Tensions Rise in Congo - The New York Times
+5179,1,How Russia Recruited Elite Hackers for Its Cyberwar - The New York Times
+5614,1,Review: In ‘Jason Bourne,’ a Midlife Crisis for a Harried Former Assassin - The New York Times
+5704,3,Julian Assange to Be Questioned by Sweden Over Rape Claim, Ecuador Says - The New York Times
+5710,2,Hacker Releases More Democratic Party Documents - The New York Times
+5737,1,‘Shadow Brokers’ Leak Raises Alarming Question: Was the N.S.A. Hacked? - The New York Times
+5812,1,Donald Trump, Dilma Rousseff, Cuba: Your Wednesday Evening Briefing - The New York Times
+5822,5,Trying to Smoke Out the Players in the Hacking of the D.N.C. - The New York Times
+6022,2,N.S.A. Contractor Arrested in Possible New Theft of Secrets - The New York Times
+6057,1,Highlights From the Clinton Campaign Emails: How to Deal With Sanders and Biden - The New York Times
+6098,1,Haiti and Africa Projects Shed Light on Clinton’s Public-Private Web - The New York Times
+6123,1,Hillary Clinton Assails James Comey, Calling Email Decision ‘Deeply Troubling’ - The New York Times
+6130,2,Investigating Donald Trump, F.B.I. Sees No Clear Link to Russia - The New York Times
+6333,1,Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire - The New York Times
+6356,1,Aleppo, Donald Trump, Pakistan: Your Thursday Briefing - The New York Times
+6373,1,Worried About the Privacy of Your Messages? Download Signal - The New York Times
+6406,1,Russia and the U.S. Election: What We Know and Don’t Know - The New York Times
+6461,1,How the Obama Coalition Crumbled, Leaving an Opening for Trump - The New York Times
+6505,1,Obama Strikes Back at Russia for Election Hacking - The New York Times
+6739,1,3 Top D.N.C. Officials Leave as Upheaval After Email Breach Continues - The New York Times
+7005,1,Russian Officials Were in Contact With Trump Allies, Diplomat Says - The New York Times
+7016,1,Red, Blue and Divided: Six Views of America - The New York Times
+7099,1,Talks With Mitt Romney for Secretary of State ‘Not About Revenge,’ Trump Says - The New York Times
+7127,1,Congressman Proposes National Surveillance Program After Trump Meeting - The New York Times
+7132,2,Obama Says He Told Putin: ‘Cut It Out’ on Hacking - The New York Times
+7341,1,Edward Snowden’s Long, Strange Journey to Hollywood - The New York Times
+7437,1,Donald Trump in the White House: Will He Bring Steve Bannon With Him? - The New York Times
+7442,1,Donald Trump, Julian Assange, Gwen Ifill: Your Tuesday Briefing - The New York Times
+7502,1,A Charity Auction for Coffee With Ivanka Trump Appears to Be Canceled - The New York Times
+7545,1,Panama Papers May Inspire More Big Leaks, if Not Reform - The New York Times
+7651,1,Bill Clinton Evokes Past, but From the Periphery of His Wife’s Campaign - The New York Times
+7749,3,John Podesta Says Russian Spies Hacked His Emails to Sway Election - The New York Times
+7837,13,WikiLeaks: ’Just 1% Of Vault 7 Has Been Released So Far’ - Breitbart
+7878,6,WikiLeaks Reveals CIA ’Archimedes’ Tool Reportedly Used to Infect Local Networks - Breitbart
+7932,9,Julian Assange: ’When You Read a Newspaper Article, You Are Reading Weaponized Text’ - Breitbart
+7940,1,Fix Is In: House Committee on ’Russian Hacking’ Includes Only DNC-Hired Tech Experts
+7971,1,Fake News: CNN’s Zucker Claims Network’s Credibility ’Higher Than Ever’ - Breitbart
+7988,2,Pelosi: ’I Think the Press Were Accomplices in the Undermining of Our Election’ - Breitbart
+8004,2,Backfire: Obama Sanctions Allow Trump to Pursue Closer Relations with Russia - Breitbart
+8016,1,Report: Google Faces Fine of up to $9 Billion in EU Antitrust Case - Breitbart
+8068,1,Judge Jeanine Slams Hillary Clinton: ’You’re a Loser’ - ’Face It, and Get Back In the Woods!’ - Breitbart
+8139,2,Guardian Publishes Anonymous Source Claim that Brexit Leader Farage is ’Person of Interest’ to FBI-Russia Investigation - Breitbart
+8180,1,Timeline of the Mike Flynn Controversy - Breitbart
+8295,10,Fake News: WikiLeaks Threatens to Sue CNN over Analyst Calling Assange a Pedophile - Breitbart
+8471,1,EXCLUSIVE – Rand Paul: Saudi Arabia’s Role in Backing Terrorism Raises Concerns with $100 Billion Arms Deal - Breitbart
+8529,1,Newly-Released Clinton Email: Huma Sent ’Secure Document’ While Hillary Did Yoga - Breitbart
+8552,6,WikiLeaks: CIA ’Pandemic’ Malware Infected Servers to Spread Virus to Computers - Breitbart
+8561,6,WikiLeaks Claims CIA Lost Control of ’Hacking Arsenal’ - Breitbart
+8596,3,White House: No Comment on Ongoing Seth Rich Investigation - Breitbart
+8624,3,Was Hillary Clinton’s Nomination Legitimate? Six Reasons to Say No - Breitbart
+8652,1,Russia Considering Sending Edward Snowden Back to U.S. as ’Gift’ to Trump - Breitbart
+8660,1,NBC News Head Says ’We’re Not the Opposition Party’
+8768,1,Former CIA Director Blames Millennials For WikiLeaks Documents - Breitbart
+8921,1,John Podesta: ‘Alt-Right’ Media Like Sean Hannity Colluding with Russia - Breitbart
+9290,1,Report: Obama Intel Officials Used ‘Russia Blackmail’ Claims to Warn Israel About Trusting Trump
+9296,1,Brent Bozell: Attack on Hannity Part of ’Liberal Strategy to Monopolize the Media’ - Breitbart
+9303,1,Google Adds Special ’Executive Orders’ Section to News Feeds - Breitbart
+9334,2,Assange Demands Sweden Drop Arrest Warrant
+9337,4,Wikileaks’ Julian Assange at Embassy Balcony: ’I Will Not Forgive And Forget’, Criticises CIA and European Union
+9390,1,Al Gore: Global Warming a ’Principal’ Cause of the Syrian Civil War, Brexit - Breitbart
+9455,1,Disney Boss Says No Political Bias at ABC News and ESPN, Complaints ’Completely Exaggerated’
+9520,2,Chelsea Manning to Remain on Active Duty, Receive Free Health Care after Release - Breitbart
+9564,1,Report: John Podesta May Have Violated Federal Law by Not Disclosing 75,000 Shares in Putin-Linked Company
+9787,1,Fake News from CNN: Legal Expert Says Schumer’s Attacks on Trump’s Pick to Head HHS ’Are Entirely About Politics’
+9819,2,Franklin Graham: Donald Trump Won Election by the ‘Hand of God’
+9904,1,Gorka on Media’s Russia Obsession, Trump’s ’America First’ Budget, and Why the Immigration EO Challenge Will Fail
+9906,7,Edward Snowden, Over 100 Activists Call for Trump to Drop Charges Against Julian Assange - Breitbart
+10005,1,DELINGPOLE: Tom Steyer Is In So Deep With The Russians They Should Call Him ’Impaled by Vlad’
+10034,6,FBI’s Comey: WikiLeaks Is ‘Intelligence Porn,’ Not Journalism - Breitbart
+10059,1,Indian Software Mogul: Hire Americans Now Because Trump Opposes H-1B Outsourcing Visas - Breitbart
+10131,7,Julian Assange: The CIA Director Is Waging War on Truth-Tellers Like WikiLeaks - Breitbart
+10207,1,Former Vatican Spox Denies Rumors That Pope Benedict XVI Resigned Under Duress
+10245,1,FLYNN: With David Brock Comparing His Website to Breitbart News, Allies Compare Him to Mugatu - Breitbart
+10274,2,Hannity: ’What Has Been Happening to Me in the Last Week Is a Kill Shot’ - Breitbart
+10287,1,Buzzfeed Editor Smith Clashes With CNN’s Stelter on Trump Dossier - Breitbart
+10411,7,Latest WikiLeaks Vault 7 Release Claims CIA Can Attribute Cyber Attacks to Other Countries - Breitbart
+10798,1,Total Vetting Fail: Left-Wing Snowden Fan Girl Reality Winner Gets Access to Our NSA Secrets
+11006,1,Top 15 Things to Know About the ’WannaCry’ Global Ransomware Hacker Attack
+11049,1,Creator of Fake News Website to Donate Ad Revenue to Democrats - Breitbart
+11061,3,John Podesta: Press Did Not Play Up Russia Conspiracies Enough During Election - Breitbart
+11125,1,Comey: Anthony Weiner Received Classified Clinton Emails - Breitbart
+11185,2,NYT Mag: Silicon Valley Has Been ‘Transformed’ into ‘Center of Anti-Trump Resistance’ - Breitbart
+11215,1,Report: Microsoft Withheld Free Cyber Attack Patch, Charged Old Software Users Instead - Breitbart
+11234,8,4 Unanswered Questions Surrounding Murdered DNC Staffer Seth Rich - Breitbart
+11354,2,Spicer: ’No Truth’ to Report Trump to Restructure U.S. Spy Agency
+11438,2,WikiLeaks: We’ll Work with Tech Firms to Defeat CIA Hacking - Breitbart
+11498,1,Hillary Clinton Reportedly Launching PAC as ’Quiet Catalyst’ for Her Pet Causes - Breitbart
+11602,1,Former Univision Host Accused of Raping 7-Year-Old Girl
+11745,1,Rohrabacher on CIA WikiLeaks Revelations: ’We Are Not Immune to Authoritarian Government’
+11770,2,CNBC’s Santelli Takes on ’Meet the Press’ Panel on Russian Hacking - ’On Election Night, I Never Saw You So Unhappy’ - Breitbart
+12088,1,DNC ’Russian Hacking’ Conclusion Comes from Google-Linked Firm
+12251,10,US Prepares to Seek Arrest of Julian Assange - Breitbart
+12333,2,Chuck Lorre Calls on Julian Assange to Hack Trump
+12488,1,Ryan: Assange Is ’A Sycophant for Russia’ - Breitbart
+12595,2,Julian Assange ’Enjoying’ Being One of Twitters’ ’Deplorables’ After Site Refuses to Verify Account - Breitbart
+12603,1,Unrepentant: Only Change Clinton Would Make to 2016 Run is ‘I’d Win’ - Breitbart
+12626,5,WikiLeaks: CIA Hackers Want to Take Control of Your Car - Breitbart
+12763,1,Popular ’Polandball’ Meme Page Suspended From Facebook - Breitbart
+12803,1,Clinton Aide Jennifer Palmieri Blasts Trump for Being ‘Preoccupied’ with Russia
+12828,2,Integration Expert Warns: ’Globalist’ Le Pen Rival Is ’Dangerous’
+12938,1,Boykin: Manning’s Actions ’Every Bit as Egregious and Damaging as Snowden’s’
+12977,2,Menendez: ’Not Sure’ What Message Is Sent Commuting Manning While Raising Concern About WikiLeaks and Election - Breitbart
+13134,1,Journalists Versus the White House: A Tale of Two Media Reactions - Breitbart
+13148,15,WikiLeaks Releases CIA Data Dump, Claims Press Conference Livestream ’Under Attack’ - Breitbart
+13251,5,WikiLeaks: CIA Hoarded ’Zero Day’ Exploits, Breached Obama Admin Commitments - Breitbart
+13435,17,WikiLeaks: The CIA Can Covertly Activate Your Mobile Device’s Microphone, Bypass Encryption Apps - Breitbart
+13559,1,Graham Calls Republicans Celebrating Russian Interference a ’Political Hack’ - ’You’re Not a Patriot’ - Breitbart
+13623,8,Wikileaks ’Sceptical’ Macron Leaks Fake, As Russia Falls Under Spotlight
+13645,2,The Media Is Ignoring the 500-Pound Surveillance Elephant in the Room
+13683,1,FBI-DHS ’Russian Hacking’ Report Begins with Major Caveat
+13853,2,Google Organizes Rallies Protesting Trump Temporary Terror Travel Halt - Breitbart
+13930,1,DNC Chair Race: Candidates Set to Debate in CNN Forum
+13977,2,Conway: WikiLeaks Didn’t Convince Americans They ’Didn’t Like’ and ’Didn’t Trust’ Hillary - Breitbart
+14022,6,WikiLeaks: CIA Uses ’Stolen’ Malware to ’Attribute’ Cyberattacks to Nations Like Russia - Breitbart
+14133,1,Obama Frees Chelsea Manning and 273 More Criminals - Breitbart
+14492,2,Microsoft Blames Global Cyberattack on Leaked NSA Code, Warns U.S. Government over Cyberweapons - Breitbart
+14507,2,Expert: Obama Hacking Report Makes Him Question Whether DHS, FBI ’Know What They Are Doing’ - Breitbart
+14538,1,Advertisers Bow to Activist Left, Begin Pulling Ads from Hannity - Breitbart
+14595,2,Mark Levin to GOP: Investigate Obama’s ’Silent Coup’ vs. Trump
+14664,1,James Clapper Denies Any Impropriety in ’Unmasking’ U.S. Citizens During Surveillance
+14675,4,Huffington Post Contributor: Hillary Clinton’s Failure to Win Even 20 States Means She Is ‘Legitimate President-Elect’ - Breitbart
+14695,1,Assange Urges Media to Call Assad Chemical Attacks ’Alleged’ - ’CIA Has No Credibility in This Area’ - Breitbart
+14834,1,’Never Trump’ Hillary Backer Aiming to Sneak into Administration as U.S. Ambassador to India - Breitbart
+14879,4,Brother of Seth Rich Asks Hannity Not to Spread ’Conspiracy Theories’ - Breitbart
+14958,5,Megaupload Founder Kim Dotcom Claims Seth Rich Was DNC Leaker, Offers to Work with Special Counsel Mueller - Breitbart
+14981,1,Ann Coulter: The Russian Emperor’s New Clothes
+15004,2,Donna Brazile Admits to Sharing Debate Questions With Clinton Camp, Blames Russia
+15195,3,Pete Hoekstra on CIA WikiLeaks: We Can’t Trust Spy Agencies If They ‘Can’t Protect Their Own Data from Outside Intruders’
+15257,3,Live Updates: FBI Director James Comey Testifies Before Congress - Breitbart
+15370,1,Kirsten Powers on Hillary Election Remarks: ’Never In This Equation Is Hillary Clinton to Blame’ for Losing the Election - Breitbart
+15452,1,DNC ’War Room’ Against Trump Armed with Former Clinton Staffers - Breitbart
+15453,3,Suggestion Pope Benedict XVI Resigned Under Obama ‘Pressure’
+15490,2,Julian Assange: WikiLeaks Info On Trump No Worse Than What He Says Publicly - Breitbart
+15561,10,Julian Assange ’Assassination’ Claimed After Foiled Ecuadorian Embassy Break-in
+15577,1,Wikileaks: Investor Conspired with Clinton Campaign to Ambush Trump Live on CNBC - Breitbart
+15633,1,WikiLeaks: Obama Knew About Hillary Clinton’s Private Email - Breitbart
+15674,1,Wikileaks: Clinton Foundation Misled Employees About Results of Internal Audit - Breitbart
+15687,3,Wikileaks: Clinton Coordinated with State Department on First Tweet About Email Scandal - Breitbart
+15694,4,John Podesta Responds to WikiLeaks: ’Don’t Have Time to Figure Out Which Docs Are Real and Which Are Faked’ - Breitbart
+15776,2,Wikileaks: Team Clinton Hangers-On Pushed Hard for Business Elite’s Interests in Cuba - Breitbart
+15857,1,Goldman Sachs CEO: ‘Yes, So Flat Out, Yes, I Do’ Support Hillary Clinton - Breitbart
+15862,2,Before Blaming Russia, Hillary Clinton’s Campaign Conspired to ‘Elevate’ Trump
+15935,1,Top Clinton Foundation Staffer: Chelsea Used ’Foundation Resources for Her Wedding’ - Breitbart
+15955,1,Longtime Clinton Aid: If America Read All of Hillary’s Emails She Could ‘Lose 49 States’ - Breitbart
+15978,2,Wikileaks Reveals Hillary Lied About Marines Rejecting Her Because She Was a Woman - Breitbart
+16024,2,10 Ways the CIA ’Russian Hacking’ Story is Left-Wing ’Fake News’
+16036,7,Wikileaks Mocks Clinton Campaign’s Russia Conspiracy Theories - Breitbart
+16079,1,Lowry: Voters Heard and Rejected ’Russian Hacking’ Allegations Before Election - Breitbart
+16093,2,Wikileaks: Podesta Asked Former Bill Clinton Adviser How to ’Stick the Knife in’ Bernie Sanders - Breitbart
+16104,6,Wikileaks Speech Dump: Hillary Clinton Called It ’Good News’ That China’s Xi Will ’Assert His Authority’ - Breitbart
+16200,2,Gutfeld: ’The Media Wants Hillary To Win,’ They ’Set Up,’ Trump and ’Then, Out Came the Knives’ - Breitbart
+16382,5,Clinton and DNC at Risk for Campaign Finance Violations
+16516,2,Trump Taunts Democrats in Virginia: ’Debbie, You’re Fired!’ - Breitbart
+16543,2,He’s With Her: Inside Paul Ryan’s Months-Long Campaign to Elect Hillary Clinton President - Breitbart
+16565,1,Huma Abedin Wanted Shorter Statement for Podium-Less Hillary
+16654,2,Wikileaks: NY Times’ Mark Leibovich Obeyed Request to Cut Palin Joke from Hillary Interview - Breitbart
+16700,8,WikiLeaks Releases First Batch Of Barack Obama’s Emails - Breitbart
+16710,2,Head of U.S. Bishops Blasts Team Hillary for Meddling
+16792,1,Hillary-Friendly Google Launches ’Fact Check’ Feature Ahead of Election - Breitbart
+16836,1,The Night Bernie Sanders’s ’Political Revolution’ Died
+16847,3,Wikileaks: Lawyer Representing 9/11 Families Against Saudis Wanted to ’Defang the Issue’ for Clinton Camp
+16901,2,The Tale of Two Realities: MSM versus Social Media at DNC - Breitbart
+16929,2,10,000 Supporters at Pennsylvania Trump Rally Chant ’CNN Sucks’ - Breitbart
+16944,4,Assange: We’ve Released ’Thousands’ of Cables Where Clinton Uses Marking She Claimed She Didn’t Know Meant Confidential - Breitbart
+17064,3,Hillary Loses the Left - Breitbart
+17066,1,Bernie Sanders Memo Shows Demands: ’A Plane-Or I Contest The Convention’ - Breitbart
+17142,1,Dilbert’s Scott Adams: Trump ’Not Trying to Win at the Moment’
+17162,2,Wikileaks: ’State Party’ Has Cut Julian Assange’s Internet Connection - Breitbart
+17166,1,The Hill: ‘Media Tripling Down on Blatant Anti-Trump Sentiment’
+17208,1,Clinton Foundation Confirms: Hillary Did Not Disclose $1 Million Qatari Gift to Feds - Breitbart
+17299,1,Hillary Clinton Once Again Needs Assistance Climbing a Stair - Breitbart
+17347,1,John Fund: ‘If Hillary Wins, We’ll Have a Potential Blackmail Target in the White House’ - Breitbart
+17395,1,Google Accused of Manipulating Search Results for ’Jihad’ - Breitbart
+17396,1,WikiLeaks — Huma Abedin: ’No Love Lost’ In Hillary Clinton’s Relationship With Al Gore - Breitbart
+17397,1,Assange: When You See That Hillary Clinton Has Not Been Prosecuted, That Is ’Elite Immunity’ - Breitbart
+17422,2,Wall Street Journal: Clinton Foundation’s Fundraisers Pressed Donors to Steer Business to Bill Clinton - Breitbart
+17442,1,Report: Electors Will Not Receive Intelligence Briefing on Russia Prior to Vote - Breitbart
+17461,1,Hillary Campaign: We Will Make the Election a Supreme Court War Over Obamacare - Breitbart
+17498,1,The Intercept: A Clinton Fan Manufactured Fake News That MSNBC Personalities Spread to Discredit WikiLeaks Docs - Breitbart
+17536,1,The Specter of De-Gentrification: The Once and Future Suburb - Breitbart
+17545,1,Kaine Defends Clinton Leaked Transcript Calling Immigration Opposition ‘Un-American’ - Breitbart
+17651,3,Michigan Mother: Hillary Clinton Receiving Advance Debate Question ’Should Be an Automatic Disqualification’ - Breitbart
+17710,1,Meet the ‘Trumpocrats’: Lifelong Democrats Breaking with Party Over Hillary Clinton to Support Donald Trump for President - Breitbart
+17745,1,Wikileaks: Clinton Donors Say America ’Obviously Not a Democracy’ - Breitbart
+17808,1,Clinton Campaign Staffer Complained About ’The Red Army’ Supporting $15 Minimum Wage - Breitbart
+17820,2,Pence Calls on Hillary Clinton to Denounce Staffer Slam of Evangelicals, Catholics - Breitbart
+17842,1,CNN Editors Help Left-Wing Van Jones Smear CNN’s Pro-Trump Commentator - Breitbart
+17849,2,Google ’Directly Engaged’ In Clinton Campaign, Says Julian Assange - Breitbart
+17858,1,Trump: ’Time to Retire Boring and Unfunny’ Saturday Night Live
+17865,2,Left Planned to Stage Violence to Bring Down Trump
+17910,1,Wikileaks Reveals-Hillary Clinton to Goldman Sachs: Americans Who Want to Limit Immigration Are ’Fundamentally UnAmerican’ - Breitbart
+17911,2,Dem Rep Jackson Lee Denounces Wikipedia on MSNBC - Breitbart
+17940,2,Leaked Hillary Clinton Speech to Foreign Bank: ’My Dream Is a Hemispheric Common Market with Open Trade and Open Borders’ - Breitbart
+17951,1,WikiLeaks: Adviser Wanted Hillary Clinton to Address ‘Political Corruption’ - Breitbart
+17978,2,Clintonworld’s Top 5 Active FBI Investigations
+18145,1,Schweizer: 12 Days from Election, Clinton World Still Has No Good Answers on Russian Uranium Deal - Breitbart
+18159,13,2016 Election Day: Live Updates - Breitbart
+18203,1,Oliver Stone: Intel Experts Tell Me DNC Hack Was ’Inside Job’
+18259,1,***Dem. Convention LiveWire*** Wasserman Schultz Jeered on ’United Together’ Day - Breitbart
+18455,1,Melissa McCarthy Suggests Ghostbusters Remake Critics Are 45-Year Old Men Living In Their Mother’s Basements - Breitbart
+18491,2,Breitbart News Daily: Trump Unshackled - Breitbart
+18507,1,WikiLeaks: Google’s Eric Schmidt Planning Hillary’s Presidential Campaign Since 2014 - Breitbart
+18546,2,Trump Thrills Thousands in Florida: ‘You’re Going to Look Back at this Rally for the Rest of Your Life’ - Breitbart
+18555,1,FNC’s Wallace to Clinton Campaign Mgr Mook: You Didn’t Care When Trump’s Taxes Returns Were Stolen - Breitbart
+18557,2,Wikileaks: Emails Show Facebook CEO Zuckerberg Wanted to Meet with Clinton Campaign - Breitbart
+18572,1,Wikileaks: Hillary Clinton Skipped Metal Detector Before Benghazi Hearing
+18599,1,TTIP Is Dead: EU-U.S. Trade Deal Has Collapsed, Germany Says
+18606,1,They Don’t Make Russians Like They Used to (for Democrats, at Least) - Breitbart
+18608,1,All Aboard the Bernie Train: Middle Fingers for the DNC
+18628,1,Criminal Aliens Sexually Assault 70,000 American Women — But Paul Ryan Targets Trump - Breitbart
+18634,3,Email: Chelsea Hubby Marc Mezvinsky Courted Clinton Foundation Donors
+18662,7,WikiLeaks Offer $20,000 Reward for Information on Murdered DNC Staffer - Breitbart
+18706,3,Sources: Russian Government Intercepted and Will Release Hillary’s Emails - Breitbart
+18763,1,Wikileaks—Podesta Warned Clinton Staffers: ’She’s Down and Needs to Stay Down’ - Breitbart
+18768,2,Email: DNC Plotted to Stage Protests at Trump Meeting - Breitbart
+18825,1,CBS News/YouGov Utah Poll: Trump Leads by 17 Points - Breitbart
+18843,2,DNC WikiLeaks Email Flap Proves Trump Is Right on Russia - Breitbart
+18896,1,Paul Nehlen’s Battle With Paul Ryan Kills Obamatrade
+18916,1,Blue State Blues: Obamacare’s Failure Is Not Exactly an October ’Surprise’ - Breitbart
+18965,1,Wikileaks: Starbucks CEO Warned Hillary of ’Stale’ Campaign
+19057,1,CNN’s Brian Stelter: Donna Brazile ‘Embarrassed All of CNN’ - Breitbart
+19097,11,Wikileaks Implies It Will Leak Information About Chief Clinton Campaign Strategist - Breitbart
+19291,10,October Surprise: WikiLeaks Releases 2,050 Emails From Clinton Campaign Chairman John Podesta - Breitbart
+19371,1,Clinton Supporters Hosting Hillary Fundraiser at Hacking Convention - Breitbart
+19390,1,O’Keefe: Feingold Says Clinton to Use ’Executive Order’ on Guns
+19403,1,The Guardian: WikiLeaks Reveals How Globalist Elites Run America for Their Own Interests
+19436,4,WikiLeaks: Clinton Aides Used Keystone Opposition to Distract from Email Scandal
+19479,1,WikiLeaks: ’Some Kind of Bulls*it’ — Clinton Campaign Fretted About Email Leaks to New York Times
+19497,1,Exclusive: ForAmerica Releases New Ad Calling Hillary Clinton ’The Best Politician Money Can Buy’ - Breitbart
+19499,21,Users Accuse Twitter Of Censoring WikiLeaks DNC Emails Leak - Breitbart
+19709,1,Popular Pages Revolt Against Facebook’s Arbitrary Censorship - Breitbart
+19739,1,Mark Zuckerberg Social Media Accounts Hacked - Breitbart
+19916,1,Rep. Marsha Blackburn: How Can People Vote for Clinton When ‘Her Own Staff Is Having a Difficult Time Dealing with Her Lying?’
+19938,1,Democrats’ False Patriotism, Scoundrels’ Last Refuge
+19960,2,WikiLeaks: White House Wanted Bill Clinton to Pressure Tsipras into Accepting Greek Debt Deal - Breitbart
+20005,4,Hillary Clinton: ’Most Important Question’ of Third Debate Is Whether Trump Will Condemn Putin for Wikileaks - Breitbart
+20045,1,Business Interests Benefitting from Castro Regime Urge Trump to Be Friendly to Cuba - Breitbart
+20067,14,Wikileaks’ Emails Validated in Routine Tests, As Democrats Try to Discredit Revelations - Breitbart
+20136,1,MILO: Twitter Has Been Dead for Some Time. Now, Rigor Mortis Is Setting In - Breitbart
+20185,1,Wikileaks: ‘Rev It Up’ — Team Hillary Worried About Low-Energy Campaign - Breitbart
+20238,1,John Podesta Fuels Russian Conspiracy Theory: Urges Electoral College To Revisit Election - Breitbart
+20300,2,WikiLeaks Releases DNC Voice Mail: ’You Guys Are Losing Me’ - Breitbart
+20404,1,Milo and ‘Bad Gays’ Upset Media at LGBTrump Party - Breitbart
+20407,1,Michael Scherer: ’It’s Clear’ Charity Operation ’Was Making Bill Clinton Rich’ - Breitbart
+20469,5,Paid Speeches Revealed-Hillary Clinton: ’You Need Both a Public and a Private Position’ - Breitbart
+20479,1,WSJ: ’Nation Now Has Proof’ of Hillary Scandals, But Leftist Media ’Devote Its Front Pages to the Trump Story’
+20531,1,Schweizer: Hillary Protected and Promoted Wasserman Schultz for Her ’Dirty Work’ Against Sanders - Breitbart
+20538,1,Wikileaks: Hillary Clinton Ditched CGI Meeting Despite $12 Million from Morrocan King - Breitbart
+20587,8,Bernie Sanders Supporter Bashes Hillary Clinton from Her Own Stage: ’Trapped in World of Elite,’ ’Lost Grip of Average Person’ Life - Breitbart
+20600,2,Dems’ Russian Hack Story Affirms Hillary Clinton E-mail Scandal
+20633,2,Gwen Ifill: Absent the Trump Audio, We’d Be ’Paying A Lot More Attention’ To Hillary Speech Revelations - Breitbart
+20680,4,Comedian Shouts News Headlines to WikiLeaks’ Julian Assange After Internet Cut - Breitbart
+20733,1,WATCH: Congressman Keith Ellison Talks Union Racism - Breitbart
+20764,1,MILO: Pollsters Are Helping To Rig The Election - Breitbart
+20919,3,Wikileaks: NYT’s Amy Chozick Privately Praised Hillary Clinton
+20924,1,Chuck Todd on the Clinton Foundation: ‘Shut It Down’ - Breitbart
+20954,1,Trump Tower Temporarily Renamed ’Dump Tower’ on Google Maps - Breitbart
+20975,1,Washington Post/ABC News Poll: Statistical Tie in Presidential Race - Breitbart
+21029,1,Wikileaks: CNN Asked Democrats to Draft Questions for Republican Candidate Interviews - Breitbart
+21045,4,John Podesta’s Accounts Reportedly Compromised After Password Found in WikiLeaks Dump - Breitbart
+21102,2,Clinton Foundation Donations Plummeted by 37 Percent - Breitbart
+21139,1,Wikileaks: Clinton Memo Reveals Joint Fundraising Tactics with Super PAC
+21151,2,Exclusive — Statistical Tie: Latest Breitbart/Gravis Poll Shows Donald Trump Closes the Gap with Less Than Two Weeks Left - Breitbart
+21251,1,Bitter John Podesta Blames ’Broken’ FBI for Russian Email Hacks - Breitbart
+21258,1,Epic Humiliation: Politifact Makes 13 Errors in a Single Clinton Cash Fact-Check - Breitbart
+21288,2,Hillary Clinton Campaign Forwarded Plan to White House to Promote Iran Treaty Using Catholic Prelates’ Influence - Breitbart
+21295,1,Twitter Allows ’Rape Melania’ to Trend After Site Explodes with Trump Assassination Threats - Breitbart
+21296,2,Wikileaks: Clinton Aide Asked for ’Hollywood Friends’ to Get MoveOn.org to ’Cool It’ with Liz Warren Draft - Breitbart
+21347,1,WikiLeaks Revelation: Clinton Staff Pushed to Near Suicide - Breitbart
+21414,1,Hillary Clinton in Leaked 2013 Speech: ’I Would Like to See More Successful Business People Run For Office’ - Because They Can’t Be Bought - Breitbart
+21439,1,Veteran Clinton Aide Called Chelsea Clinton ’A Spoiled Brat Kid’ - Breitbart
+21451,1,EXCLUSIVE -- American Worker Forced to Train Foreign Replacement Reveals How Hillary Clinton Betrayed Him
+21498,1,Trump: I’d Get Electric Chair for Cheating Debates Like Hillary
+21587,2,Donald Trump: ’This Whole Election Is Being Rigged’ - Breitbart
+21592,1,Schweizer: The Clintons ’Have Long, Strong Financial Ties Relating To Russia’ - Breitbart
+21666,2,Meet the ’Little People’: Those Punished for Far Less Than What Clinton Did - Breitbart
+21723,1,DNC Staffers Conspired Against Sanders, Using His Religion, Leak Shows - Breitbart
+21779,4,Wikileaks Planning to Release ’Enough Evidence’ to Indict Hillary Clinton - Breitbart
+21785,2,Anti-Trump Republicans Rush to Express Outrage over Trump Video with George H.W. Bush’s Nephew - Breitbart
+21815,2,Wikileaks: ’Has That Gotten Any Press?’ Clinton Asked After Fast and Furious Killing of ICE Agent
+21829,2,Clinton Adviser: ‘Seems Odd’ To Put Tributes To ‘Four Guys’ In Benghazi Statement - Breitbart
+21903,1,The Hill: Clinton Campaign Fears Trump’s ’Scorched Earth’ Strategy - Breitbart
+21913,2,Clinton Campaign Admits ’Huge Discrepancies’ in Gender Pay at Clinton Foundation - Breitbart
+21917,1,Wikileaks—Clinton Insider Calls Chelsea a Back (and Front) Stabber: ’Apple Doesn’t Fall Far’ - Breitbart
+21957,1,FULL TEXT: MILO At West Virginia University On What Trump Means - Breitbart
+22004,3,Assange: Media ’Erecting a Demon’ by Protecting Hillary Clinton - Breitbart
+22169,2,O’Keefe Reveals ’Bird-Dogging’ to Incite Violence at Trump Events
+22185,5,DNC Chair Debbie Wasserman Schultz Dropped From Convention After WikiLeaks Scandal - Breitbart
+22254,1,Caddell: Electing Clinton Will Institutionalize Corruption
+22263,4,WSJ: Wikileaks Raises Questions on When John Podesta, Russia Stopped Doing Business - Breitbart
+22318,2,Wikileaks: Erica Garner Rips Clinton Campaign for Calculating How to ’Use’ Father’s Death - Breitbart
+22326,2,Caddell: Voters See DNC/CNN-Type Collusion as ‘Threat to Democracy’
+22365,1,Donald Trump Receives Bay of Pigs Veterans Association’s First Ever Endorsement - Breitbart
+22465,5,Julian Assange: Wikileaks to Release ’A Lot More’ on Hillary Clinton - Breitbart
+22499,1,Mike Pence in Charlotte: ‘I Believe in Forgiveness’ Trump ‘Showed Heart, Humility, Then Fought Back’
+22510,5,WikiLeaks Emails: DNC Had Off-Record Meeting With Wall Street Journal, Leaked Doc from Sanders Campaign - Breitbart
+22512,7,WikiLeaks Release Over 19,000 Leaked Emails From The Democratic National Committee - Breitbart
+22579,1,Hillary Clinton Donation Page Rejects Submissions Honoring Benghazi Victims, Bill’s Rape Accusers - Breitbart
+22661,1,Trump Slams Google: ’Disgrace’ If They Changed Results To Favor Clinton - Breitbart
+22665,1,WIKILEAKS DUMP: Podesta Added Liberal Mega-Donor Tom Steyer to Dept of Energy Leadership Shortlist - Breitbart
+22691,1,Caddell: Dems ‘Walked Right into the Trap’ Trump Baited with Clinton’s Email
+22736,12,Wikileaks Changes Venue for Assange’s ’October Surprise’ Announcement over Security Concerns - Breitbart
+22738,1,Erik Prince: NYPD Ready to Make Arrests in Anthony Weiner Case
+22742,1,Russia Mocks Obama with ’Lame Duck’ Tweet Following U.S. Sanctions - Breitbart
+22781,1,WikiLeaks: Hillary Clinton Flattered Obama For His ‘Body Language’ - Breitbart
+22817,2,Limbaugh Rips Dems, Media for Attacking Trump for ’Rigged Election’ Remarks While Claiming Russians Are Trying to ’Rig’ U.S. Election - Breitbart
+22827,2,Glenn Greenwald: Breitbart News Has ’Editorial Independence’ That ’Left and Establishment Right Utterly Lack’ - Breitbart
+22840,5,Panama Papers Scandal Hits the Clinton Campaign
+22844,1,Breitbart News Daily: Collapse of the Globalist Narrative - Breitbart
+22846,3,Julian Assange Claims Russia Wasn’t Involved in DNC Hack - Breitbart
+22860,2,WikiLeaks: Podesta Email Contains Transcripts of Hillary Clinton’s Goldman Sachs Speeches - Breitbart
+22886,2,***Second Presidential Debate Fact-Check Livewire***
+22960,3,Schweizer: WikiLeaks Show How Clinton Campaign Chair John Podesta Became ’Business Partners with Vladimir Putin’ - Breitbart
+22963,1,Jill Stein Slams Hillary Clinton’s ’Disturbing’ Laughter at Lynching of African Ruler - Breitbart
+23004,1,Exclusive - 360-Degree Video of ’Hillary for Prison’ Debuts at DNC - Breitbart
+23013,1,WikiLeaks: Powerpoint Shows Clinton Allies Polling Obama’s Muslim Heritage, Cocaine Use - Breitbart
+23137,2,FULL TEXT: MILO On The Supreme Court And Why Conservatives Must Vote For Trump - Breitbart
+23181,1,Hillary Clinton Next to Cardinal Dolan at Al Smith Dinner One Day After Defending Partial Birth Abortion - Breitbart
+23211,1,John Podesta Hacked on Twitter: ’Vote Trump 2016’ - Breitbart
+23271,1,Media Try to Aid Clinton on Trump, Russia Hackers, Hillary Emails
+23433,1,Wikileaks: Clinton Team’s Sick Reaction to San Bernardino Terror Attack - Breitbart
+23462,4,CNN’s Chris Cuomo Claims It’s Illegal for the Public to View Hillary Emails Released by WikiLeaks - Breitbart
+23558,5,Dear Hillary: DNC Hack Solved, So Now Stop Blaming Russia
+23587,1,Sanders: I Demand Debbie Wasserman Schultz Resign - Breitbart
+23618,1,Trump: ’If They Fired Donna Brazile, Why Not Hillary Clinton?’
+23626,1,WikiLeaks: Clinton Political Director Wanted Hillary to Say ’Yo Mama’ at Black College - Breitbart
+23671,1,Memo: Clinton State Department Thought Huma Abedin-Connected Saudi Group Funded Terror - Breitbart
+23705,1,Rob Reiner: Trump ‘Unearthed’ Racism of Uneducated White Male Supporters - Breitbart
+23725,1,Wikileaks: Hillary Clinton Had Gun Control Supporters Planted In Town Hall Audience - Breitbart
+23760,1,Hillary Clinton Staffer Directed to Bypass Transportation Secretary’s Government Email Account
+23787,1,Wikileaks: Barack Obama’s ’Binders of Women,’ Minorities
+23790,3,Exclusive — Sen. Jeff Sessions on WikiLeaks Revelation of Hillary Clinton’s Support for ‘Open Borders’: ‘It’s a Smoking Gun’ - Breitbart
+23797,3,Peter Schweizer: ’It Is Strange That so Few’ of Clinton’s Released Emails ’Touch on the Clinton Foundation’ - Breitbart
+23831,3,Wikileaks — WaPo’s Karen Tumulty Kisses Up to John Podesta: ’Don’t Go to Strangers’ - Breitbart
+23880,1,WikiLeaks: Obama Rejected Hillary Clinton’s Executive Gun Control Plan
+23933,1,Wikileaks: Clinton Tells Goldman Sachs Iran Can Attack from Latin America - Breitbart
+23948,3,Jim Hanson: CIA’s ’Politicized Intelligence’ About Russia Hacking the Election Is ’Kind of a Joke’
+23986,2,Obama Scolds Media ‘Obsession’ Over Wikileaks Emails - Breitbart
+24006,12,Fake News: Guardian Caught Deceptively Editing Quotes from Julian Assange Interview - Breitbart
+24041,2,McCain, Graham Join Democrats, Demand Probe into Claims of Russian Hacking - Breitbart
+24125,1,WikiLeaks: ‘The Boss Won’t Be Comfortable’-How Clinton Campaign Flipped-Flopped on TPP - Breitbart
+24203,1,Wikileaks: Clinton Foundation Chatter with State Dept on Uranium Deal with Russia - Breitbart
+24221,1,Gmail Users Claim Trump Campaign Emails Are Being Sent to Spam Folder - Breitbart
+24247,2,AP’s Lisa Lerer: Clinton Wall Street Speeches Show ’Moderate’ Positions — Like ’Open Borders’ - Breitbart
+24336,3,Video: Hillary Clinton Leaves 9/11 Memorial Ceremony Early, Dragged into Van - Breitbart
+24435,1,Facebook Introduces Political Endorsements Feature - Breitbart
+24446,4,New York Times Hires Glenn Thrush After Wikileaks Humiliation - Breitbart
+24482,3,WikiLeaks: CNBC Host Rebecca Quick Promises to ‘Defend’ Obama Appointee - Breitbart
+24513,2,Wikileaks: Washington Post’s White House Reporter Gave ’Heads Up’ to John Podesta - Breitbart
+24519,1,Donald Trump: Hillary Clinton Should Return the Money She Got from Saudi Arabia - Breitbart
+24626,1,WikiLeaks: Clinton Team Leaked Creepshot of Bernie Sanders in His Swimming Suit - Breitbart
+24650,4,Wikileaks Dump: Clinton Takes Credit for Freeing Chinese Dissident Who Said U.S. ’Gave In’ to Beijing - Breitbart
+24757,1,Clinton Campaign Chairman Mocks Hillary: ’Laughing Too Hard Is Her Authentic Weirdness’ - Breitbart
+24758,3,Wikileaks: Journalists Dined at Top Clinton Staffers’ Homes Days Before Hillary’s Campaign Launch - Breitbart
+24788,1,Trump: I’m Ready to Go Over $100 Million in the Campaign - Breitbart
+24801,2,DNC Leaks Include Trump Donor Personal Information - Breitbart
+24858,4,WikiLeaks: DNC Chair Fed Debate Questions to Hillary Clinton
+24872,2,Hillary’s World: How Clinton’s Foreign Policy Has Destabilized Nearly Every Corner of the Globe - Breitbart
+24929,3,WikiLeaks Emails: DNC Approved Fake Trump Ads For ’Hot Women’ Comfortable With ’Gropes Under The Meeting Table’ - Breitbart
+24982,2,Pollak: O’Keefe Reveals Which Candidate Is Really Dividing America
+24986,1,WikiLeaks: Clinton Campaign Discards Shootings That Do Not Further Gun Control Agenda
+25033,1,Bernie Sanders Praises Debbie Wasserman Schultz Resignation as Chance to Reform Democratic Party - Breitbart
+25038,1,Nancy Pelosi Complains of ’Sick Phone Calls’ After Hack
+25088,1,Clinton Foundation: 4/10 Internal Audit over Lack of Oversight
+25167,1,Pence: ‘Obamacare Was Just a Down Payment to Hillary Clinton’ - Breitbart
+25196,1,Trump in Florida Promises ‘Brexit,’ Doubles Down on Hillary Going to Jail for Deleting Emails - Breitbart
+25285,1,Dem Rep Ryan: ’Is Russia Involved’ in FBI Taking New Look at Clinton Emails? - Breitbart
+25302,2,How Will Hillary Clinton, Huma Abedin, Saudi Arabia Avoid the Trump Train? - Breitbart
+25320,1,Mark Zuckerberg Loses $3.7 Billion Following Trump Election - Breitbart
+25345,1,Glenn Greenwald: WikiLeaks Emails Show Media’s ’Serious Impropriety’ - Breitbart
+25380,1,CNBC’s John Harwood: Nothing Wrong with Asking Hillary’s Campaign How to Interview Jeb Bush - Breitbart
+25385,2,WikiLeaks: Hillary Clinton Calls Common Core a ‘Political Failure’ - Breitbart
+25430,1,Wikileaks: New York Times Caught Providing Bill Clinton Questions Before ’Interview’ - Breitbart
+25477,1,Leaked Emails: Politico’s Ken Vogel Filed Story with DNC Before His Own Editors - Breitbart
+25480,1,Trump Argues Clinton’s Trade Policies Have ‘Decimated New Mexico Jobs’ - Breitbart
+25488,1,Exclusive — Jeff Sessions: ’Matter Of Supreme Importance’ GOP Nominee Can ‘Negotiate Better’ Trade Deals Than Obamatrade - Breitbart
+25517,3,The Most Explosive WikiLeaks Clinton Revelations (So Far)
+25567,1,Clinton Right Hand Woman Huma Abedin Takes the Stage at Center of Email Scandal - Breitbart
+25629,1,U.S. Warplanes Strike Islamic State Training Base in Libya
+25635,3,Five Major Foreign Policy Reveals from the Wikileaks Clinton Email Dump - Breitbart
+25649,1,Murdoch’s Louise Mensch: ’Everyone’ Who Votes Trump is ’Scum of The Earth’ - Breitbart
+25695,1,President-Elect Trump-One Legacy of San Bernardino Terror Attack - Breitbart
+25697,1,Sanders Supporter Rosario Dawson: ’We’re Not Feeling the Unity’ - Breitbart
+25736,1,Bobby Knight: In a Trump Administration There Will Be No Bullsh*t
+25918,1,Krauthammer: Liberals Always Blame ’Isms’ Of Other Side For Losses, Clinton Lost Because ’She Had Nothing To Say’ - Breitbart
+25922,2,Trump Campaign Calls on Hillary Clinton to ’Apologize and Fire’ Staff over ’Anti-Catholic Bigotry’ - Breitbart
+25959,16,WikiLeaks Threatens Twitter with Competing Platform After Declaring Support for #FreeMilo - Breitbart
+25988,2,Trump Campaign: ’Deeply Disturbing’ Hillary Clinton May Have Revealed Classified Information in a Paid Speech - Breitbart
+26085,3,Huma Abedin in Leaked Email: ’Can We Survive Not Answering Questions’ from Press?
+26333,5,WikiLeaks Prepares ’Phase Three’ Data Dump on Hillary Clinton - Breitbart
+26373,5,’Rigged’ Message Gains Steam, Donald Trump Catching Up to Hillary Clinton in Latest Reuters Poll - Breitbart
+26387,1,Clinton Accused Saudi Arabia of ’Financial and Logistical Support’ to Islamic State
+26392,1,’Pony Express’: How Dems Coordinate Clinton Campaign, Super PACs
+26600,1,Breitbart News Daily: James O’Keefe on ‘Bird-Dogging’ and ‘The Pony Express’ - Breitbart
+26682,1,Dilbert’s Scott Adams: Violence Helps Hillary Clinton
+26702,1,Bernie Sanders Supporters in Philadelphia Chant: ’Lock Her Up!’
+26829,40,***2016 Livewire*** Democrats In Disarray On Eve Of Hillary Clinton’s Coronation Convention in Philadelphia - Breitbart
+26845,1,Newt Gingrich Attacks Donald Trump for Calling Out Permanent Political Class Leader Paul Ryan - Breitbart
+26865,1,Damage Control: CNN Chief Jeff Zucker Slams Donna Brazile, Clinton Campaign’s Debate Cheat - Breitbart
+26869,1,CNN’s Sanders: ’We Don’t Need White People Leading the Democratic Party Right Now’ - Breitbart
+26874,8,Twitter Experiences Outage Following Reported DDoS Attack on WikiLeaks - Breitbart
+26892,4,Pence in Pensacola: ‘When Donald Trump Becomes Your President, His Only Special Interest Will Be You’ - Breitbart
+26912,1,WikiLeaks: Bill Clinton’s Top Aide on Foundation Conflicts of Interests: I Could Name ’500 Different Examples’
+26972,4,WikiLeaks Poll: 117,000 Votes, Trump Wins with 50% - Breitbart
+27020,1,Elizabeth Warren Delivers Anti-Trump Tirade at DNC - Breitbart
+27035,1,Wikileaks Clinton Bombshell — ’Foreign Govt Donors: All the Money Is In’ - Breitbart
+27049,1,Report: Wikileaks Whistleblower Bradley Manning Attempted Suicide Tuesday - Breitbart
+27133,2,***2016 LiveWire*** Clinton Introduces VP Pick Kaine - Breitbart
+27144,1,Gorka on Clinton Foundation and Pay for Play: Let the Peasants Obey the Rules! - Breitbart
+27188,1,Hillary Clinton Sent Chelsea Email on Material That Was Later Classified - Breitbart
+27217,1,MILO Asks Alex Marlow: ’Is The Election Rigged?’ - Breitbart
+27344,3,***Live Updates*** Trump vs. Hillary, Round Two - Breitbart
+27366,1,Wikileaks Bombshell: John Podesta Owned 75,000 Shares in Putin-Connected Energy Company - Breitbart
+27422,1,WikiLeaks: Catholic Church ‘Middle Ages Dictatorship,’ Need ‘Revolution’ Against Bishops - Breitbart
+27426,1,WikiLeaks: CNN’s Gloria Borger Describes ’GOP Hell,’ Calls John Podesta a ’Star’ - Breitbart
+27477,1,Paul Ryan Comes to Heel Behind Donald Trump Again, Begins Pushing Trump Campaign Narrative on Hillary Clinton’s Catholic Smears - Breitbart
+27484,1,Mike Pence on Benghazi: ‘Those Weren’t Four Guys, They Were Four American Heroes’ - Breitbart
+27503,1,DNC Chair Brazile: Hillary Speech Leaks ’Crap’ Postmarked From Russia - Breitbart
+27592,2,Dem Rep.: Fire DNC Officials Who Raised Bernie Sanders’s Religion
+27659,1,Wikileaks: John Podesta Believed ’Obama Forces’ Committed Voter Fraud - Breitbart
+27689,7,Donna Brazile Denies Feeding Hillary Clinton Questions Ahead of CNN Town Hall - Breitbart
+27759,1,Wikileaks: Hillary Clinton Told Goldman Sachs ’Bombing’ Iran a Viable Option - Breitbart
+27762,1,Hillary Clinton Admitted That Hackers Were Breaking Into Her Blackberry All The Time - Breitbart
+27769,4,As Hillary Clinton’s Campaign Falters, Progressive Presidential Nominee Jill Stein Has Opening to Rise - Breitbart
+27948,3,Clinton Campaign Manager: Experts Saying Russia Leaked DNC Emails to Help Elect Trump - Breitbart
+27971,2,John Fund: ‘FBI Investigation Goes on into the Clinton Foundation, Rather Than the Emails’
+28003,1,Justice Department Appears to Excuse Peter Kadzik’s ’Heads Up’ to Presidential Campaign - Breitbart
+28027,1,Jack Abramoff: If Hillary Clinton Is Elected, She Will Have ‘Gotten Away with Selling Our Government for Hundreds of Millions of Dollars’
+28056,3,Blue State Blues: Hillary Clinton Can See Russia from Her House
+28093,1,Twitter Reinstates DNC Hacker Guccifer 2.0 Following Breitbart Report - Breitbart
+28096,1,Wikileaks: PR Firm Seeks Clarification on Hillary’s Support of 25% Gun Tax - Breitbart
+28153,3,Wikileaks: ’Anti-SJW’ Heat Street Founder Louise Mensch Advised Hillary Clinton
+28156,2,Roger Stone: All You Need to Know About Trump &amp Khizr Khan
+28215,1,Trump to Iowa: Choose ’the People, or the Corrupt Political Class’
+28404,2,Democratic Party Suffers Nervous Breakdown In Philly: The Inside Story - Breitbart
+28455,5,Wikileaks: Hillary IT Team Deemed Phishing Attempt ’Legitimate’ - Breitbart
+28540,1,Hillary Clinton to Goldman Sachs: ’I Represented All of You for Eight Years’ - Breitbart
+28573,3,Obama Sanctions Russia over Unproven Hacking Claims - Breitbart
+28659,4,2016 Election: World Reacts to Donald Trump’s Stunning Upset Victory - Breitbart
+28820,1,Exclusive: Donald Trump: ‘I Am the Messenger’
+28862,2,Obama: I Told the Russians to ‘Stop It’ and ‘Cut It Out’ After Hacks - Breitbart
+28878,1,Schweizer Calls for ’Major IRS Investigation’ of Clinton Foundation - Breitbart
+28896,1,Exclusive — KellyAnne Conway on Donald Trump’s Debate Win: Hillary Clinton Was ‘Indignant and Rattled’ - Breitbart
+28921,1,Jonathan Daniel Brown: Democrats Shouldn’t Expect Bernie Supporters to ’Fall in Line’ for Clinton - Breitbart
+28923,2,Kaine Dodges on Clinton’s ‘Open Borders’ Leak: ’I Have No Way of Knowing’ If Comments Are True - Breitbart
+28969,3,ESPN’s LZ Granderson: Hillary Is Off the Campaign Trail to Avoid Questions About WikiLeaks - Breitbart
+28980,1,5 Times Democrats Claimed U.S. Elections Are ’Rigged’ - Breitbart
+28995,3,Kellogg Foundation Made Huge Grants to John Podesta’s Center for American Progress
+29078,1,Kaine: No Apology Necessary for Clinton Team’s Mockery of Catholicism - Breitbart
+29112,1,WikiLeaks: Hillary Clinton’s Plan to Strip Religious Liberty Protections, Fund Abortion Overseas - Breitbart
+29163,1,Hillary Clinton’s 9/11 Health Scare Fails to Reach Twitter Trends - Breitbart
+29168,9,Twitter Users Call on Donald Trump to Pardon Wikileaks’ Julian Assange - Breitbart
+29202,3,Exclusive -- Donald Trump: Rigged Election Includes Media Bias, Clinton Cheating, and ‘Fact That She’s Even Allowed to Run’
+29212,1,Apple’s CEO Tim Cook Hosts $50,000-per-Ticket Hillary Fundraiser
+29285,3,Wikileaks: Clinton Team Feared Labor Backlash After Obama Cleared Malaysia’s Human Rights Record to Push TPP - Breitbart
+29302,1,Schweizer: Morocco WikiLeaks Further Proof of Clinton Foundation’s ’Quid Pro Quo’ - Breitbart
+29353,1,The Energizer: Clinton Campaign Closely Monitored Reports About Bill Clinton’s Alleged Mistress - Breitbart
+29469,3,Critics Say Russian Hacking Story Driven by Hidden Agendas
+29518,1,Google Hides Popular Hillary Clinton Health Searches - Breitbart
+29565,5,Donald Trump: ’RIGGED!’ WikiLeaks Shows Her Camp Knew Clinton Mishandled Classified Info - Breitbart
+29567,7,Twitter Stock Rating Downgraded WikiLeaks Decries ’Cyber Feudalism’ - Breitbart
+29573,2,Russian Request to Send Election Monitors to Texas Denied
+29598,1,Newt: Media Engaging in a ’Scurrilous Smear’ Campaign Against Trump - Breitbart
+29604,2,Democratic National Convention Begins with Racial Gatherings
+29683,1,Clinton Campaign on Defense Over WikiLeaks and Rapist Protesters - Breitbart
+29737,1,Podesta Calls for Investigation Into Trump Campaigns ’Collusion’ With Russia - Breitbart
+29797,19,Facebook Calls WikiLeaks Block ’An Accident’ After Accusations Of Censorship - Breitbart
+29802,1,Top DNC Officials Go Down as Convention E-Mail Scandal Rages
+29826,1,Wikileaks - Hillary Clinton Admits: Political System Designed to Protect Party Establishments Suggests New Rules to Benefit Democrats - Breitbart
+29867,1,Wikileaks: Clinton Camp Entertained Having Pitbull Produce a Hillary Song - Breitbart
+29882,1,FBI Investigate Potential Hack of DNC Staff Cell Phones - Breitbart
+30101,3,John Fund: WikiLeaks, a Ticking Time-Bomb for Democrats - Breitbart
+30138,1,WikiLeaks: Clinton Team Recommended Using Emily’s List to Coordinate Ads With Super PAC - Breitbart
+30260,1,Wikileaks: Top Aide to Hillary Clinton Urges her to Recruit Two ‘Needy Latinos’ - Breitbart
+30268,2,Wikileaks: Democrat-Media Complex Hall of Fame (So Far)
+30331,1,MSM Ignore Day Four of Democratic National Convention Protests
+30400,1,Hillary Clinton: ’There Were Very Few Civilian Casualties’ in Libya - Breitbart
+30405,1,WikiLeaks: Clinton Foundation Employees Gave Organization Poor Grade for Effectiveness - Breitbart
+30479,1,Conditions Right For DNC Riot - Breitbart
+30596,1,TIME: Trump Loss Could Result in ’A New Right-Wing Populist Party, Anchored by a Trump-Breitbart-Ailes Media Empire’ - Breitbart
+30638,1,’Hilliar Clinton’ Game Removed From Google Play Store, But ’Punch The Trump’ Remains Up - Breitbart
+30681,2,Bolton on WikiLeaks Revelations: Hillary Clinton Thinks the World Must ’Get Ready for Open Borders’
+30683,1,Wikileaks Release: Hillary Clinton Press Sec Says Gun Control to Be Implemented by Executive Order - Breitbart
+30718,1,The Panama Papers Claim to Expose World Leaders’ Riches
+30755,8,8 Times Hillary Clinton Pushed Fake News
+30761,1,WATCH: Delegates Protest, Walk Out of Hillary’s DNC Speech
+30818,1,Rand Paul: Hillary Could Get Five Years in Prison for Lying to Congress About Syrian Weapons - Breitbart
+30826,2,Twitter Suspends Hacker Guccifer 2.0 After He Hacks Congressional Democrats - Breitbart
+30827,1,Huma Abedin: Hillary Is ’Still Not Perfect in Her Head’ - Breitbart
+30866,2,WikiLeaks: Hillary Clinton Said Jordan ’Can’t Possibly Vet All Those Refugees’ from Syria
+30933,4,WikiLeaks Releases Over 1,000 Clinton Iraq War Emails - Breitbart
+30960,1,DNC Employee Emailed Passwords Twice Over Hacked Server
+30975,1,Clinton Foundation Fears It Was Hacked, Hires Cyber Security Firm - Breitbart
+30985,1,Wikileaks: John Harwood Boasted of Goading Trump at Debate
+31009,1,WikiLeaks Emails Show DNC Worked Against Bernie Sanders - Breitbart
+31014,1,Trump Slams Clinton, Obamacare: ’One Big Lie’ - Breitbart
+31070,2,Wikileaks: ’Take the Money!!’ from Foreign Govt. Lobbyists
+31214,1,The Intercept: Wikileaks ’Prove Coordination Between Clinton Campaign and Super PACs’ - Breitbart
+31255,2,Wikileaks: Clinton Campaign Saw Vox’s Ezra Klein as Attack Dog
+31272,1,Julian Assange: ’Our Source Is Not the Russian Government’ - Breitbart
+31326,1,Huffington Post Has Written Just Three News Stories About Clinton’s Email Server in Three Months - Breitbart
+31330,2,Magic Bullet: Rush and Caller Reveal How ’Clinton Cash’ Uranium Revelation Turns Democrats into Trump Voters - Breitbart
+31341,1,Video: Debbie Wasserman Schultz Might Be the Most Hated Person in Philadelphia - Breitbart
+31405,1,WikiLeaks — Team Hillary Celebrates: ‘She Didn’t Seem Like a Bitch in the Interview’ - Breitbart
+31457,2,Wikileaks: Hillary Camp Chair Asked NYT to Call for ’Extradition’ of Cecil the Lion’s Hunter
+31505,1,Watch VICE News Special on Breitbart at DNC: ‘Our Job Here’ Is to Give Bernie Supporters a Voice Amid Rigged System - Breitbart
+31507,3,Wikileaks: Hillary Clinton Campaign Plans to Get Ahead of ’Hyper Sensitive’ Health, Tax Issues - Breitbart
+31555,1,Rigged Media: Politico’s Chief Political Correspondent Glenn Thrush Identifies Himself as ’Hack’ for Podesta - Breitbart
+31562,1,United Together? Bernie Supporters Plotting ‘Formal Challenge’ to VP Pick Kaine, Chant ‘Never Hillary’ - Breitbart
+31656,9,WikiLeaks’ Assange: Russia didn’t give us emails
+31658,1,Trump derides intel briefing on ’so-called’ Russian hacking
+31682,1,CNN 10 - January 5, 2017
+31684,4,Donald Trump’s fight with America’s spies
+31701,1,Trump asking Congress, not Mexico, to pay for border wall
+31704,1,Former CIA chief cuts ties with Trump
+31708,3,Intel report says US identifies go-betweens who gave emails to WikiLeaks
+31718,2,Kaine: Why is Trump Putin’s ’defense lawyer’?
+31735,1,Putin’s ’act of war’ against American democracy
+31738,4,Intel report: Putin directly ordered effort to influence election
+31741,2,Why proving source of a cyberattack is so damn difficult
+31759,3,10 most damning findings from report on Russian election interference
+31771,1,Trump: Only ’stupid’ people think warm ties with Russia are a bad thing
+31835,1,Donald Trump is ’gaslighting’ all of us
+31855,1,President Obama can help beat fake news
+31905,1,FBI Director Comey’s political firestorm, explained
+31917,1,DNC chair contenders eye new Trump fight
+31985,8,WikiLeaks celebrates Chelsea Manning’s commutation
+31988,9,Obama commutes sentence of Chelsea Manning
+32014,1,Obama commutes Puerto Rican nationalist’s sentence
+32690,1,The irony of Trump whining about leaks
+32721,3,Full transcript: President Donald Trump’s news conference
+33115,1,Graham vows to ’get to the bottom’ of Trump’s wiretapping claims
+33216,32,WikiLeaks Fast Facts
+33221,12,Federal criminal probe being opened into WikiLeaks’ publication of CIA documents
+33647,1,The only 4 things you need to know about Trump and Russia
+33973,14,WikiLeaks slams CIA director for trying to ’stifle speech’
+34360,1,Hillary Clinton slams ’groups of men’ trying to strip away women’s health protections
+34369,2,Clinton: ’If the election had been on October 27, I would be your president’
+34395,1,Sen. Feinstein on Comey’s disclosure: ’Should he have done it? Probably not’
+34521,1,Clapper: Putin did it to demean Clinton and help elect Trump
+34536,1,CNN exclusive: Grand jury subpoenas issued in FBI’s Russia investigation
+34541,1,Trump fires FBI director James Comey
+34549,1,Chelsea Manning set for release next week
+34576,2,Is Roger Stone making good on a 40-year-old grudge?
+34741,1,Trump reportedly urged Comey to jail reporters
+34919,3,Seth Rich and the myth behind the DNC staffer’s killing
+34946,5,Who’s who in Trump-Russia saga
+35209,1,Contractor charged with leaking classified NSA info on Russian hacking
+35229,2,What we know about Reality Winner
+35299,1,Accused leaker Reality Winner pleads not guilty
+35764,1,CNN’s Reality Check Team vets Trump’s claims
+36099,1,Manning’s lawyers seek answers after apparent suicide attempt
+36234,2,Manning tweets ’I’m OK’ after suicide attempt
+36424,4,Turkey declares three-month state of emergency
+36514,3,’See you in Philly’: Protesters emboldened by Wasserman Schultz departure
+36520,3,What was in the DNC email leak?
+36528,2,Is Russia trying to influence U.S. election?
+36539,3,Sources: US officials warned DNC of hack months before the party acted
+36543,2,DNC hack roils Philly convention
+36550,4,Obama: ’Possible’ Putin trying to sway vote for Trump
+36566,1,The Bernie believers still holding out hope
+36585,1,Dems accuse Trump of disloyalty over Clinton emails
+36589,3,Trump encourages Putin, America’s foe
+36591,2,Wikileaks posts hacked DNC voicemails
+36602,1,10 takeaways from the Democratic convention
+36623,2,Assange: ’We have more material related to the Hillary Clinton campaign’
+36673,2,Assange won’t say whether Russia behind DNC hack
+36783,3,Jill Stein: ’No question’ Julian Assange is a hero
+36797,7,WikiLeaks walks back Assange claim on hacking Trump tax returns
+36914,1,Nancy Pelosi: DNC hack is ’electronic Watergate’
+36938,2,Hacker releases cell phone numbers, personal emails of House Democrats
+36999,1,Obama emerges from vacation to boost Clinton’s coffers
+37191,1,FBI investigating Russian hack of New York Times reporters, others
+37348,1,Rubio, McCain, Wasserman Schultz win primaries
+37626,3,Chelsea Manning begins hunger strike
+37680,1,Chelsea Manning will undergo gender transition surgery, lawyer says
+37682,1,A reader’s guide to absurd Clinton health conspiracies
+37737,6,WikiLeaks’ Julian Assange fails to overturn arrest warrant
+37999,15,Julian Assange Fast Facts
+38255,1,Trump issues defiant apology for lewd remarks
+38266,3,WikiLeaks posts apparent excerpts of Clinton Wall Street speeches
+38267,3,US accuses Russia of trying to interfere with 2016 election
+38275,1,What to watch in the second presidential debate
+38307,1,Who won the town hall debate?
+38313,1,7 takeaways from the second presidential debate
+38319,1,Fact-checking the 2nd debate
+38420,4,Hacked email: Dem operatives polled about Muslim faith of Obama’s father
+38445,3,Clinton campaign discussed ways to refute rape accuser’s claims
+38449,7,WikiLeaks releases transcripts of Clinton Goldman Sachs speeches
+38457,1,Trump ratchets up ’rigged election’ claims, which Pence downplays
+38487,1,Third presidential debate: 5 takeaways
+38491,2,The final debate: CNN’s Reality Check Team vets the claims
+38573,1,The ultimate triumph: President Trump
+38608,1,Is the Obama coalition finished?
+38609,1,Post-election, the hard work begins
+38661,1,Democrats try to pick up the pieces
+39128,6,Trump national security pick once wrote Chelsea Manning should be tried for treason, executed if guilty
+39162,2,Trump deputy national security pick scrubs her website, Twitter, and Facebook from the Internet
+39178,1,Guantanamo Bay Naval Station Fast Facts
+39266,1,Lindsey Graham, Democrats plan probes of hacking
+39315,1,Where’s the outrage over the Russia hack?
+39337,1,Trump takes aim at US intel on Russia
+39349,1,Gap on Russia hacking conclusions between intelligence, FBI
+39365,2,Trump’s shockingly honest approach to Putin
+39383,1,Russia’s role is shocking but there’s no evidence the vote was hacked
+39386,1,Why the Obama administration didn’t respond earlier to Russian hacks
+39431,1,Gloves-off White House creates rift between Obama and Trump teams
+39441,1,2016 In Review Fast Facts
+39451,2,Intel analysis shows Putin approved election hacking
+39462,1,Obama all but names Putin as behind hacking
+39687,8, 2016 Presidential Campaign Hacking Fast Facts
+39766,1,Franks walks back comments on Russia hacking
+40629,1,A gripping glimpse into bin Laden’s decline and fall
+40720,1,How Russian, Chinese gangs connect to a bank in Andorra
+41101,1,Chelsea Manning is tweeting from prison
+41881,1,Putin rips U.S. over FIFA corruption case
+42543,7,WikiLeaks report alleges NSA spied on French presidents
+43130,1,Speculation is mounting that Mark Zuckerberg wants to serve in government
+43154,4,Trump says he had ’constructive meeting’ with intelligence officials, emphasizes ’absolutely no effect on the outcome of the election’
+43157,13,The US intelligence report on Russian hacking directly implicates WikiLeaks
+43158,8,US intel report devotes 7 pages to Russia Today’s role in influencing election outcome
+43185,2,CNN anchor confronts Trump adviser on Russia: ’How can you say that the hacking had no impact on the election?’
+43242,1,Democrats let FBI Director James Comey have it during tense closed-door meeting on Russian hacking
+43267,10,Explosive memos suggest that a Trump-Russia quid pro quo was at the heart of the GOP’s dramatic shift on Ukraine
+43294,3,Obama commutes WikiLeaks whistleblower Chelsea Manning’s sentence — she’ll be free in 5 months
+43297,4,Top Republicans blast Obama’s decision to commute Chelsea Manning’s sentence
+43307,1,’I feel that justice has been served’: Obama defends commuting Chelsea Manning’s sentence in final press conference
+43666,1,DEMOCRATS: Trump’s Russia controversy is ’already bigger than Watergate’
+43785,2,’It transformed me’: Donna Brazile reflects on ’constant harassment,’ bomb threats that came after DNC hacks
+43842,1,We now know more about why Jeff Sessions and a Russian ambassador crossed paths at the Republican convention
+43912,17,Everyone is talking about WikiLeaks’ massive CIA data dump — here’s what’s going on
+43913,1,Conservative media outlets are turning against the Republican Obamacare replacement plan
+43917,4,WikiLeaks’ dump of CIA hacking tools is ’devastating’ for the agency — but there may be an upside
+43933,3,’It is amazing that I even have to ask this question’: Top Republican senator asks Sessions if he thinks Assange broke the law
+43936,9,Conservative media figures embrace wild WikiLeaks conspiracy theory that CIA hacked DNC, then framed Russia
+43965,18,WikiLeaks has joined the Trump administration
+44069,6,The FBI’s investigation into Trump and Russia coincided with game-changing, Russia-related events on the campaign trail
+44075,1,Comey confirms FBI investigation into Russia-Trump contacts, denies wiretapping in 5-hour congressional testimony
+44124,1,A trio of key Trump associates have taken a big step forward in the Russia investigation
+44149,5,A timeline of events that unfolded during the election appears to support the FBI’s investigation into Trump and Russia
+44157,1,This Trump tweet was one of his most terrifying lies yet
+44158,26,Apple totally dissed WikiLeaks this week — here’s why
+44187,1,Lindsey Graham on Kushner’s meeting with Russian bank CEO: ’He should explain what that was about’
+44467,12,WikiLeaks and its founder Julian Assange may face criminal charges in the US
+44629,2,Hillary Clinton: ’I was on the way to winning’ the election until the FBI and Russia interfered
+44650,1,Comey successfully dodged the biggest question looming over the Trump-Russia probe
+44684,1,What we know about the massive computer hack against French presidential candidate Emmanuel Macron
+44895,5,Sean Hannity slams ’phony hypocrites’ for attacking him after Fox News retracts Seth Rich story
+44914,3,Advertisers begin dropping Sean Hannity’s show amid the controversy over Seth Rich conspiracies
+47687,1,The 10 most important things in the world right now
+47866,1,’We trusted you!’: Elizabeth Warren repeatedly heckled, booed during DNC speech
+47877,1,Edward Snowden said the NSA could ’certainly’ trace the DNC hack — here’s what experts think
+48132,1,Here’s why the supposed NSA ’hack’ is unlike anything we’ve ever seen before
+48805,2,Wikileaks releases what appear to be transcripts of Hillary Clinton’s private speeches
+48809,1,CNN host Jake Tapper has fantastic response to getting called a ’dick’ by Clinton campaign chair
+48830,1,Chuck Todd delivers knockout punch to exasperated Rudy Giuliani with devastating question
+48840,2,Leaked email: Top Clinton adviser said Chelsea was ’acting like a spoiled brat’ in 2011
+48844,2,Leaked emails show tension and turmoil inside Hillary Clinton’s inner circle
+48848,1,Trump’s campaign keeps dismissing his controversial statements with the same defense
+48872,1,New email suggests DNC chair had exact CNN town hall question in advance
+48894,1,The US is reportedly considering a cyber attack to ’embarrass’ Russia over alleged hacking
+48907,3,Clinton in chat with Goldman Sachs: ’I had grown men cry’
+48939,1,’Don’t share or tell anyone I did this’: Politico reporter criticized for email to Clinton campaign chair
+48955,2,Hillary Clinton and Donald Trump just faced off in their final presidential debate — here’s how it unfolded
+48958,3,The US told Ecuador to give Wikileaks ’an eviction notice,’ according to intelligence officials
+48968,1,Hillary Clinton beat Donald Trump at his own debate game
+48969,4,Things got uncomfortably awkward after Trump jabbed Clinton at a swanky New York charity dinner
+49004,1,A massive cyberattack knocked out major websites across the internet
+49036,3,Donald Trump calls for an investigation into Obama after latest WikiLeaks revelations
+49068,1,’Why would you want to "use" my dad?’: Eric Garner’s daughter slams Clinton campaign over WikiLeaks emails
+49073,1,Both sides want the FBI to come clean with more information about Hillary Clinton’s emails — for wildly different reasons
+49103,2,Putin’s chaos strategy is coming back to bite him
+49118,1,Sean Hannity promotes conspiracy theory Clinton was drunk at rally, then claims he didn’t mean to do so
+49194,1,DRUDGE: ’48 hours of madness’ coming after FBI announcement stirs the ’hornets nest’
+49296,3,NSA CHIEF: A nation-state made a ’conscious effort’ to sway the US presidential election
+49666,1,Former Republican presidential candidate says Russia hacked his accounts, calls for ’crippling sanctions’ against Putin
+49675,3,ASSANGE: I would’ve had ’no problem’ releasing similar info about Trump and might do so in 4 years
+49678,1,The White House suggests Putin personally involved in DNC hack
+49679,2,WikiLeaks founder Julian Assange to media: You are ’increasingly not very important’
+49687,1,Obama spends final press conference of 2016 warning Putin and Russia: ’We can do stuff to you’
+49690,1,FBI agrees with CIA assessment that Russia meddled in the US election to help Trump win
+49714,1,Republican and Democratic senators uniting to call for a probe into Russia influencing the US election
+49763,1,The untold story of Trump son-in-law Jared Kushner’s quest to become a media mogul
+49836,2,Does Anyone Know What to Make of Obama’s Sanctions?
+49885,3,Why Is Trump So Reluctant to Accept Claims of Russian Hacking?
+49930,2,An Intelligence Report That Will Change No One’s Mind
+49931,6,Did Putin Direct Russian Hacking? And Other Big Questions
+49969,1,The Trouble With Publishing the Trump Dossier
+49990,1,How Blackmail Works in Russia

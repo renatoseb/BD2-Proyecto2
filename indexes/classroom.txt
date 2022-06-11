@@ -1,0 +1,386 @@
+50,1,President Xi’s Great Chinese Soccer Dream - The New York Times
+83,1,Italian Inmates Sip, Smell and Taste Their Way to Rehabilitation - The New York Times
+257,1,Young Symbol of Afghan Resilience Joins List of Lost Leaders - The New York Times
+318,1,I Know How It Feels to Be Someone’s ‘Token.’ I’m Sure Ben Carson Does, Too. - The New York Times
+320,1,‘You Focus on the Good’: Women Who Voted for Trump, in Their Own Words - The New York Times
+580,1,‘The Only Way We Can Fight Back Is to Excel’ - The New York Times
+686,1,In America’s Heartland, Discussing Climate Change Without Saying ‘Climate Change’ - The New York Times
+689,1,Seeking a Fresh Start Without Limitations - The New York Times
+847,1,China’s Intelligent Weaponry Gets Smarter - The New York Times
+1053,5,How to Pick a Preschool in Less Than an Hour - The New York Times
+1198,2,Beyond ‘Hidden Figures’: Nurturing New Black and Latino Math Whizzes - The New York Times
+1200,1,College Costs Too Much? N.Y.U. Paves Way to Graduate Faster - The New York Times
+1332,1,The Retraining Paradox - The New York Times
+1352,1,Doctors Consider a Last Best Hope for Obese Teenagers: Surgery - The New York Times
+1360,4,Andy Weir’s Best Seller ‘The Martian’ Gets a Classroom-Friendly Makeover - The New York Times
+1384,2,10 Police Officers Killed in Ambush by Militants in Afghanistan - The New York Times
+1427,1,Threats and Vandalism Leave American Jews on Edge in Trump Era - The New York Times
+1518,1,Infant and Fetus Remains Are Found at Ex-Home for Unwed Mothers in Ireland - The New York Times
+1575,1,Trump Tower, T.S.A., Iraq: Your Monday Evening Briefing - The New York Times
+1609,1,Threats to Jewish Centers ‘Are Not Isolated Incidents,’ Senators Say - The New York Times
+1657,1,Obama Education Rules Are Swept Aside by Congress - The New York Times
+1722,1,The Hills Are Alive With the Sound of Julie Andrews and Henson Puppets - The New York Times
+1785,1,Snowstorm Brings Wintry Mix of Slush and Gripes - The New York Times
+1836,2,Why the Whitney’s Humanist, Pro-Diversity Biennial Is a Revelation - The New York Times
+1948,1,11 Great Reads That Have Nothing to Do With Politics - The New York Times
+2197,1,Trump Talks Tough on U.S.-China Trade but Delays Real Action - The New York Times
+2230,2,North Carolina’s Dominance Fails to Cover Cheating’s Stain - The New York Times
+2400,2,Do Preschool Teachers Really Need to Be College Graduates? - The New York Times
+2450,3,San Bernardino School Shooting Leaves 3 Dead, Including Student - The New York Times
+2481,3,Special Ed School Vouchers May Come With Hidden Costs - The New York Times
+2760,17,Online School Enriches Affiliated Companies if Not Its Students - The New York Times
+2767,1,Donald Trump and Hillary Clinton Set for Clash on Gun Control - The New York Times
+2802,2,Dreams Stall as CUNY, New York City’s Engine of Mobility, Sputters - The New York Times
+2825,1,Kansas Parents Worry Schools Are Slipping Amid Budget Battles - The New York Times
+2876,1,Justice or ‘Conspiracy’? Terrorism Trial Divides Somalis in Minneapolis - The New York Times
+2996,1,Defining, and Proclaiming, a New Black Power - The New York Times
+3008,1,‘Always Agitated. Always Mad’: Omar Mateen, According to Those Who Knew Him - The New York Times
+3074,1,European Union, Donald Trump, Bernie Sanders: Your Friday Evening Briefing - The New York Times
+3179,1,Struggles in a Steel Town Highlighted by Donald Trump - The New York Times
+3254,1,Texas Open-Carry Laws Blurred Lines Between Suspects and Marchers - The New York Times
+3433,1,Are Final Clubs Too Exclusive for Harvard? - The New York Times
+3497,2,U.S. Could Exceed Goal of Accepting 10,000 Syrian Refugees - The New York Times
+3504,1,On Field and in Hometown, Neymar Tries to Change the Narrative - The New York Times
+3557,2,South Carolina Law on Disrupting School Faces Legal Challenge - The New York Times
+3641,2,Debt. Terror. Politics. To Seattle Millennials, the Future Looks Scary. - The New York Times
+3736,1,University of Texas Students Find the Absurd in a New Gun Law - The New York Times
+3926,2,The Secret History of Colombia’s Paramilitaries and the U.S. War on Drugs - The New York Times
+4216,1,Teaching Your Child Emotional Agility - The New York Times
+4245,2,‘Doomocracy’ Puts the Politics of Fear on Display in Brooklyn - The New York Times
+4434,1,Mosul Is Breached by Iraqi Forces, Heralding a New, Complex Phase - The New York Times
+4672,1,A Crumpled School Bus Leaves Chattanooga Dazed - The New York Times
+4738,1,Suspect Is Killed in Attack at Ohio State University That Injured 11 - The New York Times
+4879,1,The Woman Who Might Find Us Another Earth - The New York Times
+5013,1,Six Ways to Give the Gift of Generosity to Children and Teenagers - The New York Times
+5255,1,Malia Obama to Attend Harvard, but Not Until 2017 - The New York Times
+5315,1,Citing Family, Hillary Clinton Affirms Gun-Control Stance - The New York Times
+5342,1,U.C.L.A. Gunman May Have Targeted 2nd Professor and Killed Woman - The New York Times
+5418,1,Why the Orlando Shooting Is Unlikely to Lead to Major New Gun Laws - The New York Times
+5483,3,A Sea of Charter Schools in Detroit Leaves Students Adrift - The New York Times
+5542,1,On a Somber Sunday, ‘One Nation Under God Examines Its Soul’ - The New York Times
+5792,5,What University of Texas Campus Is Saying About Concealed Guns - The New York Times
+5795,1,Africa’s Tennis Talent, Though Obscure, Is Burgeoning - The New York Times
+5817,2,What Kids Wish Their Teachers Knew - The New York Times
+5916,4,Can You Erase the Trauma From a Place Like Sandy Hook? - The New York Times
+6169,1,In Once-Tolerant Mosul, a Social Unraveling That Feels Permanent - The New York Times
+6227,1,‘This Election Changed My Mind About America’ - The New York Times
+6290,1,Two Black Women Embrace Their Chance to Be Hockey Role Models - The New York Times
+6354,1,Trump Picks Scott Pruitt, Climate Change Denialist, to Lead E.P.A. - The New York Times
+6413,2,The Best Architecture in New York of 2016 - The New York Times
+6483,1,Houses of Worship Poised to Serve as Trump-Era Immigrant Sanctuaries - The New York Times
+6605,6,Choosing a School for My Daughter in a Segregated City - The New York Times
+6864,1,Minority Youths Mistrust Police. A Brooklyn High School Has a Plan. - The New York Times
+6963,1,‘Hamilton’ and Heartache: Living the Unimaginable - The New York Times
+7153,13,New Rules May Curb Classroom Cupcakes - The New York Times
+7174,2,The Fighter - The New York Times
+7235,1,After Nightclub Massacre, Obama Expresses Outrage and a Familiar Lament - The New York Times
+7412,1,At ‘Doomocracy,’ It’s Fright Night in Brooklyn - The New York Times
+7465,3,Professor Watchlist Is Seen as Threat to Academic Freedom - The New York Times
+7476,2,Pursuing a Dream in Film, With Tips From Spike Lee - The New York Times
+7588,1,A Young Syrian Torchbearer Highlights Brazil’s Embrace of Refugees - The New York Times
+7631,1,Obama Says African-American Museum Will Tell of ‘Suffering and Delight’ - The New York Times
+7733,7,Attack at University in Kabul Shatters a Sense of Freedom - The New York Times
+7823,1,Kentucky Rep. Thomas Massie Launches Bill to Abolish Federal Education Department - Breitbart
+7935,1,University of Colorado Regent Defends MILO, Wants More Conservative Voices on Campus - Breitbart
+8083,1,Transgender Politics: NC Keeps Core of HB2 Sexual Privacy Law While Ending Sports Boycott - Breitbart
+8194,2,Two Adults Killed in Alleged Murder-Suicide at CA Elementary School
+8226,3,Evergreen State Spokesperson Lies to Press, Says Weinstein has Returned to Campus - Breitbart
+8320,1,Texas Sees Bump in Mumps
+8696,1,NEW STRATEGY: Left-Wing Students are Scheduling Alternative Speakers to Counter MILO’s Events - Breitbart
+8706,2,Texas House Passes Crackdown Policy on Teacher-Student Sex
+8782,1,Texas Students Skip School to Protest Arrests of Violent Criminals
+8822,2,New York State Kills Literacy Test for Teachers: Minority Kids Hardest Hit - Breitbart
+8829,3,University of Arizona Instructs Students to Say ’Ouch!’ when Offended - Breitbart
+8869,2,Tom Ciccotta Shuts Down Feminist Bucknell Professor for Interrupting Guest Speaker - Breitbart
+8933,1,Texas Teacher Admits to Three-Way Sex With High Schoolers, Say Police
+9033,1,Report: Migrant Children Will ’Overload’ German School System
+9043,1,Integration Expert: Ban Headscarves for Public Employees
+9116,1,Free Speech Under Siege at UCLA as Conservative Professor Tries to Save Job - Breitbart
+9194,1,Catholic School Vouchers Lead to Decline in Church Donations
+9425,1,Kansas Rally Against Campus Carry Draws 15 People
+9691,1,Lott: Police Commit More Gun Crimes Than Concealed Carry Permit Holders
+9710,1,Five-Year-Old Girl Suspended After Making ’Shooting Motion’ with Stick Shaped Like Gun - Breitbart
+9750,1,Bucknell Faculty Dismiss Academic Freedom of Expression Bill - Breitbart
+10346,1,CT Gov. Malloy Instructs School Superintendents to Follow Obama’s Transgender Bathroom Policy - Breitbart
+10853,1,Ohio Teacher Shamed 9-Year-Old for Shirt Commemorating First Deer Kill - Breitbart
+11080,1,College Professors Organize National ‘Teach-In’ to Challenge ‘Trumpism’ - Breitbart
+11101,1,Two Female Texas Teachers Accused of Middle School Sex
+11375,1,Neil Gorsuch: Bill of Rights Added Because Founding Fathers Were ’Jealous of Their Liberties’ - Breitbart
+11446,1,Evergreen President ’Deeply Disappointed’ by Protesters, Says They May Face Punishments - Breitbart
+11638,1,Austin Schools Jump on ’Sanctuary’ Bandwagon
+11729,2,Dem. Assemblyman Pushes Bill to Guarantee Teachers Cannot Shoot Back if Attackers Strike - Breitbart
+12006,2,Maher: ’Trump’s Stormtroopers’ Are Pulling 16-Year-Olds Out of Classrooms To Deport Them - Breitbart
+12127,1,VIDEO: Kindergarten Teacher Keeps Children Calm During Cartel Firefight
+12200,1,Texas Rep. Roger Williams Co-Sponsors Bill to End U.S. Education Department - Breitbart
+12394,2,Tennessee Enacts Nation’s ’Most Comprehensive’ Campus Free Speech Law
+13043,1,New Cases of FGM Reported Every Hour in UK
+13147,3,’MILO Bill’ Filed in Tennessee to Ensure Freedom of Speech on College Campuses - Breitbart
+13161,1,Mayor de Blasio to Block ICE Officers from Entering City Schools - Breitbart
+13318,1,Texas Teacher Pretends to Shoot Trump in Class
+13456,1,Ivy League Schools Receive $41 Billion from Government in Six Years - Breitbart
+13491,1,U. Texas Anti-Trump Demonstration Promises Social Justice ’Twerkshop’
+14010,1,NC Rep. David Rouzer Introduces Second House Bill to Eliminate U.S. Education Department - Breitbart
+14050,1,Gun Controllers Advertise ’Bulletproof Hoodies’ for Students on Campus Carry Campuses
+14442,1,Rowan University Guidebook Claims Meritocracy Is a Microaggression - Breitbart
+14520,1,Justin Trudeau Booed at Disastrous Town Hall as Polls Show Lowest Approval Ever - Breitbart
+14661,1,Donald Trump’s Comprehensive Border Reforms Kill Obama’s Pro-Migration Policies - Breitbart
+14799,1,David Webb: Education Choice Under Fire in D.C. and Ohio - Breitbart
+14966,1,More Voices Raised to Defend Dr. Sebastian Gorka
+14969,1,Exclusive: Sarah Palin on Donald Trump’s First 100 Days
+14974,1,Brainwash Children Against Trump, Education Mag Tells Teachers
+15814,1,Report: Identity of St. Cloud, Minnesota Mall Attacker Revealed as Dahir Adan, Say ’Leaders of Somali-American Community’ - Breitbart
+16359,1,***GOP Convention LiveWire*** Trump Accepts Nomination - Breitbart
+16460,1,Hillary Clinton Tries to Project ’Love and Kindness’
+16522,1,Fans Blast Fergie’s ’MILF Money’ Music Video as ’Trash’
+16573,1,UC Student Body President Opposes Campus Carry Because of ’Stabbings’
+16640,2,Uniformed Officer ’Escorted’ From Classroom: Teacher ’Uncomfortable’ With Gun - Breitbart
+16827,1,Muslims Account For Only A Third Of Referrals To Government’s De-Radicalisation Program
+17513,3,Murder-Suicide at UCLA - Breitbart
+17646,2,California: 1st State To Teach LGBT Curriculum -- to 2nd Graders
+17761,1,Milo Yiannopoulos Leads Emory Students on ’Chalkening’ Crusade Around Campus - Breitbart
+17768,2,The Craziest Writings Of Social Justice Warrior Academics
+18209,1,Kansas State University Gun Policy to Allow Campus-Wide Concealed Carry - Breitbart
+18284,1,Obama Administration’s ‘Equity’ Ideology in Public Schools Breeding Violence - Breitbart
+18666,1,Common Core A Part of Leftist Centralized Education Plan, Says Heritage Foundation Report - Breitbart
+18755,6,Texas Teacher Charged for Punching 2nd Grader in Face
+18891,1,School Board Upholds Suspension for Teacher Who Stomped on American Flag
+19206,1,Exclusive: Hillary Tells Yet Another Self-Aggrandizing Feminist Lie - Breitbart
+19217,1,O’Keefe Sting — Teachers Union President Brags About Threatening Student: ‘I Will Kick Your F***ing Ass’ - Breitbart
+19586,3,Breitbart Remembers 9/11
+19679,2,Boy Beaten After Backing Donald Trump in School Mock-Election - Breitbart
+19746,1,Texas Schools Rebuff ’A-F’ Ratings
+19748,1,Public Schools in Obama’s Home State Drowning in $20 Billion Debt - Breitbart
+19776,3,School Cancels Production of ’A Christmas Carol’ Due to Complaints About Famous Line, Education Concerns - Breitbart
+19840,1,High School Class Watches Torture Porn ‘Human Centipede II’ - Breitbart
+19844,1,Lady Gaga, Sexual Assault Survivors at Oscars Get Matching Tattoos - Breitbart
+19884,2,Washington State Schools Push ’Gender Fluid,’ Transgender Ideas on K-12 Kids - Breitbart
+19912,1,Twin Falls Crisis Imposed by Clinton-Era Pro-Refugee Advocates - Breitbart
+19952,1,Outsourcing Masculinity: Where Have All the American Action Heroes Gone?
+19979,1,Buffalo School District Offers Services in 85 Different Languages to Cater to Immigrants - Breitbart
+20208,1,China Recruits Male Teachers To ‘Salvage Masculinity in Schools’ - Breitbart
+20389,1,’Women In Business For Trump’ Kicks Off At Private Meeting - Breitbart
+20505,1,Trump Versus The Green Blob: The Battle That Will Define His Presidency - Breitbart
+20618,1,Teacher Impregnated by 13-Year-Old Student Turns Herself In
+20648,1,17 Per Cent of Teachers Quit Migrant Crisis Malmö in Six Months
+21638,1,Berkeley Protesters Demand ’Spaces of Color,’ Block White Students from Passing Through - Breitbart
+21730,1,Texas Lt. Gov. Asks Schools Not to Implement Obama’s Transgender Bathroom Policies
+22223,2,***Horse Race LiveWire*** Nevada Votes: Trump Beats Rubio, Cruz Combined - Breitbart
+22462,1,Bradley Cooper, Will Ferrell, 98 Other Celebs Thank Obama for Gun Control
+22674,2,Watch: George Washington University Students Don’t Believe America Is Exceptional - Breitbart
+22934,1,Number of Five to Eleven Year Olds Suspended for ’Racism’ Up 33 Per Cent
+23235,1,Teachers Who Scared Kids About Trump Now Try to Console Them
+23416,3,Muslim Profiling Isn’t Illegal, Unconstitutional, or Un-American - Breitbart
+23688,1,NFL to Use Virtual Reality Diversity Training Where Staff Are Harassed by a White Man - Breitbart
+24110,1,***Horse Race LiveWire*** Nevada: Hillary Beats Bernie Trump Projected to Win South Carolina - Breitbart
+24210,1,Prof. John Banzhaf: ‘Virtually All Constitutional Scholars Agree’ Muslim Immigration Ban Would Be Legal
+24251,1,Palestinian Terrorist’s Wife to Address Clinton Foundation
+24300,1,Robot Enrolled in High School in Japan - Breitbart
+24599,1,Second Amendment Voter’s Guide: Trump vs. Clinton - Breitbart
+24628,1,Only 1 in 25 UK Muslims Believe Al Qaeda Carried Out 9/11 Attacks
+24665,1,Michael Savage: Hillary’s ‘Deplorables’ Are ‘the Backbone of America,’ But Bill Clinton ‘Gutted Their Jobs, Deported Their Factories to China for Profit’ - Breitbart
+24700,1,Politically Correct Schoolgirls Cover Up Their Own Sex Attacks At Hands Of Migrants
+25388,1,Janet Napolitano Attacks ’Free Speech Darwinism’
+25713,1,NRA Photo Shows Election Day with Wrong Date for Gun Control Suppporters - Breitbart
+26147,1,New York Teacher Faces Backlash for Calling Students ’Racist’
+26232,1,Reuters: Working Class Democrats from Famous Rust Belt Town Rally Behind Trump’s Populist Message
+26274,1,Hillary: ’So Much’ ’Isn’t Working the Way It Should,’ Tells Young Voters It Can’t Just Be About What We’ll Give To You - Breitbart
+26320,1,Lavish Library of Islamic Knowledge ’For Everyone,’ Says Houston Mayor
+26397,1,Students Boycott High School’s Required ’Racial Identity’ Day
+26782,1,Hillary Emails: Palestinians Should Emulate Terrorism Pioneer Arafat’s ’Peace of the Brave’ - Breitbart
+27107,1,California Professor Calls Trump’s Win ’Act of Terrorism’
+27597,1,Boston Globe: Harvard Classmates Remember Steve Bannon’s Intellect and Leadership
+27966,1,Texas School Digs In for Ban on Charlie Brown Christmas Display
+28140,1,Carson Calls For ’Secret Shopper’ Monitoring of Government Agencies, Schools - Breitbart
+28164,1,Mayor Orders Closure Of ’Clandestine Islamic School’ In The Molenbeek District Of Brussels
+28575,2,Albuquerque Elementary Teachers Told to No Longer Address Students as ’Boys and Girls’ - Breitbart
+28803,1,Firearms Training Is the New ’Therapy Session’ for Female Crime Victims
+29040,1,As Sweden Tumbles In International School Performance League, As Sweden Tumbles In International School Performance League, Government Admits Poor Performance Caused By Mass MigrationAdmits Poor Performance Caused By Mass Migration
+29106,1,Brandeis Student Journalists Accused of Violating ’Safe Space’ for Covering Anti-Rape March - Breitbart
+29329,1,FULL TEXT: MILO Explains The Patriarchy At Ohio University - Breitbart
+29379,1,Texas School Moves to Toss ‘Clock Boy’ Discrimination Lawsuit
+29901,1,Migrants Who Threatened To Cut Throat Of 6-Year-Old Lied About Age To Get Into Classroom - Breitbart
+30488,2,Egypt Pens Legislation to Ban Niqab in Public Places
+30525,2,NY Teacher: How a Lockdown Changed My Mind on Guns in School - Breitbart
+30693,1,DePaul Gender Studies Dept. Release Statement Slamming President
+30924,2,Texas High School Students Perform Trump ’Assassination’ Skit
+30967,1,Professor Disciplined for ’Sexual Misconduct’ after Singing Beach Boys Song to Students - Breitbart
+31183,1,Trump’s Secret Weapon: Ivanka Campaigns in Critical Battleground North Carolina - Breitbart
+31209,2,Breitbart News Guide to the GOP 2016 Candidates: Common Core - Breitbart
+31389,2,Transgenders in the Military: A Deadly Distraction - Breitbart
+31406,3,’Alge-Bra’: Teacher Caught Browsing Lingerie on Projector
+31510,2,Qatar Gives $100,000 to Texas School to Push Arabic Language and Culture
+31682,1,CNN 10 - January 5, 2017
+31706,1,Talladega College band will perform at inauguration, school president says
+31717,1,CNN 10 - January 6, 2017
+31791,1,What Tilikum taught me
+31793,1,CNN 10 - January 9, 2017
+31794,1,CNN 10 - January 10, 2017
+31831,1,CNN 10 - January 11, 2017
+31882,1,CNN 10 - January 13, 2017
+31965,1,CNN 10 - January 17, 2017
+31992,1,CNN 10 - January 18, 2017
+32012,1,CNN 10 - January 19, 2017
+32144,1,CNN 10 - January 24, 2017
+32171,1,CNN 10 - January 25, 2017
+32190,1,CNN 10 - January 26, 2017
+32218,1,CNN 10 - January 27, 2017
+32303,1,CNN 10 - January 30, 2017
+32313,1,CNN 10 - January 31, 2017
+32333,1,CNN 10 - February 1, 2017
+32387,1,Milo Yiannopoulos is trying to convince colleges that hate speech is cool
+32536,1,CNN 10 - February 9, 2017
+32564,1,CNN 10 - February 10, 2017
+32566,1,Father of 3 girls who perished in 2011 Christmas fire dies
+32641,1,CNN 10 - February 13, 2017
+32645,1,CNN 10 - February 14, 2017
+32675,1,CNN 10 - February 15, 2017
+32689,1,CNN 10 - February 16, 2017
+32719,1,CNN 10 - February 17, 2017
+32733,1,Bomb threats target dozens of Jewish centers. Trump finally responds
+32809,1,CNN 10 - February 21, 2017
+32835,1,CNN 10 - February 22, 2017
+32853,1,Chicago public schools to keep ICE agents out
+32870,1,CNN 10 - February 23, 2017
+32881,1,CNN 10 - February 24, 2017
+32958,1,CNN 10 - February 27, 2017
+32988,1,CNN 10 - February 28, 2017
+33045,1,CNN 10 - March 2, 2017
+33074,1,CNN 10 - March 3, 2017
+33141,1,CNN 10 - March 6, 2017
+33171,1,Linda Burney: Australia’s first Aboriginal woman in parliament
+33204,1,CNN 10 - March 9, 2017
+33236,1,Obamacare repeal bill a test for dealmaker-in-chief
+33290,1,CNN 10 - March 13, 2017
+33351,1,CNN 10 - March 16, 2017
+33376,4,CNN 10 - March 17, 2017
+33423,1,How the 1% are preparing for the apocalypse
+33540,1,CNN 10 - March 27, 2017
+33588,1,CNN 10 - March 29, 2017
+33589,1,Could kidnapping law work in Tennessee teacher’s favor?
+33601,1,CNN 10 - March 30, 2017
+33617,1,CNN 10 - March 31, 2017
+33696,1,CNN 10 - April 3, 2017
+33722,1,CNN 10 - April 4, 2017
+33857,1,CNN 10 - April 10, 2017
+33873,6,Student among 3 dead in San Bernardino school shooting
+33897,1,San Bernardino school shooter fired 10 shots, reloaded once
+33977,3,San Bernardino shooting: 9-year-old victim getting better
+34076,1,This is what protest sounds like
+34098,1,This is life inside Mosul’s Old City
+34111,1,Boy with autism arrested at Florida school
+34115,1,’I’m glad this is over’: Tenn. teacher accused of kidnapping girl arrested in Calif.
+34120,1,Tad Cummins arrest: Tip leads to isolated cabin
+34138,3,How the adults failed Tennessee teen girl
+34162,2,End of the road: 39 days on the run for missing teacher and student
+34180,1,CNN 10 - April 25, 2017
+34211,1,CNN 10 - April 26, 2017
+34236,1,CNN 10 - April 27, 2017
+34249,1,CNN 10 - April 28, 2017
+34316,1,CNN 10 - May 1, 2017
+34382,1,CNN 10 - May 3, 2017
+34388,1,North Lake College shooting: Victim and suspect dead, police say
+34399,1,CNN 10 - May 4, 2017
+34416,1,CNN 10 - May 5, 2017
+34422,2,Ohio teacher fired for dragging student
+34450,2,School reflects on race after N-word exchange
+34476,1,CNN 10 - May 8, 2017
+34489,1,Trump singles out historically black college funds in signing statement
+34543,1,CNN 10 - May 10, 2017
+34572,1,CNN 10 - May 11, 2017
+34600,1,CNN 10 - May 12, 2017
+34660,1,CNN 10 - May 15, 2017
+34686,1,Teen dies from too much caffeine, coroner says
+34689,1,CNN 10 - May 16, 2017
+34713,1,CNN 10 - May 17, 2017
+34738,1,CNN 10 - May 18, 2017
+34747,1,Tad Cummins, former teacher, indicted on federal charges
+34753,1,CNN 10 - May 19, 2017
+34841,1,Immigrants eye Canada as US deportation fears grow
+34846,1,CNN 10 - May 22, 2017
+34874,1,CNN 10 - May 23, 2017
+34882,1,Lawsuit: Mississippi deprives black children of equal education
+34935,1,CNN 10 - May 26, 2017
+35090,1,CNN 10 - June 1, 2017
+35119,2,US School Violence Fast Facts
+35451,1,What’s the future of coal country? These grads aren’t sure
+35545,1,How do Navy ships operate?
+35709,2,Catching Fire: Cities building wooden towers
+35746,1,Rebounding after tragedy: Will Orlando club reopen?
+35973,1,Pat Summitt, legendary women’s basketball coach, dead at 64
+36564,1,Disability advocate steals spotlight at DNC
+36577,1,Memorable lines from Wednesday night at the DNC
+36888,1,Leaked files catalog cruelty and abuse on Nauru
+37092,1,Louisiana floods: Families cope at shelters
+37167,2,Covering a flood when it hits home
+37178,1,Tyra Banks is going to teach at Stanford
+37224,2,Kabul siege: 12 killed in attack on American University
+37572,2,Shooter dead after gunfire at Texas high school, sheriff says
+37751,1,’My decision and my right’ -- teen has sat out Pledge of Allegiance for years
+38339,2,Chicago teachers avoid strike after reaching new deal
+38347,3,How ’boys are better at math’ mindset causes STEM gender gap
+38360,1,Where it’s hardest to be a girl
+38424,1,Is the ’Trump Effect’ damaging our psyches?
+38725,1,Students stage anti-Trump walkouts
+38915,1,Chattanooga crash: How common are outsourced school bus services?
+38917,1,Betsy DeVos picked for education secretary
+39235,1,Remembering the date which will live in infamy
+39298,1,Who will become the CNN SuperHero?
+39925,2,Can canned goods stop school shooters?
+40020,1,State of the Union: Obama’s Robin Hood turn
+40078,1,Was oldest gospel really found in a mummy mask?
+40102,1,Shadow photos of dogs reveal their ’primal nature’
+40189,1,Mormon church backs LGBT rights -- with one condition
+40259,1,Trading football for teaching
+40290,7,Inmate’s teacher alleges rape, prison negligence
+40313,1,After school massacre, Peshawar teachers pack guns
+40642,1,3 accused in pay-to-stay schools for Asian students
+40862,1,Sari to Suits calendar empowers South Asian women
+40869,1,Nigerian girls who escaped Boko Haram focus on school
+41037,1,NCAA: It’s not our job to ensure educational quality
+41040,1,Atlanta school cheating scandal: 11 of 12 defendants convicted
+41078,1,Dad to U.S., China: Find my daughter’s killer
+41125,1,Let’s Move reaches 5 after criticism -- progress
+41137,1,Rolling Stone still hasn’t learned its lesson (Opinion)
+41288,1,Prison time for some Atlanta school educators in cheating scandal
+41336,1,CNN host and CNN Hero clean up river
+41350,1,Parents ’opting out’ of standardized testing
+41375,2,#IWishMyTeacherKnew shares students’ heartbreak, hopes
+41394,1,2015 Boston Marathon ’a symbol of unity, strength’
+41600,1,Educator calls out ’black people’ for leaving graduation
+41609,3,Meet the doctor who treats the homeless
+41664,1,7 Simpsons voices that will soon sound different
+41679,1,James Holmes murder trial: His eyes, bullets, bombs
+41710,2,Valencia College sued over forced vaginal exams
+41773,1,Why was I spared from Amtrak train 188’s crash?
+41781,1,Transvaginal exam suit should raise alarm
+41921,1,Art pioneer once expelled for doodling
+41936,1,Connecticut teacher resigns over Ginsberg poem
+42206,1,Vince Vaughn and NRA remedy for gun violence: more guns
+42257,1,The ’70s: When TV finally woke up to reality
+42424,1,Mental illness, addiction: Mother takes on ’broken system’
+42473,1,Poignant moments unfold at a preschool in a nursing home
+42655,1,Bernie Sanders draws nearly 10,000 supporters
+42707,1,700-year-old doodles by medieval scribes
+42744,1,Pope calls greed ’the devil’s dung’
+42790,2,Bullying by peers has effects later in life
+43976,1,There’s a raging talent war for AI experts and its costing automakers millions
+44061,1,Trump’s Supreme Court nominee’s hearing is Monday — his rulings say a lot about his judicial style
+44341,1,Classroom murder-suicide leaves an 8-year-old boy dead in shooting at San Bernardino elementary school
+45519,2,Disturbing images of the mold, mushrooms, and bullet holes in Detroit’s schools that led to teachers’ massive ’sickout’
+46181,1,Here’s why Trump is dominating despite a strong economy
+46794,1,How the founder of a preschool management app cleverly negotiated a $600,000 deal with Mark Cuban and Chris Sacca
+47152,1,2 dead in murder-suicide on UCLA campus
+47440,1,Justice Alito spent 50 pages railing against affirmative action in college admissions — these are his main points
+47638,1,English teachers have been assigning Elie Wiesel’s memoir of the Holocaust for 30 years — here’s why
+47906,1,A strange new TV ad glorifying China’s Communist Party has gone viral
+48241,4,’You’re at war’: I went inside the new TSA Academy, where officers learn to detect bombs, spot weapons, and find out why failure isn’t an option
+48505,3,This education startup you’ve never heard of is in 75% of American classrooms
+48517,4,A new lawsuit alleges Detroit schools are so understaffed that an 8th grader had to teach a math class
+49182,1,Barbara Corcoran shares her best career advice for 20-somethings
+49838,1,The Irony of Inclusivity
+49882,1,The Atlantic Daily: Planetary Politics
+49892,8,How Design Thinking Became a Buzzword at School
+49918,3,From Diversity to Desk Chairs: This Week’s Top 7 Education Stories
+49943,3,When Narrative Matters More Than Fact
+49950,7,How Teachers Learn to Discuss Racism
+49967,2,Five Cabinet Nominees Who Could Affect Education

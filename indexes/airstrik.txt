@@ -1,0 +1,661 @@
+64,1,A New Casualty of Syria’s War: Drinking Water in Damascus - The New York Times
+116,1,Donald Trump, Fort Lauderdale: Your Friday Evening Briefing - The New York Times
+154,7,Airstrikes by Russia Buttress Turkey in Battle vs. ISIS - The New York Times
+290,2,Kunduz Attack in November Killed 33 Civilians, U.S. Military Says - The New York Times
+432,1,Death Toll in Mistaken Bombing of Camp in Nigeria Climbs to 70 - The New York Times
+456,3,U.S. Bombs ISIS Camps in Libya - The New York Times
+507,1,Donald Trump’s Inauguration, Women’s March: Your Weekend Briefing - The New York Times
+735,1,U.S. Commando Killed in Yemen in Trump’s First Counterterrorism Operation - The New York Times
+769,2,Raid in Yemen: Risky From the Start and Costly in the End - The New York Times
+931,1,Israel Passes Provocative Law to Retroactively Legalize Settlements - The New York Times
+1058,1,African Nations Increasingly Silence Internet to Stem Protests - The New York Times
+1103,2,Report Rebuts Russia’s Claims of Restraint in Syrian Bombing Campaign - The New York Times
+1242,1,Iraq Starts Offensive to Retake Western Mosul From ISIS - The New York Times
+1392,1,U.S. Forces Play Crucial Role Against ISIS in Mosul - The New York Times
+1399,1,Tunisia Fears the Return of Thousands of Young Jihadists - The New York Times
+1460,4,Russian Airstrike in Syria Hits U.S. Allies by Mistake - The New York Times
+1480,1,Kim Jong-nam, Jeff Sessions, Snapchat: Your Morning Briefing - The New York Times
+1482,2,Trump May Give the Pentagon More Authority to Conduct Raids - The New York Times
+1528,1,U.S. Strengthens Its Forces in a Crowded Syrian Battlefield - The New York Times
+1581,4,U.S. Air Campaign in Yemen Killed Guantánamo Ex-Prisoner - The New York Times
+1613,2,Iraqi Forces Enter Western Mosul, in Fierce Battle Against ISIS - The New York Times
+1666,1,U.S. Is Sending 400 More Troops to Syria - The New York Times
+1730,7,Trump Administration Is Said to Be Working to Loosen Counterterrorism Rules - The New York Times
+1847,2,Pentagon Releases Photo to Rebut Contention It Bombed a Mosque - The New York Times
+1882,2,Using Special Forces Against Terrorism, Trump Seeks to Avoid Big Ground Wars - The New York Times
+1915,1,Trump Shifting Authority Over Military Operations Back to Pentagon - The New York Times
+1962,2,London, Gorsuch, Syria: Your Wednesday Evening Briefing - The New York Times
+1991,1,Toll of London Attack Is Global for an Assailant Born in Britain - The New York Times
+2015,14,U.S. Investigating Mosul Strikes Said to Have Killed Up to 200 Civilians - The New York Times
+2038,1,Trump’s Biggest Obstacle to Policy Goals? His Own Missteps - The New York Times
+2041,9,U.S.-Led Coalition Confirms Strikes Hit Mosul Site Where Civilians Died - The New York Times
+2086,14,At Site of Deaths, Our Reporters Find Cost of U.S.-ISIS Battle - The New York Times
+2122,6,Engulfed in Battle, Mosul Civilians Run for Their Lives - The New York Times
+2123,9,U.S. ‘Probably Had a Role’ in Mosul Deaths, Commander Says - The New York Times
+2173,13,U.S. War Footprint Grows in Middle East, With No Endgame in Sight - The New York Times
+2174,9,Trump Eases Combat Rules in Somalia Intended to Protect Civilians - The New York Times
+2200,1,2 Sue Trump and U.S. Officials, Claiming They Are on ‘Kill List’ - The New York Times
+2237,4,U.S.-Led Coalition Counts 229 Civilian Deaths Before Mosul Strike - The New York Times
+2246,1,Jared Kushner, SpaceX, Baseball: Your Weekend Briefing - The New York Times
+2286,2,Worst Chemical Attack in Years in Syria U.S. Blames Assad - The New York Times
+2287,3,Survivors of Syria Gas Attack Recount ‘a Cruel Scene’ - The New York Times
+2320,1,Assad’s History of Chemical Attacks, and Other Atrocities - The New York Times
+2321,1,Trump, Syria, Pepsi: Your Wednesday Evening Briefing - The New York Times
+2350,1,‘I Buried My Own Children’: A Syrian Father’s Grief - The New York Times
+2352,2,The Grim Logic Behind Syria’s Chemical Weapons Attack - The New York Times
+2378,3,Syria Strike Puts U.S. Relationship With Russia at Risk - The New York Times
+2380,1,Satisfaction and Fear of Reprisals in Syria After Missile Strike - The New York Times
+2385,2,Syria, Neil Gorsuch, Stockholm: Your Friday Evening Briefing - The New York Times
+2390,2,U.S. Strikes on Syria Put Xi in Tough Position for Trump Meeting - The New York Times
+2408,1,U.S. Strike on Syria Brings Fleeting Hope to Those Caught in Brutal Conflict - The New York Times
+2409,1,Syrian Refugees Laud U.S. Strike and, in ‘New Emotion,’ Trump - The New York Times
+2411,7,U.S.-Led Force Reduces Attacks on ISIS in Syria After Airstrike - The New York Times
+2429,1,K.T. McFarland, Deputy National Security Adviser, Is Expected to Leave Post - The New York Times
+2431,1,For Obama, Syria Chemical Attack Shows Risk of ‘Deals With Dictators’ - The New York Times
+2513,1,Lula and Simba, Last Surviving Animals at Mosul Zoo, Have Been Rescued - The New York Times
+2574,1,Obama Calls on Putin to Help Reduce Violence in Syria After Peace Talks Stall - The New York Times
+2581,1,Syria Cease-Fire Crumbles as Bombings Kill Dozens - The New York Times
+2622,1,An Amateur vs. ISIS: A Car Salesman Investigates and Ends Up in Prison - The New York Times
+2639,1,In Effort to Defeat ISIS, U.S. and Iran Impede One Another - The New York Times
+2664,1,Your Thursday Evening Briefing: Ted Cruz, Donald Trump, N.F.L. - The New York Times
+2727,1,For Obama, an Unexpected Legacy of Two Full Terms at War - The New York Times
+2746,1,Your Evening Briefing: Bernie Sanders, Donald Trump, Zika - The New York Times
+2754,14,Doctors With Enemies: Did Afghan Forces Target the M.S.F. Hospital? - The New York Times
+2820,2,Fear of ‘Catastrophe Unfolding’ Amid Fighting in Falluja - The New York Times
+2832,1,Militias in Libya Advance on ISIS Stronghold of Surt With Separate Agendas - The New York Times
+2931,3,Obama Loosens Restrictions on U.S. Forces Fighting Taliban in Afghanistan - The New York Times
+2987,1,51 U.S. Diplomats Urge Strikes Against Assad in Syria - The New York Times
+3005,2,Iraqi Forces Enter Falluja, Encountering Little Fight From ISIS - The New York Times
+3041,2,Falluja Restaurant Is Reborn in Baghdad, Offering Nostalgia With Its Kebab - The New York Times
+3376,1,ISIS Claims Deadly Bombing at Demonstration in Kabul, Afghanistan - The New York Times
+3537,1,Who’s Got a Carrier to Rival the U.S. Navy’s? (Hint: Not Russia.) - The New York Times
+3547,3,U.S.-Backed Militias in Libya Claim to Retake ISIS Stronghold of Surt - The New York Times
+3553,1,British Girl Who Joined ISIS Is Reported Killed in Airstrike - The New York Times
+3591,2,Boko Haram Video Appears to Show Bodies of Kidnapped Girls - The New York Times
+3599,1,U.S. Presidential Race, Rio Olympics, Milwaukee: Your Monday Evening Briefing - The New York Times
+3618,7,Airstrike in Yemen Kills 17 Civilians, Witnesses Say - The New York Times
+3636,1,Ryan Lochte, Gawker, Donald Trump: Your Thursday Evening Briefing - The New York Times
+3645,2,How Omran Daqneesh, 5, Became a Symbol of Aleppo’s Suffering - The New York Times
+3668,1,‘This Only Confirms the Image of the U.S.A.’ - The New York Times
+3677,1,Syria’s Horrors Visit Turkey Again as Bomber Attacks Kurdish Wedding - The New York Times
+3683,1,Suicide Bombing Kills at Least 20 in Somalia - The New York Times
+3696,1,Iran Revokes Russia’s Use of Air Base, Saying Moscow ‘Betrayed Trust’ - The New York Times
+3713,5,Bomb Kills an American Soldier Near Besieged Afghan City - The New York Times
+3761,1,SEAL Team 6 and a Man Left for Dead: A Grainy Picture of Valor - The New York Times
+3870,1,Syrian Forces Make Gains Near Aleppo With Russian Help - The New York Times
+3905,1,Taliban Close to Overtaking Afghan Provincial Capital, Officials Say - The New York Times
+3915,1,Russia and the United States Reach New Agreement on Syria Conflict - The New York Times
+3939,4,Spate of Deadly Attacks in Syria Ahead of Cease-Fire - The New York Times
+3942,1,Putin, Admired by Donald Trump, Emphasizes Strength as Virtue - The New York Times
+3962,1,Details of Syria Pact Widen Rift Between John Kerry and Pentagon - The New York Times
+3967,1,The View From Syria as a Cease-Fire Takes Effect - The New York Times
+3995,3,Streets and Skies Suddenly Quiet, Syrians Watch Cease-Fire With Unease - The New York Times
+4024,1,F.B.I. Treats Minnesota Mall Stabbing Attack as ‘Potential Act of Terrorism’ - The New York Times
+4027,5,U.S. Admits Airstrike in Syria, Meant to Hit ISIS, Killed Syrian Troops - The New York Times
+4028,1,His Grip Still Secure, Bashar al-Assad Smiles as Syria Burns - The New York Times
+4033,1,After Bombings, Hillary Clinton and Donald Trump Clash Over Terrorism - The New York Times
+4035,2,New York City, U.S. Presidential Race, Syria: Your Evening Briefing - The New York Times
+4043,4,U.S. Officials Say Russia Probably Attacked U.N. Humanitarian Convoy - The New York Times
+4066,4,John Kerry Urges Grounding of Military Aircraft in ‘Key Areas’ of Syria - The New York Times
+4067,1,Obama Administration Considers Arming Syrian Kurds Against ISIS - The New York Times
+4094,2,Obama Puts Syria at Arm’s Length as Carnage Drags On - The New York Times
+4114,4,Syria and Russia Appear Ready to Scorch Aleppo - The New York Times
+4192,1,Tension With Russia Rises as U.S. Halts Syria Negotiations - The New York Times
+4210,2,U.S. Election Cycle Offers Kremlin a Window of Opportunity in Syria - The New York Times
+4214,3,Afghan Forces Push Taliban Out of Kunduz Center, Officials Say - The New York Times
+4266,1,Saudi-Led Airstrikes Blamed for Massacre at Funeral in Yemen - The New York Times
+4277,2,U.N. Chief Condemns Airstrike on Yemeni Funeral and Dismisses Saudi Denials - The New York Times
+4288,1,Donald Trump, Samsung, Yemen: Your Monday Evening Briefing - The New York Times
+4302,2,Pentagon Confronts a New Threat From ISIS: Exploding Drones - The New York Times
+4361,4,Iraqi Forces Attack Mosul, a Beleaguered Stronghold for ISIS - The New York Times
+4366,10,In Somalia, U.S. Escalates a Shadow War - The New York Times
+4376,2,At the Mosul Front: Traps, Smoke Screens and Suicide Bombers - The New York Times
+4426,1,Hillary Clinton, Donald Trump, North Dakota: Your Tuesday Briefing - The New York Times
+4434,2,Mosul Is Breached by Iraqi Forces, Heralding a New, Complex Phase - The New York Times
+4449,1,U.S.-Backed Militia Opens Drive on ISIS Capital in Syria - The New York Times
+4575,1,Donald Trump, Syria, Russia: Your Wednesday Briefing - The New York Times
+4583,2,Airstrikes on Aleppo Resume as Russia Begins New Offensive in Syria - The New York Times
+4655,1,Islamic State Again Strikes at Afghan Shiites, Killing at Least 30 in Kabul - The New York Times
+4743,13,Obama Expands War With Al Qaeda to Include Shabab in Somalia - The New York Times
+4761,1,‘Unintentional’ Human Error Led to Airstrikes on Syrian Troops, Pentagon Says - The New York Times
+4778,1,Another Mass Grave Dug by ISIS in Iraq, and a Ghastly Ritual Renewed - The New York Times
+4809,1,In Trump’s Security Pick, Michael Flynn, ‘Sharp Elbows’ and No Dissent - The New York Times
+4919,1,U.S. to Send 200 More Troops to Syria in ISIS Fight - The New York Times
+4925,1,Aleppo, Donald Trump, Istanbul: Your Morning Briefing - The New York Times
+4973,1,Amid Rain of Shells, Aleppo’s Civilians Offer ‘Final Scream’ - The New York Times
+4992,2,Aleppo Evacuation Effort Restarts, and Assad Calls It History in the Making - The New York Times
+5035,1,Aleppo Evacuations Will Be Monitored After U.N. Reaches Deal - The New York Times
+5040,1,U.N. Will Send Monitors to Aleppo, as Evacuations Resume - The New York Times
+5080,1,Turning Point in Syria as Assad Regains All of Aleppo - The New York Times
+5094,1,Hunt for Berlin Suspect Ends in Gunfire on an Italian Plaza - The New York Times
+5128,2,Aboard a U.S. Eye in the Sky, Staring Down ISIS in Iraq and Syria - The New York Times
+5180,1,Syria, Russia, Mosul: Your Friday Evening Briefing - The New York Times
+5252,5,Divided Aleppo Plunges Back Into War as Syrian Hospital Is Hit - The New York Times
+5271,2,U.N. Security Council Condemns Attacks on Health Workers in War Zones - The New York Times
+5312,2,As Hamas Tunnels Back Into Israel, Palestinians Are Afraid, Too - The New York Times
+5316,1,U.S. Drone Strike Targets Taliban Leader - The New York Times
+5318,1,Taliban Chief Targeted by Drone Strike in Pakistan, Signaling a U.S. Shift - The New York Times
+5369,1,Defiant Bashar al-Assad Vows to Retake ‘Every Inch’ of Syria - The New York Times
+5450,9,The State Department’s Dissent Memo on Syria: An Explanation - The New York Times
+5496,1,Istanbul, Hillary Clinton, Loretta Lynch: Your Friday Evening Briefing - The New York Times
+5572,1,Turkey Interrupts U.S. Air Missions Against ISIS at Major Base - The New York Times
+5576,1,Baton Rouge, Turkey, U.S. Presidential Race: Your Weekend Briefing - The New York Times
+5596,1,Obama’s Support of Erdogan Is a Stark Reminder of Turkey’s Value to U.S. - The New York Times
+5612,2,U.S. Secures Vast New Trove of Intelligence on ISIS - The New York Times
+5658,1,U.S. Presidential Race, Rio Olympics, London: Your Thursday Evening Briefing - The New York Times
+5673,3,Military Success in Syria Gives Putin Upper Hand in U.S. Proxy War - The New York Times
+5701,3,ISIS Fighters Are Still Lurking in Surt, Libyan Officials Warn - The New York Times
+5715,1,Afghanistan Forces Struggle to Hold Firm Against Taliban in South - The New York Times
+5722,6,Bombing of Doctors Without Borders Hospital in Yemen Kills at Least 15 - The New York Times
+5799,2,Knowing the Risks, Some Syrian Rebels Seek a Lift From Turks’ Incursion - The New York Times
+5805,1,Senior ISIS Strategist and Spokesman Is Reported Killed in Syria - The New York Times
+5915,1,After Years of War, Celebrities Find a Syrian Group to Back - The New York Times
+5927,1,How a U.S. Airstrike Missed ISIS, but Damaged U.S. Policy in Syria - The New York Times
+5931,3,Aid Convoy Is Hit in Syria as Cease-Fire Falters and Bombings Resume - The New York Times
+5984,1,Syrian Troops Clash With Rebels as Bombs Fall on Aleppo - The New York Times
+6029,5,In Fight for Aleppo, Tangled Alliances in Syria Add to Chaos - The New York Times
+6042,2,U.S. Set to Open a Climactic Battle Against ISIS in Mosul, Iraq - The New York Times
+6083,1,21 Girls Kidnapped From Chibok School Released by Boko Haram, Nigeria Says - The New York Times
+6093,1,Rise of Saudi Prince Shatters Decades of Royal Tradition - The New York Times
+6097,1,East of Mosul, Kurdish Troops Advance on ISIS-Held Villages - The New York Times
+6118,4,Pentagon Says Airstrikes Targeted 2 Qaeda Leaders in Afghanistan - The New York Times
+6122,1,Clinton, Mosul, Pirate Party: Your Monday Briefing - The New York Times
+6126,3,Stark Choice for Syrians in Rebel Areas: ‘Doom’ or the Green Bus - The New York Times
+6196,3,U.S. Fingerprints on Attacks Obliterating Yemen’s Economy - The New York Times
+6240,1,Donald Trump, Pope Francis: Your Monday Evening Briefing - The New York Times
+6286,2,Thousands Flee Aleppo, Syria, as Government Forces Advance - The New York Times
+6331,4,Syrian Troops Push Deep Into Rebel-Held Parts of Aleppo - The New York Times
+6358,1,In Rebel-Held Aleppo, Residents Report Increasing Desperation - The New York Times
+6384,1,‘We Are Dead Either Way’: Agonizing Choices for Syrians in Aleppo - The New York Times
+6520,1,2016 Pulitzer Prizes: A.P. Wins Public Service Award ‘Hamilton’ Is Honored - The New York Times
+6543,1,Your Weekend Briefing: Ted Cruz, Donald Trump, N.F.L. - The New York Times
+6569,1,Iraqi Protesters Clash With Troops in Baghdad’s Green Zone - The New York Times
+6620,1,Omar Mateen Posted to Facebook Amid Orlando Attack, Lawmaker Says - The New York Times
+6623,2,John Kerry Is Said to Side With Diplomats’ Critical Memo on Syria - The New York Times
+6678,1,Obama Says He Will Keep More Troops in Afghanistan Than Planned - The New York Times
+6707,2,Pro-Government Forces Advance in Syria Amid Talk of U.S.-Russia Cooperation - The New York Times
+6709,1,As Turkey Coup Unfolded, ‘the Whole Night Felt Like Doomsday’ - The New York Times
+6753,2,From Syrian Rubble to German Concert Halls With a Piano, a Mission and Survivor’s Guilt - The New York Times
+6764,1,Israel Accuses U.N. Worker of Aiding Hamas in Gaza - The New York Times
+6812,7,Support for Saudi Arabia Gives U.S. Direct Role in Yemen Conflict - The New York Times
+6848,1,Air Force, Running Low on Drone Pilots, Turns to Contractors in Terror Fight - The New York Times
+6870,1,Syria Is Calmer but Cautious as Cease-Fire Begins - The New York Times
+6896,1,Obama, in Farewell to U.N., Paints Stark Choices for Unsettled World - The New York Times
+6905,2,Amid New Airstrikes in Syria, an Aid Convoy Arrives - The New York Times
+6926,1,Roy Moore, U.S. Presidential Race, ‘Deepwater Horizon’: Your Friday Evening Briefing - The New York Times
+6980,2,Warning of ISIS Plots Against West, U.S. Plans Assault on Raqqa - The New York Times
+7006,1,Taliban Strike German Consulate in Afghan City of Mazar-i-Sharif - The New York Times
+7021,4,‘They Will Have to Die Now’ - The New York Times
+7155,1,Berlin, Putin, Trump, Israel: Your Friday Evening Briefing - The New York Times
+7174,2,The Fighter - The New York Times
+7201,1,On the Ground in Aleppo: Bloodshed, Misery and Hope - The New York Times
+7204,1,Talks on Syria Seek to Extend Fragile Truce to Aleppo - The New York Times
+7208,1,Hezbollah Says Military Leader Died in Artillery Attack - The New York Times
+7209,1,Al Qaeda Turns to Syria, With a Plan to Challenge ISIS - The New York Times
+7329,2,One Photo of a Syrian Child Caught the World’s Attention. These 7 Went Unnoticed. - The New York Times
+7333,1,Turkey’s Military Plunges Into Syria, Enabling Rebels to Capture ISIS Stronghold - The New York Times
+7343,2,Spokesman’s Death Will Have Islamic State Turning to Its ‘Deep Bench’ - The New York Times
+7355,1,U.S. Rescue Attempt in Afghanistan Missed Western Hostages by Hours - The New York Times
+7375,1,Charlotte, U.S. Presidential Race, Syria: Your Wednesday Evening Briefing - The New York Times
+7379,3,‘Doomsday Today in Aleppo’: Assad and Russian Forces Bombard City - The New York Times
+7404,7,A Roar at a Funeral, and Yemen’s War Is Altered - The New York Times
+7452,1,Aleppo Bombs Leave Quarter Million ‘Living in Hell’ and Without Hospital Care - The New York Times
+7479,1,Russia Says Talks With U.S. Will Discuss Deal for Aleppo Rebels - The New York Times
+7569,2,Bombing Kills More Than 140 in Baghdad - The New York Times
+7578,1,Turkish President Returns to Istanbul in Sign Military Coup Is Faltering - The New York Times
+7581,1,Vast Purge in Turkey as Thousands Are Detained in Post-Coup Backlash - The New York Times
+7657,1,Harsher Security Tactics? Obama Left Door Ajar, and Donald Trump Is Knocking - The New York Times
+7711,6,U.S. Reveals Death Toll From Airstrikes Outside War Zones - The New York Times
+7765,1,Israel Defense Forces Kill 4 ISIS-Linked Attackers in Golan Heights - The New York Times
+7801,3,U.S. Presses for Truce in Syria, With Its Larger Policy on Pause - The New York Times
+7810,1,20-Year-Old Brit Dies Fighting Islamic State in Syria
+7893,1,Rand Paul on Syria Strikes: ’I Think It Is Unconstitutional’ - Breitbart
+7961,1,Syria Calls on UN to ‘Punish’ Israel Over Airport Attack
+8172,3,Video Surfaces of U.S. Presence Near Turkish Soldiers, Kurdish Militia on Syrian Border - Breitbart
+8327,1,U.S. General: No Incompetence, Bad Judgment Found in Yemen Raid
+8372,1,Pamela Geller on Syria Strike: ‘What Is the Objective? Which Al-Qaeda Satellite Are We Partnering With?’
+8410,1,5 Susan Rice Scandal Facts Every American Must Know - Breitbart
+8471,2,EXCLUSIVE – Rand Paul: Saudi Arabia’s Role in Backing Terrorism Raises Concerns with $100 Billion Arms Deal - Breitbart
+8484,2,Celebs Blast Trump after Syria Airstrikes: ’F*cking Hypocrite’ for Refugee Stance
+8721,1,Dem Sen Kaine on Syria Strikes: ’There Is No Legal Justification for This’ - Breitbart
+8737,1,Islamic State Claims Responsibility for Istanbul Nightclub Attack - Breitbart
+8743,2,Video: Islamic State Tears Down Statues, Burns Cathedral Down in Philippines
+8753,5,Turkey Bombs U.S.-Supported Kurds in Syria, at Least 18 Killed
+8861,3,Low Support for U.S. Syria Strikes Compared to Previous Foreign Wars
+8986,1,’Invasion’: Officials Confirm Foreigners Fighting for Islamic State in 90% Christian Philippines - Breitbart
+9054,2,Duterte Declares Martial Law After Islamic State Forces Overrun Philippine City
+9229,1,Trump Orders Strikes Against Syrian Regime Airbase in Response to Chemical Attack - Breitbart
+9355,1,Venezuela: Maduro Claims Opposition Is ’Murdering Their Own Protesters’ - Breitbart
+9520,1,Chelsea Manning to Remain on Active Duty, Receive Free Health Care after Release - Breitbart
+9659,1,McCain: Missile Strikes ’the Beginning of a Departure from the Failed Policies of the Last 8 Years’ - Breitbart
+9813,2,Investigation Clears U.S. Troops in Death of 33 Afghan Civilians
+10049,1,WATCH: Nine Injured as Erdogan Guards, Kurdish and Armenian Protesters Clash in DC - Breitbart
+10254,1,Al-Shabaab, Al-Qaeda Affiliate in Somalia: U.S. Is ’Satan of Our Time’
+10465,1,Report: U.S., Russia Said Agree To Assist Israel In Expelling Iran From Syria
+10478,4,Syrian Airstrike May Open Door to Congressional Funding for Refugee Safe Zones Overseas
+10752,2,Top U.S. General: ‘We Have Not Relaxed the Rules of Engagement’ in Mosul - Breitbart
+10760,1,Clarion: Syrian Christian Militia Condemns Turkey for Bombing Kurds - Breitbart
+10843,1,IS Urges Jihadis To ’Dress Up Like Jews’, Carry Out Terror Attacks
+10952,1,KLEIN - Iran Is the Wild Card Following U.S. Air Strikes In Syria
+11128,1,Photos: Islamic State Says It’s Again Deploying Drones in Mosul
+11161,2,100 Days of Trump in Asia: Winning over Duterte, Golf with Abe, and a ’Not as Good’ Deal with China - Breitbart
+11200,3,’Apocalypse Now’ Game Director: We’re Making a Game for ’The 45 Other States’ Hollywood Doesn’t Care About - Breitbart
+11320,3,Kremlin Makes Dubious Claim It Killed Islamic State Chief al-Baghdadi - Breitbart
+11329,1,White House: ’Heinous’ Syria Chemical Attack a Result of Obama Admin’s ’Weakness and Irresolution’ - Breitbart
+11480,1,Putin — Who Once Honored Tillerson with Friendship Award — Won’t Meet with Secretary of State - Breitbart
+11605,1,President Donald Trump Brings the Rain in Inauguration Address
+11623,2,Tillerson: Russia Must Choose Between Assad and the U.S. - Breitbart
+12013,1,Official: Russia Knew Syrian Chemical Attack Was Coming
+12072,3,Pelosi Calls on Speaker Ryan to Reconvene Congress for Syria Debate - Breitbart
+12205,1,Islamic State Releases Video of Jihadis Storming Southern Philippines City
+12253,2,Chinese State Media: Trump Struck Syria to Show He Is ’No Businessman President’ - Breitbart
+12694,1,Democrats React to President Trump’s Retaliatory Strike on Syria’s Use of Chemical Weapons - Breitbart
+12932,1,Nigeria: Thousands of Women Protest Boko Haram Suicide Bombings, Rape, Abductions - Breitbart
+13183,1,Making America Great Again: Donald Trump’s 100 Days’ Success - Breitbart
+13206,1,Missiles Deployed Around Moscow as U.S. Troops Arrive in Poland
+13207,2,Haley: Any Nation That Wants to Defend Assad’s Atrocities Will ‘Do So in Full Public View’
+13239,1,The 7 Nations Covered by Trump Executive Order
+13298,1,Gainor: Left Using Syria Strike ’to Bully Trump into Changing Refugee Policy’
+13306,1,Trump Defies Turkey, Approves Heavy Weapons for Syrian Kurds - Breitbart
+13340,4,Assad Regime: U.S. Airstrikes on Infringing Syrian Militia Are ’Government Terrorism’ - Breitbart
+13345,1,ZUMWALT: With Korean Tensions Mounting, Tillerson Seeks ’New Approach’: Let’s Try Reagan’s - Breitbart
+13580,2,Putin Backs Down: Meets Tillerson amid Heightened U.S.-Russia Tensions - Breitbart
+13586,1,Islamic State’s al-Baghdadi Orders Jihadists to ‘Flee and Hide’
+13904,1,Nikki Haley Warns North Korea: ‘Don’t Give Us a Reason’ to Fight
+13960,2,Trump on Putin’s Support for ‘Butcher’ Assad: Russia Backing ‘Truly an Evil Person’
+14095,1,Report: Trump Considering Placing Nuclear Weapons in South Korea as Deterrent to North
+14103,1,North Korea Launches Another Ballistic Missile Test, as Talk of War Increases
+14349,3,Defense Official: Intelligence from Yemen Raid ’Definitely Helping’
+14361,2,In Trump White House, Wildcard Putin Faces First Assertive America of His Career - Breitbart
+14476,1,Assad Regime: Trump Airstrikes Make U.S. a ’Partner’ of Islamic State - Breitbart
+14671,1,The Ten Major Military Players Fighting for the Heart of Syria - Breitbart
+14678,4,Philippines Kills 11 of Its Own Soldiers in ’Friendly Fire’ Airstrike
+14831,4,North Korea: Friendship with Syria ’Will Be Strengthened and Developed’ - Breitbart
+14960,3,U.S. Airstrikes Hit Syrian Military Vehicles for Violating ’De-Confliction Zone’
+15028,1,Nikki Haley: Syrian People ’Don’t Want’ ’Disgusting,’ ’War Criminal’ Assad
+15053,2,World Leaders Praise U.S. Strike on Syria, ‘Proportionate, Appropriate’
+15213,1,Five Women Whose Rights the ’Women’s March’ Left Behind - Breitbart
+15251,2,Farage: ’A Lot of Trump Voters Will Be Scratching Their Heads’ over Syria Airstrikes - Breitbart
+15383,5,Islamic State Holds Terrified Civilians as Human Shields as Raqqa Battle Nears
+15815,1,Islamic State Supporters Celebrate Brussels Massacre
+15975,1,Syrian Rebels Capture Dabiq, Site of the Apocalypse, from the Islamic State
+16147,2,Aleppo Ceasefire Collapses in Hours, 50,000 Civilians in Danger - Breitbart
+16235,4,Russia Warns U.S. of ’Terrible Consequences’ For Any Attack on Syrian Army - Breitbart
+16605,1,Islamic State Enhances Vetting For New Recruits
+17214,1,Poll: Majority Supports Ground Troops To Fight Islamic State Oppose Syrian Refugees - Breitbart
+18480,1,Putin Denies Meddling in U.S. Election, Claims Americans Are ’Spying on Everyone’ - Breitbart
+18844,1,Yazidi Parents Who Survived Islamic State Name Newborn Baby ’Trump’
+18942,2,Syria: Israeli Warplanes Struck Targets Outside Damascus - Breitbart
+19245,1,FBI and Nation’s Leaders Caught Sleeping Through Orlando Wake-up Call - Breitbart
+19684,2,Erdogan: Turkey Entered Syria to ’End the Rule of the Tyrant Assad’
+19729,1,Report: Military Coup Under Way in Turkey - Breitbart
+19731,1,On Two-Year Anniversary of Boko Haram Kidnapping, Video Surfaces of Missing Girls
+19914,2,Parents of American Islamic State Sex Slave Kayla Mueller: Obama Failed Our Daughter - Breitbart
+20074,5,Syria’s Military Says U.S. Coalition Warplanes Struck Its Base - Breitbart
+20087,1,Hands-On with ’Halo Wars 2’ at E3: Move Like You’ve Got a Purpose - Breitbart
+20188,5,Ground Assault Against Islamic State in Mosul A Slow Grind
+20532,1,***Live Updates*** GOP Candidates Debate in New Hampshire - Breitbart
+20694,1,U.S. Bombs Al-Shabaab Terror Camp Graduation, Killing over 150 Terrorists
+20728,2,Syrian Dictator Bashar Al-Assad Vows to ’Liberate’ Syria
+21030,1,Islamic State Takes Credit for Brussels
+21067,1,IDF Airstrike Eliminates 4 Islamic State-Linked Terrorists In Syria
+21466,1,Fox Host to WH Spox: People With Shrapnel in Their Shoulders Don’t Think This Is a Narrative Battle - Breitbart
+21581,1,PHOTOS: Islamic State Video Shows Child Beheading Man
+21695,1,Pro-Kurd Opposition Leader: Turkey’s Ruling Party ’an Extension of’ Islamic State
+21750,2,Islamic State Strikes in ’Hub City’ for Libyan Migrants
+22106,1,EXCLUSIVE: Hamas Evacuates Gaza Offices, Deploys Militants Following Jerusalem Bombing
+22396,2,Boko Haram Video Shows Corpses of Chibok Girls ’Killed by Airstrikes’ - Breitbart
+22454,1,EXCLUSIVE - Top Jihadist Claims Brussels, Paris Are Terror Rehearsals for ‘Big’ Attack Inside U.S. - Breitbart
+22848,1,Taliban Jihadists Skin Man Alive After Ripping His Eyes Out
+23112,5,Up to 75 Kurds Said Killed in Turkish Bombardment in Syria - Breitbart
+23155,1,Islamic State Releases Video of Prisoner Execution in Afghanistan
+23402,2,U.S. Envoy: Operation to Take Mosul, Iraq from Islamic State ’Already Underway’ - Breitbart
+23493,1,Islamic State Downplays Assault On ’Capital Of caliphate’ With Propaganda Reports, Pictures
+23826,2,U.S. Special Forces Fight Growing Islamic State in Libya
+24281,2,Islamic State Executes Female Journalist in Raqqa
+24286,1,Army Captain Sues Obama over Islamic State War - Breitbart
+24338,1,Islamic State Committing ’Cultural Genocide’ Selling Antiques
+24534,1,Widow of Islamic State Leader Charged In Death of American Kayla Mueller - Breitbart
+25629,1,U.S. Warplanes Strike Islamic State Training Base in Libya
+25904,3,Report: Islamic State Commander Omar Al-Shishani Clinically Dead
+26109,1,U.S. Commander: Islamic State Jihadists in Libya More than Double
+26111,3,Bombing of Hospital in Northern Syria Kills 13, Doctor Group Says - Breitbart
+26191,1,Islamic State Bans Christians from Leaving Raqqa, Syria
+26419,1,***Live Updates*** Obama Delivers Final State of Union Address - Breitbart
+26729,1,Islamic State Video of Berlin Jihadi Swearing Allegiance: ’Kill the Crusader Pigs’ - Breitbart
+27037,1,***Live Updates*** Pence, Kaine Square Off in VP Debate - Breitbart
+27511,1,Shaves at Barber’s, Corpses in Streets as Islamic State Retreats
+28405,1,Iran-Backed Iraqi Troops Begin Invasion of Fallujah
+28464,1,Report: Islamic State Incinerates Jihadis in Burning Oil for Fleeing Mosul Battle
+29105,1,What Mike Pence Would Bring to a Trump-Pence Ticket - Breitbart
+29510,1,Islamic State Video: ’Putin, We Will Come to Russia and Kill You’ - Breitbart
+29793,1,Syrian Government Wins the Battle of Aleppo
+30307,2,Iraqi Army Fleeing for Their Lives Again
+30410,5,U.S. Accuses Russian-Backed Assad Regime of Striking Hospitals in Syria
+30858,1,Trump’s Mission: Make America Great Again Peace with Honor—Through Deal-Making - Breitbart
+31396,2,Yemen: Saudi Coalition, Houthis Agree on April 10 Ceasefire
+31431,1,NY Times: Hillary Owns Libya War - Left Country A ‘Failed State And Terrorist Haven’
+31557,1,Omar Mateen’s Facebook Status Hints More ISIS Attacks to Come
+31586,1,New year celebrations ring in 2017
+31598,2,Rebel warning over Syrian ceasefire violations
+31955,1,Syrian activists tell harrowing story of their escape from Aleppo
+32003,5,Nigerian fighter jet strikes refugees, aid workers in Borno
+32011,1,44 ways to judge the Obama era
+32066,2,Obama last strike kills over 100 al Qaeda in Syria
+32239,1,Washington Muslims put human faces to Trump immigration actions
+32291,2,What it’s like in the 6 countries on Trump’s travel ban list
+32330,1,How to fix Syria: The bipartisan solution
+32344,2,Yemen raid: Daughter of Anwar Al-Awlaki reported killed
+32376,2,Inside the Yemen raid: Women al Qaeda fighters surprised US forces
+32424,1,Military botches release of video seized in Yemen raid
+32525,1,US says it killed bin Laden-era al Qaeda leader in Syria
+32575,1,US-led coalition targets ISIS leader in Iraq strike
+32634,2,At least 26 civilians killed in Afghan province
+32635,1,Yemen Fast Facts
+32753,3,Iraqi leaflet drop warns of Mosul offensive
+32779,4,Syrian Civil War Fast Facts
+32787,1,Iraq starts operation to drive ISIS out of west Mosul
+32941,1,Mosul: Fleeing civilians killed by mines
+32947,2,Battle for Mosul: Iraqi forces advance near key area in city’s west
+33085,2,Suspected chemical attack in Mosul, Red Cross says
+33262,1,In western Mosul, a determined few remain
+33460,1,US joins first air assault ’behind enemy lines’ against ISIS in Syria
+33523,9,US military investigating if airstrikes caused nearly 300 civilian deaths
+33532,6,US investigating alleged Iraq civilian deaths
+33547,2,Taliban Fast Facts
+33553,10,US-led strike caused civilian deaths in Mosul, Iraqi official says
+33571,5,Mosul: 112 civilian bodies pulled from site of coalition airstrike
+33601,1,CNN 10 - March 30, 2017
+33630,5,Why ISIS offered to kill this 4-year-old girl
+33667,1,Mosul civilian casualty disaster is sign of an even bigger problem
+33674,3,US-led coalition assesses civilian deaths
+33693,1,Jared Kushner travels to Iraq
+33739,4,Suspected gas attack in Syria reportedly kills dozens
+33743,2,Syrian man says 25 relatives died in strike
+33747,5,Survivors of Syrian attack describe chemical bombs falling from sky
+33758,3,What we know about Syria’s chemical weapons
+33774,1,What’s your policy? Russia asks Trump after Syria gas attack
+33779,1,Bergen: Trump’s menu of bad options for Syria
+33795,1,Trump considers rearranging the seats at his table
+33796,4,US investigates possible Russia role in Syria chemical attack
+33799,1,Haley to UN: US ’prepared to do more’ in Syria
+33801,1,Trump, Xi have ’candid,’ ’positive’ talks in Florida
+33811,1,After Syria strike, populist supporters abandon Trump at home and abroad
+33812,1,Trump’s evolution on Syria didn’t happen overnight
+33816,1,Five big risks after Trump’s Syria strike
+33817,3,Some Syrians will welcome Trump’s airstrike -- if only it had come sooner
+33827,5,Syria strikes: Site of chemical attack hit again
+33838,2,Congress wants a say on Syria, split on timing, action
+33856,2,Haley: Syria regime change is inevitable
+33857,2,CNN 10 - April 10, 2017
+33861,2,Coalition and Syrian opposition forces repel ISIS attack
+33871,1,US missile strike took out 20% of Syria’s airforce, Mattis claims
+33881,1,Iran can’t be forced out of Syria -- but it can be contained
+33894,1,Putin: More chemical attacks planned in Syria
+33939,1,Trump carves out tough commander-in-chief posture
+33942,2,US defends dropping ’mother of all bombs’
+33956,2,Misdirected coalition airstrike kills 18 US-allied rebels in Syria
+33957,1,Assad claims Syria chemical attack was ’fabrication’, in face of evidence
+33960,1,US sending dozens more troops to Somalia
+34044,1,Start your Tuesday smart
+34080,1,’Incontrovertible’ evidence Sarin used in Syria, watchdog says
+34094,1,Assad and Kim: A tale of two dictators
+34148,1,Afghan base attack: More than 140 feared dead in Taliban raid
+34211,4,CNN 10 - April 26, 2017
+34214,4,US concerned after Turkey bombs Syrian, Iraqi allies
+34218,10,Turkish airstrikes kill US-backed Kurdish forces battling ISIS
+34296,1,US service member killed near Mosul
+34304,2,How the world sees Trump, 100 days in
+34357,1,The FBI translator who went rogue and married an ISIS terrorist
+34543,1,CNN 10 - May 10, 2017
+34572,1,CNN 10 - May 11, 2017
+34948,1,Sarin Fast Facts
+35036,2,Philippines launches air strikes in bid to retake ISIS-occupied city
+35066,1,Russian cruise missiles hit ISIS targets near Palmyra
+35249,1,Battle for Mosul rages on -- and civilians bear the terrible toll
+35291,1,Who put this here?
+35321,4,US officials credit Russia for calming tense situation in Southern Syria
+35422,1,Syrian artist depicts Trump and other leaders as refugees
+35499,4,Russia says it may have killed ISIS leader Abu Bakr al-Baghdadi
+35502,1,Money stolen by Russian mob linked to man sanctioned for supporting Syria’s chemical weapons program
+35603,1,Orlando shooter texted wife during attack, source says
+35641,2,Saudi minister rips White House on Syria, talks 2016 campaign
+35644,1,Orlando shooting: Killer’s behavior had long been an issue
+35672,4,Russia denies bombing U.S.-backed Syrian rebels
+35735,1,Top general: U.S. strategy against ISIS in Libya makes no sense
+35854,3,Airstrikes in Syria kill scores of civilians
+35870,1,More than 40 killed in Yemen suicide attacks
+35920,1,The unlikely godfather of the Islamic State
+35921,2,Air Force official: Targeting of ISIS could be better
+35946,1,From Russia with hate
+35954,7,Airstrikes target fleeing ISIS convoys
+35967,3,Airstrike kills 2 ISIS commanders, U.S. says
+36042,10,ISIS Fast Facts
+36044,2,Iraq Fast Facts
+36060,2,ISIS: 143 attacks in 29 countries have killed 2,043
+36113,1,U.S. jets diverted to Iraq, abandoning Syrian rebels
+36173,2,Iraqi forces retake air base from ISIS near Mosul
+36211,1,Ash Carter: U.S. sending more troops to Iraq
+36238,2,US, Moscow set to discuss pact Pentagon may not want
+36286,2,Aleppo doctors saving lives around the clock
+36295,2,US, Russia talk Syria coordination despite Pentagon concerns
+36301,1,Turkish president wants U.S. to send rival cleric home
+36337,1,Why Turkey’s coup attempt matters for US
+36349,1,Turkey coup attempt: Erdogan rounds up suspected plotters
+36359,1,Turkish leader’s textbook case of how to survive a coup
+36397,1,Turkey’s power cutoff to air base problem for Pentagon
+36442,2,What Pokemon Go looks like in Syria
+36569,1,Syrian state media: Supply lines to Aleppo cut
+36687,3,Reports of chemical gas attacks in 2 Syrian cities
+36729,1,ISIS leader killed in Sinai, Egypt says
+36730,3,Heavy bombing in Syria’s rebel-held Aleppo
+36732,1,US holds up $300 million for Pakistan over terrorism
+36745,4,Syrian rebels push to break siege in Aleppo
+36764,2,ISIS captures up to 3,000 people fleeing violence in Iraq, UN says
+36789,2,Fighters work to break siege in southern Aleppo
+36823,5,Rebel coalition breaks siege of Aleppo
+36846,2,Syrian opposition hails ’miraculous’ victory after claiming to break Aleppo siege
+36896,1,Family fears British girl who went to Syria is dead
+36926,4,Syria nurse stays to care for children of war
+36977,1,Boko Haram video shows Chibok girls, dad says
+36996,1,Chibok girls: New Boko Haram video offers hope
+37007,2, Defense officials see gains against ISIS
+37010,8,Airstrike hits Yemen hospital, aid group says
+37032,1,Escaped Chibok girl: I miss my Boko Haram husband
+37042,2,Little boy in Aleppo a reminder of war’s horror
+37067,1,Key ally in Syria bombed while US troops ’nearby’
+37082,2,Two faces of the Syria tragedy
+37101,1,What parents in Syria tell their children
+37116,3,Brother of boy in iconic Syrian photo dies
+37118,2,US pulls away from Saudi-led war in Yemen
+37172,1,Aleppo doctors save baby pulled from injured mother’s womb
+37245,1,’Every time my work goes viral I ask myself: What do I do next?’
+37290,2,Turkey flexes muscle in northern Syria
+37337,1,ISIS claims bombing at Yemen military camp
+37342,2,Turkish warplanes wallop Syria, Iraq
+37345,3,Death of senior leader caps bad month for ISIS
+37373,1,Libya Fast Facts
+37377,2,US doubts Russia’s claim it killed ISIS spokesman
+37413,1,Operation removes Gadhafi-era chemical weapons materials from Libya
+37462,1,Obama, China ratify climate agreements
+37470,1,Turkey says ISIS cleared from Turkish-Syrian border
+37515,2,Syria deadlock: Why can’t US, Russia agree?
+37533,1,Lawmakers seek to stall $1B arms sale to Saudis
+37589,1,North Korea nuke test becomes election weapon
+37590,3,Kerry announces US-Russia deal on Syrian ceasefire
+37604,3,9/11: Bin Laden’s spectacular miscalculation
+37646,3,90 killed in Syria after ceasefire plan announced
+37662,3,Syria: Temporary ceasefire begins amid skepticism
+37672,2,Syria ceasefire: What you need to know
+37681,2,Syrian ceasefire appears to hold, but aid deliveries on standby
+37722,1,75,000 trapped in refugee camp on Jordan-Syria border, Amnesty warns
+37739,3,Syrian airstrikes kill 23 Russia, US accuse each other of ceasefire violations
+37769,7,Russia: Coalition strike kills Syrian forces
+37776,1,UN Security Council Meeting
+37789,4,US, Iraqi troops close in on last ISIS-held city
+37820,1,UN chief calls convoy attackers in Syria ’cowards’
+37859,4,US blames Russia for Syria convoy attack
+37872,1,Did ISIS use mustard agent against US troops?
+37899,1,Lawmakers press for return of ISIS-slain US hostage bodies
+37913,2,US: ’Concerning’ mustard attack on US base
+37941,11,Aleppo strikes trap children in rubble
+38014,1,What ISIS left behind
+38114,5,Russia warns US not to attack Syrian regime
+38132,5,Syria: 2nd hospital destroyed by bombs as regime gains ground in Aleppo
+38152,1,Assad regime uses Game of Thrones in attempt to lure tourists to Aleppo
+38157,1,Afghan forces regain control of key city after Taliban raid
+38180,3,Trump questions US airstrikes against ISIS
+38279,5,US: No blank check for Saudi Arabia in Yemen
+38288,2,Russia vetoes UN resolution on Aleppo
+38300,6,Yemen: Missiles target US warship, Pentagon says
+38319,1,Fact-checking the 2nd debate
+38326,6,Vladimir Putin snubs France after Syria war crimes comments
+38329,1,US urges calm as Turkey-Iraq tensions risk ISIS fight
+38357,4,Russia and US to join new talks on Syria, Moscow says
+38358,1,US and Russia now in unpredictable confrontation
+38383,1,Boko Haram releases 21 Chibok girls to Nigerian government
+38384,3,Aleppo violence touches both sides of divide
+38388,5,Assad: Syrian forces must ’clean’ Aleppo
+38416,1,Iraqi PM on ISIS-held cities: We will go in soon
+38458,1,Boko Haram talks on Chibok girls to resume
+38459,7,Nine children killed in Aleppo airstrikes
+38462,3,Battle for Mosul begins with gunfire, bombs
+38468,5,ISIS in the crosshairs: Battle for Mosul begins
+38480,5,Turkish airstrikes hit Kurdish fighters in Syria
+38496,1,Libya: Five years after Gadhafi’s death
+38528,3,Syrian airstrikes hit school, killing 20 children, rescuers say
+38592,3,2015 Paris Terror Attacks Fast Facts
+38665,1,Trump’s national security guru
+38694,3,Aleppo residents get warning by text message
+38696,1,HRW: Kurds illegally destroying Arab homes in Iraq
+38720,1,’Knife fight’ as Trump builds Cabinet
+38775,1,Russia quits International Criminal Court
+38821,8,Syria: Airstrikes knock out Aleppo hospitals
+38863,1,Syria: Aleppo pounded by ’heaviest bombardment’ yet
+39023,4,Syrian forces enter eastern Aleppo to take key district
+39049,1,Aleppo family says goodbye on Twitter
+39145,2,Beloved Aleppo clown killed in airstrike
+39180,4,Syrian war: CNN goes inside Aleppo under airstrikes
+39205,1,Obama touts counterterror legacy, even as Trump threatens changes
+39248,2,US art teacher sketching Syria’s civil war
+39275,1,ISIS hostage John Cantlie appears in propaganda video
+39363,1,Analysis: Assad is winning a battle, but not the war for Syria
+39377,1,Russia: Syria establishes control over eastern Aleppo
+39403,3,Pentagon: 3 ISIS leaders killed in airstrike
+39418,2,Aleppo evacuations: From one war zone to another
+39441,1,2016 In Review Fast Facts
+39507,3,Aleppo: Evacuations resume after buses set ablaze
+39520,1,Suicide bomber kills more than 50 in Yemen, ISIS claims responsibility
+39534,1,Russia ’determined to fight terror’ after assassination
+39549,2,Gunman shouted ’Do not forget Aleppo!’ as he shot ambassador
+39588,3,Syrian regime says it has taken full control of Aleppo
+39689,1,Turkey and Russia agree on draft Syria ceasefire, report says
+39730,3,Iraq’s PM says ISIS could be defeated ’within 3 months’
+39738,4,Syrian civil war: Sporadic clashes but ceasefire holds
+39747,2,Syria civil war: ceasefire underway
+39753,1,US aware of recent Baghdadi movements
+39898,1,Boko Haram attack: Bodies still litter bushes
+39949,1,Two killed in Belgian anti-terror operation
+39950,1,AQAP: How will France respond to Charlie Hebdo attack?
+39975,2,Europe security officials rush to spot possible threats
+39976,1,Source: Terrorists had trained in Syria with ISIS
+40015,2,ISIS threatens to kill 2 Japanese hostages
+40043,1,ISIS hostage video raises questions about ’Jihadi John’
+40068,1,Official: Japan wants to communicate with ISIS
+40087,3,U.S. officials say 6,000 ISIS fighters killed in battles
+40090,1,Mother of ISIS hostage begs for mercy
+40104,1,Will U.S. troops move closer to Iraqi front lines?
+40105,2,What’s happening in the Middle East and why it matters
+40107,1,New Saudi King’s big challenges: Yemen, Iran and ISIS
+40108,1,Who is Saudi Arabia’s new King Salman?
+40109,1,Report: ISIS to release statement about hostages
+40130,1,ISIS claims it’s beheaded one Japanese hostage
+40191,1,Purported ISIS post threatens Japanese, Jordan captives
+40202,5,For ISIS, tough times as it seeks to regroup
+40233,1,ISIS launches attack on Kirkuk
+40249,15,ISIS fighters: Constant airstrikes drove us from Kobani
+40250,1,Hagel: Gitmo transfers caused friction with White House
+40262,6,Is U.S. coalition winning war against ISIS? (Opinion)
+40280,3,Jordan launches airstrikes against ISIS in Syria
+40281,1,ISIS miscalculated in Jordanian pilot’s death (Opinion)
+40317,7,Airstrikes pound ISIS targets in Mosul
+40318,1,ISIS Mosul defense could trigger troop recommendation
+40340,1,American ISIS hostage Kayla Mueller dead
+40366,4,Jordan’s King Abdullah, Queen Rania and war on ISIS
+40369,1,Iraqi tribal leader: Anbar province could ’collapse’
+40370,4,U.S. copters support Iraqis fighting ISIS
+40406,2,Egypt says it hit ISIS targets in Libya after killings
+40458,1,U.S. defense chief puts success before timing in Mosul
+40600,1,U.S. Air Force: Is superiority under threat?
+40607,1,Iraqi forces expected to retake Tikrit within days
+40608,1,ISIS militants believed to hold 9 foreigners in Libya
+40678,1,Iraqi forces retake most of Tikrit, militia head says
+40701,1,5 key issues for next Israeli prime minister
+40812,3,Yemen mosque attacks: ISIS purportedly lays claim
+40915,6,Saudis lead air campaign against rebels in Yemen
+40923,3,Coalition hammers ISIS targets around Tikrit
+40980,4,Threat of ground incursion looms over Yemen
+40986,7,Airstrike on Yemen refugee camp could portend incursion
+41031,1,Al Qaeda fighters free 270 from Yemen prison
+41108,4,In Yemen, U.S. citizen killed by mortar strike
+41174,1,ISIS released more than 200 Yazidis, officials say
+41259,1,U.S.: ISIS problem ’off the charts historically’
+41263,1,Russia lifts ban on sale of missile system to Iran
+41280,4,Ramadi could fall to ISIS offensive, Iraq official says
+41376,2,Yemen: After hours at sea, chaos and desperation found
+41424,1,Al Qaeda hostage, American Warren Weinstein, killed
+41491,3,Yemen: Living under fire
+41591,8,U.N. rep accuses Saudis of violating international law
+41634,4,ISIS on offensive in Iraq’s Ramadi, governor says
+41649,1,Obama, Arab nations dance to different tunes (Opinion)
+41673,4,Abu Sayyaf, key ISIS figure in Syria, killed in U.S. raid
+41674,2,ISIS withdraws from key parts of Ramadi, Iraq says
+41787,2,Iraq operation aims to push ISIS from Anbar, Salaheddin
+41814,1,Carter: Iraqis showed ’no will to fight’ in Ramadi
+41890,1,Why is this Special Forces war hero being investigated?
+41902,5,Why ISIS is winning, and how its foes can reverse it
+42015,1,U.S. official: 10,000 ISIS fighters killed in 9 months
+42213,1,Actor Enright in Syria: Kurds need help against ISIS
+42313,1,Source: Airstrike targeted Mokhtar Belmokhtar in Libya
+42332,1,Al Qaeda No. 2 leader Nasir al-Wuhayshi killed in Yemen
+42374,3,Whack-a-mole is not a strategy
+42517,3,Blueprint for success against ISIS in Syria and Iraq?
+42612,2,U.S. theory: ISIS’s al-Baghdadi hiding among civilians
+42774,2,Afghan agency: ISIS leader killed in drone strike
+42921,1,Turkey attack: Funerals held for victims of Suruc blast
+42934,4,Turkey arrests hundreds of suspected terrorists
+43037,1,Photos from a city under siege
+43052,1,No U.S. aircraft carrier in Persian Gulf for 2 months
+43511,1,Al Qaeda was ready and waiting for the SEALs on Trump’s first raid
+44284,2,The deadly chemical attack is the latest to hit Syria in 6 years of brutal civil war — here’s what happened
+44308,1,’Yes, I’m skeptical’: Congresswoman says there’s no need to point fingers in Syria chemical weapons attack
+44317,1,From Al-Masdar to InfoWars: How a pro-Assad conspiracy theory got picked up by the far-right
+44339,1,US official: Russia knew in advance that Syria would launch chemical-weapons attack
+44868,6,Meet the small group of men who are risking everything to destroy ISIS
+45297,1,Russia has a ’plan B’ for Syria that would allow it to ’redefine the international order’
+45803,1,US officials think ISIS will attack America this year
+46200,4,The US now believes that it killed ISIS’ military mastermind in an airstrike
+46244,2,ISIS’ backup plan is falling apart
+46316,1,Experts: Killing ISIS’ No. 2 isn’t enough to cripple the terror group
+46676,3,Watch a US-led airstrike annihilate an ISIS vehicle on the move
+46727,1,US military uses controversial ’roof knock’ tactic in Iraq to try to warn civilians before bombing raids
+47338,1,An ’embarrassing’ break: Dozens of State Department officials just revolted against Obama’s Syria policy
+47394,1,Former US ambassador to Syria: ’No surefire solution’ to the conflict, ’and we just have to live with that’
+48054,1,Donald Trump calls Obama the ’founder of ISIS’
+48069,1,There’s a glaring problem with CNN’s ’fact check’ of Trump’s claim that Obama founded ISIS
+48122,2,’This is what hell feels like’: CNN war correspondent says she’s ’never seen anything’ like Aleppo
+48463,1,How Texas explains Assad’s strategy in Syria
+48632,2,Where Hillary Clinton and Donald Trump stand on foreign policy
+48655,4,More than just ’sound and fury’: Anger over Russian ’war crimes’ in Syria is reaching a tipping point
+48777,2,John McCain calls US diplomacy ’toothless’ and advocates for military intervention in Syria
+48780,1,The US is coming to a new realization about Syria that could change everything
+48791,1,’Wouldn’t it be nice if we attacked first?’: Donald Trump floats military strategy ideas
+48922,1,Donald Trump is repeating Syrian President Bashar Assad’s talking points
+48945,1,Russia has muscled the US out of Syria
+48983,3,’It’s easy to lose your mind here’: A Syrian from Aleppo explains how he survives amid food shortages and airstrikes
+49300,1,’We’re scared for our lives’: Some Syrians view Trump’s win as the ’most dreadful turn of events imaginable’
+49358,4,Watch a US-led airstrike knock out a facility producing ISIS’ favorite weapon in Iraq
+49553,2,Watch a US-led coalition airstrike knock out an ISIS headquarters near the group’s last Iraqi stronghold
+49558,1,Obama delivers passionate defense of his counterterrorism strategy in final foreign policy speech
+49561,1,Turkey is hosting a new round of peace talks between Russia and Syrian rebels — and it looks like the US wasn’t invited
+49881,1,Obama Leaves the Constitution Weaker Than He Found It

@@ -1,0 +1,413 @@
+77,1,Enough With the Tweets, China’s State Media Tells Trump - The New York Times
+92,2,In Break With Precedent, Obama Envoys Are Denied Extensions Past Inauguration Day - The New York Times
+170,1,Death of Iran’s Rafsanjani Removes Influential Voice Against Hard-Liners - The New York Times
+274,1,Christopher Steele, Ex-Spy Who Compiled Trump Dossier, Goes to Ground - The New York Times
+443,1,Trump Calls for Unity at Opening Concert as Inaugural Festivities Begin - The New York Times
+537,1,First Day of Syria Peace Talks Quickly Descends Into Quarreling - The New York Times
+550,1,Press Secretary Affirms that Trump Believes Lie of Millions of Illegal Voters - The New York Times
+551,1,Academy Awards, James Comey: Your Tuesday Evening Briefing - The New York Times
+552,1,Donald Trump, ‘Brexit,’ Syria: Your Morning Briefing - The New York Times
+561,1,Emboldened by Trump, Israel Approves a Wave of West Bank Settlement Expansion - The New York Times
+564,1,Iran, Russia and Turkey Agree to Enforce Syria Cease-Fire, but Don’t Explain How - The New York Times
+604,1,Tax Plan Sows Confusion as Tensions With Mexico Soar - The New York Times
+605,1,How to Interpret the Trump Administration’s Latest Signals on Mexico - The New York Times
+643,1,Nikki Haley Puts U.N. on Notice: U.S. Is ‘Taking Names’ - The New York Times
+674,2,Trump’s Immigration Order Could Have a Big Impact on Sports - The New York Times
+707,1,Trump Administration Defends Bannon’s Role on Security Council - The New York Times
+757,1,Trump Threatens Europe’s Stability, a Top Leader Warns - The New York Times
+768,1,25 Great Books by Refugees in America - The New York Times
+843,1,Jim Mattis Says U.S. Is ‘Shoulder to Shoulder’ With Japan - The New York Times
+864,1,Trump’s Granddaughter, 5, Sings in Chinese, and China Swoons - The New York Times
+930,1,Turning the Tide Against Cholera - The New York Times
+933,1,Split by ‘Brexit,’ May and Merkel Diverge on Wider Issues, Too - The New York Times
+993,2,Biden Gets a Job, and Obama Goes Kitesurfing - The New York Times
+1003,1,Trump May Turn to Arab Allies for Help With Israeli-Palestinian Relations - The New York Times
+1022,1,Flynn Is Said to Have Talked to Russians About Sanctions Before Trump Took Office - The New York Times
+1063,1,Donald Trump, North Korea, Kashmir: Your Morning Briefing - The New York Times
+1065,2,A Presidential Golf Outing, With a Twist: Trump Owns the Place - The New York Times
+1112,1,Ex-Admiral and Member of Navy SEALs Is Top Choice to Replace Flynn - The New York Times
+1126,1,Kim Jong-un’s Half Brother Is Reported Assassinated in Malaysia - The New York Times
+1137,3,For Kushner, Israel Policy May Be Shaped by the Personal - The New York Times
+1166,1,Is 2-State Solution Dead? In Israel, a Debate Over What’s Next - The New York Times
+1216,1,Trump Aides Try to Reassure Europe, but Many Are Wary - The New York Times
+1250,1,Russia Stirs Friction in Balkans, as NATO Keeps an Uneasy Peace - The New York Times
+1260,1,Trump Talk of Terror Listing for Muslim Brotherhood Alarms Some Arab Allies - The New York Times
+1404,4,Critics Assail Cuts in Foreign Spending as Trump Moves to Boost Military - The New York Times
+1448,1,Trump Sidelines Camp David for Mar-a-Lago - The New York Times
+1476,1,Jeff Sessions Recuses Himself From Russia Inquiry - The New York Times
+1570,1,A Eureka Moment for Two Times Reporters: North Korea’s Missile Launches Were Failing Too Often - The New York Times
+1572,1,North Korea, Citing Kim Jong-nam Dispute, Blocks Malaysians From Exiting - The New York Times
+1618,1,The Best Country in the World? Survey Says It’s Switzerland - The New York Times
+1631,1,Among Questions for Trump on Iran: What About American Prisoners? - The New York Times
+1685,1,Trump Ends Silence With Palestinians, Opening a Path - The New York Times
+1733,2,Tillerson Leads From State Dept. Shadows as White House Steps In - The New York Times
+1822,1,Trump Takes a Gamble in Cutting Programs His Base Relies On - The New York Times
+1869,1,Germany Reacts to Merkel-Trump Visit: ‘Could Have Been a Lot Worse’ - The New York Times
+1916,4,Rex Tillerson’s Hope for a Media-Free Bubble May Burst - The New York Times
+1919,1,David Rockefeller, Philanthropist and Head of Chase Manhattan, Dies at 101 - The New York Times
+1923,1,Robert Silvers, a Founding Editor of New York Review of Books, Dies at 87 - The New York Times
+2138,1,Rex Tillerson to Lift Human Rights Conditions on Arms Sale to Bahrain - The New York Times
+2146,1,Nikki Haley Calls United Nations Human Rights Council ‘So Corrupt’ - The New York Times
+2173,2,U.S. War Footprint Grows in Middle East, With No Endgame in Sight - The New York Times
+2178,1,Venezuela Muzzles Legislature, Moving Closer to One-Man Rule - The New York Times
+2223,1,Meet the Obama Holdovers Who Survived Trump’s Sweep - The New York Times
+2226,1,Ranks of Political Prisoners Grow as Democracy Ebbs in Venezuela - The New York Times
+2284,1,My Son, My Daughter: A Mother’s Evolution - The New York Times
+2302,1,As Trump Meets Xi at Mar-a-Lago, There’s a ‘Wild Card’ - The New York Times
+2360,1,How Trump Can Improve the Messy U.S.-Chinese Economic Relationship - The New York Times
+2410,4,Once a Trump Critic, Nikki Haley Casts Herself as His Leading Diplomat - The New York Times
+2418,1,Five Must-See Shows if You’re in New York This Month - The New York Times
+2428,1,Tillerson, on Eve of Russia Trip, Takes Hard Line on Syria - The New York Times
+2493,3,Trump Faces the Limits of American Power - The New York Times
+2766,1,What Would It Take for Donald Trump to Deport 11 Million and Build a Wall? - The New York Times
+2785,1,Exaggerator Tops Nyquist in Preakness to End Bid for a Triple Crown - The New York Times
+2829,2,Hillary Clinton to Portray Donald Trump’s Foreign Policy Positions as Dangerous - The New York Times
+2857,1,Palestinians Elect a New President (on a Reality TV Show) - The New York Times
+3399,1,Russia, Suspected in Hacking, Has Uneasy History With Hillary Clinton - The New York Times
+3439,1,Obama Says Republicans Should Withdraw Support for Trump - The New York Times
+3649,1,‘No Matter What You Did, You Are My Son’: Afghan Fighters Reunite as Family - The New York Times
+3657,1,U.S. Concedes $400 Million Payment to Iran Was Delayed as Prisoner ‘Leverage’ - The New York Times
+3685,1,D.A. Henderson, Doctor Who Helped End Smallpox Scourge, Dies at 87 - The New York Times
+3731,1,Saudis and Extremism: ‘Both the Arsonists and the Firefighters’ - The New York Times
+3838,1,Islam Karimov Dies at 78, Ending a Long, Ruthless Rule of Uzbekistan - The New York Times
+3860,1,How the Fight for a National African-American Museum Was Won - The New York Times
+3863,1,‘Gaps of Trust’ With Russia Bar a Syrian Truce, Obama Says - The New York Times
+3887,2,Donald Trump Vows to Bolster Nation’s Military Capacities - The New York Times
+3890,2,Pressing Asia Agenda, Obama Treads Lightly on Human Rights - The New York Times
+3985,1,Obama Pledges to Lift All Sanctions Against Myanmar - The New York Times
+4094,5,Obama Puts Syria at Arm’s Length as Carnage Drags On - The New York Times
+4114,1,Syria and Russia Appear Ready to Scorch Aleppo - The New York Times
+4128,2,Unrelenting Assault on Aleppo Is Called Worst Yet in Syria’s Civil War - The New York Times
+4357,1,Biden Hints at U.S. Response to Russia for Cyberattacks - The New York Times
+4558,1,U.K.’s Bridge to Trump? Nigel Farage, Who Pushed ‘Brexit,’ Posits Himself - The New York Times
+4598,1,Donald Trump, After Fits and Starts, Focuses on Foreign Policy - The New York Times
+4678,1,Nikki Haley’s Path: From Daughter of Immigrants to Trump’s Pick for U.N. - The New York Times
+4756,2,Earth Isn’t Doomed Yet. The Climate Could Survive Trump Policies. - The New York Times
+4834,2,Trump’s Call with Taiwan: A Diplomatic Gaffe or a New Start? - The New York Times
+4992,1,Aleppo Evacuation Effort Restarts, and Assad Calls It History in the Making - The New York Times
+5061,1,Donald Trump, Seeking Ambassadors, Sorts Through Competing Priorities - The New York Times
+5154,1,Kerry Rebukes Israel, Calling Settlements a Threat to Peace - The New York Times
+5178,3,Vladimir Putin Won’t Expel U.S. Diplomats as Russian Foreign Minister Urged - The New York Times
+5345,1,At Carnegie Hall, a New Leader With a Son Named Hendrix - The New York Times
+5359,1,In a Reversal, Germany’s Military Growth Is Met With Western Relief - The New York Times
+5450,2,The State Department’s Dissent Memo on Syria: An Explanation - The New York Times
+5465,2,With ‘Brexit,’ Washington’s Direct Line to the Continent Suddenly Frays - The New York Times
+5495,1,9 in Navy Disciplined Over Iran’s Capture of Sailors - The New York Times
+5509,1,Quiet Fixer in Donald Trump’s Campaign: His Son-in-Law, Jared Kushner - The New York Times
+5737,1,‘Shadow Brokers’ Leak Raises Alarming Question: Was the N.S.A. Hacked? - The New York Times
+5811,1,Donald Trump Tries a Jarring New Style: Diplomatic - The New York Times
+5861,1,Obama on Climate Change: The Trends Are ‘Terrifying’ - The New York Times
+5869,1,Russia, Already Reinserting Itself in Middle East, Enters Israeli-Palestinian Fray - The New York Times
+5912,1,Write Your Boss That Kiss-Off Letter. Then Press Delete. - The New York Times
+6019,1,John Kerry Criticizes Russia, Saying It ‘Turned a Blind Eye’ on Syria - The New York Times
+6102,1,Agencies Clashed on Classification of Clinton Email, Inquiry Shows - The New York Times
+6332,1,Business Since Birth: Trump’s Children and the Tangle That Awaits - The New York Times
+6350,1,Obama, in Major National Security Speech, Defends Counterterrorism Legacy - The New York Times
+6497,1,New Cease-Fire Begins in Syria, but Violations Are Reported Within Hours - The New York Times
+6546,2,For Hillary Clinton and John Kerry, Divergent Paths to Iran Nuclear Talks - The New York Times
+6600,1,As Democrats Nudge Bernie Sanders, G.O.P. Tries to Rein In Donald Trump - The New York Times
+6814,1,Clinton and Trump Campaigns Are Buzzing About the Race … for the Cabinet - The New York Times
+6896,1,Obama, in Farewell to U.N., Paints Stark Choices for Unsettled World - The New York Times
+7085,1,Matteo Renzi, Oakland, Aleppo: Your Monday Briefing - The New York Times
+7110,2,Rex Tillerson, Exxon Chief, Is Expected to Be Pick for Secretary of State - The New York Times
+7124,1,Democrats and Feds in Dispute on Trump’s D.C. Hotel Lease - The New York Times
+7158,1,U.S. Transition Puts Israeli Focus Back on Palestinians - The New York Times
+7188,1,Russia Bolsters Its Submarine Fleet, and Tensions With U.S. Rise - The New York Times
+7204,1,Talks on Syria Seek to Extend Fragile Truce to Aleppo - The New York Times
+7236,1,Gawker’s General Counsel Takes On a Leadership Role - The New York Times
+7333,1,Turkey’s Military Plunges Into Syria, Enabling Rebels to Capture ISIS Stronghold - The New York Times
+7419,2,A Senior Russian Envoy’s Take on Relations With the United States: ‘Pretty Bad’ - The New York Times
+7471,2,Trump Speaks With Taiwan’s Leader, an Affront to China - The New York Times
+7473,1,Donald Trump Thrusts Taiwan Back on the Table, Rattling a Region - The New York Times
+7506,1,Who Was Andrey Karlov, the Russian Ambassador Killed in Turkey? - The New York Times
+7544,1,Mexico Prepares to Counter ‘the Trump Emergency’ - The New York Times
+7672,1,Trump Unveils High-Powered and Well-Heeled Business Council, and Invites Filipino Strongman to White House - The New York Times
+7801,3,U.S. Presses for Truce in Syria, With Its Larger Policy on Pause - The New York Times
+7891,1,Kellyanne Conway: Obama’s Russia Sanctions Meant to ’Box In’ Donald Trump - Breitbart
+8004,1,Backfire: Obama Sanctions Allow Trump to Pursue Closer Relations with Russia - Breitbart
+8128,1,Frank Gaffney: ‘If Assad Must Go, What Do We Want There Next?’
+8164,1,Senators: White House Briefing on North Korea ’Sobering,’ ’Important’ - Breitbart
+8437,2,John Bolton: If North Korea Gets Nuclear Missiles, ‘Iran Could Have That Capability the Next Day’
+8598,1,Israeli Envoys Meet Trump Officials To Negotiate Settlements
+8818,2,EXCLUSIVE: In Trump’s NSC, Women Run the Show
+8873,1,Report: Trump Commands State Department to Slash UN Funding in Half
+8875,1,Media Was Silent When Obama Adopted Defense Proposals from Pro-Soviet Think Tank
+9293,1,Gorka: ‘Things Have Changed Fundamentally’ for North Korea, Because ‘America Is Back’
+9422,1,John Bolton: Moving U.S. Embassy to Jerusalem as Simple as Moving the Sign from One Building to Another
+9661,1,John Kerry, 72 Countries Set to Gang Up On Israel At Paris ‘Peace’ Summit on Sunday
+9999,1,Tribal Leader Threatens Protest If Border Wall Is Built
+10028,2,Big Government Republicans Rebuke Trump Budget - Breitbart
+10083,1,Trump Drops Truth Bombs on Cuba Regime, Policies - Breitbart
+10090,1,Exclusive - Rep. Bridenstine: Shoot the Next One Down, Mr. President - Breitbart
+10893,1,’Supernatural’ Actor Mark Pellegrino In Israel: Kerry On Wrong Side Of History Once Again
+11161,1,100 Days of Trump in Asia: Winning over Duterte, Golf with Abe, and a ’Not as Good’ Deal with China - Breitbart
+11475,1,John Bolton: I’m Concerned That U.S. Is Pushing Back on Israeli Settlements, Delaying Jerusalem Embassy Move
+11545,1,Top 10 Holdover Obama Bureaucrats President Trump Can Fire or Remove Today - Breitbart
+11631,1,Obama’s State Department Sponsored 2016 Meeting of Russian Ambassador with Sen. Sessions - Breitbart
+11830,1,Five Things to Watch for During Trump’s Israel Trip
+11914,1,Judicial Watch: Huma Abedin Emails Show Favors for Clinton Foundation Donors
+12385,2,Pinkerton: The Plutocrats vs. the People: Trump’s Paris Climate Decision Exposes the Latest Battle in the Class War
+12406,3,Hillary Clinton Blasts Trump’s Budget Cuts - Breitbart
+12507,1,John Bolton: Only Way to End North Korea’s Nuclear Weapons Program Is to ‘End the North’
+12706,1,Two Dead in Protests as South Korea Formally Ousts President - Breitbart
+12923,1,Donald Trump Puts Iran ‘On Notice’ for ‘Destabilizing Actions’ in Middle East - Breitbart
+13017,1,State Dept: Tillerson Has Held over a Dozen Bilateral Meetings
+13183,1,Making America Great Again: Donald Trump’s 100 Days’ Success - Breitbart
+13707,1,Senator John McCain Makes Secret Trip to Syria - Breitbart
+13960,1,Trump on Putin’s Support for ‘Butcher’ Assad: Russia Backing ‘Truly an Evil Person’
+14095,1,Report: Trump Considering Placing Nuclear Weapons in South Korea as Deterrent to North
+14186,1,Duterte Sings Different Tune: Urges U.S. to ’Help’ Philippines Fight Terrorism
+14219,1,Patriots Owner Bob Kraft Reveals How Donald Trump Helped Him Through a Difficult Life Crisis - Breitbart
+14244,1,Speculation Brews Over Trump-Pope Meeting in May
+14361,1,In Trump White House, Wildcard Putin Faces First Assertive America of His Career - Breitbart
+14393,6,Susan Rice: ’We Can’t Allow Twitter Wars to Become Shooting Wars’ - Breitbart
+14403,1,John Kerry: There Is Nothing ’Normal’ or ’American’ About Trump’s Presidency - Breitbart
+14671,1,The Ten Major Military Players Fighting for the Heart of Syria - Breitbart
+14935,1,EU Prez Juncker Threatens ’Texit’ as Revenge for Trump’s Brexit Support
+15047,1,Five Delicate Problems Trump Trusts Jared Kushner to Solve - Breitbart
+15155,1,President Obama Hits Twitter to Celebrate Legacy - Breitbart
+15477,1,Business Insider: TPP Could Destroy Clinton’s Chances for White House - Breitbart
+15603,1,State Dept. Official Brags Hillary Clinton Sent Sensitive Info by Email - Breitbart
+15953,1,Putin Dismisses Obama’s Actions Against Russia Looks Forward to Trump
+15990,1,Donald Trump Sizzles in Foreign, Defense Policy Speech: ‘I Will Never Let You Down’ - Breitbart
+16295,1,Iran Claims Seizure of over 13,000 Pages of Intel from Abducted U.S. Sailors - Breitbart
+17168,2,Obama: Iran Nuke Deal ’Substantial Success,’ Model for Future Diplomacy - Breitbart
+17548,2,Not Welcome Here – Obama’s Visit To UK Tanks As Poll Reveals 60% Of Britons Don’t Want His Pro-EU Lectures
+17571,1,Watch: Donald Trump Gives Foreign Policy Speech in Washington, D.C. - Breitbart
+17609,2,Blue State Blues: Were Sailors Ordered to Surrender?
+17753,1,Hillary Appointed Clinton Foundation Donor, Financial Bundler to Sensitive Intel Post - Breitbart
+18544,1,The Nuclear Option - An American Catastrophe: Racially Fueled Riots Spike - Breitbart
+18843,1,DNC WikiLeaks Email Flap Proves Trump Is Right on Russia - Breitbart
+19046,1,Hillary’s Non-Secure Blackberry Had ’Vulnerability’ On China Trip - Breitbart
+19432,1,Terrorism Task Force Chair in South America: ’Open Season’ for Terror Fundraisers - Breitbart
+19500,1,How the Second Amendment ’Proves’ Ted Cruz’s Eligibility
+19715,1,Catholic Priest: Christians Have A Moral Duty To Defeat Terror
+19803,1,Establishment Playbook to Defeat Donald Trump Echoes Smears Against Barry Goldwater - Breitbart
+20064,1,Bryan Cranston: ’Narcissist’ Trump Lacks Obama’s Presidential Qualities - Breitbart
+20077,1,***Live Updates*** Sanders, Clinton Participate in Ohio Town Hall  - Breitbart
+20154,1,Making Israel Sexy Again: New Instagram Account Features Hot Dudes Eating Hummus
+20257,1,Pentagon Does Not Know if Sailors Captured by Iran Defended
+21720,1,Actress Carrie Fisher: Trump ’Absolutely’ a Cocaine Addict
+21744,1,The Ten Ideologies of America
+21829,1,Clinton Adviser: ‘Seems Odd’ To Put Tributes To ‘Four Guys’ In Benghazi Statement - Breitbart
+22420,2,Obama’s $400 Million Cash Payment to Iran May Be Unprecedented - Breitbart
+22483,1,U.S., Russia Call for Syrian Constitution Draft by August
+22854,1,Sen. Chris Coons Predicts Confirmation Fight Over Rex Tillerson Leading Trump’s State Dept - Breitbart
+22883,1,Trump Arouses Syrian Rebel Concern, Optimism in Damascus
+23096,3,FLEITZ: The Truth About John Bolton, the Iraq War and WMD Diplomacy - Breitbart
+23261,1,Hillary Emails: Clinton Personally Oversaw Corrections to Already-Glowing Washington Post Profile
+23299,1,Forgotten History: How American Presidents from Washington to Lincoln Agree with Trump on Trade - Breitbart
+23741,1,Ted Cruz and the Constitution’s ’Natural Born Citizen’ Clause
+23813,5,Obama: Through Diplomacy, Without Another War, We Have Achieved Historic Progress With Iran - Breitbart
+24228,1,White House Insists Obama Has Lived up to Ideals of Nobel Prize - Breitbart
+24447,1,Japan Affirms Previous PMs Have Visited Pearl Harbor as Shinzo Abe Heads to Hawaii - Breitbart
+24849,1,Sheila Jackson Lee: Texas Is ’Going to Be in the Column for Hillary Rodham Clinton’ - Breitbart
+24872,1,Hillary’s World: How Clinton’s Foreign Policy Has Destabilized Nearly Every Corner of the Globe - Breitbart
+25119,1,News Media Silent on Controversial Lobbyist Brother of Hillary Clinton’s Campaign Chairman John Podesta
+25523,3,North Korea Nuke Could Blow Up Hillary Clinton’s Campaign
+25601,2,’Glitch’: Months’ Worth of Emails from Top Deputy Failed to Reach Hillary Clinton’s Inbox
+25642,1,Rouhani Rails Against U.S. ’Lack of Compliance’ with Nuclear Deal
+25816,1,Dr. Sebastian Gorka on Trump’s Cabinet: ‘After Eight Years of Pajama Boys, It’s Time for the Alpha Males’
+25827,1,WSJ: The Clinton Foundation, State and Kremlin Connections - Breitbart
+26005,1,’Deus Ex: Mankind Divided’ Review: A Brilliant, Mature RPG That Pulls No Punches - Breitbart
+26168,1,Trump-Modern Day Paul Revere Deserves Nobel Peace Prize - Breitbart
+26419,1,***Live Updates*** Obama Delivers Final State of Union Address - Breitbart
+27032,1,Obama Meets with Anti-Castro, Anti-Obama Cuban Dissidents - Breitbart
+27121,1,Christie: Trump ’Strongest, Best Guy To Be Our Nominee’ and ’To Beat Hillary’ - Breitbart
+27535,1,John Kerry Thanks Iran for Releasing Kidnapped U.S. Sailors
+27550,1,Bolton and Gorka Slam ‘Neocons For Hillary’ - Breitbart
+27616,1,Breitbart’s Aaron Klein: ’Deceptive’ Talking Points Utilized to Sell Iran Deal - Breitbart
+28058,1,Breitbart’s Aaron Klein: Kerry ‘Not Taken Seriously’ In Mideast
+28173,1,Bishops Demand Dominican Republic Censure Gay U.S. Ambassador
+28508,1,Jim Hanson: Enforce a ’Sharia Exclusion Ban for Entry into the United States’ - Breitbart
+28559,1,Gates: Obama Doesn’t Have Strategy To Deal With Iran In ME, WH Micromanages Military - Breitbart
+28747,1,Globalist Obama: Terrorists, Racist Cops Are ’Chronic Impulses’ to Be Defeated by Global Elites - Breitbart
+28988,4,Reactions to ExxonMobil CEO Rex Tillerson as Secretary of State - Breitbart
+29105,1,What Mike Pence Would Bring to a Trump-Pence Ticket - Breitbart
+29386,1,James Pinkerton: Globalism Hits a Brick Wall: Now, What Will Donald Trump and Hillary Clinton Do?  - Breitbart
+29460,2,Trump Meets John Kelly, the Longest Serving Marine General in History
+30414,1,Hillary Clinton Dismisses Donald Trump Mexico Visit As A ‘Photo Op’ - Breitbart
+30545,1,Breitbart’s Aaron Klein: Battle for Aleppo Could Determine Future of Mideast - Breitbart
+30858,2,Trump’s Mission: Make America Great Again Peace with Honor—Through Deal-Making - Breitbart
+30911,1,***2016 LiveWire*** Trump Arrives in Mexico Before Arizona Immigration Speech - Breitbart
+30922,1,Hillary Clinton Mocks Gowdy’s Benghazi Report: ’Move On’
+30939,1,Trump Campaign Hits Hillary on North Korea Nuke Test: ’Failed Secretary of State’ - Breitbart
+31064,2,Photos: U.S. Sailors on Their Knees Before Iran Surface
+31073,1,Netanyahu Lights Menorah in ’Illegal’ Jewish Quarter of Jerusalem
+31082,1,Rand Paul: Bolton ’Totally Unfit’ for Secretary of State - Giuliani ’Very Similar’ - Breitbart
+31294,1,Top Washington Catholic Blasts Pope for Cozy Photo with Iranian Strongman - Breitbart
+31368,1,San Diego Paper Endorses Clinton, 1st Democrat in 148 Years
+31429,2,Larry Kudlow Spars with Barney Frank - Says Trump Could Be GOP Nominee and Would Beat Hillary - Breitbart
+31604,1,Putin congratulates Trump in New Year statement
+31640,1,Facing growing North Korea nuke threat, Trump vows: ’It won’t happen!’
+31666,1,New UN secretary-general starts work
+31682,1,CNN 10 - January 5, 2017
+31813,2,Obama’s final report card: Did he live up to his promise?
+31900,1,South China Sea: Chinese state media slams Tillerson
+32041,2,How the world sees a Trump presidency
+32122,1,Trump’s Hundred Days clock is ticking
+32150,1,Senate committee approves Tillerson for secretary of state
+32173,2,Syrian peace talks: A lot of posturing -- some signs of hope
+32201,1,Key points in Trump’s immigration executive orders
+32264,3,Trump talks to Putin, Merkel in day of calls
+32302,1,Trump’s roller coaster first week of diplomacy
+32364,3,Trump has heated exchange with Australian leader, sources say
+32381,7,Donald Trump’s undiplomatic diplomacy
+32455,1,Trump shakes his fist, but is US foreign policy actually changing?
+32479,1,Chinese ships sail near disputed Japanese islands
+32537,1,Ivanka Trump quietly settles into White House life
+32551,1,Joe Biden Fast Facts
+32578,1,Flynn’s talks with Russian ambassador point to larger problem
+32581,1,Bidens partner with Creative Artists Agency
+32608,2,Golf diplomacy teed up at the Winter White House
+32618,1,At Mar-a-Lago, Trump tackles crisis diplomacy at close range
+32641,2,CNN 10 - February 13, 2017
+32689,2,CNN 10 - February 16, 2017
+32789,1,China bans coal imports from North Korea
+32839,1,State Department’s silence gives others an opening
+32948,1,Outgoing US ambassador: America is ’not an ethno-state’
+32977,2,Retired generals: Don’t cut State Department
+32997,3,Trump budget plan shows how he would reshape nation
+33041,1,McCain, Graham give their view of Trump’s presidency so far
+33074,1,CNN 10 - March 3, 2017
+33132,2,’America First’ puts freedom and leadership last
+33248,1,How South Korea’s political turmoil could upend ties with the US
+33308,1,White House demands deep cuts to State, UN funds
+33340,1,North Korea looms over Rex Tillerson’s first Asia trip
+33346,2,Dina Powell to be named deputy national security adviser for strategy
+33633,1,9 Malaysians held in North Korea arrive home
+33638,1,Joe Biden indirectly knocks Clinton’s failed campaign
+33692,1,Ivanka and Jared’s millions won’t help them govern
+33729,1,Rex Tillerson’s odd North Korea statement
+33755,1,Amid tension, cultural exchange and appreciation at the Russian embassy
+33892,1,Backlash erupts after United passenger gets yanked off overbooked flight
+33895,1,Donald Trump’s on-the-job training
+33915,1,North Korea may be able to arm missiles with sarin, Japan PM says
+34047,1,Could the US take out North Korea’s missiles before launch?
+34100,2,Trump wings it without chief of protocol
+34212,2,Is Donald Trump taking North Korea’s bait?
+34294,2,Pope: Humanity couldn’t bear war with N.Korea
+34310,3,Sen. Chris Coons slams Trump’s North Korea tweet
+34335,1,Trump, Kim’s standoff on the Korean Peninsula keeps region on edge
+34348,1,When to call a dictator... and when to let him leave a message
+34411,2,New US embassy designs make a bold statement
+34415,1,India launches satellite for South Asian countries, Pakistan says no thanks
+34680,1,Trump again reveals his dangerous incompetence
+34824,1,Trump foreign trip: Who, what, when, where
+34826,1,Trump signs Kushner-negotiated $100B Saudi arms deal
+34828,1,Locked out of China, South Korea’s K-pop stars head to US
+34839,1,Abroad, President Trump’s reality collides with candidate Trump’s words
+34859,1,In first foreign swing, Trump works to reposition US allies
+34908,1,1 day, 2 presidents: Merkel meets with Obama, then Trump
+34939,1,Spicer’s absence in papal visit reveals Trump’s family-first rule
+34959,1,What we learned about Melania Trump from her first international trip
+35017,1,Macron explains his tense handshake with Trump
+35175,1,Smerconish: Trump withdrew from climate deal to ’throw his base a bone’
+35179,1,Richard Clarke: Why is there a Russian under every rock?
+35389,2,Rodman hopes to do ’something pretty positive’ in North Korea
+35398,1,Could football help ease tensions between North and South Korea?
+35401,2,Exclusive: Dennis Rodman heading to North Korea
+35458,1,Trump gives away his most consequential decision to the Pentagon
+35568,1,Russia: US planes over western Syria now ’air targets’
+35574,1,Former North Korea detainee Otto Warmbier dies
+35580,1,Why Kim agreed to release Otto Warmbier
+35790,1,Five reasons Europe will miss the UK
+35811,1,Why the U.S. is freaked out about Brexit
+35937,1,Why we forget Muslim terror victims
+36102,1,President Trump has a long history of praise for autocrats, dictators and strongmen
+36552,1,US Navy to China: We’re staying in South China Sea
+36600,2,Was Hillary Clinton a good secretary of state?
+37186,1,Trump, RNC seize on new report to attack Clinton Foundation
+37385,1,Clinton: In Mexico ’Trump just failed his first foreign test’
+37403,1,Peña Nieto, you got ’punked’
+37462,1,Obama, China ratify climate agreements
+37491,1,North Korea fires three ballistic missiles, South Korea says
+37494,1,GOP congressman chides Trump: ’Don’t be so sensitive’
+37566,3,Rash of snubs complicates US diplomacy
+37820,1,UN chief calls convoy attackers in Syria ’cowards’
+37941,1,Aleppo strikes trap children in rubble
+38064,3,Regime forces amass around Aleppo as diplomacy falters
+38179,1,US suspends talks with Russia over Syria
+38194,1,Pence goes further than Trump on Syria military action
+38326,1,Vladimir Putin snubs France after Syria war crimes comments
+38455,1,Nations agree landmark deal to cut potent greenhouse gases
+38637,1,How a bill becomes a wall
+38685,1,Democrats, we need this new direction
+38714,2,How to unite a divided America
+38842,1,Trump-Romney meeting another wild 2016 twist
+38902,1,The TPP is over. What happens now?
+38962,1,Dennis Rodman Fast Facts
+39129,1,China lodges complaint over Trump-Taiwan call
+39158,1,Trump’s campaign style lost in translation
+39262,1,China’s Xi Jinping keeps Iowa close to his heart
+39263,1,Trump taps Iowa Gov. Branstad for China ambassador
+39353,1,Trump: US doesn’t ’have to be bound’ by ’one China’ policy
+39363,1,Analysis: Assad is winning a battle, but not the war for Syria
+39375,2,Trump could face showdown over Tillerson pick
+39393,3,Why is Rex Tillerson so controversial?
+39424,1,Russia’s Putin meets with Abe to discuss disputed islands
+39440,1,Jerry Falwell, Jr.: Social views of Trump’s State Dept. pick don’t matter
+39479,1,Obama’s year-end message: I did it right
+39497,1,Evacuation agreement reached in Aleppo, rebel group says
+39581,1,The last 24 hours of Trump
+39606,1,US abstains as UN demands end to Israeli settlements
+39608,2,For Trump, no qualms in contradicting Obama
+39650,1,2017: Year of hope or year of fear?
+39655,2,Israeli official: Proof of US role in UN vote to be given to Trump
+39668,1,Japan’s Abe to pay historic visit to Pearl Harbor with Obama
+39682,1,Kerry: Two-state solution in ’serious jeopardy’
+39734,1,Putin: Russia won’t expel US diplomats
+39749,1,Israel risks sliding toward apartheid
+39771,1,The folly of Trump’s palace guard
+39776,1,Trump: Putin ’very smart’ for decision to withhold sanctions
+39860,1,Two protesters arrested outside Dick Cheney’s home
+39950,1,AQAP: How will France respond to Charlie Hebdo attack?
+40020,1,State of the Union: Obama’s Robin Hood turn
+40042,1,Obama goes on offense
+40132,1,US relief at smooth Saudi power transfer
+40289,1,Ukraine’s PM: It’s ’crystal clear’ Russians are here
+40610,3,Republicans warn Iran, and White House
+40623,1,Hillary Clinton’s press conference will satisfy no one (and 7 other strange things that happened)
+40743,2,Obama redefines the lame duck presidency
+40811,1,GOP seizes on Obama-Netanyahu rift
+40863,1,Israel denies it spied on U.S. in Iran nuclear talks
+41034,1,Iran nuclear deal framework announced
+41064,1,Rest easy Japan: Space invaders aren’t interested
+41304,1,Why Obama flipped on Iran bill
+41540,1,Obama to tap Gen. Joseph Dunford to top military post
+42161,1,For Hillary Clinton, a defining moment
+42162,1,Time to be honest about Israel’s capital (Opinion)
+42543,1,WikiLeaks report alleges NSA spied on French presidents
+42816,1,Iran nuclear talks hit snag over arms embargo
+43117,2,It’s time for Trump to come to his senses on nuclear weapons
+43288,1,Obama is marking the first anniversary of the Iran nuclear deal with a warning to Trump
+43465,1,Israel’s prime minister is facing a sharp backlash after getting involved in Trump’s border-wall debate
+43842,2,We now know more about why Jeff Sessions and a Russian ambassador crossed paths at the Republican convention
+43898,1,North Korea just showed the world it’s serious about nuclear war — and the US’s response won’t cut it
+43960,2,Rex Tillerson might be the weakest secretary of state ever
+44023,1,’We can’t spend money on programs just because they sound good’: Trump budget would slash funding from program that feeds 2 million seniors
+44984,1,Trump to world leaders: Why don’t you call me on my cellphone
+45983,1,These are the attacks Christie used against Trump in the months before his endorsement
+46544,1,Facebook is playing a dangerous game with Apple
+47587,1,BENGHAZI REPORT: State Department employees reacted in shock to Susan Rice’s first TV appearances
+47842,1,How a new source of water is helping reduce conflict in the Middle East
+47889,1,Reagan administration official to DNC: ’Donald Trump, you are no Ronald Reagan’
+48212,1,Meet the group trying to take down North Korea with USB sticks
+48433,1,The US and Russia reach breakthrough agreement on Syria ceasefire
+48544,1,The fight over the Dakota Access Pipeline reveals oil’s fatal flaw
+48553,1,John Kerry takes jab at Trump in talk at UN summit
+48777,1,John McCain calls US diplomacy ’toothless’ and advocates for military intervention in Syria
+49300,1,’We’re scared for our lives’: Some Syrians view Trump’s win as the ’most dreadful turn of events imaginable’
+49335,1,Trump’s new national security adviser outlines his controversial plan to defeat terrorism
+49446,1,Here’s what could happen if Trump pulls the US out of the Paris climate agreement
+49621,2,Trump has shaken up decades of diplomacy with 4 phone calls
+49628,1,Michael Flynn’s former colleagues describe him as volatile and ’unbelievably arrogant’
+49767,1,Philippine president Duterte rages at UN human rights official, calls him ’idiot,’ ’joker,’ and ’son of a b----’
+49817,1,US relations with Russia hit rough patch, but there are signs things may soon improve
+49829,1,Obama: Reaching Out to Adversaries, Alienating Allies
+49835,2,The Atlantic Daily: Actions and Reactions
+49893,1,Obama: The Ocean President
+49903,3,Can Trump Enforce His Red Line on North Korea?
+49965,1,A Brief Guide to Rex Tillerson’s Controversial Foreign Ties
+49995,1,Rex Tillerson Says Climate Change Is Real, but …
+49997,1,Trump Announces Plan That Does Little to Resolve His Conflicts of Interest

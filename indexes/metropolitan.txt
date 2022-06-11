@@ -1,0 +1,485 @@
+15,1,As Second Avenue Subway Opens, a Train Delay Ends in (Happy) Tears - The New York Times
+36,2,A ‘World Unto Itself’ in New York Area Yeshivas: Floor Hockey - The New York Times
+55,1,10 Engaging Proposals, From the Rooftop to the Subway - The New York Times
+56,1,For a Mother With Big Dreams, Two Forbidden Words: ‘I Can’t’ - The New York Times
+70,1,Remaking Kennedy Airport Is Governor’s Next Big Plan - The New York Times
+97,1,L.I.R.R. Train That Crashed Was Going Over Twice Speed Limit, Inquiry Finds - The New York Times
+100,1,What to Watch for in Fashion in 2017 - The New York Times
+203,1,Smithsonian Hears Call for Women’s Museum - The New York Times
+264,1,Immigrants Head to Washington to Rally While Obama Is Still There - The New York Times
+348,1,Yellow Cab, Long a Fixture of City Life, Is for Many a Thing of the Past - The New York Times
+390,2,Museum Trustee, a Trump Donor, Supports Groups That Deny Climate Change - The New York Times
+442,1,After Retirement, Finding a ‘Second Career’ as a Volunteer - The New York Times
+460,4,Roberta Peters, Soprano With a Dramatic Entrance, Dies at 86 - The New York Times
+474,1,U.S. Prosecutors Outline Case Against Mexican Drug Lord El Chapo - The New York Times
+580,1,‘The Only Way We Can Fight Back Is to Excel’ - The New York Times
+596,1,Christo, Trump and the Art World’s Biggest Protest Yet - The New York Times
+660,1,Friday Mailbag: Measuring Crowds, Maligning a Region - The New York Times
+686,1,In America’s Heartland, Discussing Climate Change Without Saying ‘Climate Change’ - The New York Times
+691,1,‘To Hell and Back’ as a Cancer Survivor, Storm Victim and Caregiver - The New York Times
+849,1,The Met Opera’s ‘Rusalka’ Is a Dark, Sexy Hit - The New York Times
+853,1,An Evolving Sports City, Atlanta Chases a Championship - The New York Times
+882,1,Is the Met Museum ‘a Great Institution in Decline’? - The New York Times
+905,1,Subway Riders Scrub Anti-Semitic Graffiti, as ‘Decent Human Beings’ - The New York Times
+1029,1,Japan Limited Immigration Now It’s Short of Workers - The New York Times
+1052,1,Jimmy Carter Makes a Stand for Solar, Decades After the Cardigan Sweater - The New York Times
+1057,1,Mike Ilitch, Little Caesars Founder and Detroit Sports Owner, Dies at 87 - The New York Times
+1131,1,India’s Air Pollution Rivals China’s as World’s Deadliest - The New York Times
+1304,2,Democrats’ Best Bet to Retake the House? Follow the Sun - The New York Times
+1332,1,The Retraining Paradox - The New York Times
+1336,2,Cressida Dick Will Be First Woman to Lead Scotland Yard - The New York Times
+1340,2,An Aquatic Paradise in Mexico, Pushed to the Edge of Extinction - The New York Times
+1422,1,A Suit Over Schiele Drawings Invokes New Law on Nazi-Looted Art - The New York Times
+1446,1,Soaring at 1,500 Feet With Michael Fabiano, Opera’s Risk-Taking Tenor - The New York Times
+1450,1,Two Groups Scuffle Amid Art Inside a Minneapolis Museum - The New York Times
+1523,1,How to Steal a River - The New York Times
+1577,2,The Downside of Ride-Hailing: More New York City Gridlock - The New York Times
+1663,1,Howard Hodgkin, Whose Paintings Were Coded With Emotion, Dies at 84 - The New York Times
+1678,1,Steady U.S. Job Growth Sets Stage for Fed to Raise Interest Rates - The New York Times
+1702,1,Louvre Attendants Strike After Vermeer Bottleneck - The New York Times
+1783,2,Somehow, ‘Slush Day’ Doesn’t Have the Same Ring - The New York Times
+1807,1,A New York Philharmonic Coup: Deborah Borda Is Named the New Leader - The New York Times
+1876,1,As Uber Woos More Drivers, Taxis Hit Back - The New York Times
+1958,1,Deadly Attack Near U.K. Parliament Car Plows Victims on Westminster Bridge - The New York Times
+1991,1,Toll of London Attack Is Global for an Assailant Born in Britain - The New York Times
+1992,2,London Attack Leaves Citizens of 10 Nations Dead or Injured - The New York Times
+2017,1,The London Attacker: Quiet and Friendly, but With a Hostile Side - The New York Times
+2025,1,Two Die in Separate Cases of Falling From Buildings in Brooklyn - The New York Times
+2069,1,Trump vs. Congress: Now What? - The New York Times
+2073,1,Bangladeshi Assault Kills 2 Militants but Fails to End Standoff - The New York Times
+2191,1,‘Age of Empires’: How 2 Dynasties of Art Forged China’s Identity - The New York Times
+2249,1,Ancestral Climates May Have Shaped Your Nose - The New York Times
+2250,1,A Hushed Departure at the Met Museum Reveals Entrenched Management Culture - The New York Times
+2312,1,M.T.A. Shortens L Train Shutdown to 15 Months - The New York Times
+2332,1,The Diva Departs: Renée Fleming’s Farewell to Opera - The New York Times
+2335,1,Christie Lies Low, but Can’t Avoid Wrath of Commuters - The New York Times
+2478,1,I Thought I Understood the American Right. Trump Proved Me Wrong. - The New York Times
+2539,1,Reaching Peak Greek at the Met Museum - The New York Times
+2561,1,Among Travelers and Commuters, the Homeless Stop In and Stay - The New York Times
+2605,1,Your Friday Evening Briefing: Prince, Donald Trump, Game of Thrones - The New York Times
+2622,1,An Amateur vs. ISIS: A Car Salesman Investigates and Ends Up in Prison - The New York Times
+2674,1,Brooklyn’s Wearable Revolution - The New York Times
+2686,1,What Is the Met Gala, and Who Gets to Go? - The New York Times
+2698,1,Lincoln Center President’s Abrupt Departure Was Prompted by a Relationship - The New York Times
+2709,1,The Met Opera Is Struggling. How Can It Fill Those Empty Seats? - The New York Times
+2711,1,Black Americans See Gains in Life Expectancy - The New York Times
+2714,1,A Shooting, the Hospital and Then, Months Later, It’s a Homicide - The New York Times
+2728,1,Squatters See a New Frontier in the Empty Homes of Las Vegas - The New York Times
+2763,1,Fire Under Metro-North Tracks Caused by Fuel Spill - The New York Times
+2843,1,Your Thursday Evening Briefing: Golden State Warriors, Hillary Clinton, Prince - The New York Times
+2850,1,Is Yannick Nézet-Séguin Worth the Wait at the Met? - The New York Times
+3000,1,Thomas Mair, Suspected in the Jo Cox Killing, Is Charged With Murder - The New York Times
+3082,1,‘Brexit’ Opens Uncertain Chapter in Britain’s Storied History - The New York Times
+3087,1,Bill Cunningham on Bill Cunningham - The New York Times
+3101,1,Bill Cunningham, Legendary Times Fashion Photographer, Dies at 87 - The New York Times
+3102,1,Bill Cunningham Looked Past the Runway to Capture Modern Identity - The New York Times
+3183,1,Bird Song, Sirens and Saxophones for a Stroll Between Museums - The New York Times
+3216,2,Eight U.S. Airlines Win Tentative Approval to Fly to Havana - The New York Times
+3219,1,Peter Doig Says He Didn’t Paint This. Now He Has to Prove It. - The New York Times
+3259,1,How a $2 Roadside Drug Test Sends Innocent People to Jail - The New York Times
+3304,1,Met Job Cuts Could Exceed 100 in a Move to Steady Finances - The New York Times
+3415,1,Mute and Alone, He Was Never Short of Kind Words or Friends - The New York Times
+3431,1,New York Today: The Race to Recycle - The New York Times
+3471,1,How Do You Handle Dining With Big-Spender Pals? - The New York Times
+3508,1,Rodrigo Duterte, Philippine President, Links 150 Public Servants to Drugs - The New York Times
+3676,1,Trump’s Empire: A Maze of Debts and Opaque Ties - The New York Times
+3742,1,What Do You See in Art? Nearly 50 People Told Us - The New York Times
+3767,2,Can the Old Masters Be Relevant Again? - The New York Times
+3842,1,Flooding of Coast, Caused by Global Warming, Has Already Begun - The New York Times
+3878,1,Our Restaurant Critic Goes National. First Stop: California. - The New York Times
+3934,1,Clubbers Lament Demise of Fabric, a ‘Totem’ of London’s Dance Scene - The New York Times
+4012,1,A Trump Empire Built on Inside Connections and $885 Million in Tax Breaks - The New York Times
+4014,1,Actually, Income in Rural America Is Growing, Too - The New York Times
+4069,1,Leon Cooperman, a Billionaire Charged With Insider Trading, Prepares to Fight - The New York Times
+4170,1,Federal Investigators Search for Cause of Deadly Hoboken Train Crash - The New York Times
+4172,1,Philadelphia Orchestra Walks Out on Opening Night - The New York Times
+4193,1,In Las Vegas, Rising Murders Strain a Police Force Used to Solving Them - The New York Times
+4198,1,What New York Can Learn From Barcelona’s ‘Superblocks’ - The New York Times
+4226,1,Bangladesh Siege Recalled in Militant’s Words, and From Beyond the Grave - The New York Times
+4247,1,Backstage and Now the Boss: ‘The Only Girl in the Building’ - The New York Times
+4274,1,New York Today: Mourning a Brooklyn Prosecutor - The New York Times
+4405,1,As Evening Commute Gets Darker, It Also Gets More Dangerous, Officials Warn - The New York Times
+4551,1,Getting Organized in a Tiny Apartment - The New York Times
+4567,1,Raccoons in Central Park Draw Crowds, and Warnings to Stay Away - The New York Times
+4712,1,100 Notable Books of 2016 - The New York Times
+4713,1,Your Guide to a Met Opera Milestone - The New York Times
+4717,1,Potential Conflicts Around the Globe for Trump, the Businessman President - The New York Times
+4728,1,Sexual Abuse Claims in English Youth Leagues Prompt Wider Inquiry by Authorities - The New York Times
+4818,1,7 Notable Debuts at Art Basel Miami Beach - The New York Times
+4833,1,Critics Worry Over How Ben Carson, Lacking Expertise in Public Housing, Will Lead It - The New York Times
+4904,1,Got an Hour? See the Met These 4 Ways - The New York Times
+4927,3,An Artistic Discovery Makes a Curator’s Heart Pound - The New York Times
+4966,1,The Best Dance of 2016 - The New York Times
+4988,1,Democrats at Crossroads: Win Back Working-Class Whites, or Let Them Go? - The New York Times
+5030,1,Preaching the Gospel of Diversity, but Not Following It - The New York Times
+5048,2,Art Underground: A First Look at the Second Avenue Subway - The New York Times
+5049,1,2nd Avenue Subway Will Open on Jan. 1, M.T.A. Says - The New York Times
+5082,2,Automakers Prepare for an America That’s Over the Whole Car Thing - The New York Times
+5106,1,A Struggling Theme Park Asks: Do You Still Believe in Santa? - The New York Times
+5141,1,Trump Inauguration Security Planners Brace for Wave of Protesters - The New York Times
+5161,1,Debbie Reynolds, Wholesome Ingénue in 1950s Films, Dies at 84 - The New York Times
+5216,1,Your Tuesday Evening Briefing: Hillary Clinton, Donald J. Trump, Kabul - The New York Times
+5256,2,From Albany to Prison: Ex-Lawmakers on Life Behind Bars - The New York Times
+5264,1,Your Monday Evening Briefing: Hillary Clinton, Donald Trump, Bitcoin - The New York Times
+5297,1,Thousands Stranded as Fire Disrupts Metro-North Rail Service - The New York Times
+5426,1,Bidding Wars in the Suburbs - The New York Times
+5471,1,Bill Cunningham Looked for Subjects. And They Looked for Him. - The New York Times
+5474,1,Supreme Court Strikes Down Texas Abortion Restrictions - The New York Times
+5476,2,Right-Wing Populism Is Prevailing in Left-Wing Strongholds Around the World - The New York Times
+5539,2,Sydney H. Schanberg Dies at 82 Times Reporter Chronicled Khmer Rouge Terror - The New York Times
+5593,1,Not Even Plácido Domingo Can Say No to ‘Mozart in the Jungle’ - The New York Times
+5654,1,Washington Transit Officer Is Charged With Helping ISIS - The New York Times
+5662,3,Man Held After London Knife Attack That Killed an American - The New York Times
+5794,1,As La Guardia Is Overhauled, the Check-In Line Starts at the Highway - The New York Times
+5850,1,Anjem Choudary Is Sentenced to Prison for Promoting ISIS - The New York Times
+5919,1,What $100 Can Buy, State by State - The New York Times
+5978,1,New York Tonight: The First Debate and More Testimony About the Bridge Scandal - The New York Times
+5987,1,Leaderless and Underfunded, N.J. Transit Had Troubles Well Before Fatal Crash - The New York Times
+6040,1,Showgirls, Pastrami and Candor: Gloria Steinem’s New York - The New York Times
+6048,1,An Opera Star Finds the Right Duet - The New York Times
+6066,1,How to Improve Your Retirement Income if You Haven’t Saved - The New York Times
+6166,1,6 Books to Help Understand Trump’s Win - The New York Times
+6173,1,The Election Highlighted a Growing Rural-Urban Split - The New York Times
+6212,2,New York Today: Our City That Never Was - The New York Times
+6237,1,Thousands of Mourners Celebrate Gwen Ifill’s Tenacity and Grace - The New York Times
+6297,1,Can You Hear Agnes Martin’s Serenity in John Zorn’s Frenzied Music? - The New York Times
+6317,1,Taiwan, Italy, Joe McKnight: Your Friday Evening Briefing - The New York Times
+6344,1,Life in Obamacare’s Dead Zone - The New York Times
+6413,2,The Best Architecture in New York of 2016 - The New York Times
+6461,1,How the Obama Coalition Crumbled, Leaving an Opening for Trump - The New York Times
+6472,1,Businesses Near Trump Tower Say Security Is Stealing Their Christmas - The New York Times
+6478,1,An Oklahoma Newspaper Endorsed Clinton. It Hasn’t Been Forgiven. - The New York Times
+6509,1,Walter E. Mattson, Former President of New York Times, Dies at 84 - The New York Times
+6614,1,Before Orlando Shooting, an Anti-Gay Massacre in New Orleans Was Largely Forgotten - The New York Times
+6725,1,When Community-Supported Agriculture Is Not What It Seems - The New York Times
+6727,1,Brazil Arrests 10 in Terror Plot as Olympics Near, Officials Say - The New York Times
+6728,1,Migrants and Smugglers Won’t Be Stopped by Donald Trump’s Wall, Ranchers Say - The New York Times
+6760,6,How Think Tanks Amplify Corporate America’s Influence - The New York Times
+6927,1,Met Picasso Belonged to Family That Fled Nazis, Suit Says - The New York Times
+6929,1,New Jersey Transit Was Under Investigation Before Fatal Crash - The New York Times
+6931,2,Next Big Tech Corridor? Between Seattle and Vancouver, Planners Hope - The New York Times
+6971,1,Righting Wrongs and Generating Attention for Art of the African Diaspora - The New York Times
+6975,1,My 10 Favorite Books: Kehinde Wiley - The New York Times
+6986,1,Adventures in Upscale Brooklyn - The New York Times
+7039,1,Killers on a Shoestring: Inside the Gangs of El Salvador - The New York Times
+7046,1,50 Years Ago, Truman Capote Hosted the Best Party Ever - The New York Times
+7085,1,Matteo Renzi, Oakland, Aleppo: Your Monday Briefing - The New York Times
+7088,1,Taiwan City Planning a Makeover Says a Trump Agent Showed Interest - The New York Times
+7125,2,Times Critics’ Top Books of 2016 - The New York Times
+7150,1,YouTube Stars Say They Were Removed From Delta Flight for Speaking Arabic - The New York Times
+7182,1,In Cramped and Costly Bay Area, Cries to Build, Baby, Build - The New York Times
+7186,3,The Most Important Primary Is ... Wait, Indiana? - The New York Times
+7238,1,Penguins Finish Off Sharks to Win Stanley Cup - The New York Times
+7262,1,After ‘Brexit,’ Finding a New London for the Financial World to Call Home - The New York Times
+7299,1,Body Count Rises as Philippine President Wages War on Drugs - The New York Times
+7351,1,Overlooked Influences on Donald Trump: A Famous Minister and His Church - The New York Times
+7352,1,British Airways Computer Problems Cause Widespread Delays - The New York Times
+7391,2,A Singer’s Journey: From Solitary Confinement to the Met Opera - The New York Times
+7463,1,Choke Point of a Nation: The High Cost of an Aging River Lock - The New York Times
+7507,1,Rail Crossing Warnings Are Sought for Mapping Apps - The New York Times
+7512,1,A New Gilded Age, for Artists Who Would Rule Forever - The New York Times
+7526,1,Wife and Her Lover Are Arrested in Killing of Greek Envoy in Brazil - The New York Times
+7643,1,Case Accusing Bush Officials of 9/11 Abuses Heads to Supreme Court - The New York Times
+7725,5,Patrice Munsel Dies at 91 Soprano Became a Star at the Met as a Teenager - The New York Times
+7805,1,Surge in ’Honour Crimes’ and Forced Marriages in London
+7926,1,Pakistan Home of London Terrorist Who Came to UK as Child Refugee Raided, Had Access to Tunnels Under Parliament
+8133,1,BBC: Hijab Wearing Basketball Players ’Big Step Forward for Women’s Sport’ - Breitbart
+8593,1,Texas College Declines Sanctuary Campus ’Right Now’
+8671,1,DHS Authorizes Hiring 10K Immigration Officers
+8718,1,MS-13 Extorting Sanctuary City Businesses, Say Police
+8796,17,Islamic State Claims Responsibility for London Bridge Terror Attack, Seven Fatalities, Multiple Injuries - Breitbart
+8879,2,Police Name Third London Bridge Killer, All 12 Suspects Released Without Charge
+9256,2,Cops Shoot ’Knifeman’ Outside UK Parliament, Multiple Injured After ’Car Attack’ on Westminster Bridge
+9429,2,Los Angeles Seeks to Stop Oil and Gas Boom - Breitbart
+9542,1,London Terror: One Dead, One Arrested as Man Ploughs Van into Pedestrians Outside London Mosque
+9574,2,EXCLUSIVE PICS: London on Terror Lockdown for New Years
+9630,1,Poll: English Patriotism Is on the Rise
+9634,1,FBI: MS-13 Is Most Violent, Organized Gang in America
+9713,1,Obama Commutes Life Sentences of Four Mexican Cartel Leaders
+9728,1,100,000 Soldiers and Police on New Year’s Eve Streets of ’State of Emergency’ France
+9952,1,Police One: Conditioning Britons to ’Run, Hide, Tell’ Does Not Demonstrate Resolve
+9956,1,LGBTQ Marchers Protest Vice President-Elect Mike Pence in His Neighborhood
+10104,1,Pics: French Voters in London Turn Out to Cast Election Day Ballots
+10217,1,Uber to Refund Passengers After Prices Surged During London Terror Attack - Breitbart
+10485,1,Police Fear Abedi’s Accomplices May Possess More Bombs
+10601,1,ICE Deporting 199 Iraqis after Trump Inks Repatriation Deal
+10614,1,British Police Making Terror Arrests on ’Near Daily Basis’
+10645,1,EXCLUSIVE - Islamic State Supporters Celebrate London Terror: Allah Will Reward You for Running over Infidels
+10921,1,Westminster Attack Victim Aysha Frade ’Was Picking Up Her Children from School’ when Terrorist Took Her Life - Breitbart
+11113,1,Theresa May: National Threat Level Remains at Severe - ’A Terrorist Attack is Highly Likely’ - Breitbart
+11233,1,Donald Trump to London: U.S. Will Help, ‘We Are With You. God Bless’ - Breitbart
+11340,3,Even Massive Influx in Immigrants Can’t Offset Exodus from Blue Cities - Breitbart
+11449,1,D.C. Area Planning ’Full Scale’ Terror Attack Drill Wednesday - Breitbart
+11552,4,22 Dead, 50+ Injured After Reports of ’Explosions’ At UK Ariana Grande Concert
+11784,1,Brits Warned To Expect ’Indiscriminate Attacks on Innocent Civilians’
+11816,2,The Quiet Revolution: Fed Up British Middle Classes Backing Brexit
+11883,1,MN Health Officials Hide High School Active TB Case for Six Weeks
+11924,1,Gangs of ’Unaccompanied Minors’ Beating, Robbing Women in Montpellier - Breitbart
+12152,2,Wait Times for New Patients at Doctors’ Offices Rise 30 Percent in Three Years - Breitbart
+12256,1,Measles Outbreak in Minnesota’s Somali Community
+12305,2,Report: More People Are Leaving New York Than Any Other Metro Area in the U.S. - Breitbart
+12343,1,Terror Suspect Wanted to Join Islamic State, Gun Down ’Jewish Football Fans’
+12361,1,Police Constable and Army Veteran Keith Palmer Was ’Every Inch A Hero’
+12568,1,Measles Outbreak in Minnesota Within Somali Community Spreads Through State
+12613,1,Seattle Doling Legal Aid for Illegal Aliens
+12636,1,FBI: Major Cities Hit by 21.6 Percent Spike in Murders - Breitbart
+12880,1,Huge Crowds Pay Respects to PC Murdered by Westminster Terrorist
+13027,1,Top Ex-Clinton Pollster: Dems Losing Working-Class Voters of ALL Races Due to Illegal Immigration, Trade - Breitbart
+13035,1,Icelandic Cops Investigate Poison Attack on JihadWatch’s Robert Spencer - Breitbart
+13548,1,PICTURES: FGM-Linked Muslim Sect Given First Chance to Lay Flowers at London Attack Vigil
+13809,2,Pictured: Police Release Mugshot of Westminster Killer Khalid Masood
+13902,2,New York Deploys Counterterror Critical Response Command Following London Terror Spree - Breitbart
+13920,3,LinkedIn: Silicon Valley Plunges to 12th Most Attractive Job Market - Breitbart
+14092,1,Drug Cartel Delivers Texas Truck Full of Bodies in Mexican Border State
+14303,1,Man Arrested After Threatening Jews With ’Meat Cleaver’ In North London
+14316,2,Hackers May Have Obtained Names of over 16,000 Florida Concealed Permit Holders
+14352,1,Mayor Sadiq Khan Says London ’Safest Global City’, Slams Donald Trump Junior
+14365,1,It’s Official: Trump Orders Border Wall Between U.S. and Mexican Narco-states
+14452,2,Active Tuberculosis Confirmed at Middle School in Texas - Breitbart
+14556,1,Bangladesh Family: ’Vogue’ Model Killed for Refusing to Wear Islamic Garments
+14570,1,Report: Protesters to Disrupt Trump Inauguration Plan Blockades, Property Damage - Breitbart
+14756,4,KASSAM: London Cops Arrest Dozens for ’Hate Crimes’ Since London Attack, But Mayor Says Police Can’t Afford to Track Jihadists
+14808,2,Study: 1 in 5 Illegal Aliens Live in NYC, LA
+14821,1,Anti-Terror Police Simulate Thames Tourist Boat Hijacking
+15063,1,Man Gets Free After Being Tied Up, Shoots and Kills Home Invasion Suspect
+15270,1,GRAPHIC: Cartel Man Ignites While Stealing Fuel in Mexican Border State
+15300,1,Silicon Valley Losses 100% of All 2016 Job Gains in January
+15323,1,Muslim Plotting to Join Enslave 9-Year-Old Girl Faces Jail
+15365,1,SHOCK VIDEO: Muslim Racially Abuses ‘Pork Eating’ Polish Man
+15402,1,‘Allah Will Get You’: London Nursery Worker Attacked With Blade
+15598,1,Brazil Probes Second Islamic State Fan Ring
+15664,1,**LIVE UPDATES** Massive Winter Storm Hits East Coast - Breitbart
+15777,1,UK Police Struggling to Deal with Witchcraft Child Abuse
+15802,1,Pupils Evacuated as Ten Schools Across Britain Affected By Bomb Threats
+16100,1,London Police Chief: Nearly One Third of People Arrested in UK Capital Not British
+16223,1,UK Equalities Chief Who Popularised The Term ’Islamophobia’ Admits: ’I Thought Muslims Would Blend into Britain... I Should Have Known Better’
+16347,1,The Police’s New Anti-Trolling ’Twitter Squad’ is a Toxic Misuse of Taxpayers’ Money
+16523,2,Black Lives Matter UK Halts Heathrow Airport Traffic For ’Moment Of Rage’
+16709,1,Sir Bob Geldof: Vote Remain If You’ve Got A Big Yacht And Hate Proles
+16874,1,Former Police Detective Builds Trump Sign on Roof Near Maryland Airport - Breitbart
+17125,1,Multiple Shooters Reported Active In Munich Mall Terror Shooting — Six Reported Dead
+17127,1,Pamela Anderson Subway Ad Rebuked By New York Democrat for ’Misogynistic Imagery’ - Breitbart
+17448,1,London Police Arrest Two Men On Suspicion Of Terrorism
+17538,1,30 Dirt Bike Riders Swarm Ambulance Transporting Sick Child, Drag Police Officer Down Street - Breitbart
+17565,1,Comedy Central to Explore Racism and Excessive Force with ’Police Roast’ - Breitbart
+18836,1,France Has 5 Million Muslims And Only A Few Hundred Attended ’Solidarity’ Mass After Nice Attack
+19143,1,EXCLUSIVE: London’s LGBT Police Are Harassing Non-PC Twitter Users, Naming Family Members In Tweets
+19364,1,LA Gay Pride Parade Tightens Security to Prevent Copycat Shootings - Breitbart
+19389,1,Exclusive - Michele Bachmann Calls on Hillary Clinton to Disavow Violent Anti-Trump Protesters in Minneapolis - Breitbart
+19428,1,Blue State Blues: Three Scenarios in the California Primary - Breitbart
+19929,1,’Why I Am Campaigning For Article 50 Now!’
+20217,1,Tens Of Thousands of Foreign Criminals Avoid Deportation by Lying to Police
+20775,1,LA County Goes All-In for El Niño Cloud Seeding - Breitbart
+20828,1,’Sharia Police’ Founder Charged With Aiding ISIS Terrorists
+21245,1,Kassam: Britain Needs UKIP, and UKIP Needs YOU... Now More Than Ever
+21366,1,Media Calls For ‘Ban’ On Old People Voting After Brexit Vote
+21422,1,Sheriff: MS-13 Gang Brings Machetes, Rape, Scalping to Texas
+21759,1,Jewish Flight From Rising Anti-Semitism Serves as Warning to Whole of Europe
+21902,1,George Mason’s Law School Named in Honor of Justice Scalia - Breitbart
+21957,2,FULL TEXT: MILO At West Virginia University On What Trump Means - Breitbart
+22550,1,Capozzola: Donald Trump’s EPA Pick Could Roll Back Costly Climate Regulations - Breitbart
+22886,1,***Second Presidential Debate Fact-Check Livewire***
+22914,1,Brexit Comes to America: Ryan Challenger Mounts Immigration Billboard - Breitbart
+22969,1,Texas Man Busted for Child Porn Admits to ’Soiled-Diaper’ Fetish, Says FBI
+23090,4,Cop Accused of Racism Slams ’Oppressive Political Correctness’ in London Police
+23362,1,Christmas on Lockdown: Beefed Up Security Across Europe
+23685,2,America Last: 20 American-Born Companies that Have Sold Out to Foreign Interests - Breitbart
+23737,1,Two Men, Three Women Allegedly Open Fire on DC Police
+24339,1,Soros Group Brags About Accusing European Police of Discriminatory Policies
+24444,1,In Baton Rouge, Obama Visits Family of Alton Sterling and Slain Police Officers - Breitbart
+24650,1,Wikileaks Dump: Clinton Takes Credit for Freeing Chinese Dissident Who Said U.S. ’Gave In’ to Beijing - Breitbart
+24763,1,Questions Surround Medical Treatment Given to Prince After Emergency Landing in Moline - Breitbart
+25008,2,Explosions Hit Brussels Airport, One Killed - Belgian Media
+25060,1,Top London Cop Warns Terror Attack Is ’When, Not If’ Scenario
+25174,1,Camille Paglia Rips Madonna: ’Humiliating, Embarrassing’ Decline
+25258,4,Workers at 2 Minnesota Hospitals Diagnosed with Active TB
+25917,1,Police Department Survey: Violent Crime Up in Major Cities - Breitbart
+26249,7,PICS: One Dead, Five Injured In Potential Terrorist Attack In Russell Square, Central London
+26357,1,Donald Trump to Get Papal Treatment Barack Obama Never Got from D.C. Public Transit for Inauguration - Breitbart
+26615,2,Texas Health Officials Brace for More Zika Virus Cases After Six Confirmed Statewide
+26793,1,WATCH: Clashes Between Britain First and East London Muslims
+26826,2,D.C. Area Transit Cop Busted for Supporting Islamic State
+27125,1,Coup Purge: Turkey Ousts Only Christian Mayor - Breitbart
+27390,1,TEXAS GOP: 155 Delegates to Be Awarded Through Complex Process
+27568,1,Man Fatally Shoots Own Brother to Save Girlfriend from Hammer Attack - Breitbart
+27590,1,Lena Dunham Mocked for Assuming NFL Star Odell Beckham Jr. Snubbed Her ’Marshmallow’ Body - Breitbart
+27869,1,WATCH: 100 School Kids Fight With Bats And Knives In Mass Brawl In London
+28390,1,Massive Increase In Arrests For ‘Offensive’ Social Media Posts
+28594,1,Left Media Migrant Rape Cover-Up: HuffPo, Indy, AND United Nations Claim Cologne Attackers ’Not Refugees’, German Prosecutor: ’Total Nonsense’ - Breitbart
+29184,1,Three Foreign-Born Cases of Multi-Drug Resistant TB in Nashville, Tennessee - Breitbart
+29627,1,Feminists, Pirates, And Populists: The Centre-Left Is Dead Across Europe
+29764,1,WATCH: London Teens Shot At By Man in Traditional Muslim ClothingLondon Teens Shot At By Man Dressed As Muslim
+30373,1,Texas Scores Big Again in U-HAUL Moving Survey
+30564,1,Rich Trzupek: I Bet $1,000 the Air Will Be Cleaner in 2020 with Pruitt Running EPA
+30866,4,WikiLeaks: Hillary Clinton Said Jordan ’Can’t Possibly Vet All Those Refugees’ from Syria
+31267,1,Philippines President-Elect Won’t Live in Haunted Presidential Palace
+31621,1,Turkey nightclub victims from 14 countries
+31700,1,Winter storm will bring snow to South
+31731,1,South hunkers down for winter storm
+31756,1,Is ’Hillary Clinton for mayor’ crazy talk?
+31927,1,Ahead of inauguration, thousands rally for immigration and civil rights
+32078,1,Protesters rally worldwide in solidarity with Washington march
+32162,2,El Chapo meets his match: Brooklyn
+32192,1,The woman behind Rihanna’s most daring look
+32236,1,Tensions and tunnels in an ever-changing border
+32263,1,Protesters decry Trump’s immigration policies
+32293,1,Resistance to Trump’s travel ban mounts
+32552,1,Snowstorm pounds the Northeast, affecting flights, closing schools
+32569,1,Protesters block DeVos at public school
+32646,1,Oroville Dam: California officials ignored warnings a decade ago
+33253,1,Seattle synagogue vandalism denies Holocaust
+33279,1,Intruder breaches White House grounds, arrested near residence entrance
+33304,2,’El Chapo’ Guzman suffering effects of solitary confinement, his lawyers say
+33385,1,New York EMT killed: Man charged with murder
+33447,2,London attack: 4 killed in British Parliament carnage
+33467,1,Police: Woman found dangling from shoelaces after botched WH breach
+33471,2,Slain police officer in London attack identified
+33478,1,Police believe they know who London attacker is
+33479,2,Officer, 3 others die in Wisconsin shootings
+33480,1,London after attack: Shocked then enraged
+33509,3,Missing black girls in DC prompt calls for federal help
+33552,2,Woman who wants to see President arrested 3 times
+33606,1,Police: Driver nearly runs over cops near Capitol shots fired
+33616,1,Fire causes section of I-85 in Atlanta to collapse
+33684,2,Lawmakers to host town hall on missing black girls
+33701,1,Missing black and Latina children are America’s problem
+33896,1,Gun thefts spiked in 2016, federal report says
+34010,1,Bernard Madoff Fast Facts
+34133,1,San Francisco gets power back
+34234,1,Congressional caucus to present report on missing black girls
+34433,1,Bomb suspect: FBI got interviews under misleading circumstances
+34435,2,Where the search for Madeleine McCann stands
+34625,1,Pope John Paul II Fast Facts
+34629,2,London Underground Fast Facts
+34671,1,Baby on Board badge not just for cars in NY
+34678,1,2 killed in Teterboro Airport crash
+34732,1,Turkish security involved in DC protester assault
+34795,2,Washington, DC Metro System Fast Facts
+34877,1,Police move in on arena bomber’s ’network’
+34919,1,Seth Rich and the myth behind the DNC staffer’s killing
+34953,1,FBI joins Portland stabbings investigation
+34994,1,UK reduces terror threat level to ’severe’
+35005,1,North Korea stages 3rd missile test in 3 weeks
+35018,1,These three men stood up to hate in Portland
+35112,1,Moment of silence honors victims of deadly Portland train stabbing
+35156,7,London terror attack: Seven victims killed, three suspects shot dead by police
+35163,1,Noose found at DC construction site, police say
+35190,1,Terrorist Attacks by Vehicle Fast Facts
+35191,1,London terror attack: Police fired ’unprecedented’ number of rounds
+35197,3,Londoners hail police and first responders as heroes
+35200,1,How the London terror attack unfolded
+35203,2,London terror attacks: What we know
+35221,3,London Bridge attack: 2 of 3 killers identified
+35240,2,Las Vegas officer charged in death of man put in chokehold
+35243,4,London attack: What we know about the victims
+35269,2,Police arrest 3 more in London Bridge attack investigation
+35307,1,London Bridge attacker tried to rent larger truck
+35369,4,London: Fake explosive belts photos released
+35407,1,12 dead in London residential tower fire
+35408,1,London tower block fire: At least 12 dead - live updates
+35430,1,Two arrested after brawl outside Turkish ambassador’s residence in DC
+35454,1,Grenfell fire: UK to carry out inspections on other towers
+35456,3,Iraqi Christians in Michigan fear deportation
+35519,1,London fire: May meets Grenfell residents
+35535,1,Finsbury Park terror attack: What we know
+35536,1,London mosque attack suspect named, according to media outlets
+35556,1,UK Chancellor: Cladding on Grenfell Tower ’banned on high-rises’
+35571,1,79 presumed dead in London fire
+35689,1,Man who attempted to grab gun at rally wanted ’to kill Trump’
+35759,1,Cleveland turns out to celebrate NBA champions
+35816,1,Trump on Brexit: America is next
+35844,1,London, New York celebrate Pride after Orlando shooting
+35857,1,Pride parades: U.S. cities mark events amid tight security
+35962,1, Dhaka cafe standoff: At least 13 hostages rescued
+36216,1,DNC employee shot and killed in Washington
+36331,1,The lonely struggle of a gay Mormon
+36705,2,Police shootings highlight concerns about body cameras
+36734,2,American killed in London knife attack
+36860,1,Baltimore police have racial bias, DOJ says
+37127,1,Swimming pool parasite spreads near Phoenix
+37187,1,Iraqi troops plow toward key Iraqi city
+37878,1,Should I worry about chromium-6 in drinking water?
+37934,2,Pippa Middleton photo hack: Man arrested
+37999,1,Julian Assange Fast Facts
+38144,2,Teen in critical condition after police shooting
+38205,1,Florida, East Coast prepares for Hurricane Matthew
+38511,1,Fan arrests as fights erupt at Olympic venue
+38586,2,Opera house ashes-sprinkler apologizes
+38704,1,Anti-Trump protests move through fifth day
+38751,1,Sotomayor in post-election appearance: ’We can’t afford to despair’
+38893,1,London’s secret underground railway
+38929,1,Convicted London serial killer sought victims on gay dating sites
+38948,1,Did police homophobia fail serial killer’s gay victims?
+39211,1,Muslim NYPD officer threatened, told ’go back to your country’
+39345,1,Storm impacts flights, arctic blast on the way
+39388,1,Doctor’s old sketch is da Vinci worth $16M
+39468,1,Dear TSA: Grabbing vaginas isn’t safety
+39558,1,YouTube star claims racism on Delta flight
+39720,1,NYPD changes policy, will allow officers to wear turbans
+39754,1,2016’s most visually inspiring moments
+39823,1,Family:  Abu Anas al Libi dies in U.S. hospital
+39901,1,Smoke shuts down D.C. Metro station
+39975,2,Europe security officials rush to spot possible threats
+39995,1,Ex-street kid asks Pope why God lets children suffer
+40271,2,Winter storm cancels more than 2,000 flights
+40325,1,Scientists study germ universe in New York’s subways
+40328,1,Former pop star Gary Glitter guilty of child sex abuse
+40438,1,Mayor of Caracas, Venezuela, arrested
+40490,1,U.S. officials: ISIS militant ’Jihadi John’ identified
+40494,1,Gary Glitter gets 16-year sentence for child sex abuse
+40510,1,Subway cars become a home for sea life
+40630,2,UK girls’ list for Syria trip: Makeup, bras, epilator
+40705,1,Savage Beauty: The bizarre beauty of Alexander McQueen
+40713,2,Police: British teens detained en route to join ISIS
+40736,1,Boston Marathon bombing trial: Police describe shootout
+40747,1,United flight 1074 turns back after passenger subdued
+41199,1,Police: No forced entry to building in jewel heist
+41213,2,London police didn’t respond to burglar alarm
+41216,2,Secret Service officer charged with burglary attempt
+41230,1,U.S. Capitol shooting called suicide lockdown lifted
+41232,1,Do North Charleston police use racial profiling?
+41297,1,Rio 2016: Dead fish wash up in Olympic lagoon
+41541,1,Chris Brown battery investigation dropped
+41547,1,2015 Met Gala: Red carpet
+41732,2,Police: 9 arrested over London’s Hatton Garden heist
+41924,1,Arizona rally: Those abusing freedoms threaten them (Opinion)
+41934,1,A divided Baltimore watches Martin O’Malley
+42407,1,Pope: ’Revolution’ needed to fight climate change
+42440,1,British Airways stowaway dies after falling in London
+42542,1,New details emerge in D.C mansion murder case
+42634,1,California drought: Rebates for ripping up lawns
+42661,2,Girl Scouts refuse gift with transgender limits
+42683,1,The Ultimate Back to the Future Quiz
+42785,1,Why Tom Selleck deserves his #droughtshaming (opinion)
+43940,1,An American cultural revolution is killing cookie-cutter homes — here’s what homebuilders are selling instead
+44044,1,There is a huge hole in Trump’s promise to bring back US manufacturing jobs
+44095,3,Police officer stabbed and many wounded in apparent terror attack near UK Parliament
+44098,1,How the Westminster terror attack in London unfolded
+44110,1,Westminster attacker Khalid Masood was a career criminal whose neighbours called him ’the vampire’
+44130,1,Walmart’s latest move confirms the death of the American middle class as we know it
+44895,2,Sean Hannity slams ’phony hypocrites’ for attacking him after Fox News retracts Seth Rich story
+45040,1,Trump touted his blocked travel ban after police responded to ’terrorist incidents’ in London
+45048,1,Police believe they know who the London Attack suspects are
+45070,2,Police have just named 2 of the 3 men behind the London Bridge and Borough Market terror attacks
+45168,1,Massive fire breaks out at London apartment building
+45535,1,’It’s going to be a nightmare’: The massive winter storm is now bearing down on the East Coast
+45560,1,The East Coast is digging out from an epic blizzard — here’s what you need to know about getting around
+45873,1,The Brooklyn shop that makes rainbow bagels has been completely mobbed
+45923,1,Here’s where the most startup ’accelerators’ are — and how much they help
+46003,1,The explosion in overdoses from legal drugs is changing how doctors treat pain — but it may not be enough
+46181,1,Here’s why Trump is dominating despite a strong economy
+46473,1,Mississippi’s antigay law isn’t getting a major backlash, and there’s one obvious reason why
+46933,2,The middle class is vanishing in America’s cities
+46977,1,Trains in and out of New York City’s Grand Central Terminal suspended after fire
+47241,1,There’s a hot new trend that could change the face of investing
+47383,1,A pair of 20-somethings set out to answer a fundamental question about investing — the team they helped create now manages $200 billion
+47667,3,This map shows how bad income inequality is in your state
+47963,4,An American woman was killed and 5 people were injured in London knife attack
+48011,1,American manufacturing isn’t dead — it’s just not where you think it is
+48264,1,The Democrats are failing Obamacare
+48463,1,How Texas explains Assad’s strategy in Syria
+48993,1,I just visited New York City after moving to San Francisco — here are the 5 things New Yorkers get right
+49249,1,CLINTON CAMPAIGN: We lost because of James Comey
+49341,1,Obamacare isn’t going away — and that makes one stock a great investment opportunity
+49534,1,Washington police detain gunman who entered restaurant hit by a fake Hillary Clinton scandal
+49849,3,2016: A Year Defined by America’s Diverging Economies

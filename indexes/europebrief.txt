@@ -1,0 +1,19 @@
+155,1,Donald Trump, Golden Globes, Jerusalem: Your Monday Briefing - The New York Times
+754,1,Ukraine, François Fillon, Quebec: Your Wednesday Briefing - The New York Times
+894,1,Lady Gaga, Marine Le Pen, Romania: Your Monday Briefing - The New York Times
+1549,1,Donald Trump, François Fillon, Opel: Your Monday Briefing - The New York Times
+1574,1,Donald Trump, François Fillon, Erdogan: Your Tuesday Briefing - The New York Times
+1623,1,C.I.A., International Women’s Day, Barcelona: Your Thursday Briefing - The New York Times
+1773,1,Geert Wilders, Donald Trump, Scotland: Your Wednesday Briefing - The New York Times
+2290,1,Syria, Hungary, Marine Le Pen: Your Wednesday Briefing - The New York Times
+2322,1,Syria, Pepsi, Stephen Bannon: Your Thursday Briefing - The New York Times
+4363,2,Mosul, ‘Brexit,’ U.S. Presidential Race: Your Monday Briefing - The New York Times
+4772,1,OPEC, Big Mac, Syria: Your Thursday Briefing - The New York Times
+4787,1,François Hollande, Buzz Aldrin, Vladimir Putin: Your Friday Briefing - The New York Times
+5125,1,George Michael, United Nations, Shinzo Abe: Your Tuesday Briefing - The New York Times
+6279,1,Fidel Castro, Formula One, François Fillon: Your Monday Briefing - The New York Times
+6292,1,Donald Trump, Colombia, Fidel Castro: Your Wednesday Briefing - The New York Times
+6956,2,Trump, Russia, Samsung: Your Wednesday Briefing - The New York Times
+7085,1,Matteo Renzi, Oakland, Aleppo: Your Monday Briefing - The New York Times
+7168,1,Carrie Fisher, Russia, Shinzo Abe: Your Wednesday Briefing - The New York Times
+7418,2,Mosul, CETA, Trump: Your Tuesday Briefing - The New York Times

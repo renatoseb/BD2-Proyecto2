@@ -1,0 +1,477 @@
+8,1,First, a Mixtape. Then a Romance. - The New York Times
+15,1,As Second Avenue Subway Opens, a Train Delay Ends in (Happy) Tears - The New York Times
+44,1,California Hires Eric Holder as Legal Bulwark Against Donald Trump - The New York Times
+77,1,Enough With the Tweets, China’s State Media Tells Trump - The New York Times
+89,1,The Perfect Weapon: How Russian Cyberpower Invaded the U.S. - The New York Times
+260,1,President Obama’s Farewell Address: Full Video and Text - The New York Times
+314,1,Review: The First Concert at the New Elbphilharmonie in Germany - The New York Times
+315,1,Park Service Names 24 Diverse National Landmarks - The New York Times
+321,1,‘All Talk,’ ‘No Action,’ Says Trump in Twitter Attack on Civil Rights Icon - The New York Times
+357,1,Lie to Me: Fiction in the Post-Truth Era - The New York Times
+366,1,Bill Maher Isn’t High on Trump: The State of Free Speech in a New Era - The New York Times
+460,1,Roberta Peters, Soprano With a Dramatic Entrance, Dies at 86 - The New York Times
+523,1,Is This Los Angeles’s $600 Million Man? - The New York Times
+635,2,Doomsday Clock Moves Closer to Midnight, Signaling Concern Among Scientists - The New York Times
+681,1,Duterte’s Free Birth-Control Order Is Latest Skirmish With Catholic Church - The New York Times
+714,1,An Iraqi Family Split by the Vicissitudes of Asylum - The New York Times
+740,1,Postcard From My Past: Crossing Into Syria - The New York Times
+803,1,G.O.P. Campaign to Repeal Obamacare Stalls on the Details - The New York Times
+811,1,California Today: The Collapse of Organized Farm Labor - The New York Times
+823,1,Lady Gaga Coy on Details of Super Bowl Halftime Show - The New York Times
+904,1,Goodbye, for Good, to Black Sabbath - The New York Times
+940,1,Walter Hautzig, Pianist Whose Talent Helped Him Flee Nazis, Dies at 95 - The New York Times
+1072,6,Grammy Winners 2017 - The New York Times
+1115,1,Will Obamacare Really Go Under the Knife? - The New York Times
+1185,2,The Dirty Projectors Go Solo - The New York Times
+1233,1,A Back-Channel Plan for Ukraine and Russia, Courtesy of Trump Associates - The New York Times
+1235,2,Texas Oil Fields Rebound From Price Lull, but Jobs Are Left Behind - The New York Times
+1252,4,SpaceX Launches Rocket Carrying Space Station Cargo - The New York Times
+1270,1,Ex-Officer in Philippines Says He Led Death Squad at Duterte’s Behest - The New York Times
+1291,1,Hear How ‘Moonlight’ Got Its Sound: Violins, Chopped and Screwed - The New York Times
+1321,1,Weakened Democrats Bow to Voters, Opting for Total War on Trump - The New York Times
+1334,1,Mildred Dresselhaus, the Queen of Carbon, Dies at 86 - The New York Times
+1357,1,Google Self-Driving Car Unit Accuses Uber of Using Stolen Technology - The New York Times
+1444,1,In California, a Move to Ease the Pressures on Aging Dams - The New York Times
+1446,1,Soaring at 1,500 Feet With Michael Fabiano, Opera’s Risk-Taking Tenor - The New York Times
+1520,1,First Seen 30 Years Ago, a Supernova Refuses to Be Ignored - The New York Times
+1544,1,Trump, Offering No Evidence, Says Obama Tapped His Phones - The New York Times
+1545,1,A Conspiracy Theory’s Journey From Talk Radio to Trump’s Twitter - The New York Times
+1548,1,Stocks Are Up 5 Percent Under Trump. So How Long Will the Rally Last? - The New York Times
+1582,1,Robert Osborne, Turner Classic Movies Host, Dies at 84 - The New York Times
+1626,1,Russia’s RT Network: Is It More BBC or K.G.B.? - The New York Times
+1698,1,Chris Bertish Becomes First to Cross Atlantic by Paddleboard - The New York Times
+1722,1,The Hills Are Alive With the Sound of Julie Andrews and Henson Puppets - The New York Times
+1766,1,From Flight 370 Hunt, New Insight Into Indian Ocean’s Unknown Depths - The New York Times
+1771,2,Kamasi Washington Follows ‘The Epic’ With a New Work in Whitney Biennial - The New York Times
+1792,1,It’s Possible to Hack a Phone With Sound Waves, Researchers Show - The New York Times
+1810,1,Where Fountain Pens Are Saved and Sold - The New York Times
+1839,1,So You Think You Can’t Meditate? - The New York Times
+1919,1,David Rockefeller, Philanthropist and Head of Chase Manhattan, Dies at 101 - The New York Times
+1939,1,If You Like the Arts, Save the N.E.A., Advocates Tell Lawmakers - The New York Times
+1972,1,Chris Paul’s Fast Hands and Gruesome Fingers - The New York Times
+1982,1,‘Cork Dork’ Sniffs, Swills and Spits Through the World of Wine Experts - The New York Times
+2045,1,Going Under the Knife, With Eyes and Ears Wide Open - The New York Times
+2046,1,Watching My Surgeon Cut Into My Knee - The New York Times
+2150,1,Those Indecipherable Medical Bills? They’re One Reason Health Care Costs So Much - The New York Times
+2317,1,Turning Negative Thinkers Into Positive Ones - The New York Times
+2427,1,Feist Wants to Ask You Some Questions About Sadness - The New York Times
+2464,1,Photos of Jupiter From NASA Spacecraft, Both Near and Far - The New York Times
+2608,1,Prince Knew What He Wanted: Sex, Soul and You - The New York Times
+2610,5,Prince, an Artist Who Defied Genre, Is Dead at 57 - The New York Times
+2657,1,Dyson Wants to Create a Hair Dryer Revolution - The New York Times
+2686,1,What Is the Met Gala, and Who Gets to Go? - The New York Times
+2727,1,For Obama, an Unexpected Legacy of Two Full Terms at War - The New York Times
+2756,1,Twitter, Trump’s Trusty Weapon, Could Backfire - The New York Times
+2935,1,In Silicon Valley Suburbs, Calls to Limit the Soaring Rents - The New York Times
+2961,1,Supreme Court Rejects Puerto Rico Law in Debt Restructuring Case - The New York Times
+3182,2,What to Expect During Juno’s Mission to Jupiter - The New York Times
+3183,1,Bird Song, Sirens and Saxophones for a Stroll Between Museums - The New York Times
+3263,1,John Brademas, Indiana Congressman and N.Y.U. President, Dies at 89 - The New York Times
+3297,1,How Private Equity Found Power and Profit in State Capitols - The New York Times
+3333,1,In Istanbul, Optimism Fades to a Familiar Melancholy - The New York Times
+3375,2,Jaap van Zweden: Before You See Him, Listen - The New York Times
+3383,1,Democrats’ Divisions Linger, but Parties Have Seen Far Worse - The New York Times
+3394,1,Democratic Convention Night 4: What You Missed - The New York Times
+3477,1,Jonah Hill Is No Joke - The New York Times
+3507,1,Ichiro Suzuki Reaches 3,000 Hits, Again Breaking Ground for Japanese Players - The New York Times
+3576,1,Brooklyn, Can You Hear Her? Barbra Streisand Still Sounds Amazing. - The New York Times
+3661,1,More of Kremlin’s Opponents Are Ending Up Dead - The New York Times
+3722,1,One Star Over, a Planet That Might Be Another Earth - The New York Times
+3733,1,In Books on Donald Trump, Consistent Portraits of a High-Decibel Narcissist - The New York Times
+3752,1,‘No One Is Safe’: Zimbabwe Threatens to Seize Farms of Party Defectors - The New York Times
+3858,1,Raghuram Rajan, India’s Departing Central Banker, Has a New Warning - The New York Times
+3868,1,NASA Aims at an Asteroid Holding Clues to the Solar System’s Roots - The New York Times
+3980,1,‘Lula,’ Brazil’s Ex-President, Is Charged With Corruption - The New York Times
+4008,1,At BlackRock, a Wall Street Rock Star’s $5 Trillion Comeback - The New York Times
+4051,1,How Bad Off Is Oil-Rich Venezuela? It’s Buying U.S. Oil - The New York Times
+4070,1,The Blessed, Cursed Life of Bon Iver - The New York Times
+4092,1,Can Tesla’s Autopilot Be Trusted? Not Always - The New York Times
+4101,1,John D. Loudermilk, Who Wrote ‘Tobacco Road’ and ‘Indian Reservation,’ Dies at 82 - The New York Times
+4121,1,Marlins Pitcher Jose Fernandez Is Killed in a Boating Accident - The New York Times
+4148,1,Stephen Colbert Reboots ‘The Late Show,’ Fixing It on the Fly - The New York Times
+4169,1,Deutsche Bank Troubles Raise Fear of Global Shock - The New York Times
+4190,1,For Mahmoud Abbas, a Gesture. For Critics, a Betrayal. - The New York Times
+4199,1,Yoshinori Ohsumi of Japan Wins Nobel Prize for Study of ‘Self-Eating’ Cells - The New York Times
+4211,1,Why Referendums Aren’t as Democratic as They Seem - The New York Times
+4217,1,Art Deco Los Angeles - The New York Times
+4385,1,Andrew Cyrille’s Late-Career Renaissance - The New York Times
+4427,1,James Comey Role Recalls Hoover’s F.B.I., Fairly or Not - The New York Times
+4510,1,Twitter’s Chief Operating Officer to Step Down - The New York Times
+4511,1,‘The Art of the Qur’an,’ a Rare Peek at Islam’s Holy Text - The New York Times
+4585,1,Mose Allison, a Fount of Jazz and Blues, Dies at 89 - The New York Times
+4615,1,Dr. Denton Cooley, Whose Pioneering Heart Surgery Set Off a 40-Year Medical Feud, Dies at 96 - The New York Times
+4628,1,Sharon Jones, Powerhouse Soul Singer, Dies at 60 - The New York Times
+4641,1,Train Derailment in India Kills More Than 100 - The New York Times
+4658,2,Telescope That ‘Ate Astronomy’ Is on Track to Surpass Hubble - The New York Times
+4713,3,Your Guide to a Met Opera Milestone - The New York Times
+4859,2,Oakland Fire Victims Included Performers, Educators and Lawyers - The New York Times
+4909,1,Amy Adams on Eyes That Deceive - The New York Times
+5017,1,E.U. Faces Its Next Big Test as France’s Election Looms - The New York Times
+5072,1,Trump Says the U.S. Should Expand Its Nuclear Capacity - The New York Times
+5119,3,A Fancy Guitar to Sell, but Hard to Play in Handcuffs - The New York Times
+5120,1,Singers in Russian Military Choir Among 92 Feared Dead After Plane Crashes Into Black Sea - The New York Times
+5131,1,George Michael Wrestled With Fame. Frank Sinatra Had Some Advice. - The New York Times
+5149,1,As U.K. Tightens Voting Rules, Critics Say Labour and the Poor Will Suffer - The New York Times
+5345,1,At Carnegie Hall, a New Leader With a Son Named Hendrix - The New York Times
+5527,1,Race for Britain’s Prime Minister Down to Theresa May and Andrea Leadsom - The New York Times
+5573,1,A Surly Misfit With No Terror Links Turned a Truck Into a Tank - The New York Times
+5576,1,Baton Rouge, Turkey, U.S. Presidential Race: Your Weekend Briefing - The New York Times
+5601,1,Roger Ailes Fused TV With Politics, Changing Both - The New York Times
+5731,2,Bobby Hutcherson, Vibraphonist With Coloristic Range of Sound, Dies at 75 - The New York Times
+5881,2,A Consolation of Voices: At the Park Avenue Armory, Mourning the World Over - The New York Times
+5922,1,A Sour Surprise for Public Pensions: Two Sets of Books - The New York Times
+5923,22,Don Buchla, Inventor, Composer and Electronic Music Maverick, Dies at 79 - The New York Times
+6142,1,Temple of the Dog Reunites, Headliners at Last on a Mini-Tour - The New York Times
+6290,1,Two Black Women Embrace Their Chance to Be Hockey Role Models - The New York Times
+6315,1,Trump’s Tough Trade Talk Could Damage American Factories - The New York Times
+6407,1,The Great A.I. Awakening - The New York Times
+6446,1,China Machado, Breakthrough Model Until the End, Dies at 86 - The New York Times
+6479,1,Portrait of George Michael Fills Out, Showing Pitfalls of Fame and Quiet Generosity - The New York Times
+6502,3,The xx Lets the Sunshine In - The New York Times
+6578,1,Jane Fawcett, British Decoder Who Helped Doom the Bismarck, Dies at 95 - The New York Times
+6580,1,Tested by Russia, NATO Struggles to Stay Credible - The New York Times
+6645,1,Risks Higher for Front-Seat Passengers in Some S.U.V. Crashes, Tests Show - The New York Times
+6658,3,NASA’s Juno Spacecraft Will Soon Be in Jupiter’s Grip - The New York Times
+6725,1,When Community-Supported Agriculture Is Not What It Seems - The New York Times
+6738,1,Harley Quinn, Just the Nice, Fun-Loving Psycho Next Door - The New York Times
+6753,1,From Syrian Rubble to German Concert Halls With a Piano, a Mission and Survivor’s Guilt - The New York Times
+6761,1,As Peat Bogs Burn, a Climate Threat Rises - The New York Times
+6777,1,‘What Is Best About America’ - The New York Times
+6790,1,Arthur Hiller, ‘Love Story’ Director and Box-Office Magnet, Dies at 92 - The New York Times
+6843,1,6 Tips for (Gracefully) Handling Rain on Your Wedding Day - The New York Times
+6871,2,Visions of Life on Mars in Earth’s Depths - The New York Times
+6960,1,Wells Fargo Chief Abruptly Steps Down - The New York Times
+7004,1,The Rolling Stones Paint It Blue on Their New Album - The New York Times
+7016,1,Red, Blue and Divided: Six Views of America - The New York Times
+7045,1,Pope Francis Extends Priests’ Ability to Forgive Abortion - The New York Times
+7086,1,Bud Selig, an Apostle for Equity, Reaches Hall of Fame - The New York Times
+7105,1,A New Immigrant Hopes for a Culinary Career - The New York Times
+7182,1,In Cramped and Costly Bay Area, Cries to Build, Baby, Build - The New York Times
+7207,1,Saudi King Shakes Up Government as Economic Plan Moves Forward - The New York Times
+7227,1,‘Veep’ Season 5, Episode 7: Do a Little Dance ... - The New York Times
+7330,2,Toots Thielemans, Who Won Jazz Renown With the Harmonica, Dies at 94 - The New York Times
+7400,1,Colombia’s President, Juan Manuel Santos, Is Awarded Nobel Peace Prize - The New York Times
+7409,1,A Grand Tour of Switzerland, Reluctant Son in Tow - The New York Times
+7412,1,At ‘Doomocracy,’ It’s Fright Night in Brooklyn - The New York Times
+7430,1,‘Westworld’ Season 1, Episode 6: The Tipping Point - The New York Times
+7441,1,Leon Russell, Hit Maker and Musicians’ Musician, Dies at 74 - The New York Times
+7541,3,Paul Simon’s Ambition, and Inspiration, Never Gets Old - The New York Times
+7564,1,Opinion Transforms Texas’ Abortion Landscape - The New York Times
+7571,3,NASA’s Juno Spacecraft Enters Into Orbit Around Jupiter - The New York Times
+7636,1,Rosetta Mission Ends With Spacecraft’s Dive Into Comet - The New York Times
+7653,1,Donald Trump, Marijuana, Rolling Stones: Your Thursday Evening Briefing - The New York Times
+7729,1,David’s Ankles: How Imperfections Could Bring Down the World’s Most Perfect Statue - The New York Times
+7733,1,Attack at University in Kabul Shatters a Sense of Freedom - The New York Times
+8192,1,Amazon’s July 12 ‘Day of Action’ for Net Neutrality is Big Communist Anniversary - Breitbart
+8200,1,Police: Engaged Boston Doctors Murdered in Penthouse - Breitbart
+8490,1,LGBT Writer: I Won’t Accept Gay Conservatives ‘Coming Out’ as Trump Supporters - Breitbart
+8624,1,Was Hillary Clinton’s Nomination Legitimate? Six Reasons to Say No - Breitbart
+8824,1,11 Photos that Show the Human Rights Failures of Obama’s Cuba Policy - Breitbart
+8875,2,Media Was Silent When Obama Adopted Defense Proposals from Pro-Soviet Think Tank
+8996,1,Pence Affirms U.S. Treaty Commitment to Defend Japan’s Senkaku Islands from China
+9108,1,Liberal Cities React to Trump’s Paris Decision by Shining Green Lights on Buildings
+9115,1,Nikki Haley Leads Walkout on UN Nuclear Weapons Ban Meeting - Breitbart
+9352,1,Exclusive — Taylor Force Family’s Attorneys: Cut U.S. Funding to Palestinian Terrorists, Suicide Bombers’ Families Now - Breitbart
+9449,1,Paul Ryan: ’Health Care Is Not Dead’ - Breitbart
+9543,1,FLYNN: When You Leave Your Pint at the Bar, the Terrorists Win - Breitbart
+9620,1,Pence Speaks of ’Unbreakable’ Bond Between America and Israel at AIPAC
+10090,1,Exclusive - Rep. Bridenstine: Shoot the Next One Down, Mr. President - Breitbart
+10563,1,VP Mike Pence Tells U.S. Naval Academy Grads the ‘Best Way to Ensure Peace’ - Breitbart
+10718,2,ACLU Attorney: Dismemberment Abortion Not ‘Inhumane’ - Breitbart
+10793,1,Pope Francis Shocks Workers With Pro-Capitalism Pitch
+10999,1,Breitbart News Hires from The Hill, RealClearPolitics in Latest Expansion - Breitbart
+11010,1,FLASHBACK - Reports: Obama’s 2008 Campaign Reps Talked with Iran, Hamas
+11060,1,Canada Moves Forward with Anti-Islamophobia Measures
+11061,1,John Podesta: Press Did Not Play Up Russia Conspiracies Enough During Election - Breitbart
+11224,1,Frank Gaffney on Tillerson’s ‘Incoherent’ Stance on Iran Nuclear Deal: ‘This Is No Way to Run a Government’
+11252,2,Gorka: ‘I Guess the Obama Administration Were Islamophobes, as Well,’ Since They Created List of Nations for Trump Immigration Order
+11542,1,NYTIMES: Sessions’ and Bannon’s Department of Justification
+11545,1,Top 10 Holdover Obama Bureaucrats President Trump Can Fire or Remove Today - Breitbart
+11781,1,Germany to Fit Ankle Trackers to Suspected Jihadists
+11870,1,Klein: New York Times Lobbies for Muslim Brotherhood
+12137,1,’The Atlantic’ Has ’Regrets’ Over Error-Filled Pro-Abortion Article - Breitbart
+12257,1,Trump Tweets, Vowing Obamacare Isn’t Safe Yet - Breitbart
+12267,1,The Civil War General From Illinois Who Gave Us Memorial Day
+12386,2,UN Gay Rights Envoy: Religious Freedom ‘Not an Absolute Right’
+12394,1,Tennessee Enacts Nation’s ’Most Comprehensive’ Campus Free Speech Law
+12458,1,Tancredo: America Needs New Sheriffs - Breitbart
+12517,1,EXCLUSIVE: Foreign Minister: Turkey ’Very Clear’ in Entering Syria to Defeat Islamic State - Breitbart
+12770,1,Fresno State Cancels Lecturer’s Classes After Breitbart News Report on ’Trump Must Hang’ Tweet - Breitbart
+12825,1,Anti-Trump ‘Jewish Rally for Refugees’ Organizer Funded by Obama
+13241,1,Sen. Tom Cotton: Time to Cut Immigration Levels, Shift Focus to Helping American Citizens First
+13705,1,Europe to United States: DROP DEAD - Breitbart
+13952,1,Without Big-Ticket Win in First 100 Days, Ryan Touts Flurry of Blocked Regulations - Breitbart
+13983,1,Pope Francis Calls for ‘World Without Nuclear Weapons’
+14018,1,Trump: Workers’ ’Interests Were Pushed Aside for Global Projects,’ ’My Administration Has Offered a New Vision’ - Breitbart
+14052,1,Nintendo of America Co-Founder Alan Stone Dead at 71 - Breitbart
+14255,1,Alex Marlow in New York Magazine: Breitbart Trump Coverage ‘100 Percent Consistent’
+14578,1,Senate Republicans Hope to Question Loretta Lynch on Conduct in Clinton Email Case
+14631,1,Bernie Sanders Says ’Entire World is Watching’ Trump and Bannon Response to Anti-Semitism - Breitbart
+14651,1,Mexican Authorities Kill Gulf Cartel, Zetas Bosses in Key Strikes
+14670,1,Reince Priebus Defends Paul Ryan Amid Failure - Breitbart
+14708,1,Steve Bannon: I Warned Ailes About Megyn Kelly — ’She’s the Devil’ - Breitbart
+14767,1,Police: Man Rapes, Kills Teen Girl, Victim’s Mom Helps Dispose of the Body - Breitbart
+15020,3,Gaffney: Media Engaged in ’Concerted Effort by the Enemies of This President to Destroy Him’ - Breitbart
+15043,1,Report: Evergreen Protesters Roaming Campus with Baseball Bats - Breitbart
+15087,1,How Russia Probe Exposes Loretta Lynch for Possible Wrongdoing in Clinton Email Case - Breitbart
+15163,1,Boko Haram Quadruples Female Suicide Bombers in Terror Attacks
+15286,1,Donald Trump Appoints Top Deputies, More White House Staff - Breitbart
+15299,1,The Truth Behind Media’s New Favorite Euphemism: ‘Muslim-Majority Countries’ - Breitbart
+15854,1,Isaac Orr: Trump to Obama’s Energy Legacy: ‘You’re Fired’
+15859,1,Can We Remember the Americans Murdered on 9-11 Without Mentioning the Murderers? - Breitbart
+16012,1,New York Sun Endorses Ted Cruz - Breitbart
+16296,1,Meet the New Authoritarian Masters of the Internet - Breitbart
+16318,1,Meet Rex Tillerson, the Man Donald Trump Called ‘A World Class Player’ - Breitbart
+16587,1,Obama Administration Allows Anti-Israel UN Resolution Against Settlements to Pass - Breitbart
+16599,1,Trojan Horse Teachers Thwart Classroom Ban
+16909,1,Leaked Doc: Soros Open Society Seeks to Reshape Census, Electoral Districts - Breitbart
+16956,1,Rep. Rosa DeLauro Urges Federal Tax on Every Teaspoon of Sugar
+17064,1,Hillary Loses the Left - Breitbart
+17133,1,When Doves Cry: My Memories with Prince - Breitbart
+17316,7,Grammy Awards: Beyoncé Leads Noms with BLM-Inspired ’Lemonade’
+17471,1,Now Race Warriors Decry ‘White Jesus’
+17498,1,The Intercept: A Clinton Fan Manufactured Fake News That MSNBC Personalities Spread to Discredit WikiLeaks Docs - Breitbart
+17792,1,Nation-State Populists Celebrate Phyllis Schlafly’s 92nd Birthday - Breitbart
+17807,1,Ted Harvey: ‘It’s as Though the Clinton Campaign Held a Gun to the FBI Director’s Head’
+17854,1,Einstein’s Gravitational Waves Detected In Scientific Milestone
+17937,2,New Democrat Brainstorm: Forgive Student Loan Debt, So the Kids Can Take Out Mortgages - Breitbart
+18278,2,U.S. Had Cyberattack Ready for Iran If Nuclear Deal Failed
+18302,1,After Fidel Castro: Five Cuban Dissident Artists You Need to Know
+18342,1,***Live Updates*** Bernie, Hillary Debate in Wisconsin Moderator Donated to Clinton Foundation - Breitbart
+18464,1,Buchanan: Attacking Trump for ’Short Run’ Gains ’May Terminate the Political Career’ of Rubio - Breitbart
+18474,1,Parish Priest Dresses Virgin Mary in Burqa for Nativity Scene
+18556,1,Giuliani: Black Lives Matter Putting a Target on Police Officers’ Backs - Breitbart
+18665,1,’Trump Could Be the Next Hitler!’ Says the Increasingly Fascist Left - Breitbart
+18680,1,America Doesn’t Need ‘Presidents Day’
+18914,1,Pro-Lifers Target Companies That Incinerate Dead Babies - Breitbart
+19342,1,Dark Lord: Hacked Documents Reveal Magnitude of George Soros’s Influence
+19381,1,SOURCE: Mayor’s Son Executed in Mexican Border State after Apparent Torture
+20086,1,Boycott of Target and Kellogg’s Deters Corporate Bullying, Says American Family Association - Breitbart
+20109,1,Saudi Grand Mufti Bans Chess: ’A Waste of Time’ - Breitbart
+20163,1,New Blacklist: Bucknell Class President Removed After Bringing Conservative Speakers to Campus, Taking Job at Breitbart - Breitbart
+20170,1,TNR: Media Matters Seeks New Identity in Post-Clinton World
+20260,1,Ted Cruz On Corruption, and the Democrat Devastation of Detroit - Breitbart
+20337,1,Texas Professor Pleads Guilty to Synthetic Pot Cash Conspiracy
+21010,1,UN Could Take Over ICANN, and the Internet, Oct. 1 - Breitbart
+21146,1,Led Zeppelin Wins ’Stairway to Heaven’ Copyright Case - Breitbart
+21164,1,Progressives’ Hatred of Nationalism Pushes US Towards the End of Sovereignty - Breitbart
+21494,1,Ed Klein: Obama Has a ‘Mole, a Manchurian Candidate’ in Tim Kaine
+21717,1,Texas Muslim Pleads Guilty to Setting Fire to His Own Mosque
+21776,1,Syrian Prof: Arabs Migrate for ’Sluts’ and Welfare, Attack When They Don’t Get It
+22172,1,Trump: Bezos Using WaPo to Make Sure I Don’t Get in to Protect Amazon on Taxes, Anti-Trust - Breitbart
+22599,1,NASA Study: Sea Level Rise Absorbed by Earth
+22929,1,Berlin Cracks Down On Airbnb Rentals To Cool Housing Market
+22950,1,Latino Activists Reject Union’s Support For Hillary, Rally For Bernie Sanders - Breitbart
+23178,1,Secret Provision of Senate Intel Bill Authorizes Warrantless FBI Internet Surveillance - Breitbart
+23509,1,Ann Coulter: My Final Argument for Trump: Humiliate the Media! - Breitbart
+23580,1,Twitter CTO Quits as Social Network’s Execs Flee Company - Breitbart
+23685,1,America Last: 20 American-Born Companies that Have Sold Out to Foreign Interests - Breitbart
+24169,2,Charity Still Needs ’Few Thousand Wreaths’ to Cover All Headstones in Arlington National Cemetery
+24176,1,Six Countries That Won’t Be Celebrating International Women’s Day - Breitbart
+24306,1,Eight Anti-Israel Outrages Inside the UN Draft Resolution on Settlements   - Breitbart
+24438,1,EXCLUSIVE - Congressman Dave Brat: Trump ’Has The Guts’ To Move U.S. Embassy to Jerusalem
+24749,1,Adblock in Digital War with Facebook over Ads on the Social Network - Breitbart
+24750,1,RIP: Andy Grove Invented Silicon Valley - Breitbart
+24759,1,Silicon Valley Urges Giving Election Day Off to Help Democrats
+24870,1,University of Wisconsin to Offer ’The Problem of Whiteness’ Course - Breitbart
+24956,1,China Forcing 9,000 People from Their Homes to Make Room for World’s Largest Radio Telescope - Breitbart
+25056,1,OKC Thunder Co-Owner Dies in Car Crash Day After Federal Indictment - Breitbart
+25237,1,Massive Cartel Human Smuggling Ring Busted in Texas
+25323,1,MILO: Margaret Hamilton Was Part Of The Patriarchy - Breitbart
+25398,1,Protesters Storm Stage, Disrupt Rep. Luis Gutierrez Speech at Refugee and Immigrant Conference - Breitbart
+25440,1,House of Cards: Paul Ryan’s Campaign to Mislead Voters on His Immigration Stance - Breitbart
+25535,1,Poll: Who Should Be Donald Trump’s Secretary of State? - Breitbart
+25642,1,Rouhani Rails Against U.S. ’Lack of Compliance’ with Nuclear Deal
+25702,1,Bulgaria Becomes Third Country to Ban the Burqa
+26132,1,Violence Against Egypt’s Christians Escalates At Alarming Rate
+26541,1,Israel Official: Obama Administration Secretly Worked With Palestinians to Craft ‘Shameful’ UN Resolution
+26674,1,Jeff Sessions on 20 ‘Vetted’ Terrorist Refugees as Obama Ramps Up
+26715,1,State Representatives Attack Declaration of Independence on Louisiana House Floor - Breitbart
+26835,1,Singer Prince Dead at 57 - Breitbart
+26971,1,‘I Take Classified Information Seriously,’ Boasts Hillary Clinton, Despite Evidence - Breitbart
+27019,1,Sarah Palin: Obama’s Right ‘the Trump Movement Began in 2008’ When ‘the Silenced Majority’ ‘Found Their Voice’ - Breitbart
+27075,1,Charity Needs Help to Decorate Headstones of Fallen Heroes with Wreaths
+27165,1,***Orlando/2016 LiveWire*** Obama Pushes Gun Control: ’More Massacres’ if ’We Don’t Act’ - Breitbart
+27258,1,AP: Palin Lights Fuse That Implodes GOP - Breitbart
+27315,1,GLAZOV: Castro’s Torture of American POWs in Vietnam: An Untold Story - Breitbart
+27545,1,The Seeds of Revolt: American Families Owe Trillions of Dollars in Debt They Can’t Pay Off - Breitbart
+27648,1,UPDATE: Hispanic Man to Be Buried in South Texas ’Whites Only"’Cemetery
+27673,1,Marco Rubio Campaigning On Provision In Gang of Eight Bill - Breitbart
+27808,1,Parliament-Funkadelic Keyboardist Bernie Worrell Dies at 72 - Breitbart
+28541,1,Pope Francis Gains One Million Instagram Followers in First 12 Hours - Breitbart
+28714,1,For the Ladies: Books That Won’t Make You Feel Like a Victim – Or Hate Men - Breitbart
+29130,1,Brazil’s President Dilma Rousseff: My Impeachment Is Sexist
+29319,1,Linda Tripp Reopens Vince Foster, Travelgate, Whitewater Scandals
+29347,2,Conservative Legend Phyllis Schlafly Dies At 92
+29809,1,BBC1 Should Play ’God Save the Queen’ to Celebrate Brexit, Tory MP Says
+29950,1,Frank Gaffney on Obama’s Attempt to Slip Irreversible Internet Surrender Under the Radar: ’We’ve Got Three Days to Fix This’
+30063,1,Roseanne Barr: Obama’s Anti-Israel UN Action Like ‘Nazis Who Enacted Anti-Jewish Laws on the Eve of Jewish Holidays’ - Breitbart
+30494,1,Pro-Life Leaders: SCOTUS Decision Striking Down Abortion Clinic Safety Standards Will Allow More Gosnells - Breitbart
+30569,1,Carrier Denies That It Received or Will Claim $5.1 Million from Stimulus - Breitbart
+30909,1,David Ortiz Looks to Hit Ball to the ’Choo Choo Train’ in Last Yankee Stadium Appearances - Breitbart
+31127,1,Personal and Financial Scandal Follow Rubio into Tuesday Florida Vote - Breitbart
+31443,1,POLITICO: Stephen Miller Among the Intellectual Vanguard of the Insurgent Populist Nationalist Movement - Breitbart
+31896,1,Heed Coretta Scott King’s warning on Sessions
+31952,1,Donald Trump, attack me on Twitter, please
+31981,2,These things come up in a lot of inaugural addresses
+32041,1,How the world sees a Trump presidency
+32115,1,Syria: What you need to know about the Astana talks
+32269,1,Serena beats Venus for record 23rd major
+32294,1,Travel ban hits hospitals hard
+32379,1,Delaware prison officer ’saved lives’
+32519,1,In 2012 interviews, Steve Bannon compared protesters on the left to the Nazi Brownshirts
+32522,1,Melania Trump hires White House social secretary
+32530,1,President Trump, don’t deport me
+32628,1,Adele swears, restarts during George Michael Grammy tribute
+32648,1,Behind the scenes: A White House in turmoil
+32651,1,Injured Yazidi toddler to reunite with family
+32682,1,Told to go: What’s next for this undocumented mom?
+32718,1,Rick Astley is on a (Rick) roll
+32777,2,Trump interviews candidates to fill national security slot
+32970,1,Is Donald Trump’s legislative agenda empty?
+32976,2,Son of murdered Colombian diplomat gets $1 million in narco-cash
+33004,1,Presidential Trump
+33018,1,3 critically hurt as SUV strikes marching band at Mardi Gras parade
+33051,1,The most popular plastic surgery procedure is ...
+33052,1,Berta Cáceres: Family seeks justice
+33073,1,MS-13 gang members indicted in brutal deaths of teens
+33326,1,Son’s DNA used to identify Kim Jong Nam’s body, police say
+33328,1,What’s in a name, Secretary Tillerson?
+33504,1,Dental coverage may be yanked under GOP health care plan
+33617,1,CNN 10 - March 31, 2017
+33840,1,Alabama governor abused power to cover up affair, report says
+33861,1,Coalition and Syrian opposition forces repel ISIS attack
+33946,2,NASA: Nearby ocean worlds could be best bet for life beyond Earth
+33953,1,Police: Four bodies found in NY may be work of MS-13
+34099,2,Prince mourned one year after his death
+34260,1,Stevie Wonder Fast Facts
+34516,1,Boston doctors, engaged to each other, slain in luxury apartment
+34575,1,Glacier National Park is losing its glaciers
+34638,1,Portugal’s Salvador Sobral wins Eurovision Song Contest
+34677,1,Sources: Trump shared classified info with Russians
+34746,1,How aliens in film have evolved
+34815,1,Possible leak found at Washington nuke site
+34989,1,My son’s life under Trump’s proposed cuts
+35102,1,Passenger tried to enter the cockpit on Malaysia Airlines flight
+35132,1,Wonder woman, feminist icon or bodacious fantasy figure?
+35368,1,Paul McCartney Fast Facts
+35370,1,Brian Wilson Fast Facts
+35620,1,Obama consoles families grieving in Orlando
+35706,1,Oaxaca clashes: 8 killed, 25 injured
+35736,1,Brexit views roundup
+35814,1,The surprising history of abortion in the U.S.
+36015,1,Giant spacecraft arrives at Jupiter on July 4
+36019,1,NASA on edge as Juno nears Jupiter
+36242,1,Freddie Gray case: Testimony ends in Brian Rice trial
+36337,1,Why Turkey’s coup attempt matters for US
+36375,1,Russian doping: ’Unprecedented attack on Olympic Games’
+36430,1,Day 2 of GOP convention speeches: CNN vets the claims
+36846,1,Syrian opposition hails ’miraculous’ victory after claiming to break Aleppo siege
+36990,1,Winning start for Mourinho and Ibrahimovic
+37050,1,Inside Syria’s prisons, where an estimated 17,723 have died since 2011
+37135,1,Trump campaign chairman Paul Manafort resigns
+37170,7,Cause of death: bagpipes
+37345,1,Death of senior leader caps bad month for ISIS
+37347,1,Can you hear me now? ’Strong signal’ from star sparks alien speculation
+37446,1,Close-ups of Jupiter’s poles show auroras, weather
+37501,1,Space probe finds lost Philae lander on comet
+37566,1,Rash of snubs complicates US diplomacy
+37869,1,One person shot during violent Charlotte protest officer hurt
+37953,1,Ryder Cup: Westwood fans war of words in buildup
+38062,1,’The space was alive’
+38380,1,The sexist trope Clinton’s supporters must not use
+38545,1,Janet Reno’s career punctuated by highs, lows
+38824,1,Improving weather forecast with one satellite
+38851,1,Syrian musicians who fled war form orchestra in Europe
+38856,1,Favela photos reveal truth beyond stereotypes
+39207,1,And the winner of Turner Prize 2016 is...
+39246,2,Putin and Muscovites hope for friendly Trump
+39473,1,The rock guitarist ’better’ than Hendrix
+39534,1,Russia ’determined to fight terror’ after assassination
+39549,1,Gunman shouted ’Do not forget Aleppo!’ as he shot ambassador
+39592,2,Make the Arctic great again
+39688,1,2016: The year the music died
+39704,1,Raw and super-naked: 2016’s top motorcycles
+39711,1,Michael Schumacher’s F1 legacy lives on
+40161,1,Mental wellness warriors: Fighting for the mentally ill
+40289,1,Ukraine’s PM: It’s ’crystal clear’ Russians are here
+40354,4,Les Paul’s Black Beauty electric guitar to be auctioned
+40391,1,North Korea wants to be a ’country of mushrooms’
+40429,1,UCLA hospital cites scopes as behind superbug outbreak
+40440,1,Photos of two small moons open the door to new vastness
+40750,1,Ex-airman pleads not guilty to terror-related charges
+40841,2,10 ways to get happy
+40966,1,What’s ’true’ about Jesus’ cross?
+41071,4,CNN Hero helps Miami kids choose ’Guitars Over Guns’
+41222,1,Immigration scam leads to 10 marriages, prosecutors say
+41291,1,NASA probe beams back its first color image of Pluto
+41293,1,’When a Man Loves a Woman’ singer Percy Sledge dies
+41390,4,Hubble Space Telescope turns 25
+41486,1,James Webb Space Telescope: Son of Hubble to peer back in time
+41494,1,Mayweather vs. Pacquiao: Boxing lost its way?
+41635,1,Musicians mourn the loss of B.B. King
+41799,1,The invention that changed music forever
+41871,1,Wendy Sherman leaving state department
+41890,1,Why is this Special Forces war hero being investigated?
+42008,1,Meet Alasdair Howell: The 10-year-old piano prodigy
+42026,2,World’s largest telescope to reveal dawn of universe
+42078,1,Making music from a cigar box
+42150,1,Hillary Clinton’s other Libya problem
+42249,1,Ornette Coleman, influential jazz musician, dies at 85
+42363,1,Majlinda Kelmendi fights for Kosovo recognition
+42400,1,We should on prison culture, not Joyce Mitchell (opinion)
+42428,1,Why Harriet Tubman belongs on $20 bill
+42444,3,NASA moves ahead with plans for mission to Europa
+42445,1,Johnny Depp’s &quotprivate village&quot up for sale
+42568,1,Rosetta: Space agency extends mission of comet orbiter
+42666,2,Peek at tomorrow from today’s top designers
+42686,1,Here’s your first look at the ’Steve Jobs’ movie
+42802,2,New Horizons space probe ready to make history at Pluto
+42803,1,12 things to know about Pluto
+42845,1,New photos show a youthful Pluto still taking shape
+42896,1,Theodore Bikel, ’Sound of Music’ star, dies at 91
+42986,2,Opinion: Feel disrespected? Pull a gun
+43030,1,Jon Stewart for president? (Opinion)
+43082,1,The 50 best movies of 2016, according to critics
+43245,1,Civil-rights icon John Lewis: ’I don’t see this president-elect as a legitimate president’
+43305,1,Why psychedelics like magic mushrooms kill the ego and fundamentally transform the brain
+43505,1,Steve Bannon’s obsession with a dark theory of history should be worrisome
+43633,1,How Vladimir Putin became one of the most feared leaders in the world
+43636,1,There’s no question that the Tesla Model 3 will launch on schedule in 2017
+43637,1,We compared the Volvo S90 and the Buick LaCrosse head-to-head
+43783,1,Earth’s newest continent ’Zealandia’ was found thanks to a giant underwater land grab
+44459,1,Iran’s ’stealth’ fighter is a total joke
+44739,1,Poll shows Trump’s approval rating at near-historic lows and contains an ominous warning about the midterm elections
+44771,1,Elon Musk has discovered a new passion in life — and it could be Tesla’s best product yet
+44823,1,’This is bad news for President Trump’: The FBI’s new special counsel could spell danger for the White House
+44878,1,Trump reportedly asked top US intelligence officials to publicly deny collusion between his campaign and Russia
+44981,1,Red-hot tech stocks are getting a boost from an unexpected source
+45042,1,Flying economy in America has become an awful experience — and it will likely only get worse
+45965,1,One of the world’s most wanted Nazis just won a big legal victory
+46343,1,JOBS WEEK IS HERE: Your complete preview of the week’s big economic stories
+46416,2,Tesla is about to face the biggest challenge in its history
+46620,1,One of Facebook’s longest-serving execs is leaving to become a startup investor
+46738,1,Legendary Hoosiers basketball coach delivered a bizarre introduction of Donald Trump
+46951,1,A ’less technical’ type of bra is storming the lingerie industry — here’s how experts explain the trend
+47447,1,’These are not allies’: The most potent force fighting ISIS in Iraq has been accused of torturing and executing civilians
+47730,1,I just checked out Tesla Autopilot — there’s no way it can drive a car by itself
+47916,1,Big Pharma is jacking up the price of the ’antidote’ to the overdose crisis
+48248,2,Donald Trump broke the conservative media
+48290,1,EpiPen isn’t the only emergency medicine skyrocketing in price
+48349,1,A meteorologist reveals what it’s like to fly an airplane through a hurricane
+48597,2,Putin is planning to reincarnate the KGB
+48689,1,The 2016 ranking of the 10 most innovative universities in the world
+48840,1,Leaked email: Top Clinton adviser said Chelsea was ’acting like a spoiled brat’ in 2011
+48904,1,Thrillist CEO Ben Lerer explains why Discovery just invested $100 million and made him a new media mogul
+48965,1,NASA’s $1 billion Jupiter probe has suffered 2 big problems in 2 days
+49286,1,The head of the SEC will step down at the end of the Obama administration
+49494,1,Starbucks CEO Howard Schultz is stepping down
+49537,1,Here’s how to manipulate Trump
+49886,1,Earth’s Oceans Are Steadily Warming
+49893,1,Obama: The Ocean President
+49897,3,Opening Paragraphs Don’t Always Have to Be Exciting
+49899,1,The Ideological Reasons Why Democrats Have Neglected Local Politics
+49924,2,America Is Still Making Things
+49932,1,Rafsanjani’s Impact
+49939,1,The Donald Trump Cabinet Tracker
+49984,1,The Enduring Mystery of Pain Measurement

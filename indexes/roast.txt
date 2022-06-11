@@ -1,0 +1,165 @@
+155,1,Donald Trump, Golden Globes, Jerusalem: Your Monday Briefing - The New York Times
+263,1,Snow Acts as a Magical Balm in an Anxious Turkey - The New York Times
+556,1,For Trump, Everything Is a Rating - The New York Times
+569,1,Harold Hayes, Survivor of Secret World War II Odyssey, Dies at 94 - The New York Times
+649,1,Trump Avoids Answering Whether He Will Lift Sanctions on Russia - The New York Times
+657,3,Why Clam-Chowder Pizza Is the Best Kind - The New York Times
+658,1,Love and Black Lives, in Pictures Found on a Brooklyn Street - The New York Times
+725,1,Samantha Bee to Roast Trump on Same Night as Correspondents’ Dinner - The New York Times
+727,1,Donald Trump, Quebec City, Patriots: Your Monday Evening Briefing - The New York Times
+754,1,Ukraine, François Fillon, Quebec: Your Wednesday Briefing - The New York Times
+888,2,Spicing Up the Colombian Melting Pot - The New York Times
+989,2,Why Do Cooks Love the Instant Pot? I Bought One to Find Out - The New York Times
+1078,3,How Malay Spends His Sundays: Cooking at Home, Music in the Studio - The New York Times
+1185,1,The Dirty Projectors Go Solo - The New York Times
+1223,2,Cheesecake for the Soul: A ‘Golden Girls’ Cafe Opens - The New York Times
+1312,1,Jimmy Kimmel on Hosting the Oscars at a Political Moment - The New York Times
+1339,1,Nikki Haskell Learns the Social Cost of Supporting Donald Trump - The New York Times
+1387,5,A Vegetable Tart, but Nothing Too Dainty - The New York Times
+1424,1,Looking for a Trump Doctrine in the White House Kitchen - The New York Times
+1459,1,Donald Trump’s Speech, Mosul, Kim Jong-nam: Your Morning Briefing - The New York Times
+1501,1,A Caramelized Cabbage Casserole to Get You to Spring - The New York Times
+1531,2,Dozens Say Christian Leader Made British Boys ‘Bleed for Jesus’ - The New York Times
+1664,1,Profitable Companies, No Taxes: Here’s How They Did It - The New York Times
+1758,1,Snowed In? Here’s What to Cook, Watch, Listen To and More - The New York Times
+1773,1,Geert Wilders, Donald Trump, Scotland: Your Wednesday Briefing - The New York Times
+1852,3,What to Cook This Weekend - The New York Times
+1908,3,Is Gascony the Most Delicious Corner of France? - The New York Times
+1942,1,The Hawaii Cure - The New York Times
+2143,1,Brexit, Donald Trump, Jordan: Your Morning Briefing - The New York Times
+2285,1,Inviting the Easter Bunny to the Seder - The New York Times
+2488,2,Hasan Minhaj to Perform at White House Correspondents’ Association Dinner - The New York Times
+2604,1,Donald Trump’s More Accepting Views on Gay Issues Set Him Apart in G.O.P. - The New York Times
+2647,1,Chaiwali, an Indian Restaurant That Feels Like Home - The New York Times
+2666,5,The Best Sandwich Ever - The New York Times
+2764,1,Just Add Salt: How to Make Bacon and Pancetta at Home - The New York Times
+2773,4,Revel in the Bounty of Spring, With a Feast From Yotam Ottolenghi - The New York Times
+2977,3,Poultry Has a Pedigree at Le Coq Rico - The New York Times
+3075,1,7 Tips for Avoiding a Wedding Toast Disaster - The New York Times
+3141,2,Fashioning Cast-Iron Pans for Today’s Cooks - The New York Times
+3453,1,Fly-Fishing in Montana, Where a River Still Runs Through It - The New York Times
+3520,1,What to Cook This Week - The New York Times
+3545,1,Off to College? Maybe These Devices Should Go Along - The New York Times
+3649,1,‘No Matter What You Did, You Are My Son’: Afghan Fighters Reunite as Family - The New York Times
+3834,1,Steak That Sizzles on the Stovetop - The New York Times
+3867,1,Researchers Confront an Epidemic of Loneliness - The New York Times
+3878,1,Our Restaurant Critic Goes National. First Stop: California. - The New York Times
+3950,1,California Today: School Bond Measure? Why You Should Care - The New York Times
+4134,1,Recipes to Debate - The New York Times
+4153,1,Torn Over Donald Trump and Cut Off by Culture Wars, Evangelicals Despair - The New York Times
+4174,1,Dining In: Homemade Chili Gains Ground on Chili’s - The New York Times
+4196,2,What to Cook This Week - The New York Times
+4217,1,Art Deco Los Angeles - The New York Times
+4296,2,Making Sous Vide Simplify Work for You - The New York Times
+4314,1,A New Weapon in Russia’s Arsenal, and It’s Inflatable - The New York Times
+4426,1,Hillary Clinton, Donald Trump, North Dakota: Your Tuesday Briefing - The New York Times
+4633,1,Cheesy Mashed Potatoes for the Soul - The New York Times
+4682,1,Donald Trump, Global Warming, Facebook: Your Wednesday Briefing - The New York Times
+4825,1,When the Picky Eater Is a Grown-Up - The New York Times
+4828,1,Hunting ‘Turr’ in Newfoundland’s Frigid Waters - The New York Times
+4829,1,Shadows Fall and Jaws Drop for a Jolly Green Icon’s Comeback - The New York Times
+4870,1,At Aska, a Nordic Chef’s Vision Bears Fruit (and Lichens) - The New York Times
+4956,2,Top New York Restaurants of 2016 - The New York Times
+4967,1,Seeing Africa by Road - The New York Times
+5106,1,A Struggling Theme Park Asks: Do You Still Believe in Santa? - The New York Times
+5421,1,Enough With the Gefilte Fish. I’ll Have Sushi. - The New York Times
+5650,1,All Aboard the Nordic Express, at Agern - The New York Times
+5814,1,When Cooking, Invest Time. Or Work. Not Both. - The New York Times
+6040,1,Showgirls, Pastrami and Candor: Gloria Steinem’s New York - The New York Times
+6161,1,Donald Trump Rode to Power in the Role of the Common Man - The New York Times
+6178,3,Five Easy Recipes to Impress Family and Friends (and Dates) - The New York Times
+6402,1,Back on Her Feet at 85, Thanks to a Chair - The New York Times
+6581,1,Why Christopher Kimball Is Moving On From America’s Test Kitchen - The New York Times
+6592,1,The Quinceañera, a Rite of Passage in Transition - The New York Times
+6746,2,Five Sauces for the Modern Cook - The New York Times
+6809,1,11 Ideas for Midweek Cooking - The New York Times
+7055,1,In a California Valley, Healthy Food Everywhere but on the Table - The New York Times
+7098,1,The Year’s Best Baking Cookbooks: Radical Ideas, Classic Treats - The New York Times
+7173,1,How to Have a Dinner Party: Friends Not Required - The New York Times
+7244,1,What to Cook This Weekend - The New York Times
+7252,1,Devices That Deserve to Go Along on Vacation - The New York Times
+7255,1,Here She Is: The Ugliest Dog in the World (2016) - The New York Times
+7281,2,Regaining Chicken Salad’s Dignity, Any Time of Day - The New York Times
+7288,6,Tips to Reduce Food Waste - The New York Times
+7296,21,Insult Comedy as Blood Sport: The Rise of the Roast Battle - The New York Times
+7339,2,It’s Not You, It’s Me - The New York Times
+7712,2,What to Cook This Week - The New York Times
+7724,2,Johnny Nicholson, Whose Midtown Cafe Drew the ‘New Bohemians,’ Dies at 99 - The New York Times
+7775,3,The Top 10 New York Dishes of 2016 - The New York Times
+8186,1,Analysts: Geert Wilders Force to be Reckoned With After Dutch Elections
+8715,1,Street Artist Mocks Kim Jong-Un with ’Trump North Korean BBQ’ Posters (Photos)
+9517,2,Livewire: 89th Annual Academy Awards
+9891,3,Samantha Bee Mocks Trump, Roasts Media at ’Not the White House Correspondents’ Dinner’ - Breitbart
+11083,1,BET: Katy Perry Latest ‘White Pop Act’ to Appropriate ‘Black Urban Culture’
+11245,3,Nanny State Health Warning: Burnt Toast Can Give You Cancer - Breitbart
+11812,1,Report: Disney Negotiating with Carrie Fisher’s Estate to Revive Princess Leia for Future ’Star Wars’ Films - Breitbart
+12380,1,Roger Moore, Star of 7 James Bond Films, Dies at 89 - Breitbart
+12604,1,Comedian Hasan Minhaj, Who Called Donald Trump ’White ISIS,’ to Headline WHCD
+13289,1,Comedy Legend Don Rickles Dies at 90 - Breitbart
+14616,1,Snoop Dogg Blasts ‘Uncle Tom’s for Performing At Inauguration
+15734,1,Watch: Mark Cuban Roasts Donald Trump - Breitbart
+17003,1,Alex Jones: Glenn Beck Is a ‘Little Demonic Goblin’ ‘Rubbing His Little Pot Belly on the Ground’ Before Zuckerberg - Breitbart
+17565,10,Comedy Central to Explore Racism and Excessive Force with ’Police Roast’ - Breitbart
+19634,2,Fiona Apple Yells ’Donald Trump, F*ck You’ at Charity Concert
+20239,1,Trump Promises to ’Swiftly’ Remove Criminal Illegal Immigrants
+21603,1,Golden Globes Recap: Ricky Gervais Delivers, ’Revenant’ Wins Big, Stallone Gets Standing Ovation - Breitbart
+22228,1,Trump Cites Shooting of Dwayne Wade’s Cousin in Speech
+23011,1,Ann Coulter: Casting Call for Another Anita Hill - Breitbart
+23276,1,ESPN Anchor Was Only Suspended for Saying ’F**k Jesus’ - Breitbart
+23418,1,Gwyneth Paltrow’s 2016 ‘Detox Diet’: Don’t Eat Anything!
+23549,1,Gigi Hadid Under Fire For Melania Trump Impression at AMAs
+23779,1,MILO’s 10 Most Brutal Clinton Roasts From USF - Breitbart
+24765,2,Iowa Women Back Trump, Bash ’Deceptive’ Hillary Clinton: ’It’s All About Her’ - Breitbart
+25528,2,’SNL’ Star Agrees with Trump: Show Too ’One-Sided’
+27012,1,WATCH: Hamas Emulates Islamic State Executions of Israelis in New Propaganda Videos
+27153,1,Washington Post: Trump Could Install MILO As Press Secretary If He ’Really Wants To Shake Things Up’ - Breitbart
+27243,1,Louis C.K. to Host Bill de Blasio Fundraiser as NYC Mayor Battles Corruption Investigation - Breitbart
+27996,1,’SNL’ Star Pete Davidson Tells Trump: ’F*ck You, B*tch’
+28041,1,Texas Man Accused of Barbecuing His Dog
+28353,2,Rock Star Welcome for Trump in Iowa: Hillary ’Will Sell You Out’
+29018,1,***Horse Race LiveWire*** All Eyes on Trump, Clinton in New York - Breitbart
+30531,2,***2016 LiveWire*** Trump: Immigration Enforcement Civil Rights Issue for Blacks, Hispanics - Breitbart
+31172,1,Leo DiCaprio-Hillary Clinton Money ’Laundering’ Street Art Appears in L.A. - Breitbart
+33707,4,The cup of coffee that could cause heart palpitations
+33749,1,Masters 2017: All you need to know about Augusta
+33770,1,Trump hosts Xi Jinping: No Big Macs on the menu
+33790,2,Don Rickles’ best celebrity insults
+33832,1,Go vegan, save the planet
+34326,1,The Trump spectacle continues to dazzle
+34332,2,Trump is right about media bias
+34333,1,10 memorable lines from comedian Hasan Minhaj at the WHCA dinner
+34344,1,Ja Rule still fried over Fyre -- and now sued
+34874,1,CNN 10 - May 23, 2017
+35138,2,Salmonella Fast Facts
+35158,3,Pence kicks off busy summer with Iowa stop
+35167,1,Members of Congress express outrage after Maher slur
+35523,1,Eating fried potatoes linked to higher risk of death, study says
+35626,1,Obama’s cerebral reaction to terror tested in Orlando
+37282,1,Trump spreads claim that Clinton’s ’mentor’ was ’KKK member’
+37287,1,Ernst to Trump: Stop with the name-calling
+39192,1,Trump, stop whining about SNL and focus on presidency
+39627,1,Typhoon expected to wallop Philippines during Christmas
+40013,1,Fighting death: At 75, nun’s soul still stirs for cause
+40261,1,Highlights from Katy Perry’s Super Bowl halftime show
+40719,5,Justin Bieber apologizes at his Comedy Central roast
+40792,1,Us Weekly retracts story with Kendall Jenner remarks
+41457,2,Correspondents dinner: Barack Obama has one mean wit
+41600,1,Educator calls out ’black people’ for leaving graduation
+41930,2,Trendy ’ugly’ vegetables also good for you
+41954,1,Iowans daunted by so many 2016 GOP options
+42054,1,Justin Bieber found guilty of assault, careless driving
+42070,1,Rick Perry launches comeback bid for White House
+42109,1,21 random facts about ’Jaws’
+42141,1,Carson dismisses report of campaign disarray
+42179,1,Ernst knocks Clinton: ’It’s not enough to be a woman’
+42253,1,Can Scott Walker win the Harley vote?
+42629,1,Severe Weather: Record heat expected for Northwest
+43889,1,Trump’s steak preference has men wondering the right way to order meat
+44415,1,Airline food shows a growing divide between premium and coach class
+45308,1,Chick-fil-A is doing something no other fast-food chain has done before
+47717,1,Starbucks is opening up an entirely new kind of store to build a gourmet food empire
+48265,1,There’s ’a war on the American farmer’: Trump swings through Iowa
+48281,1,This woman chose to go homeless in San Francisco instead of paying high rent
+48493,1,’Jokers’ and ’sellouts’: The cockiest guy in self-driving cars just roasted his competition
+49573,2,Inside Starbucks’ ambitious plan to combat the ’seismic shift’ that could kill its business
+49619,2,We ranked everything on the Chick-fil-A breakfast menu — and the best thing isn’t even the chicken

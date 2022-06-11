@@ -1,0 +1,380 @@
+8,1,First, a Mixtape. Then a Romance. - The New York Times
+123,2,Andrew Garfield, Spiritual Ghost in the Hollywood Machine - The New York Times
+184,1,Along New York Harbor, ‘On the Waterfront’ Endures - The New York Times
+330,3,William Peter Blatty, Author of ‘The Exorcist,’ Dies at 89 - The New York Times
+522,1,Reading the Classic Novel That Predicted Trump - The New York Times
+681,3,Duterte’s Free Birth-Control Order Is Latest Skirmish With Catholic Church - The New York Times
+703,1,Christian Leaders Denounce Trump’s Plan to Favor Christian Refugees - The New York Times
+855,1,Assailant Near Louvre Is Shot by French Soldier - The New York Times
+901,1,Wine and Dine - The New York Times
+910,1,Emmanuelle Riva, Star of ‘Hiroshima Mon Amour’ and ‘Amour,’ Dies at 89 - The New York Times
+922,1,Travel Ban, Queen Elizabeth, Netanyahu: Your Morning Briefing - The New York Times
+944,1,Our Articles on the Attacks Trump Says the Media Didn’t Cover - The New York Times
+947,2,Steve Bannon Carries Battles to Another Influential Hub: The Vatican - The New York Times
+1110,2,As a House Burns, Tenants’ Lives Flash Before Them - The New York Times
+1261,3,Milo Yiannopoulos’s Pedophilia Comments Cost Him CPAC Role and Book Deal - The New York Times
+1276,1,In First, Trump Condemns Rise in Anti-Semitism, Calling It ‘Horrible’ - The New York Times
+1355,1,Judge Allows Testimony of Another Accuser in Cosby Case - The New York Times
+1518,1,Infant and Fetus Remains Are Found at Ex-Home for Unwed Mothers in Ireland - The New York Times
+1531,1,Dozens Say Christian Leader Made British Boys ‘Bleed for Jesus’ - The New York Times
+1540,1,René Préval, President of Haiti in 2010 Quake, Dies at 74 - The New York Times
+1693,18,Pope Francis Signals Openness to Ordaining Married Men in Some Cases - The New York Times
+1923,1,Robert Silvers, a Founding Editor of New York Review of Books, Dies at 87 - The New York Times
+1981,1,His Idea for Fighting Terrorism? Funny Plays - The New York Times
+2163,1,Maajid Nawaz’s Radical Ambition - The New York Times
+2430,3,Egypt Declares State of Emergency, as Attacks Undercut Promise of Security - The New York Times
+2478,1,I Thought I Understood the American Right. Trump Proved Me Wrong. - The New York Times
+2483,3,Spanish Court Clears Priest in Abuse Case Taken Up by Pope Francis - The New York Times
+2531,5,Becoming Duterte: The Making of a Philippine Strongman - The New York Times
+2546,1,Pope Francis Takes 12 Refugees Back to Vatican After Trip to Greece - The New York Times
+2551,7,272 Slaves Were Sold to Save Georgetown. What Does It Owe Their Descendants? - The New York Times
+2615,1,In College Roommate David Panton, Ted Cruz Finds Unwavering Support - The New York Times
+2665,1,Missing Money, a Vicious Attack and Slow Healing for a Charity’s Leader - The New York Times
+2668,1,Obama Needles Clinton and G.O.P. Field at Correspondents’ Dinner - The New York Times
+2672,3,A Year After Earthquake, Nepal’s Recovery Is Just Beginning - The New York Times
+2716,1,Julianna Margulies, in Closing Arguments for ‘The Good Wife’ - The New York Times
+2720,2,Two-Hour Marathon. Can It Be Done? - The New York Times
+2857,1,Palestinians Elect a New President (on a Reality TV Show) - The New York Times
+2907,1,Bangladesh Says It Now Knows Who’s Killing the Bloggers - The New York Times
+2938,1,The Chinese Hackers in the Back Office - The New York Times
+2974,2,Moving to Make Amends, Georgetown President Meets With Descendant of Slaves - The New York Times
+3351,3,Mike Pence’s Journey: Catholic Democrat to Evangelical Republican - The New York Times
+3387,3,France Identifies 2nd Man Who Attacked Church and Killed Priest - The New York Times
+3729,2,Hopes Dim for Survivors of Italy Quake Death Toll Stands at 267 - The New York Times
+3744,1,2 Nuns Are Killed in Mississippi: ‘The Sweetest People to Ever Draw a Breath’ - The New York Times
+3811,1,Georgetown University, Donald Trump, SpaceX: Your Thursday Evening Briefing - The New York Times
+3817,1,Georgetown University Plans Steps to Atone for Slave Past - The New York Times
+3818,2,‘Private Hell’: Prep School Sex Abuse Inquiry Paints Grim Picture - The New York Times
+3827,2,With Mother Teresa Set to Be Canonized, Her Work Lives On in the Streets - The New York Times
+3927,1,Potent Critiques of NBC Forum Raise Stakes for Moderators - The New York Times
+3977,1,Emily Blunt Rides the Unnerving Rails of Addiction in ‘The Girl on the Train’ - The New York Times
+4021,1,The Eternal Struggle of the Empty Nester - The New York Times
+4035,1,New York City, U.S. Presidential Race, Syria: Your Evening Briefing - The New York Times
+4098,1,The Other 13 Women Testifying Against Cosby ... if the Court Lets Them - The New York Times
+4342,1,Cholera Deepens Haiti’s Misery After Hurricane - The New York Times
+4393,1,Kevin Meaney, Veteran Stand-Up Comedian, Dies at 60 - The New York Times
+4593,1,Jean Kennedy Smith Remembers Growing Up Kennedy - The New York Times
+4649,1,Pope Francis, Trump, Japan: Your Tuesday Briefing - The New York Times
+4659,19,The Passion of Martin Scorsese - The New York Times
+4688,2,Ralph Branca, Who Gave Up ‘Shot Heard Round the World,’ Dies at 90 - The New York Times
+4728,1,Sexual Abuse Claims in English Youth Leagues Prompt Wider Inquiry by Authorities - The New York Times
+4950,1,Trump Lines Up Establishment Republicans to Vouch for Rex Tillerson - The New York Times
+4959,1,Child Sexual Abuse Scandal Rocks U.K. Soccer - The New York Times
+5019,1,As President Joseph Kabila Digs In, Tensions Rise in Congo - The New York Times
+5071,1,Fight - The New York Times
+5103,1,Intent on Unsettling E.U., Russia Taps Foot Soldiers From the Fringe - The New York Times
+5268,1,Ruined Serbian Orthodox Church Was a Landmark of Old New York - The New York Times
+5643,5,Muslims and Christians in French Town Pray Old Bonds Survive Priest’s Murder - The New York Times
+5895,1,Colin Powell, in Hacked Emails, Shows Scorn for Trump and Irritation at Clinton - The New York Times
+5970,1,Geena Davis Talks About ‘The Exorcist’ and Women Onscreen - The New York Times
+6007,1,Pope Francis Notes Azerbaijan’s Religious Tolerance, Not Rights Abuses - The New York Times
+6014,1,Reader’s Guide to This Fall’s Big Book Awards - The New York Times
+6034,6,New York Archdiocese Offers Compensation Program for Sexual Abuse Victims - The New York Times
+6147,3,Pope Francis Names Joseph Tobin to Lead Archdiocese of Newark - The New York Times
+6150,1,Where Burning Effigies (Not Just Guy Fawkes’s) Is Part of the Fun - The New York Times
+6240,1,Donald Trump, Pope Francis: Your Monday Evening Briefing - The New York Times
+6258,2,‘Why Me?’ Echoed in Ralph Branca’s World, Even Before a Doomed Pitch - The New York Times
+6275,1,A Candidate Rises on Vows to Control Islam and Immigration. This Time in France. - The New York Times
+6407,1,The Great A.I. Awakening - The New York Times
+6439,2,Deadly Berlin Christmas Market Episode Is Latest in Europe - The New York Times
+6462,10,Coming to Newark Archdiocese: A Different Kind of Cardinal - The New York Times
+6491,1,Death of a Red Carpet Reporter - The New York Times
+6544,6,Daniel J. Berrigan, Defiant Priest Who Preached Pacifism, Dies at 94 - The New York Times
+6653,2,Gay Catholic Groups Want Pope Francis to Do More Than Apologize - The New York Times
+6705,1,Object Lessons: The New Museum Explores Why We Keep Things - The New York Times
+6813,2,Why’d You Do That? How The Times Decides to Send News Alerts - The New York Times
+6837,8,In Honduras, a Spiritual and Political Awakening for Tim Kaine - The New York Times
+6869,1,Kiefer Sutherland Returns. This Time the Oval Office Is His. - The New York Times
+7027,1,Poland Exhumes Ex-President’s Body in Inquiry of 2010 Plane Crash - The New York Times
+7045,7,Pope Francis Extends Priests’ Ability to Forgive Abortion - The New York Times
+7060,5,Talks to Heal Catholic Rift in China Gain Momentum Under Francis - The New York Times
+7063,3,Fidel Castro, Cuban Revolutionary Who Defied U.S., Dies at 90 - The New York Times
+7082,1,Yale Sets Policy That Could Allow Renaming of Calhoun College - The New York Times
+7084,1,Campus Press vs. Colleges: Kentucky Suit Highlights Free-Speech Fight - The New York Times
+7118,1,‘La La Land,’ ‘Moonlight’ Lead Golden Globe Nominations - The New York Times
+7121,1,Mexico Grapples With a Surge in Violence - The New York Times
+7184,2,Prep Schools Wrestle With Sex Abuse Accusations Against Teachers - The New York Times
+7185,1,For News Outlets Squeezed From the Middle, It’s Bend or Bust - The New York Times
+7201,1,On the Ground in Aleppo: Bloodshed, Misery and Hope - The New York Times
+7292,1,On Death Penalty Cases, Tim Kaine Revealed Inner Conflict - The New York Times
+7305,1,For Anne Holton, Tim Kaine’s Wife, Elite Circles Are Old Turf - The New York Times
+7350,1,Mother Teresa Is Made a Saint by Pope Francis - The New York Times
+7418,1,Mosul, CETA, Trump: Your Tuesday Briefing - The New York Times
+7557,1,Divers Find Body of Toddler Snatched by Alligator at Disney Resort - The New York Times
+7714,2,Intent on a Reckoning With Georgetown’s Slavery-Stained Past - The New York Times
+7981,1,Pro-Life Leaders Celebrate Motherhood and Reach Out to Those Suffering After Abortion - Breitbart
+8322,1,Church Attendance Increases in Conservative Poland
+8451,1,Bardot: ’You Can See Macron’s Lack of Empathy in His Cold, Steel Eyes’
+8661,1,Sean Spicer Lights Up ’Pathetic’ Critics of Donald Trump’s Holocaust Statement - Breitbart
+8734,1,Chinese Cardinal Worried that Vatican Will ‘Sell Out’ Underground Church
+8736,2,Pope Francis Condemns ‘Barbaric Attack’ on Egyptian Christians
+8743,1,Video: Islamic State Tears Down Statues, Burns Cathedral Down in Philippines
+8816,2,Bishop Irate Over Mafia Kingpin’s Role as ‘Godfather’ in Baptism
+9130,1,Leaders Applaud Gorsuch Confirmation as ’Win for Pro-Life Movement’
+9306,1,FULL REMARKS: MILO Delivers Speech at Press Conference Amid Video Scandal - Breitbart
+9324,1,PETA Wants ’Warhammer’ Creator to Protect Imaginary Animals from Plastic Space Marines - Breitbart
+9540,1,Duterte Says ’Spare No One’ as Islamic State Beheads Police Chief, Stages Mass Prison Break
+9589,1,COVFEFE LIVEWIRE: Comey Crazy Sweeps Washington... Breitbart Live From Union Pub - Breitbart
+9917,1,Fake News: HuffPo Invents a Steve Bannon ‘War’ on Pope Francis
+10051,2,Virgil: Trump’s Nationalist Vision vs. the Gospel of Globalism
+10371,1,Trump Expected to Sign Religious Liberty Executive Order - Breitbart
+10561,2,Italian Police: Mafia Working With Aid Group to Steal Millions from Migrant Funds
+10735,3,Romans Launch Protest Against Pope Francis: ‘Where’s Your Mercy?’
+10858,1,Cuba Confiscates Toys from Christians Looking to Celebrate Feast of Epiphany - Breitbart
+11077,1,MILO: ’I Was A Victim Of Child Abuse’ - Breitbart
+11650,2,Cartel Massacres, Rampant Corruption Taint Mexican Border State Elections
+11851,1,Philippines: Duterte Jokes He Will Protect Soldiers Who Rape During Martial Law
+12012,1,WATCH: Iraqi Christians on U.S. President - ‘We Have Confidence in Trump!’
+12142,1,Prominent Jesuit Blames ’Morality of Capitalism’ for United Air Incident - Breitbart
+12149,1,Pope Francis Apologizes for Catholic Church’s Role in 1994 Rwanda Genocide
+12163,10,After 6,000 Exorcisms, Priest Says ‘The Devil Is Afraid of Me’
+12247,2,‘Pro-Life’ Sen. Joe Manchin Poses in Support of Planned Parenthood
+12430,5,Duterte: ’Priests Should Use’ Methamphetamine Before Judging Drug War
+12577,1,Christians Celebrate Easter - Breitbart
+12661,1,Pro-Life Leaders: Neil Gorsuch ’Reminiscent of the Late Justice Antonin Scalia’ - Breitbart
+12937,1,Director Joss Whedon Calls Ivanka Trump a Dog
+13229,1,Report: Church Bombing in Cairo Kills 21, Wounds 38
+13428,1,Trump Recognizes ‘Tremendous Work’ of Catholic Schools
+13493,3,EXCLUSIVE: Iraqi Christians: We ’Just’ Want ’a Chance to Survive’ - Breitbart
+13852,1,Pope’s Timely Egypt Visit Comforts Grief-Stricken Middle East Christians
+13941,1,Rep. Steve King Files Federal Pro-Life Heartbeat Bill: ’If a Heartbeat Is Detected, the Baby Is Protected’ - Breitbart
+13981,1,Court Rules the Snuggie Is a Blanket, Not a Robe - Breitbart
+14324,6,Pope Francis: In Case of ‘True Spiritual Disturbances,’ Call an Exorcist - Breitbart
+14409,2,Gorka: Trump ’Incredibly Pragmatic’ About Relations with Russia, Iran
+14525,2,Pro-Life Leaders on Judge Gorsuch’s Nomination: Donald Trump ‘A Man of His Word’ - Breitbart
+14907,2,Venezuela: Socialist Mob Assaults Archbishop of Caracas During Holy Week Mass - Breitbart
+14991,1,German Magazine Spiegel Portrays Trump as Islamist Beheader in Cartoon Front Page
+15354,1,Church of England Rejects Report Saying Marriage Only Between Man and Woman
+15899,1,Cologne Cathedral Square Turned Into "Security Zone" for Christmas
+15984,3,Marion Le Pen: Christians Must Stand Up To Islam Young Patriots Should Join The Military Like Me
+16002,1,Pro-Life Leaders Mourn Justice Antonin Scalia - Breitbart
+16128,1,Father Frank Pavone Notes Large Youth Involvement in Right to Life Movement - Breitbart
+16222,1,Breitbart News Daily: AIPAC, Obama in Cuba, Election Day in AZ and UT - Breitbart
+16265,1,The West Is Finally Fighting Back against Militant Islam
+16311,1,France Defends Burkini Ban On Tense Post-Attack Beaches
+16530,1,To Destroy ISIS, We Must Give Its Victims the Tools to Fight Back - Breitbart
+16629,1,Tim Kaine Fully Embraced Abortion When He Became Hillary’s Likely VP Pick - Breitbart
+16784,1,Breitbart News Daily: Berned Green in Philly! Donkey Disillusionment! - Breitbart
+16802,1,Cameron’s Elite Will Stop at Nothing to Win This EU Referendum: Here’s Why we Mustn’t Let Them
+16835,1,The Easter Story - Breitbart
+16935,8,GRAPHIC: 3 Priests Kidnapped and Murdered in Mexico Within Week
+17060,1,Vatican: Pope’s Comments About Trump Not ‘Personal Attack or Instruction on How to Vote’
+17083,1,Breitbart Launches ’Border Wall Construction Co.’ Shirt
+17138,2,Sen. Kaine, You Can’t be Wrong on Abortion but Right on Social Justice - Breitbart
+17325,1,Paris Cardinal: Islamists Worship a ‘God of Death’
+17381,1,Ahmadis: UK Muslims Must Take US-Style Pledge of Allegiance
+17441,1,European Churches Witnessing ’Mass Baptisms’ For Migrants
+17501,1,ACLU Sues To Obtain Documents Showing Catholic Hospitals ‘Harm’ Women By Refusing To Perform Abortions - Breitbart
+17702,1,Tim Kaine Tells Gays Catholic Church Opposition to Same-Sex Marriage ‘Is Going to Change’
+17974,4,After ‘Spotlight’ Takes Oscar, Boston Globe Dumps Catholic Site - Breitbart
+18018,1,Anti-Free Speech Laws Force Right-wing Activists Into Hiding Abroad
+18233,1,Breitbart News Daily: War Against ISIS - Breitbart
+18474,10,Parish Priest Dresses Virgin Mary in Burqa for Nativity Scene
+18660,1,Paul Ryan: ‘Yes,’ I Have A Soul - Breitbart
+18723,1,Trump’s Mission To Make America Great Again: How It’s Been Done, How He Can Do It Again - Breitbart
+18836,1,France Has 5 Million Muslims And Only A Few Hundred Attended ’Solidarity’ Mass After Nice Attack
+18858,14,Rolling Stone’s Disgraced UVA Reporter Faces Scrutiny on Catholic Child Rape Story - Breitbart
+18871,9,Mark Wahlberg: ’Catholic Faith Is the Anchor That Supports Everything I Do’ - Breitbart
+19092,1,22 Year Old Swedish Asylum Centre Worker Stabbed To Death By Migrant - Breitbart
+19297,1,Pope Francis Calls Migration ‘the Challenge of Our Age’ - Breitbart
+19304,2,Labour Councillor Suspended For Calling Gay People ’Deviants’
+19409,1,Islamic State Targeting U.S. Air Bases In Mideast, Claims Israeli Hackers
+19467,1,Christians Told: ’Don’t Disturb The Migrants - Pray In Silence’
+19603,1,Priests for Life Father Frank Pavone Defends Faith at SCOTUS - Breitbart
+19627,6,LGBT Groups Blast Vatican for Banning Homosexuals from Seminaries
+19651,6,Dr. Alveda King To Lead Pro-Life Campaign ‘Civil Rights For the Unborn’ - Breitbart
+19715,4,Catholic Priest: Christians Have A Moral Duty To Defeat Terror
+19815,1,One Dead as Gunman Storms Catholic Monk Retirement Home in France
+19896,1,At Davos, Eric Cantor Assails Trump For His America-First Trade Policy - Breitbart
+19965,1,Nice Attack Remembrance March Banned Due To Islamist Threat
+19982,1,Dr. Sebastian Gorka: Anyone Surprised by Weekend’s Islamic Terror Attack ’Has Been Asleep for the Last Two Years’
+20065,1,Exclusive — Egyptian Leaders Praise Donald Trump, Blast Hillary Clinton After President El-Sisi Meets with Both Candidates - Breitbart
+20144,1,Katie Gorka: ’We’re Frightening Close’ to Losing Christianity in the Middle East - Breitbart
+20231,1,Notre Dame Prez Tells NCAA It Can’t Decide Morals for Schools - Breitbart
+20240,1,Sarkozy Tells Comeback Rally He Would Ban Burkini Across France
+20248,2,Muslims Who Attended Mass In France From ‘Apostate’ Sect
+20265,1,John Allen: Global War on Christianity, ‘200 million Daily at Risk’ of Assault, Torture, Death - Breitbart
+20498,1,Fearing Attacks, Catholic Church Gets Rid of Statues of Monks Beheaded By Muslims
+20499,2,Pope Francis Condemns ‘Barbarous Murder’ of Priest in Normandy
+20504,1,Lay Catholic Group: Tim Kaine’s Radical Views Stem From Embrace of Liberation Theology - Breitbart
+20916,1,French Media Censor Identities Of Terrorists - ’To Avoid Glorification’
+20940,1,Episcopal Priest: LGBTQ People Will ‘Revitalize Christianity’
+21009,4,French MP: France Should Learn From Israel In War On Terror - Breitbart
+21060,1,Italy Migrant Crisis: ‘Nigerian Women’ Forced into Prostitution
+21144,1,Thousands Attend Burial Mass for Justice Antonin Scalia - Breitbart
+21363,2,Exclusive: Religious Minorities React to Islamic State Genocide Declaration - Breitbart
+21420,1,FULL TEXT: ’A Merry MILO Christmas’ at Minnesota State University - Breitbart
+21849,2,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+22067,2,Nativity Scene Could Offend Muslims, Priest Says
+22103,1,Gays Want Church Action, Not Apologies - Breitbart
+22295,1,Pope Francis: War Is Satan’s Work, ‘There Is No God of War’
+22312,1,RIP Twitter: Milo Holds ’Funeral’ For Social Network At Florida State University - Breitbart
+22417,1,Jimmy Kimmel: Totally F**king Wrong on Climate Change
+22622,4,Rumors Denied that Kidnapped Priest Will be Crucified by ISIS on Good Friday - Breitbart
+22948,1,Breitbart News Daily: Brussels, SCOTUS, Arizona &amp Utah
+22965,1,Muslim Butchers to French Nun: "Our Attacks Will Continue Everyday" - Breitbart
+23325,1,Christmas Is Liberty from Politics
+23533,1,Normandy: Jihadist Mosque Next Door to Beheaded Priest’s Church - Breitbart
+23607,1,Paris Police Circulate Photo of Afghan Migrant Who May Be Planning Attack
+23742,1,There is a Lack of Christianity in the Church of Sweden
+23759,1,Obama Appoints Transgender Person To Advisory Faith Council - Breitbart
+23832,2,School Accused of Censoring Santa to Avoid Offending Atheists
+23946,1,FULL TEXT: 10 Things Milo Hates About Islam - Breitbart
+24161,1,Kentucky Gov. Matt Bevin Signs Abortion ‘Informed Consent’ Bill Into Law - Breitbart
+24209,1,***2016 LiveWire*** Republican National Convention Kicks Off - Breitbart
+24352,2,Islamic State Attacks On The West: The Tally So Far
+24353,4,Fake News: No, the Pope Hasn’t ‘Softened’ Teaching on Abortion
+24358,13,’Islamic State’ Chanting Attackers ’Behead’ Priest During Morning Mass In France
+24510,3,13 Dead And 6 Injured As Fire Engulfs Bar In France
+24556,1,Implicit Bias: The New ’Original Sin’ - Breitbart
+24598,1,’Milo Is A Faggot’: Westboro Baptist-Style Group Pickets RNC Gays for Trump Party - Breitbart
+24724,1,Top Vatican Exorcist Who Said ‘ISIS Is Satan’ Dead at 91 - Breitbart
+24771,1,Pro-Abortion Congressional Black Caucus Weighs Formal Condemnation of Pro-Life Rep. Sean Duffy - Breitbart
+24852,2,Ann Coulter: Media’s Outrage Should Start Working Any Day Now! - Breitbart
+24990,1,Top Cardinal: Many Catholics ‘Unnerved’ Under Pope Francis
+25005,1,Mississippi Senate Passes Bill Allowing Churches to Arm Congregants - Breitbart
+25092,1,Three More French Towns Set To Join Burkini Ban
+25183,1,LGBT-Only Migrant Centres Pop Up After Gay And Trans Refugees Experience Violence, Threats - Breitbart
+25197,4,A Look Back at Rodrigo Duterte’s Worst Profanity-Laced Tirades
+25233,1,Terror Attacks Driving Up Gun Sales In Austria, Switzerland, Czech Republic
+25457,1,Google Spotlights Activist Admirer of Osama Bin Laden - Breitbart
+25724,1,Lap Dog Bishop Defends Chinese Communists’ Removal of Christian Crosses - Breitbart
+26052,1,Tina Fey Speaks on 2016 Presidential Candidates: ’I Hate Them All’ - Breitbart
+26095,1,Glenn Beck, Call Your Office: Drudge Buries Ted Cruz in ’Holy Roller’ Avalanche - Breitbart
+26132,7,Violence Against Egypt’s Christians Escalates At Alarming Rate
+26457,2,Radical Pacifist Jesuit Priest Daniel Berrigan Dies at 94 - Breitbart
+26507,5,French Police Smash Church Doors, Throw Down Priest During Mass
+26653,1,Cologne Mayor: Women Should Be More Careful After Migrant Mass Rapes, Promises ’Guidance’ So They Can ’Prepare’
+26784,4,Archbishop of Vienna Claims Islamic State Crucified Priest on Good Friday
+26808,3,Video: Liberated Iraqi Christians Hope Trump Wins: ’Obama Abandoned Us’
+26950,1,A Country He Did Not Recognize: A Reflection on the Passing of Justice Antonin Scalia - Breitbart
+26987,1,***Horse Race LiveWire*** One Day to Super Tuesday - Breitbart
+27168,1,Glenn Beck Triples Down: ’No Real Christian Says I Want that Guy’ Donald Trump - Breitbart
+27245,1,VIDEO: Muslim Teens Detained On Suspicion Of Bombing Sikh Temple
+27323,2,China Christians Say No to Church ‘Controlled by Communist Party’
+27422,1,WikiLeaks: Catholic Church ‘Middle Ages Dictatorship,’ Need ‘Revolution’ Against Bishops - Breitbart
+27570,2,Prime Minister Thanksgiving Service: ’Our Enemy Is Secularisation, Which Flooded Europe’
+27573,1,Dr. Gorka: DNC Ignores ISIS Because Its Existence Disproves Multiculturalist Narrative
+27576,2,Ramadan Seige in Bangladesh Capital, at Least 20 Hostages
+27715,1,Pope Francis: ‘Whoever Gossips Is a Terrorist’ - Breitbart
+27760,5,Paul Ryan Bows to Nationalist Populism as His Career Flashes By
+27926,1,Christianity Grows in India Despite Anti-Christian Violence from Hindu Activists
+28026,7,Priest Stabbed After Opening His Home To ’Asylum Seeker’ Who Claimed To Be In Need
+28099,1,Al-Qaeda Denies Responsibility for Nun Massacre in Yemen
+28243,3,Islamic State Killers Forced French Priest to Kneel Before Slitting His Throat - Breitbart
+28359,6,Pope Francis Condemns Brutal Slaying of Two Mexican Priests
+28432,1,Egypt Begins Rebuilding Christian Churches Destroyed Under Muslim Brotherhood - Breitbart
+28579,1,***Horse Race LiveWire*** Summer Bummer: GOP Fight Drags on to Convention - Breitbart
+29011,1,Georgetown University Issues ‘Mea Culpa’ for Complicity in Slave-Trade - Breitbart
+29158,5,French President to Meet Pope Francis After Priest Murdered by Jihadists
+29227,2,After Terror Attacks Europe Struggles With How To Defend From The Enemy Within
+29614,1,Security at Church As ’New Clientele’ Defecate, Masturbate in Pews
+29674,1,Marion Le Pen Backs Trump, ‘Responds To People’s Hopes’
+29935,1,Exclusive - Rep. Buchanan: Obama Must Stop Syrian Refugee Surge Now - Breitbart
+30194,1,Muslims The Real Victims Of The Nice Terror Attack, BBC Explains
+30371,1,French Police Release Suspect, Hold Two In Custody Over Islamist Priest Execution
+30461,1,Majority Of French Public Backs Burkini Ban, Poll Finds
+30494,1,Pro-Life Leaders: SCOTUS Decision Striking Down Abortion Clinic Safety Standards Will Allow More Gosnells - Breitbart
+30531,1,***2016 LiveWire*** Trump: Immigration Enforcement Civil Rights Issue for Blacks, Hispanics - Breitbart
+30581,1,’At Least 2.5 Million Pilgrims At Papal Mass in Poland’ Say Organisers
+30619,2,Iraq: Christians Seek Self-Rule Following Liberation of Mosul
+30762,1,WATCH: Clueless Milo Protester Doesn’t Even Know Who Milo Is - Breitbart
+30794,3,Blue State Blues: Top 10 Biblical Kings - Breitbart
+30953,5,EXCLUSIVE: Islamic State Fighter on Normandy Attack: Many More Christians Beheaded Muslims
+31150,2,African Immigrant Arrested After Vandalizing Churches in Rome
+31224,3,Planned Parenthood President Praises Obama SCOTUS Nominee - Breitbart
+31367,1,The Nuclear Option: If Hillary ’Most Qualified,’ I’ll Take ’Unfit’ Trump - Breitbart
+31501,1,Behar: Pope ’Has to Speak Out’ About Trump to Make Up For Previous Pope Ignoring Hitler - Breitbart
+31514,2,ISIS Admits Using Migration For Terror: ’If Door of Migration Closes, Door of Jihad Opens’
+31615,1,Mark Shriver to Trump: Don’t forget about children, the poor
+31753,1,Video shows moment airport gunman opened fire
+31758,1,Fort Lauderdale suspect’s gun once held by police
+32202,1,Along the border: Hope, horror and hidden cameras
+32266,1,WH: No mention of Jews on Holocaust Remembrance Day because others were killed too
+32319,1,Spicer slams ’nitpicking’ of Holocaust statement
+32460,6,Australia: 7% of Catholic priests abused children, commission finds
+32575,1,US-led coalition targets ISIS leader in Iraq strike
+32759,2,Norma McCorvey, Roe v. Wade figure, dies
+33035,3,Report: Vatican sex abuse commission member quits
+33087,1,Being gay in Latin America: Legal but deadly
+33121,1,No tears left to cry: Voices from inside Duterte’s Davao
+33184,1,’Is this the new Filipino life?’ Manila rappers blast Duterte’s war on drugs
+33441,4,Why Jesus’ parables make us uncomfortable
+33582,1,Portland ’Dreamer’ arrested by ICE, then released on bond
+33613,1,What $100 can buy you in jail might surprise you
+33848,1,ISIS claims responsibility for Egypt church bombings
+33859,1,Egyptians unite against ISIS after church bombings
+34078,1,Aaron Hernandez murder conviction expected to be vacated by ’quirky’ rule
+34394,1,Trump signs executive order to ’vigorously promote religious liberty’
+34409,1,Donald Trump’s big, bizarre religious day
+34537,8,Police exhume priest’s body in murdered nun cold case
+34618,1,Leonard Nimoy Fast Facts
+34625,1,Pope John Paul II Fast Facts
+34740,3,Priest’s DNA does not match profile from slain nun
+34918,1,Duterte says he may expand martial law ’throughout the country’ in fight against ISIS
+35228,1,Welcome to Lebanon ... in the United States
+35845,1,Pope says Christians should apologize to gays
+35962,1, Dhaka cafe standoff: At least 13 hostages rescued
+36028,1,ISIS attack in Bangladesh shows broad reach as ’caliphate’ feels pressure
+36060,2,ISIS: 143 attacks in 29 countries have killed 2,043
+36114,1,The question Bangladesh must answer
+36327,1,Fethullah Gulen: The man blamed for coup attempt in Turkey
+36549,3,Hollande: French church attacked in name of ISIS
+36578,2,European turmoil: The new normal?
+36614,2,Muslim leaders: No burial for priest killer
+36652,1,Gulen discusses failed Turkey coup on ’GPS’
+36700,3,Pope Francis creates commission to study female deacons
+36709,1,The Philippines’ war on drugs: Outrage over extrajudicial killings
+36780,2,Bar fire kills 13 people in France’s Rouen
+36809,1,Chasing ’El Chapo’: Prison breaks, hideaways and life on the lam
+37231,3,London activists, J.K. Rowling react to burkini ban in France
+37455,1,Chicago overwhelmed by gun violence, priest says
+37457,1,Pope Francis to canonize Mother Teresa
+37486,1,Mother Teresa declared a saint by Pope Francis
+37578,3,French prosecutor: Women who planned attack were directed by ISIS
+37642,1,French PM: Terror threat is ’maximal’
+37719,1,Paralympics day seven: Highlights from Rio
+37874,1,Floating cemeteries and space burials: Asia’s futuristic take on death
+37889,1,Chicago to add almost 1,000 police to beleaguered force
+38176,1,The hypocrisy of Rudy Giuliani
+38423,2,NC flooding: How 200 neighbors became their own heroes
+38866,1,US issues Europe travel alert after France foils ISIS-linked plot
+38913,1,How to talk politics at your family holiday meal this year
+38944,1,Suspect in French knife attack arrested
+39348,1,Meet the top 10 CNN Heroes of 2016
+39357,1,Unique program helps women escape streets
+39545,2,Dwyane Wade, back in Chicago, confronts its problems
+39621,1,Eggnogs, candy canes and wreaths: The stories behind our Christmas traditions
+39622,1,Christmas reborn in Iraqi town freed from ISIS
+40013,1,Fighting death: At 75, nun’s soul still stirs for cause
+40228,1,Deadly accident on set of new Scorcese movie ’Silence’
+40237,1,Transgender man: I met with Pope Francis
+40239,1,Author of the ’Thorn Birds,’ Colleen McCullough dies
+40377,1,Jimmy Carter: Women’s rights the fight of my life
+40488,1,Leonard Nimoy, ’Star Trek’s’ Spock, dead at 83
+40744,1,Penn State frat suspended over alleged nude Facebook pictures
+41370,1,’Anne of Green Gables’ actor Jonathan Crombie dies
+41374,2,Public shaming, social media, ruined lives
+41742,2,Martyred  Archbishop Oscar Romero beatified
+41773,4,Why was I spared from Amtrak train 188’s crash?
+41823,5,Man stolen as baby reunites with mom 41 years later
+41854,1,Do Egypt’s empty animal mummies reveal an ancient scam?
+42237,5,Pope creates court to judge bishops in sex abuse cases
+42325,2,How passing the plate becomes a ’Sunday morning stickup’
+42386,1,Einstein letters fetch more than $420,000 at auction
+42407,2,Pope: ’Revolution’ needed to fight climate change
+42702,1,3 ways Pope Francis is shaking up the church
+42744,6,Pope calls greed ’the devil’s dung’
+42764,1,From ’Balloon Boy’ to heavy metal rocker
+42773,1,Pope: Poor are sacrificed on ’the altar of money’
+43384,1,Liam Neeson opens up about working with Martin Scorsese on ’Silence,’ which took 26 years to make
+44596,1,John Kasich opens up on Trump’s first 100 days, major divides in American politics, and his political future
+47062,1,Japan’s prime minister is warning world leaders about a ’Lehman-scale crisis’
+47386,1,’Game of Thrones’ fans are still hoping a character killed during the Red Wedding might come back
+48371,2,Airlines have no idea what to do when people are sexually assaulted on flights
+48662,1,Martin Scorsese’s movie that took 2 decades to make will be released this year
+48845,1,The Philippines’ president has sky-high approval ratings, but his brutal drug war could backfire
+48852,1,Donald Trump returns to his vicious primary self, and there’s nothing the RNC can do to stop him
+48969,1,Things got uncomfortably awkward after Trump jabbed Clinton at a swanky New York charity dinner
+49878,1,A Long-Lost Data Trove Uncovers California’s Sterilization Program
+49915,9,Silence Is Easier to Admire Than to Love

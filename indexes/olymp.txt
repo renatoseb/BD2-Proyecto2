@@ -1,0 +1,983 @@
+3,1,Among Deaths in 2016, a Heavy Toll in Pop Music - The New York Times
+23,1,George Michael’s Freedom Video: An Oral History - The New York Times
+49,1,Anchor Becomes the News as Megyn Kelly Leaves Fox News for NBC - The New York Times
+50,1,President Xi’s Great Chinese Soccer Dream - The New York Times
+80,1,Coal Fire, Not Just Iceberg, Doomed the Titanic, a Journalist Claims - The New York Times
+112,3,U.S. Says Russians Were Behind Cyberattacks on Antidoping Agency - The New York Times
+158,1,Russian Hackers Find Ready Bullhorns in the Media - The New York Times
+195,1,U.S. Blacklists 5 Russians, a Close Putin Aide Among Them - The New York Times
+255,1,As China Seeks Bigger Role on World Stage, Xi Jinping Will Go to Davos World Economic Forum - The New York Times
+266,3,Lawsuit Accuses Michigan Doctor of Sexually Abusing Young Gymnasts - The New York Times
+360,1,For Trump, Three Decades of Chasing Deals in Russia - The New York Times
+397,1,Brexit, Donald Trump, Chelsea Manning: Your Morning Briefing - The New York Times
+460,1,Roberta Peters, Soprano With a Dramatic Entrance, Dies at 86 - The New York Times
+462,1,Who Decides Who Counts as Native American? - The New York Times
+489,1,Melania Trump’s ‘America First’ Inaugural Wardrobe - The New York Times
+552,1,Donald Trump, ‘Brexit,’ Syria: Your Morning Briefing - The New York Times
+591,6,Usain Bolt Stripped of Gold Medal After Relay Teammate Found Guilty of Doping - The New York Times
+597,1,U.S. Team Wins Bocuse d’Or Competition for First Time - The New York Times
+674,8,Trump’s Immigration Order Could Have a Big Impact on Sports - The New York Times
+728,1,Refugees, Quebec, Rodrigo Duterte: Your Morning Briefing - The New York Times
+753,1,Trump’s Talk About Muslims Led Acting Attorney General to Defy Ban - The New York Times
+853,1,An Evolving Sports City, Atlanta Chases a Championship - The New York Times
+855,1,Assailant Near Louvre Is Shot by French Soldier - The New York Times
+887,1,Indian Teenager Begins a Lonely Climb in Women’s Golf - The New York Times
+911,7,Iran to Bar American Wrestling Team From World Cup - The New York Times
+935,1,Russia Will Probably Be Excluded From World Track and Field Championships - The New York Times
+995,11,Russians Implicated in Doping Still Compete, Angering Other Athletes - The New York Times
+1007,2,Executive Orders, Kellyanne Conway: Your Thursday Evening Briefing - The New York Times
+1035,1,Jackson Hole Ski Resort Forced to Close After ‘Unusual’ Storm - The New York Times
+1056,1,‘Hell Hath No Fury Like a Woman Warned’ - The New York Times
+1096,1,#GrammysSoWhite Came to Life. Will the Awards Face Its Race Problem? - The New York Times
+1097,1,‘More Artists Are Going to Boycott’: The Grammys Face Fallout After Fraught Awards - The New York Times
+1134,18,South Korea’s Olympian Winter Moment - The New York Times
+1153,22,Legacy of Rio Olympics So Far Is Series of Unkept Promises - The New York Times
+1226,3,U.S. Wrestlers Find They Have Passionate Fans in Iran - The New York Times
+1335,8,South Korea, Next Olympics Host, Went Shopping in North America to Build Its Hockey Teams - The New York Times
+1336,1,Cressida Dick Will Be First Woman to Lead Scotland Yard - The New York Times
+1372,1,The Anti-Trump Activist Taking On Retailers - The New York Times
+1376,3,For Marketers, TV Sets Are an Invaluable Pair of Eyes - The New York Times
+1385,10,Feyisa Lilesa, Marathoner in Exile, Finds Refuge in Arizona - The New York Times
+1395,1,One of Atlanta’s Last Stores on Wheels Navigates a World of Change - The New York Times
+1410,22,Clashing Agendas: Antidoping Officials vs. U.S. Olympics Leaders - The New York Times
+1437,6,Antidoping Officials Get an Earful From Congress: ‘What a Broken System’ - The New York Times
+1461,4,Putin Casts Doubt on Storage of Doping Suspects’ Urine Samples - The New York Times
+1512,1,Brazil’s Leaders Tout Austerity (Just Not for Them) - The New York Times
+1570,1,A Eureka Moment for Two Times Reporters: North Korea’s Missile Launches Were Failing Too Often - The New York Times
+1640,11,Do Nike’s New Shoes Give Runners an Unfair Advantage? - The New York Times
+1660,1,Ping-Pong as the Fountain of Youth - The New York Times
+1668,3,Nike Reveals the ‘Pro Hijab’ for Muslim Athletes - The New York Times
+1695,3,Vitaly Mutko, Russia’s Deputy Premier, Is Barred From FIFA Leadership - The New York Times
+1716,1,Another Woman at the March Madness Mike? That Only Took 2 Decades - The New York Times
+1797,1,Leaving Women’s Hockey to ‘Fly Under the Radar,’ as Himself - The New York Times
+1818,3,Muirfield’s Mulligan, Allowing Female Members, Is a Grudging Blow to Bigotry - The New York Times
+1927,2,Gabby Williams Soars as UConn Rolls On in N.C.A.A. Tournament - The New York Times
+1972,1,Chris Paul’s Fast Hands and Gruesome Fingers - The New York Times
+2060,1,Ariel Levy Has Written a Thoroughly Modern Memoir - The New York Times
+2080,1,Senate Committee to Question Jared Kushner Over Meetings With Russians - The New York Times
+2130,3,No Resolution in Pay Dispute Involving U.S. Women’s Hockey Team - The New York Times
+2152,16,Facing Congress, Some Sports Officials (Not All) Begin to Confront Sexual Abuse - The New York Times
+2162,4,NBC to Broadcast 2018 Olympics Live in All Time Zones - The New York Times
+2214,4,They Finally Got Paid. Now They’re Ready to Play. - The New York Times
+2270,1,Explosion in St. Petersburg, Russia, Kills 11 as Vladimir Putin Visits - The New York Times
+2274,5,South Carolina Defeats Mississippi State to Win Women’s Title - The New York Times
+2278,11,N.H.L. Says Its Players Will Not Participate in 2018 Winter Olympics - The New York Times
+2302,1,As Trump Meets Xi at Mar-a-Lago, There’s a ‘Wild Card’ - The New York Times
+2322,5,Syria, Pepsi, Stephen Bannon: Your Thursday Briefing - The New York Times
+2338,2,Long Days, Google Docs and Anonymous Surveys: How the U.S. Soccer Team Forged a Deal - The New York Times
+2356,1,Kushner Omitted Meeting With Russians on Security Clearance Forms - The New York Times
+2436,1,In the Shadow of a Fairy Tale - The New York Times
+2520,1,How David Letterman’s Mother Endeared Him to Viewers - The New York Times
+2650,1,Your Wednesday Evening Briefing: Donald Trump, J. Dennis Hastert, Ted Cruz - The New York Times
+2720,16,Two-Hour Marathon. Can It Be Done? - The New York Times
+2721,2,‘As Blacks, We Were Born as We Are’: Our Top 10 Comments - The New York Times
+2722,7,Mystery in Sochi Doping Case Lies With Tamper-Proof Bottle - The New York Times
+2726,1,Your Weekend Briefing: Transgender Rights, Donald Trump, Doping - The New York Times
+2746,1,Your Evening Briefing: Bernie Sanders, Donald Trump, Zika - The New York Times
+2747,8,Retesting of Doping Samples Could Bar Dozens From Rio Olympics - The New York Times
+2792,10,Entrusted to Save Brazil: The Party That Ruined Rio - The New York Times
+2861,1,Muhammad Ali Evolved From a Blockbuster Fighter to a Country’s Conscience - The New York Times
+2884,3,Muhammad Ali: The Champion Who Never Sold Out - The New York Times
+2897,1,Light Sentence for Brock Turner in Stanford Rape Case Draws Outrage - The New York Times
+2919,1,Muhammad Ali Was Her First, and Greatest, Love - The New York Times
+2964,1,Oscar Pistorius Is Unfit to Testify at Sentencing, Psychologist Says - The New York Times
+2980,1,Orlando, Disney, Donald Trump: Your Wednesday Evening Briefing - The New York Times
+2986,7,Among Olympians’ Zika Precautions: Fewer Guests, Frozen Sperm - The New York Times
+2997,9,In Russian Doping Scandal, Time for a Punishment to Fit the Crime - The New York Times
+2998,12,Russia’s Track and Field Team Barred From Rio Olympics - The New York Times
+2999,2,Jo Cox, Donald Trump, Golden State Warriors: Your Friday Evening Briefing - The New York Times
+3014,10,Olympic Officials Back Ban on Russian Track Team From Rio Games - The New York Times
+3034,1,Hands Off My Smiley Face: Emoji Become Corporate Tools - The New York Times
+3052,1,A Young Athlete’s World of Pain, and Where It Led - The New York Times
+3053,23,Rory McIlroy Says He Won’t Attend Olympics Over Zika Concerns - The New York Times
+3074,3,European Union, Donald Trump, Bernie Sanders: Your Friday Evening Briefing - The New York Times
+3077,4,LeBron James Opts for Summer Vacation Instead of Summer Olympics - The New York Times
+3080,2,Review: For Muhammad Ali, an Endless Round of Books - The New York Times
+3099,3,Two Defending Champions, but Two Outlooks, at Wimbledon - The New York Times
+3115,6,Atop the Gymnastics World, Simone Biles Can’t Suppress Her Grin - The New York Times
+3123,1,Pat Summitt, Tennessee Basketball Coach Who Emboldened Women’s Sports, Dies at 64 - The New York Times
+3133,18,The Humiliating Practice of Sex-Testing Female Athletes - The New York Times
+3143,1,Istanbul, Donald Trump, Boris Johnson: Your Thursday Evening Briefing - The New York Times
+3149,14,The Trio to Rio - The New York Times
+3226,2,What You Should Watch This Weekend: ‘The Night Of’ and ‘The Circus’ - The New York Times
+3253,1,Dallas, Republican Party, Britain: Your Monday Evening Briefing - The New York Times
+3287,4,Watching Doping Scandal, Fourth-Place Olympian Asks, ‘Am I a Bronze Medalist?’ - The New York Times
+3288,1,Singer at All-Star Game Adds ‘All Lives Matter’ to Canadian Anthem - The New York Times
+3308,1,The American Who Accidentally Became a Chinese Movie Star - The New York Times
+3313,1,When Is It My Turn to Talk?! - The New York Times
+3322,7,Russia’s Sports Minister Strives to Contain Damage - The New York Times
+3332,2,Republican Convention, Baton Rouge, Turkey: Your Monday Evening Briefing - The New York Times
+3334,15,Russia May Face Olympics Ban as Doping Scheme Is Confirmed - The New York Times
+3369,1,Turkey, Ted Cruz, Roger Ailes: Your Thursday Evening Briefing - The New York Times
+3370,18,Sports Court Upholds Ban on Russian Track and Field Athletes - The New York Times
+3379,2,Summer Travel and the Zika Virus - The New York Times
+3388,2,How a Hollywood Talent Agency Won Big With Sports - The New York Times
+3433,1,Are Final Clubs Too Exclusive for Harvard? - The New York Times
+3442,1,Why Hillary Clinton’s Polling Bounce Has a Better Chance to Persist - The New York Times
+3443,1,U.S. Presidential Race, Rio, William Bratton: Your Tuesday Evening Briefing - The New York Times
+3447,7,Olympic Cover-Up: Why You Won’t See Some Shoe Logos - The New York Times
+3462,2,A Miracle Mosquito Repellent Is Hard to Come By - The New York Times
+3472,21,Olympic Officials Set Russia’s Roster More Than 100 Are Barred for Doping - The New York Times
+3473,22,Olympic Spirit in Brazil? They Stoned the Torch Relay - The New York Times
+3479,12,Doping Sample Bottles, No Longer Seen as Tamper-Proof, Endure - The New York Times
+3480,3,Who Will Light the Olympic Caldron in Rio? It Won’t Be Pelé - The New York Times
+3484,1,Rio, Trump, African National Congress: Your Friday Evening Briefing - The New York Times
+3494,13,For the Rio Olympic Games, There’s No Turning Back Now - The New York Times
+3495,3,Even on NBC, Rio’s Colors Can’t Be Airbrushed Out - The New York Times
+3502,11,Michael Phelps Relishes the Cheer and Challenge of His New Reality - The New York Times
+3503,14,After Drug Tests, Is Anyone Left in the Weight-Lifting Room? - The New York Times
+3504,10,On Field and in Hometown, Neymar Tries to Change the Narrative - The New York Times
+3511,1,Donald Trump, Delta Air Lines, Michael Phelps: Your Monday Evening Briefing - The New York Times
+3515,1,At 82, Emperor Akihito of Japan Wants to Retire. Will Japan Let Him? - The New York Times
+3517,10,Rio Olympics: Drama in the Pool and a Super Tuesday - The New York Times
+3518,1,Kohei Uchimura Leads Japan to Gymnastics Gold, Dethroning China - The New York Times
+3519,3,Michael Phelps Powers U.S. to Victory in 4x100 Relay, Winning a 19th Gold - The New York Times
+3520,2,What to Cook This Week - The New York Times
+3528,3,Donald Trump, Michael Phelps, Zika: Your Tuesday Evening Briefing - The New York Times
+3530,1,Delta Malfunction on Land Keeps a Fleet of Planes From the Sky - The New York Times
+3531,13,In the Olympic Pool, Contempt for Drug Cheats Rises to the Surface - The New York Times
+3535,1,Taran Killam and Jay Pharoah Leaving ‘Saturday Night Live’ - The New York Times
+3543,16,Wealthy Donors Dangle a Huge Payday in Front of U.S. Wrestlers - The New York Times
+3544,3,Another Pool Turns Green Chemical Imbalance Is Blamed - The New York Times
+3551,3,Simone Biles, Michael Phelps, U.S. Presidential Race: Your Thursday Evening Briefing - The New York Times
+3554,7,Simone Biles Soars, Lifting Another Country With Her - The New York Times
+3555,16,Rio Olympics: Simone Manuel Makes History in the Pool - The New York Times
+3567,4,Katie Ledecky ... and Everyone Else - The New York Times
+3568,6,A Closer Look at Simone Manuel, Olympic Medalist, History Maker - The New York Times
+3569,13,Rio Olympics: A Phelps Upset, a Judo Snub, and a Bitter Goalie - The New York Times
+3570,8,A Rio Table Tennis Lament: That’s the Way the Ball Crumples - The New York Times
+3571,1,What to Cook This Weekend - The New York Times
+3580,10,The Soviet Doping Plan: Document Reveals Illicit Approach to ’84 Olympics - The New York Times
+3581,4,Katie Ledecky Smashes World Record in the 800-Meter Freestyle - The New York Times
+3582,3,Hope Solo Takes Aim at Sweden After U.S. Women Are Ousted - The New York Times
+3592,7,Justin Rose Outduels Henrik Stenson for Golf Gold Medal - The New York Times
+3597,3,Olympian’s Mother Leaves a Suitcase at Check-In, and It Is Destroyed - The New York Times
+3598,10,Rio ‘Has Never Felt So Safe.’ But What Happens After the Games? - The New York Times
+3599,1,U.S. Presidential Race, Rio Olympics, Milwaukee: Your Monday Evening Briefing - The New York Times
+3601,1,From False Alarm to Panic: Inside Kennedy Airport’s Chaotic Night - The New York Times
+3612,21,An Olympic Event Where 1st Prize Is the Chance to Lose Billions - The New York Times
+3613,3,In the Brazilian Rain Forest, ‘a White Elephant, a Big One’ - The New York Times
+3620,1,Uninhibited Chinese Swimmer, Discussing Her Period, Shatters Another Barrier - The New York Times
+3628,2,Boxing Judges and Refs Removed After Suspicious Results - The New York Times
+3629,14,Twins Finish Marathon Hand in Hand, but Their Country Says They Crossed a Line - The New York Times
+3636,4,Ryan Lochte, Gawker, Donald Trump: Your Thursday Evening Briefing - The New York Times
+3640,7,This Rio Phenom Would Be a Lock for a Gold. If There Were One for Slacklining. - The New York Times
+3654,4,Ryan Lochte Apologizes ‘for My Behavior’ After Rio Robbery Claim - The New York Times
+3655,5,The Latest on the Ryan Lochte Case - The New York Times
+3666,7,Rio Olympics: Claressa Shields Punches Her Way to Second Gold Medal - The New York Times
+3668,1,‘This Only Confirms the Image of the U.S.A.’ - The New York Times
+3678,5,U.S. Dominates Serbia in Gold Medal Basketball Game - The New York Times
+3679,6,Eliud Kipchoge of Kenya Wins Marathon Galen Rupp Takes Bronze - The New York Times
+3690,17,For Those Keeping Score, American Women Dominated in Rio - The New York Times
+3691,19,The Best and the Worst From the Rio Games - The New York Times
+3709,2,Ethiopian Runner Won’t Return Home, but Doesn’t Know Where to Go - The New York Times
+3710,27,Rio Games Highlight Problems With the Olympic Model - The New York Times
+3711,12,With Audience Shrinking, NBC Looks Cautiously to Olympics in Asia - The New York Times
+3724,3,Hackers Publish Nude Pictures on Leslie Jones’s Website - The New York Times
+3749,4,Venus Williams, Off the Court - The New York Times
+3750,4,Serena Williams and Novak Djokovic Sit Atop U.S. Open Draw, With Injuries Sharing Spotlight - The New York Times
+3751,6,Mónica Puig, Puerto Rico’s Favorite Daughter (and Only Gold Medalist) - The New York Times
+3789,1,Colin Kaepernick’s Anthem Protest Underlines Union of Sports and Patriotism - The New York Times
+3836,2,Focused on Singles, Jack Sock Delivers a U.S. Open Upset - The New York Times
+3854,1,Muslim Gathering Laments a ‘Normalization of Bigotry’ - The New York Times
+3930,1,Angelique Kerber, With a U.S. Open Win, Solidifies Her Claim on No. 1 Status - The New York Times
+3936,13,10-Month Ban for Ryan Lochte After Rio Scandal Is Largely Symbolic - The New York Times
+3947,1,N.F.L.: Here’s What We Learned in Week 1 - The New York Times
+3964,4,Simone Biles and Williams Sisters Latest Target of Russian Hackers - The New York Times
+4096,4,Ed Temple, Track Coach Who Produced Olympians and National Titles, Dies at 89 - The New York Times
+4111,1,Hackers Trawl User Data in Hopes a Small Target Will Lead to a Big One - The New York Times
+4116,1,Arnold Palmer, the Magnetic Face of Golf in the ’60s, Dies at 87 - The New York Times
+4137,2,Chris Bosh’s Desire to Play Leaves Heat at an Ethical Crossroads - The New York Times
+4144,1,New York Tonight: A Fatal Blast in the Bronx, and a Bullet in Brooklyn - The New York Times
+4198,1,What New York Can Learn From Barcelona’s ‘Superblocks’ - The New York Times
+4300,2,Billy Bush Negotiating Exit From NBC After Lewd Tape - The New York Times
+4302,1,Pentagon Confronts a New Threat From ISIS: Exploding Drones - The New York Times
+4357,1,Biden Hints at U.S. Response to Russia for Cyberattacks - The New York Times
+4368,1,New York Road Runners to Extend Doping Tests to Lower-Tier Races - The New York Times
+4437,1,Halloween, Instagram Style - The New York Times
+4450,1,When Gluttony Dons Racing Shoes - The New York Times
+4451,1,A Traumatized Brain That Helped Heal a Broken Heart - The New York Times
+4463,1,‘The Crown’ Episodes 1 and 2: Stiff Lips, Warm Heart - The New York Times
+4554,2,Canada’s Gay Curling Leagues Take Pride on Ice - The New York Times
+4649,2,Pope Francis, Trump, Japan: Your Tuesday Briefing - The New York Times
+4717,3,Potential Conflicts Around the Globe for Trump, the Businessman President - The New York Times
+4815,11,Sammy Lee, First Asian-American Man to Earn Olympic Gold, Dies at 96 - The New York Times
+4902,12,Report Shows Vast Reach of Russian Doping: 1,000 Athletes, 30 Sports - The New York Times
+4964,2,Baseball Outlaws Hazing Ritual That Forces Rookies to Dress as Women - The New York Times
+4984,1,When Politics Became a Fashion Statement - The New York Times
+4993,1,Craig Sager, Colorful N.B.A. Sideline Reporter, Dies at 65 - The New York Times
+5076,1,Aleppo, Berlin, Donald Trump: Your Morning Briefing - The New York Times
+5118,1,‘Suplex’ in Chinese? Professional Wrestling Tries a Big New Market - The New York Times
+5133,1,Mobster’s Daughter, Writer, Murder Victim: Woman at Center of Durst Trial - The New York Times
+5160,15,Russians No Longer Dispute Olympic Doping Operation - The New York Times
+5162,2,85-Year-Old Marathoner Is So Fast That Even Scientists Marvel - The New York Times
+5282,4,Russia Denies Doping at Sochi Olympics - The New York Times
+5300,2,Your Evening Briefing: Bernie Sanders, Donald Trump, Boko Haram - The New York Times
+5303,6,I.O.C. President Says Russian Federations Could Be Barred - The New York Times
+5352,1,In Muhammad Ali, an Example of a Truer Kind of Bravery in Sports - The New York Times
+5358,2,Muhammad Ali Remembered, by Those Who Knew Him as Cassius - The New York Times
+5363,1,A Biased Judge? Donald Trump Has Claimed It Before - The New York Times
+5403,1,Court Papers Give Insight Into Stanford Sex Assault - The New York Times
+5413,1,Oscar Pistorius Removes His Artificial Legs at Sentencing Hearing - The New York Times
+5422,4,Olympic Ban Adds to Russia’s Culture of Grievances - The New York Times
+5428,2,Why ‘Transcending Race’ Is a Lie - The New York Times
+5447,10,After Russian Ban, I.O.C. President Addresses Antidoping Efforts - The New York Times
+5448,1,Hillary Clinton, Donald Trump, Cleveland Cavaliers: Your Wednesday Evening Briefing - The New York Times
+5459,1,What You Should Watch: ‘Please Like Me’ and Films Leaving Netflix - The New York Times
+5462,1,Trump Packs His Blunt Phrase Book Abroad - The New York Times
+5484,13,Jason Day, World’s Top Golfer, Pulls Out of Olympics Over Zika Fears - The New York Times
+5496,2,Istanbul, Hillary Clinton, Loretta Lynch: Your Friday Evening Briefing - The New York Times
+5502,1,Luck Runs Out for a Leader of ‘Brexit’ Campaign - The New York Times
+5524,1,Oscar Pistorius Sentenced to 6 Years in Reeva Steenkamp Murder - The New York Times
+5544,2,Andy Murray Beats Milos Raonic to Win Second Wimbledon Title - The New York Times
+5578,7,Antidoping Officials Are Expected to Ask That Russia Be Barred From Rio Olympics - The New York Times
+5639,3,Donald Trump, Hillary Clinton, Zika Virus: Your Tuesday Briefing - The New York Times
+5641,11,As ISIS Posts in Portuguese, U.S. and Brazil Bolster Olympics Security - The New York Times
+5655,13,Katinka Hosszu and Her Husband Raise Eyebrows at the Pool - The New York Times
+5658,2,U.S. Presidential Race, Rio Olympics, London: Your Thursday Evening Briefing - The New York Times
+5660,13,Tegla Loroupe Gives Refugee Olympians a Lesson in Hope - The New York Times
+5664,11,Ruling May Allow Russia to Add Seven Athletes - The New York Times
+5674,6,Rio Olympics: Here’s What Happened Saturday - The New York Times
+5675,2,‘He Wasn’t Profiteering During the Conflict’ - The New York Times
+5678,6,Expulsions of Protesters at Rio Olympics Draw Rebukes - The New York Times
+5685,4,Katie Ledecky Smashes Her Own World Record in 400 Freestyle - The New York Times
+5690,2,U.S. Women Jump, Spin and Soar to Gymnastics Gold - The New York Times
+5691,16,Brazilians Speak Portuguese, but the Olympics Must Use French - The New York Times
+5693,6,Rio Olympics: Here’s What Happened Wednesday - The New York Times
+5696,1,Speculation Ends: Date and Venue Set for World Chess Championship in New York - The New York Times
+5700,1,In Michigan, Hillary Clinton Calls Donald Trump Enemy of ‘the Little Guy’ - The New York Times
+5705,1,Meet the Greenland Shark. It Could Be the Longest-Living Vertebrate. - The New York Times
+5707,1,Hillary Clinton, Donald Trump, Vladimir Putin: Your Friday Evening Briefing - The New York Times
+5712,3,Maya DiRado, Exiting the Sport, Catches Katinka Hosszu and Grabs Gold - The New York Times
+5716,12,Ryan Lochte and Three Teammates Robbed at Gunpoint - The New York Times
+5717,5,An American Stands on the Shoulders of a Gladiator - The New York Times
+5723,5,Gabby Douglas Defends Herself Against the Wrath of Social Media - The New York Times
+5726,2,Louisiana, Simone Biles, U.S. Presidential Race: Your Tuesday Evening Briefing - The New York Times
+5728,1,It’s a Bird! No, It’s a Crocodile! Synchronized Swimming Themes Can Be Mystifying - The New York Times
+5730,1,On Gulf Coast Flooding, The Times Is Late to the Scene - The New York Times
+5736,15,American Swimmers Pulled Off Plane in Rio - The New York Times
+5740,15,U.S. Swimmers’ Disputed Robbery Claim Fuels Tension in Brazil - The New York Times
+5741,1,U.S. Basketball Team Muffles Argentines, if Not Their Fervent Fans - The New York Times
+5748,8,Marveling at the Soaking Wet Rockettes of the Olympics - The New York Times
+5749,1,An Aging Boy Band Calls It Quits, but Japan Can’t Let Go - The New York Times
+5751,3,How Do You Tell a Better Story in Sports? - The New York Times
+5752,9,Brazil Gets an Ounce of Revenge on Germany - The New York Times
+5753,20,At the Olympics, the Thrill of Victory, the Agony of Defeat and the Lure of the Dance Floor - The New York Times
+5755,12,How to Link Rio Games’ Top Stories: Just Add Water - The New York Times
+5762,3,Ryan Lochte Dropped by Speedo USA and Other Retailers - The New York Times
+5767,1,Obama Visits Louisiana Flood Victims, but Some Are Busy Just Hanging On - The New York Times
+5771,6,Court Upholds Doping-Related Ban on Russia at Paralympics - The New York Times
+5773,26,With the Olympics Over, Six Former Host Cities Worth Visiting - The New York Times
+5787,4,Williams Sisters Could Be in Step for Semifinal Showdown at U.S. Open - The New York Times
+5800,2,Japan’s $320 Million Gamble at Fukushima: An Underground Ice Wall - The New York Times
+5839,1,Rafael Nadal Upset by Lucas Pouille in Fourth Round of U.S. Open - The New York Times
+5885,3,As Colin Kaepernick’s Gesture Spreads, a Spirit Long Dormant Is Revived - The New York Times
+5894,3,Protesters Disturb Ryan Lochte’s Debut on ‘Dancing With the Stars’ - The New York Times
+5901,2,Alicia Keys and the ‘Tyranny of Makeup’ - The New York Times
+5904,2,Review: The Smithsonian African American Museum Is Here at Last. And It Uplifts and Upsets. - The New York Times
+5985,10,Tax Break for Olympic Heroes? A Sole Lawmaker Says No - The New York Times
+5993,1,‘The Girl on the Train’ Takes the Fast Track From Book to Screen - The New York Times
+6086,4,U.S. Athletes Reassured After New Russian Hack - The New York Times
+6141,7,Mary Keitany of Kenya Wins 3rd Straight New York City Marathon - The New York Times
+6157,1,Saving Refugees on the Mediterranean: a Luxury Yacht With a New Purpose - The New York Times
+6234,5,How to Avoid Drug Testing in Russia: Radio Silence and Secure Perimeters - The New York Times
+6240,2,Donald Trump, Pope Francis: Your Monday Evening Briefing - The New York Times
+6289,3,Holocaust-Themed Ice Dance in Russia Draws Condemnation - The New York Times
+6290,2,Two Black Women Embrace Their Chance to Be Hockey Role Models - The New York Times
+6292,1,Donald Trump, Colombia, Fidel Castro: Your Wednesday Briefing - The New York Times
+6294,2,Chapecoense Soccer Team’s Plane Crashes, Leaving Brazil Devastated - The New York Times
+6356,1,Aleppo, Donald Trump, Pakistan: Your Thursday Briefing - The New York Times
+6360,1,Donald Trump Is Time’s Person of the Year, to No One’s Surprise - The New York Times
+6393,1,If the Pool Is Warm in Paris, Thank the Washing Machine - The New York Times
+6450,1,The East Lobs a Blockbuster-Hopeful to the West With ‘The Great Wall’ - The New York Times
+6539,17,With Brazil in Turmoil, Rio Counts Down to Olympics - The New York Times
+6561,2,Justice Department Opens Investigation Into Russian Doping Scandal - The New York Times
+6589,1,President Obama’s Statement on Muhammad Ali - The New York Times
+6617,26,Even With Confession of Cheating, World’s Doping Watchdog Did Nothing - The New York Times
+6642,17,Seeking Answers, Michael Phelps Finds Himself - The New York Times
+6717,5,Dissecting the Russian Doping Inquiry - The New York Times
+6724,10,Concerned About Zika, More Top Tennis Players Are Skipping Olympics - The New York Times
+6726,1,N.B.A. to Move All-Star Game From North Carolina - The New York Times
+6727,5,Brazil Arrests 10 in Terror Plot as Olympics Near, Officials Say - The New York Times
+6744,13,The Bedazzling of the American Gymnast - The New York Times
+6748,11,Lest We Forget, the U.S., Too, Spent Time in the Doping Wilderness - The New York Times
+6752,3,U.S.A. Basketball Is Already Cruising in Rio. Now, to Take the Court. - The New York Times
+6754,11,Rio Olympics Today: U.S. Swimmers Restock Their Trophy Case - The New York Times
+6768,2,Michael Phelps Puts His Game Face On, and What a Face It Is - The New York Times
+6769,1,It’s Official: Simone Biles Is the World’s Best Gymnast - The New York Times
+6774,1,The Playlist: Barack Obama’s Summery Playlists and Green Day’s Fiery Return - The New York Times
+6776,11,Rio Olympics: Green Pools Caused by Hydrogen Peroxide Dump - The New York Times
+6777,4,‘What Is Best About America’ - The New York Times
+6779,21,Officials Spent Big on Olympics, but Rio Natives Are Paying the Price - The New York Times
+6780,3,This Great-Grandmother Coaches an Olympic Champion. Now Let Her By. - The New York Times
+6785,9,João Havelange, Who Built and Ruled World Soccer With Firm Hand, Dies at 100 - The New York Times
+6787,2,Louisiana, U.S. Presidential Race, Ryan Lochte: Your Wednesday Evening Briefing - The New York Times
+6788,11,Rio Olympics: U.S. Basketball, Swimmers Detained, and the Women’s 200 - The New York Times
+6794,3,Zika, U.S. Presidential Race, Ryan Lochte: Your Friday Evening Briefing - The New York Times
+6799,11,Where One Olympic Medal Is a Lot Better Than None - The New York Times
+6802,1,U.S. Presidential Race, Ryan Lochte, Rio de Janeiro: Your Monday Evening Briefing - The New York Times
+6803,25,Reflections From Rio - The New York Times
+6813,1,Why’d You Do That? How The Times Decides to Send News Alerts - The New York Times
+6817,2,The Electric, Infuriating Nick Kyrgios - The New York Times
+6818,1,‘Isn’t It Also Against Her Freedom of Choice?’ - The New York Times
+6874,1,Hillary Clinton, Syria, World Anti-Doping Agency: Your Tuesday Evening Briefing - The New York Times
+6878,1,A $150 Million Stairway to Nowhere on the Far West Side - The New York Times
+6973,1,James Cartwright, Ex-General, Pleads Guilty in Leak Case - The New York Times
+7033,1,Zika Is No Longer a Global Emergency, W.H.O. Says - The New York Times
+7052,1,Trump to Accept Inauguration Funds From Corporations and Big Donors - The New York Times
+7064,6,Under Fidel Castro, Sport Symbolized Cuba’s Strength and Vulnerability - The New York Times
+7106,1,Donald Trump, Russia, Aleppo: Your Friday Evening Briefing - The New York Times
+7119,3,Entering Cage, Gold Medalist Kayla Harrison Helps a Show Become a Sport - The New York Times
+7141,1,Roger Federer Welcomes the End ... Of a Layoff, Not His Career - The New York Times
+7168,2,Carrie Fisher, Russia, Shinzo Abe: Your Wednesday Briefing - The New York Times
+7189,1,Earning the ‘Woke’ Badge - The New York Times
+7234,2,Muhammad Ali Fans Pay Homage to Their Local Hero - The New York Times
+7258,5,Ryan Lochte, ’12 Olympic Champion, Misses Rio Cut in 400 I.M. - The New York Times
+7263,1,Turkey Says Airport Bombers Were From Kyrgyzstan, Russia and Uzbekistan - The New York Times
+7306,4,Spotted in Rio: Gisele Bündchen, Bermuda Shorts, and Michael Phelps as a Lightning Bug - The New York Times
+7326,10,For the Spotlight? Ryan Lochte Was Ready to Do Anything - The New York Times
+7328,1,Zika, Olympics, U.S. Presidential Race: Your Weekend Briefing - The New York Times
+7335,3,A Motivational Tool: Believing That Tennis’s Big Four Era Is Over - The New York Times
+7345,5,A Paralympian Races to Remove Obstacles for the Next Generation - The New York Times
+7348,1,U.S. Open Quieted Those Calling for a Roof. Now It Faces a Louder Problem. - The New York Times
+7354,1,U.S. Open Today: Andy Murray Falls Serena Williams Survives - The New York Times
+7385,1,Presidential Debate, Chris Christie, U.S. Senate: Your Tuesday Evening Briefing - The New York Times
+7439,1,Leonard Cohen, Epic and Enigmatic Songwriter, Is Dead at 82 - The New York Times
+7453,17,Olympics History Rewritten: New Doping Tests Topple the Podium - The New York Times
+7526,1,Wife and Her Lover Are Arrested in Killing of Greek Envoy in Brazil - The New York Times
+7532,4,Wrestling Propelled Hastert’s Career, and Provided Opportunity for Abuse - The New York Times
+7539,6,Russian Official Apologizes for Doping Problem but Says Athletes Shouldn’t Be Barred - The New York Times
+7549,5,Muhammad Ali Dies at 74: Titan of Boxing and the 20th Century - The New York Times
+7563,12,Rio Drug-Testing Lab Is Suspended by Antidoping Regulator - The New York Times
+7574,1,Donald Trump Keeps Distance in G.O.P. Platform Fight on Gay Rights - The New York Times
+7588,4,A Young Syrian Torchbearer Highlights Brazil’s Embrace of Refugees - The New York Times
+7589,1,For This Choreographer, the Olympics Are the Zenith - The New York Times
+7590,3,And the Rio Crowd Goes Crazy! For Whatever! - The New York Times
+7591,7,Rio Olympics: Diving Pool Turns Green, and U.S. Swimmers Find Gold - The New York Times
+7592,3,U.S. Presidential Race, Baltimore, Olympics: Your Wednesday Evening Briefing - The New York Times
+7593,12,At Rio Olympics, the National Anthem Sounds … Sad? - The New York Times
+7594,1,Green Water Lingers in Olympic Pools as the Excuses Pile Up - The New York Times
+7595,7,For Simone Manuel, Gold Ripples Beyond the Pool - The New York Times
+7607,4,Dark Horses Abound at the United States Open - The New York Times
+7619,4,Norbert Schemansky, Who Won Weight-Lifting Gold but Little Applause Back Home, Dies at 92 - The New York Times
+7644,14,Russian Olympic Chief to Step Down Putin Hints at Other Changes - The New York Times
+7663,1,Battle Lines Over Trump’s Lands Policy Stretch Across 640 Million Acres - The New York Times
+7689,1,Asian-American Actors Are Fighting for Visibility. They Will Not Be Ignored. - The New York Times
+7728,10,Rio Olympics: Shaunae Miller Dives to Gold in 400 Meters - The New York Times
+7731,2,Ethiopian Marathoner’s Protest Puts Him at Odds With His Government - The New York Times
+7769,12,U.S. Athletes Weigh a Boycott Over Russian Doping - The New York Times
+7797,9,Rio Olympics: Ashton Eaton and Usain Bolt Defend Titles - The New York Times
+8742,1,Miracle Diet: UFC Champ Daniel Cormier Loses 1.2 Pounds in 2.5 Minutes - Breitbart
+9018,1,Judd Apatow: I Feel Like I’ve Been ’Raped’ by Trump
+9084,1,A Round with Rory McIlroy on St. Patrick’s Day Weekend - Breitbart
+9344,2,Michael Phelps Makes Political Super Bowl Pick - Breitbart
+9641,1,Report: Caitlyn Jenner Feels ’Liberated’ after Sex Reassignment Surgery
+9758,1,Caitlyn Jenner Warns Trump: You ’Mess’ with LGBT Community, ’I’m Coming After You’
+9818,1,Sundance Horror Hit Casts ’Liberal Elite’ as the Monster
+9923,1,Matteo Salvini: Europe ’Soft’, Islam Incompatible with Our Values
+10244,1,FULL TEXT – MILO at Cal Poly State University: ’No More Dead Babies’ - Breitbart
+10606,4,Paris Attack Raises New Security Concerns Over Olympics - Breitbart
+10747,7,Trump Doing More to Help Los Angeles’ Olympic Bid Than Obama, According to Head of LA Host Committee - Breitbart
+10798,1,Total Vetting Fail: Left-Wing Snowden Fan Girl Reality Winner Gets Access to Our NSA Secrets
+11307,1,NBC News Releases First Promo for ’Sunday Night with Megyn Kelly’ (Video)
+11818,2,UN Signs Up Syrian Olympic Swimmer to Shine Light on Refugees - Breitbart
+11869,2,NBC Reviving ’Must-See TV’ Thursdays with ’Will &amp Grace’ - Breitbart
+12468,8,L.A. Olympics CEO: Trump More Helpful than Obama - Breitbart
+12960,1,Caitlyn Jenner ‘Destroyed’ by Trump’s Decision on Bathroom Privacy Rules - Breitbart
+13191,3,Muslim-American Olympian Who Claimed to be Detained Because of Trump Travel Ban was Detained Under Obama - Breitbart
+13287,13,Study: 2024 Olympics Would Boost L.A. Economy by $9.5 Billion
+13368,1,Ratings: ’Sunday Night with Megyn Kelly’ Premiere Loses to Rerun of ’60 Minutes’ in Total Viewers
+13384,1,’Icon’ Colin Kaepernick Named to ’Time’ 100 Most Influential People List - Breitbart
+13406,1,Even ’New York Times’ Notes ESPN’s Leftward Leaning Coverage - Breitbart
+13433,10,Los Angeles Olympics on the Way, Just a Matter of When - Breitbart
+14121,1,Ann Coulter: Let’s Make Russia Our Sister Country!
+14180,1,Ronda Rousey is Defeated 48 Seconds into Comeback at UFC 207 - Breitbart
+14252,1,2016 Gave Us 262,800 ’Two Minutes Hates.’ Some Lasted Longer Than Others. - Breitbart
+14347,1,Report: Even Trump’s Twitter Use Can’t Save Platform’s Falling Numbers - Breitbart
+14361,1,In Trump White House, Wildcard Putin Faces First Assertive America of His Career - Breitbart
+15278,2,Biological Male Transgender Volleyball Player Made Eligible to Compete in Women’s Volleyball, May Qualify for Olympics - Breitbart
+15371,2,Disbelief Greets Revelation Jeremy Corbyn Attended Graveside Wreath-Laying for Palestinian Terror Chief
+15586,1,WATCH: Her Majesty Urges Britons to Follow ’Christ’s Example’
+15598,6,Brazil Probes Second Islamic State Fan Ring
+15609,1,Social Media Society, Not Daily Beast, Should be Shamed
+15654,1,U.S. Soccer Strikes Back at Women’s Bias Charges, Says Men Generate More Money - Breitbart
+15731,1,Former Guantánamo Detainee Arrested for Ties to Istanbul Airport Attack
+15756,1,Leonardo DiCaprio Bows Out of Hillary Clinton Fundraiser - Breitbart
+15914,10,IOC Finds 31 Dirty Drug Tests from London Olympics - Breitbart
+15943,8,Coca-Cola, Procter &amp Gamble Will Not Sponsor Pro-Second Amendment Olympian
+15991,1,Broncos Tackle Russell Okung Tells Colin Kaepernick ’Know That We See You, Man’ - Breitbart
+16037,1,Ward Stuns Kovalev to Claim Light Heavyweight Crown - Breitbart
+16154,3,Lebron James Won’t Play in Rio Olympics - Breitbart
+16192,4,Olympian Gabby Douglas on Zika: ’I Don’t Care About No Stupid Bugs’ - Breitbart
+16197,2,Al-Qaeda Said to Urge Attacks on Israeli Athletes at Rio Games
+16234,1,Live Updates - Terror in Orlando: Approximately 50+ dead, 50+ More Wounded at Gay Nightclub - Breitbart
+16310,6,Rio’s ’Sustainable’ Olympics Are Just Lipstick On A Pig
+16338,6,First Time Ever All Refugee Olympic Team Heading to Summer Games - Breitbart
+16425,1,Betsy McCaughey: Olympics in Brazil Will Spread Zika ’Around the World’ - Breitbart
+16517,7,NYU Medical Expert Demands Brazil Delay Olympics over Zika
+16544,5,Donald Trump on President Obama: ’He’s Incompetent’ - Breitbart
+16659,1,Experts: Zika Vaccine a Decade Away, but Emergency-Use Version May Exist by 2016
+16821,5,Netanyahu Praises Bronze Medal Judoka For Showing ’Beautiful, Strong’ Israel
+16830,3,Report: Lebanese Olympics Team Wouldn’t Allow Israelis to Board Shared Bus - Breitbart
+16850,1,Louisiana Flood Victims See Less Public Support Compared to Sandy, Katrina
+16867,1,Nigel Farage Shortlisted for TIME Person of the Year Award
+16947,4,LeBron James Named AP Male Athlete of Year - Breitbart
+16973,3,Olympic Kayaker Possibly Capsized by Couch in Rio de Janeiro - Breitbart
+17125,4,Multiple Shooters Reported Active In Munich Mall Terror Shooting — Six Reported Dead
+17201,2,Venus Williams Knocked Out of Olympics in Singles - Breitbart
+17236,1,Brazil Says Zika Virus Outbreak Worse than Believed - Breitbart
+17243,1,Ellen DeGeneres Accused of Racism Over Usain Bolt Meme - Breitbart
+17312,1,Zika Fears Force Pirates-Marlins Games from Puerto Rico - Breitbart
+17373,1,Abby Wambach: ’Feels a Little Bit Odd’ for Foreigners to Play for U.S. National Team - Breitbart
+17571,1,Watch: Donald Trump Gives Foreign Policy Speech in Washington, D.C. - Breitbart
+17604,1,Brazil to Sterilize Zika Mosquitoes with Radiation
+17647,1,Rosie O’Donnell Restarts Feud with ’Orange Slug’ Donald Trump - Breitbart
+17690,1,Athletes Sing David Bowie’s Praises - Breitbart
+17811,4,NBC Defends Downward Spiral in Ratings for Rio Games - Breitbart
+17831,5,German Olympic Coach Dies Following Car Accident in Rio - Breitbart
+17843,1,The World’s Fastest Man Has Never Run a Mile - Breitbart
+17873,2,Legendary College Basketball Coach Pat Summitt Passes Away - Breitbart
+17998,4,Brazilian Doctor on Rio Games: ’Foreign Athletes Will Literally Be Swimming in Human Crap’ - Breitbart
+18135,1,Brazilian Man Arrested After Attempting to Extinguish Olympic Flame - Breitbart
+18217,5,Bike Lane Built for Olympics in Rio Collapses, Killing Two
+18465,4,Brazil: 30 Men Gang Rape 16-Year-Old, Post Photos on Social Media
+18663,1,TV Watchdog Blasts MTV for ’Sexualizing’ Women at VMAs - Breitbart
+18698,1,Gold Medal Olympic Shooter Criticizes California Gun Control
+18867,4,Pakistani Man Arrested for Alleged Plot to Bomb Brasilia Airport
+18889,3,’Pokemon Go’ Most Searched Term on Google for 2016, Donald Trump Most Searched Person - Breitbart
+18972,1,It’s Official: Brazil Ousts Impeached President Dilma Rousseff
+19032,1,Women’s Soccer Star Megan Rapinoe Joins Colin Kaepernick in Taking a Knee During Anthem - Breitbart
+19239,24,The Rio Olympics: Another Embarrassing Mess From Incompetent Globalists - Breitbart
+19487,3,Russia Denies Claim That Russian Diplomat Shot, Killed Man Near Rio Olympic Village
+19507,1,London’s East End ’Like Baghdad’, As Cockney Culture Dies Out
+19602,7,Russian Track and Field Team Banned from Olympics After Appeal Loses - Breitbart
+19867,18,Olympics Committee Confirms: No Canceling Games over Zika
+20019,4,IOC to Probe Egyptian Judoka’s Refusal to Shake Israeli’s Hand
+20227,1,Zika Cases Appearing Coast to Coast, Nearly All Travel-Related
+20260,1,Ted Cruz On Corruption, and the Democrat Devastation of Detroit - Breitbart
+20285,5,Rio Robber Killed with Own Gun Near Olympic Park by ‘Russian Diplomat’? - Breitbart
+20447,4,NYT: U.S. Flew Brazilian Anti-Terror Agents to Super Bowl for Training
+20470,1,Winner-Take-All Arizona Primary and Majority-Take-All Utah Caucus May Determine Trump’s First Ballot Nomination Chances - Breitbart
+20578,8,Russian Track and Field Team Banned from Olympics for Doping - Breitbart
+20640,15,Five Crazy Crimes That Have Occurred at Rio Olympics -- Already
+20659,1,Bill Clinton Aide Asked State Dept to Do Favor for Foundation Friend Bono - Breitbart
+20766,12,Protesting Teachers Extinguish Olympic Torch in Rio de Janeiro - Breitbart
+20865,1,U.S. Gov’t Sends ’1,000 Spies’ to Help with Olympics Security - Breitbart
+20888,4,Australian Basketball Star Andrew Bogut Tweets Dismal Living Conditions at Rio’s Athlete Village - Breitbart
+20973,1,Whoopi Defends Kaepernick - ’We’re Still Protesting the Same Thing’ as 1968 - Breitbart
+21007,4,Human Foot Washes Ashore at Rio’s Copacabana
+21038,2,U.S. Public Health Official: Louisiana Flooding Could Help Spread Zika - Breitbart
+21043,1,Stephen Curry Supports Colin Kaepernick - Breitbart
+21124,1,Bruce Jenner: Donald Trump Better Than Hillary Clinton on Women’s Issues - Breitbart
+21220,1,’The Man in the High Castle’: Facilitating China’s Information War - Breitbart
+21280,6,Israeli Athletes in Rio Endure ‘Shocking’ Hostility by Muslim Nations
+21290,5,Palestinian Swimmer Lied About Israel Keeping Her From Olympic-Sized Pools
+21464,1,Megan Rapinoe’s Plan to Kneel During National Anthem Foiled by Veteran-Owned Soccer Club - Breitbart
+21554,3,Gold Medalist Katie Ledecky: ‘My Catholic Faith Is Very Important to Me’
+21606,4,Olympian Kim Rhode Offers To Educate Gavin Newsom On Firearms - Breitbart
+21664,5,USA Today: Rio Police Lying About Ryan Lochte Gas Station Encounter - Breitbart
+21724,2,MLB Bans Hazing Ritual of Dressing Up Rookies as Women - Breitbart
+21943,1,Supporters, Protesters Clash Outside Trump Rally in Utah - Breitbart
+22002,1,Singapore Rolling Out Driverless Pods for Public Transportation - Breitbart
+22273,1,A Harsh New Reality May Await El Chapo in Colorado’s Supermax Prison - Breitbart
+22299,1,WATCH: Bruce Jenner learns how to Fake ’Gender Free’ Orgasm - Breitbart
+22412,1,Leading British Horserider Suffers ’Terrifying’ Attack at Calais
+22572,3,Second Rio Olympic Pool Mysteriously Turns Swamp Green - Breitbart
+22612,5,Jordan Spieth Joins Top Golfers in Rebuffing Olympics - Breitbart
+23052,4,Brazil Nears 100,000 Zika Cases Less Than 100 Days from Olympics
+23127,5,Rio de Janeiro: Security Guard Rapes Female Firefighter in Olympic Village - Breitbart
+23231,1,Men-Only Swimming At Public Luton Pool A ’Cultural Thing’
+23268,6,’I’m F*cking Up the Anthem!’: NBC Invites Leslie Jones to Rio for Olympics Commentary - Breitbart
+23348,1,Breitbart News Daily: Battle for New Hampshire — Carly, Ed Klein, Ambassador John Bolton - Breitbart
+23528,1,Philippines: Duterte Says No to ’Stupid’ Climate Change Deal
+24074,2,Olympic Committee Scolds Lebanese Delegation for Barring Israeli Athletes From Bus - Breitbart
+24118,1,Paul McCartney Meets Privately with Hillary Clinton: ’She’s With Me’ - Breitbart
+24165,1,WATCH: Israeli Judoka Beats Egyptian Rival Who Refuses to Shake His Hand
+24427,1,Islamic State Magazine Showcases Caribbean Jihadis
+24570,7,Rio Officials Turn on Ryan Lochte After Robbery Embarrasses Olympic Security - Breitbart
+24601,5,Chinese Outraged by Incorrect Flags (Shhh! Made in China) Flying at Rio Olympics - Breitbart
+24629,15,Olympics Add Refugee Team For Rio Games - Breitbart
+24715,1,FULL TEXT: ’How To Destroy The Alt Right’ By MILO - Breitbart
+24776,9,Olympics: Brazilian Soldier Killed After GPS Leads Him to Favela
+24806,6,The Pseudohistory, Preachy Environmentalism, and Multiculturalist Pageantry of Rio’s Opening Ceremonies - Breitbart
+24854,3,Vladimir Putin Orders Creation of New Anti-Doping Commission - Breitbart
+24956,3,China Forcing 9,000 People from Their Homes to Make Room for World’s Largest Radio Telescope - Breitbart
+25010,3,Tax Breaks For Olympic Medalists? No Thanks! - Breitbart
+25227,13,Zika Might Keep U.S. Goalkeeper Hope Solo out of the Olympics
+25252,4,Rio Shakedown: U.S. Swimmers Allowed to Leave with $11,000 Payment - Breitbart
+25263,1,Kobe Bryant Channels Ayn Rand in Warning Against ’Extremely Selfish’ Generosity That Holds Relatives Back - Breitbart
+25397,1,Hillary Collects Hollywood Cash at Haim Saban’s Beverly Hills Mansion - Breitbart
+25410,1,Gabrielle Douglas: ’I Never Meant Any Disrespect’ for Not Placing Hand over Heart - Breitbart
+25609,4,Zika Prompts Pregnant NBC Anchor Savannah Guthrie to Pass on Olympics Assignment - Breitbart
+25625,5,Second Olympic Boxer Faces Sexual Assault Allegations Against Housemaids at Athlete’s Village - Breitbart
+25658,3,Zika Economics: Brazil Calls Emergency Mercosur Meeting
+25659,8,Rio de Janeiro Governor: Olympics May Be ’Big Failure’
+25886,12,Rio Declares Fiscal Emergency Before Olympics
+25938,3,Zika-Carrying Mosquito Brings Yellow Fever Epidemic to Congo
+25975,1,Solitary Tiger Sizzles with 65 in Second Comeback Round - Breitbart
+26041,1,FS1’s Cowherd: Trump, Hillary to Blame for Low NFL Ratings - Not National Anthem Protests - Breitbart
+26053,4,ESPN Lauds Castro’s Impact on Sports - Breitbart
+26137,3,Rough Start: Bolt Cutters Open Olympic Stadium After Officials Lose Keys - Breitbart
+26546,4,Obama Credits U.S. Olympic Success to Immigrants ’Coming over the Rio Grande,’ Freedom to ’Love as We Please’ - Breitbart
+26590,1,Camp of the Saints: Europe Braces for Unabated Wave of Migrants After 1M+ in 2015
+26642,1,ESPN Ombudsman Wonders If Network Is Too Liberal - Breitbart
+26841,10,The Rio Olympics Is Brazil’s Reward for Trusting in Socialism - Breitbart
+26905,3,Brazil Parties Through Zika as Carnival Week Approaches
+27106,2,Golfer Rory McIlroy Withdraws From Rio Olympic Games Over Zika Virus Fears
+27174,2,5G Approved by FCC: 100 Times Faster than 4G - Breitbart
+27182,2,Israeli Judoka: Rival’s ‘Allahu Akbar’ Before Bout Reminded me of Terror Attacks
+27307,1,Kenyan Athletics Manager Recalled after Doping Bribe Report - Breitbart
+27393,13,Five Things That Might Kill You at the Olympics
+27519,5,Obama: Team USA Shows US ’Sets The Gold Standard’ Because ’We’re Nation of Immigrants’ With Strength In Diversity and Unity - Breitbart
+27549,3,No Mention of Brexit in Queen’s Christmas Message
+27613,1,PHOTOS: Brazilians Burn President in Effigy to Celebrate Impeachment Vote - Breitbart
+27740,1,Spike Lee: ’A Lot of the Stuff’ Black People Have Accomplished Has ’Been Through Sports’ - Breitbart
+27889,8,Portuguese Minister of Education Mugged at Rio Olympics
+28031,1,Zika Begins to Hit Brazil’s Tourism Industry, Months Before Olympics - Breitbart
+28057,1,Top Downing Street Staffers Hurled Abuse at Candidate Donald Trump With Nazi Comparisons and Pro-Islam Baiting
+28218,2,Moroccan Boxer Held over Alleged Sex Attacks in Olympic Village - Breitbart
+28246,4,Brazil Sterilizes Olympic Stadiums Over Zika Virus - Breitbart
+28366,5,As Olympics Approach, Rio de Janeiro’s Hospitals Running Out of Medicine - Breitbart
+28534,1,In Michigan, Hillary Clinton Promises To Oppose TPP As President - Breitbart
+28600,2,Five U.S. Women’s Soccer Teammates File Discrimination Suit Against U.S. Soccer - Breitbart
+28756,2,Jenner on ’SI’ 40 Years Later: My ‘Macho Male’ Olympics Body Disguised ‘The Woman Living Inside Me’ - Breitbart
+28833,4,World’s Largest Rodents Take Over Rio’s Olympic Golf Course - Breitbart
+28874,2,’Panelaço’: Brazilians Drown Out President’s Zika Speech with Pot-Banging Protest - Breitbart
+29142,1,Bruce Jenner: Being Transgender in Hollywood Easier Than Being Republican - Breitbart
+29201,2,Rio Olympics: Busload of Chinese Reporters Caught in Gunfight
+29259,1,Virgil: The Trump Deal -- Five Early Clues as to How He Will Govern
+29260,1,***Live Updates*** 2016 Iowa Caucuses: Cruz 28%, Trump 24%, Rubio 23% Clinton 49.9%, Sanders 49.6% - Breitbart
+29288,1,A Swing And A Miss: How Triggered Hillary Screwed Up Her Chance To Take On The Alt-Right - Breitbart
+29292,7,’I’ve Been Robbed’: Irish Boxer Leaves Olympic Ring with Middle Fingers Up - Breitbart
+29645,10,Brazil: Police Say Video Shows Lochte, Swimmers, Gas Station Attendants Fighting - Breitbart
+29657,11,Olympics Chaos: Staffers Sold Tickets for Seats That Don’t Exist - Breitbart
+29730,4,Scammers, Bug Spray Companies Capitalizing on Zika Fears - Breitbart
+29801,16,Expert: Rio Water More Dangerous Than Zika - Breitbart
+30011,10,Brazil Bans Ryan Lochte from Leaving Country (He Already Left) - Breitbart
+30142,1,A Year After Honoring a Man in a Dress for Courage, ESPN Honors a Man in a Boy’s Body - Breitbart
+30164,10,Olympic Champion Narrates ’Amicable’ Robbery in Rio
+30170,2,Justin Rose Hits First Hole-in-One in Olympic History - Breitbart
+30182,1,Obama in Laos: ’Stressed’ Americans Typically Turn To Racism - Breitbart
+30299,6,Olympics: Media Blame Trump if Los Angeles Loses 2024 Bid
+30339,7,Open Season in Brazil: Formula One Boss’s Mother-in-Law Kidnapped
+30347,1,FS1’s Cowherd: Olympic Ratings Down Because of Trump, Hillary - Breitbart
+30500,2,Islamic State Philippines Wing Planned to Kidnap Boxer Manny Pacquiao
+30554,2,Report: Saudi Judo Player Forfeits Rio Match to Avoid Israeli - Breitbart
+30574,2,15,000 Mourn, Celebrate Muhammad Ali at Arena Service - Breitbart
+30601,1,NBA Sells Rainbow Shirts to Raise Money for Gay Organization That Instructed HS Students in ’Fisting’ - Breitbart
+30615,5,Golden Finale: Phelps Wins 23rd Olympic Gold with Relay Win - Breitbart
+30654,2,Tinfoil Hillary: ’Alt-Right,’ Alex Jones, Brexit, Putin All Part of Global Conspiracy Against Her - Breitbart
+30694,3,Pau Gasol: ’Zika Is a Much Bigger and More Serious Threat Than We Think’ - Breitbart
+30718,1,The Panama Papers Claim to Expose World Leaders’ Riches
+30739,2,Rio Olympics–America’s First Gold Medal: A Good Girl with a Gun - Breitbart
+31053,1,Shock: 170 Zika Cases in California - Breitbart
+31543,1,Virologist Who Discovered Zika: ’No Funding’ for Research
+31602,1,UFC: Rousey’s comeback halted in first round by Nunes
+31604,1,Putin congratulates Trump in New Year statement
+31615,1,Mark Shriver to Trump: Don’t forget about children, the poor
+31625,3,Andy Murray knighted in New Year’s Honors
+31766,1,Duel of the top two sets up 2017 season
+31767,3,Pinturault eclipses Killy with GS triumph
+31772,2,Ted ’Shred’ wins season opener
+31802,1,The search for what triggers type 1 diabetes
+32120,2,Georgia Dome farewell for Atlanta Falcons
+32283,1,Super Bowl week kicks off with Opening Night
+32313,2,CNN 10 - January 31, 2017
+32315,1,Somalia Fast Facts
+32467,1,Super Bowl LI: A game is a game -- and what a game this was
+32535,2,Sean Spicer meant Orlando, not Atlanta terror attack, official says
+32536,12,CNN 10 - February 9, 2017
+32564,1,CNN 10 - February 10, 2017
+32622,1,Adele’s ’black friends’ Grammy comment stirs debate
+32626,1,Beyoncé’s mother of a Grammy performance
+32689,2,CNN 10 - February 16, 2017
+32813,1,Kings trade DeMarcus Cousins to Pelicans
+32858,1,Gymnastics doctor faces more charges in sex assault case
+33111,2,Andrew Young Fast Facts
+33215,1,Iraq Most Wanted Fast Facts
+33217,6,Prince Albert of Monaco Fast Facts
+33252,1,K-drama or K-politics? Death, dynasties and disaster in the Blue House
+33375,1,USA Gymnastics CEO resigns amid ex-team doctor’s sex scandal
+33439,1,Africa’s most populous city just got its first skate crew
+33442,1,Sevens side caps stellar weekend for English rugby
+33443,2,Rugby Sevens: Blitzboks hit Vegas jackpot
+33464,1,Samoura: ’Facelift’ of FIFA’s male hierarchy is ’ongoing’
+33548,2,NATO Fast Facts
+33591,1,Russian banker who met Kushner has Putin ties
+33616,1,Fire causes section of I-85 in Atlanta to collapse
+33722,1,CNN 10 - April 4, 2017
+33834,2,Masters 2017:  Rose, Garcia lead into Sunday
+33849,1,Masters 2017: Sergio Garcia wins in playoff
+33890,1,Japan’s 700-year-old ’oke’ craft gets a modern makeover
+34039,1,10 of the world’s best fresh markets
+34058,13,Where are all the women in sailing?
+34091,1,North Korean nuclear test site now... a volleyball court?
+34262,2,Simone Biles briefs Congress on the dangers of underage drinking
+34282,1,Kamau Bell: These big ideas put hate speech to shame
+34297,2,Joshua digs deep to win epic world heavweight bout
+34364,1,In Hong Kong’s bid for Gay Games, a bid for equality in Asia
+34428,1,The race for a sub-two-hour marathon
+34452,1,The woman who broke the Kentucky Derby’s glass ceiling
+34460,3,Team USA bobsled driver Steven Holcomb dies
+34513,1,Maria Sharapova beaten by critic Eugenie Bouchard
+34600,1,CNN 10 - May 12, 2017
+34636,1,China’s new world order: Xi, Putin and others meet for Belt and Road Forum
+34645,2,Doctor’s accuser: I trusted him but he abused me
+34792,1,Why Turkish embassy violence is unforgivable
+34812,2,Farrington wins Spanish leg of Global Champions Tour
+34892,1,’Dancing with the Stars’ crowns new champs
+34949,1,International Space Station Fast Facts
+35068,4,America’s Cup: Van Velthooven swaps freewheeling for foiling
+35073,1,Murray, del Potro close to rematch
+35187,2,LeBron James Fast Facts
+35398,2,Could football help ease tensions between North and South Korea?
+35405,5,Zika Virus Infection Fast Facts
+35550,1,America’s Cup: Team New Zealand dominate USA
+35610,1,What you need to know about Zika
+35741,3,Jaguar shot dead after escape during Olympic torch event
+35855,1,Wimbledon 2016: Five to watch
+35864,9,Vladimir Putin: Is this one sporting contest he can’t win?
+35877,1,Democrats block $1.1 billion Zika bill
+35901,7,Jason Day to miss Rio Olympics over Zika virus scare
+35976,1,Sharapova banned two years for meldonium use
+35997,1,Cavendish in yellow after first stage win
+36011,2,Rio mayor: State doing a ’terrible job’
+36023,2,Brain-eating amoeba at unusually high levels
+36065,6,’Super bacteria’ discovered in Rio’s waters
+36076,5,Rio police tell tourists they won’t be able to protect them
+36103,15,Will Rio Games really be a catastrophe?
+36123,1,Chief critic of Brazil’s Dilma Rouseff resigns
+36165,1,Jenner to attend LGBT event during GOP convention
+36179,1,Photographer: ’Window’ into Dallas attack
+36276,4,Training with America’s ’synchro’ hopefuls
+36375,14,Russian doping: ’Unprecedented attack on Olympic Games’
+36447,5,Police arrest 12 suspected of planning terrorist acts during Olympics
+36455,1,Munich attacker researched rampage killings, police say
+36460,1,Munich shooting: 9 victims, gunman dead
+36480,3,Usain Bolt: Sport needs me to win at Olympics
+36516,1,Ben Ainslie leads UK team to victory
+36540,7,7 Russian swimmers banned from Rio amid doping scandal
+36547,16,IOC should win medal for cowardice
+36602,1,10 takeaways from the Democratic convention
+36619,32,Rio Olympics: Is Brazil ready for the 2016 Games?
+36642,2,Novak Djokovic beats Kei Nishikori in Rogers Cup final
+36654,4,How much are the Rio Olympic gold medals worth?
+36701,2,It’s 2016. What’s with all the sexism?
+36736,5,271 Russian athletes cleared for Rio Games
+36752,6,Rio Olympics: 5 things to watch for Friday
+36757,11,Olympics: Anger grows in Taiwan at having to compete as ’Chinese Taipei’
+36759,3,Rio 2016 Olympics: Relive the opening ceremony
+36762,4,Justin Gatlin: Team USA sprinter relaxed ahead of showdown with Usain Bolt
+36773,11,U.S. women’s gymnastics ready to rule Rio Olympics
+36775,5,An Olympic first to inspire us all
+36779,2,Rio 2016 Olympics: Day 1 as it happened
+36785,3,Belgian outshines Tour champ Froome to win Rio road race
+36788,3,Trump wishes Olympians luck ’big league’
+36791,20,Yusra Mardini: Refugee swimmer off to flyer
+36793,3,Uber driver will see his son compete in Rio thanks to passenger
+36794,3,U.S. teen Ginny Thrasher wins Rio’s first gold
+36803,2,Novak Djokovic joins Williams sisters in day of shocks in Rio
+36805,8,Brazil Olympic team’s number of drug-test samples questioned
+36815,1,Rio 2016 Olympics: Day 2 action live
+36819,2,Dutch cyclist Anna van der Breggen takes gold
+36820,5,Majlinda Kelmendi wins Kosovo’s first ever gold medal
+36825,3,2nd Olympic boxer accused of sexual assault
+36831,2,Rio 2016 Olympics: Day 3 as it happened
+36832,9,16 facts: Rio 2016 Olympic Games
+36847,3,Algae blamed for green Olympic diving pool
+36849,3,Serena Williams stunned by Elina Svitolina in Rio
+36850,5,Gymnastics: Team USA and Simone Biles take team gold
+36863,1,Rio 2016: Japan humbles All Blacks
+36876,1,Rio 2016 Olympics: Day 5 action - live!
+36879,3, Kohei Uchimura retains Olympic crown
+36884,5,So, does Michael Phelps believe in flossing?
+36899,1,Rio 2016 Olympics: Day 6 action live
+36900,4,Simone Biles wins all-around gymnastic gold
+36913,4,Fiji wins first ever Olympic gold medal
+36919,13,Rio 2016: Michael Phelps says goodbye Usain Bolt begins quest
+36921,14,Rio 2016 Day 7: Ledecky crushes rivals
+36927,6,Joseph Schooling: The Singapore swimming star who beat idol Phelps
+36928,1,Rio 2016 Olympics: Day 7 as it happened
+36929,4,Joseph Schooling wins Singapore’s first gold
+36930,7,Nigeria says men’s soccer team not going on ’strike’
+36932,5,Rio’s amazing Olympic firsts
+36933,5,Gold for Rafael Nadal in men’s doubles
+36940,5,Bradley Wiggins: Cyclist wins gold to become Britain’s most decorated Olympian
+36941,1,Lionel Messi announces Argentina return
+36946,5,Olympic women’s rugby star on winning gold
+36949,11,Rio 2016: Big day for athletic and gymnast greats
+36951,4,Elaine Thompson wins women’s 100m gold at Rio 2016
+36952,3,Olympics: Out with the green water, in with the blue
+36953,6,Michael Phelps bows out as US sets Olympic gold record
+36954,4,Rio 2016 Olympics: Day 8 as it happened
+36955,5,Michael Phelps: How swimming legend regained his ’immortality’
+36961,4,Monica Puig wins Puerto Rico’s first Olympic gold
+36963,1,Cuba’s Fidel Castro survived assassination attempts, officials say
+36964,2,Lone Russian athletics Olympian suspended
+36965,1,Kenny Baker, ’Star Wars’ R2-D2 actor, dies
+36966,5,Henrik Stenson encounters reptile in Rio
+36970,2,Rio 2016 Olympics: Day 9 as it happened
+36973,3,Chinese diver wins Olympic silver -- then gets podium proposal
+36976,5,Ryan Lochte, other US swimmers robbed in Rio
+36982,5,Golf: Justin Rose takes gold in Rio
+36987,17,Who is the greatest Olympian?
+36995,1,Rio 2016 Olympics: Day 10 as it happened
+36997,4,Mark Cavendish: Olympics omnium crash was my fault
+37006,6,America’s glass house on doping
+37017,7,Kerri Walsh Jennings chases fourth gold
+37018,1,Rio 2016 Olympics: Day 11 as it happened
+37020,5,Laura Trott and Jason Kenny: Cycling’s golden couple make history at Rio 2016
+37022,3,Olympian accomplishes what his mother wasn’t allowed to
+37025,5,Simone Biles has support in another country: Belize
+37027,5,Is this the most feminist Olympics ever?
+37037,2,Olympics: Brazil loses to Sweden on penalties in women’s football semifinal
+37039,8,Why we need Simone, Gabby and Laurie
+37041,10,US swimmer: Guards pulled guns, wanted money
+37045,14,2 US swimmers removed from flight in Rio
+37048,13,Olympics: Americans, Bolt enjoy golden day
+37051,2,US women make it 1-2-3 at Rio in 100m hurdles
+37065,10,Egyptian sent home for refusing to shake Israeli’s hand?
+37066,9,Bridge takes Olympic rings to new heights
+37070,1,Rio 2016 Olympics: Day 13 - as it happened!
+37071,5,Tommie Smith, in his own words
+37074,13,Questions loom over reported robbery of US swimmers
+37081,3,Can Brazil get Ryan Lochte extradited?
+37084,2,Ren Qian: 15-year-old wins Olympic gold
+37088,1,Hannah Mills and Saskia Clark celebrate
+37090,1,Rio 2016 Olympics: Day 14 as it happened
+37091,3,Germany pips Sweden to Olympic football gold
+37100,2,What to expect when Miley Cyrus and Alicia Keys join ’The Voice’
+37102,4,The red flags in Lochte’s story
+37103,12,Ryan Lochte’s apology the latest in Rio swimmers saga
+37104,2,How Lochte should have responded
+37106,4,Lydia Ko scores ’perfect’ Rio hole-in-one
+37114,16,Lochte: ’I over-exaggerated’ robbery story
+37119,1,Olympics: Brazil wins football gold
+37123,6,Olympics: US wins women’s basketball gold
+37125,3,Inbee Park celebrates ’unreal’ Olympic golf gold
+37132,10,Rio residents and tourists reflect on the Olympics
+37134,6,Australian athletes fined for falsifying documents
+37139,1,CNN Student News - August 22, 2016
+37144,4,Kipchoge storms to men’s marathon gold
+37146,14,Athlete of the Day
+37147,4,Rio 2016: Durant leads US to basketball gold
+37150,2,Craig Sager’s battle with cancer
+37155,25,Rio 2016: Top Olympic moments to savor
+37173,1,CNN Student News - August 23, 2016
+37198,1,From Flint to Rio: The woman who made Olympic history
+37202,1,Russia banned from Paralympic Games after appeal failure
+37218,1,Ryan Lochte ’in talks’ to join ’Dancing With The Stars’
+37239,5,Ryan Lochte charged by Brazilian authorities
+37253,1,CNN Student News - August 26, 2016
+37289,2,Reed beats O’Hair by one shot in Barclays showdown
+37291,4,Can Murray top golden year at US Open?
+37343,2,Slavery and the national anthem: The surprising history behind Colin Kaepernick’s protest
+37354,5,New ’Dancing With the Stars’ cast is...
+37390,1,Brazil’s Senate ousts Rousseff in impeachment vote
+37399,1,Dilma Rousseff is out. Now what?
+37414,1,U.S. Open 2016: Murray wins under new roof
+37451,1,Jason Day set to play on after family crash
+37469,1,Giuliani: Trump no longer wants mass deportations
+37495,1,Serena Williams: World No. 1 surpasses Roger Federer’s record
+37513,3,Sporting protests: Kaepernick’s stand is far from the first
+37521,1,US Open 2016: Kerber, Monfils make semis
+37554,2,US Open: Nishikori stuns Murray in five sets
+37574,2,Paralympics 2016: Daniel Dias wins gold
+37587,1,Paralympics day two: Jason Smyth emulates Bolt, controversy on the track
+37595,1,No, Louie Gohmert, disability not a joke
+37609,1,US Open 2016: Kerber wins title
+37623,1,Manchester Derby: New City era comes alive
+37625,4,Eric Robert Rudolph Fast Facts
+37635,3,Paralympics day 4: Tatyana McFadden begins gold rush, Brazil’s sprint stars
+37643,1,America’s Cup: Swedes on top in Toulon
+37654,1,Paralympics: Durand powers to second gold
+37666,3,Ryder Cup 2016: Rickie Fowler wins US wildcard
+37679,1,Twitter has no chill for Ryan Lochte after DWTS protests
+37695,2,Paralympics: Tatyana McFadden wins 5th gold
+37719,6,Paralympics day seven: Highlights from Rio
+37730,1,Paralympics day eight: ’Paralympic Pele’ through to football final
+37743,1,The new Red Scare? Russia ups role in world events, US elections
+37773,2,Iranian Para-cyclist dies after crash
+37785,1,Premier League: Arsenal, Manchester City and Leicester cruise to victory
+37804,2,Mayer heroics earn Argentina final place
+37812,1,’Dumbo’ breaks majors scoring record
+37815,1,The truth about the Trump kids
+37823,1,Bombings suspect: An ordinary American terrorist
+37953,1,Ryder Cup: Westwood fans war of words in buildup
+38081,1,Drop the mic. Vin Scully, out
+38095,1,Ryder Cup: Europe cuts US lead on opening day
+38104,1,Norman Lear Fast Facts
+38117,2,Obama and ’Final Five’ do the splits
+38156,1,US and Love III avenge Miracle of Medinah
+38295,1,Nancy O’Dell, the woman who rebuffed Trump
+38297,6,The 74-year-old coach behind Van Niekerk’s golden run
+38304,1,Not ’locker room’ talk: Athletes push back on Trump remark
+38320,5,Why Kengo Kuma’s big dreams are small buildlings
+38333,2,Federer, Nadal BOTH outside top four
+38448,1,Kaepernick starts, loses first NFL season game since anthem protest
+38478,1,Murray chasing down Djokovic for No.1 spot
+38479,2,Daughter of Tyson Gay killed in shooting
+38503,1,Charles Barkley: Trump critics ’disingenuous’
+38511,2,Fan arrests as fights erupt at Olympic venue
+38512,3,Michael Phelps secretly got married
+38516,1,Jamie Murray emerges from Andy’s long shadow
+38545,2,Janet Reno’s career punctuated by highs, lows
+38628,2,LGBT Rights Milestones Fast Facts
+38756,1,Gown of salt crystals rises from Dead Sea
+38830,1,Ronaldo hits hat-trick as Real beats Atletico in Madrid Derby
+38838,1,America’s Cup: Ben Ainslie on course to create history
+38842,1,Trump-Romney meeting another wild 2016 twist
+38932,1,Trump White House events could be yuge
+38969,2,Michael Jordan Fast Facts
+38984,6,Will America ’build a wall’ in sports?
+39016,1,Russian Holocaust ice-skating routine slammed as ’unbelievably tasteless’
+39030,1,Davis Cup: Del Potro leads fightback as Argentina defeats Croatia
+39035,1,Larry Bird Fast Facts
+39113,1,Obama lights national Christmas tree for final time
+39133,2,Skiers count cost of living ’White Circus’ dream
+39170,3,Boks blitz Fiji to take Dubai 7s glory
+39291,1,Why Russia plays by its own rules
+39325,8,Breakdancing added to Youth Olympic Games
+39362,1,Taraji P. Henson and other stars to honor giving
+39440,3,Jerry Falwell, Jr.: Social views of Trump’s State Dept. pick don’t matter
+39441,3,2016 In Review Fast Facts
+39446,1,Cristiano Ronaldo Fast Facts
+39493,1,Nadal hires Moya as he bids to climb rankings
+39495,1,Austrian relief as Franz wins downhill
+39522,1,Tomba record matched by Hirscher
+39640,2,Australian Open loses comeback king del Potro
+39691,8,Russian official disputes NYT doping story NYT stands behind reporting
+39700,3,Sumo’s next superstars?
+39717,1,Dear world, I wasn’t all bad. Signed, 2016
+39737,5,Snowboarding Olympians: ’It’s really scary!’
+39769,1,From divorces and robberies to the stars we lost: Here are 2016’s top 10 celeb stories
+39868,1,Why ’hands up, don’t shoot’ still resonates
+39884,3,History moment awaits Palestine at Asian Cup
+40159,2,She danced for Dr. Mengele in Auschwitz
+40189,1,Mormon church backs LGBT rights -- with one condition
+40193,1,Drone operator worked for U.S. intelligence agency
+40296,3,Mia Hamm: The most powerful woman in football?
+40308,1,Armstrong cited for traffic offenses
+40314,2,Bruce Jenner involved in car accident with one death
+40371,3,Usain Bolt to retire in 2017
+40447,1,Alex Morgan: Body confident and ready to play
+40515,1,Mystery tunnel near Pan Am games venue stumps Toronto
+40521,1,Boris Nemtsov, critic of Putin, mourned after shooting
+40531,1,Boris Nemtsov: Opposition figure who took on Putin
+40605,3,French stars among dead in Argentina helicopter crash
+40800,2,Lindsey Vonn romps to speed double at World Cup finals
+40950,1,Dzhokhar Tsarnaev trial: The radicalization of Jahar
+40984,1,12 famous photographs recreated in tiny models
+40995,1,Outrage over Jamie Foxx’s Bruce Jenner joke at awards
+41002,4,The real March Madness: When will women’s teams get equal buzz?
+41010,1,The fight for Dzhokhar Tsarnaev’s life
+41046,1,Avril Lavigne reveals battle with Lyme disease
+41050,1,Cancer can’t stop teen singer’s music
+41058,1,Dzhokhar Tsarnaev Boston bombing trial: What defense?
+41160,2,Families, lawsuits, raise questions about NuvaRing
+41207,1,Boston bombing trial: Sentencing begins
+41257,1,Andy Murray weds Kim Sears: ’Royal wedding of Scotland’
+41297,4,Rio 2016: Dead fish wash up in Olympic lagoon
+41417,1,Wild horses and the world’s forgotten animals
+41431,1,Culture’s transgender ’moment’
+41471,1,The man who wants to control the weather with lasers
+41507,2,Bruce Jenner sued over fatal car accident
+41525,1,David Beckham turns 40 - why booze and gambling?
+41554,1,The Dzhokhar Tsarnaev the defense wants you to know
+41577,8,Son Yeon-Jae: South Korea’s reluctant ’fairy’
+41678,2,The mystery of the Tsarnaev brothers (Opinion)
+41685,2,Mitt Romney rumbles with Holyfield in boxing match
+41726,1,David Letterman’s cast of characters
+41867,3,The ugly example FIFA scandal sets for soccer kids
+41870,4,’Foxcatcher’: The crazy du Pont next door
+41881,1,Putin rips U.S. over FIFA corruption case
+41889,1,Yes, Putin, this FIFA scandal IS U.S. business
+42008,1,Meet Alasdair Howell: The 10-year-old piano prodigy
+42014,1,Huckabee: I wish I could’ve ID’d as female in HS gym
+42117,4,Sports stadium architecture: Welcome to the new temples of pleasure
+42183,1,The Seventies: One nation under change
+42209,4,Kuwait’s ghost stadium prepares to breathe new life
+42295,1,Clinton strikes populist tone in making case for 2016 campaign
+42344,1,Rachel Dolezal, ex-NAACP leader: ’I identify as black’
+42363,8,Majlinda Kelmendi fights for Kosovo recognition
+42573,4,Japan twisted over ’bike helmet’ Olympic venue design
+42581,3,Trayvon Bromell: U.S. teen makes Usain Bolt look slow
+42648,1,Women’s World Cup: Japan edges England, goes to final
+42683,1,The Ultimate Back to the Future Quiz
+42716,2,Opinion: Women’s World Cup final: Let’s do this!
+42721,1,A brief history of high fashion kicks
+42742,2,Subway’s Jared Fogle, from inspiration to suspicion
+42812,6,Candace Hill: The fastest girl of all time
+42988,1,The golden age of terrorism
+43150,3,Rio’s Olympic Stadium has reportedly turned into a ghost town that has a ’smell of mold,’ damaged rooms, and stray cats
+43459,1,Mo Farrah, banned from the USA: ’Donald Trump seems to have made me an alien’
+43633,1,How Vladimir Putin became one of the most feared leaders in the world
+44530,1,The Russians are using ’a new style of attack’ against France’s frontrunner candidate
+44744,1,Yes, that’s J. Peterman from ’Seinfeld’ pitching an IPO on TV — no, that’s not the most surprising thing about it
+44942,1,How Tim Armstrong, a hotshot Boston sales guy, wowed Google’s founders, built its multi-billion-dollar ad business from scratch, then became AOL’s CEO
+45562,7,Things are so bad in Brazil they had to cancel Carnival
+45715,1,Brazil warns people attending Carnival not to kiss strangers
+46001,1,A former Wall Street analyst just set a new world hour record in cycling
+46590,1,A master networker explains how to become instantly memorable when you meet someone new
+46607,1,Rousseff loses impeachment vote in Congress
+46930,16,The Olympics are having an unprecedented meltdown
+47216,1,This 24-year-old skipped the chance to be the first in his family to go to college — now he’s raised $30 million to help everyone sleep better
+47277,1,The new O.J. Simpson documentary exposes dark secrets from the athlete’s early years
+47532,5,Adam Scott gave a brutal explanation for why he’s skipping the Rio Olympics
+47696,1,Sprinter learns he won a gold medal at the European championships during an interview and his reaction is priceless
+47843,3,The US reportedly helped Brazil track down and capture 11 suspected ISIS militants
+47880,1,Kevin Durant’s first attempt at fitting in with the Warriors went spectacularly awry
+47956,10,Here’s how the newest technology is changing how we watch the Olympics
+47987,1,The best moments from the opening ceremony of the Rio Olympics
+47990,2,Why Greece always leads the parade of athletes at the Olympic opening ceremony and how the rest of the order is determined
+47991,1,One of the biggest threats to the Rio Olympics will come from the internet
+47994,3,Roger Federer sent the saddest tweet of the Olympics opening ceremony
+47995,2,These are the body types that get you to the Olympics
+47996,2,Here are the countries that have historically dominated the Summer Olympics
+47997,1,Here’s what 4 top Olympians eat to fuel up for the games
+47998,1,Watch Gisele Bündchen walk the world’s longest runway at the opening ceremony in Rio
+48001,1,Olympic rowers blasted the ’horrific’ and ’unrowable’ conditions after the Serbian boat capsized
+48004,4,A stray bullet went through a media tent at the Rio Olympics
+48005,1,Olympic photographer who had $40,000 worth of gear stolen in Rio found some of it in a strange place
+48008,1,Hungarian swimmer’s intensely energetic husband went bonkers watching his wife narrowly miss a world record
+48016,2,Katie Ledecky was celebrating her world record before anyone else finished the race
+48018,1,Vail Resorts is buying Whistler Blackcomb in a $1.1 billion deal
+48023,2,The 3 plays from the Rio Olympics everybody will be talking about today
+48024,3,Why Michael Phelps and other Olympians have big red circles all over their skin
+48029,1,Chinese boxer mistakenly thinks he won an Olympic boxing match, has heartbreaking reaction when he realizes he’s wrong
+48037,2,Michael Phelps says he ate a pound of pasta to recover after winning his 23rd Olympic medal
+48046,3,16-year-old Laurie Hernandez winked at the judges before one of the biggest routines of her life
+48059,6,Michael Phelps had to cover all the logos on his Beats headphones after missing one early in the Olympics
+48064,2,Simone Biles cements herself as ’the greatest ever’ after a dominant gold-medal performance
+48068,5,Ryan Lochte gave a brutally honest quote about his underappreciated career compared with Michael Phelps
+48078,2,Hope Solo rips Swedish women’s soccer team for playing like ’cowards’ and says the best team didn’t win
+48100,1,Irish brothers gave an amazing interview after winning their country’s first medal in rowing
+48101,1,Rio officials are going to drain the green water in the diving pool
+48102,1,Russian diver scores 0.0 on one of the worst dives in Olympic history
+48105,4,Usain Bolt wins the 100 meters and once again he made it look easy
+48111,1,Simone Biles won another gold medal and then just shrugged her shoulders as if it was no big deal
+48113,3,A pool expert explained why the green Olympic pool is so worrisome
+48115,3,American swimmer Ryan Lochte and 3 others were robbed at gunpoint after a party in Rio
+48116,2,Adidas and Under Armour are eviscerating Nike during the Olympics
+48117,2,A convincing theory for why Jamaica is so good at track
+48140,1,US and New Zealand Olympic runners help each other finish race after ugly fall during women’s 5,000 meters
+48147,1,Swimmers who were allegedly robbed with Ryan Lochte were reportedly stopped from leaving Rio
+48148,1,NBC’s Matt Lauer says Ryan Lochte changed his Rio robbery story on two key details
+48149,2,A tour bus from Paraguay was busted with 300 kilos of cocaine on its way to the Olympics
+48154,1,Michael Phelps’ new Sports Illustrated cover could make Under Armour furious
+48156,1,THE LEBRON JAMES INTERVIEW: The world’s best athlete reveals how his team pulled off the greatest comeback in NBA history
+48168,1,I can’t stop looking at this amazing wrestling photo from the Rio Olympics
+48172,3,Matt Centrowitz becomes the first American to win a gold medal in the 1500 meters in 108 years
+48175,2,Brazilian goalie makes amazing save in penalty kicks to open door for Brazil’s gold medal
+48176,3,Neymar broke down in tears after scoring gold-medal-winning penalty kick for Brazil
+48195,3,All of Ryan Lochte’s sponsors have dropped him
+48217,6,Malcolm Gladwell has a radical proposal for fixing the Olympics
+48220,2,Here’s how each country did at the Olympics, adjusting for the size of their economies
+48491,1,Coach K says he supports the NCAA’s decision to pull sporting events out of North Carolina over ’embarrassing’ bathroom law
+48853,1,Russia to the US: If you want a confrontation, ’you’ll get one everywhere’
+49631,2,14 surprising things you didn’t know about Malaysia
+49710,1,Tesla’s biggest moments of 2016
+49837,2,Ten American Foreign Policy Luminaries Who Died in 2016
+49839,1,2016, Summed Up in a Word
+49844,1,Obama’s Faith in White America Was Not Misplaced
+49931,1,Did Putin Direct Russian Hacking? And Other Big Questions

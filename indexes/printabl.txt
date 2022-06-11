@@ -1,0 +1,75 @@
+6844,1,Cher’s Latest Road Show? The Campaign Trail - The New York Times
+7092,1,The Best TV Shows of 2016 - The New York Times
+7286,1,Never-Trump Confidential - The New York Times
+31682,1,CNN 10 - January 5, 2017
+31717,1,CNN 10 - January 6, 2017
+31793,1,CNN 10 - January 9, 2017
+31794,1,CNN 10 - January 10, 2017
+31831,1,CNN 10 - January 11, 2017
+31882,2,CNN 10 - January 13, 2017
+31965,1,CNN 10 - January 17, 2017
+31992,1,CNN 10 - January 18, 2017
+32012,1,CNN 10 - January 19, 2017
+32144,1,CNN 10 - January 24, 2017
+32171,1,CNN 10 - January 25, 2017
+32190,1,CNN 10 - January 26, 2017
+32218,2,CNN 10 - January 27, 2017
+32303,1,CNN 10 - January 30, 2017
+32313,1,CNN 10 - January 31, 2017
+32333,1,CNN 10 - February 1, 2017
+32536,1,CNN 10 - February 9, 2017
+32564,2,CNN 10 - February 10, 2017
+32641,1,CNN 10 - February 13, 2017
+32645,1,CNN 10 - February 14, 2017
+32675,1,CNN 10 - February 15, 2017
+32689,1,CNN 10 - February 16, 2017
+32719,2,CNN 10 - February 17, 2017
+32809,1,CNN 10 - February 21, 2017
+32835,1,CNN 10 - February 22, 2017
+32870,1,CNN 10 - February 23, 2017
+32881,2,CNN 10 - February 24, 2017
+32958,1,CNN 10 - February 27, 2017
+32988,1,CNN 10 - February 28, 2017
+33045,1,CNN 10 - March 2, 2017
+33074,2,CNN 10 - March 3, 2017
+33141,1,CNN 10 - March 6, 2017
+33204,1,CNN 10 - March 9, 2017
+33290,1,CNN 10 - March 13, 2017
+33351,1,CNN 10 - March 16, 2017
+33376,2,CNN 10 - March 17, 2017
+33540,1,CNN 10 - March 27, 2017
+33588,1,CNN 10 - March 29, 2017
+33601,1,CNN 10 - March 30, 2017
+33617,2,CNN 10 - March 31, 2017
+33696,1,CNN 10 - April 3, 2017
+33722,1,CNN 10 - April 4, 2017
+33857,1,CNN 10 - April 10, 2017
+34180,1,CNN 10 - April 25, 2017
+34211,1,CNN 10 - April 26, 2017
+34236,1,CNN 10 - April 27, 2017
+34249,2,CNN 10 - April 28, 2017
+34316,1,CNN 10 - May 1, 2017
+34382,1,CNN 10 - May 3, 2017
+34399,1,CNN 10 - May 4, 2017
+34416,2,CNN 10 - May 5, 2017
+34476,1,CNN 10 - May 8, 2017
+34543,1,CNN 10 - May 10, 2017
+34572,1,CNN 10 - May 11, 2017
+34600,2,CNN 10 - May 12, 2017
+34660,1,CNN 10 - May 15, 2017
+34689,1,CNN 10 - May 16, 2017
+34713,1,CNN 10 - May 17, 2017
+34738,1,CNN 10 - May 18, 2017
+34753,2,CNN 10 - May 19, 2017
+34846,1,CNN 10 - May 22, 2017
+34874,1,CNN 10 - May 23, 2017
+34935,2,CNN 10 - May 26, 2017
+35090,1,CNN 10 - June 1, 2017
+36991,1,CNN Student News - June 3, 2016
+37253,1,CNN Student News - August 26, 2016
+37404,1,CNN Student News - September 2, 2016
+37736,1,CNN Student News - September 16, 2016
+37905,1,CNN Student News - September  23, 2016
+38641,1,CNN Student News - November 11, 2016
+39121,1,CNN Student News - December 2, 2016
+39277,1,CNN Student News - December 9, 2016

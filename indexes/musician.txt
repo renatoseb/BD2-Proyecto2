@@ -1,0 +1,477 @@
+8,1,First, a Mixtape. Then a Romance. - The New York Times
+67,1,Places to Put Your Hands Together - The New York Times
+94,2,Ending Speculation, Black College Says Band Will Play at Inaugural Parade - The New York Times
+180,2,New David Bowie Video Arrives, Hours Before He Would Have Turned 70 - The New York Times
+265,1,China, Fanning Patriotism, Adds 6 Years to War with Japan in History Books - The New York Times
+288,1,South Korea’s Blacklist of Artists Adds to Outrage Over Presidential Scandal - The New York Times
+340,1,Trump, Davos, Martin Luther King Jr.: Your Weekend Briefing - The New York Times
+433,2,Paul McCartney Sues to Get Back His Beatles Songs - The New York Times
+443,1,Trump Calls for Unity at Opening Concert as Inaugural Festivities Begin - The New York Times
+445,1,Toby Keith and Trump Light Up a Lower-Wattage Concert - The New York Times
+460,1,Roberta Peters, Soprano With a Dramatic Entrance, Dies at 86 - The New York Times
+473,1,Concert for Trump Misses an Opportunity - The New York Times
+483,1,Women’s March Highlights as Huge Crowds Protest Trump: ‘We’re Not Going Away’ - The New York Times
+484,1,How Marches in Washington Have Shaped America - The New York Times
+546,10,From Jingles to Pop Hits, A.I. Is Music to Some Ears - The New York Times
+553,1,California Today: What, Exactly, Is in Your Sushi? - The New York Times
+570,1,‘The New Edition Story’: A Loving Tribute to a Talented but Tormented Group - The New York Times
+603,1,Review: In ‘Riverdale,’ Archie Is Hot and Haunted - The New York Times
+794,3,Political Fashion Statements at the Men’s Wear Shows - The New York Times
+854,1,Women Rule Halftime. Can Lady Gaga Make It Rock Again? - The New York Times
+922,1,Travel Ban, Queen Elizabeth, Netanyahu: Your Morning Briefing - The New York Times
+940,1,Walter Hautzig, Pianist Whose Talent Helped Him Flee Nazis, Dies at 95 - The New York Times
+991,1,Where Have You Gone, Angelina Jolie? Celebrities Vanish From Fashion’s Front Row - The New York Times
+1060,1,Raymond Smullyan, Puzzle-Creating Logician, Dies at 97 - The New York Times
+1078,1,How Malay Spends His Sundays: Cooking at Home, Music in the Studio - The New York Times
+1185,2,The Dirty Projectors Go Solo - The New York Times
+1201,1,Lawyer Says Robert Durst’s Former Friend Concocted His Story of a Confession - The New York Times
+1223,1,Cheesecake for the Soul: A ‘Golden Girls’ Cafe Opens - The New York Times
+1251,1,Ecuador Votes as Latin America’s Left Sags, a Generation of Icons Gone - The New York Times
+1457,1,‘Today, He Acted Like a Politician’: Voters’ Reactions to Trump’s Speech - The New York Times
+1608,1,Global Migration Meets Magic in Mohsin Hamid’s Timely Novel - The New York Times
+1647,1,Hurray for the Riff Raff’s Alynda Segarra Finds Herself in a Concept Album - The New York Times
+1688,3,Flecks of Extraterrestrial Dust, All Over the Roof - The New York Times
+1735,1,Donald Trump, Republican Party, Daylight Saving: Your Weekend Briefing - The New York Times
+1771,9,Kamasi Washington Follows ‘The Epic’ With a New Work in Whitney Biennial - The New York Times
+1807,2,A New York Philharmonic Coup: Deborah Borda Is Named the New Leader - The New York Times
+1857,1,Dave Chappelle on Trump, Cosby and His Netflix Deal - The New York Times
+1890,1,Jimmy Breslin, Legendary New York City Newspaper Columnist, Dies at 88 - The New York Times
+1893,2,Chuck Berry, Rock ’n’ Roll Pioneer, Dies at 90 - The New York Times
+1903,1,Millennial Entrepreneurs Give Sleepy Montevideo a Fresh Jolt - The New York Times
+2005,1,John Mayer Knows He Messed Up. He Wants Another Chance. - The New York Times
+2046,1,Watching My Surgeon Cut Into My Knee - The New York Times
+2057,1,John Mayer Has More to Say: The Outtakes - The New York Times
+2453,1,2017 Pulitzer Prize Winners - The New York Times
+2465,5,Chuck Berry Is Hailed as a Rock Trailblazer and a St. Louis Hero at His Funeral - The New York Times
+2480,1,Fandor: A Streaming Rabbit Hole Worth Falling Down - The New York Times
+2489,1,Legal Marijuana Ends at Airport Security, Even if It’s Rarely Stopped - The New York Times
+2491,2,Scouring 11 Time Zones for a Contemporary Russian Art Show - The New York Times
+2531,1,Becoming Duterte: The Making of a Philippine Strongman - The New York Times
+2536,1,The Battle Over the Sea-Monkey Fortune - The New York Times
+2598,1,Your Thursday Evening Briefing: Prince, Donald Trump, Volkswagen - The New York Times
+2601,1,Volkswagen Reaches Deal in U.S. Over Emissions Scandal - The New York Times
+2605,1,Your Friday Evening Briefing: Prince, Donald Trump, Game of Thrones - The New York Times
+2608,1,Prince Knew What He Wanted: Sex, Soul and You - The New York Times
+2609,2,Prince Is Mourned by Fashion World, Which Counted Him as One of Its Own - The New York Times
+2610,4,Prince, an Artist Who Defied Genre, Is Dead at 57 - The New York Times
+2646,1,Prince Died Without a Will, According to Court Documents Filed by His Sister - The New York Times
+2689,1,Man Wrongfully Convicted of Murder Awaits His Exoneration, 52 Years Later - The New York Times
+2690,1,Corn Pone, Rebooted: Country’s New Humor - The New York Times
+2704,1,Your Wednesday Evening Briefing: Donald Trump, Hillary Clinton, Fort McMurray - The New York Times
+2772,2,Pioneertown Wants to Be the New Old West - The New York Times
+2773,1,Revel in the Bounty of Spring, With a Feast From Yotam Ottolenghi - The New York Times
+2804,1,Review: ‘Roots’ for a Black Lives Matter Era - The New York Times
+2824,1,Music World Bands Together Against YouTube, Seeking Change to Law - The New York Times
+2847,2,Prince Died From Accidental Overdose of Opioid Painkiller - The New York Times
+2850,2,Is Yannick Nézet-Séguin Worth the Wait at the Met? - The New York Times
+2863,1,Anti-Trump Voices Amplify on Internet, With Violent Results - The New York Times
+3054,1,‘My First Gay Bar’: Rachel Maddow, Andy Cohen and Others Share Their Coming-Out Stories - The New York Times
+3168,1,Pyrotechnic Party of Legend, Killed Off by Social Media - The New York Times
+3197,1,Why Does the Beauty Industry Ignore Curvy Models? - The New York Times
+3277,1,Exploring the France That Josephine Baker Loved - The New York Times
+3285,2,The Mysterious Metamorphosis of Chuck Close - The New York Times
+3326,1,Flight of the Conchords: Aimless, and That’s O.K. - The New York Times
+3382,1,Taylor Swift Is Summering in Rhode Island. Locals Just Shake It Off. - The New York Times
+3489,1,Why ‘This Is Fine’ Is the Meme This Year Deserves - The New York Times
+3594,2,Hey Ho, It’s Old: England Embraces Punk Rock 40 Years Later - The New York Times
+3614,1,How to Get the Most out of Visiting World-Famous Sites - The New York Times
+3620,1,Uninhibited Chinese Swimmer, Discussing Her Period, Shatters Another Barrier - The New York Times
+3684,1,Gord Downie, Frontman for the Tragically Hip, in His Final Act - The New York Times
+3697,2,Lou Pearlman, Svengali Behind Backstreet Boys and ’NSync, Dies at 62 - The New York Times
+3717,1,Italy, U.S. Presidential Race, Syria: Your Wednesday Evening Briefing - The New York Times
+3724,1,Hackers Publish Nude Pictures on Leslie Jones’s Website - The New York Times
+3839,1,Prince’s Old Band Resurrects Him Through His Songs - The New York Times
+4018,1,Edward Albee, Trenchant Playwright Who Laid Bare Modern Life, Dies at 88 - The New York Times
+4070,1,The Blessed, Cursed Life of Bon Iver - The New York Times
+4172,9,Philadelphia Orchestra Walks Out on Opening Night - The New York Times
+4189,7,Philadelphia Orchestra Ends Its Brief Strike - The New York Times
+4291,1,Premier League Stars Score the Goals. He Scores Everything Else. - The New York Times
+4327,1,Bob Dylan the Writer: An Authentic American Voice - The New York Times
+4335,1,Meet CoverGirl’s New Cover Boy - The New York Times
+4353,1,Your Phone’s on Lockdown. Enjoy the Show. - The New York Times
+4360,1,Billie Joe Armstrong: A Punk Seeks Serenity Inside the Chaos - The New York Times
+4385,2,Andrew Cyrille’s Late-Career Renaissance - The New York Times
+4413,2,Before the Wedding, a Test: 3,000 Miles of Barbecue - The New York Times
+4532,1,Johnny Cash, the Poet in Black - The New York Times
+4537,1,The Playlist: The xx Return in a Brighter Mood - The New York Times
+4552,1,From Bataclan to Street Cafes, Paris Is Quiet but Resolute as It Mourns on Anniversary of Attacks - The New York Times
+4585,1,Mose Allison, a Fount of Jazz and Blues, Dies at 89 - The New York Times
+4628,1,Sharon Jones, Powerhouse Soul Singer, Dies at 60 - The New York Times
+4640,1,Indians Rush Frantically to Launder Their ‘Black Money’ - The New York Times
+4656,1,Italy’s Last Bastion of Catalan Language Struggles to Keep It Alive - The New York Times
+4710,1,Cliff Barrows, Billy Graham’s Longtime Musical Director, Dies at 93 - The New York Times
+4730,1,Afghan Vice President Seen Abducting Rival - The New York Times
+4773,1,California Today: A View of San Francisco’s Leaning Tower From Space - The New York Times
+4782,1,A Chinese Artist Consumed by the Idea of Inevitable Change - The New York Times
+4813,1,The Playlist: Burial and Laura Marling Slip Deeper Into the Void - The New York Times
+4831,1,I Went to My First Classical Music Concert. It Was in My Living Room. - The New York Times
+4838,1,Standing Rock, Trump, Renzi: Your Monday Evening Briefing - The New York Times
+4840,1,Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues - The New York Times
+4859,8,Oakland Fire Victims Included Performers, Educators and Lawyers - The New York Times
+4883,1,Black Designers in Focus at Fashion Institute of Technology - The New York Times
+4885,1,Peter Vaughan, Maester Aemon in ‘Game of Thrones,’ Dies at 93 - The New York Times
+4886,1,Childish Gambino’s ‘Awaken, My Love!’ Sounds Like the 1970s - The New York Times
+4917,2,‘To Age Is a Sin’: In Blunt Speech, Madonna Confronts Bias in Various Forms - The New York Times
+4935,1,California Today: Questions Persist After the Oakland Fire - The New York Times
+4989,1,North Carolina’s Partisan Rift Widens in Fight Over Governor’s Powers - The New York Times
+5044,1,Donald Trump, Aleppo, Russia: Your Monday Evening Briefing - The New York Times
+5119,1,A Fancy Guitar to Sell, but Hard to Play in Handcuffs - The New York Times
+5153,1,Whitney Houston, Cher, Tina Turner and Donna Summer: The Musicals - The New York Times
+5196,1,Taking a Trip, Literally, on Colorado’s Pot Trail - The New York Times
+5205,1,Kiki and Herb: Kitsch, With a Whisky Chaser - The New York Times
+5247,1,Your Wednesday Briefing: Donald Trump, Hillary Clinton, iPhone - The New York Times
+5344,1,Prince Overdosed on Fentanyl. What Is It? - The New York Times
+5345,3,At Carnegie Hall, a New Leader With a Son Named Hendrix - The New York Times
+5377,1,‘Hamilton’ Inc.: The Path to a Billion-Dollar Broadway Show - The New York Times
+5433,1,Decades Later, Sickness Among Airmen After a Hydrogen Bomb Accident - The New York Times
+5444,3,I Was on That Fateful Flight With Prince: A Protégée Tells Her Story - The New York Times
+5505,3,The Garrison Keillor You Never Knew - The New York Times
+5575,1,When Yahoo Ruled the Valley: Stories of the Original ‘Surfers’ - The New York Times
+5579,1,Sparkling and Blighted, Convention Cities Spotlight Ignored Urban Issues - The New York Times
+5593,5,Not Even Plácido Domingo Can Say No to ‘Mozart in the Jungle’ - The New York Times
+5649,1,How Does an Australian Town of 100 Attract Tourists? A Music Festival and Camel Pie - The New York Times
+5670,1,Black Lives Matter Activists Stage Protests Across Britain - The New York Times
+5691,1,Brazilians Speak Portuguese, but the Olympics Must Use French - The New York Times
+5731,2,Bobby Hutcherson, Vibraphonist With Coloristic Range of Sound, Dies at 75 - The New York Times
+5743,1,Phil Collins Is Very Much Alive - The New York Times
+5875,1,The Playlist: Lady Gaga Returns Lovelorn, and Zack de la Rocha Returns Furious - The New York Times
+5904,1,Review: The Smithsonian African American Museum Is Here at Last. And It Uplifts and Upsets. - The New York Times
+5906,4,How to Keep the ‘Great Comet’ Party Going on Broadway: Dish Out the Pierogies (and Add Josh Groban) - The New York Times
+5923,3,Don Buchla, Inventor, Composer and Electronic Music Maverick, Dies at 79 - The New York Times
+5951,1,Charlotte, Yahoo, U.S. Presidential Race: Your Thursday Evening Briefing - The New York Times
+6002,9,For Orchestras in the U.S., So Much Depends on Their Communities’ Fortunes - The New York Times
+6013,1,Kim Kardashian Is Tied and Robbed of Millions in Jewels, French Police Say - The New York Times
+6014,1,Reader’s Guide to This Fall’s Big Book Awards - The New York Times
+6079,1,Bob Dylan, Donald Trump, Michelle Obama: Your Thursday Evening Briefing - The New York Times
+6103,1,Firebombing of G.O.P. Office Jolts Fragile Balance of a North Carolina Town - The New York Times
+6142,2,Temple of the Dog Reunites, Headliners at Last on a Mini-Tour - The New York Times
+6143,1,Optimism From Hillary Clinton and Darkness From Donald Trump at Campaign’s End - The New York Times
+6181,3,David Bowie’s Seal of Approval Bolsters Art at Auction - The New York Times
+6187,1,11 Fiction Podcasts Worth a Listen - The New York Times
+6200,2,Martha’s Vineyard, Off-Season - The New York Times
+6292,1,Donald Trump, Colombia, Fidel Castro: Your Wednesday Briefing - The New York Times
+6366,1,The Oakland Fire: Delving Into What Happened, and Why - The New York Times
+6392,2,Interpreting Kanye West’s Blond ’Do - The New York Times
+6414,1,Review: ‘No Knives in the Kitchens of This City’ Describes a Syrian Hell - The New York Times
+6475,1,George Michael’s Death Is Met With Disbelief by Celebrities on Twitter - The New York Times
+6502,1,The xx Lets the Sunshine In - The New York Times
+6516,1,Southern Cities Split With States on Social Issues - The New York Times
+6530,1,An Ode to ‘the Purple One’: Prince’s Most Memorable Albums - The New York Times
+6531,1,Prince’s Heels Elevated Him as a Style Icon - The New York Times
+6550,3,Prince’s Addiction and an Intervention Too Late - The New York Times
+6551,1,Is Britney Spears Ready to Stand on Her Own? - The New York Times
+6560,9,In a Brooklyn Basement, Jazz With a Russian Accent - The New York Times
+6592,1,The Quinceañera, a Rite of Passage in Transition - The New York Times
+6705,2,Object Lessons: The New Museum Explores Why We Keep Things - The New York Times
+6726,1,N.B.A. to Move All-Star Game From North Carolina - The New York Times
+6753,2,From Syrian Rubble to German Concert Halls With a Piano, a Mission and Survivor’s Guilt - The New York Times
+6843,2,6 Tips for (Gracefully) Handling Rain on Your Wedding Day - The New York Times
+6904,1,Inside Hillary Clinton’s Outrage Machine, Allies Push the Buttons - The New York Times
+6942,1,A Mother Criticizes Vince Staples, and the Rapper Defends Her - The New York Times
+6962,3,Lil Wayne’s Album Is Stalled. His Opinions Are Still Flowing. - The New York Times
+6974,1,Bob Dylan, the Newest Nobel Laureate, Maintains His Reticence - The New York Times
+7004,2,The Rolling Stones Paint It Blue on Their New Album - The New York Times
+7036,1,‘Hamilton’ Cast’s Appeal to Pence Ignites Showdown With Trump - The New York Times
+7053,1,Long Before ‘Hamilton’ Brouhaha, Theater Was Anything but Polite - The New York Times
+7061,1,At Home With the Macabre - The New York Times
+7091,1,Donald Trump, Matteo Renzi, Shinzo Abe: Your Tuesday Briefing - The New York Times
+7112,2,Bob Dylan Sends Warm Words but Skips Nobel Prize Ceremonies - The New York Times
+7114,1,Madonna and Hillary: ‘Witch’ and ‘Nasty Woman’ as Sisters in Arms - The New York Times
+7122,2,Kanye West Visits Donald Trump - The New York Times
+7124,1,Democrats and Feds in Dispute on Trump’s D.C. Hotel Lease - The New York Times
+7125,1,Times Critics’ Top Books of 2016 - The New York Times
+7191,1,Clues to the Mystery of Prince’s Final Days - The New York Times
+7224,2,Vito Acconci, an Artist as Influential as He Is Eccentric - The New York Times
+7330,8,Toots Thielemans, Who Won Jazz Renown With the Harmonica, Dies at 94 - The New York Times
+7344,1,The Lonely Toil of Frank Ocean: Is It Art, or Denial? - The New York Times
+7411,5,Bob Dylan Wins Nobel Prize, Redefining Boundaries of Literature - The New York Times
+7441,4,Leon Russell, Hit Maker and Musicians’ Musician, Dies at 74 - The New York Times
+7456,4,Pittsburgh Symphony Orchestra Strike Is Resolved - The New York Times
+7461,1,One by One, ISIS Social Media Experts Are Killed as Result of F.B.I. Program - The New York Times
+7481,1,Beyoncé Leads With 9 Grammy Nominations - The New York Times
+7511,1,Why the ‘Ghost Ship’ Was Invisible in Oakland, Until 36 Died - The New York Times
+7518,1,George Michael, Pop Superstar, Is Dead at 53 - The New York Times
+7541,1,Paul Simon’s Ambition, and Inspiration, Never Gets Old - The New York Times
+7549,1,Muhammad Ali Dies at 74: Titan of Boxing and the 20th Century - The New York Times
+7589,1,For This Choreographer, the Olympics Are the Zenith - The New York Times
+7596,1,It’s Thrilling. It’s Chilling. It’s a 30-Minute Commercial. - The New York Times
+7616,1,Renée Zellweger Is Back and Standing Up for Herself - The New York Times
+7624,1,So You Think Your Place Is Small? - The New York Times
+7631,1,Obama Says African-American Museum Will Tell of ‘Suffering and Delight’ - The New York Times
+7675,1,‘The Revenge of Analog’: See It. Feel It. Touch It. (Don’t Click) - The New York Times
+7681,1,The Twists and Turns of ‘La Marseillaise’ - The New York Times
+9103,1,Glenne Headly, Star of ’Dirty Rotten Scoundrels’ and ’Dick Tracy,’ Dies at 62
+9494,1,Stevie Wonder Urges Love in Manchester: Anyone Who Claims Terror Due to Allah is a ’Liar’
+9800,1,Davi to Hollywood Elite: Invite Illegal Aliens and Refugees to the Oscars... or You’re Racists! - Breitbart
+9820,1,Hollywood Weaponizes Against Trump: CAA to Host ’Action’ Summit
+9865,1,Sheryl Crow Uses ’Deep Meditation’ to Stave Off Fear of Trump Apocalypse
+10120,3,Todd Rundgren: ’If You’re a Trump Supporter, Don’t Come to My Show’
+10417,1,Report: PETA Produced Fake Animal Abuse Video as Part of Attempted Viral Awareness Campaign - Breitbart
+10882,1,Dolce &amp Gabbana Designer Fires Back At ’Ignorant’ Miley Cyrus For Criticizing Brand’s ’Politics’
+11069,1,The ‘Yoof’ What Swung It? 72 Per Cent of Young People Vote
+11083,1,BET: Katy Perry Latest ‘White Pop Act’ to Appropriate ‘Black Urban Culture’
+11314,1,Man Sets Himself on Fire in Latest Facebook Live Suicide - Breitbart
+11847,1,Stars at Obama’s White House Farewell Bash Party Until 4 A.M.
+11940,1,Bruce Springsteen Rips ’Con Man’ Trump in Protest Song
+12050,1,Livewire: 59th Annual Grammy Awards
+12371,2,Bob Dylan Accused of Lifting Parts of Nobel Prize Speech from SparkNotes
+12401,1,Band Calls Out Austin’s SXSW Festival over Immigration Rules
+12509,1,WATCH: Code Pink Disrupts Launch of Pro-Israel Congressional Caucus: ’Israel Is an Apartheid State!’ - Breitbart
+12695,1,PHOTOS: Latin America Condemns Venezuela’s ’Excessive Use of Force’ Against Protests - Breitbart
+13011,2,Left-leaning Artists Produce Records to Support Planned Parenthood’s Abortion Mills
+13145,1,Swedish Woman of the Year Runner-Up Advocates Banning Men from Television
+13149,1,’Tear Down This Wall’: Border Concert to Defy Trump
+13244,2,Courtney Love Rips Linda Sarsour: ’Vile Disgrace to Women and All Mankind’
+13416,2,Birthplace of Grunge Mourns ’Seattle’s Son’ Chris Cornell
+13836,1,Report: Kid Rock Floated as Possible Senate Candidate
+14051,1,Progressives Plan National ’March for Truth,’ Demand Independent Russia Investigation - Breitbart
+14068,1,Toby Keith, 3 Doors Down to Perform at Trump Inauguration Concert
+14370,1,NCAA Set to Pick Title Sites, Could Leave North Carolina Out - Breitbart
+14635,1,Celebs Call for ’Month of Resistance’ to Fight ’Fascist’ Trump
+14705,1,Moby Claims He Has ’100% Real’ Intel on Trump and Russia
+14848,1,Chrissy Teigen Blames Trump for ’Crippling Anxiety’: ’Pay My Bill, POS POTUS’
+16161,1,RNC Finds Roger Clinton Living in House Owned by Former Bill Clinton Adviser - Breitbart
+16381,1,Jennifer Lopez Announces First Performance in Israel Amid Boycott Pressure
+16679,1,Labour ‘Apologises’ For ‘Jeering’ At Working Class Fishermen
+16878,1,Actor Jason Lee Confirms Exit from Scientology
+16977,1,Panic Hollywood: 100 Celebs Pledge to Stop ’Dangerous’ Donald Trump - Breitbart
+17037,1,Mark Ruffalo Under Fire for Casting Cisgender Actor in Transgender Drama - Breitbart
+17133,1,When Doves Cry: My Memories with Prince - Breitbart
+17333,1,Henry Rollins: White People Would ’Lose Their Minds’ If Forced to Be Black
+17374,1,Musician Sings for Venezuelans Stuck in Six-Hour Supermarket Lines
+17407,4,Musicians Attack Kentucky Gov. Matt Bevin With Tune ‘Crotch Crucifix’ - Breitbart
+17505,1,John Legend: Planned Parenthood ‘Protects People from an Oppressive Government’
+17664,2,Prince vs. The World: The Self Made Artist Who Gave the Middle Finger to the Establishment - Breitbart
+17671,2,Melissa Etheridge Pens Song in Response to Orlando Terror: ’How Can I Hate Them, When Everybody’s Got a Pulse?’ - Breitbart
+17823,1,Listen: Love Song Prince Wrote About Donald Trump
+17953,2,YouTube Generates over $1 Billion in Ad Revenue for the Music Industry in 2016 - Breitbart
+17991,1,Lena Dunham, Megyn Kelly Make Variety’s ’New Power New York’ List
+18052,1,Lena Dunham, Chelsea Clinton to Host Private Hillary Campaign Event in Hollywood - Breitbart
+18162,1,’Sag’ Awards: 69-Year-Old Susan Sarandon’s Cleavage Distracts During ’In Memoriam’ Tribute - Breitbart
+18283,1,Hollywood Boobs: Actresses Beg to Be Taken Seriously, But Can’t Quit Temptation of the Flesh - Breitbart
+18294,1,Cowherd: Steroid Users Should Be Allowed in Hall of Fame - Breitbart
+18302,5,After Fidel Castro: Five Cuban Dissident Artists You Need to Know
+18417,1,EXCLUSIVE: Rocker Andrew W.K. Is A ’Big Fan of Breitbart’ — ’Being Unhinged Is Underrated’ - Breitbart
+18786,3,200 Musicians Sign ’Billboard’s Open Letter to Congress For Gun Control - Breitbart
+19382,1,Anti-Donald Trump Rap Supergroup Plots to Disrupt RNC Convention - Breitbart
+19571,1,John Legend: Star-Spangled Banner is a ‘Weak Song’ - Breitbart
+19681,1,Jack Black Hacked: Actor ’Alive and Well’ After Death Hoax - Breitbart
+19891,1,R.E.M. Frontman Michael Stipe Stumps for Bernie Sanders in NYC... and Then Hot Dogs - Breitbart
+20167,1,Bret Easton Ellis: Hollywood Players in the Closet for Trump - Breitbart
+20343,2,Vatican Newspaper Eulogizes Pop Icon Prince
+20632,1,Sheryl Crow: ’I’m Embarrassed,’ I Don’t Let My Kids Watch TV When Trump Is On - Breitbart
+20659,1,Bill Clinton Aide Asked State Dept to Do Favor for Foundation Friend Bono - Breitbart
+21032,1,David Geffen Backs Away from Hillary, ’Not Supporting’ Anyone in Dem Primary
+21146,2,Led Zeppelin Wins ’Stairway to Heaven’ Copyright Case - Breitbart
+21292,1,Children’s Author Forced To Redraw 1966 Cartoon That ’Stereotypes’ An Arab Pirate
+21321,1,Hollywood Liberals Blame Trump for Violent Leftwing Protesters Shutting Down Free Speech
+21601,1,Dolly Parton Comes Out Against North Carolina Trans Bathroom Law: ’If I Have to Pee, I’m Gonna Pee’ - Breitbart
+21868,2,Obama Attends Final Kennedy Center Honors as President
+22109,1,Musicians For a ’Trump-Free America’ Launch Anti-Donald Campaign
+22630,1,Danny DeVito: NC’s Bathroom Law Treats Transgenders as ’Second-Class Citizens’
+22692,1,El Chapo is a Violent Murdering Criminal, Stop Glorifying Him
+22815,1,Posh BBC Director Joins Anti-Brexit Attack On Working Class Fishermen - Breitbart
+23034,1,Obama Awards Medal of Freedom in Star-Studded Ceremony
+23357,2,Macklemore Offers Penance for ’White Privilege’: Links His Success to Darren Wilson - Breitbart
+23358,2,One Judge Could Upend The Music Marketplace - Breitbart
+23622,2,Celebrities Offer Emotional Tributes to Prince - Breitbart
+23891,1,Kid Rock: F*** Colin Kaepernick - Breitbart
+23952,1,Singer-Songwriter Leonard Cohen Dies at 82 - Breitbart
+23955,1,Macklemore and Ryan Lewis Sought Race Experts for Latest Album - Breitbart
+24014,4,Charlie Daniels: Musicians Supporting Gun Control ’Don’t Know Anything About Guns’ - Breitbart
+24118,2,Paul McCartney Meets Privately with Hillary Clinton: ’She’s With Me’ - Breitbart
+24558,1,Susan Sarandon on Backing Bernie: ’I Don’t Vote with My Vagina’ - Breitbart
+24865,1,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+24906,1,Former Mexican President Vicente Fox Tapes Fake ’Debate’ With Donald Trump Over Border Wall - Breitbart
+24916,1,CAIR LA Chief Tweets, Deletes Wish for 2x Death in Russian Crash
+25063,1,Hollywood Quits Anti-Sharia Boycott, All-In for NC Trans Boycott
+25153,1,Kid Rock Endorses Trump to Run U.S. Like a Business: No Business Survives if It’s ’F**king Broke’
+25155,2,John Legend: Trump Supporters are Like People Who Allowed Slavery to Happen in 19th Century - Breitbart
+25350,2,Tom Morello Defends ’Huge Hero’ Fidel Castro
+25531,1,Jordan’s Mufti Under Fire for ’Allowing’ Condolences to Non-Muslims
+25856,1,Kassam On Gaunty: Demand Full Dental and Medical Checks for Calais Migrants
+26120,1,Rapper Everlast Warns Secret Service: Don’t Let Me Near Trump, I’ll ’Punch Him in His F—king Face’ - Breitbart
+26516,1,Twitter Co-Founder Evan Williams Hacked - Breitbart
+26759,2,Death Cab for Cutie: Our Concerts ’Will Always Be a Safe Place’
+26781,1,Celebrities Curse Up a Storm in Pro-Hillary Music Video
+26835,2,Singer Prince Dead at 57 - Breitbart
+26905,1,Brazil Parties Through Zika as Carnival Week Approaches
+26943,1,Rage Against the Machine Guitarist Tom Morello Compares Trump to ’Frat House Rapist’ - Breitbart
+27060,1,John Legend: Trump ‘Never Was a Winning Candidate’ - Breitbart
+27350,1,For Frank Sinatra, Jr. - Breitbart
+27562,1,UK Celebs ’Buddying’ Up With Child Migrants in Calais Jungle Camp
+27800,1,8 Artists and Entertainers Boycotting North Carolina over Religious Freedom Law - Breitbart
+27808,3,Parliament-Funkadelic Keyboardist Bernie Worrell Dies at 72 - Breitbart
+28013,1,Brazil: Congressional Committee Votes to Impeach President
+28367,1,Muslim Lawmakers Propose Banning Alcohol in Indonesia
+28512,1,Dennis Quaid: Gun Control as American as Football and Taylor Swift
+28650,2,Springsteen: Black Lives Matter a ’Natural’ Response to Injustice
+28816,1,Powell Email: Bohemian Grove Attendees Will Vote Against Trump
+28902,1,Hollywood ’Power Women’ Keep Wallets Closed for Hillary
+29243,2,David Byrne: Guns a ’Public Health Hazard,’ Should Be Regulated Like Cigarettes And ’Sugary Drinks’ - Breitbart
+29414,2,Rocker Andrew W.K. Launches His Own Political Party — The ’Party Party’ - Breitbart
+29620,1,Kid Rock Takes Heat for Line of Pro-Donald Trump Merchandise
+29848,1,Trump to Michigan Rally: ’Hillary’s Guilty. She Knows It’
+30159,1,Zuckerberg’s Amnesty Org Asks For ’Love’ Messages to ’Immigrants’
+30210,1,Tracy Morgan Cancels Mississippi Show to Protest Religious Liberty Law - Breitbart
+30412,2,20 Most Epic Celebrity Trump Meltdowns of 2016
+30466,1,Bernie Sanders Defiant: ’We’re Gonna Win California!’ - Breitbart
+30740,1,Former Manson Cult Member Leslie Van Houten Gets Parole Recommendation Four Decades After Notorious Murder Spree - Breitbart
+30741,3,Report: Prince Died of Drug Overdose - Breitbart
+30966,1,Obama White House Praises Kendrick Lamar’s Racially Charged Grammy Performance
+31167,2,Musician Billy Corgan Attacks SJWs, Says Facebook Too Close to ’Big Government’ - Breitbart
+31169,1,Celebrities Trash Police in ‘Where is the Love?’ Music Video Calling for Peace - Breitbart
+31428,1,Merle Haggard’s ’Merle’s Girls’ Marijuana to Launch in Colorado
+31593,1,Roberts praises lower court judges in annual SCOTUS report
+31676,1,Will black college band perform at Trump inauguration?
+31845,1,Michelle Obama discusses ’surprisingly emotional’ final days in WH
+31891,1,Toby Keith, 3 Doors Down to play inauguration concert
+32081,1,Protesters across globe rally for women’s rights
+32371,1,Ex-Manson Family member found ’suitable for parole’
+32554,1,Yoko Ono Fast Facts
+32681,1,’La La Land’ director on love, romance and that ending
+32718,1,Rick Astley is on a (Rick) roll
+32876,1,Why South Korean companies, entertainers are getting cold shoulder in China
+32945,1,Philippine protesters condemn drug war on anniversary of uprising
+33275,1,Zedd speaks out against Trump’s travel ban
+33293,1,Bus plows into parade crowd in Haiti, killing 38
+33337,1,Dutch elections: Populism on the rise?
+33370,1,SXSW gets political: All eyes on Trump
+33371,2,Mick Fleetwood opens up about his passion for the arts at SXSW
+33372,1,SXSW artist: Travel ban contributed to racism
+33536,1,Captivating portraits of modern-day samurai
+33567,1,The millennials cashing in on Africa’s internet addiction
+33601,1,CNN 10 - March 30, 2017
+33842,1,Dazed but defiant, Stockholm unites after attack
+33907,2,Guitarist J. Geils found dead in his home
+33980,1,British woman fatally stabbed by Palestinian in Jerusalem, police say
+34005,1,Willie Nelson Fast Facts
+34099,1,Prince mourned one year after his death
+34149,1,March for Science: Worldwide protests begin
+34290,1,Mark David Chapman Fast Facts
+34499,1,Dems hope Quist will win over Montana’s red voters
+34769,1,Chris Cornell hanged himself, medical examiner says
+34853,1,22 dead after blast at Manchester concert
+34921,1,Big Sky battle: The singer vs. the millionaire
+34979,1,Ariana Grande announces Manchester benefit concert
+34982,2,Music legend Gregg Allman dies at 69
+35022,1,’The Square’ skewers art world in Palme d’Or-winning satire
+35093,15,How the ’Sgt. Pepper’ cover might have looked today
+35211,1,Two arrested in Oakland’s deadly Ghost Ship fire
+35368,2,Paul McCartney Fast Facts
+35370,1,Brian Wilson Fast Facts
+35429,1,Macy Gray talks racism in America and her biggest problem with Trump
+35773,1,Amjad Sabri, famed Sufi singer, gunned down in Pakistan
+35809,1,Ralph Stanley, bluegrass music legend, dies at 89
+35998,1,N.C. lawmakers leave bathroom law largely intact
+36111,1,Beyoncé to police: ’Stop killing us’
+36465,1,Labor, abortion rights groups praise Kaine pick
+36859,1,Skip the balloons, fund medical research
+37052,1,Jill Stein: I will have trouble sleeping at night if either Trump or Clinton is elected
+37170,1,Cause of death: bagpipes
+37259,1,MTV VMAs 2016: 5 reasons to watch
+37300,1,Mexican music icon Juan Gabriel dies days after wowing crowds at last concert
+37379,1,Bieber, Bowie make Guinness World Records
+37458,1,Fred Hellerman, last surviving member of the Weavers, dies
+37635,1,Paralympics day 4: Tatyana McFadden begins gold rush, Brazil’s sprint stars
+37790,1,Teacher serenaded by students dies
+37852,1,Trump campaign defends son’s Skittles tweet
+37929,1,Obama: African-American museum helps tell fuller story of America
+38190,1,The man who ’invented’ the supermodel
+38494,1,Clinton and Trump’s over-rehearsal made for bad theater
+38705,1,Paris attacks: A year of grief, anger, change
+38709,6,Leon Russell, member of Rock &amp Roll Hall of Fame, dies at 74
+38712,1,Bikers rescue stranded Bruce Springsteen
+38851,4,Syrian musicians who fled war form orchestra in Europe
+38961,1,Little Richard Fast Facts
+39123,2,Keith Richards Fast Facts
+39146,1,Bill Gates Fast Facts
+39206,1,5 things for Tuesday, December 6
+39224,1,White Supremacist Richard Spencer speaks at Texas A&ampM
+39254,1,Oakland fire: Warehouse not inspected in 30 years
+39258,1,The many incarnations of singer Junaid Jamshed
+39310,1,’La La Land’ strikes just the right notes
+39317,1,Patti Smith stands in for no-show Bob Dylan at Nobel ceremony
+39324,1,’Days of Our Lives’ star Joseph Mascolo dies at 87
+39343,1,The forbidden art that’s booming in Jordan
+39473,2,The rock guitarist ’better’ than Hendrix
+39487,1,Phil Spector Fast Facts
+39561,1,Dolly Parton Fast Facts
+39578,1,Berlin attack: Fingerprints clue in manhunt
+39642,1,Wham! star George Michael has died
+39648,1,George Michael: Chart topper and cultural icon dead at 53
+39651,1,2016 celebrity deaths: A year of great loss
+39665,1,Black box from crashed Russian military plane found
+39688,1,2016: The year the music died
+39784,1,Ohio transgender teen’s mom: ’He was an amazing boy’
+39884,1,History moment awaits Palestine at Asian Cup
+39888,1,Fey, Poehler jokes light up Golden Globes
+39921,1,Titanic letter: ’Disgraceful’ treatment after rescue
+39988,1,Legendary punk rock producer Kim Fowley dead at 75
+40257,1,5 authors teens will be reading next
+40354,1,Les Paul’s Black Beauty electric guitar to be auctioned
+40357,1,2015 Grammys: Red carpet
+40395,1,40 reasons why ’SNL’ is still awesome
+40473,1,Director of ’Paradise Lost’ trilogy dies
+40483,1,Kurt Cobain’s credit card is up for sale
+40507,1,Hot rod frenzy
+40546,1,Fred Craddock, ’preaching genius,’ dies at 86
+40762,1,’Dancing With the Stars’ Season 20 premieres
+40995,1,Outrage over Jamie Foxx’s Bruce Jenner joke at awards
+41044,1,Cynthia Lennon, first wife of John Lennon, dead at 75
+41071,4,CNN Hero helps Miami kids choose ’Guitars Over Guns’
+41091,1,Former Lynyrd Skynyrd drummer Robert Burns dies
+41179,2,Frances Bean Cobain on life after Kurt’s death
+41206,1,Geoffrey Lewis, frequent co-star of Clint Eastwood, dies
+41235,1,Gwyneth Paltrow cuts back for food stamp challenge
+41252,1,Justin Timberlake, Jessica Biel welcome baby
+41293,1,’When a Man Loves a Woman’ singer Percy Sledge dies
+41444,1,Photographer unites world’s greatest rock stars
+41462,1,Tsarnaev trial: The middle finger seen ’round the world
+41492,1,Netflix to stream ’Full House’ reunion, spinoff
+41523,2,In Nepal, lift spirits through music (Opinion)
+41630,1,Boston Marathon bomber Dzhokhar Tsarnaev gets death
+41635,2,Musicians mourn the loss of B.B. King
+41678,1,The mystery of the Tsarnaev brothers (Opinion)
+41697,1,David Letterman: Top 10 reasons he’s a comedy god
+41699,4,Blues legend B.B. King dies at age 89 in Las Vegas
+41753,1,Mary-Kate and Ashley Olsen out for ’Full House’ revival
+41791,2,B.B. King’s daughters:  Dad was ’poisoned’
+41799,1,The invention that changed music forever
+41970,1,Colbie Caillat engaged to Justin Young
+42008,2,Meet Alasdair Howell: The 10-year-old piano prodigy
+42078,1,Making music from a cigar box
+42128,1,Obama delivers emotional eulogy for Beau Biden
+42137,1,’Chiraq’: Spike Lee film title likens Chicago to Iraq?
+42249,2,Ornette Coleman, influential jazz musician, dies at 85
+42294,1,5 Seconds of Summer’s Michael Clifford burned in show
+42445,1,Johnny Depp’s &quotprivate village&quot up for sale
+42602,1,Springsteen to the Monkees: Unexpected Vietnam anthems
+42666,1,Peek at tomorrow from today’s top designers
+42686,1,Here’s your first look at the ’Steve Jobs’ movie
+42721,1,A brief history of high fashion kicks
+42809,1,Mexico’s hidden people
+42883,1,Nick Cave’s son dies after falling from cliff
+42935,1,Chris Brown leaves the Philippines
+42999,1,Pfeiffer: Meek Mill feud with Drake ’brilliant marketing’
+43060,1,The art of the ’death match’
+43142,1,3 more states are proposing ’bathroom bills’ that critics are calling discriminatory
+43925,1,Texas’ controversial ’bathroom bill’ cleared its first hurdle — here’s what you need to know about it
+44586,1,Fyre Festival organizer says he was ’naive’ about the luxury event that became a nightmare  — but he’s still planning another one
+44600,1,The untold story of Baked Alaska, a rapper turned BuzzFeed personality turned alt-right troll
+44912,2,The latest test for the anti-Trump movement rests on a banjo-playing Montanan
+45937,1,These are the shocking allegations that Kesha’s ex-producer calls a ’vicious smear campaign’
+46204,1,I tried Tidal’s $20/month ’lossless’ music service on good speakers and couldn’t tell any difference
+46653,1,The most terrifying part about getting struck by lightning is what happens to you afterwards
+46664,1,Prince has died at 57
+47371,2,This dad quit his job and paid off $50,000 of debt, thanks to a side job that earns up to $23,000 a month
+47527,1,Here’s the biggest reason Apple might want to acquire Jay Z’s streaming service Tidal
+48281,1,This woman chose to go homeless in San Francisco instead of paying high rent
+48419,1,The iPhone 7 is Apple’s hype machine, perfected
+48446,1,The man who attempted to assassinate Ronald Reagan was released from mental hospital — here’s what his life will look like
+49568,2,A 23-year-old rapper who refuses to sign a record deal is making history at the 2017 Grammys
+49748,1,Richard Marx helped subdue an unruly passenger having a mysterious meltdown on a Korean Air flight
+49796,1,33 startups to watch in 2017, according to VC investors
+49805,1,’A talented and gentle soul’: Celebrities react to George Michael’s death
+49906,1,Run the Jewels’ Gloriously Obscene Rebellion
+49955,1,The Atlantic  Politics & Policy Daily: Mamma Mia!

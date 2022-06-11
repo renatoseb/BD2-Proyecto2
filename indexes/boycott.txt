@@ -1,0 +1,554 @@
+64,1,A New Casualty of Syria’s War: Drinking Water in Damascus - The New York Times
+228,1,Publishers Encounter Political Storms in Turn to Right - The New York Times
+300,1,Trump National Security Adviser Called Russian Envoy Day Before Sanctions Were Imposed - The New York Times
+321,2,‘All Talk,’ ‘No Action,’ Says Trump in Twitter Attack on Civil Rights Icon - The New York Times
+366,2,Bill Maher Isn’t High on Trump: The State of Free Speech in a New Era - The New York Times
+445,1,Toby Keith and Trump Light Up a Lower-Wattage Concert - The New York Times
+465,2,‘A Dog’s Purpose’ Premiere Is Canceled Amid Outrage Over Video of Distressed German Shepherd - The New York Times
+674,1,Trump’s Immigration Order Could Have a Big Impact on Sports - The New York Times
+677,1,Trump’s Visa Ban May Keep Nominated Iranian Director From Attending Oscars - The New York Times
+731,1,Israel’s Hard-Liners Want to ‘Go Big’: Annex a Settlement - The New York Times
+872,2,Early Signs Suggest Trump’s Actions Are Taking a Toll on Trump Brand - The New York Times
+975,4,Trump Assails Nordstrom for ‘Unfairly’ Dropping His Daughter Ivanka’s Line - The New York Times
+976,1,Trump Says Nordstrom Treated His Daughter ‘So Unfairly’ Fireworks Before Final Vote on Jeff Sessions - The New York Times
+995,1,Russians Implicated in Doping Still Compete, Angering Other Athletes - The New York Times
+1001,2,Kellyanne Conway Promotes Ivanka Trump Brand, Raising Ethics Concerns - The New York Times
+1002,1,Kushner Family Is in Talks to Buy Miami Marlins - The New York Times
+1043,1,Adele vs. Beyoncé: What’s at Stake for the Grammys? - The New York Times
+1064,1,Trump’s Cabinet, Refugee Ban, Grammys: Your Weekend Briefing - The New York Times
+1097,2,‘More Artists Are Going to Boycott’: The Grammys Face Fallout After Fraught Awards - The New York Times
+1108,4,Shopping Becomes a Political Act in the Trump Era - The New York Times
+1169,1,Trump’s News Conference, Russia, Facebook: Your Evening Briefing - The New York Times
+1177,1,On a ‘Day Without Immigrants,’ Workers Show Their Presence by Staying Home - The New York Times
+1283,1,Gaza Is Outwardly Rebuilding, but Inwardly Fearful - The New York Times
+1299,1,Kim Jong-nam, Donald Tsang, Mexico: Your Morning Briefing - The New York Times
+1372,8,The Anti-Trump Activist Taking On Retailers - The New York Times
+1381,1,And the Oscar Winners Will Be ... - The New York Times
+1393,1,‘Moonlight,’ ‘La La Land’ and Everything Else That Happened at the Oscars - The New York Times
+1428,1,Trump Addressed Joint Session of Congress For the First Time - The New York Times
+1569,1,U.S. Starts Deploying Thaad Antimissile System in South Korea, After North’s Tests - The New York Times
+1574,1,Donald Trump, François Fillon, Erdogan: Your Tuesday Briefing - The New York Times
+1594,1,China Warns of Arms Race After U.S. Deploys Missile Defense in South Korea - The New York Times
+1639,3,As Leaders Argue, South Korea Finds China Is No Longer an Easy Sell - The New York Times
+1641,1,Politicians to Skip Boston St. Patrick’s Day Parade After Gay Group Is Banned - The New York Times
+1796,1,Ivanka Trump to End Fine Jewelry Line in Favor of Mass-Market One - The New York Times
+1803,1,California Today: A Gallery Flees and Neighborhood Activists Cheer - The New York Times
+1818,1,Muirfield’s Mulligan, Allowing Female Members, Is a Grudging Blow to Bigotry - The New York Times
+1875,1,‘Kids Are Unpredictable’ - The New York Times
+2098,1,What Can You Wear on a Plane? It Depends Who’s Paying - The New York Times
+2126,1,The L.P.G.A. Tour and Donald Trump: It’s Complicated - The New York Times
+2130,2,No Resolution in Pay Dispute Involving U.S. Women’s Hockey Team - The New York Times
+2166,2,Bathroom Law Repeal Leaves Few Pleased in North Carolina - The New York Times
+2193,1,9 Comic Book Heroes Who Could Come Out on the Big Screen - The New York Times
+2214,2,They Finally Got Paid. Now They’re Ready to Play. - The New York Times
+2288,1,Fox Losing More Advertisers After Sexual Harassment Claims Against O’Reilly - The New York Times
+2289,1,After Ailes, the Pirate Flag Still Flies at Fox News - The New York Times
+2303,1,North Korea Fires Ballistic Missile a Day Before U.S.-China Summit - The New York Times
+2309,2,N.C.A.A. Ends Boycott of North Carolina After So-Called Bathroom Bill Is Repealed - The New York Times
+2363,3,As Anger at O’Reilly Builds, Activists Use Social Media to Prod Advertisers - The New York Times
+2472,1,United Grapples With PR Crisis Over Videos of Man Being Dragged Off Plane - The New York Times
+2473,2,Video of United Airlines Passenger Creates Furor in China, Too - The New York Times
+2488,1,Hasan Minhaj to Perform at White House Correspondents’ Association Dinner - The New York Times
+2494,1,Syria, Ahmadinejad, United Airlines: Your Morning Briefing - The New York Times
+2579,1,Appeals Court Favors Transgender Student in Virginia Restroom Case - The New York Times
+2618,1,Jimmy Buffett’s ‘Margaritaville’ Is a State of Mind, and an Empire - The New York Times
+2629,1,North Carolina and Mississippi See Tourist Backlash After L.G.B.T. Laws - The New York Times
+2703,1,U.S. Warns North Carolina That Transgender Bill Violates Civil Rights Laws - The New York Times
+2857,1,Palestinians Elect a New President (on a Reality TV Show) - The New York Times
+3192,1,Theresa May, the Steely, Steady Woman Who Might Lead Britain - The New York Times
+3296,1,Transgender Woman Is Charged With Voyeurism at Target in Idaho - The New York Times
+3306,1,Mike Pence: A Conservative Proudly Out of Sync With His Times - The New York Times
+3580,1,The Soviet Doping Plan: Document Reveals Illicit Approach to ’84 Olympics - The New York Times
+3690,1,For Those Keeping Score, American Women Dominated in Rio - The New York Times
+3806,1,Never the Noodles Shall Meet: A Chinese Treaty Is Tested - The New York Times
+4153,3,Torn Over Donald Trump and Cut Off by Culture Wars, Evangelicals Despair - The New York Times
+4316,2,Jack Greenberg, a Courthouse Pillar of the Civil Rights Movement, Dies at 91 - The New York Times
+4467,1,A One-Cent Soda Tax Gets Expensive in California - The New York Times
+4519,1,Roy Cooper Holds Thin Lead Over Gov. Pat McCrory in North Carolina - The New York Times
+4678,1,Nikki Haley’s Path: From Daughter of Immigrants to Trump’s Pick for U.N. - The New York Times
+4855,1,Iran’s President Says Donald Trump Can’t Tear Up Nuclear Pact - The New York Times
+4865,1,Battle Over New Bus Terminal Threatens to Paralyze Port Authority’s Board - The New York Times
+4921,1,Geert Wilders, Dutch Far-Right Leader, Is Convicted of Inciting Discrimination - The New York Times
+4969,1,‘I’m Here to Help,’ Trump Tells Tech Executives at Meeting - The New York Times
+4989,2,North Carolina’s Partisan Rift Widens in Fight Over Governor’s Powers - The New York Times
+5021,2,Minnesota Players Rescind Boycott and Will Play in Holiday Bowl - The New York Times
+5091,1,For Obama and Netanyahu, a Final Clash After Years of Conflict - The New York Times
+5114,1,Denying Conflict, Trump Family Tries to Resolve Potential Problems - The New York Times
+5156,1,For the Trumps, ‘Made in U.S.A.’ May Be a Tricky Label to Stitch - The New York Times
+5164,1,In Bahrain, Arabs and Jews Gather (and Dance) at a Hanukkah Celebration - The New York Times
+5197,2,Criticizing Israel, Bernie Sanders Highlights Split Among Jewish Democrats - The New York Times
+5242,1,North Carolina Restroom Law Becomes a Central Election Issue - The New York Times
+5289,1,Your Evening Briefing: Hillary Clinton, Donald Trump, Cultural Revolution - The New York Times
+5519,1,Checking In at Trump Hotels - The New York Times
+5885,1,As Colin Kaepernick’s Gesture Spreads, a Spirit Long Dormant Is Revived - The New York Times
+6179,1,American Companies Tailor Responses to Trump Election - The New York Times
+6311,1,Howard Schultz to Step Down as Starbucks Chief Next Year - The New York Times
+6432,1,Fordham Basketball Coach Recruits With an Academic Fast Track - The New York Times
+6464,1,Battle Lines Turn North Carolina’s Moderation Into a Distant Memory - The New York Times
+6477,1,A Defiant Israel Vows to Expand Its Settlements - The New York Times
+6516,2,Southern Cities Split With States on Social Issues - The New York Times
+6558,1,Rift Between Labor and Environmentalists Threatens Democratic Turnout Plan - The New York Times
+6605,2,Choosing a School for My Daughter in a Segregated City - The New York Times
+6689,1,Dallas Gunman Had Plans for Wider Attack, Police Say - The New York Times
+6708,1,How Much Can Mike Pence Help Donald Trump? - The New York Times
+6743,1,Supreme Court Blocks Order Allowing Transgender Student Restroom Choice - The New York Times
+6825,1,Chinese-Canadians Fear China’s Rising Clout Is Muzzling Them - The New York Times
+6831,1,Yesterday, Outraged by Apple’s Tax Dodge. Today, by Its Tax Bill. - The New York Times
+6972,1,The New Protesters Defying Donald Trump: His Customers - The New York Times
+6987,2,For Helping Immigrants, Chobani’s Founder Draws Threats - The New York Times
+7070,1,If Trump Tweets It, Is It News? A Quandary for the News Media - The New York Times
+7085,1,Matteo Renzi, Oakland, Aleppo: Your Monday Briefing - The New York Times
+7133,1,North Carolina Governor Signs Law Limiting Successor’s Power - The New York Times
+7149,1,Monsieur Vogue Is Leaving Trumpland - The New York Times
+7417,1,Settlement Debate Flares Again in Israel’s Quarrel With Rights Group - The New York Times
+7460,1,Trump Leans on Carrier to Keep 2,000 U.S. Jobs From Moving to Mexico - The New York Times
+7522,1,In John Kerry’s Mideast Speech, a Clash of Policies and Personalities - The New York Times
+7574,1,Donald Trump Keeps Distance in G.O.P. Platform Fight on Gay Rights - The New York Times
+7769,3,U.S. Athletes Weigh a Boycott Over Russian Doping - The New York Times
+7882,1,DNC Contender Ellison Holds Press Event With CAIR Radical - Breitbart
+7888,4,Kathy Griffin Faces Calls for Boycott of Comedy Tour after Trump ’Beheading’ Photo - Breitbart
+7913,2,Shaun King, The Nation’s Whitest Black Activist, ’Boycotts’ NFL for ’Bigotry’ and ’Anti-Blackness’
+7966,1,CNN Drops Kathy Griffin after Trump ’Beheading’ Photo
+7990,1,Alex Jones Leaks Megyn Kelly’s Interview Pitch: ’It’s Not Gonna Be Some Gotcha Hit Piece, I Promise’ - Breitbart
+8001,1,ADT to Pull Advertising from CNN After Kathy Griffin ’Beheading’ Photo
+8027,9,Despite Failure of North Carolina Boycott, NCAA to Renew Game Ban Against Bathroom Bill - Breitbart
+8038,1,Fashion Notes: Melania Trump Stuns In Dolce &amp Gabbana For Gorsuch Ceremony
+8063,1,Schwarzenegger Quits ’Celebrity Apprentice’ After One Season
+8083,1,Transgender Politics: NC Keeps Core of HB2 Sexual Privacy Law While Ending Sports Boycott - Breitbart
+8264,3,’For Honor’ Players Plan Boycott of Game - Breitbart
+8294,2,MILO: Dear Netflix People, Stop Race-Baiting - Breitbart
+8379,1,Families of Terror Victims Urge FIFA to Act Against Palestinian Soccer Chief Incitement to Terror
+8409,2,NBA Commissioner Adam Silver Doubles Down on League’s Transgender Activism Stance - Breitbart
+8411,1,Indiana Kellogg’s Snacks Plant Expected to Close by September - Breitbart
+8486,1,Kendall Jenner Was Nice To A Police Officer In A Pepsi Ad, And The Left Is Mad - Breitbart
+8497,2,Lady Gaga Delivers Her Most Subversive Performance at Super Bowl
+8531,1,Tourists Flee ’Nightmare’ Paris Amidst Rising Theft, Assaults
+8642,1,Cost of Target’s Data Breach Nearing $300 Million
+8681,1,Anderson Cooper ’Appalled’ by Kathy Griffin ’Beheading’ Photo: ’Completely Inappropriate’
+8695,2,Exclusive: Federal Data Can Resolve Vote Fraud Debate, Says Vice Chairman of Donald Trump’s Election Integrity Commission - Breitbart
+8730,2,ABC Faces Boycotts, Backlash after ’Last Man Standing’ Cancelled
+8762,5,Pamela Geller: Universities Normalizing Anti-Semitic Voices like Linda Sarsour but Silencing Jewish Conservatives
+8886,1,Gorka Smites Haters, Radical Islamists in Jerusalem Post Speech - Breitbart
+8888,1,Trump Warns of Potential ’Major, Major Conflict with North Korea’
+8965,8,Trump Wine Boycott at Wegmans Backfires - Breitbart
+9007,1,Poll: Transgender Goal Supported by Only 22.7 Percent of Americans - Breitbart
+9023,1,Donald Trump Junks Barack Obama’s Pro-Transgender Policies - Breitbart
+9120,1,Chrome Extension Blocks United Flights from Travel Search Results - Breitbart
+9200,1,Report: Sears, Kmart Remove Trump Line of Home Furnishings from Websites - Breitbart
+9220,1,USA Today’s Kelly Lawler Falsely Brands MILO as ’White Nationalist,’ ’Racist,’ and ’Alt Right’ - Breitbart
+9288,1,Geller: MILO to Speak at AFDI #CancelSarsour Protest at CUNY - Breitbart
+9319,1,YouTube Restores Conservative ’Legal Insurrection’ Channel Following Backlash - Breitbart
+9328,8,Exclusive — Women Nationwide Cut Up Nordstrom’s Cards, Plan Boycotts After Political Decision to Drop Ivanka Trump Line - Breitbart
+9364,2,Goya Drops Puerto Rican Day Parade Celebrating Terrorist Freed by Obama
+9389,2,NCAA Shuns LGBTQ Groups, Restores NC as Destination for Championship Games - Breitbart
+9391,1,2017 Oscar Nominations: ’La La Land’ Dominates, #OscarsSoWhite Over - Breitbart
+9433,1,J.P. Morgan Chase Pulls Ads from NBC News over Megyn Kelly Interview with Alex Jones
+9479,2,Muslim Reform Leader Asra Nomani: Donald Trump’s Overseas Trip Has Been ’Genius’ So Far
+9486,1,MILO’s Book ’Dangerous’ To Be Released In June Will Now Include Berkeley Riots - Breitbart
+9705,2,BDS Fail: UN Ambassador Nikki Haley Says ’U.S. Has Israel’s Back’ Against ’Hateful’ Boycott Movement - Breitbart
+9777,1,97% of Voters in Bankrupt Puerto Rico Want Statehood - Breitbart
+9781,1,Melania Trump Rips Kathy Griffin: Beheading Photo ’Makes You Wonder About Mental Health’
+9851,4,Resistance: Democrats Plan to Withhold Federal Taxes to Protest Trump - Breitbart
+9868,3,Megyn Kelly Faces Boycott over Alex Jones Interview
+9933,1,Boy George Defends Melania Trump from ’Mean-Spirited’ Attacks
+9941,1,Restored: 5 Ways Trump, Netanyahu Improved U.S.-Israel Relations
+9993,1,College Marching Band Takes Heat for Playing Trump Inauguration
+10194,4,Boycott Targets Uber for Not Joining Strike in Protest of Trump Travel Ban - Breitbart
+10259,2,NCAA, Big 12 Keeps Watchful Eye on Texas Bathroom Bill - Breitbart
+10274,9,Hannity: ’What Has Been Happening to Me in the Last Week Is a Kill Shot’ - Breitbart
+10275,2,Chinese Social Media Rages over United Airlines Controversy - Breitbart
+10294,2,Sore Loser: Rep. Jared Huffman (D-CA) to Boycott Inauguration
+10380,2,Nikki Haley Blasts U.N. Human Rights Office for ‘Unfair Bias’ Against Israel in Latest Report
+10432,2,NC School District Fights to Keep Pro-Transgender Message in First-Grade Curriculum - Breitbart
+10472,2,Fox Sports’ Shannon Sharpe Urges Patriots to Boycott White House Visit After Super Bowl LI Win - Breitbart
+10707,1,Iran’s Supreme Leader: ’Real War’ with West Is ’Culture War’ on TV, Internet
+10977,1,Justice Department Quits Pro-Transgender Lawsuit - Breitbart
+11176,1,Virgil: Minutes of the Deep State Executive Committee on the Permanent Campaign Against Trump, Part 2
+11272,1,Amnesty Advocates Boycott Agency Meetings When Pro-American Advocates Are Invited - Breitbart
+11285,2,Watch: Alex Marlow Talks Media, Free Speech, and Rhetoric with Bill Maher - Breitbart
+11326,4,NBC Attacks Trump for Switching to iPhone for Security Reasons - Breitbart
+11420,1,’Top Chef’ Host Padma Lakshmi Calls MILO A ’Neo-Nazi,’ Calls Berkeley Riot A ’Victory’ - Breitbart
+11606,1,Jerusalem Unity Day: Republicans, Democrats Join Forces To Celebrate Israel’s Eternal Capital - Breitbart
+11651,1,WATCH: Netanyahu Thanks House For Condemning UN Resolution
+11846,1,Former Rockette: Inauguration Performance Will ’Unite’ America
+11947,4,MILO and Pamela Geller Protest Sharia-Advocate Linda Sarsour in NYC - Breitbart
+11959,1,New York Democrat Pressures CUNY over Hosting Pro-Sharia BDS Activist Linda Sarsour
+11995,4,Hollywood’s Partisan Crusade Strengthens Boycotts, Piracy
+12085,1,Chicago Review of Books Editor Says MILO’s Words Could Inspire Terrorism - Breitbart
+12102,6,Dolce &amp Gabbana Mocks Left-Wing Anti-Melania Protesters with ’Boycott Dolce &amp Gabbana’ T-Shirts - Breitbart
+12241,1,Patriots Tight End Martellus Bennett to No-Show White House Celebration with President Trump - Breitbart
+12377,3,#FireColbert Trends as CBS Host Feels Heat for ’Homophobic’ Trump Joke
+12451,1,Gr-r-reat? Why Amazon’s Whole Foods Deal Will Hurt Kellogg And Similar Brands - Breitbart
+12463,1,Designers Lining Up to Dress Melania Trump for Inauguration
+12468,1,L.A. Olympics CEO: Trump More Helpful than Obama - Breitbart
+12471,3,Trump Tweets Support for L.L. Bean Against Leftist Boycott
+12509,1,WATCH: Code Pink Disrupts Launch of Pro-Israel Congressional Caucus: ’Israel Is an Apartheid State!’ - Breitbart
+12530,1,Report: Barron Trump ’Panicked’ after Seeing Kathy Griffin ’Beheading’ Photo
+12533,2,FS1’s Rob Parker: Patriots Should ’Whitewash’ the White House - Black Players Should Boycott - Breitbart
+12556,1,Bill Maher Defends MILO Invitation: Boycotters ’Reason Liberals Lose Elections’ - Breitbart
+12678,1,Target Raises Free Shipping Purchase Amount for Online Shoppers as Other Retailers Lower It
+12898,1,Kathy Griffin after Trump ’Beheading’ Photo: ’I Do Not Condone Any Violence’
+13014,1,NAZARIAN: That Oscar Win Was a Loss for Iran’s Freedom-Craving People - Breitbart
+13022,1,Kathy Griffin ’Sorry’ for Trump ’Beheading’ Photo: ’I Went Too Far, I Was Wrong’
+13037,6,Voters Defeat Transgender Ideology in North Carolina ’Bathroom’ Debate - Breitbart
+13125,1,Will Anthem Kneeling Hurt Colin Kaepernick in Free Agency? - Breitbart
+13235,1,Kellogg’s ‘Values’? Corn Flakes Invented to Curb Masturbation
+13267,10,Trump Fans Urge Oscar Boycott: ’Put The Perverts Out of Business’
+13341,2,’Wonder Woman’ Makes History for Female Director with $100 Million Opening Weekend
+13359,1,Stephen Colbert Rides ’C*ck Holster’ Slur to New Ratings Heights
+13361,1,Designer Stefano Gabbana Proud to Dress Melania Trump
+13540,1,Schumer: ’I Respect’ Where Inauguration Boycotters Are ’Coming From’ - ’There Have Been So Many Irregularities’ - Breitbart
+13579,3,Report: Target’s CEO Opposed Transgender Plan Which Slashed $20 Billion in Stock Value - Breitbart
+13597,1,Teamsters’ President Jim Hoffa: Kellogg’s Has Turned Its Back on Working Families
+13646,1,CA State Senator Amends Bill to Make ’Discrimination Against’ Border Wall Contractors Legal - Breitbart
+13733,2,USA Today: NCAA Teams ’Should Boycott’ Arkansas Over Campus Carry
+13847,1,DELINGPOLE: Environmentalists Aren’t Just Wrong. They’re Loathsome And Evil Too
+13863,2,BDS Fail: Spanish Court To Try Boycott Israel Leaders For Harassing Matisyahu
+13995,1,Watch: SNL, Scarlett Johansson Mock Ivanka Trump with ’Complicit’ Perfume Ad
+14111,3,Lebanese Ministry Seeking to Ban Wonder Woman Movie over Israeli Actress
+14118,3,Geraldo Rivera: ‘Nordstrom’s Stabbed Ivanka in the Back’ - Breitbart
+14405,1,Report: Secret Service Opens Investigation into Kathy Griffin ’Beheading’ Photo
+14468,1,Actor: Hollywood ’Afraid’ to Fund Certain Films Under Trump
+14477,1,IDF Official: Ramallah Theater’s Boycott of ’Wonder Woman’ Shows ’Weakness and Fear’
+14488,2,BOOKLASH: The Celebrities Mad About MILO’s Book Deal - Breitbart
+14524,1,Public Protests Defeat Pro-Transgender Bill in New Hampshire - Breitbart
+14562,1,Sean Spicer Responds to Dem Lawmakers Boycotting Trump Inauguration: ’It’s a Shame’ - Breitbart
+14615,3,Dolce &amp Gabbana Launch Campaign Mocking Melania Trump Haters
+14676,1,Radiohead Strikes Back at Critics of Israel Concert: ’Offensive’ - Breitbart
+14868,3,EXCLUSIVE: Watch - Israeli Envoy Dani Dayan: Campaign to Silence Pro-Israel Voices on U.S. Campuses a ‘Real War’
+14913,1,Trump’s Buddies Belichick, Kraft Making Patriots Great Again This Offseason - Breitbart
+14925,2,Kellogg’s CEO: Massive Layoffs at Time of Massive Boycott Total Coincidence
+14947,2,Breitbart’s Marlow: O’Reilly Ouster ‘Pyrrhic Victory’ for Totalitarian Left
+14995,1,Study: Trump On Track to Be Most Mocked President on Late-Night TV in 25 Years
+15097,1,More Top Execs Fired at Financially Troubled Target Corp. - Breitbart
+15150,2,ABC Interrupts Playoffs to Promote ‘Black-ish’ Episode, Which Demeans Trump Supporters - Breitbart
+15157,1,Obama Tries to Calm Hysterical Left: ‘We’re Going to be Okay’ - Breitbart
+15238,1,FCC Considers Fining Stephen Colbert for Trump ’Cock Holster’ Joke
+15258,1,Sore Loser: Hollywood Dem. Rep. Ted Lieu to Boycott Inauguration
+15513,1,Dustin Hoffman: ’Subliminal Racism’ to Blame for ’White Oscars’
+15767,5,Al Sharpton Calls for National ’Tune Out’ of ’White Oscars’
+15819,3,Obama Joins Israel Boycott, Labels West Bank Goods
+15879,2,Target Spends $20 Million on One-Person Bathrooms After Transgender Stunt Sparks Boycott - Breitbart
+15883,2,Target CEO Blames Climate Change, Not Bathroom Policy, for Hurting Sales
+15900,1,Trump Helping Women and Gays Escape from the Democratic Plantation - Breitbart
+15929,1,’Empire’ Star Malik Yoba Checks Oscar Outrage: Hollywood Inclusion Isn’t a ’Birthright’ - Breitbart
+15939,1,Stephen K. Bannon: Claims of Anti-Semitism, Racism ’Just Nonsense’ - Breitbart
+16117,4,Black Lives Matter Protests U.S. Embassy In London: ‘This is Just The Beginning’
+16179,1,Backlash: Julie Delpy Apologizes After Wishing She Was Black In Hollywood - Breitbart
+16263,1,Tim Kaine Boycotted Netanyahu Speech, Backed Iran Deal - Breitbart
+16285,1,Target CEO Defends Pro-Transgender Policy, Stocks Crash Down Another $2 Billion - Breitbart
+16327,1,Black Lives Matter UK Leader Funded By Taxpayers - Breitbart
+16348,4,Target Boycott Crosses 1 Million Signers, Stock Sinks by $1.5 Billion - Breitbart
+16381,2,Jennifer Lopez Announces First Performance in Israel Amid Boycott Pressure
+16499,2,***Horse Race LiveWire*** Glenn Beck Equates Donald Trump to Wife Beater over Megyn Kelly Comments - Breitbart
+16564,2,ADL Calls Trump Plan to Ban Anti-Semites ’Anti-Semitic’
+16587,1,Obama Administration Allows Anti-Israel UN Resolution Against Settlements to Pass - Breitbart
+16603,1,Oscar-Winning ’12 Years a Slave’ Director: ’Let’s Fix’ Oscar Diversity Problem - Breitbart
+16693,1,Target’s Transgender Bathroom Disaster Is Huge Opportunity For Rivals, Say Brand Experts - Breitbart
+16787,1,Paper: Hillary Plans to Attack Sanders on Israel
+16920,1,Stacey Dash to Black Americans: Stop Listening to Liberals - ’I Am Sick of Settling for Breadcrumbs’
+17011,1,’Beyoncé Day’: Minnesota Governor Dedicates Day to ’Anti-Police’ Singer, Prince Fans Explode on Social Media - Breitbart
+17016,1,MILO: Jesse Jackson is ’Richard Spencer With A Tan’ - Breitbart
+17037,2,Mark Ruffalo Under Fire for Casting Cisgender Actor in Transgender Drama - Breitbart
+17048,3,Virgil: The Left’s Long March, Enabled by Corporate America: Ten Things to Know About Kellogg’s War Against Breitbart
+17053,1,Academy Hopes to Avoid Repeat of #OscarsSoWhite with Record 683 Member Invitations - Breitbart
+17368,1,Thief Targets ’Hamilton’ Audience in Pickpocketing Spree - Breitbart
+17371,1,Ted Cruz Campaign Selling ’Make Trump Debate Again’ Hats - Breitbart
+17377,3,Kellogg’s Facebook Pages Erupt with #DumpKelloggs Messages for Blacklisting Breitbart - Breitbart
+17544,1,Kellogg’s Stock Drops Another 1.44% at End of Thursday Trading - Breitbart
+17600,1,Mike Huckabee Plans Israel Trip to Show U.S. Support Despite Obama Actions - Breitbart
+17626,5,#ImWithAmber: Fans Call for Boycott of Johnny Depp’s Sweden Rock Concert over Abuse Allegations - Breitbart
+17701,5,#DumpKelloggs Trends #1 on Twitter Following Breitbart Boycott - Breitbart
+17775,2,Powerline Backs #DumpKelloggs: ‘Companies Like Kellogg Need to Understand That Ours is Not a One-Party State’
+17800,1,Grubhub CEO Tells Employees Who Agree with Trump to Resign - Breitbart
+17970,1,MILO Book Rockets to Top of Amazon Political Humor Category, Beats The Daily Show Book - Breitbart
+18017,1,NC Congressman: NBA Hypocrites for Pulling All-Stars from Charlotte But Playing China Preseason Games - Breitbart
+18026,5,Target Stays Silent as Mixed Bathroom Disaster Threatens Sales, Stocks - Breitbart
+18060,1,Spielberg Blasts #OscarsSoWhite: ’No Inherent or Dormant Racism’ in the Academy - Breitbart
+18157,1,Sex Shop ’Dildo Nativity Scene’ Sparks Anger
+18187,1,J Street Pushes Bernie Sanders Call For More Pro-Palestinian Democratic Platform
+18314,1,Judge Linked to Group that Calls for Boycott of Trump Businesses
+18444,3,Oscar-winning Producer to #OscarsSoWhite: ’Stop Acting Like Spoiled Brats’
+18486,1,Donald Trump: Candidates Called, Want to Join My Event - Breitbart
+18487,1,***Horse Race LiveWire*** 1 Day to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+18511,2,Breitbart’s Aaron Klein Reveals: Steve Bannon Pushed Me to Expose Anti-Semitism on U.S. College Campuses - Breitbart
+18517,4,EXCLUSIVE: Pam Geller Places anti-Jihadi Ads on San Fran Buses
+18552,1,Media Downplay Donald Trump’s Successful Foreign Policy Speech
+18597,3,#BoycottTarget Effort over Pro-Transgender Bathroom Policy Goes Viral
+18637,1,Open Letter to Leaders: Gender Ideology ‘Putting Our Children At Risk’ - Breitbart
+18709,1,Obama Gives Parting Middle Finger to Israel with Anti-Settlement Resolution - Breitbart
+18733,1,Anderson Cooper: ‘Hypocritical’ to Oppose Both Gay Marriage AND Orlando Massacre
+18748,4,Restaurant Owner Refuses Service to Anyone Who Owns an AR-15
+18813,2,Sources: Lame Duck Obama to Allow Anti-Israel UN Efforts
+19061,2,Disney Threatens to Boycott Georgia over Religious Freedom Bill - Breitbart
+19127,1,Donald Trump vs. Jeff Bezos: Who’s Right in the Battle Between the Presidential Candidate and the Owner of The Washington Post? - Breitbart
+19196,1,VIDEO of Woman Protesting Target Bathroom Policy Going Viral - Breitbart
+19386,4,AdWeek: #DumpKelloggs Boycott Has Blown a Lasting Hole in Kellogg’s on Social Media
+19622,1,Next EU Prez: ’Islam Has No Place’... ’Migrants Change The Character Of Our Country’
+19628,1,Obama Wishes Jews ’Happy Hanukkah’ -- as He Stabs Israel at UN
+19675,1,Black Lives Matter Platform Accuses Israel of ’Genocide’
+19760,1,Twitter Leftists Up In Arms After MILO Book ’DANGEROUS’ Announced - Breitbart
+19767,1,Fox Faces Its Uncertain Future: The Minor Murdochs Take Command - Breitbart
+19808,1,Perez Hilton: MILO is ’Walking Sack of Maggots’, Files Story Under ’Icky Icky Poo’ - Breitbart
+19882,1,More Than 2,000 Schoolchildren At Risk Of Extremism
+19924,2,Rockettes to Perform at Trump Inauguration
+19927,2,Business Insider: Target Boycott Reaches Boiling Point-Market Value Down $4 Billion in 30 Days - Breitbart
+19945,3,Nation of Islam’s Louis Farrakhan Offers to Protect Beyoncé if Police Won’t
+20086,13,Boycott of Target and Kellogg’s Deters Corporate Bullying, Says American Family Association - Breitbart
+20182,1,Media Admits Kaepernick Protest Hurt NFL Ratings - Breitbart
+20299,1,Spike Lee Calls Out ’Progressive’ Hollywood: ’Step up’ to Fight #OscarsSoWhite
+20318,1,Breitbart News Daily: Donald J. Trump Live - Breitbart
+20343,1,Vatican Newspaper Eulogizes Pop Icon Prince
+20362,8,#BlackoutBlackFriday Campaign Wages War on Trump &amp Sale Prices
+20431,1,Oscar-winning ’12 Years a Slave’ Actress Accuses Academy of ’Unconscious Prejudice’
+20446,2,Palestinians Boycott Facebook to Protest Closure of Terror-Promoting Pages
+20567,2,Anti-Semitism on U.S. College Campuses Skyrockets
+20625,1,Satellite Pictures Show Target’s Transgender Policy Is Driving Customers to Walmart’s Parking Lots - Breitbart
+20712,1,Obama’s ’Transgender’ Plan: Exclude Parents, Let Officials Handle Childrens’ Sexual Problems - Breitbart
+20739,2,WATCH: Snoop Dogg Profanity-Laced Rant Against ’White Oscars’
+20790,2,#DumpKelloggs: Here Are the Products You’ll Never Need in Your Shopping Cart Again
+20813,1,Roseanne: Hillary and Her ’Nazi’ Advisors Will Be ’Death of Israel’ - Breitbart
+20913,1,Levi Strauss: Do Not Bring Your Legal, Concealed Carry Firearms Into Our Stores - Breitbart
+21020,1,Trump Mocks Traveling Press Late to New Hampshire Rally, Starts Speech Without Them - Breitbart
+21110,2,Anti-Cop Beyoncé to Campaign for Hillary Clinton in Ohio (Report)
+21126,2,Jada Pinkett Smith: ’White Oscars’ Controversy ’Isn’t Really About the Oscars’
+21156,1,Professor Goes on Leave After Comparing Black Lives Matter to KKK - Breitbart
+21235,2,Donald Trump Calls For Boycott of Apple if It Doesn’t Help FBI - Breitbart
+21243,1,Obama Thanks Black Lives Matter Leaders for Their ’Outstanding Work’ - Breitbart
+21441,1,Watch: ’Fresh Prince’ Actress Blasts Will and Jada Pinkett Smith over Oscars Race Controversy - Breitbart
+21482,1,LifeNews.com: Kellogg’s Pulls Ads from Pro-Life Breitbart News
+21492,3,Mark Steyn Backs #DumpKelloggs: Kellogg’s ‘Real Target’ Is Trump and His Supporters, Not Breitbart
+21752,1,Why I support Spike Lee’s #Oscarsmustfall campaign - Breitbart
+21774,2,Trump Dominates Hillary Speech At AIPAC: ’Everything’s Negotiable?... Israel’s Security is Not’
+21820,3,New York Post: Breitbart Causes Kellogg’s Stock to Drop
+21834,1,Ian McKellen: #OscarsSoHetero
+21876,3,The Kaepernick Caper: Celebrity Hypocrisy on Steroids - Breitbart
+21896,1,Danny Glover Suggests Doing Away with the Oscars
+21912,1,Ted Cruz: ’No $ for UN’ Until Anti-Israel Resolution Reversed
+21957,2,FULL TEXT: MILO At West Virginia University On What Trump Means - Breitbart
+21990,2,Police Investigate Social Media Critics Of Migrant Centre
+22024,2,Target’s Stock Down 5 Percent, Brand Damaged, by Public Rebuke to Pro-Transgender Bathroom Rules - Breitbart
+22080,2,Kellogg Foundation Gave Nearly $1 Million to Black Lives Matter
+22081,1,Donald Trump: Media, Clinton Campaign ’Want to Stop Our Movement’ With Sexual Assault Accusations - Breitbart
+22209,1,WATCH: Jada Pinkett Smith Calls on Blacks to Separate from ’Mainstream’ Culture Over White Oscars Controversy
+22313,3,Mark Ruffalo: ’I Hope’ Oscar Boycott Awakens Hollywood to #BlackLivesMatter Movement
+22374,1,WAR ON SPEECH: Chicago Review Of Books Boycotts Simon &amp Schuster Over MILO Deal - Breitbart
+22388,3,Spike Lee Boycotts Oscars, Compares Himself to Martin Luther King, Jr.
+22535,1,Actress Gina Rodriguez: Support Diversity – Watch My Show!
+22562,1,Stephen A. Smith: ’There Are People in Chicago Who Feel Less Important Than a Gorilla’ - Breitbart
+22598,1,EXCLUSIVE: Jackie Mason Skewers Sanders: ‘He Hates Israel Because He’s Ashamed to be Jewish’ - Breitbart
+22623,1,The Stranglers’ Burnel Says ’F**K ’Em’ About Anti-Israel Boycott Activists Ahead Of Gig In Tel Aviv
+22837,1,Mya Taylor Becomes First Transgender Winner at Spirit Awards - Breitbart
+22967,2,Academy Says Diversity Purge is ’Not About Political Correctness’
+23242,2,Female Chess Players Told To Wear Hijab at Championship In Iran
+23281,1,Oscar Winner Matt Damon Blames ’Systemic Injustices’ on ’Embarrassing’ White Oscars
+23482,1,WATCH: Son Of Hamas - Islam Is The Problem, Obama Calling It ’Religion Of Peace’ Creates More Terror
+23497,3,Target Sales Drop Amid Transgender Promotion, Consumer Boycott, $10 Billion Stock Crash - Breitbart
+23536,1,Chris Rock Rewriting Show in Wake of Oscars Diversity Controversy - Breitbart
+23571,1,Professional Counter-Strike Player Sent to Anti-Bullying Seminar, Receives Death Threats for Trash Talk - Breitbart
+23727,3,Black Lawmaker Calls for Oscar Boycott - Breitbart
+23738,2,Viola Davis on #OscarsSoWhite: ’Diversity is Not a Trending Topic’ - Breitbart
+23798,1,Israeli Airbnb Guest Rejected by British Host Because of ‘Aggressive Settlers’
+23799,1,Macy’s Halts Donations to Planned Parenthood: ‘Another Miracle on 34th Street’ - Breitbart
+24003,1,Report: Amazon CEO Jeff Bezos, Silicon Valley Elites to Meet with Donald Trump - Breitbart
+24052,1,I’m Gay And I’ve Been Banned From San Francisco! - Breitbart
+24101,1,Charity That Backed Anti-Israel Events Loses Government Cash
+24277,4,Oscar Nominee William H. Macy Praises White Oscars Boycott - Breitbart
+24306,1,Eight Anti-Israel Outrages Inside the UN Draft Resolution on Settlements   - Breitbart
+24309,4,Police Take Credit for Tarantino’s ’Hateful Eight’ Box Office Crash - Breitbart
+24339,3,Soros Group Brags About Accusing European Police of Discriminatory Policies
+24343,1,The Stacey Dash Republican - Breitbart
+24361,1,Pro-Trump Art Show Finds New Venue, Despite Cancellation Attempt And Legal Threats - Breitbart
+24393,1,Hillary Clinton’s Private Emails About Israel - Breitbart
+24399,1,LISTEN - Breitbart’s Aaron Klein Stumps Anti-Israel Talk Radio Caller With $10,000 Challenge
+24409,4,Outrage Abounds over Target’s Decision to Allow Transgenders in Any Bathroom - Breitbart
+24467,1,#BoycottBeyonce Movement Gains Momentum
+24523,4,James Woods Tells Colin Kaepernick: Keep Your ’Worthless Ass in the Mud’ - Breitbart
+24576,1,Israeli Ambassador to U.S.: We Look Forward to Working with Steve Bannon - Breitbart
+24593,1,WATCH: Pharrell Williams Is Happy To Announce Tel Aviv Show
+24698,2,Andrea Lafferty: ’We’ve Had It’ with Target on Transgender Issue
+24754,1,Black Lives Matter NY Benefit Cancels Over Anti-Israel Activism
+24761,1,Israel Rejects Report Claiming Germany Frustrated With Israel
+24780,4,Sandy Rios: 1.1 Million Families Join AFA’s Target Boycott, Stock Takes $2.5 Billion Hit - Breitbart
+24800,3,#DumpKelloggs Petition Generates 250,000 Signatures in Two Days
+24832,1,Bruce Springsteen Cancels North Carolina Concert over ’Anti-LGBT’ Religious Freedom Law - Breitbart
+24840,1,Knicks Guard Derrick Rose Bucks NBA Trend by Holding on to Condo in Trump Building - Breitbart
+24896,1,***2016 LiveWire*** Trump: ’I’ll Do More for African-Americans than Obama Has Ever Done’ - Breitbart
+24934,1,Will Smith Confirms He’ll Boycott Oscars: ’Diversity is the American Superpower’
+25016,1,Removal of Confederate Symbols Turns Nasty in New Orleans - Breitbart
+25025,1,Pressure on Mormon Tabernacle Choir to Back Out of Inauguration
+25063,10,Hollywood Quits Anti-Sharia Boycott, All-In for NC Trans Boycott
+25138,2,Santa Clara Cops Threaten Boycott of 49ers Games over Colin Kaepernick - Breitbart
+25198,3,Operation #TrumpCup: ’This is a Statement, Not a Protest’
+25206,1,Beyoncé ‘Sick and Tired’ of Police Brutality: ‘Stop Killing Us’ - Breitbart
+25310,1,Georgia Governor Caves to Big Gay Hate Machine, Vetoes Religious Freedom Bill - Breitbart
+25324,1,Coen Bros. on Diversity Quotas: ’Idiotic’ to Demand Stories Have ’Four Black People, Three Jews and a Dog’ - Breitbart
+25510,2,Group Launches #BoycottTarget over Transgender Bathroom Policy
+25572,2,Ted Cruz at AIPAC: Iran Deal Is Like Munich in 1938, Arming Israel’s Enemy - Breitbart
+25620,2,Israel Ambassador To UN Slams PA FM Over Anti-Semitic Comments
+25751,1,Russian Political, Religious Officials: Pokemon Go a CIA Project that ’Smacks of Satan’ - Breitbart
+25773,1,Donald Trump’s Debate Boycott: Three Times The Media Coverage Of Other Seven Candidates - Breitbart
+25807,2,Ace of Spades Backs #DumpKelloggs: It’s Time Conservatives Fight Back Against the Left’s Bully Tactics
+25823,2,Final Iowa Poll: Donald Trump +5, Marco Rubio Distant Third - Breitbart
+25864,1,Lebanon Paying Hezbollah Salaries In Cash To Dodge U.S. Sanctions
+25933,2,Pro-Police Group Trolls Beyoncé Concert with #BlueLivesMatter Flying Banner - Breitbart
+26080,1,Trump Demands Obama Veto UN Resolution on Israeli Settlements
+26096,1,Mark Ruffalo Asks Obama to ’Defund Police Departments’ - Breitbart
+26253,4,N.C. GOP Governor Closes Polling Gap as Transgender Demand Mobilizes Conservative Voters - Breitbart
+26261,7,Philippines’ Duterte Says No Interviews Until Term Is Over
+26270,1,FULL TEXT: MILO on ’Master Baiters: The Leftists Keeping America’s Race War Alive’ - Breitbart
+26379,1,#OscarsSoWhite Wins: Academy to Purge Old Members for ‘Diversity’
+26424,2,‘Boyz ’N The Hood’ Director John Singleton Defends ‘White Oscars’
+26541,1,Israel Official: Obama Administration Secretly Worked With Palestinians to Craft ‘Shameful’ UN Resolution
+26811,1,Transgender Hitman Film Stirs Controversy in Toronto
+26839,1,National Review: Gov. Nathan Deal’s Veto of Religious Liberty Bill Is ‘Craven Capitulation’ - Breitbart
+26982,1,Pamela Geller: Twin Falls Newspaper Editor Calls Reporting on 5-Year-Old Rape Victim ’Fairy Tales’ - Breitbart
+27029,2,Oscar-Nominee Charlotte Rampling: Oscar Boycott ’Racist to Whites’
+27146,1,Sanders’s Jewish Outreach Coordinator in ‘F-ck You Bibi’ Tirade
+27334,1,Pamela Geller: Lamar Advertising Runs Anti-Israel Billboards, Refuses AFDI Pro-Freedom Billboards - Breitbart
+27340,1,FS1’s Whitlock: Kaepernick Protest Real Issues - Mass Incarceration, Destruction of Black Families - Breitbart
+27346,3,Michael Moore Joins Oscars Boycott: White Male ’Dominated’ Los Angeles Oppresses Blacks - Breitbart
+27408,2,RABBI SHMULEY: Trump Should Push Human Rights Where Obama Failed
+27447,1,I’d Be Anti-Israel Too If I Believed Sanders’ Lies About the Jewish State - Breitbart
+27474,1,Cannes: Oscar-Winning Muslim Filmmaker Calls for Trump ’Boycott:’ He Doesn’t ’Need Any More Attention’ - Breitbart
+27561,1,Protests Across India Against Saudi Execution of Shiite Cleric
+27624,1,Oscar Winner Michael Caine: ’You Can’t Vote for an Actor Because He’s Black’
+27708,2,Vice Presidential Debate Fact-Check Livewire
+27740,1,Spike Lee: ’A Lot of the Stuff’ Black People Have Accomplished Has ’Been Through Sports’ - Breitbart
+27800,3,8 Artists and Entertainers Boycotting North Carolina over Religious Freedom Law - Breitbart
+27984,2,#DumpKelloggs: Breakfast Brand Blacklists Breitbart, Declares Hate for 45,000,000 Readers - Breitbart
+28038,2,Target Defends Unpopular Pro-Transgender Bathroom Policy Amid Massive #BoycottTarget - Breitbart
+28061,2,AFA Sees Large Response to Call to Boycott Target Stores
+28117,1,ADL Chief Who Smeared Steve Bannon Directed Project at Soros-Funded Institute - Breitbart
+28120,1,’Empire’s’ Lee Daniels: Let’s ’Make Sure Clinton Is in that F-king Office and Taking Care of Us’ - Breitbart
+28142,1,Jada Pinkett Smith Suggests Minorities Boycott Oscars over All-White Acting Nominations - Breitbart
+28374,1,Shocking #1 Tops Ultimate Sports Standings List - Breitbart
+28759,1,Professor: Islamophobia Accelerates Global Warming
+28863,1,Report: Megyn Kelly Insults Donald Trump Off-Camera as The Evil ’Voldemort’ - Breitbart
+28885,2,Anti-Cop Beyoncé Silent as Police Slaughtered in Her Native Texas - Breitbart
+28995,1,Kellogg Foundation Made Huge Grants to John Podesta’s Center for American Progress
+28998,1,Sales of Colin Kaepernick Jerseys Jump to #5 in NFL After He Sits for National Anthem - Breitbart
+29199,1,Dershowitz: Sanders Is Dangerous Ignoramus, Picking ’Professional Israel-Hater’ For Democratic Platform
+29447,1,***Horse Race LiveWire*** Trump Reveals Foreign Policy Team - Breitbart
+29458,1,Holocaust Professor: Boycott Movement Loves ‘Dead Jews’ And Doesn’t Want a Better Israel, They Want No Israel
+29525,1,Israeli ’Wonder Woman’ Star Gal Gadot Attacked On Twitter For ’Zionist’ Pro-IDF Views - Breitbart
+29536,1,Donald Trump: Obama’s Government Should Get Out of Kids’ Bathrooms, Locker Rooms - Breitbart
+29568,4,Target Management Tells Boycott Group to Expect No Change to Transgender Bathroom Policy - Breitbart
+29581,4,Ben &amp Jerry’s Ice Cream: Black Lives Matter
+29745,1,Marvel CEO Ike Perlmutter Blasted for $1M Donation to Trump Vet Fundraiser, Salon Calls for Boycott
+29904,1,Live Updates: Donald Trump’s Veteran Fundraiser - Breitbart
+29928,2,Beyoncé Named Most Charitable Celeb for Black Lives Matter Work
+29952,2,German Left: Money-Grabbing Jews Have Too Much Influence
+30015,1,DATA: Young Muslims in the West Are a Ticking Time Bomb, Increasingly Sympathising with Radicals, Terror
+30048,1,Sheriff Blames Beyonce’s Anti-Cop Halftime Show for Rash of Police Murders Nationwide
+30063,1,Roseanne Barr: Obama’s Anti-Israel UN Action Like ‘Nazis Who Enacted Anti-Jewish Laws on the Eve of Jewish Holidays’ - Breitbart
+30092,1,***Live Updates*** GOP Debate Night in South Carolina - Breitbart
+30124,3,Tony Perkins Backs #DumpKelloggs: After Election Defeat, Left Will ‘Use Corporate America to Marginalize Conservative Thought’
+30157,1,Bernie Sanders to Do ’SNL’ with Larry David Hosting
+30208,1,Oscars Flop: Ratings Hit 8-Year Low - Breitbart
+30225,1,The Campaign to Toxify Donald Trump Among Jews
+30238,1,Two-time Oscar Nominee Viola Davis Blames White Oscars on Entire ’Hollywood Movie-Making System’
+30283,1,Twitter Plunges from #3 to #7 in Social Media Popularity - Breitbart
+30315,1,Anti-Mass Migration Party Barred from TV Debates Ahead of German Elections - Breitbart
+30424,1,Man Dressed as Woman Arrested for Taking Video of Woman in Target Fitting Room
+30469,8,EXCLUSIVE – Jackie Mason: Hollywood Should Blacklist Celebs Who Boycott Israel
+30480,1,InvestorPlace to Kellogg’s: ‘You Do Not Pick a Fight with Breitbart’
+30630,3,Stacey Dash to ’Oscars So White’ Crowd: If You Don’t Want Segregation, ’Get Rid of BET’
+30694,1,Pau Gasol: ’Zika Is a Much Bigger and More Serious Threat Than We Think’ - Breitbart
+30712,1,Berkeley Students to Police: Drop ’Islamophobic’ Training
+30782,1,Report: Bocelli Out of Trump Inauguration After Boycott Threats
+30943,5,Johnny Depp’s ’Alice’ Bombs as Calls for Boycott over Alleged Domestic Violence Grow - Breitbart
+31063,1,Twitter Picked A Fight With Milo Yiannopoulos. They Will Lose - Breitbart
+31303,1,’Asylum Seekers’ Turn Down Meals, Would Rather Have Money Instead
+31312,2,EXCLUSIVE – Gay Porn Kingpin Takes on LGBT Boycott Israel Movement
+31493,1,George Clooney Joins #OscarsSoWhite Movement
+31533,1,Target Suing Man Who Saved Teen Girl from Stabbing in Its Store - Breitbart
+31611,2,How Trump made hatred profitable for Milo
+31892,2,The 14 Trump tweets that defined his high-stakes week
+31922,3,These Democrats aren’t attending Trump’s inauguration
+31949,1,Underdog Zimbabwe so close to AFCON upset
+31951,1,What MLK might say to Donald Trump
+31965,1,CNN 10 - January 17, 2017
+32039,1,Washington prepares for Donald Trump’s big moment
+32338,1,Tensions erupt in Senate after chaotic day on Trump nominees
+32356,2,Democrats face their powerlessness
+32468,1,Super Bowl immigration ads miss the mark
+32486,1,’A day without a woman’ -- Women’s March organizers plan general strike
+32706,3,’Day Without Immigrants’ shuts down businesses
+32866,1,Mexico slams US immigration plan as Tillerson arrives
+32876,1,Why South Korean companies, entertainers are getting cold shoulder in China
+32921,1,States’ rights for bathrooms, but not for marijuana
+33264,2,Boston St. Patrick’s Day parade will allow gay veterans group
+33370,1,SXSW gets political: All eyes on Trump
+33814,1,Bill Carter: Why O’Reilly could survive his scandal at Fox
+33869,1,Passenger dragged off overbooked United flight
+33870,1,Man filmed being dragged off United flight causes outrage in China
+33929,1,United reimburses passengers on chaotic flight
+33951,1,Man dragged off United flight was injured, will file suit, lawyer says
+34107,1,What are Japan’s options against North Korea?
+34530,1,South Korea election: Moon Jae-in declared winner
+34996,1,Meet the tennis player with the greatest name in sport
+34998,1,New Jersey Muslim group sues over rejection of mosque plan
+35145,1,India vs. Pakistan: World’s biggest sporting rivalry resumes
+35810,2,Clinton’s Israel views win out in DNC platform, for now
+35933,1,NBA, Michael Jordan join talks over gender bathroom bill
+35998,1,N.C. lawmakers leave bathroom law largely intact
+36218,1,GOP moves to the right on Israel
+36331,1,The lonely struggle of a gay Mormon
+36419,1,Trump, Kasich feud over ’most powerful’ VP offer
+36930,2,Nigeria says men’s soccer team not going on ’strike’
+37071,1,Tommie Smith, in his own words
+37513,1,Sporting protests: Kaepernick’s stand is far from the first
+38425,2,Trump on sex assault allegations: ’I am a victim’
+38830,1,Ronaldo hits hat-trick as Real beats Atletico in Madrid Derby
+38841,1,Twitter does not throw away its shot after ’Hamilton’ remarks to Pence
+39116,1,Mike Pence’s new neighbors put up LGBT pride flags in protest
+39457,4,Minnesota football players protest suspensions
+39483,3,Minnesota football team ends boycott, will play in bowl
+39492,1,Why Trump’s Israel ambassador could upend Middle East ties
+39570,1,Why celebrities are skipping the Trump inauguration festivities
+39595,2,Alleged rape in Minnesota should horrify every father
+39606,1,US abstains as UN demands end to Israeli settlements
+39611,1,What the UN vote says about how Trump will treat Israel
+39749,3,Israel risks sliding toward apartheid
+39884,1,History moment awaits Palestine at Asian Cup
+40009,1,The greatest MLK speeches you never heard
+40096,1,The best way to respect guns
+40495,1,CPAC liveblog: Republicans unite against Hillary
+40695,1,Serena back at Indian Wells after it ’disgraced America’
+40717,4,Elton John’s boycott of Dolce &amp Gabbana spreads
+40769,1,U.S. could abandon Israel at the U.N.
+40840,1,Rep. King: U.S. Jews are Democrats first, Jewish second
+40960,1,Indiana’s Religious Freedom Law: Five Questions
+41035,2,Memories Pizza part of ’religious freedom’ debate
+41350,1,Parents ’opting out’ of standardized testing
+41931,1,United apologizes after discrimination claim
+42736,2,S.C. governor signs bill to lower the Confederate flag
+43059,1,Sexist ads in ’The Seventies’
+43142,1,3 more states are proposing ’bathroom bills’ that critics are calling discriminatory
+43353,7,The anti-Trump boycott of 70 retailers won’t back down — here’s how it could affect sales
+43427,1,CARLOS SLIM: It’s clear the government of Mexico is in a strong negotiating position
+43521,2,Ivanka Trump’s brand just responded to being dropped by Nordstrom
+43537,3,Here are all the companies that have cut ties with the Trump family
+43543,5,Macy’s is under pressure to drop Ivanka Trump
+43548,1,People are threatening to boycott Budweiser because of its immigration-themed Super Bowl ad
+43608,1,Trump’s line of home furnishings has disappeared from Sears’ and Kmart’s websites
+43797,1,The unbelievable story of why Marlon Brando rejected his 1973 Oscar for ’The Godfather’
+44147,1,Mark Cuban is getting more serious than ever about politics — and in the age of Trump, the political world is starting to notice
+44200,1,North Carolina just repealed its notorious ’bathroom law’
+44300,1,YouTube will no longer let you make money off its platform unless your channel reaches 10,000 lifetime views
+44353,1,UNDERCOVER IN AN IPHONE FACTORY: What it’s really like to work in a Chinese mega-factory, according to a student who spent 6 weeks there
+44354,1,United Airlines CEO has finally apologized
+45148,1,Puerto Rican vote shows overwhelming support for US statehood
+45497,1,Chris Christie just vetoed New Jersey’s law on ’smart guns’ — here’s how they work
+45579,1,’See how many people watch’: Donald Trump says he’ll boycott the Fox News debate
+45611,1,Rick Santorum uses first debate opportunity to go on raging rant against the media
+46046,1,There’s no way Donald Trump’s plan to build iPhones in the US would actually work
+46254,1,Pro-Israel conference nervously awaits Donald Trump speech
+47673,1,After Dallas, conservatives rebel against the Drudge Report
+48230,1,The Target boycott is costing more than anyone expected
+48254,1,Target is discounting everything to win shoppers back amid boycott
+48588,1,One person shot in 2nd night of unrest, protests in Charlotte after fatal police shooting
+49103,1,Putin’s chaos strategy is coming back to bite him
+49147,5,Nordstrom responds to viral letter calling on retailer to drop Ivanka Trump’s ’toxic’ brand
+49942,4,What’s Behind the New Wave of Transgender ’Bathroom Bills’

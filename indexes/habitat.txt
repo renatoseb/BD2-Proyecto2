@@ -1,0 +1,124 @@
+150,1,Tilikum, the Killer Whale Featured in ‘Blackfish,’ Dies - The New York Times
+234,7,A Bumblebee Gets New Protection on Obama’s Way Out - The New York Times
+347,1,A High-End Kitchen on the Cheap - The New York Times
+461,1,Most Primate Species Threatened With Extinction, Scientists Find - The New York Times
+682,2,Selling a Home in the City? Turn Those Quirks Into Assets - The New York Times
+686,3,In America’s Heartland, Discussing Climate Change Without Saying ‘Climate Change’ - The New York Times
+1421,6,Before Vaquitas Vanish, a Desperate Bid to Save Them - The New York Times
+1444,1,In California, a Move to Ease the Pressures on Aging Dams - The New York Times
+1523,1,How to Steal a River - The New York Times
+1652,1,California Today: Why the State’s Biggest Lake Is Dying - The New York Times
+1703,1,A Lake Turned Pink in Australia. It’s Not the Only One. - The New York Times
+2449,1,What’s at Stake in Trump’s Proposed E.P.A. Cuts - The New York Times
+2519,1,A Lizard With Scales That Behave Like a Computer Simulation - The New York Times
+2814,1,Gorilla Killed After Child Enters Enclosure at Cincinnati Zoo - The New York Times
+2883,1,Do Gorillas Even Belong in Zoos? Harambe’s Death Spurs Debate - The New York Times
+3884,3,The Giant Panda Is No Longer Endangered. It’s ‘Vulnerable.’ - The New York Times
+4091,1,California Today: Should We Ban Plastic Bags? - The New York Times
+4136,1,Scenes From New England’s Drought: Dry Wells, Dead Fish and Ailing Farms - The New York Times
+4182,1,Building Zaha Hadid’s Bold Afterlife - The New York Times
+4293,1,Climate Change Blamed for Half of Increased Forest Fire Danger - The New York Times
+4451,1,A Traumatized Brain That Helped Heal a Broken Heart - The New York Times
+4605,1,Where to Be Single in New York - The New York Times
+4689,1,A Whale Takes Up Residence in the Hudson River - The New York Times
+4717,1,Potential Conflicts Around the Globe for Trump, the Businessman President - The New York Times
+4888,1,Donald Trump, John Glenn, Oakland: Your Thursday Evening Briefing - The New York Times
+4903,1,In Chicago, Bodies Pile Up at Intersection of ‘Depression and Rage’ - The New York Times
+4952,1,Trump Is Said to Offer Interior Job to Ryan Zinke, Montana Lawmaker - The New York Times
+5355,1,A Suburban Experiment Aims for Free Energy - The New York Times
+5570,1,You Mean It’s Next Week? Why Some G.O.P. Senators Will Skip the Convention - The New York Times
+6064,1,‘I’m the Last Thing Standing Between You and the Apocalypse’ - The New York Times
+6069,1,Can the U.S. Really Get Astronauts to Mars by 2030? - The New York Times
+6090,1,Diver Recounts His Encounter With a Cage-Breaking Great White Shark - The New York Times
+6094,1,Pedals the Walking Bear Said to Be Killed by a Hunter in New Jersey - The New York Times
+6121,1,The ‘Saddest’ Polar Bear Lives in a Mall in China - The New York Times
+6299,2,Great Barrier Reef Hit by Worst Coral Die-Off on Record, Scientists Say - The New York Times
+6352,1,A Proposal for a Canadian National Bird Ruffles Feathers - The New York Times
+6353,1,Ann Patchett’s Guide for Bookstore Lovers - The New York Times
+6418,1,Rodents Run Wild in Paris. Blame the European Union. - The New York Times
+6421,2,California Today: What Stinks in Huntington Beach? - The New York Times
+6424,1,Harlem Deer Caught in City-State Tussle Has Died - The New York Times
+6510,1,Pan Pan, Father to a Generation of Pandas, Dies in China - The New York Times
+6745,1,Florida Company Gets Approval to Put Robotic Lander on Moon - The New York Times
+6778,1,The Tyranny of Other People’s Vacation Photos - The New York Times
+6832,5,How to Win Friends and Influence People (on Fake Mars) - The New York Times
+7104,3,Giraffes, Towering and Otherworldly, Are ‘Vulnerable’ to Extinction - The New York Times
+7231,1,Panel Endorses ‘Gene Drive’ Technology That Can Alter Entire Species - The New York Times
+7286,1,Never-Trump Confidential - The New York Times
+7380,1,Evolution Is Happening Faster Than We Thought - The New York Times
+7557,1,Divers Find Body of Toddler Snatched by Alligator at Disney Resort - The New York Times
+7686,2,Polar Bears’ Path to Decline Runs Through Alaskan Village - The New York Times
+7778,1,Obama Designates Two New National Monuments, Protecting 1.65 Million Acres - The New York Times
+10167,1,Jeff Bezos Wants to Improve Amazon Delivery Service... to the Moon - Breitbart
+10803,1,WhiteHouse.gov Takes Down Climate Page, Puts Up ’America First’ Energy Plan - Breitbart
+12286,1,Ann Coulter: We Have Now Hit Full-On Crazy
+13282,1,Inauguration 2017: The Swearing In of President Donald Trump - Breitbart
+13407,1,Report: NASA Reveals 4-Step Space Plan Ending in Mission to Mars - Breitbart
+16915,1,Obama Signs Microbead Ban Affecting Personal Skin Care Products
+18234,1,Google’s Disgraceful Memorial Day Dodge - Breitbart
+23293,1,Exclusive Excerpt — Stacey Dash: My Dinner with Bill Cosby - Breitbart
+24366,1,’Harambe’ Jerseys Back on Sale after Social Media Backlash - Breitbart
+27024,1,Mountain Lion Kittens Born in Mountains Near L.A. - Breitbart
+29714,1,Not The Onion: CNN Asks ’Would Donald Trump Have Killed the Gorilla?’
+30938,1,The 10 Most Problematic Places To Find Pokémon - Breitbart
+31035,1,WHO Puts World on Alert over Zika Virus
+31717,1,CNN 10 - January 6, 2017
+31881,1,Nutella defends palm oil, deemed a ’potential health concern’
+31992,1,CNN 10 - January 18, 2017
+32204,1,These cities have roach and rodent problems
+32325,1,Trump must level with public about ISIS fight
+32641,1,CNN 10 - February 13, 2017
+32744,1,NASA launched a superbug into space
+32805,3,Florida survey spots record number of manatees
+32831,2,Saving the manatee: Should they be listed as endangered?
+32844,3,A NASA-funded engineer’s plan to colonize Mars
+32881,1,CNN 10 - February 24, 2017
+33284,1,Should China move its historic monuments?
+33668,3,It’s official: Manatee no longer endangered
+34315,1,Saving China’s abandoned Tulou homes
+35073,1,Murray, del Potro close to rematch
+35658,1,President Obama tours Yosemite, says climate change happening now
+35905,2,Mallows Bay: The ’ghost fleet’ graveyard where nature has risen from the dead
+36646,5,Are fireflies flickering out?
+37061,1,Elephant swept from India to Bangladesh floods now dead
+37133,1,Can we defeat the world’s deadliest creature?
+37165,2,Florida Disney alligator saw boy as prey, report says
+37334,1,Mars simulation crew ’return to Earth’ after 365 days in isolation
+37418,1,A reel honor: Scientists name new fish after Obama
+37467,7,This animal is no longer endangered
+37704,1,California bans killer whale theatrical shows, breeding
+38108,1,Bees placed on endangered species list  -- a first in the US
+38637,1,How a bill becomes a wall
+39460,1,Harlem deer dies of stress before relocation
+39678,3,Report: Cheetahs are racing toward extinction
+40031,1,Can tigers claw their way back from extinction?
+40099,1,Rare frilled shark caught off Australian coast
+40219,1,Alyssa Carter: The 8-year-old saving rhinos
+40302,1,Zoo lessons: Four animal facts only zookeepers know
+40657,1,Would you be a successful entrepreneur?
+40932,2,’Magic rabbit’ nears extinction in China
+41076,1,A side of Cuba not often seen
+41417,1,Wild horses and the world’s forgotten animals
+41484,3,BP spill: Cultivating demand for raw oysters from Gulf
+41550,3,Greatest buildings from World’s Fairs
+41797,1,Volcano erupts on Galapagos where Darwin worked
+41840,1,What can be done to stop deadly floods? (Opinion)
+42042,1,Second Yellowstone visitor injured in bison encounter
+42121,1,Are fish falling from the sky in Fairbanks?
+42407,1,Pope: ’Revolution’ needed to fight climate change
+42438,1,#ivorycrush: U.S. destroys ton of ivory in Times Square
+42666,1,Peek at tomorrow from today’s top designers
+42680,2,EPA boss: Climate is ’greatest threat of our time’
+42715,1,Are shark attacks on the rise? (Opinion)
+42824,1,54 stingrays die at Chicago zoo
+42836,1,Wild animals make themselves at home
+43003,1,Cecil the lion’s brother Jericho is alive
+43458,1,Here’s why Elon Musk is changing his tune on Trump
+44870,1,A former special forces sniper is taking up a new fight — protecting one of the world’s most endangered species
+45849,1,Mexican jumping beans actually jump — here’s why
+46524,1,The successful landing of Elon Musk’s SpaceX rocket was seriously one of the most amazing things I’ve ever seen
+47107,1,A gorilla was shot after a 4-year-old boy fell into a zoo enclosure
+47118,2,People are outraged that a zoo shot and killed a gorilla after a 4-year-old boy tumbled into its enclosure
+47178,1,Cheaper fuel may be on the horizon thanks to an unlikely source
+47205,1,I’m a former zookeeper — here’s what everyone is missing about the death of Harambe
+49706,2,Rents are finally dropping in New York City, and a bubble might be about to pop

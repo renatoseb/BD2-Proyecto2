@@ -1,0 +1,116 @@
+2,1,Tyrus Wong, ‘Bambi’ Artist Thwarted by Racial Bias, Dies at 106 - The New York Times
+36,1,A ‘World Unto Itself’ in New York Area Yeshivas: Floor Hockey - The New York Times
+267,1,Proposed Football League Envisions a No-College Path to the Pros - The New York Times
+305,1,15 TV Shows to Watch This Season - The New York Times
+332,1,A Big Test for Big Batteries - The New York Times
+394,1,As Support for E.U. Flags Elsewhere, Bulgaria Sees Its Benefits - The New York Times
+456,1,U.S. Bombs ISIS Camps in Libya - The New York Times
+887,1,Indian Teenager Begins a Lonely Climb in Women’s Golf - The New York Times
+902,1,Begging on Liberia’s Streets by Day, Heating Up Its Clubs by Night - The New York Times
+908,1,David Shepard, Film Preservationist, Dies at 76 - The New York Times
+969,1,Oscar-Nominated Shorts: Unsung but Worth Your Time - The New York Times
+1014,1,Can Raf Simons Reinvent Calvin Klein? - The New York Times
+1075,1,Top Opposition Leader in Cambodia Resigns as Election Nears - The New York Times
+1111,1,Flynn’s Downfall Sprang From ‘Eroding Level of Trust’ - The New York Times
+1372,1,The Anti-Trump Activist Taking On Retailers - The New York Times
+1651,1,South Korea, Syria, C.I.A.: Your Morning Briefing - The New York Times
+1797,1,Leaving Women’s Hockey to ‘Fly Under the Radar,’ as Himself - The New York Times
+1932,1,Even Penguins Have Children Who Won’t Leave the Nest - The New York Times
+2043,1,Canadians Adopted Refugee Families for a Year. Then Came ‘Month 13.’ - The New York Times
+2117,1,Uber Releases Diversity Report and Repudiates Its ‘Hard-Charging Attitude’ - The New York Times
+2155,1,In AMC’s Western ‘The Son,’ the Novelist Philipp Meyer Lassoes TV - The New York Times
+2184,1,Bill Minor, Journalist Who Was Called Conscience of Mississippi, Dies at 94 - The New York Times
+2661,1,DreamWorks Animation Sale Leaves Jeffrey Katzenberg at a Crossroads - The New York Times
+2860,1,Tony Fadell Steps Down Amid Tumult at Nest, a Google Acquisition - The New York Times
+3012,1,After 147 Years, Goldman Sachs Hangs a Shingle on Main Street - The New York Times
+3095,1,Donald Trump and R.N.C. Crack Down on Rebelling Delegates - The New York Times
+3625,1,Beyond Coal: Imagining Appalachia’s Future - The New York Times
+3658,1,Is Bandcamp the Holy Grail of Online Record Stores? - The New York Times
+3670,1,China Helps Aung San Suu Kyi With Peace Talks in Myanmar - The New York Times
+4042,1,Why Do People Who Need Help From the Government Hate It So Much? - The New York Times
+4237,1,The Cubs Confront the Curse: Is This the Year? - The New York Times
+4361,1,Iraqi Forces Attack Mosul, a Beleaguered Stronghold for ISIS - The New York Times
+4363,1,Mosul, ‘Brexit,’ U.S. Presidential Race: Your Monday Briefing - The New York Times
+4606,1,When Eve and Eve Bit the Apple - The New York Times
+4906,1,John Glenn, American Hero of the Space Age, Dies at 95 - The New York Times
+4947,1,Afrofuturism: The Next Generation - The New York Times
+5071,1,Fight - The New York Times
+5131,1,George Michael Wrestled With Fame. Frank Sinatra Had Some Advice. - The New York Times
+5163,1,The Memorable TV Episodes of 2016 - The New York Times
+5268,1,Ruined Serbian Orthodox Church Was a Landmark of Old New York - The New York Times
+5380,1,Thomas J. Perkins, Pioneering Venture Capitalist in Silicon Valley, Dies at 84 - The New York Times
+5491,1,‘Brexit’ Briefing: Boris Johnson Isn’t Running Jeremy Corbyn Seeks Labour Revolution - The New York Times
+6031,1,Donald Trump’s Ventures Began With a Lot of Hype. Here’s How They Turned Out. - The New York Times
+6210,1,Ever Wanted to Back a Start-Up? Indiegogo Opens the Door to Small Investors - The New York Times
+6872,1,A Day When Fashion and Tragedy Continue to Intersect - The New York Times
+6925,1,Rihanna’s Fenty Line Debuts in Paris and Receives a Pop Star Welcome - The New York Times
+7029,1,Fake News in U.S. Election? Elsewhere, That’s Nothing New - The New York Times
+7039,1,Killers on a Shoestring: Inside the Gangs of El Salvador - The New York Times
+7041,1,A List of Priorities From Trump, and Kris Kobach Tips His Hand - The New York Times
+7063,1,Fidel Castro, Cuban Revolutionary Who Defied U.S., Dies at 90 - The New York Times
+7118,1,‘La La Land,’ ‘Moonlight’ Lead Golden Globe Nominations - The New York Times
+7241,1,Review: In ‘Finding Dory,’ a Forgetful Fish and a Warm Celebration of Differences - The New York Times
+7271,1,Internet Porn Nearly Ruined His Life. Now He Wants to Help. - The New York Times
+7279,1,Can Paul Ryan Still Sell the G.O.P. Agenda? - The New York Times
+7313,1,Arianna Huffington Is Leaving Huffington Post - The New York Times
+7437,1,Donald Trump in the White House: Will He Bring Steve Bannon With Him? - The New York Times
+7441,1,Leon Russell, Hit Maker and Musicians’ Musician, Dies at 74 - The New York Times
+7795,1,Even Uber Couldn’t Bridge the China Divide - The New York Times
+7990,1,Alex Jones Leaks Megyn Kelly’s Interview Pitch: ’It’s Not Gonna Be Some Gotcha Hit Piece, I Promise’ - Breitbart
+8416,1,NYT: Clinton Foundation in Disarray After Hillary’s Election Loss - Breitbart
+10623,1,California Democrat Who Cheered Turkey Coup Wants to Impeach Trump - Breitbart
+11647,1,CNN’s W. Kamau Bell: Islam Part of America’s Founding - Breitbart
+14280,1,L.A. Teachers Hype Pre-Inauguration Tweetstorm Against Trump
+14761,1,Liberal journalists get nasty, make jokes after Roger Ailes’ death
+20914,1,AP: U.S. Embassy Ignored Pleas for Help from South Sudan Rape Victims
+22821,1,University of Houston Professor: Pledge of Allegiance and National Anthem Glosses Over ’Racist History’ - Breitbart
+23293,1,Exclusive Excerpt — Stacey Dash: My Dinner with Bill Cosby - Breitbart
+23542,1,Hillary Clinton’s Foreign Policy Failures: A Recent History
+23807,1,Social Justice Warrior Knives Out For Startup Guru Paul Graham
+24609,1,NAACP Urging Voters to Vote Even if You Don’t Have ID - Breitbart
+26284,1,Univision to Fire Up to 250 ‘in Response to Difficult, Challenging Times’
+27266,1,Obama Eid Celebration Again Empowers Islamists Over Reformers - Breitbart
+28804,1,Bangladesh Hikes Security After Top Islamist Hanged For War Crimes
+28933,1,Actress Blake Lively Accused of Racism Over Butt Photo - Breitbart
+29011,1,Georgetown University Issues ‘Mea Culpa’ for Complicity in Slave-Trade - Breitbart
+29656,1,Twitter Is Gearing Up To Interfere In The Election - Breitbart
+30336,1,New York Times: Inexperienced ’College Graduates’ Ran Facebook’s Trending News - Breitbart
+30894,1,The West Embraces Nation-Building Again, This Time in Libya
+31068,1,Marc Rich Pardon Still Paying Off for Bill Clinton
+31099,1,After Firing Craig James for Conservative Beliefs, Fox Sports Declines to Hire Curt Schilling - Breitbart
+31246,1,Moms Demand Founder: Fighting To Take Away Gun Rights Is Dangerous Work - Breitbart
+31262,1,’Total War: Warhammer’ Review: WAAAGH! What Is It Good For? - Breitbart
+31598,1,Rebel warning over Syrian ceasefire violations
+32433,1,How Iran-US relations plummeted in a week
+33103,1,What to know about the H-1B visa program
+33598,1,Trump’s global envoy faces tough Turkey visit
+33603,1,Ex-Christie allies sentenced to prison for Bridgegate scandal
+33620,1,US signals possible shift on Assad
+34493,1,Emmanuel Macron’s tricky to-do list after French election
+35478,1,Muslims keep alive Kolkata’s Jewish heritage
+35764,1,CNN’s Reality Check Team vets Trump’s claims
+35814,1,The surprising history of abortion in the U.S.
+37407,1,Mark Zuckerberg visit boosts Nigeria startups
+37731,1,Kasich meets with Obama to discuss TPP
+37993,2,Can Mexico’s supercar compete with the best?
+38078,1,China banned from buying donkeys
+39005,1,Fidel Castro Fast Facts
+40657,2,Would you be a successful entrepreneur?
+40812,1,Yemen mosque attacks: ISIS purportedly lays claim
+40892,1,For Obama, a new twist in longest U.S. war
+40949,1,Indiana’s anti-LGBT law a preview for 2016?
+42576,1,North Korea faces historic drought, famine
+42634,1,California drought: Rebates for ripping up lawns
+42728,1,North Korean space scientist: ’We come in peace’
+42831,1,Donald Trump, Jeb Bush heckler
+43541,1,Trump’s first big test with Putin harkens back to one of the most controversial elements of his campaign
+44279,1,Snapchat just launched an attack on a key source of Facebook’s ad revenue
+46224,1,Google just scored a huge win against Amazon by landing Apple as a customer
+46438,1,Facebook and Snapchat are trading blows in a fight for messaging domination and the money that comes with it
+47224,1,Lending Club’s ousted CEO is plotting an audacious comeback bid
+47257,1,Faraday Future’s auto-industry ’disruption’ appears ready to take shape
+47844,1,A car startup in Los Angeles is getting everyone’s attention with these billboards
+48852,1,Donald Trump returns to his vicious primary self, and there’s nothing the RNC can do to stop him
+48911,1,John Kasich’s dire warning for the Republican Party: EVOLVE OR DIE
+49195,1,Elon Musk has a brilliant plan to change your roof
+49444,1,Tesla is entering the solar business at a terrible time

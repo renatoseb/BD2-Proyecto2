@@ -1,0 +1,667 @@
+2,1,Tyrus Wong, ‘Bambi’ Artist Thwarted by Racial Bias, Dies at 106 - The New York Times
+8,1,First, a Mixtape. Then a Romance. - The New York Times
+40,1,Republican Party, Megyn Kelly, Titanic: Your Wednesday Briefing - The New York Times
+62,1,Dylann Roof, Addressing Court, Offers No Apology or Explanation for Massacre - The New York Times
+115,1,Hospital Confirms Eric Trump Helped Raise $16.3 Million for It - The New York Times
+124,1,He Helped Topple a Dictator. In New York, He’s Another Face in the Crowd. - The New York Times
+171,1,Ayatollah Ali Akbar Hashemi Rafsanjani, Ex-President of Iran, Dies at 82 - The New York Times
+188,1,Jared Kushner, a Trump In-Law and Adviser, Chases a Chinese Deal - The New York Times
+227,1,Clare Hollingworth, Reporter Who Broke News of World War II, Dies at 105 - The New York Times
+236,1,Michael Chamberlain, Father of Baby Killed by a Dingo in Australia, Dies at 72 - The New York Times
+375,1,5 Killed at BPM Festival in Mexico - The New York Times
+411,1,Pendant Found in Nazi Death Camp Ruins May Have Anne Frank Link - The New York Times
+428,1,Abducted at Birth and Found 18 Years Later, Woman Tries On New Identity - The New York Times
+434,1,The Religious Speakers Taking Part in Trump’s Inaugural Ceremony - The New York Times
+455,3,Avalanche in Italy Buries Hotel, Leaving up to 30 Missing - The New York Times
+461,1,Most Primate Species Threatened With Extinction, Scientists Find - The New York Times
+462,1,Who Decides Who Counts as Native American? - The New York Times
+569,1,Harold Hayes, Survivor of Secret World War II Odyssey, Dies at 94 - The New York Times
+690,1,A Door to a Home Brimming With Love, and Open to All - The New York Times
+710,1,After Mastectomies, an Unexpected Blow: Numb New Breasts - The New York Times
+967,1,Flight Attendants Fight Human Trafficking With Eyes in the Sky - The New York Times
+969,1,Oscar-Nominated Shorts: Unsung but Worth Your Time - The New York Times
+1122,1,Saved From Holocaust: ‘He Loved Me and He Wanted to Keep Me’ - The New York Times
+1129,1,Bobby Freeman, ‘Do You Want to Dance’ Singer, Dies at 76 - The New York Times
+1175,1,Pakistan Shrine Bombing Kills Scores in Worst Attack in Months - The New York Times
+1382,1,U.S. Blocks Syrian Rescue Worker From Attending the Oscars - The New York Times
+1397,1,Bill Paxton, Star of ‘Big Love’ and Movie Blockbusters, Dies at 61 - The New York Times
+1398,1,Joseph A. Wapner, Judge on ‘The People’s Court,’ Dies at 97 - The New York Times
+1434,1,California Today: After Lawmaker’s Silencing, More Cries of ‘She Persisted’ - The New York Times
+1562,1,Whom Do You Tell When You’re Sick? Maybe Everyone You Know - The New York Times
+1582,1,Robert Osborne, Turner Classic Movies Host, Dies at 84 - The New York Times
+1600,1,Sessions’s Potential Deputy Faces a Stern Test on Russia Inquiries - The New York Times
+1658,1,State Secrets Privilege Invoked to Block Testimony in C.I.A. Torture Case - The New York Times
+1676,2,Review: ‘Kong: Skull Island’ Crosses a 1933 Classic With ‘Apocalypse Now’ - The New York Times
+1756,1,Lloyd Conover, Inventor of Groundbreaking Antibiotic, Dies at 93 - The New York Times
+1815,1,Candid Hitler Photos Sell for $41,000 to Unidentified Bidder - The New York Times
+1855,1,Derek Walcott, Poet and Nobel Laureate of the Caribbean, Dies at 87 - The New York Times
+1950,1,Martin McGuinness, an I.R.A. Leader Turned Peacemaker, Dies at 66 - The New York Times
+1981,1,His Idea for Fighting Terrorism? Funny Plays - The New York Times
+2076,1,Alone in the Wild for a Year, TV Contestants Learn Their Show Was Canceled - The New York Times
+2082,1,Raiders, Mosul, Jared Kushner: Your Monday Evening Briefing - The New York Times
+2086,5,At Site of Deaths, Our Reporters Find Cost of U.S.-ISIS Battle - The New York Times
+2122,1,Engulfed in Battle, Mosul Civilians Run for Their Lives - The New York Times
+2150,1,Those Indecipherable Medical Bills? They’re One Reason Health Care Costs So Much - The New York Times
+2191,1,‘Age of Empires’: How 2 Dynasties of Art Forged China’s Identity - The New York Times
+2209,2,Already Facing Death, Dylann Roof Cuts Deal for Added Life Term - The New York Times
+2232,2,Yevgeny Yevtushenko, Poet Who Stirred a Generation of Soviets, Dies at 83 - The New York Times
+2236,1,Richard Bolles Dies at 90 Wrote ‘What Color Is Your Parachute?’ - The New York Times
+2257,1,Colombia Mudslide Sends Rescuers and Relatives on Race to Find Survivors - The New York Times
+2280,1,‘The Bodies Are Decomposing’ After Mudslide in Colombia - The New York Times
+2294,2,2 Education Dept. Picks Raise Fears on Civil Rights Enforcement - The New York Times
+2310,1,St. Petersburg Bomber Said to Be Man From Kyrgyzstan Death Toll Rises - The New York Times
+2323,1,Trump Removes Stephen Bannon From National Security Council Post - The New York Times
+2361,1,Cultural Revolution Shaped Xi Jinping, From Schoolboy to Survivor - The New York Times
+2412,1,When Solar Panels Became Job Killers - The New York Times
+2453,1,2017 Pulitzer Prize Winners - The New York Times
+2459,1,Grandfather Apologizes After Dylann Roof’s Guilty Pleas Add to Sentence - The New York Times
+2510,1,J. Geils, Whose Band’s Catchy Pop Hits Colored the 1980s, Dies at 71 - The New York Times
+2554,1,More Than 40 in Japan Are Confirmed Dead in Earthquakes - The New York Times
+2571,1,Alissa Rubin, 2016 Pulitzer Winner, Reports From the Front Lines - The New York Times
+2590,6,500 Migrants May Have Died in Sinking of Boat in Mediterranean, U.N. Says - The New York Times
+2610,1,Prince, an Artist Who Defied Genre, Is Dead at 57 - The New York Times
+2714,2,A Shooting, the Hospital and Then, Months Later, It’s a Homicide - The New York Times
+2793,2,A Drumbeat of Multiple Shootings, but America Isn’t Listening - The New York Times
+2810,2,Three Days, 700 Deaths on Mediterranean as Migrant Crisis Flares - The New York Times
+2854,1,Chicago Releases Videos of Police Shootings - The New York Times
+2886,1,Iraqis Who Flee Fighting in Falluja Find Hardship and Hunger - The New York Times
+2992,2,Families Bearing Up a Year After Slayings in a Charleston Church - The New York Times
+3026,3,Shooting Victims’ Families Watch as Gun Measures Stall Once Again - The New York Times
+3028,3,Orlando Police Defend Actions as Clock Ticked in Massacre - The New York Times
+3101,1,Bill Cunningham, Legendary Times Fashion Photographer, Dies at 87 - The New York Times
+3106,1,A Noah’s Ark in Kentucky, Dinosaurs Included - The New York Times
+3123,1,Pat Summitt, Tennessee Basketball Coach Who Emboldened Women’s Sports, Dies at 64 - The New York Times
+3124,1,Buddy Ryan, Combative Defensive Genius in the N.F.L., Dies at 85 - The New York Times
+3125,1,Gunfire and Panicked Calls on Police Log of Orlando Shooting - The New York Times
+3178,1,Donald Trump Finds Himself Playing Catch-Up in All-Important Ohio - The New York Times
+3275,2,Train Crash in Italy Leaves at Least 25 Dead and Dozens Injured - The New York Times
+3414,1,Hot-Air Balloon Crash in Texas Kills 16, Officials Say - The New York Times
+3443,1,U.S. Presidential Race, Rio, William Bratton: Your Tuesday Evening Briefing - The New York Times
+3444,11,‘I Have No Choice but to Keep Looking’ - The New York Times
+3587,1,Kenny Baker, the R2-D2 Robot in ‘Star Wars,’ Dies at 81 - The New York Times
+3618,1,Airstrike in Yemen Kills 17 Civilians, Witnesses Say - The New York Times
+3651,1,Republicans Running for Congress Struggle With an ‘Albatross’ - The New York Times
+3665,1,Milwaukee’s Divide Runs Right Through Me - The New York Times
+3697,1,Lou Pearlman, Svengali Behind Backstreet Boys and ’NSync, Dies at 62 - The New York Times
+3705,1,Louisiana, U.S. Presidential Race, Zika: Your Tuesday Evening Briefing - The New York Times
+3717,1,Italy, U.S. Presidential Race, Syria: Your Wednesday Evening Briefing - The New York Times
+3729,3,Hopes Dim for Survivors of Italy Quake Death Toll Stands at 267 - The New York Times
+3818,2,‘Private Hell’: Prep School Sex Abuse Inquiry Paints Grim Picture - The New York Times
+3874,1,Donald Trump Is Endorsed by Nearly 90 Military Figures - The New York Times
+3875,1,U.S. Presidential Race, Rodrigo Duterte, Roger Ailes: Your Tuesday Evening Briefing - The New York Times
+3938,3,Seeking the Final Faces for a 9/11 Tapestry of Grief, Loss, Life and Joy - The New York Times
+3967,1,The View From Syria as a Cease-Fire Takes Effect - The New York Times
+3976,1,This North Dakota Bike Trail Is Stunning. Just Hope You Survive It. - The New York Times
+4016,1,A Chicago Shooting Survivor, but in Need of a Miracle - The New York Times
+4018,1,Edward Albee, Trenchant Playwright Who Laid Bare Modern Life, Dies at 88 - The New York Times
+4037,1,Want a Zika Test? It’s Not Easy - The New York Times
+4096,1,Ed Temple, Track Coach Who Produced Olympians and National Titles, Dies at 89 - The New York Times
+4136,1,Scenes From New England’s Drought: Dry Wells, Dead Fish and Ailing Farms - The New York Times
+4220,1,Stepping Over the Dead on a Migrant Boat - The New York Times
+4226,1,Bangladesh Siege Recalled in Militant’s Words, and From Beyond the Grave - The New York Times
+4231,3,A Museum About Rights, and a Legacy of Uncomfortable Canadian Truths - The New York Times
+4237,1,The Cubs Confront the Curse: Is This the Year? - The New York Times
+4246,1,In a Montana Bear Attack, Lessons on Hope, Survival and First Aid - The New York Times
+4252,1,Move Over, Rats. New York Is Planning an Underground Park. - The New York Times
+4278,2,How U.S. Torture Left a Legacy of Damaged Minds - The New York Times
+4281,1,Andrzej Wajda, Towering Auteur of Polish Cinema, Dies at 90 - The New York Times
+4324,1,‘Apprentice’ Producer Denounces Trump but Won’t Release Possibly Damning Tapes - The New York Times
+4426,1,Hillary Clinton, Donald Trump, North Dakota: Your Tuesday Briefing - The New York Times
+4441,1,‘Going Flat’ After Breast Cancer - The New York Times
+4521,1,ISIS Is Massacring Mosul Civilians as Troops Advance, U.N. Says - The New York Times
+4525,1,Robert Vaughn, Who Starred as Napoleon Solo in ‘Man From U.N.C.L.E.,’ Dies at 83 - The New York Times
+4546,1,Donald Trump, New Zealand, Facebook: Your Monday Briefing - The New York Times
+4552,4,From Bataclan to Street Cafes, Paris Is Quiet but Resolute as It Mourns on Anniversary of Attacks - The New York Times
+4570,1,In Michael Chabon’s ‘Moonglow,’ Deathbed Stories Illuminate an Era - The New York Times
+4615,1,Dr. Denton Cooley, Whose Pioneering Heart Surgery Set Off a 40-Year Medical Feud, Dies at 96 - The New York Times
+4712,1,100 Notable Books of 2016 - The New York Times
+4758,4,A History of Air Disasters Involving Sports Teams - The New York Times
+4779,2,Doomed Jet Carrying Brazilian Team Reportedly Ran Out of Fuel - The New York Times
+4802,1,Peng Chang-kuei, Chef Behind General Tso’s Chicken, Dies at 98 - The New York Times
+4806,1,Katie Holmes Talks About Directing, Motherhood and Mistakes - The New York Times
+4840,2,Death Toll in Oakland Warehouse Fire Rises to 36 as Search Continues - The New York Times
+4872,1,Donald Trump, Indonesia, Aleppo: Your Wednesday Evening Briefing - The New York Times
+4875,1,Trump Taps Linda McMahon to Head Small Business Administration - The New York Times
+4881,3,Indonesia Earthquake Kills More Than 100 in Aceh Province - The New York Times
+4885,1,Peter Vaughan, Maester Aemon in ‘Game of Thrones,’ Dies at 93 - The New York Times
+4983,1,An N.F.L. Executive, Honoring His Lost Sister, Speaks Out About Anorexia - The New York Times
+4991,2,Congregants’ Quiet Agony at the Dylann Roof Trial - The New York Times
+5120,1,Singers in Russian Military Choir Among 92 Feared Dead After Plane Crashes Into Black Sea - The New York Times
+5214,3,Earthquake Leaves a Trail of Destruction in Ecuador - The New York Times
+5241,1,Thinking Beyond Money in Retirement - The New York Times
+5392,1,What if PTSD Is More Physical Than Psychological? - The New York Times
+5400,1,Orlando, Hillary Clinton, Donald Trump: Your Monday Evening Briefing - The New York Times
+5410,1,Omar Mateen Told Police He’d Strap Bombs to Hostages, Orlando Mayor Says - The New York Times
+5424,2,$7 Million in Donations to Go Directly to Orlando Kin and Survivors - The New York Times
+5509,1,Quiet Fixer in Donald Trump’s Campaign: His Son-in-Law, Jared Kushner - The New York Times
+5610,3,Texas Rape Victim Was Jailed for Fear She Would Not Testify, Lawsuit Says - The New York Times
+5615,1,Confessor. Feminist. Adult. What the Hell Happened to Howard Stern? - The New York Times
+5775,3,After Earthquake in Italy, ‘Half the Town No Longer Exists’ - The New York Times
+5778,1,Italy, Hillary Clinton, Donald Trump: Your Thursday Evening Briefing - The New York Times
+5790,1,Some Villages in Italy May Never Recover From Earthquake - The New York Times
+5810,1,Victim in New Hampshire Prep School ‘Senior Salute’ Case Speaks Out - The New York Times
+5870,1,‘It Finally Clicked That This Wasn’t an Exercise’: Report Recounts San Bernardino Shooting - The New York Times
+5916,1,Can You Erase the Trauma From a Place Like Sandy Hook? - The New York Times
+6034,2,New York Archdiocese Offers Compensation Program for Sexual Abuse Victims - The New York Times
+6066,1,How to Improve Your Retirement Income if You Haven’t Saved - The New York Times
+6080,1,Poor, Displaced and Anxious in North Carolina as Floods Climb After Hurricane - The New York Times
+6104,2,Haitians, Battered by Hurricane, Huddle in Caves: ‘This Is the Only Shelter We Have’ - The New York Times
+6189,1,Protesters Take Anti-Trump Message to His Doorstep, and Plan Next Steps - The New York Times
+6255,1,Jared Kushner, Cast as Potential Player on Israel, Is Little Known There - The New York Times
+6273,2,U.S. Seeks Death for Charleston Shooting Suspect. Victims’ Families Prefer Mercy. - The New York Times
+6294,1,Chapecoense Soccer Team’s Plane Crashes, Leaving Brazil Devastated - The New York Times
+6310,1,Donald Trump, François Hollande, Tiger Woods: Your Thursday Evening Briefing - The New York Times
+6317,1,Taiwan, Italy, Joe McKnight: Your Friday Evening Briefing - The New York Times
+6321,1,‘Arbeit Macht Frei’ Gate Thought to Be Stolen From Dachau Is Found - The New York Times
+6356,2,Aleppo, Donald Trump, Pakistan: Your Thursday Briefing - The New York Times
+6383,1,Donald Trump, Russia, Dylann Roof: Your Weekend Briefing - The New York Times
+6408,1,Spared by Gunman in Charleston, Churchgoer Describes Night of Terror - The New York Times
+6456,1,Bored, Broke and Armed: Clues to Chicago’s Gang Violence - The New York Times
+6462,1,Coming to Newark Archdiocese: A Different Kind of Cardinal - The New York Times
+6491,1,Death of a Red Carpet Reporter - The New York Times
+6511,1,‘Comfort Woman’ Statue Reinstated Near Japan Consulate in South Korea - The New York Times
+6525,1,Your Wednesday Evening Briefing: Donald Trump, Elizabeth II, Harriet Tubman - The New York Times
+6532,2,Missing Mexican Students Suffered a Night of ‘Terror,’ Investigators Say - The New York Times
+6554,1,50 Years After the Cultural Revolution, a Son Awaits Answers on His Father’s Death - The New York Times
+6570,1,Economic Promises a President Trump Could (and Couldn’t) Keep - The New York Times
+6614,2,Before Orlando Shooting, an Anti-Gay Massacre in New Orleans Was Largely Forgotten - The New York Times
+6642,1,Seeking Answers, Michael Phelps Finds Himself - The New York Times
+6705,1,Object Lessons: The New Museum Explores Why We Keep Things - The New York Times
+6738,2,Harley Quinn, Just the Nice, Fun-Loving Psycho Next Door - The New York Times
+6753,1,From Syrian Rubble to German Concert Halls With a Piano, a Mission and Survivor’s Guilt - The New York Times
+6766,1,One Ally Remains Firmly Behind Donald Trump: The N.R.A. - The New York Times
+6785,1,João Havelange, Who Built and Ruled World Soccer With Firm Hand, Dies at 100 - The New York Times
+6789,1,Greek Villagers Rescued Migrants. Now They Are the Ones Suffering. - The New York Times
+6801,1,Iraq Executes Dozens for 2014 Massacre by ISIS - The New York Times
+6869,8,Kiefer Sutherland Returns. This Time the Oval Office Is His. - The New York Times
+6886,1,Swamps, Marijuana, Moonshine: 2 Prison Escapees’ 3 Weeks on the Run in New York - The New York Times
+6888,17,Holocaust Survivors’ Needs Grow, and Aid Is Slow to Catch Up - The New York Times
+6935,1,Trinh Thi Ngo, Broadcaster Called ‘Hanoi Hannah’ in Vietnam War, Dies - The New York Times
+6976,3,Trump Recording Narrows Divide on Sexual Assault - The New York Times
+7092,1,The Best TV Shows of 2016 - The New York Times
+7093,1,Leonard B. Sand, Judge in Landmark Yonkers Segregation Case, Dies at 88 - The New York Times
+7100,3,The Best Movies of 2016 - The New York Times
+7125,3,Times Critics’ Top Books of 2016 - The New York Times
+7126,1,On ‘Patriots Day’: ‘Love Will Defeat Evil’ - The New York Times
+7161,1,‘I Didn’t Want to Lose My Identity’: 16,000 Readers Reflect on Their Surnames - The New York Times
+7169,1,Carrie Fisher, Child of Hollywood and ‘Star Wars’ Royalty, Dies at 60 - The New York Times
+7177,2,A Majority Agreed She Was Raped by a Stanford Football Player. That Wasn’t Enough. - The New York Times
+7184,2,Prep Schools Wrestle With Sex Abuse Accusations Against Teachers - The New York Times
+7197,1,Salah Abdeslam, Suspect in Paris Attacks, Is Extradited to France - The New York Times
+7276,1,A Word With: Javier Muñoz, the New Hamilton on Broadway - The New York Times
+7282,1,Amid Protests Over Police Shootings of Black Men, Latinos Note a Disparity - The New York Times
+7320,3,Bus of Nepal Earthquake Survivors Plunges Off a Road, Killing 27 - The New York Times
+7330,1,Toots Thielemans, Who Won Jazz Renown With the Harmonica, Dies at 94 - The New York Times
+7383,1,Colombia Signs Peace Agreement With FARC After 5 Decades of War - The New York Times
+7415,1,We May Be Leaving the Ken Bone Zone - The New York Times
+7439,1,Leonard Cohen, Epic and Enigmatic Songwriter, Is Dead at 82 - The New York Times
+7518,1,George Michael, Pop Superstar, Is Dead at 53 - The New York Times
+7556,2,Orlando Shooting Survivors Cope With the Trauma of Good Fortune - The New York Times
+7583,1,Garry Marshall, ‘Pretty Woman’ Director, Dies at 81 a TV and Film Comedy Mastermind - The New York Times
+7614,1,Jerry Heller, Music Manager Who Promoted N.W.A and Gangsta Rap, Dies at 75 - The New York Times
+7668,1,Election Recount, Fidel Castro: Your Monday Evening Briefing - The New York Times
+7683,2,Dylann Roof Found Guilty in Charleston Church Massacre - The New York Times
+7691,1,Visiting the African-American Museum: Waiting, Reading, Thinking, Connecting, Feeling - The New York Times
+7707,1,How Can Communities Prepare for Mass Shootings? Orlando Offers Lessons - The New York Times
+7724,1,Johnny Nicholson, Whose Midtown Cafe Drew the ‘New Bohemians,’ Dies at 99 - The New York Times
+7729,1,David’s Ankles: How Imperfections Could Bring Down the World’s Most Perfect Statue - The New York Times
+7768,2,Gatlinburg Residents Return Home to Wildfire Destruction - The New York Times
+7777,1,Trump Says U.S. Would ‘Outmatch’ Rivals in a New Nuclear Arms Race - The New York Times
+7790,7,Elie Wiesel, Auschwitz Survivor and Nobel Peace Prize Winner, Dies at 87 - The New York Times
+7950,1,Former Iranian President Rafsanjani Dies
+8661,2,Sean Spicer Lights Up ’Pathetic’ Critics of Donald Trump’s Holocaust Statement - Breitbart
+9073,1,EXCLUSIVE: Wife of 911 Victim Pens Letter to Donald Trump Urging Strength During Saudi Visit
+9095,1,44th Anniversary of Roe v. Wade: Texans to Meet at State Capitol
+9138,1,20 People Tortured, Killed at Sufi Muslim Shrine in Pakistan
+9283,1,Egyptian Christians Killed for Refusing to Renounce Their Faith in Jesus
+9365,1,World Jewish Congress Hits Anti-Defamation League for Crying Wolf
+9412,1,Katie Hopkins to Leave LBC Following ’Final Solution’ Tweet
+9504,1,Townhall: ’Why the MSM Is Ignoring Trump’s Sex Trafficking Busts’ - Breitbart
+9620,1,Pence Speaks of ’Unbreakable’ Bond Between America and Israel at AIPAC
+9735,1,EXCLUSIVE - Benghazi Hero Kris Paronto: Susan Rice ’Needs to Be in Jail’ to Show Politicians ’They Are No Longer Untouchable’
+10253,1,EXCLUSIVE – Juanita Broaddrick Slams Madonna, ‘Fake News’ Women’s March - Breitbart
+10299,1,Katy Perry, Cher Join Anti-Trump Women’s March on Washington
+10496,2,Rotherham Child Rape Victim: ’Authorities Did Nothing’, Was Told Not to Mention Ethnicity of Attackers - Breitbart
+11200,1,’Apocalypse Now’ Game Director: We’re Making a Game for ’The 45 Other States’ Hollywood Doesn’t Care About - Breitbart
+11308,1,Boston Marathon Bombing Survivor to Marry Firefighter Who Rescued Her - Breitbart
+11484,1,On Anniversary of Pulse Jihadi Attack, Media Replaces Radical Ideology with Generic ’Hate’ - Breitbart
+11933,1,Video Shows Swerving Truck Moments Before Deadly Church Bus Crash
+12149,3,Pope Francis Apologizes for Catholic Church’s Role in 1994 Rwanda Genocide
+12267,1,The Civil War General From Illinois Who Gave Us Memorial Day
+12399,2,**Livewire** President Trump’s First Address to a Joint Session of Congress
+12742,1,Eric Holder’s Airbnb Runs Controversial #WeAccept Multiculturalism Ad - Breitbart
+12784,1,’Quantico’ Showrunner: Trump Voters Probably Won’t Watch Our Show, It’s About ’Inclusion’
+12840,1,Liberals Get a Pass: 4 Times the Media Ignored Leftists’ Comments About Pedophilia - Breitbart
+12971,1,RABBI SHMULEY: Spicer’s Actions Redeem His Words on Assad - Breitbart
+13066,1,President Donald Trump’s First Commencement Speech: ‘In America We Don’t Worship Government, We Worship God’ - Breitbart
+13138,1,Democrat Sherrod Brown Under Fire for Inaccurate Claim that Breitbart, Bannon, Gorka Anti-Semitic - Breitbart
+13184,1,’Horizon Zero Dawn’ Review: Gameplay Relics from the Past Hold Back an Otherwise Engrossing Open-World Adventure - Breitbart
+13229,1,Report: Church Bombing in Cairo Kills 21, Wounds 38
+13335,4,Report: Mel Gibson Privately Working to Help Holocaust Survivors
+13508,1,San Jose Residents Suffer ’Heartbreak’ After ’Failure’ by Anti-Trump Mayor - Breitbart
+13640,2,Escaped Chibok Girl on Anniversary of Abduction by Boko Haram: ’Bring Those Girls Back’ - Breitbart
+13770,1,London Clinic Supporting FGM Victims Forced To Close By Labour Council
+13993,1,North Carolina Jewelry Store Apologizes for Billboard Saying It Is ’Okay to Throw Rocks at Girls’ - Breitbart
+14152,1,Winners: Tom Brady’s Donald Trump Friendship in Spotlight as Super Bowl Looms - Breitbart
+14274,1,Gun Ownership, Shooting Classes Surge Among Black Women
+14631,1,Bernie Sanders Says ’Entire World is Watching’ Trump and Bannon Response to Anti-Semitism - Breitbart
+14667,1,Texas Fishermen Shot on Border by Suspected Cartel Gunmen
+14730,2,Final Death Toll for Italy Avalanche Reaches 29
+14982,1,Mother’s Day: Director Joss Whedon Grateful for His Mom Being Dead
+15024,1,Actress Mary Tyler Moore Dead at 80 - Breitbart
+15129,1,Left-Wing Hot Take: James Comey’s Like a Victim of Sexual Harassment - Breitbart
+15332,2,Elite Boarding School Admits Decades of Sexual Abuse
+15413,2,Exclusive--Syrian Survivor of 2013 Sarin Gas Attack: Thank You, President Trump ’For Taking Action Against the Dictator’
+15502,5,Orlando Police Chief: Some Victims May Have Been Hit by Police
+15547,1,PHOTOS: Al Qaeda Attack on Burkina Faso Hotel Leaves at Least 20 Dead - Breitbart
+15574,1,Pentagon Officials: Anti-Aircraft Weapons Prevented Possibility of Air Force Aid in Benghazi
+15946,3,***DNC LiveWire*** Obama, Biden, Kaine Featured Dems Look to Push Gun Control - Breitbart
+16001,1,WATCH: DNC Celebrity Ferrara - America Founded on Diversity of Sexual Orientations
+16062,1,Syrian Mother: Islamic State Baked Christians, ’Kneaded’ Children in Bakery Machines - Breitbart
+16128,1,Father Frank Pavone Notes Large Youth Involvement in Right to Life Movement - Breitbart
+16147,1,Aleppo Ceasefire Collapses in Hours, 50,000 Civilians in Danger - Breitbart
+16234,3,Live Updates - Terror in Orlando: Approximately 50+ dead, 50+ More Wounded at Gay Nightclub - Breitbart
+16325,2,Autopsy: Orlando Jihadi Used 260 Bullets to Kill 49 People, One Victim Shot Ten Times - Breitbart
+16407,2,Democrats Hope Convention Star Power Dazzles America Into Voting Hillary - Breitbart
+16460,1,Hillary Clinton Tries to Project ’Love and Kindness’
+16560,1,Fish Market Owner Pleads Guilty to $1.4 Million Food Stamp Fraud - Breitbart
+16857,1,The Empire Strikes Back Against Sen. Ted Cruz - Breitbart
+17048,1,Virgil: The Left’s Long March, Enabled by Corporate America: Ten Things to Know About Kellogg’s War Against Breitbart
+17146,1,Conservative to Liberal? Michael Keaton Award Speeches Differ Dramatically in One Year - Breitbart
+17256,3,Survivors of Aurora Theater Massacre Ordered to Pay Cinemark $700K After Failed Lawsuit - Breitbart
+17393,1,Sheriff David Clarke on Jailbreak Bill: Democrats Have ’Always Been Pro-Criminal’ GOP Elites like Paul Ryan ‘in Bed with This Sleazy Movement’
+17640,3,Holocaust Survivors Get Bar Mitzvahs In Jerusalem 70 Years Later
+17677,2,EXCLUSIVE - Juanita Broaddrick: ‘Evil’ Bill Clinton Doesn’t Regret the Rape, Hillary Thought I Would Fade
+17788,1,Perry Defends ‘American Sniper’s’ Reputation After Leftwing Media Attack
+17861,1,Woman Tells Gun Controllers: My Pistol Is Only Reason I’m Alive - Breitbart
+17888,1,Trump Rallies the ‘Noisy as Hell Majority’ in Rubio and Jeb’s Backyard - ‘Kicking Ass in Florida’
+18028,3,Nate Parker Talks Overcoming ’Toxic Masculinity,’ ’Male Privilege’ after Rape Scandal - Breitbart
+18164,1,’Ben-Hur’ Producer Mark Burnett: Faith-Based Films Need ’Epic’ Feel to Attract Secular Audiences - Breitbart
+18243,1,36th Police Officer Killed by Gunfire in Line of Duty This Year
+18264,1,Italy Rescues 500 Migrants Off Libyan Coast, Recovers 8 Corpses
+18829,1,Jihadist Suicide Bomber Kills at Least 70 at Pakistan Hospital
+18994,1,Nancy Pelosi Wants a ’Gun Vote’ from the GOP - Breitbart
+19062,1,Probable Obama 9/11 Document Declassification Leaves Many Asking ’Why Now?’ - Breitbart
+19313,1,Trump’s Mission: Make America Great Again, Thinking Big and Winning - Lessons from U.S. History - Breitbart
+19362,1,Professor Calls for Shooting at NRA HQ, Asks for ’No Survivors’ - Breitbart
+19541,4,WATCH: Audience Revolts After Margaret Cho Jokes About Rape, Whites, Gay People - Breitbart
+19627,1,LGBT Groups Blast Vatican for Banning Homosexuals from Seminaries
+19754,1,Paula Jones: Clinton ’Two Faced,’ ’Liar,’ ’Cares Nothing About Women at All’
+19803,1,Establishment Playbook to Defeat Donald Trump Echoes Smears Against Barry Goldwater - Breitbart
+19844,5,Lady Gaga, Sexual Assault Survivors at Oscars Get Matching Tattoos - Breitbart
+19851,2,FULL TEXT: MILO On How Feminism Hurts Men And Women - Breitbart
+20111,3,Trump Should Not Dilute Republican Pro-life Platform - Breitbart
+20169,1,AP: Many Donors to Clinton Foundation Met with Hillary at State - Breitbart
+20267,1,Hundreds of Trump Fans Boo, Walk Out On Amy Schumer - Breitbart
+20977,1,Philippines’ Duterte Threatens to Throw Corrupt Officials Out of Helicopter - Breitbart
+21034,1,Amy Schumer Calls On Women to March in Protest Against Trump
+21212,1,WATCH: Broadway Stars Lead Tribute to Gun Victims at DNC - Breitbart
+21778,1,Elie Wiesel, Holocaust Survivor and Nobel Laureate, Dies at 87
+21835,1,Watch: Trailer for Boston Marathon Bombing Movie ’Patriots Day’
+21844,1,U.S. Military Declares 12 Missing Marines Dead - Breitbart
+21884,1,*** Live Updates of RNC Evening Session: Trump to Introduce Melania*** - Breitbart
+22059,1,Lawmaker Who Heckled Hillary: I Became a Republican Because of Bill’s Sex Scandals - Breitbart
+22071,1,CONFIRMED: Berlin Attack Suspect Shot Dead in Milan
+22268,2,Survivors ’Outraged’ Father of Pulse Terrorist Attended Clinton Rally
+22287,1,Chernobyl, 30 Years Later: Some Ukrainians Risk Radiation to Avoid Russian Invasion - Breitbart
+22290,1,Home Video Sales for ’13 Hours’ Benghazi Movie Soar in Election Year - Breitbart
+22578,1,Orlando Police Chief: Blame Omar Mateen for ’Friendly Fire’
+22652,2,**Live Wire** Jihad in Orlando: Was Omar Mateen Really a Lone Wolf? - Breitbart
+23030,1,Weinstein Co. Casts David Koresh Role for ’Waco’ Miniseries - Breitbart
+23249,1,Rep. Steve King To Leave Empty Seat at State of Union Address For ‘9 Million Babies Aborted Under’ Obama’s Watch - Breitbart
+23415,1,West Hollywood Mayor: Ban Donald Trump, Because ’Diversity’
+23419,1,Shock Report: 98 Percent of Crime in Mexico Goes Unpunished - Breitbart
+23617,1,Facebook Deletes Pamela Geller’s ’Stop Islamization Of America’ Page After Orlando Attack - Breitbart
+23773,1,Jeb Bush Ends Presidential Campaign — Congratulates Candidates ’Remaining On The Island’ - Breitbart
+23778,3,AP: More Establishment Than Celebrity in Trump Convention Lineup - Breitbart
+23913,2,Joe Biden Tapes Episode of ’Law and Order: SVU’ - Breitbart
+24108,1,British Doctors Faced With 5,700 Cases Of Female Genital Mutilation In One Year
+24322,1,***Live Updates*** Bernie, Hillary Meet in New Hampshire Town Hall - Breitbart
+24371,2,Mediterranean Migrant Death Toll Tops Record 5,000 this Year
+24440,1,Celebrities Call for Gun Control, Rip Donald Trump After Orlando Nightclub Terror - Breitbart
+24508,12,**Live Wire** Jihad in Orlando: How Can We Prevent Another Pulse Massacre? - Breitbart
+24510,1,13 Dead And 6 Injured As Fire Engulfs Bar In France
+24605,1,UnitedHealth Exits Most ObamaCare Exchanges, Citing Over $1 Billion In Losses - Breitbart
+24812,2,War Crimes of Imperial Japan: A Lesson In Moral Equivalence for Mr. Obama - Breitbart
+25008,1,Explosions Hit Brussels Airport, One Killed - Belgian Media
+25154,1,On Rape, Clinton Campaign Deletes ‘You Have The Right to Be Believed’ From Website - Breitbart
+25229,1,Child Rape Victim: ‘Lying’ Hillary Defended My Attacker
+25460,2,Ebola Death Confirmed Hours After Outbreak Declared Over
+25518,1,BuzzFeed Shames Juanita Broaddrick: ‘Move to the Right Damages Her Mainstream Credibility’
+25732,1,Review: ’Black Earth’: The Holocaust as History and Warning
+25761,1,WATCH: 49 Celebs Honor 49 Orlando Victims by Pushing for Gun Control - Breitbart
+25895,1,Rape Survivor: Do Not Let Hillary Clinton Take Away Your Right to Self-Defense
+26011,1,Elie Wiesel’s Perfect Tribute: Hate Tweet from Clinton Associate
+26092,3,’My Joints Felt Like Dead Weights’: Zika Tied to Guillan-Barré
+26135,1,***2016 LiveWire*** Trump Campaigns with IN Gov. Pence - Breitbart
+26181,1,Zika Threat In India: Doctors Race to Avoid Pandemic
+26207,2,Would You Follow Hillary ’To Hell and Back?’ - Breitbart
+26419,1,***Live Updates*** Obama Delivers Final State of Union Address - Breitbart
+26451,1,***Horse Race LiveWire*** Brooklyn Brawlers: Sanders, Clinton Square Off in NY Debate - Breitbart
+26464,1,Pitt Students ’In Tears’ and Feeling ’Unsafe’ After Milo Yiannopoulos Event - Breitbart
+27053,2,9/11 Report Newly-Released ’28 Pages’ Riddled with Redactions
+27165,1,***Orlando/2016 LiveWire*** Obama Pushes Gun Control: ’More Massacres’ if ’We Don’t Act’ - Breitbart
+27350,1,For Frank Sinatra, Jr. - Breitbart
+27386,1,Lena Dunham: I’ll ’Survive’ and ’Fight’ in Trump’s America
+27414,1,Documentary Exposes Brown University’s Censorship Culture - Breitbart
+27487,1,WATCH: University Official Threatens to Call Police on Reporter at Milo Protest Because Students Need ’Safe Space’ - Breitbart
+27574,3,Pro-Abortion Witness Testifies It’s Acceptable to Deny Medical Care to Baby Born Alive After Abortion - Breitbart
+27617,1,Hiding Hillary Day 260: Hillary Fundraises with Cher - Breitbart
+27657,1,Update: Muslim Easter-Day Massacre Kills 72 Christians in Pakistan
+27732,2,Another Democrat Trashes Elie Wiesel: ’Holocaust Whore’
+27750,1,Jurors Refuse to Serve Under Stanford Rape Judge Aaron Persky
+27926,2,Christianity Grows in India Despite Anti-Christian Violence from Hindu Activists
+28036,1,Watch: Hannity Montage Details ’Hillary Clinton’s Own Troubling History With Women’ - Breitbart
+28096,1,Wikileaks: PR Firm Seeks Clarification on Hillary’s Support of 25% Gun Tax - Breitbart
+28231,1,LGBT Magazine Adds Disclaimer After MILO, Mike Pence Lead Person of the Year Poll - Breitbart
+28300,3,Taliban Snuffs Child-Molesting Afghan Police Using Sex Slave Boys as Bait - Breitbart
+28373,1,Seven Artists, Dissidents, Journalists, and Rebels Who Defied Authoritarians in 2016
+28404,1,Democratic Party Suffers Nervous Breakdown In Philly: The Inside Story - Breitbart
+28467,1,Boston Bombings: Obama Admin Still Refuses to Acknowledge Jihadist Threat - Breitbart
+28668,1,Bilderberg 2016 Guest List Combines Enough Elite Names to Make Everyone Feel Uneasy - Breitbart
+28777,2,Italy Quake Death Toll Hits 267, State Funeral Planned
+28882,1,WATCH: Major Quake Devastates Italian Towns, 120+ Dead, Thousands Homeless
+28981,1,Hillary Clinton Campaign Rejects Max Blumenthal’s Antisemitism
+29049,1,Ron Maxwell: Hillary’s Totalitarian Moment
+29106,5,Brandeis Student Journalists Accused of Violating ’Safe Space’ for Covering Anti-Rape March - Breitbart
+29121,1,Amy Schumer Increases Personal Security While Pushing Gun Control for Americans - Breitbart
+29181,2,New York Law Firm Blocks Payment to American Victims of Iranian Terror - Breitbart
+29255,1,Developer Responds to Controversy over ’Rust’ Assigning Permanent Random Race and Gender to Players - Breitbart
+29267,1,Saudi Arabia Threatens to Sell $750 Billion of U.S. Assets
+29329,1,FULL TEXT: MILO Explains The Patriarchy At Ohio University - Breitbart
+29419,1,Pitt Student’s Family Harassed over Milo Yiannopoulos Event - Breitbart
+29721,2,Rob Reiner: Trump’s Comments Dangerous Because His Followers Have ’Violent Nature’ - Breitbart
+29884,1,Marco Rubio’s Grin of Desperation - Breitbart
+30508,1,’Tom Clancy’s The Division’ Review: We’re Here to Rescue You - Breitbart
+30794,1,Blue State Blues: Top 10 Biblical Kings - Breitbart
+31109,1,Obama Touts First Seven Years, Pledges to ’Move Forward on Our Unfinished Business’ on Gun Control - Breitbart
+31323,1,Singer Takes a Knee While Performing National Anthem at NBA Game
+31423,1,Police Try To Link Munich Gunman To Anders Breivik
+31491,2,Curt Schilling: Media Celebrating Colin Kaepernick Vilified Tim Tebow for ’Lowering His Head in Prayer to God’ - Breitbart
+31630,3,The new face of Mother Emanuel
+31901,1,Charleston church massacre, one year later
+31912,1,Nearly 100 migrants missing in Mediterranean
+31992,1,CNN 10 - January 18, 2017
+32003,1,Nigerian fighter jet strikes refugees, aid workers in Borno
+32134,1,Tornado deaths over weekend exceed 2016 toll
+32235,1,Trump draws ire from Jewish groups over holocaust statement, refugee policy
+32319,2,Spicer slams ’nitpicking’ of Holocaust statement
+32382,1,North Korea fires head of prison camp system
+32400,8,Georgia lawmaker moves to shake up college rape investigations
+32461,9,Slavery survivor: Escaping a trafficker shouldn’t be left to chance
+32824,1,’Stand your ground’ hearing opens in theater shooting
+32954,1,Jewish cemetery in Philadelphia vandalized
+32980,2,3 dead in California plane crash
+32991,1,Wilbur Ross Fast Facts
+32999,1,FBI investigating Jewish cemetery vandalism in Philly
+33006,1,Donald Trump’s Congress speech (full text)
+33011,7,VA Secretary Shulkin is Trump’s designated survivor
+33015,1,Jewish center bomb threats top 100 kids pulled from schools
+33032,1,Texas Rangers investigate Baylor sexual assault reports
+33035,2,Report: Vatican sex abuse commission member quits
+33151,2,Attorneys: travel ban fight is a ’marathon’
+33201,2,Cancer survivor has change of heart over Obamacare
+33220,1,Female Marine veteran ’disgusted’ to see photos online
+33269,1,Judge denies ’stand your ground’ defense in movie theater shooting
+33293,1,Bus plows into parade crowd in Haiti, killing 38
+33377,4,In Yemen, urgent support for survivors of deadly boat attack
+33432,1,South Sudan plane crash: All on board survive ’miraculous’ landing
+33470,1,South Korea: Sewol ferry emerges from the water 3 years after sinking
+33594,1,NTSB investigates Texas church bus accident that left 13 dead
+33651,1,Texas bus crash: NTSB wants to interview truck driver
+33696,1,CNN 10 - April 3, 2017
+33738,2,US cuts women’s health funding to UN
+33747,5,Survivors of Syrian attack describe chemical bombs falling from sky
+33774,1,What’s your policy? Russia asks Trump after Syria gas attack
+33850,4,Indian acid attack survivors find love together
+33897,1,San Bernardino school shooter fired 10 shots, reloaded once
+34030,1,Rescuers accuse EU of letting migrants drown
+34186,1,New Orleans begins controversial removal of Confederate monuments
+34314,1,Deadly storms hit several states
+34334,2,Police: San Diego gunman called ex-girlfriend during shooting
+34366,1,How photo series reflect power and prejudice
+34505,1,Removing gender from MTV awards: a start, but not equality
+34556,1,Cops: DUI suspect who struck a family returning from Disneyland had been deported 15 times
+34565,1,Rod Rosenstein: Trump’s unlikely hatchet man
+34599,1,Texas lawmakers spar over ’anti-vaccine measure’
+34602,1,Baby love: 30 years of Anne Geddes
+34689,1,CNN 10 - May 16, 2017
+34881,1,The Pope and President: Unpredictable pair finally meet
+34994,1,UK reduces terror threat level to ’severe’
+35024,3,Hero firefighter dies from 9/11-related cancer
+35031,1,Clearing up US ’ground-zero’ for modern slavery
+35036,1,Philippines launches air strikes in bid to retake ISIS-occupied city
+35069,2,The importance of building children’s resilience
+35074,1,Afghanistan explosion: Blast kills 90 near diplomatic area
+35077,1,Portland stabbing suspect yells in court: Free speech or die
+35407,3,12 dead in London residential tower fire
+35408,1,London tower block fire: At least 12 dead - live updates
+35431,1,Officials identify gunman, victims in UPS shooting
+35493,2,Smiling faces of London missing haunt those left
+35518,2,Hollywood reacts to Bill Cosby mistrial
+35526,1,Andrea Constand’s ’courage’ buoys spirits of Cosby accusers
+35529,1,Mistrial declared in Bill Cosby’s trial
+35541,1,Dive into this hypnotic underwater parade
+35556,3,UK Chancellor: Cladding on Grenfell Tower ’banned on high-rises’
+35571,1,79 presumed dead in London fire
+35603,1,Orlando shooter texted wife during attack, source says
+35607,1,McCain: Obama ’responsible’ for Orlando
+35620,2,Obama consoles families grieving in Orlando
+35647,3,Their night of terror: Orlando shooting, as told by survivors
+35728,1,Under pressure, FBI releases full content of Orlando shooting call
+35737,1,Australian commission: Military cadets raped as initiation
+35742,4,Orlando nightclub massacre: Friend says he told FBI about Mateen
+35755,1,Libertarians aim to slay ’two-party dinosaur’
+35826,3,Survivors of Boston and Orlando attacks unite
+35924,2,Turkey airport attack witness: ’It was like hell’
+35987,2,Elie Wiesel, Nobel laureate, dead at 87
+35990,1,Elie Wiesel Fast Facts
+35995,1,Trump campaign defends tweet as a ’basic star’ in wake of criticism
+36000,1,Cafe attackers were Bangladeshi, authorities say
+36016,1,’God wants you to die’: Dhaka’s long night of terror
+36041,1,How Trump overshadowed Clinton’s bad weekend
+36205,1,San Diego police free suspect in homeless killings
+36317,1,In Nice attack, young lives were not spared
+36348,1,Republican convention speakers: Ivanka, Newt
+36392,1,In a dark time, GOP offers positive vision
+36405,1,Trump campaign tries to move on from plagiarism controversy
+36406,1,Journalist Pavel Sheremet killed in Kiev
+36416,1,’Not enough protection for victims in India’
+36554,2,Clinton puts ’biggest crack’ in glass ceiling
+36577,1,Memorable lines from Wednesday night at the DNC
+36860,1,Baltimore police have racial bias, DOJ says
+36963,1,Cuba’s Fidel Castro survived assassination attempts, officials say
+37013,1,Giuliani wrong about terror attacks and Obama
+37021,2,Louisiana’s mammoth flooding: By the numbers
+37042,1,Little boy in Aleppo a reminder of war’s horror
+37043,1,Fourth brain-eating amoeba case of the year being treated
+37050,7,Inside Syria’s prisons, where an estimated 17,723 have died since 2011
+37222,1,At least 247 killed in earthquake in central Italy
+37228,1,Magnitude-6.2 quake hits Italy: Live updates
+37235,2,Italy earthquake: Girl pulled from rubble undergoes surgery
+37264,1,Rescuing the furry flood victims in Louisiana
+37293,2,Italy earthquake: A country in mourning begins burying the dead
+37297,2,Italy earthquake survivors: ’The future is finished’
+37315,5,Italy earthquake: Amid the rubble, a couple says ’I do’
+37336,2,Italy earthquake: mafia-busting chief warns of criminal reconstruction
+37340,1,Safety tip from India’s tourism minister: Don’t wear skirts
+37378,1,September 11th Commission Fast Facts
+37400,1,University of Kentucky sues student newspaper
+37416,1,The search for a Speedo-wearing guru
+37423,7,Mad about Brock Turner’s sentence? It’s not uncommon
+37435,2,Brock Turner released after 3 months in jail
+37529,1,Orlando Pulse shooting: Last patient leaves hospital
+37538,1,Mexican authorities: Gangs shot down helicopter
+37562,2,9/11 images are seared into photographers’ memories
+37602,1,Why we must keep telling the FDNY’s 9/11 story
+37610,1,9/11 cuts deep in Trump, Clinton campaigns
+37646,1,90 killed in Syria after ceasefire plan announced
+37652,1,The no-transparency election
+37690,1,UNC student says she was raped by football player
+37714,2,UNC football player turns self in on sexual battery charge
+37791,1,UNC misconduct policy faces new scrutiny
+37917,1,Obama vetoes 9/11 lawsuit bill
+37959,1,The last Flying Tigers of World War II
+38004,1,Department of Veterans Affairs Fast Facts
+38070,1,Clinton super PAC puts $10M behind anti-Trump ad
+38091,1,Last Doolittle survivor recalls US revenge attack
+38096,3,North Korea floods: Survivors homeless, sick as winter looms
+38099,1,Governor signs bill stemming from Brock Turner case
+38198,1,Opinion: Prostate screening’s false promise
+38243,1,How underground library gave hope amid war
+38259,1,Pakistan passes milestone law for women
+38307,1,Who won the town hall debate?
+38354,1,Paris attacks: Lawyers for main suspect quit
+38394,2,Tweets show why women don’t report sex assault
+38549,1,Why I’m voting for the first time
+38705,1,Paris attacks: A year of grief, anger, change
+38711,1,What to do if a tsunami strikes
+38820,1,Indian train derailment kills more than 140
+38870,3,6.9-magnitude earthquake strikes off Japan
+38886,1,Cambodia court rejects Khmer Rouge leaders’ appeal against conviction
+38892,1,Chattanooga school bus crash: Investigators search for answers
+38989,1,In Cuba, days of mourning for Fidel Castro
+39004,1,Former Cuban leader Fidel Castro dies
+39005,2,Fidel Castro Fast Facts
+39036,1,What Trudeau’s Castro comments reveal
+39061,1,Chapecoense: Football team’s fairy-tale rise ends in tragedy
+39077,1,Dylann Roof trial takes on new meaning
+39139,1,Austria’s far-right: Hipsters or hatemongers?
+39172,1,Poignant scenes as Chapecoense team mourned
+39195,1,Austrian presidential election: Who is Norbert Hofer
+39204,1,Richard Spencer’s appearance at Texas A&ampM draws protests
+39244,2,Lebanon takes first step to abolish marriage rape law
+39253,1,Rescuers search for survivors after deadly earthquake in Indonesia
+39265,1,Dylann Roof trial: Jury seated in Charleston
+39307,1,Mass shooter Dylann Roof, with a laugh, confesses, ’I did it’
+39327,2,Nigeria church collapse kills at least 23
+39330,1,Why Trump needs to appoint a pro to head FEMA
+39356,1,Outdoor adventure empowers young cancer patients
+39437,2,Dylann Roof trial: Will he get the death penalty?
+39569,1,Berlin attack: Police hunt Tunisian suspect
+39654,1,Performers on crashed plane were headed to Syria
+39660,2,Ensemble: ’Red Army’ choir loved by Russia
+39665,1,Black box from crashed Russian military plane found
+39714,1,Debbie Reynolds, ’Singin’ in the Rain’ star, dies at 84
+39781,1,Search for AirAsia Flight QZ8501 slowed by weather
+39782,1,What (not) to look forward to in 2015
+39806,4,7-year-old survives Kentucky plane crash that kills 4
+39840,1,7 things we learned about Mike Huckabee from his new book
+39849,1,After Ray Rice: Inside a batterer’s mind
+39858,2,Recording: Paris gunman had dialogue with hostages
+39904,2,Tuskegee Airmen deaths leave few to carry on ’legacy’
+39921,1,Titanic letter: ’Disgraceful’ treatment after rescue
+39977,1,Suspects detained in Paris over attacks
+39980,1,Proposed NCAA settlement could restore Penn State wins
+40000,1,North Korean prison camp survivor changes story
+40018,2,Dismay and support for North Korean defector
+40019,1,Chomsky: Paris attacks show hypocrisy of West’s outrage
+40054,1,Anne Kirkbride, UK soap ’Coronation Street’ vet, dies
+40132,1,US relief at smooth Saudi power transfer
+40159,1,She danced for Dr. Mengele in Auschwitz
+40232,1,Killer recorded terror attack on kosher store
+40264,5,’The Evil Hours’: Lessons of PTSD
+40412,2,How North Korean defector’s story unraveled
+40453,1,The planet you’ve probably never heard of
+40524,1,Court rejects another request to move Tsarnaev trial
+40573,3,The 13th Juror: Boston bomber’s trial a horror show
+40744,1,Penn State frat suspended over alleged nude Facebook pictures
+40860,1,Remembering a keeper of the legacy of Anne Frank
+40912,1,Angelina Jolie did right thing to remove ovaries
+40950,1,Dzhokhar Tsarnaev trial: The radicalization of Jahar
+40951,1,’Walking Dead’ big finale: Shows to watch this week
+41021,1,Research: Anne Frank perished earlier than thought
+41095,2,Tales of people who survived after days adrift in sea
+41130,1,Mass graves found in Tikrit
+41131,2,Boston bombing trial: Jurors set to begin deliberations
+41156,1,Stan Freberg, acclaimed satirist, dies at 88
+41171,4,Tsarnaev guilty of all 30 counts in Boston bombing
+41174,1,ISIS released more than 200 Yazidis, officials say
+41176,1,President Obama takes on Wisconsin Gov. Scott Walker
+41196,1,Haiti shipwreck claims at least 21 lives, official says
+41201,1,Richard Dysart, ’L.A. Law’ star, dies at 86
+41207,4,Boston bombing trial: Sentencing begins
+41266,1,Ex-Blackwater contractors sentenced in Iraq shooting
+41273,1,Faces of a stolen generation
+41274,1,Not just a number: A refugee in Europe
+41306,1,Millions in WWII silver reclaimed from deep ocean
+41314,4,Survivor returns to Auschwitz hoping to find his twin
+41316,1,Remains from USS Oklahoma to be exhumed
+41338,1,Rap mogul Suge Knight ordered to stand trial for murder
+41359,3,Hundreds feared dead in Mediterranean shipwreck
+41380,4,Hundreds of migrant deaths: What is Europe going to do?
+41387,1,’Good Times’ actor Ben Powers dies at 64
+41394,2,2015 Boston Marathon ’a symbol of unity, strength’
+41410,1,Prosecutor: ’Tsarnaev was and is unrepentant’
+41451,4,Earthquake in Nepal leaves hundreds dead
+41504,3,At least 30 graves found in southern Thailand
+41524,3,Dreams ’scattered’ by Nepal quake
+41527,1,New streaming on Netflix, Amazon Prime, Hulu in May
+41616,1,The 11 best videos of the week
+41625,1,The most popular baby names of 2014 are ....
+41627,5,American doctor cured of Ebola finds the virus in eye
+41630,5,Boston Marathon bomber Dzhokhar Tsarnaev gets death
+41678,1,The mystery of the Tsarnaev brothers (Opinion)
+41735,1,Unwanted: The plight of Myanmar’s Rohingya boat people
+41836,1,What is flakka and why is it so dangerous?
+41973,2,What social workers can teach us about staying sane
+41974,4,Chinese cruise ship capsized quickly, survivor says
+41987,1,5 things to know for your New Day -- Tuesday, June 2
+42094,2,A look inside the ’broken’ mind of James Holmes
+42114,1,’Lone Survivor’ Marcus Luttrell stood behind Rick Perry
+42127,1,More bodies recovered from Chinese cruise ship
+42155,1,’Lethal Weapon’ actress Mary Ellen Trainor dead
+42254,1,Being Moody: This man won’t let New Jersey take his home
+42259,1,Opinion: Women were ’examined like cattle’
+42301,1,Why some comedians don’t like college campuses
+42422,1,When your daughter has anorexia
+42436,3,Inside church massacre: A mom ’laid in her son’s blood’
+42466,4,James Holmes trial: tears, then prosecution rests
+42475,3,Charleston shooting suspect appears in court
+42477,2,How 1963 Birmingham bombing echoes in Charleston church
+42478,1,Charleston church shooting: Who is Dylann Roof?
+42479,1,In Charleston’s wake, Clinton speaks forcefully on guns, race
+42536,1,The girl in the photo from Vietnam War
+42556,7,Boston bomber Dzhokhar Tsarnaev says he’s sorry
+42557,1,Does death penalty bring closure?
+42630,1,Tunisia hotel attack: 38 killed, tourists flee
+42690,1,Ferry owner faces charges in deaths
+42697,1,Takei walks back ’blackface’ remark about Thomas
+42706,1,What’s streaming in July on Netflix, Amazon Prime, others
+42722,1,What’s behind increase in shark attacks off Carolinas?
+42775,1,Tony-winning and ’Cheers’ actor Roger Rees dies
+42813,2,Petition: Revoke Bill Cosby’s Medal of Freedom award
+42826,1,El Chapo’s escape: No light at the end of his tunnel
+42891,1,Should military recruiting centers be armed?
+42896,1,Theodore Bikel, ’Sound of Music’ star, dies at 91
+42955,1,A young ballclub barnstorms the Deep South
+42968,1,Search for missing Florida teens reaches Day 6
+42989,1,The myth of child prostitution (Opinion)
+43160,1,NYPD captain suggests unsolved rape cases are ’not a trend that we’re too worried about’ because most weren’t committed by strangers
+43324,1,GEORGE SOROS: Trump is a con man and he will fail
+43463,1,Holocaust Memorial responds to controversy over Trump’s omission of Jews in statement
+43782,1,I’m a Silicon Valley liberal, and I traveled across the country to interview 100 Trump supporters — here’s what I learned
+44132,1,The stories from inside North Korea’s prison camps are horrifying
+44768,1,’People are waking up’: A key architect of ’Trumpcare’ faces hostility back home
+44777,1,A 24-year old got a mysterious disease where her body attacked her brain — and everyone thought it was in her mind
+44949,1,Inside the stunning rise of the liberal conspiracy theorist
+45345,1,Obama debated a bunch of people opposed to his new gun actions, and it was fascinating
+46084,5,The remarkable story of a woman who was born at Auschwitz
+46136,1,Several states are trying to outlaw a taboo marriage practice
+46214,1,The retirement crisis is getting truly scary
+46613,4,The death toll from Ecuador’s massive 7.8 earthquake is up to 262
+47006,1,Black boxes from EgyptAir flight 804 reportedly located as officials confirm smoke was detected before it crashed
+47638,1,English teachers have been assigning Elie Wiesel’s memoir of the Holocaust for 30 years — here’s why
+47939,1,The incoming NYPD commissioner is already getting slammed by police reform activists
+48156,1,THE LEBRON JAMES INTERVIEW: The world’s best athlete reveals how his team pulled off the greatest comeback in NBA history
+48236,1,Get ready to say goodbye to a lot of electric cars
+48331,1,A 400-page report describes the ’private hell’ and sexual abuse that at least 51 students suffered through at an elite New England prep school
+48556,1,The most disturbing aspect of a sexual-abuse scandal at an elite, New England prep school
+49202,1,Why a deep-red state is turning against the GOP
+49677,1,Charleston church shooter Dylann Roof found guilty of federal hate crimes in South Carolina massacre
+49763,1,The untold story of Trump son-in-law Jared Kushner’s quest to become a media mogul
+49804,1,A Russian military plane carrying 92 people has crashed into the Black Sea
+49831,1,The New Reality TV
+49837,1,Ten American Foreign Policy Luminaries Who Died in 2016
+49878,1,A Long-Lost Data Trove Uncovers California’s Sterilization Program
+49937,1,Trump Is Turning American Companies Into Reality-Show Contestants

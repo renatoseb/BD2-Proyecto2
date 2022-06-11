@@ -1,0 +1,348 @@
+68,1,Getting Around by Rail, Sail or Foot - The New York Times
+231,1,The Lights Are On in Detroit - The New York Times
+254,1,Taiwan Responds After China Sends Carrier to Taiwan Strait - The New York Times
+332,1,A Big Test for Big Batteries - The New York Times
+353,1,It Can Power a Small Nation. But This Wind Farm in China Is Mostly Idle. - The New York Times
+391,1,Angst Simmers in Washington as Trump Presidency Nears - The New York Times
+462,2,Who Decides Who Counts as Native American? - The New York Times
+517,1,Brenda Barnes, Pepsi Chief Who Spurred a Work-Life Debate, Dies at 63 - The New York Times
+518,1,Baseball Tragedy: Two Players Die in Crashes in the Dominican Republic - The New York Times
+606,1,Mexico’s President Cancels Meeting With Trump Over Wall - The New York Times
+829,1,Paris Turns to Flower-Growing Toilet to Fight Public Urination - The New York Times
+853,1,An Evolving Sports City, Atlanta Chases a Championship - The New York Times
+955,2,Guardians of a Vast Lake, and a Refuge for Humanity - The New York Times
+958,1,How 2 Refugees Were Vetted Even Before Trump’s Travel Ban - The New York Times
+994,1,Time and a Relentless Clock Weigh on Hamburg Soccer Team - The New York Times
+1058,1,African Nations Increasingly Silence Internet to Stem Protests - The New York Times
+1222,1,After Eight Years in Guantánamo, He Yearns to Return - The New York Times
+1277,1,Clashes in Stockholm Suburb Draw Attention to Trump’s Remarks - The New York Times
+1353,1,In a Champion’s Corner, a Real Coach Who Inspired One on ‘The Wire’ - The New York Times
+1392,1,U.S. Forces Play Crucial Role Against ISIS in Mosul - The New York Times
+1395,1,One of Atlanta’s Last Stores on Wheels Navigates a World of Change - The New York Times
+1535,1,In Major League Soccer, Argentines Find a Home and Success - The New York Times
+1557,1,North Korea’s Launch of Ballistic Missiles Raises New Worries - The New York Times
+1629,1,E.P.A. Head Stacks Agency With Climate Change Skeptics - The New York Times
+1669,1,Woman Who Streamed Boyfriend’s Death by Police Faces Unrelated Assault Charge - The New York Times
+1749,1,Steve King, Hurling Insults at Immigrants, Is Rebuked by His Own Party - The New York Times
+1805,1,Populists Appear to Fall Short in Dutch Election, Amid High Turnout - The New York Times
+1928,1,Trisha Brown, Choreographer and Pillar of American Postmodern Dance, Dies at 80 - The New York Times
+2017,1,The London Attacker: Quiet and Friendly, but With a Hostile Side - The New York Times
+2077,1,North Carolina Vindicates Roy Williams’s Trust With Last-Second Win - The New York Times
+2254,1,A Transgender Student Won Her Battle. Now It’s War. - The New York Times
+2361,1,Cultural Revolution Shaped Xi Jinping, From Schoolboy to Survivor - The New York Times
+2409,1,Syrian Refugees Laud U.S. Strike and, in ‘New Emotion,’ Trump - The New York Times
+2517,1,Student Charged With Hazing in Peanut Butter Allergy Case - The New York Times
+2649,1,In Pennsylvania, Unbound Delegates Remain Wary of Donald Trump - The New York Times
+3285,1,The Mysterious Metamorphosis of Chuck Close - The New York Times
+3341,1,Miles of Algae and a Multitude of Hazards - The New York Times
+3416,1,‘I’m Resigned to Having a Terrible President’ - The New York Times
+3432,1,After Dallas Attack, Hundreds of Applicants Answer a Call for Backup - The New York Times
+3497,1,U.S. Could Exceed Goal of Accepting 10,000 Syrian Refugees - The New York Times
+3505,1,How an Iranian’s Spy Saga Ends, 6 Years Later: He’s Executed - The New York Times
+3571,1,What to Cook This Weekend - The New York Times
+3587,1,Kenny Baker, the R2-D2 Robot in ‘Star Wars,’ Dies at 81 - The New York Times
+3626,1,When the Pilot Is a Mom: Accommodating New Motherhood at 30,000 Feet - The New York Times
+3665,1,Milwaukee’s Divide Runs Right Through Me - The New York Times
+3706,1,Occupying the Prairie: Tensions Rise as Tribes Move to Block a Pipeline - The New York Times
+3786,1,Their Soil Toxic, 1,100 Indiana Residents Scramble to Find New Homes - The New York Times
+3796,1,Love Undone - The New York Times
+3806,1,Never the Noodles Shall Meet: A Chinese Treaty Is Tested - The New York Times
+3835,1,Hurricane Batters Florida’s Gulf Coast, Then Turns North - The New York Times
+3845,1,Oklahoma Orders Shutdown of Wells After Record-Tying Earthquake - The New York Times
+3867,1,Researchers Confront an Epidemic of Loneliness - The New York Times
+3884,1,The Giant Panda Is No Longer Endangered. It’s ‘Vulnerable.’ - The New York Times
+4024,1,F.B.I. Treats Minnesota Mall Stabbing Attack as ‘Potential Act of Terrorism’ - The New York Times
+4066,1,John Kerry Urges Grounding of Military Aircraft in ‘Key Areas’ of Syria - The New York Times
+4232,1,Hurricane Matthew Approaches Florida Governor Urges 1.5 Million to Flee - The New York Times
+4381,1,Pedals the Walking Bear Is Dead, New Jersey Officials Believe - The New York Times
+4506,1,Donald Trump’s Victory Was Built on Unique Coalition of White Voters - The New York Times
+4578,4,Old Treaties and New Alliances Empower Native Americans - The New York Times
+4579,1,Yemeni Bankers Get in Trouble Over a Customer, Al Qaeda - The New York Times
+4637,1,How Apple Empowers, and Employs, the American Working Class - The New York Times
+4659,1,The Passion of Martin Scorsese - The New York Times
+4673,1,15,000 More Public Workers Are Fired in Turkey Crackdown - The New York Times
+4973,1,Amid Rain of Shells, Aleppo’s Civilians Offer ‘Final Scream’ - The New York Times
+5003,1,U.S. Demands Return of Drone Seized by Chinese Warship - The New York Times
+5029,1,ISIS Suicide Attack Kills 48 in Southern Yemen - The New York Times
+5031,1,Mindful Eating as Way to Fight Bingeing - The New York Times
+5033,1,China Agrees to Return Seized Drone, Ending Standoff, Pentagon Says - The New York Times
+5045,1,Trump’s and Xi’s Differences Magnify Uncertainties Between U.S. and China - The New York Times
+5087,1,Anis Amri, Suspect in the Berlin Truck Attack: What We Know - The New York Times
+5159,1,Tunisian Detained as Possible Accomplice in Berlin Attack - The New York Times
+5402,1,ISIS Claims Responsibility for Killing of French Police Officer - The New York Times
+5483,1,A Sea of Charter Schools in Detroit Leaves Students Adrift - The New York Times
+5560,1,7 Teenage Deaths, but No Answers for Aboriginal Canadians - The New York Times
+5625,1,4 Zika Cases in Florida Were Likely Spread by Local Mosquitoes, C.D.C. Says - The New York Times
+5708,1,Polio Response in Africa to Be Fast, Difficult and Possibly Dangerous - The New York Times
+5727,1,Russia Sends Bombers to Syria Using Base in Iran - The New York Times
+5754,1,It’s Children Against Federal Lawyers in Immigration Court - The New York Times
+5803,2,To Bolster KLM’s Identity, a ‘Charmingly Clueless Approach’ to Humor - The New York Times
+5866,1,She Was No Bird: ‘Jane Eyre’ Manuscript on First Trip to America - The New York Times
+5979,2,How Small Forests Can Help Save the Planet - The New York Times
+6005,1,Spaniards, Exhausted by Politics, Warm to Life Without a Government - The New York Times
+6043,1,Archaeological Victims of ISIS Rise Again, as Replicas in Rome - The New York Times
+6058,1,Hurricane Matthew’s Toll Rises Flooding Strands 1,500 in North Carolina - The New York Times
+6064,1,‘I’m the Last Thing Standing Between You and the Apocalypse’ - The New York Times
+6103,1,Firebombing of G.O.P. Office Jolts Fragile Balance of a North Carolina Town - The New York Times
+6134,1,A South Korean Man Adopted by Americans Prepares for Deportation - The New York Times
+6196,2,U.S. Fingerprints on Attacks Obliterating Yemen’s Economy - The New York Times
+6228,1,Colorado Voters on the Verge of Keeping Slavery Exception in State Constitution - The New York Times
+6333,1,Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire - The New York Times
+6450,1,The East Lobs a Blockbuster-Hopeful to the West With ‘The Great Wall’ - The New York Times
+6461,1,How the Obama Coalition Crumbled, Leaving an Opening for Trump - The New York Times
+6497,2,New Cease-Fire Begins in Syria, but Violations Are Reported Within Hours - The New York Times
+6520,1,2016 Pulitzer Prizes: A.P. Wins Public Service Award ‘Hamilton’ Is Honored - The New York Times
+6554,1,50 Years After the Cultural Revolution, a Son Awaits Answers on His Father’s Death - The New York Times
+6642,1,Seeking Answers, Michael Phelps Finds Himself - The New York Times
+6679,1,After Philando Castile’s Killing, Obama Calls Police Shootings ‘an American Issue’ - The New York Times
+6699,1,David Cameron Gets Hustled Out of Downing Street, but the Cat Stays - The New York Times
+6807,1,The Artist Peter Doig Wins a Case Involving a Painting’s Attribution - The New York Times
+6931,1,Next Big Tech Corridor? Between Seattle and Vancouver, Planners Hope - The New York Times
+7060,2,Talks to Heal Catholic Rift in China Gain Momentum Under Francis - The New York Times
+7100,1,The Best Movies of 2016 - The New York Times
+7186,2,The Most Important Primary Is ... Wait, Indiana? - The New York Times
+7209,1,Al Qaeda Turns to Syria, With a Plan to Challenge ISIS - The New York Times
+7372,1,Friends Say Minnesota Attacker Was ‘Normal American Kid’ - The New York Times
+7379,1,‘Doomsday Today in Aleppo’: Assad and Russian Forces Bombard City - The New York Times
+7423,1,Doubts About the Promised Bounty of Genetically Modified Crops - The New York Times
+7446,1,Zika Infection in U.S. Is Still Rare So Far, Blood Donations Indicate - The New York Times
+7480,1,‘Cancel Order!’ Donald Trump Attacks Plans for Upgraded Air Force One - The New York Times
+7674,1,In Washington Pizzeria Attack, Fake News Brought Real Guns - The New York Times
+8029,1,Three Women Arrested in Ongoing Counterterrorism Investigation
+8646,1,Teen Swimming off Florida Coast Punched Shark as It Bit Her
+8749,1,Danish Teen Girl Charged With Plotting to Bomb Jewish Schools
+8814,1,Texas Cop Survives New Year’s Day Ambush
+8842,1,Sanctuary Cities Surround Area Where Illegal Aliens Allegedly Killed Woman
+9956,1,LGBTQ Marchers Protest Vice President-Elect Mike Pence in His Neighborhood
+10105,1,Comey Crawl: D.C. Bars Plan Testimony Drink Special Bonanza on Thursday Morning - Breitbart
+10180,1,Five Illegal Aliens Arrested After Shooting Woman 13 Times, Say Police
+10245,1,FLYNN: With David Brock Comparing His Website to Breitbart News, Allies Compare Him to Mugatu - Breitbart
+10586,1,Climber Conquers El Capitan Without Rope, Using His Bare Hands - Breitbart
+10696,1,Sheriff: Giving Sex Offenders to ICE Damages ’Community Trust’
+10773,1,Ossoff Campaign Told Volunteers to Say ’He Lives Three Blocks Away from the District,’ Reporter Shows Distance Is Three Miles
+11101,2,Two Female Texas Teachers Accused of Middle School Sex
+11193,1,Detained Illegal Aliens End 3-Day Hunger Strike
+11201,1,Turkey’s Erdogan Tells EU to ’Forget About’ Migrant Deal After Dutch Row - Breitbart
+12305,1,Report: More People Are Leaving New York Than Any Other Metro Area in the U.S. - Breitbart
+12452,1,VIRGIL: The Environmental Protection Agency -- Next Stop on a Guided Tour of the Deep State’s Covert Resistance to Trump
+12498,1,Voter Fraud Worries Overshadow Dallas County Elections
+12568,1,Measles Outbreak in Minnesota Within Somali Community Spreads Through State
+12709,1,Condom-clogged Pipe Triggers Texas Brothel Bust
+12712,1,Trump: We’ve Exceeded ’Most Bullish Predictions’ for Progress on Border Security - Breitbart
+13282,1,Inauguration 2017: The Swearing In of President Donald Trump - Breitbart
+13350,1,Two Fresh Arrests in Manchester Attack Investigation Brings Total to 11
+14401,1,U.S. Embassy in U.K. Contradicts President Trump on London Mayor - Breitbart
+14603,1,Delingpole: ’Climate Change’ No More Credible than Magic Says Top Physicist
+14886,1,Bus Runs Into Crowd in Haiti, Killing At Least 34 - Breitbart
+15323,1,Muslim Plotting to Join Enslave 9-Year-Old Girl Faces Jail
+15657,1,Parade Float Features Jailed Hillary Clinton Being Hit with Water Balloons
+16249,1,Activists Win Court Battle on Measure to Restrain Hiring of Illegal Aliens
+16458,1,Rabbi Uses National Menorah Lighting to Rebuke UN, Obama
+16465,1,A Rebuttal to National Review’s Claim that White Working Class Communities Deserve to Die - Breitbart
+16586,1,Brawl Erupts Over Chips and Salsa at Texas Mexican Restaurant
+16762,1,Trump Hotel Opens in Washington, D.C. Amidst Campaign Sprint
+17316,1,Grammy Awards: Beyoncé Leads Noms with BLM-Inspired ’Lemonade’
+18030,1,Dem Congressman to Voters: ’Calm Down on the Superdelegate Issue’
+18117,1,Chicago: 32 Shot, Five Fatally in Weekend Violence - Breitbart
+18173,1,Black Lives Matter Activist Thanks Dallas Cop-Killer on Twitter
+18201,1,R2-D2 Actor Kenny Baker Dies at 81 - Breitbart
+18513,1,China Seizes Unmanned American Vessel in South China Sea - Breitbart
+18546,1,Trump Thrills Thousands in Florida: ‘You’re Going to Look Back at this Rally for the Rest of Your Life’ - Breitbart
+19043,1,Attorney for Illegal Alien in Prom-Night Drunk Driving Murder Case Blames Police
+19074,1,At least 77 dead, hundreds injured in powerful Ecuador earthquake - Breitbart
+19250,1,Martin Scorsese: ’Cinema Is Gone’ - Breitbart
+19516,2,Floods Ravage Texas: Bring Houston to a Crawl
+19641,2,Rick Manning: National Review’s ‘Vile’ Cover Story Attacking Working Class Americans Is ‘Morally Reprehensible’
+20085,3,Storm death toll in Haiti rises to more than 280 - Breitbart
+20321,1,UK Court Convicts Belgian Linked to Brussels, Paris Attacks Suspect
+20775,1,LA County Goes All-In for El Niño Cloud Seeding - Breitbart
+20809,1,2 Dead, 1 Missing in Texas Flood After 18-Inch Rainfall
+20925,1,Matt Damon Defends Sean Penn’s El Chapo Interview
+20968,1,Lame-Duck Obama Admin Rejects CA High-Speed Rail $15 Billion Loan
+21288,1,Hillary Clinton Campaign Forwarded Plan to White House to Promote Iran Treaty Using Catholic Prelates’ Influence - Breitbart
+21818,1,Chicago’s Bloody Memorial Day: 66 Shot, 6 Killed - Breitbart
+21836,1,Man Who Scaled Buckingham Palace Walls Is Convicted Murderer
+21965,1,Global Warming Expedition Stuck in Arctic Sea Due to Too Much Ice
+22392,1,Anniversary of Sandra Bland’s Death Raises Tension Amid War on Cops
+23574,2,Multiple Dead, Dozens Injured in Texas Border Bus Crash
+23616,1,High School Basketball Fans Chant ’Trump’ to Heckle Opponents - Breitbart
+24034,1,1974 Canadian Electors’ List Named Ted Cruz’s Parents
+24510,1,13 Dead And 6 Injured As Fire Engulfs Bar In France
+24765,1,Iowa Women Back Trump, Bash ’Deceptive’ Hillary Clinton: ’It’s All About Her’ - Breitbart
+25056,1,OKC Thunder Co-Owner Dies in Car Crash Day After Federal Indictment - Breitbart
+25519,1,Licensed Texas Gun Owner Stops Armed Auto Parts Store Robbery
+25587,1,Bloomberg Poll: Trump Up 2 Points in Florida - Breitbart
+27362,1,Another Hate Crime: Third Marine Says He Was Beaten Unconscious - Breitbart
+27694,1,Chinese Green Energy Giant Invades the Heart of Texas
+28482,1,Molenbeek Relieved, Resigned after Abdeslam Arrest
+28707,1,Bernie Sanders’s Socialist Allies Helped Shut Down Donald Trump’s Chicago Event - Breitbart
+28719,1,Ted Cruz Suggests Violence at Donald Trump’s Chicago Rally ’Starts at the Top’ - Breitbart
+28803,1,Firearms Training Is the New ’Therapy Session’ for Female Crime Victims
+28822,1,Open Borders Rap Sheet: 30+ Crimes by Immigrant Suspects in September Alone - Breitbart
+29629,1,Ann Coulter: Throwing the Baby out with the Bongwater
+29998,1,Report Claims Islamic State Has 30,000-Jihadi Base in India - Breitbart
+30371,1,French Police Release Suspect, Hold Two In Custody Over Islamist Priest Execution
+30767,1,Brazil Confirms Case of Zika Infection by Blood Transfusion
+30870,3,Trade at Center of Indiana Primary - Breitbart
+30885,1,**Horse Race LiveWire** All Eyes on Ted Cruz - Breitbart
+31076,1,’In God We Trust’ Now on More Texas Police Cars
+31751,1,Winter storm moves up East Coast
+31941,1,Weekend ice storm glazes central US
+31948,1,Late Sevilla goals end Real’s unbeaten run
+32219,1,Trump must reassert US leadership in the Asia Pacific
+32423,1,Parents sue college over daughter’s suicide
+32496,1,Florida man wanted in 4 killings is dead
+32635,2,Yemen Fast Facts
+32687,2,DC preps for ’Day Without Immigrants,’ but Hill takes little notice
+32708,1,Bodies of missing Indiana girls found police say they were killed
+32740,1,Immigrant protected under ’Dreamer’ program stays in custody
+32760,1,American Politician Plane Fatalities Fast Facts
+32795,1,Police search for suspect in teens’ deaths
+32806,1,Rep. Jordan confronts protesters but finds no common ground
+33040,1,Tornadoes rip through Midwest, Southeast 3 killed
+33113,1,Wildfires Fast Facts
+33232,1,The family of an Indiana girl found dead on a hiking trail wants you to look at this photo one more time
+33240,1,DC restaurant alleges unfair competition in suit against Trump, DC hotel
+33279,2,Intruder breaches White House grounds, arrested near residence entrance
+33291,2,Nearly 100,000 displaced since start of western Mosul assault
+33397,1,Secret Service: White House jumper was captured after more than 15 minutes
+33398,1,Barack Obama is probably lying on a beach in a deserted paradise right now
+33432,1,South Sudan plane crash: All on board survive ’miraculous’ landing
+33669,1,Colombia mudslides kill more than 200
+33690,1,20 killed in stabbings at Muslim shrine, Pakistani police say
+33694,1,More than 200 dead, many missing in Colombia mudslides
+33696,1,CNN 10 - April 3, 2017
+33805,1,Young Syrian girl tweets support for strikes on base
+33822,1,Bounce houses go airborne 5 kids hurt
+33969,1,Braves begin new chapter at SunTrust Park
+34115,1,’I’m glad this is over’: Tenn. teacher accused of kidnapping girl arrested in Calif.
+34393,1,More rain hits Missouri after deadly weekend flooding
+34537,1,Police exhume priest’s body in murdered nun cold case
+34543,1,CNN 10 - May 10, 2017
+34659,1,North Korea blights China’s One Belt, One Road party with missile launch
+34750,1,Car barrels into pedestrians in New York’s Times Square
+34884,1,Landslide buries California’s scenic highway in Big Sur
+34944,1,Serial Killers Fast Facts
+34990,1,Manchester bee tattoos honor bombing victims
+35029,1,Indianapolis 500 Fast Facts
+35084,1,Portland’s liberal image tempered by history as ’Skinhead City’
+35095,1,Obamas purchase their DC rental house for millions
+35205,1,In the pouring rain, Londoners pay tribute to attack victims
+35266,1,Two Maryland high school seniors shot dead night before graduation
+35349,1,2 Texas toddlers died after being left in car overnight
+35691,1,13 children, one adult die when Russian tour boats capsize
+35846,1,West Virginia flooding: Residents returning home
+36107,2,Super Typhoon Nepartak slams Taiwan
+36121,1,Germany sings the blues Marseille celebrates
+36127,1,Clinton narrowing VP choice, waiting for Trump
+36162,1,Black Lives Matter protesters return to streets
+36216,1,DNC employee shot and killed in Washington
+36237,2,FBI closes the books on D.B. Cooper
+36407,1,Heat wave scorching millions
+36511,1,Body found as Sand Fire swells in California
+36659,2,Hong Kong soaked but safe as Typhoon Nida is downgraded
+36985,1,Suspect arrested in shooting death of Georgia police officer
+37047,2,Milwaukee officer knew Sylville Smith, family says
+37226,1,Bark beetles: How tiny tree killers have worsened California’s wildfires
+37426,1,Tropical Storm Hermine moves into Carolinas
+37441,1,Hermine heads north for holiday weekend
+37467,1,This animal is no longer endangered
+37468,1,Hermine’s path shifting away from New York City
+37527,1,Jacob Wetterling suspect tells court he killed him
+37646,1,90 killed in Syria after ceasefire plan announced
+37676,1,Super Typhoon Meranti targets Taiwan, mainland China
+37794,1,Capsized Thai boat that killed 26 was ’overcrowded’
+37809,1,ISIS wing claims responsibility for Minnesota mall attack
+37819,1,Stabbing suspect went to mall to buy an iPhone, source says
+37925,1,The secret costs of Islamophobia
+38137,1,Atlanta Braves say farewell to Turner Field
+38211,1,Hurricane Matthew heads to Bahamas after killing 15
+38212,1,Hurricane Matthew: Weather service issues dire warning
+38243,1,How underground library gave hope amid war
+38386,6,2 tornadoes hit NW Oregon more storms Saturday
+38404,3, High winds, rain lash Pacific Northwest
+38476,1,Local GOP office in North Carolina firebombed
+38480,1,Turkish airstrikes hit Kurdish fighters in Syria
+38642,1,’Make America White Again’: Hate speech and crimes post-election
+38650,1,Spartanburg, South Carolina, ’creeped out’ by killings
+38741,1,Hundreds hospitalized in Southeast fires
+38878,1,Alt-right leader: ’Hail Trump! Hail our people! Hail victory!’
+38900,2,Tricky Thanksgiving travel spots
+39014,1,’French Thatcher’ Fillon wins France’s Republican primary
+39040,1,1 Undershaft skyscraper given green light
+39116,1,Mike Pence’s new neighbors put up LGBT pride flags in protest
+39271,1,Below-freezing temperatures set to sweep the country
+39276,1,Magnitude 7.8 quake near Solomon Islands
+39322,1,ISIS reportedly gains ground in Syria’s ancient city of Palmyra
+39454,2,How Russian playbook transformed war in Syria
+39481,1,At least 6 dead as frigid air, ice sweep nation
+39505,1,Tsunami alerts canceled following 7.9 earthquake off Papua New Guinea
+39515,1,Frigid air, ice sweep nation, causing deadly road conditions
+39652,1,Magnitude 7.7 earthquake hits off Chilean coast
+39677,1,The biggest cause of death in your county
+39804,1,Couple’s bodies found after W. Va. officers wounded
+39854,1,Charlie Hebdo attack: Terror cells activated in France
+39855,1,Who were victims in Charlie Hebdo, other Paris attacks?
+39897,1,The American who inspires terror from Paris to the U.S.
+39915,1,Cherif and Said Kouachi: Their path to terror
+40023,1,5-year-old boy finds gun, shoots baby brother in head
+40033,1,Bubba Watson buys into baseball team
+40313,1,After school massacre, Peshawar teachers pack guns
+40326,1,Wild West weather: Filthy rain and mountain ’hurricane’
+40330,1,Couple cancels traditional wedding to give back to others
+40358,1,The death of Iran’s ’Dead Sea’
+40458,1,U.S. defense chief puts success before timing in Mosul
+40539,1,American truffles: Sniffing out a dream
+40713,1,Police: British teens detained en route to join ISIS
+41116,1,David Lynch to leave revival of hit show ’Twin Peaks’
+41175,1,Tornadoes hit Kansas, strong storms batter Missouri
+41246,1,Small plane crashes in Fort Lauderdale, Florida
+41400,1,April 2015: Being Moody: Growing pot next door to Congress
+41451,1,Earthquake in Nepal leaves hundreds dead
+41484,1,BP spill: Cultivating demand for raw oysters from Gulf
+41491,1,Yemen: Living under fire
+41568,1,Smallmouth bass caught in Pennsylvania river with tumor
+41589,1,Texas earthquakes: Fracking is likely cause, study says
+41590,1,Storm spawns tornadoes, leaving one dead
+41623,1,The glorious mothers of elephants and whales (Opinion)
+41689,1,David Lynch back on ’Twin Peaks’ after salary standoff
+41691,1,’Mad Men’ creator: No, Don isn’t D.B. Cooper
+41808,1,In show of muscle, Russia conducts military exercise
+41884,1,Indian summer: What’s behind heat and when will it end?
+41933,1,Texas floods: More rain expected in Houston
+41937,1,Solar Impulse slowed by weather front on Pacific flight
+41954,1,Iowans daunted by so many 2016 GOP options
+41959,1,Weather front slows solar plane on Pacific flight
+42055,3,Audience served arrest warrants for graduation cheering
+42224,1,Record rain falls in May
+42366,1,Red tuna crabs wash up on San Diego beaches
+42570,2,New York prison escapee Richard Matt killed
+42629,5,Severe Weather: Record heat expected for Northwest
+42640,1,Cruz seeks to harness conservative outrage
+42750,1,Will these killings ever be solved?
+42944,1,Glacier National Park wildfire forces evacuations
+42979,1,Sandra Bland jail video released in Texas
+43075,2,UN Security Council welcomes Russo-Turkish brokered Syria truce, but rebels warn they’ll abandon it if violations continue
+43722,1,Warren Buffett’s $10 billion airline investment reveals everything you need to know about the industry
+44129,1,Uber is considering leaving Seattle if drivers join unions
+44278,1,The Trump administration seems to be hinting at military intervention in Syria
+44378,1,The US unleashed the ’mother of all bombs’ onto an ISIS target in Afghanistan
+44381,1,Here’s how a 21,000-pound bomb like the one just dropped on ISIS in Afghanistan would affect your city
+44785,1,North Korea says latest missile test was aimed at verifying the ability to carry a large nuclear warhead
+45119,1,Colombia is closing in on the leaders of its biggest gang, but they’re retaliating by copying Pablo Escobar
+45717,1,Thousands of ’climate refugees’ could be soon heading to this Middle America town
+45849,1,Mexican jumping beans actually jump — here’s why
+46114,1,’My dad’s escape was an agreement’: ’El Chapo’ Guzmán’s American daughter makes damning allegations about the Mexican government
+46303,1,France arrests man in ’advanced stages’ of attack plot
+46344,1,Mexican official says that one of Mexico’s most powerful cartels is expanding into territory just across the US border
+46523,1,Here comes La Nina
+46856,1,Firefighters are using drones to fight the raging wildfire in Alberta
+47013,1,California lifted its mandatory water restrictions — that could be a huge mistake
+47429,1,EU REFERENDUM BLOG: BRITAIN VOTES FOR BREXIT
+47762,1,It’s a ’mystery’ why 2 rebel jets that could have attacked the Turkish president’s plane didn’t
+49096,1,Mexico’s biggest cartel is leaderless, and drug violence may be about to intensify
+49684,1,These maps show how Mexican cartels dominate the US drug market
+49700,1,Trump slams China’s capture of a US Navy drone as ’unprecedented’ act
+49703,1,Pentagon: China will return US Navy underwater drone seized in South China Sea
+49783,1,’Only one person should be in control’: Rodrigo Duterte is again flirting with an ominous idea about the rule of law in the Philippines
+49936,1,The Atlantic Ocean and an Actual Debate in Climate Science

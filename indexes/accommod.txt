@@ -1,0 +1,618 @@
+12,1,Mar-a-Lago, the Future Winter White House and Home of the Calmer Trump - The New York Times
+49,1,Anchor Becomes the News as Megyn Kelly Leaves Fox News for NBC - The New York Times
+68,2,Getting Around by Rail, Sail or Foot - The New York Times
+92,1,In Break With Precedent, Obama Envoys Are Denied Extensions Past Inauguration Day - The New York Times
+141,1,Why You Will Marry the Wrong Person - The New York Times
+154,1,Airstrikes by Russia Buttress Turkey in Battle vs. ISIS - The New York Times
+188,1,Jared Kushner, a Trump In-Law and Adviser, Chases a Chinese Deal - The New York Times
+189,1,Muted Response From Health Lobby as Affordable Care Act Faces Repeal - The New York Times
+202,1,A Permanent Plinth for New Art Coming to the High Line - The New York Times
+256,1,Wintry Blast in Greece Imperils Refugees in Crowded Camps - The New York Times
+285,1,Living in Andy Cohen’s America - The New York Times
+287,1,Don’t Call Them ‘Mocktails’ - The New York Times
+300,1,Trump National Security Adviser Called Russian Envoy Day Before Sanctions Were Imposed - The New York Times
+446,1,For Trump’s Nominees, a Billionaires’ Guide to Running the Government - The New York Times
+532,1,Donald Trump, Syria, Emperor Akihito: Your Morning Briefing - The New York Times
+535,1,Shanghai Dwellings Vanish, and With Them, a Way of Life - The New York Times
+586,1,‘Mad About Mary’: How The Times Covered Mary Tyler Moore - The New York Times
+621,1,Travelers With Nut Allergies Clash With Airlines - The New York Times
+705,1,Refugees, Lunar New Year, Malaysia: Your Morning Briefing - The New York Times
+728,1,Refugees, Quebec, Rodrigo Duterte: Your Morning Briefing - The New York Times
+891,1,Lifting of Travel Ban Sets Off Rush to Reach U.S. - The New York Times
+947,1,Steve Bannon Carries Battles to Another Influential Hub: The Vatican - The New York Times
+991,1,Where Have You Gone, Angelina Jolie? Celebrities Vanish From Fashion’s Front Row - The New York Times
+1055,1,He’s ‘Little’ in the Film ‘Moonlight,’ but Big on the Dodgeball Court - The New York Times
+1080,1,Michael Flynn Resigns as National Security Adviser - The New York Times
+1092,2,G.O.P. Lawmakers Like What They See in Trump. They Just Have to Squint. - The New York Times
+1136,1,Israeli Settlement Sees Friendly Faces in Trump Administration - The New York Times
+1153,1,Legacy of Rio Olympics So Far Is Series of Unkept Promises - The New York Times
+1254,1,Jordan Spieth, His Feet Firmly Grounded, Puts a Sensible Shoe Forward - The New York Times
+1321,1,Weakened Democrats Bow to Voters, Opting for Total War on Trump - The New York Times
+1324,1,Bathroom Case Puts Transgender Student on National Stage - The New York Times
+1392,1,U.S. Forces Play Crucial Role Against ISIS in Mosul - The New York Times
+1466,1,François Fillon, French Presidential Candidate, Vows to Run Despite Inquiry - The New York Times
+1504,2,Set to Lift Interest Rate, Fed Embraces Investors’ Optimism - The New York Times
+1532,1,Nintendo Switch: A Blast at Home, So-So on the Go - The New York Times
+1613,1,Iraqi Forces Enter Western Mosul, in Fierce Battle Against ISIS - The New York Times
+1617,1,Kazakh Capital, a Post-Soviet Creation, Is Growing Real Roots - The New York Times
+1661,1,The Rise, Then Shame, of Baylor Nation - The New York Times
+1696,1,The Rice-Size Fly That Hits the Bull’s-Eye Every Time - The New York Times
+1701,1,Marilyn Young, Historian Who Challenged U.S. Foreign Policy, Dies at 79 - The New York Times
+1702,1,Louvre Attendants Strike After Vermeer Bottleneck - The New York Times
+1714,2,How to Plan a Family Reunion - The New York Times
+1814,1,Ban on Head Scarves at Work Is Legal, E.U. Court Rules - The New York Times
+1843,1,Rex Tillerson Rejects Talks With North Korea on Nuclear Program - The New York Times
+1855,1,Derek Walcott, Poet and Nobel Laureate of the Caribbean, Dies at 87 - The New York Times
+1924,1,North Korea’s Test of Rocket Engine Shows ‘Meaningful Progress,’ South Says - The New York Times
+1982,1,‘Cork Dork’ Sniffs, Swills and Spits Through the World of Wine Experts - The New York Times
+2036,1,Trump Becomes Ensnared in Fiery G.O.P. Civil War - The New York Times
+2039,1,Health Bill’s Failure Leaves Supporters in a Political Jam Back Home - The New York Times
+2040,1,Renegotiate Nafta? Mexicans Say Get On With It - The New York Times
+2076,1,Alone in the Wild for a Year, TV Contestants Learn Their Show Was Canceled - The New York Times
+2094,1,Lacking E.M.T.s, an Aging Maine Turns to Immigrants - The New York Times
+2130,1,No Resolution in Pay Dispute Involving U.S. Women’s Hockey Team - The New York Times
+2254,1,A Transgender Student Won Her Battle. Now It’s War. - The New York Times
+2479,7,How (and Where) to Take a Tax-Refund Vacation - The New York Times
+2494,1,Syria, Ahmadinejad, United Airlines: Your Morning Briefing - The New York Times
+2519,1,A Lizard With Scales That Behave Like a Computer Simulation - The New York Times
+2542,1,Obama Tax Return Hints at His Post-Presidency Plans - The New York Times
+2591,1,Harriet Tubman Ousts Andrew Jackson in Change for a $20 - The New York Times
+2654,1,Facebook Plans New Stock Class to Solidify Mark Zuckerberg’s Control - The New York Times
+2660,1,Chris Wallace, In-House Moderate at Fox News, Has Less Predictable Targets - The New York Times
+2677,1,Dredging of Miami Port Badly Damaged Coral Reef, Study Finds - The New York Times
+2680,1,Iraq Protesters Leave Baghdad Green Zone on Cleric’s Order - The New York Times
+2718,1,Crossing the Line: How Donald Trump Behaved With Women in Private - The New York Times
+2737,7,Justices, Seeking Compromise, Return Contraception Case to Lower Courts - The New York Times
+2751,1,Eric Fanning Confirmed as Secretary of the Army - The New York Times
+2766,2,What Would It Take for Donald Trump to Deport 11 Million and Build a Wall? - The New York Times
+2789,1,Start-Ups Once Showered With Cash Now Have to Work for It - The New York Times
+2861,1,Muhammad Ali Evolved From a Blockbuster Fighter to a Country’s Conscience - The New York Times
+2901,1,Chasing Hiroshige’s Vision of Japan - The New York Times
+2914,2,Mecca Goes Mega - The New York Times
+2972,1,How China Won the Keys to Disney’s Magic Kingdom - The New York Times
+2979,1,After Orlando Shooting, Talk Show Hosts Suggest Talk Is Not Enough - The New York Times
+3043,1,F.A.A. Issues Commercial Drone Rules - The New York Times
+3062,1,Britain’s Dreams of a ‘Swiss Miracle’ Look More Like Fantasy - The New York Times
+3093,1,How Housing’s New Players Spiraled Into Banks’ Old Mistakes - The New York Times
+3162,2,Mississippi Law Protecting Opponents of Gay Marriage Is Blocked - The New York Times
+3204,1,Fed Officials Saw Outlook as Cloudy at Meeting Before ‘Brexit’ Vote - The New York Times
+3216,1,Eight U.S. Airlines Win Tentative Approval to Fly to Havana - The New York Times
+3239,1,If a Carrot for Jordan Works, Syrian Refugees Will Stay Put - The New York Times
+3249,1,Juba Gripped by Renewed Violence as Factions Clash in South Sudan - The New York Times
+3319,1,Erdogan Triumphs After Coup Attempt, but Turkey’s Fate Is Unclear - The New York Times
+3354,1,Federal Court Rules Texas’ ID Law Violates Voting Rights Act - The New York Times
+3379,1,Summer Travel and the Zika Virus - The New York Times
+3430,1,Donald Trump Reaffirms Support for Warmer Relations With Putin - The New York Times
+3441,2,Muslims in the Military: The Few, the Proud, the Welcome - The New York Times
+3444,1,‘I Have No Choice but to Keep Looking’ - The New York Times
+3470,1,Wrenching Choice in South Sudan: Starve or Risk Rape - The New York Times
+3511,1,Donald Trump, Delta Air Lines, Michael Phelps: Your Monday Evening Briefing - The New York Times
+3514,2,New Photos Cast Doubt on China’s Vow Not to Militarize Disputed Islands - The New York Times
+3589,1,Hillary Clinton’s Edge in a Donald Trump-Centric Race Has Liberals Wary - The New York Times
+3626,4,When the Pilot Is a Mom: Accommodating New Motherhood at 30,000 Feet - The New York Times
+3668,1,‘This Only Confirms the Image of the U.S.A.’ - The New York Times
+3731,3,Saudis and Extremism: ‘Both the Arsonists and the Firefighters’ - The New York Times
+3771,1,Mylan Tries Again to Quell Pricing Outrage by Offering Generic EpiPen - The New York Times
+3827,1,With Mother Teresa Set to Be Canonized, Her Work Lives On in the Streets - The New York Times
+3835,1,Hurricane Batters Florida’s Gulf Coast, Then Turns North - The New York Times
+3844,2,Tensions Deepen Between Donald Trump and R.N.C. - The New York Times
+3878,1,Our Restaurant Critic Goes National. First Stop: California. - The New York Times
+3895,1,Apple Moves Toward a Wireless Future, One Tweak at a Time - The New York Times
+3926,1,The Secret History of Colombia’s Paramilitaries and the U.S. War on Drugs - The New York Times
+3943,1,As More Devices Board Planes, Travelers Are Playing With Fire - The New York Times
+3956,2,Fed Official Says She Favors ‘Prudence’ in Raising Interest Rates - The New York Times
+3983,1,How Did G.M. Create Tesla’s Dream Car First? - The New York Times
+4006,1,When You Look Pregnant, but You’re Not - The New York Times
+4154,1,How Donald Trump Set Off a Civil War Within the Right-Wing Media - The New York Times
+4198,1,What New York Can Learn From Barcelona’s ‘Superblocks’ - The New York Times
+4236,1,West Bank Settlers Prepare for Clash, With Israeli Government - The New York Times
+4254,1,U.S. Economy, Showing Resilience, Added 156,000 Jobs Last Month - The New York Times
+4376,1,At the Mosul Front: Traps, Smoke Screens and Suicide Bombers - The New York Times
+4391,1,Scotland Embraces Gay Politicians in a Profound Cultural Shift - The New York Times
+4431,1,Want the ‘Real’ Brooklyn? Go Cheap - The New York Times
+4450,1,When Gluttony Dons Racing Shoes - The New York Times
+4574,1,Israel’s Right, Cheering Donald Trump’s Win, Renews Calls to Abandon 2-State Solution - The New York Times
+4631,1,Along the Autism Spectrum, a Path Through Campus Life - The New York Times
+4632,1,The Images in ‘Billy Lynn’? Razor Sharp. Your Eyes? Bewildered. - The New York Times
+4715,1,Miami’s Cuban Exiles Celebrate Castro’s Death - The New York Times
+4717,1,Potential Conflicts Around the Globe for Trump, the Businessman President - The New York Times
+4835,1,Both Feeling Threatened, American Muslims and Jews Join Hands - The New York Times
+4918,1,Dylan, Polite? It Ain’t Him, Babe - The New York Times
+4943,1,With Flood of Urbanites, a Canadian Hippie Haven Tries to Keep Its Mellow - The New York Times
+4969,1,‘I’m Here to Help,’ Trump Tells Tech Executives at Meeting - The New York Times
+5048,1,Art Underground: A First Look at the Second Avenue Subway - The New York Times
+5107,1,A ‘Hoop Dreams’ Sequel, Written by Gun Violence - The New York Times
+5141,1,Trump Inauguration Security Planners Brace for Wave of Protesters - The New York Times
+5144,1,How to Plan Your First Ski Vacation - The New York Times
+5179,1,How Russia Recruited Elite Hackers for Its Cyberwar - The New York Times
+5211,1,The Poet Idolized by a New Generation of Feminists - The New York Times
+5317,1,How the Push to Advance Bathroom Rights for Transgender Americans Reached the White House - The New York Times
+5346,1,Edgar Feuchtwanger Bore Witness, Horribly Close to Hitler - The New York Times
+5453,1,‘Leave’ Takes the Lead as Britain Awaits Outcome of E.U. Referendum - The New York Times
+5490,2,Ronald Perelman Donates $75 Million for Arts Complex at World Trade Center Site - The New York Times
+5492,1,New York’s Sidewalks Are So Packed, Pedestrians Are Taking to the Streets - The New York Times
+5512,1,Kevin Durant to Join the Golden State Warriors - The New York Times
+5530,1,Marie Kondo and the Ruthless War on Stuff - The New York Times
+5553,1,Tribunal Rejects Beijing’s Claims in South China Sea - The New York Times
+5580,1,Why Land and Homes Actually Tend to Be Disappointing Investments - The New York Times
+5596,1,Obama’s Support of Erdogan Is a Stark Reminder of Turkey’s Value to U.S. - The New York Times
+5623,1,With the Conventions Behind Us, Our Takeaways From Both - The New York Times
+5716,1,Ryan Lochte and Three Teammates Robbed at Gunpoint - The New York Times
+5792,2,What University of Texas Campus Is Saying About Concealed Guns - The New York Times
+5796,1,Only in Palm Beach: The $95 Million Tear-Down - The New York Times
+5815,1,Scheduled Flights to Cuba From U.S. Begin Again, Now With Jet Engines - The New York Times
+5844,1,A Shopping Mall at Ground Zero, Uninformed by Its Sacred Land - The New York Times
+6003,1,On Twitter, Hate Speech Bounded Only by a Character Limit - The New York Times
+6026,1,Objects From New York’s Buried Past Find a New Home in Midtown - The New York Times
+6030,1,United States Criticizes Israel Over West Bank Settlement Plan - The New York Times
+6038,1,Hurricane Matthew Avoids Direct Hit on Florida, Continues North - The New York Times
+6045,1,Donald Trump’s Conduct Was Excused Again and Again. But Not This Time. - The New York Times
+6104,1,Haitians, Battered by Hurricane, Huddle in Caves: ‘This Is the Only Shelter We Have’ - The New York Times
+6177,1,Crowds Line Up at India’s Banks to Exchange Banned Rupee Notes - The New York Times
+6182,1,Donald Trump Prepares for White House Move, but His Tower May Still Beckon - The New York Times
+6183,1,Fleeing Gangs, Central American Families Surge Toward U.S. - The New York Times
+6261,1,All the Clamor? Trump’s Palm Beach Neighbors See an Upside - The New York Times
+6269,1,Perils of Climate Change Could Swamp Coastal Real Estate - The New York Times
+6275,1,A Candidate Rises on Vows to Control Islam and Immigration. This Time in France. - The New York Times
+6287,1,Cities Vow to Fight Trump on Immigration, Even if They Lose Millions - The New York Times
+6290,1,Two Black Women Embrace Their Chance to Be Hockey Role Models - The New York Times
+6292,1,Donald Trump, Colombia, Fidel Castro: Your Wednesday Briefing - The New York Times
+6375,1,Democrats Hone a New Message: It’s the Economy, Everyone - The New York Times
+6403,1,For Republican Russia Hawks, a Dilemma Named Rex Tillerson - The New York Times
+6407,1,The Great A.I. Awakening - The New York Times
+6429,1,The Robot Revolution Will Be the Quietest One - The New York Times
+6508,1,Fish Seek Cooler Waters, Leaving Some Fishermen’s Nets Empty - The New York Times
+6515,1,A Tiny Home by Choice in New York City - The New York Times
+6578,1,Jane Fawcett, British Decoder Who Helped Doom the Bismarck, Dies at 95 - The New York Times
+6605,1,Choosing a School for My Daughter in a Segregated City - The New York Times
+6643,1,Once and Always a New Yorker - The New York Times
+6723,2,Internal Inquiry Sealed the Fate of Roger Ailes at Fox - The New York Times
+6744,1,The Bedazzling of the American Gymnast - The New York Times
+6752,3,U.S.A. Basketball Is Already Cruising in Rio. Now, to Take the Court. - The New York Times
+6798,1,The Beat, and the Bug Spray, Go On in South Beach Despite Zika Threat - The New York Times
+6867,1,Ireland Doesn’t Want Apple’s Back Taxes, but the Irish Aren’t So Sure - The New York Times
+6883,1,At the Hajj, Facing Islam’s Inconsistent Embrace of Women - The New York Times
+6954,1,How to Have a Luxury Vacation for Less - The New York Times
+6983,1,Italy, Already Rattled, Is Struck by Another Powerful Quake - The New York Times
+7016,1,Red, Blue and Divided: Six Views of America - The New York Times
+7035,1,A New Reason to Party: Custom Suiting for the Suitor and His Pals - The New York Times
+7062,1,Trump’s Next Battle: Keeping These Republican Senators Happy - The New York Times
+7087,1,5 Ways to Be a Better Tourist - The New York Times
+7099,1,Talks With Mitt Romney for Secretary of State ‘Not About Revenge,’ Trump Says - The New York Times
+7125,1,Times Critics’ Top Books of 2016 - The New York Times
+7154,1,A New York Holiday Tradition to Count On? Big Crowds - The New York Times
+7157,1,Smaller Bathrooms on Planes Pose Challenges for Passengers - The New York Times
+7174,1,The Fighter - The New York Times
+7177,1,A Majority Agreed She Was Raped by a Stanford Football Player. That Wasn’t Enough. - The New York Times
+7220,1,Seaworthy and Ready for an Early Unveiling - The New York Times
+7272,1,Peacemaking Goes Awry as Donald Trump Lashes Out at G.O.P. Senators - The New York Times
+7377,1,Greeks Appeal for Aid After Fire Damages Refugee Camp - The New York Times
+7417,1,Settlement Debate Flares Again in Israel’s Quarrel With Rights Group - The New York Times
+7463,1,Choke Point of a Nation: The High Cost of an Aging River Lock - The New York Times
+7540,2,As Attention Grows, Transgender Children’s Numbers Are Elusive - The New York Times
+7549,1,Muhammad Ali Dies at 74: Titan of Boxing and the 20th Century - The New York Times
+7578,1,Turkish President Returns to Istanbul in Sign Military Coup Is Faltering - The New York Times
+7598,5,Airbnb for Business Travelers: More Wi-Fi, Fewer Hosts in Towels - The New York Times
+7646,1,Janet Yellen Says Labor and Inflation Complicate Fed’s Plans to Raise Rates - The New York Times
+7698,3,Google to Get Fiat Chrysler Minivans for Self-Driving Tests - The New York Times
+7782,1,Obama Defends Transgender Directive for School Bathrooms - The New York Times
+7924,1,Upcoming Horror Game ’Outlast 2’ Banned in Australia - Breitbart
+7936,1,Red Bull Boss Slams Mass Migration, Forced Multiculturalism in Europe - Breitbart
+7973,1,O’Donnell: Hillbilly Justice -- How the Battle of Kings Mountain Changed the Course of the Revolution
+7994,1,Sports Media and Gay Activists Blast Cardinals for Inviting Lance Berkman to ‘Christian Day’ at Busch Stadium - Breitbart
+8033,1,Watch: Wisconsin Athletic Official Prevents Siblings from Hugging After High School Championship Game - Breitbart
+8044,1,Gatestone Institute: 423 New Mosques, 500 Closed Churches in London
+8083,1,Transgender Politics: NC Keeps Core of HB2 Sexual Privacy Law While Ending Sports Boycott - Breitbart
+8469,1,TV Series About ’First Female MLB Pitcher’ Canned After One, Low-Rated Season - Breitbart
+8492,1,The Nuclear Option: Donald Trump the Revolutionary - Breitbart
+8680,1,China: Trump Victory Shows ’Fragility of Western Democracy’ - Breitbart
+8692,1,Jerry Boykin – Secretary Mattis: Focus on War-Fighting, Ditch the Social Engineering - Breitbart
+8908,1,George Soros-Backed Climate March Brings Celebs to National Mall on Sweltering Saturday - Breitbart
+8940,1,College Republicans’ Lawyer Suggests Deploying National Guard If Mayor of Berkeley Cannot Maintain Order - Breitbart
+9071,1,DELINGPOLE: Rules for Righties -- a War-Winning Manifesto for 2017
+9167,1,More Than ’Chaos’: Terror Ties Make Venezuela Direct Threat to USA, Former UN Security Council President Says - Breitbart
+9189,1,Donald Trump’s 2018 Budget Plan Calls for 60 Miles of New Border Wall - Breitbart
+9285,1,Migrant Crime and Violence Soars in German States - Breitbart
+9381,1,U.S. Army: 95 Percent of Brigade Combat Teams Unprepared to Fight
+9845,1,Governor’s Mansion ’Queer Dance Freakout’ Protests ’Bathroom Bill’
+10042,1,9 in 10 Gang Rapists In Sweden Have Foreign Origins
+10077,1,Exclusive-Rep. Dave Brat: RyanCare a Perverse Economic System - Breitbart
+10257,1,Rupert Murdoch Calls Special Meeting as Fox News Ratings Falter
+10274,1,Hannity: ’What Has Been Happening to Me in the Last Week Is a Kill Shot’ - Breitbart
+10569,1,Inauguration Week: A User Guide to Donald J. Trump’s Big Day
+10660,1,EU Officials Increasingly Fear a Marine Le Pen Upset in France
+10670,1,San Diego School District Pushes CAIR-Assisted ‘Anti-Islamophobia’ Plan - Breitbart
+10952,1,KLEIN - Iran Is the Wild Card Following U.S. Air Strikes In Syria
+11089,3,’Child Refugees’ Rampage, ’Demolish’ Housing Over Lack of Game Consoles - Breitbart
+11218,1,Richmond Fed President Jeffrey Lacker Resigns Over Leak of Confidential Information - Breitbart
+11239,1,Tancredo: Illegal Immigration Props Up Mexico’s Dysfunctional State - Breitbart
+11246,1,Silicon Valley Techies Complain About ’Scraping By’ on Six-Figure Salaries - Breitbart
+11296,1,Never Trump Movement Leader, Former Jeb Bush Staffer Helen Aguirre Ferre Infiltrates White House - Breitbart
+11373,1,Hayward: 9 Vital Principles for Obamacare Repeal - Breitbart
+11544,1,ROBERT SPENCER: Theresa May’s Tories Targeted Critics of Islam Instead of Terrorists
+11559,2,Fyre Festival Organizers Slapped with $100 Million Fraud Lawsuit
+11671,2,Frank Gaffney: China ‘Considers Bad Behavior from North Korea a Strategic Asset’
+11764,1,Huge Fire Hits France’s Grande-Synthe Migrant Camp
+11887,1,U.S. Navy Ships Will Deploy Laser Weapons Within Two Years - Breitbart
+11961,1,Exclusive-Libyan Muslim Visiting U.S. Agrees with Trump Travel Order and Efforts to Defeat Radical Islam - Breitbart
+12175,1,Macron: Merkel’s Open Door Migrant Policy ’Saved Our Dignity’
+12182,1,Christian Bakers Refusing Gay Wedding Cake Appeal Guilty Verdict
+12245,2,Silicon Valley’s Ro Khanna: I Will Go to Jail to Resist Trump
+12403,1,Berkeley College Republicans, YAF Threaten Legal Action over Ann Coulter Berkeley Event - Breitbart
+12686,1,Report: NBC Cutting Back ’Today’ to Make Room for Megyn Kelly
+12742,1,Eric Holder’s Airbnb Runs Controversial #WeAccept Multiculturalism Ad - Breitbart
+12878,1,Walls Work: Migration Falls in EU Countries With Border Fences
+12924,1,ESPNW Writer Shows Her Obsession with Gender, While Scolding America for Its Obsession with Gender - Breitbart
+13079,1,Bolton: Trump White House Must Tear Up Iran Nuclear Deal Immediately
+13536,1,Rep. Vern Buchanan Holds Off Thousands of Leftists Who Storm His Town Hall
+13725,1,Mayor Reported to Police for Telling ‘Criminal’ Migrants to Stay In
+13743,1,How Leftism And The U.S. Government Corrupted American Art - Breitbart
+13755,1,Black Journalist Group Demands Meeting With NBC After Tamron Hall ‘Whitewashing’
+13881,1,After Billionaire Yacht Party, Obama Announces Community Organizing Speech - Breitbart
+13943,2,"Frustrated" Migrants On Trial For Setting Asylum Centre on Fire
+14139,1,Roche: Save President Eisenhower’s Memorial from Washington - Breitbart
+14256,1,Supreme Court Throws Out Transgender Case
+14558,1,Delingpole: Here is Proof That President Trump Cannot Trust Gary ’Wormtongue’ Cohn on Paris Agreement
+14701,1,Actress Emma Thompson Tells TV Host Trump Once Asked Her Out
+14837,1,’We Will Die for Them’: Philippines’ Duterte Offers to Deploy Troops to Qatar, Bahrain
+14839,1,EU On Track to Pay Turkey Three Billion For Migrants This Year
+14968,1,Donald Trump’s Ag Secretary Pushes for Illegal Immigrants, Not Robots - Breitbart
+15081,2,Fyre Fest Fallout: Organizer Ja Rule Sued Over $3M Loan
+15196,2,PINKERTON: Trump Lays Down the Law to Big Pharma, Embraces the Cure Strategy
+15511,1,Obama Admin Exempts 100 Million from HHS Contraception Mandate - but Not Little Sisters of the Poor - Breitbart
+15553,1,Black Activists Condemn Obama’s Transgender Shower Room Claim - Breitbart
+15582,1,Nevada: Trump Campaign Files Lawsuit Alleging ’Anomalies’ in Early Voting - Breitbart
+15730,1,Blue State Blues: Win or Lose, We Will Never Surrender
+15918,1,VIDEO: Migrant Camp Attacked in Greece
+15963,1,Bono, Bon Jovi Attend Bill’s Final Clinton Global Initiative
+15966,2,Howard County, Maryland Approves Muslim, Hindu, Asian Holidays in School Calendar - Breitbart
+16021,1,Paul Ryan, Architect of Open Borders, Says He Won’t Back Trump Over Hillary - Breitbart
+16025,1,Indonesia: Christians Press Charges Against Radical Islamic Leader for ’Blasphemy’ - Breitbart
+16064,1,Rep. Stephen Russell: Support Religious Freedom Against LGBT Lobby - Breitbart
+16080,1,Do Clothes Make a Man? LGBT Debate Hits the Boiling Point - Breitbart
+16110,1,Politicians Admit Migrants To Cost Germany More Than 30 Billion Euros A Year
+16178,1,Apocalypse in the Jungle as Migrants Burn Camp Down
+16278,2,EU Executive Says Emergency Border Controls Still Valid
+16662,1,Belgian Terror Attacks: Only ’Brexit’ Can Save Britain From This Scourge Of Political Islam Waging War In Europe
+16891,1,Jeb Bush to SC Crowd: ‘This Is Not a Rubio Town Hall, We Actually Answer Questions’ - Breitbart
+16971,1,Debbie Not Welcome in Dallas: Texas AG Sides with City Leaders Against Porn Convention
+17252,2,Sweden: Asylum Seeker Chaos Accounts for Quarter of Police Resources - Breitbart
+17407,1,Musicians Attack Kentucky Gov. Matt Bevin With Tune ‘Crotch Crucifix’ - Breitbart
+17447,1,China Struggles with Pediatrician Shortage Following End of One-Child Policy - Breitbart
+17453,1,Clinton’s Server Tech Bryan Pagliano Takes the Fifth... 125 Times - Breitbart
+17542,1,Norway Bribes Fake Asylum Seekers Thousands To Leave
+17553,1,Germany’s Secret Islamic Horror: How Blind Elites Are Destroying A Once-Great Nation - Breitbart
+17673,8,Pamela Geller: Muslim Woman Demands Workplace Accommodate Her Hijab - Breitbart
+17819,1,Obama and Hillary Let Iran Take Israel and the Jews Hostage
+18041,1,90 Jihadis Walked into France As ’Migrants’, Are Hiding in Paris Says Woman Who Caught Paris Terror Ringleader - Breitbart
+18054,1,Teacher-Killer Migrant Gives Police Motive For Crime
+18154,3,Sweden Introduces Women Only Swimming To Accommodate ’New Arrival’ Muslims
+18159,1,2016 Election Day: Live Updates - Breitbart
+18298,1,The British Are Going: 101 Days Until The UK’s Very Own Independence Day From The European Union - Breitbart
+18373,2,EXCLUSIVE: Hillary Clinton Posted Names of Hidden Intelligence Officials On Her Email - Breitbart
+18487,1,***Horse Race LiveWire*** 1 Day to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+18651,1,Backlash Against Transgender Locker Rooms in Clovis, California - Breitbart
+18669,1,German Govt Splashes €200m To Segregate Women And Children After Migrant Home Attacks
+18680,1,America Doesn’t Need ‘Presidents Day’
+18820,1,San Francisco Mayor Ed Lee Bans City Workers from Travel to NC Because of "Anti-Trans Bathroom Law" - Breitbart
+19096,1,Lawsuit: Yahoo’s Marissa Mayer Led ’Purge’ of Male Employees
+19241,1,University of North Carolina Rejects State Law On Transgender Bathrooms - Breitbart
+19268,2,New Year’s Eve Celebrations Banned Over Concerns Exploding Fireworks Could Upset Immigrants
+19475,1,Locals Cheer as Planned Migrant Centre Burns Down
+19598,1,Israel’s Netanyahu Declines Offer to Meet With Obama: White House - Breitbart
+19603,1,Priests for Life Father Frank Pavone Defends Faith at SCOTUS - Breitbart
+19743,3,Official Report: Muslims Least Likely Faith To Have a Job
+19794,1,Child Sex Abuse Scandal Rocks Turkey
+19839,1,Warriors Coach Steve Kerr Likens Trump Election to Jerry Springer - Breitbart
+19947,1,Philadelphia Apologizes to Four-Decades Dead Jackie Robinson - Breitbart
+20367,1,Nineteen Refugees Diagnosed With Active Tuberculosis in Michigan - Breitbart
+20564,1,Syrian Refugee Machetes Woman To Death, Injures Two More In Germany
+20590,1,Hiring Criminals to Hire Criminals: Your Tax Dollars at Work
+20659,2,Bill Clinton Aide Asked State Dept to Do Favor for Foundation Friend Bono - Breitbart
+20826,1,Black Pastors Slam Obama Admin’s Equivalence of Gender Identity Ideology with Black Civil Rights - Breitbart
+20846,1,Terror And Rage: It’s Ramadan And The Muslims Are Hangry
+20857,1,Trump: ’We Want To Follow the Laws,’ But There Are ’Great People’ In Country Illegally, and There ’Can Be a Softening’ of Law - Breitbart
+20974,1,NASA Threatened with Lawsuit for Censoring ’Jesus’ in Christian Club Announcements
+21121,2,Saudi Women, Men Sentenced to Flogging for Drunken Coed Mingling
+21355,1,Michigan Poll Shows Opposition to Increase in Refugees Powering Trump Surge - Breitbart
+21369,1,Sicilians Rebel Against New ‘4-Star’ Migrant Center - Breitbart
+21548,1,Tran-Speak, Exclusion, no Science: How Obama’s Pro-Transgender Rules Impact K-12 Teenagers - Breitbart
+21595,1,House Democrats Launch Bill To Ban Religious Exemptions For Abortions, Gender Transition Services - Breitbart
+21626,1,Hi-Rez Studios Debuts Mobile Platformer ’Jetpack Fighter’ - Breitbart
+21733,1,Migrants Set Fire To Asylum Centre While Smoking Hookah Pipe
+21843,1,Ed Klein: Foot Massages and Wet T-Shirt Contests at Bill Clinton Presidential Library - Breitbart
+21849,2,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+21990,1,Police Investigate Social Media Critics Of Migrant Centre
+21993,1,Sen. Tim Scott: Marco Rubio Missed Conservative Review Convention Because He Was With Frank Luntz - Breitbart
+22006,2,Small Island, Population 137, To Get 2,000 Migrant Asylum Centre
+22024,1,Target’s Stock Down 5 Percent, Brand Damaged, by Public Rebuke to Pro-Transgender Bathroom Rules - Breitbart
+22165,1,Donald Trump Wins Constitutional Mandate as Democrats Bet on Anarchy - Breitbart
+22223,1,***Horse Race LiveWire*** Nevada Votes: Trump Beats Rubio, Cruz Combined - Breitbart
+22407,1,Refugees Holiday in Countries They ’Fled’, At Taxpayers’ Expense
+22442,1,The Rubio Campaign Stumbling Over Questions About Why He Skipped CR Convention - Breitbart
+22561,1,Calais Migrants Now Attempting To Cross English Channel On Rafts And Boats - Breitbart
+22606,1,Number Of Migrants Claiming Benefits In Germany Surges By 169 Per Cent
+22701,1,Donald Trump Venue-Busting Ticket Distribution Worries Vermont Officials - Breitbart
+22737,1,Cologne New Year’s Eve Sex Attacks: Migrant Perpetrators Planned In Advance
+22747,2,CAIR Negotiating on Behalf of Muslim Workers Fired from Meat Plant Over Prayer Dispute Walkout - Breitbart
+22810,1,’Forward’ Newspaper Attempts to Save Smear of Steve Bannon: He Loves Israel, But...
+22929,2,Berlin Cracks Down On Airbnb Rentals To Cool Housing Market
+23136,4,WATCH: Ungrateful ’Wristband Migrant’ Complains Free, Tax Payer Funded Meals Are The Same Twice A Day - Breitbart
+23231,1,Men-Only Swimming At Public Luton Pool A ’Cultural Thing’
+23269,1,’No Man’s Sky’ Receives Huge Game-Changing Update on Day One - Breitbart
+23295,1,Christian Refugees Forced to Participate in Islamic Prayers
+23309,1,Islam Academic: Migrants Want Eurabia, Globalists Using Migrants to Destroy The West
+23410,5,The Citadel Mulls Muslim ‘Hijab’ Uniform Exception - Breitbart
+23535,1,Artist Frank Cho Leaves DC Comics, Attacks Censorship Of Wonder Woman Covers - Breitbart
+23922,1,Asylum Seekers Cry ’Discrimination’ Over Quality of Taxpayer-Funded Hotelnded Hotel Stays
+23946,1,FULL TEXT: 10 Things Milo Hates About Islam - Breitbart
+24011,2,Migrants Leave Blood, Faeces, Semen Smeared on Asylum Home Walls
+24029,1,Republicans Trust Trump Over Ryan to Lead Party - Breitbart
+24088,1,Mexican Cardinal Prays to Virgin Mary: Touch Trump’s ‘Hard Heart’
+24111,2,Frank Gaffney: We’ll Likely Find a ’Mosque Fomenting Jihad’ in OSU Attacker’s Background
+24244,1,LeBron James Refuses To Stay At Trump Soho Hotel - Breitbart
+24319,1,AFP: Europe’s Populist Surge Fuelled by Migrant Crisis - Breitbart
+24421,1,Exclusive: NeverTrump’s New Goal - Keep the GOP Conservative, or No President Trump - Breitbart
+24468,1,Gaffney: Shariah-Compliant Twitter - Breitbart
+24508,2,**Live Wire** Jihad in Orlando: How Can We Prevent Another Pulse Massacre? - Breitbart
+24698,1,Andrea Lafferty: ’We’ve Had It’ with Target on Transgender Issue
+24778,1,Italy Breaks Immigration Record in 2016
+24780,1,Sandy Rios: 1.1 Million Families Join AFA’s Target Boycott, Stock Takes $2.5 Billion Hit - Breitbart
+24822,1,Former Mayor Suing Townspeople For Failing to Welcome Migrants - Breitbart
+24827,1,Underage Migrant Gang Sexually Assault German Women
+24865,3,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+24866,1,Australia Resists International Pressure Not To Deport Child Migrants, Says Allowing Them To Stay Encourages More To Come By Boat
+25172,1,Watch: Kristol, Scarborough Have Heated Exchange Over ’Morning Joe’ Trump Coverage - Breitbart
+25183,2,LGBT-Only Migrant Centres Pop Up After Gay And Trans Refugees Experience Violence, Threats - Breitbart
+25201,1,MILO: Navy Sides With Seamen, Not Social Justice - Breitbart
+25331,1,College of Pediatricians Calls Transgender Ideology ‘Child Abuse’ - Breitbart
+25354,1,AP: Evangelicals ‘Paranoid’ to Fear Liberal Attacks on Religion
+25378,1,Denmark Gives Large Bonuses To Get Migrants To Work
+25391,1,Turkey Built Almost 9,000 Mosques During Past Decade
+25417,1,U.S. Education Department Civil Rights Complaints More Than Doubled During Obama Administration - Breitbart
+25515,1,’SMITE’ World Championship Day 1: First Round Rumble - Breitbart
+25660,1,***Horse Race LiveWire*** Cruz, Sanders Leading in Wisconsin Poll - Breitbart
+25685,1,Theater Plays R-rated ’Sausage Party’ Trailer for ’Finding Dory’
+25887,1,Committed to Denial: Since 9/11, Some 28,000 Terrorist Attacks Worldwide - Breitbart
+26024,1,GAFFNEY: The ’Big Lie’ Is Back
+26035,1,Pro-life Women: ‘Disgusted’ By Donald Trump, ‘He Has Impugned Dignity of Women’ - Breitbart
+26068,1,Driver Threatened with Chainsaw During Calais Night Of Violence
+26348,1,Levin: Cruz Is Eligible - I ’Don’t Have To Agree’ With Trump ’Like Our Friends Over at Breitbart’ - Breitbart
+26554,1,Migrant Shelter ’To Issue Panic Alarms’ After Murder Of Worker
+26570,1,San Francisco Bar Owner Cancels Breitbart Meetup over Milo Yiannopoulos’ Attendance - Breitbart
+26774,1,Mother Jones: Expect Bernie Sanders Delegate Chaos at Convention - Breitbart
+26890,2,Allred: ’Men Only’ Barbershop Must Serve Transgender Man
+27118,1,Another 100,000 Migrants Likely To Arrive In Bottleneck Greece By End Of Month - Breitbart
+27250,1,Burning Man Buys Nevada Site for Year-Round Party - Breitbart
+27319,2,NRA Chief: Gun Control Meant to Divert Attention From Obama’s Terrorism Failure - Breitbart
+27431,1,Marco Rubio, the Spoiler - Breitbart
+27525,2,School Exams Moved to Accommodate Muslim Students During Ramadan
+27783,1,NBA Pulls All-Star Game from Charlotte in Response to NC Bathroom Bill - Breitbart
+27917,1,Clinton Enlists ’Cocaine Superhero’ Pusha T for Voter Drive
+27951,4,WATCH: Radical Left Students Burn Effigy In London Streets - Breitbart
+28024,2,California State University to Introduce Segregated Housing for Black Students - Breitbart
+28139,1,Dining Out Will Get More Expensive in 2016 - Breitbart
+28147,1,I Just Launched The Best Podcast Ever, You Guys - Breitbart
+28151,1,Mass Migration Brings Rise Of Islamic Polygamy In Europe
+28201,1,Sessions: Political Correctness, ’Intimidation of Free Speech’ Makes It Difficult to ’Fix Dangerous Problems’ Like Terrorism - Breitbart
+28241,1,The Left’s Bloody War on Women: Sending Chicks into Combat Betrays Men, Women and Civilization - Breitbart
+28307,1,As Immigrants Flood Italy, More and More Italians Emigrate Out
+28407,1,Pamela Geller: Megyn Kelly Says ’No Question’ That I’m a ’Hateful Person’ - Breitbart
+28562,1,’See No Sharia’: FBI Releases Censored Transcript of Orlando Jihadi
+28615,1,WATCH: Milo On Why Britain Should Leave The EU - To Stop Muslim Immigration - Breitbart
+28635,1,VIDEO: Rioting And Fights After Migrants Accuse One Another Of Molesting Children
+28676,1,Pope Francis Offers Litmus Test for Religion that Excludes Radical Islam - Breitbart
+28777,1,Italy Quake Death Toll Hits 267, State Funeral Planned
+28910,1,Honolulu Pays Lesbian Couple $80k After Kissing Arrest
+28939,1,EPA Requires More Ethanol Into Less Gasoline - Breitbart
+29048,1,FactCheck: Organized Radical Left Targeted Donald Trump From Day One - Breitbart
+29069,1,Breitbart Tech at the ’SMITE’ World Championship: Meet the Teams - Breitbart
+29111,1,Industry: Government Will Fail To Meet Migrant-Population Boom House-Building Targets
+29112,1,WikiLeaks: Hillary Clinton’s Plan to Strip Religious Liberty Protections, Fund Abortion Overseas - Breitbart
+29491,3,Obama Claims Power to Make Churches Fund Abortion - Breitbart
+29526,1,MASSIVE Migrant Wave Expected As Male Majority Now Demand Wives And Children Are Brought To Europe
+29609,2,ACLU Leader Quits, Urges Transgender Compromise, After Men Enter Daughters’ Restroom - Breitbart
+29901,1,Migrants Who Threatened To Cut Throat Of 6-Year-Old Lied About Age To Get Into Classroom - Breitbart
+29946,1,‘Spectacular’ Rise In Calais Migrant Numbers, Up 50 Per Cent
+29986,1,Media Fail On N.C. Transgender Bathrooms, Hides Stealth Plan To Replace the Sexes With ’Gender’ - Breitbart
+30068,1,It’s the Supreme Court, Stupid! - Breitbart
+30210,2,Tracy Morgan Cancels Mississippi Show to Protest Religious Liberty Law - Breitbart
+30219,2,NYPost: FBI Agents ‘Ready to Revolt’ Over Comey’s ‘Unprecedented,’ ‘Cowardly’ Handling of Clinton Investigation
+30248,1,Migrants Are Scrambling To Apply For Asylum In Greece To Avoid Being Sent To Turkey
+30383,1,Syrian Minister Threatens ’Resistance’ to Capture Golan Heights
+30494,1,Pro-Life Leaders: SCOTUS Decision Striking Down Abortion Clinic Safety Standards Will Allow More Gosnells - Breitbart
+30526,1,Emails Show How Private and Public Clinton Statements Clash - Breitbart
+30536,1,Kasich: ’I’m a Traditional Marriage Guy,’ But SCOTUS Ruled, ’Let’s Move On,’ ’What the Hell Are We Doing’ With Mississippi Law? - Breitbart
+30553,1,Germany Spends At Least €10 Million Deporting Illegal Migrants
+30663,1,Dutch PEGIDA Leader Arrested for Failing to Take off Hate Shaped Like Pig
+30701,1,Jeff Sessions Pushes Back Against Clinton’s Suggestion of Global Right to Immigrate
+30773,1,Tightened Security Worldwide for New Year’s Eve
+30814,1,Children Forced to Learn Muslim Prayer by Heart
+30989,5,Supreme Court Punts on Little Sisters’ Obamacare Case Until After 2016 Election - Breitbart
+31092,2,Harvard Prof Urges Liberals to Treat Evangelical Christians Like Nazis
+31259,1,FBI Agents Furious at Top Brass for Letting Clinton Off the Hook
+31265,1,Japanese Police Prepare for ’Nationwide Yakuza War’
+31303,1,’Asylum Seekers’ Turn Down Meals, Would Rather Have Money Instead
+31332,1,What Britain’s Muslims Really Think... Is That Nothing Is Ever Their Fault
+31438,1,Wives With Benefits: UK Immigrants With More Than One Spouse Get EXTRA Payments Under New Reforms
+31763,1,USSS chief says ’No friction’ with Trump’s private security
+31990,1,Dems won’t commit to confirm some of Trump’s top Cabinet picks on Inauguration Day
+31997,2,The $85,000 inauguration package you were looking for
+32201,1,Key points in Trump’s immigration executive orders
+32312,1,Travel ban protests stretch from US to UK
+32400,1,Georgia lawmaker moves to shake up college rape investigations
+32448,1,Refugee groups cautiously optimistic after travel ban ruling
+32452,1,Matt Bai: Distrust of the media allows Trump to flourish
+32574,1,NC ’bathroom bill’ jeopardizes NCAA events
+32613,1,Conrad Murray Fast Facts
+32641,1,CNN 10 - February 13, 2017
+32754,1,DHS immigration and border memos aim to tighten asylum, unaccompanied minor policies
+32832,1,Sutton goalkeeper’s midgame pie sparks gambling probe
+33248,1,How South Korea’s political turmoil could upend ties with the US
+33284,1,Should China move its historic monuments?
+33398,1,Barack Obama is probably lying on a beach in a deserted paradise right now
+33423,1,How the 1% are preparing for the apocalypse
+33613,3,What $100 can buy you in jail might surprise you
+33625,2,North Carolina repeals ’bathroom bill’
+33929,1,United reimburses passengers on chaotic flight
+33945,2,Jared Kushner, Ivanka Trump hit the slopes again
+34191,1,UC Berkeley Republicans sue school over Ann Coulter talk
+34198,1,Senators: Little learned during rare all-hands North Korea briefing
+34201,1,House oversight: Flynn might have broken law
+34206,1,Congress returns with quick action in Russia investigation
+34210,1,The White House’s decision-making on Michael Flynn is troubling
+34259,1,DoD warned Flynn against taking foreign money
+34353,1,Why these extraordinary Cambodian buildings need to be saved
+34475,1, Ingenious micro homes from around the world
+34516,1,Boston doctors, engaged to each other, slain in luxury apartment
+34590,1,New acting FBI director contradicts White House on Comey
+34717,1,Report: Dylann Roof told expert he was a sociopath, not autistic
+34843,1,Trump’s two minds on Islam
+34931,2,Trump pushes around NATO
+34939,1,Spicer’s absence in papal visit reveals Trump’s family-first rule
+34998,1,New Jersey Muslim group sues over rejection of mosque plan
+35095,1,Obamas purchase their DC rental house for millions
+35334,1,Trump’s strain with Obama marks departure from presidential fraternity
+35418,1,How a vivid dream led the first Jordanian to Explorers Grand Slam
+35435,1,Inside Picasso’s favorite watering hole
+35471,1,Dems win annual baseball game with special meaning
+35556,1,UK Chancellor: Cladding on Grenfell Tower ’banned on high-rises’
+35565,1,How hot is it in the West? Let us count the ways
+35700,1,DiCaprio ordered to testify in ’Wolf of Wall Street’ case
+35782,1,Inside China’s largest ghost town
+35783,1,Low expectations for Kerry-Netanyahu meeting
+35803,4,China’s ’Cape Canaveral’ lifts lid on opaque space program
+35900,1,Kennedy votes signal resolution, not revolution
+35947,1,NBA, Hornets weigh in on proposed revisions to bathroom law
+36020,1,Ohio officials apologize to Muslim man falsely accused of ties to ISIS
+36209,1,Social conservatives hold the line on day one in Cleveland
+36553,1,Inside the ’Democracy Spring’ protests at the DNC
+36556,1,Breaking the ultimate glass ceiling
+36603,1,Dem convention speeches Day 4: CNN’s Reality Check Team vets the claims
+36611,1,Charges dropped in Chandra Levy murder
+36683,1,’Leftovers from a fallen society’
+36814,2,How Muslims in the nation’s capital feel about the 2016 race
+36898,2,No, Obama was not the ’founder’ of ISIS
+36972,1,How to help Louisiana flood victims
+37187,1,Iraqi troops plow toward key Iraqi city
+37293,1,Italy earthquake: A country in mourning begins burying the dead
+37358,1,Trump’s son: Dad’s immigration position not ’softening on anything’
+37416,1,The search for a Speedo-wearing guru
+37535,1,Bill Cosby sex abuse trial set for 2017
+37678,1,Crew member killed in accident on world’s biggest cruise ship
+37738,1,In Aleppo, a fragile ceasefire and relieved residents
+37791,1,UNC misconduct policy faces new scrutiny
+37911,1,How Li Na and Wuhan took on the world
+37955,1,Why the debate expectations game is a farce
+37972,2,Calais camp to be completely dismantled
+38077,1,The hidden problem of weight discrimination
+38127,1,India relocates 10,000 from around Kashmir as tensions rise
+38166,1,Former jails transformed into...
+38189,1,Hurricane Matthew: Evacuations underway
+38212,1,Hurricane Matthew: Weather service issues dire warning
+38256,1,Republicans back away from Trump
+38367,1,Trump’s moment of reckoning
+38423,1,NC flooding: How 200 neighbors became their own heroes
+38433,1,Iraqi leaflets in Mosul warn of ISIS battle
+38437,1,US Navy’s stealth destroyer joins the fleet
+38460,3,Humanitarian crisis looms amid Mosul offensive
+38468,2,ISIS in the crosshairs: Battle for Mosul begins
+38507,1,France has failed children in Calais
+38808,1,Mexico urges migrants in US to ’be calm’
+38823,1,This is what ’whitelash’ looks like
+38947,1,How London’s protected views shape the city
+39055,1,Could you pass China’s grueling, 5-hour civil service exam?
+39084,2,From horses to Hooverball: How presidents stay fit
+39346,1,World’s heaviest woman flies to India to fight for her life
+39552,1,North Carolina legislature fails to repeal ’bathroom bill’
+39720,2,NYPD changes policy, will allow officers to wear turbans
+39908,1,China air rage: Angry passengers open emergency exits
+40016,2,Bobby Jindal doesn’t know what he’s talking about
+40022,2,Supreme Court backs beards in prison
+40069,1,Netanyahu coming to Congress next month
+40242,2,The new Air Force One
+40362,1,Neil Armstrong’s widow finds moon artifacts in closet
+40500,1,FIFA’s 2021 Confederations Cup won’t be held in Qatar
+40513,1,Tim Howard discusses Tourette’s, divorce and fatherhood
+40639,1,Airlander 10: Is the world’s largest aircraft ready for take-off?
+40772,1,Robert Durst withdrew $40,000, had mask, affidavit says
+40898,1,Capitol Police Board says no more drunken Fourth of July parties
+40913,1,Germanwings plane crash: Co-pilot acted deliberately
+40919,1,National Guardsman, cousin have been accused of supporting ISIS
+40961,1,21 hurt as car, train collide in Los Angeles
+41029,1,Is the GOP losing Walmart?
+41034,1,Iran nuclear deal framework announced
+41121,1,Dads cherish Sweden’s parental leave
+41181,1,Woman with cancer told she can’t fly back home
+41215,1,College basketball player Lauren Hill dies
+41328,1,Mobs in Durban, South Africa, attack immigrants
+41350,1,Parents ’opting out’ of standardized testing
+41462,1,Tsarnaev trial: The middle finger seen ’round the world
+41608,1,Inside the mind of a black Baltimore cop
+41698,1,Laramie, Wyoming passes LGBT anti-discrimination bill
+41806,1,A secret Navy flight over China’s military buildup
+41811,1,Joe Biden praises Iraqi military
+41931,1,United apologizes after discrimination claim
+41991,4,Supreme Court unleashes its inner Libertarian
+42024,1,Should U.S. worry about China’s island building?
+42062,1,Burr: Give law enforcement tools they need
+42132,1,Southwest plane clips aircraft wing after push back
+42151,1,NASA ’flying saucer’ parachute fails
+42278,1,Most diverse place in America is not where you think
+42323,2,Diverted flight strands passengers in military barracks
+42480,2,Kennedy, Thomas disagree on solitary confinement
+42535,1,How do gay rights look in your country?
+42619,2,Marriage equality? Not so fast
+42676,3,Can Texas defy Supreme Court’s same-sex marriage ruling?
+42699,1,Clinton campaign corrals media
+42777,1,Trump draws thousands to Phoenix rally
+42826,1,El Chapo’s escape: No light at the end of his tunnel
+42844,1,Navy’s newest combat ship in water
+42991,1,Will ’monster’ tower destroy the romance of Paris?
+43125,1,A cuisine that’s been largely ignored for decades could be the next big thing in America
+43173,1,Cuba’s opening to the world has a problem much closer to home than Donald Trump
+43442,1,Trump’s ’buy American’ policy directly conflicts with how his own hotels operate
+43470,2,A bizarre photo of 80 giant birds on a plane is taking over the Internet — but it isn’t as strange as you think
+43613,1,24 unprofessional habits that could cost you a job
+43862,1,Apple’s redesigned iPhone might not be ready in time for a September launch
+44055,1,If you’re living in the US, it may be cheaper to go to college in Canada or England
+44221,1,An ex-military Google X employee collapsed on the job, and his coworkers say corporate culture is to blame
+44345,1,The government is now reviewing the United Airlines incident where a man was dragged off a plane
+44577,1,Elon Musk just revealed new details about his tunneling project that could change transportation forever
+45073,2,’No one is eating so therefore no one’s pooping’: Leaked emails show chaos in days leading up to doomed Fyre Festival
+45107,2,This startup wants to turn crazy-popular unboxing videos into a new ’QVC for millennials’
+45378,1,This is the single best diet for your overall health
+46166,1,10 gym bags that won’t look out of place at the office
+46335,1,This is a big benefit of Tesla’s direct sales model
+46346,1,China and India are changing the game for oil and gas
+46569,1,Larry Ellison’s Hawaiian hotel has a suite that costs $21,000 a night — here’s what it looks like
+46693,1,We’re obsessed with this online mattress that’s perfect for every type of sleeper
+46836,1,There’s a ’Burning Man for the 1%,’ where the tech elite dance and sleep in luxury pods
+46865,1,The new Panama Canal is opening soon and will cause an ’evolution’ in a vital US industry
+47113,1,A 22-year-old ’molded’ to vote for Hillary Clinton explains why he and his wife are supporting Trump
+47203,1,DAVID ROSENBERG: I don’t want to alarm anyone but ...
+47390,1,All 4 pieces of gun-control legislation proposed in wake of Orlando attack just failed in the Senate
+47474,1,A single paragraph explains why the Supreme Court saw through Texas’ argument in a major abortion case
+47532,1,Adam Scott gave a brutal explanation for why he’s skipping the Rio Olympics
+47617,1,The US and Russia may have just sealed Al Qaeda’s fate in Syria
+47747,1,This startup is taking on Airbnb and Hotel Tonight by letting you find a place to crash at the last minute
+47756,1,A change coming to your iPhone will help you sleep better
+48282,1,The chocolate bars we know and love are undergoing rapid change
+48324,1,13 things you must do in Maine
+48347,1,Trump’s humiliating visit could doom Mexico’s president and his party
+48350,1,8 leadership lessons from the book Facebook’s HR chief recommends to all new managers
+48364,1,Here’s how cops actually trace a gun
+48447,1, Boeing is making a major change to its planes that could end jet lag as we know it
+48926,1,The US Navy just commissioned the largest destroyer ever, a ’technological marvel’, the USS Zumwalt
+49000,1,A single statistic shows why all airline passengers are not created equal
+49361,1,DRAMA: Trump reportedly explodes at media bigwigs in off-record meeting
+49440,1,Here’s Morgan Stanley’s top FX trades for 2017
+49836,1,Does Anyone Know What to Make of Obama’s Sanctions?
+49850,1,The Year in Religion and Politics
+49884,5,Coming Soon to the U.S. Army: Turbans, Beards, Hijabs, and Cornrows
+49892,1,How Design Thinking Became a Buzzword at School
+49899,1,The Ideological Reasons Why Democrats Have Neglected Local Politics
+49934,2,How Wall-Mounted Changing Tables Enabled Moms to Leave the House
+49941,1,All of Human Knowledge Buried in a Salt Mine
+49942,2,What’s Behind the New Wave of Transgender ’Bathroom Bills’
+49953,1,The Senate Delays a Key Nomination Hearing

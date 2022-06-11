@@ -1,0 +1,438 @@
+2,2,Tyrus Wong, ‘Bambi’ Artist Thwarted by Racial Bias, Dies at 106 - The New York Times
+65,1,My Canada - The New York Times
+234,1,A Bumblebee Gets New Protection on Obama’s Way Out - The New York Times
+270,2,Neanderthals Were People, Too - The New York Times
+388,1,Nominee for Interior Vows to Preserve, and Develop, Public Lands - The New York Times
+418,1,Sonny Perdue Is Trump’s Choice for Agriculture Secretary - The New York Times
+461,11,Most Primate Species Threatened With Extinction, Scientists Find - The New York Times
+477,4,Stunning Vistas and Wildlife Along Australia’s Great Ocean Road - The New York Times
+630,1,Review: Matthew McConaughey Mines Profane Capitalism in ‘Gold’ - The New York Times
+791,7,A Rare Pacific Islander Captivates Its Neighborhood - The New York Times
+809,1,Republicans Move to Block Rule on Coal Mining Near Streams - The New York Times
+849,2,The Met Opera’s ‘Rusalka’ Is a Dark, Sexy Hit - The New York Times
+871,1,G.O.P. Hurries to Slash Oil and Gas Rules, Ending Industries’ 8-Year Wait - The New York Times
+942,1,Comatose, Then Homeless: ‘My Closest Friend Has Been Pain’ - The New York Times
+955,4,Guardians of a Vast Lake, and a Refuge for Humanity - The New York Times
+990,3,Downside of Being a Global Hub: Invasive Species - The New York Times
+1085,1,Justin Trudeau, Lahore, Adele: Your Morning Briefing - The New York Times
+1107,1,Leader of a Ku Klux Klan Group Is Found Dead in Missouri - The New York Times
+1134,1,South Korea’s Olympian Winter Moment - The New York Times
+1250,1,Russia Stirs Friction in Balkans, as NATO Keeps an Uneasy Peace - The New York Times
+1341,1,Not From Venus, Not From Mars: What We Believe About Gender and Why It’s Often Wrong - The New York Times
+1345,1,California Today: In Virtual Reality, Investigating the Trayvon Martin Case - The New York Times
+1349,27,Amazon Deforestation, Once Tamed, Comes Roaring Back - The New York Times
+1356,1,China Names Guo Shuqing, a Rapid-Fire Regulator, to Oversee Troubled Banks - The New York Times
+1385,1,Feyisa Lilesa, Marathoner in Exile, Finds Refuge in Arizona - The New York Times
+1402,1,For Navajo Team, a Season of Change and Challenge - The New York Times
+1444,1,In California, a Move to Ease the Pressures on Aging Dams - The New York Times
+1523,1,How to Steal a River - The New York Times
+1717,1,Nigeria’s Battles With Boko Haram Scar the Land and Its People - The New York Times
+1718,1,Uprooted by War, Threatened by Boko Haram and Desperate to Go Home - The New York Times
+1764,1,2017 N.C.A.A. Tournament Bracket: Who Has the Edge in Each Region? - The New York Times
+1803,2,California Today: A Gallery Flees and Neighborhood Activists Cheer - The New York Times
+1809,1,N.C.A.A. Tournament Reality: The Haves Get In, the Have-Nots Get Left Out - The New York Times
+1836,1,Why the Whitney’s Humanist, Pro-Diversity Biennial Is a Revelation - The New York Times
+1876,1,As Uber Woos More Drivers, Taxis Hit Back - The New York Times
+1891,1,How to Have a Green Vacation - The New York Times
+1908,1,Is Gascony the Most Delicious Corner of France? - The New York Times
+1928,1,Trisha Brown, Choreographer and Pillar of American Postmodern Dance, Dies at 80 - The New York Times
+1942,1,The Hawaii Cure - The New York Times
+2005,1,John Mayer Knows He Messed Up. He Wants Another Chance. - The New York Times
+2014,1,California Today: Henry Rollins Strikes Chord as a Columnist - The New York Times
+2034,1,Got Wedding Jitters? Take a Hike (or Grab Your Blankie) - The New York Times
+2055,1,U.S., in Reversal, Issues Permit for Keystone Oil Pipeline - The New York Times
+2076,1,Alone in the Wild for a Year, TV Contestants Learn Their Show Was Canceled - The New York Times
+2078,1,Visiting McDonald’s With My Grandmother - The New York Times
+2135,1,Slowing Down, Finding Hidden Paradise on St. John - The New York Times
+2324,2,Trump Weighs Infrastructure Bill but Keeps New York Up in the Air - The New York Times
+2366,4,Special Ops With a Studious Bent Fight Destruction of Brazil’s Amazon - The New York Times
+2421,1,At Cafe Milano, Politicians Are Served Dinner and Peace of Mind - The New York Times
+2433,1,Bannon’s Worldview: Dissecting the Message of ‘The Fourth Turning’ - The New York Times
+2479,1,How (and Where) to Take a Tax-Refund Vacation - The New York Times
+2543,1,With Gas Station’s Closing, a Fuel Desert Expands in Manhattan - The New York Times
+2584,1,Israeli Convicted in Murder of Palestinian Teenager - The New York Times
+2696,1,Wildfire Empties Fort McMurray in Alberta’s Oil Sands Region - The New York Times
+2720,1,Two-Hour Marathon. Can It Be Done? - The New York Times
+2726,1,Your Weekend Briefing: Transgender Rights, Donald Trump, Doping - The New York Times
+2739,1,Scandals Embroil Alabama Governor, Speaker and Chief Justice - The New York Times
+2752,1,Fort McMurray Wildfire Upends Plan to Restart Oil Sands Operations - The New York Times
+2759,2,Victims of Boko Haram, and Now Shunned by Their Communities - The New York Times
+2784,1,How Kosovo Was Turned Into Fertile Ground for ISIS - The New York Times
+2795,1,The Director of ‘Toni Erdmann’ Savors Her Moment at Cannes - The New York Times
+2804,1,Review: ‘Roots’ for a Black Lives Matter Era - The New York Times
+2817,1,The Moroccan Garden of One Man’s Dreams - The New York Times
+2883,4,Do Gorillas Even Belong in Zoos? Harambe’s Death Spurs Debate - The New York Times
+2898,1,A Wizard Comes to the Stage: ‘Harry Potter and the Cursed Child’ Begins Previews in London - The New York Times
+2901,2,Chasing Hiroshige’s Vision of Japan - The New York Times
+2963,2,Weasels Are Built for the Hunt - The New York Times
+2967,1,Donald Trump Responds to Orlando Attack by Exploiting Fear, Not Easing It - The New York Times
+3105,2,Volkswagen Faces Long Road Ahead, Even After a Civil Settlement - The New York Times
+3247,1,Forget Beanbag Chairs. Amazon Is Giving Its Workers Treehouses. - The New York Times
+3262,1,Spurs’ Tim Duncan Retires After 19 N.B.A. Seasons and 5 Titles - The New York Times
+3276,1,Beetle Is Named in Honor of Xi Jinping, but China Aims to Squash the News - The New York Times
+3295,1,Russia Looks to Populate Its Far East. Wimps Need Not Apply. - The New York Times
+3326,2,Flight of the Conchords: Aimless, and That’s O.K. - The New York Times
+3347,1,Too Many Deer on the Road? Let Cougars Return, Study Says - The New York Times
+3399,1,Russia, Suspected in Hacking, Has Uneasy History With Hillary Clinton - The New York Times
+3444,2,‘I Have No Choice but to Keep Looking’ - The New York Times
+3453,1,Fly-Fishing in Montana, Where a River Still Runs Through It - The New York Times
+3494,1,For the Rio Olympic Games, There’s No Turning Back Now - The New York Times
+3588,1,Hard Times in Venezuela Breed Malaria as Desperate Flock to Mines - The New York Times
+3591,3,Boko Haram Video Appears to Show Bodies of Kidnapped Girls - The New York Times
+3613,2,In the Brazilian Rain Forest, ‘a White Elephant, a Big One’ - The New York Times
+3614,1,How to Get the Most out of Visiting World-Famous Sites - The New York Times
+3623,1,Mark Twain Found Inspiration in Germany (Though Not German) - The New York Times
+3627,1,How (and Why) to Camp in the National Parks - The New York Times
+3680,1,English Village Becomes Climate Leader by Quietly Cleaning Up Its Own Patch - The New York Times
+3774,2,‘The Market Is Saturated’: Brooklyn’s Rental Boom May Turn Into a Glut - The New York Times
+3796,2,Love Undone - The New York Times
+3842,1,Flooding of Coast, Caused by Global Warming, Has Already Begun - The New York Times
+3843,3,Where Has Hillary Clinton Been? Ask the Ultrarich - The New York Times
+3856,1,‘What if You Weren’t Afraid?’ and 4 More Money Questions From Readers - The New York Times
+3863,1,‘Gaps of Trust’ With Russia Bar a Syrian Truce, Obama Says - The New York Times
+3875,1,U.S. Presidential Race, Rodrigo Duterte, Roger Ailes: Your Tuesday Evening Briefing - The New York Times
+3884,1,The Giant Panda Is No Longer Endangered. It’s ‘Vulnerable.’ - The New York Times
+3929,1,North Korea Will Have the Skills to Make a Nuclear Warhead by 2020, Experts Say - The New York Times
+3976,4,This North Dakota Bike Trail Is Stunning. Just Hope You Survive It. - The New York Times
+3982,1,A.C.C. Pulls League Championships Out of North Carolina - The New York Times
+4082,1,Expecto Patronum! Patronus Test Keeps ‘Harry Potter’ Marketing Alive - The New York Times
+4116,2,Arnold Palmer, the Magnetic Face of Golf in the ’60s, Dies at 87 - The New York Times
+4136,1,Scenes From New England’s Drought: Dry Wells, Dead Fish and Ailing Farms - The New York Times
+4176,3,A Curious Plan to Fight Climate Change: Buy Mines, Sell Coal - The New York Times
+4194,1,Colombia Peace Deal Is Defeated, Leaving a Nation in Shock - The New York Times
+4217,1,Art Deco Los Angeles - The New York Times
+4241,5,Amid Hills of Wine and Truffles, a Mission to Give Fungus Room to Breathe - The New York Times
+4244,1,Over 190 Countries Adopt Plan to Offset Air Travel Emissions - The New York Times
+4281,2,Andrzej Wajda, Towering Auteur of Polish Cinema, Dies at 90 - The New York Times
+4290,1,In Haiti, a City’s Race Into the 21st Century Is Ruined by a Hurricane - The New York Times
+4293,9,Climate Change Blamed for Half of Increased Forest Fire Danger - The New York Times
+4411,1,Cuba in All Its Natural Glory at the American Museum of Natural History - The New York Times
+4447,1,How Moscow Uses Interpol to Pursue Its Enemies - The New York Times
+4564,2,Kashmir Is Paralyzed by an ‘Adored’ Band of Militants - The New York Times
+4578,8,Old Treaties and New Alliances Empower Native Americans - The New York Times
+4601,4,‘There’s No Law on the Amazon’: River Pirates Terrorize Ships by Night - The New York Times
+4649,1,Pope Francis, Trump, Japan: Your Tuesday Briefing - The New York Times
+4671,1,Review: ‘Allied,’ With Brad Pitt and Marion Cotillard, Uncorks a Favorite Vintage - The New York Times
+4700,3,As Wildfires Rage, Israel Suggests Arson and Asks for Foreign Help - The New York Times
+4712,1,100 Notable Books of 2016 - The New York Times
+4720,1,In Scotland, Trump Built a Wall. Then He Sent Residents the Bill. - The New York Times
+4749,2,Venus Flytraps Need Protection From Poachers in North Carolina - The New York Times
+4760,1,More Law Degrees for Women, but Fewer Good Jobs - The New York Times
+4765,1,Skiing the Alps, Making It My Own - The New York Times
+4790,1,We Need a Miracle on 34th Street - The New York Times
+4812,19,How Big Banks Are Putting Rain Forests in Peril - The New York Times
+4828,1,Hunting ‘Turr’ in Newfoundland’s Frigid Waters - The New York Times
+4870,1,At Aska, a Nordic Chef’s Vision Bears Fruit (and Lichens) - The New York Times
+4956,1,Top New York Restaurants of 2016 - The New York Times
+4957,1,Review: ‘Rogue One’ Leaves ‘Star Wars’ Fans Wanting More and Less - The New York Times
+4966,1,The Best Dance of 2016 - The New York Times
+4967,1,Seeing Africa by Road - The New York Times
+4974,2,A ‘Stonehenge,’ and a Mystery, in the Amazon - The New York Times
+5006,1,The Boy, the Ambassador and the Deadly Encounter on the Road - The New York Times
+5007,1,In Montreal, an Ungainly and Unloved Christmas Tree - The New York Times
+5220,3,In Los Angeles, Ditching the Car for an Eco-Friendly Trip - The New York Times
+5259,1,Thai Officials Battle Buddhist Monks Over Tigers’ Fate - The New York Times
+5298,1,Everything Is Different on an Island - The New York Times
+5301,4,Nigerian Girl Abducted by Boko Haram From Chibok Is Found - The New York Times
+5500,1,Joshua Brown, Who Died in Self-Driving Accident, Tested Limits of His Tesla - The New York Times
+5560,1,7 Teenage Deaths, but No Answers for Aboriginal Canadians - The New York Times
+5564,1,Crash Near Finish Throws Tour de France Into Chaos - The New York Times
+5587,1,Visiting Madagascar? Leave Red Swimsuits (and Lemur Recipes) at Home - The New York Times
+5633,1,Federal Appeals Court Strikes Down North Carolina Voter ID Requirement - The New York Times
+5644,1,Ivanka Trump Stays Mostly Mum on Being Dragged Into Debate on Sexual Harassment - The New York Times
+5650,1,All Aboard the Nordic Express, at Agern - The New York Times
+5763,18,As Homeless Find Refuge in Forests, ‘Anger Is Palpable’ in Nearby Towns - The New York Times
+5773,1,With the Olympics Over, Six Former Host Cities Worth Visiting - The New York Times
+5787,1,Williams Sisters Could Be in Step for Semifinal Showdown at U.S. Open - The New York Times
+5821,1,The Best TV Shows and Movies New to Netflix, Hulu and More In September - The New York Times
+5852,1,Riding the Rails to the Summer of Love - The New York Times
+5854,1,Bad Luck and Worse Manners Tarnish Obama’s Asia Trip - The New York Times
+5876,2,In the Bonobo World, Female Camaraderie Prevails - The New York Times
+5891,6,California Today: Fighting Fire With Fire - The New York Times
+5932,1,Laser Scans Unveil a Network of Ancient Cities in Cambodia - The New York Times
+5972,1,What We Know About the Details of the Police Shooting in Charlotte - The New York Times
+5979,29,How Small Forests Can Help Save the Planet - The New York Times
+5986,6,Fontainebleau: A Forgotten Treasure - The New York Times
+6006,1,Bundy Brothers, Who Sought to Rally a Nation, Draw Scant Support at Trial - The New York Times
+6083,1,21 Girls Kidnapped From Chibok School Released by Boko Haram, Nigeria Says - The New York Times
+6094,1,Pedals the Walking Bear Said to Be Killed by a Hunter in New Jersey - The New York Times
+6124,2,Why Does Fall Foliage Turn So Red and Fiery? It Depends. - The New York Times
+6127,1,No Kegs, No Liquor: College Crackdown Targets Drinking and Sexual Assault - The New York Times
+6164,1,Postelection Therapy: View Swing States From Space - The New York Times
+6200,1,Martha’s Vineyard, Off-Season - The New York Times
+6229,1,Gems, Hidden in Plain Sight in Macedonia - The New York Times
+6242,1,An Airport Survival Guide - The New York Times
+6257,1,Kochs and Other Madoff Investors Are Winners in Fight Over Profits Held Abroad - The New York Times
+6411,1,California Today: Tracking the Bullet Train’s Progress - The New York Times
+6430,2,Free Cash in Finland. Must Be Jobless. - The New York Times
+6540,1,After #OscarsSoWhite, Broadway Seeks a #TonysSoDiverse - The New York Times
+6616,1,‘Swiss Army Man,’ the Strangest Movie Shown at Sundance? - The New York Times
+6645,1,Risks Higher for Front-Seat Passengers in Some S.U.V. Crashes, Tests Show - The New York Times
+6667,1,Review: In ‘The Innocents,’ Not Even Nuns Are Spared War Horrors - The New York Times
+6761,2,As Peat Bogs Burn, a Climate Threat Rises - The New York Times
+6779,2,Officials Spent Big on Olympics, but Rio Natives Are Paying the Price - The New York Times
+6782,1,Louisiana Floods Lead to 8 Deaths - The New York Times
+6909,1,The Bangladeshi Traffic Jam That Never Ends - The New York Times
+6928,2,Timber Company Tells California Town, Go Find Your Own Water - The New York Times
+6956,1,Trump, Russia, Samsung: Your Wednesday Briefing - The New York Times
+6975,1,My 10 Favorite Books: Kehinde Wiley - The New York Times
+7017,1,Violence Escalates Between Myanmar Forces and Rohingya - The New York Times
+7023,1,Why Keeping Only the Popular Parts of Obamacare Won’t Work - The New York Times
+7027,1,Poland Exhumes Ex-President’s Body in Inquiry of 2010 Plane Crash - The New York Times
+7085,2,Matteo Renzi, Oakland, Aleppo: Your Monday Briefing - The New York Times
+7143,1,Why Trump Had an Edge in the Electoral College - The New York Times
+7180,2,How to Nurse Your Hangover (and Head One Off) - The New York Times
+7182,1,In Cramped and Costly Bay Area, Cries to Build, Baby, Build - The New York Times
+7192,5,Chernobyl’s Silent Exclusion Zone (Except for the Logging) - The New York Times
+7203,1,Selling Bottled Water That’s Better for the Planet - The New York Times
+7269,2,Piles of Dirty Secrets Behind a Model ‘Clean Coal’ Project - The New York Times
+7380,3,Evolution Is Happening Faster Than We Thought - The New York Times
+7398,1,Syria, N.S.A., Michelle Obama: Your Evening Briefing - The New York Times
+7541,1,Paul Simon’s Ambition, and Inspiration, Never Gets Old - The New York Times
+7589,1,For This Choreographer, the Olympics Are the Zenith - The New York Times
+7663,6,Battle Lines Over Trump’s Lands Policy Stretch Across 640 Million Acres - The New York Times
+7700,1,‘Game of Thrones’ Season 6, Episode 6: A Dragon Queen on the Campaign Trail - The New York Times
+7718,2,One Police Shift: Patrolling an Anxious America - The New York Times
+7756,1,The End of Relaxation - The New York Times
+7759,1,Refugees Discover 2 Americas: One That Hates, and One That Heals - The New York Times
+7924,1,Upcoming Horror Game ’Outlast 2’ Banned in Australia - Breitbart
+8027,1,Despite Failure of North Carolina Boycott, NCAA to Renew Game Ban Against Bathroom Bill - Breitbart
+8072,2,Vatican Invites ‘Population Bomb’ Hoaxer Paul Ehrlich to Workshop
+8083,1,Transgender Politics: NC Keeps Core of HB2 Sexual Privacy Law While Ending Sports Boycott - Breitbart
+9039,1,’The Legend of Zelda: Breath of the Wild’ Review: A Creative and Masterful Open-World Adventure - Breitbart
+9087,1,DELINGPOLE: The EPA’s Air Pollution Scare Is Fake News Myth
+9329,1,Donnelly: Dear Mr. President-Elect, Please ’Pick a Fight’ with California on Behalf of the American People - Breitbart
+9538,1,Pakistani Man Pleads Guilty to Smuggling Fellow Countrymen Into U.S.
+9682,1,Heavy Rains Spawn California Wildflower Super Bloom that Can Be Seen from Space - Breitbart
+10013,1,Boko Haram Jihadists Slay 15 Civilians in Ramadan Attacks in Northern Nigeria
+10069,1,Speaker Ryan’s Pending Choice: Raise Voters’ Wages or Raise Companies’ Revenues - Breitbart
+10244,1,FULL TEXT – MILO at Cal Poly State University: ’No More Dead Babies’ - Breitbart
+11091,1,Carrie Fisher Laid to Rest in Prozac Pill Urn
+11222,8,Afghanistan’s Green Gold: Taliban Terrorists Earn $15 Million a Year Selling Pistachios
+11355,1,California’s Drive-Thru Tree Falls over During Winter Storm
+11499,6,EU Threatens Poland Over Logging, Risks Fresh Clash With Right-Wing Government - Breitbart
+11535,1,European Leaders Snub Davos, Despite Focus on Populism
+12122,1,White House Posts ’Hire American’ Executive Order - Breitbart
+12605,1,NYT: Dissecting Bannon’s Worldview from ‘The Fourth Turning’
+12932,1,Nigeria: Thousands of Women Protest Boko Haram Suicide Bombings, Rape, Abductions - Breitbart
+13640,1,Escaped Chibok Girl on Anniversary of Abduction by Boko Haram: ’Bring Those Girls Back’ - Breitbart
+14067,1,Davos Forum Chief: ’It’s Important To Listen’ To Populists
+14103,1,North Korea Launches Another Ballistic Missile Test, as Talk of War Increases
+14267,1,Venezuelan Migrant Crisis Hits the Globe from Brazil to Israel
+14968,1,Donald Trump’s Ag Secretary Pushes for Illegal Immigrants, Not Robots - Breitbart
+15193,1,Illegal Alien MS-13 Gang Members Charged in Murder of Teenager in Virginia
+15586,1,WATCH: Her Majesty Urges Britons to Follow ’Christ’s Example’
+15688,1,Watch Live: FRC’s Values Voters Summit in Washington, DC - Breitbart
+15809,1,U.S. Government-Accepted Iranian Refugee Joined ISIS Army - Breitbart
+16515,5,Belgian Prisons ’Like North Korea’ As Strike Crisis Hits - Breitbart
+16602,1,Reports: Trump Taps Navy SEAL Vet Rep. Ryan Zinke to Lead Interior Department - Breitbart
+17146,1,Conservative to Liberal? Michael Keaton Award Speeches Differ Dramatically in One Year - Breitbart
+17318,2,Boko Haram Offering Business Loans to Recruit Members
+17550,4,Indian Lawyer Sues Hindu God for Abusing Goddess Wife
+18473,2,Study: Ethanol Worse for Environment Than Gasoline - Breitbart
+18637,1,Open Letter to Leaders: Gender Ideology ‘Putting Our Children At Risk’ - Breitbart
+18914,1,Pro-Lifers Target Companies That Incinerate Dead Babies - Breitbart
+19012,3,Raging Fires Force Evacuations In Southern California - Breitbart
+19034,1,Watch: Final Trailer for ’Rogue One: A Star Wars Story’ - Breitbart
+19117,1,3 Down, 2 to Go: Al Jazeera America To Shut Down In April - Breitbart
+19171,2,Shots Fired At Police In Brussels During Search Linked To Paris Attacks
+19389,1,Exclusive - Michele Bachmann Calls on Hillary Clinton to Disavow Violent Anti-Trump Protesters in Minneapolis - Breitbart
+19457,1,Movie Review: ’How to Let Go of the World and Love All the Things Climate Can’t Change’ - Breitbart
+19491,1,Erik Prince: Because ’Europe Can’t Deal with Radical Islam,’ Slaughter of Christians Will Continue
+19686,1,Graphic Video: Baylor Football Player Abusing His Dog
+19731,5,On Two-Year Anniversary of Boko Haram Kidnapping, Video Surfaces of Missing Girls
+19881,1,PC Mag: Banning Milo from Twitter Is a Super Bad Idea - Breitbart
+20039,1,African Researchers Use Ebola Tactics to Help Fight Zika
+20505,1,Trump Versus The Green Blob: The Battle That Will Define His Presidency - Breitbart
+21215,2,Arab Twitterati Rejoice at Israel Forest Fires
+21216,1,What Donald Trump Gets Right, and Wrong, on Trade - Breitbart
+21950,1,Turkish Islamist: Darwin Was a Jew Who Targeted Muslims Gorillas Are Mutated Jews - Breitbart
+22287,1,Chernobyl, 30 Years Later: Some Ukrainians Risk Radiation to Avoid Russian Invasion - Breitbart
+22760,2,Shock Study: Plants Can Adapt To Global Warming...
+22918,1,Exclusive: Director’s Cut of ‘Clinton Cash’ Now Playing - Breitbart
+23723,1,Cavs-Warriors Game 7 All Time Highest Rated NBA Broadcast for ABC - Breitbart
+23783,1,White Christmas in California as Mountain Snow Draws Locals
+23860,1,America Reacts to ‘Clinton Cash’: ’Will Never Be Voting for Hillary’
+24013,1,Alec Baldwin: Climate Change Denial ’A Form of Mental Illness’ - Breitbart
+24806,2,The Pseudohistory, Preachy Environmentalism, and Multiculturalist Pageantry of Rio’s Opening Ceremonies - Breitbart
+24918,1,Victims Of Nine Fires Deemed Arson To Receive State Terror Compensation - Breitbart
+24930,1,From Crime To Journalism, Belgian Terror Suspects A Mixed Bag
+24948,1,Nigeria: Muslim Mob Beheads Woman in Public Market for Insulting Muhammad - Breitbart
+25008,1,Explosions Hit Brussels Airport, One Killed - Belgian Media
+25082,1,WATCH: Planned Parenthood Capitalizes on Zika Tragedy to Promote Abortion in Latin America
+25579,2,Report: West Knew Location of Kidnapped Boko Haram Girls
+25725,3,Oregon High School Students Walk Out Over ’Build a Wall’ Banner - Breitbart
+25786,1,Record-Breaking Heat Wave Sparks Fires, Hospitalizations
+25938,1,Zika-Carrying Mosquito Brings Yellow Fever Epidemic to Congo
+26000,1,NC ’Santa Claus’ Resigns After Fat-Shaming Nine-Year-Old Boy
+26680,1,San Antonio Spurs Legend Tim Duncan Retires - Breitbart
+27177,1,RSPB: We Must Build More Bird-Chopping Eco Crucifixes!
+27305,2,Hillary Raises Over $1 Million At Home of Economist Magazine Owner
+27865,1,Senior PEGIDA Figure Investigated For ’Migrant Hunting’ Trip
+27899,1,Attack of the Globalists: Magazine Owned by Hillary Mega-Backer Urges Republicans to Vote Clinton
+28356,3,North Korea Built Replica of South Korea’s Presidential Palace to Bomb
+28393,1,Ann Coulter: Hillary Honors Dead Cops - Breitbart
+28749,9,Drought: 100 Million Trees Dead in CA - Breitbart
+29680,1,Suspected Boko Haram Suicide Bombers Kill 29 in Cameroon
+30427,1,Sectarian Leaflets Call For Death Of Moderate Muslims At London Universities - Breitbart
+30646,1,Belgians Identify Two Suspected Bombers in Brussels Blasts
+30679,3,Extreme Islamist Party Leader Given ’Award’ By East London Council
+31090,1,T.J. Miller Mocks Donald Trump During 2016 Critics’ Choice Awards - Breitbart
+31249,1,’Zombie Mike’ Sought for Allegedly Raping a Wheelchair-Bound Woman in New York - Breitbart
+31993,2,Interior nominee will review Obama limits on oil and gas drilling
+32278,1,Here’s what Muslim Americans told CNN before Trump’s election
+32630,1,The jewels of Iran’s ’sad-eyed’ princess
+32731,1,Deadly storm slams Southern California
+32763,1,Tornadoes Fast Facts
+33113,3,Wildfires Fast Facts
+33242,1,Chance the Rapper: 10 hip-hop stars who spit hot charity
+33534,1,Carrie Fisher and Debbie Reynolds celebrated
+33575,1,6 Obama climate policies that Trump orders change
+33750,13,The rise of the urban jungle
+33766,1,Columbine High School Shootings Fast Facts
+33803,1,Interior agency’s website creates confusion
+33866,1,3 ways WWI still shapes America
+33929,1,United reimburses passengers on chaotic flight
+33951,1,Man dragged off United flight was injured, will file suit, lawyer says
+34144,1,Trump on Earth Day: ’Rigorous science is critical to my administration’
+34153,1,Florida wildfires: Thousands evacuated
+34219,1,The president Donald Trump has to envy
+34315,1,Saving China’s abandoned Tulou homes
+34329,1,’Folks don’t feel safe’
+34362,1,India’s tribal peoples caught between Maoist rebels and the state
+34454,1,82 Chibok schoolgirls released in Nigeria
+34485,1,82 released Chibok schoolgirls arrive in capital
+34508,2,Boko Haram Fast Facts
+34509,2,Anti-vaccine groups blamed in Minnesota measles outbreak
+34575,1,Glacier National Park is losing its glaciers
+34948,1,Sarin Fast Facts
+35070,1,The best places to see art in the wild
+35071,1,Study reveals environmental cost of tobacco
+35119,1,US School Violence Fast Facts
+35228,1,Welcome to Lebanon ... in the United States
+35371,1,Puerto Rico statehood vote: Big support -- but small turnout
+35405,2,Zika Virus Infection Fast Facts
+35508,1,Portugal wildfire: 62 killed, victims burned in cars as they fled
+35610,2,What you need to know about Zika
+35709,1,Catching Fire: Cities building wooden towers
+35722,2,Wildfires and deadly heat wave hit Southwest U.S.
+35733,1,North Korea fires two missiles, South Korea says
+35761,1,North Korea claims missile test success
+35905,1,Mallows Bay: The ’ghost fleet’ graveyard where nature has risen from the dead
+35907,1,How to fight environmental crime
+36100,1,Cops: Dad kills family, burns home and flees
+36224,1,Who is Theresa May, next in line to steer Britain?
+36484,3,Hundreds flee Santa Clarita wildfire
+36511,3,Body found as Sand Fire swells in California
+36646,2,Are fireflies flickering out?
+36806,1,Balloon pilot didn’t see power lines, investigators think
+36967,1,March on Washington Fast Facts
+36977,1,Boko Haram video shows Chibok girls, dad says
+36996,1,Chibok girls: New Boko Haram video offers hope
+36999,1,Obama emerges from vacation to boost Clinton’s coffers
+37032,4,Escaped Chibok girl: I miss my Boko Haram husband
+37058,2,More than 80,000 warned to evacuate in raging California fire
+37061,1,Elephant swept from India to Bangladesh floods now dead
+37226,9,Bark beetles: How tiny tree killers have worsened California’s wildfires
+37411,1,Polaris recalls two off-road models due to fire hazard
+37467,3,This animal is no longer endangered
+37977,16,New life for the forgotten home of US tennis?
+37978,1,Boko Haram leader mocks Nigeria army in video
+38332,2,Hiker stumbles on 2 bears, survives attack
+38369,1,Bob Dylan songs that changed the course of history (an incomplete list)
+38383,3,Boko Haram releases 21 Chibok girls to Nigerian government
+38443,1,Brazil opens first elephant sanctuary
+38458,2,Boko Haram talks on Chibok girls to resume
+38678,7,Southern forest fires force evacuations
+38701,1,CNN Student News - November 14, 2016
+38741,3,Hundreds hospitalized in Southeast fires
+38766,1,Why Morocco is a leader of the ’green’ world
+38814,1,The Bush-era Muslim registry failed. Yet the US could be trying it again
+38850,1,Do these village homes have the best view in China?
+38877,2,The world’s tallest religious skyscraper
+38946,1,Israel wildfires scorch more land, 60,000 evacuated in Haifa
+38950,1,’They will kill us’: Refugees flee torture and rape in Myanmar
+38973,1,Israel wildfires: Haifa residents allowed home
+39067,1,New cold war: US Marines’ Norway war games
+39261,7,How is Vo Trong Nghia transforming Vietnam’s skylines?
+39397,1,Montana congressman is Trump’s choice for interior secretary
+39470,1,Trump could learn a lot from ’Rogue One’
+39621,1,Eggnogs, candy canes and wreaths: The stories behind our Christmas traditions
+39634,2,Boko Haram camp falls to Nigerian troops
+39673,1,Freed Chibok girls return home for Christmas
+39675,1,THIS will actually be built
+39788,1,Allies’ best war photographer in Army’s biggest battle
+39806,1,7-year-old survives Kentucky plane crash that kills 4
+39976,1,Source: Terrorists had trained in Syria with ISIS
+40031,2,Can tigers claw their way back from extinction?
+40326,1,Wild West weather: Filthy rain and mountain ’hurricane’
+40365,5,Magna Carta found in scrapbook may be worth millions
+40386,1,Fall 2015 trend guide
+40576,1,Does this beach paradise hold the secret to long life?
+40639,1,Airlander 10: Is the world’s largest aircraft ready for take-off?
+40694,1,Doctors claim first successful penis transplant
+40813,1,Bodies of 5 babies found in home in France
+40901,2,The skyscrapers made from wood
+40932,1,’Magic rabbit’ nears extinction in China
+41162,1,Real ’Fault in Our Stars’ couple reunited by hope
+41201,1,Richard Dysart, ’L.A. Law’ star, dies at 86
+41314,1,Survivor returns to Auschwitz hoping to find his twin
+41388,1,The quickest weight loss habits to squeeze into a busy day
+41441,1,Look at trees in a different way
+41456,1,’Bravest woman’ free speech activist killed in Pakistan
+41467,1,’Avengers: Age of Ultron’: Film review
+41487,1,Climate change: 7 questions on 2 degrees (Opinion)
+41512,1,How does a legendary American car vanish for 30 years?
+41554,1,The Dzhokhar Tsarnaev the defense wants you to know
+41587,2,Endangered cockatoos found crammed into plastic bottles
+41599,1,Russia marks 70 years since victory over Nazi Germany
+41604,1,Is Joss Whedon a feminist? (Opinion)
+41638,1,Two from World War I to get Medal of Honor
+41721,1,Books: 12 must-reads on climate change (2 degrees)
+41805,1,Climate change: Vanishing stories, vanishing country
+41840,1,What can be done to stop deadly floods? (Opinion)
+41842,3,Stop expecting firefighters to save your homes
+41915,1,Feds drop hate crime investigation into hanged man
+41927,1,Unlikely friendship blossoms between killer and scholar
+42060,1,The U.S. and Cuba: A Love Story
+42074,1,Democrats fret unions’ pressure tactics on trade
+42144,1,He got to watch ’The Longest Day’
+42232,1,Climate: 15 scary facts about rising seas (Opinion)
+42254,1,Being Moody: This man won’t let New Jersey take his home
+42286,1,Climate: We’re burning through Earth’s carbon budget
+42429,1,Why Pope’s climate call was justified (Opinion)
+42486,1,The difficulty in telling dad ’I love you’
+42551,1,Middle-aged virgins: Why so many Japanese stay chaste
+42610,1,Gay rights, Obamacare and a week that changed the nation
+42643,1,Asteroid Day wants to track near-Earth asteroids
+42680,2,EPA boss: Climate is ’greatest threat of our time’
+42767,2,Trapped in Bangladesh’s brick factories
+42841,2,Drones visit California wildfire, angering firefighters
+42880,1,China discovers winged, feathered ’dragon’
+42971,1,Rare blue moon rises Friday
+43018,6,Firefighter dies as wildfires burn California ’tinderbox’
+43421,1,Coach K is reportedly banning Duke players from the locker room and from wearing Duke gear as punishment for losses
+43470,1,A bizarre photo of 80 giant birds on a plane is taking over the Internet — but it isn’t as strange as you think
+43619,1,How Jake Tapper became the ideal newsman of our age
+43808,1,A forgotten war technology could safely power Earth for millions of years. Here’s why we aren’t using it
+43877,1,Here are the 10 best cars of 2017
+44495,1,Trump releases statement on Earth Day as his administration continues repealing environmental regulations
+44536,2,Quite possibly the most unsettling thing anyone in the Trump administration has said about trade
+44781,1,The best brunch spots in America, according to OpenTable
+45870,1,There’s finally an explanation for the giant dirt pyramid on Apple’s new campus
+46722,1,The lawyer for the sole surviving suspected Paris attacker had some surprising things to say about his client
+46856,1,Firefighters are using drones to fight the raging wildfire in Alberta
+47013,6,California lifted its mandatory water restrictions — that could be a huge mistake
+47118,1,People are outraged that a zoo shot and killed a gorilla after a 4-year-old boy tumbled into its enclosure
+48238,1,The American McMansion is dying for good
+48296,2,This is what it looks like when society collapses
+48440,1,Oscar favorite ’Arrival’ is one of the best movies of the year — and a big surprise
+48470,1,NCAA pulls 7 postseason events out of NC due to LGBT law
+48558,1,Why humans couldn’t domesticate zebras
+48852,1,Donald Trump returns to his vicious primary self, and there’s nothing the RNC can do to stop him
+49530,5,I tried ’forest bathing’ — the Japanese ritual that science suggests could reduces stress
+49659,6,Wake Forest football radio announcer has been fired for leaking confidential information to opponents
+49671,1,A new twist emerges in Wakeyleaks as Louisville admits they received information from fired Wake Forest radio announcer Tommy Elrod
+49845,1,Obama’s Environmental Legacy, in Two Buttes
+49893,1,Obama: The Ocean President
+49987,1,Drive-Through Redwoods Are Monuments to Violent Deforestation

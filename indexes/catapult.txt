@@ -1,0 +1,127 @@
+123,1,Andrew Garfield, Spiritual Ghost in the Hollywood Machine - The New York Times
+460,1,Roberta Peters, Soprano With a Dramatic Entrance, Dies at 86 - The New York Times
+1100,1,With Everything About Trump, What’s a Designer to Do? - The New York Times
+1211,1,Trump, an Outsider Demanding Loyalty, Struggles to Fill Top Posts - The New York Times
+1542,1,Going From Bond Girl to ‘a Normal Life’ - The New York Times
+1640,1,Do Nike’s New Shoes Give Runners an Unfair Advantage? - The New York Times
+2176,1,Park Geun-hye, South Korea’s Ousted Leader, Is Arrested and Jailed to Await Trial - The New York Times
+2453,1,2017 Pulitzer Prize Winners - The New York Times
+2901,1,Chasing Hiroshige’s Vision of Japan - The New York Times
+3435,1,Setting the Body’s ‘Serial Killers’ Loose on Cancer - The New York Times
+3564,1,Hillary Clinton and Tim Kaine Show New Tax Returns, Pressuring Donald Trump - The New York Times
+3625,1,Beyond Coal: Imagining Appalachia’s Future - The New York Times
+3635,1,Miami Beach Zika Cases May Prompt Call to Avoid City - The New York Times
+4035,1,New York City, U.S. Presidential Race, Syria: Your Evening Briefing - The New York Times
+4235,1,Obama Administration Is Quietly Delaying Thousands of Deportation Cases - The New York Times
+4292,1,In Bridgeport, Property Values Plummet, but Taxes Soar for Some - The New York Times
+4324,1,‘Apprentice’ Producer Denounces Trump but Won’t Release Possibly Damning Tapes - The New York Times
+4325,1,Rodrigo Duterte, Scorned Abroad, Remains Popular in the Philippines - The New York Times
+4525,1,Robert Vaughn, Who Starred as Napoleon Solo in ‘Man From U.N.C.L.E.,’ Dies at 83 - The New York Times
+4581,1,C.E.O.s Ponder a New Game, With Trump’s Rules - The New York Times
+4715,1,Miami’s Cuban Exiles Celebrate Castro’s Death - The New York Times
+4953,1,Donald Trump, Rex Tillerson, Aleppo: Your Morning Briefing - The New York Times
+5054,1,Flocks of Sheep, Seven Stories Tall, at the Crossroads of the World - The New York Times
+5107,1,A ‘Hoop Dreams’ Sequel, Written by Gun Violence - The New York Times
+5138,1,The Women Who Met Hillary, and Spotted a Future Political Star - The New York Times
+5352,1,In Muhammad Ali, an Example of a Truer Kind of Bravery in Sports - The New York Times
+5490,1,Ronald Perelman Donates $75 Million for Arts Complex at World Trade Center Site - The New York Times
+5562,1,At Donald Trump’s Convention, Matters of Control (and Self-Control) - The New York Times
+5868,1,Gary Johnson’s ‘What Is Aleppo’ Flub Amplifies Skepticism of Republicans - The New York Times
+5924,1,Manhattan Bombs Provide Trove of Clues F.B.I. Questions 5 People - The New York Times
+5962,1,They Found Bombs on a Beer Run. What Gratitude Are They Owed? - The New York Times
+5975,1,Jane Pauley to Become Anchor of CBS Show ‘Sunday Morning’ - The New York Times
+6233,1,Donald Trump, Obama, Thanksgiving: Your Weekend Briefing - The New York Times
+6609,1,Hedge Fund Managers Work to Stanch Loss of Investors - The New York Times
+6662,1,Alvin Toffler, Author of ‘Future Shock,’ Dies at 87 - The New York Times
+6790,1,Arthur Hiller, ‘Love Story’ Director and Box-Office Magnet, Dies at 92 - The New York Times
+7198,1,Dennis Hastert Sentenced to 15 Months, and Apologizes for Sex Abuse - The New York Times
+7227,1,‘Veep’ Season 5, Episode 7: Do a Little Dance ... - The New York Times
+7320,1,Bus of Nepal Earthquake Survivors Plunges Off a Road, Killing 27 - The New York Times
+7537,1,Kim Jong-un Seeks to Cement Power at First North Korean Congress in 36 Years - The New York Times
+7595,1,For Simone Manuel, Gold Ripples Beyond the Pool - The New York Times
+8874,1,Ann Coulter: Lassie, Come Home
+9374,1,UK Jobs Market Can Be "Self-sufficient" After Brexit, Says Green
+10506,1,VIDEO-Kid Rock Blasts Imported Grills With Shotgun: ’In Your Face, China’ - Breitbart
+10600,1,MILO On Twitter: I Hate To Say I Told You So... - Breitbart
+13337,1,Report: Russia May Capitalize on Chaos in Libya by Filling Power Vacuum
+13410,1,Tom Cruise: ’Top Gun 2’ Is ’Definitely Happening’ - Breitbart
+16092,1,John Podesta Trends on Facebook After Peter Schweizer’s Russia Revelation
+17039,1,Actress Emily Ratajkowski: I’m Too Sexy to Land ‘Serious Roles’ - Breitbart
+17050,1,***Horse Race LiveWire*** One Day to Super Saturday - Breitbart
+17333,1,Henry Rollins: White People Would ’Lose Their Minds’ If Forced to Be Black
+17771,1,Reuters: Trump Support Edges Higher in Wake of Orlando - Breitbart
+18401,1,Actress Courteney Cox: ’I Regret’ Getting Plastic Surgery - Breitbart
+18427,1,Report: As a Teenager, Rubio Dreamed of Being ’First Hispanic President’ - Breitbart
+18888,1,Online Views of ’Clinton Cash’ Clear 1.1 Million
+19323,1,Media Ignores Clinton’s Podesta Bagging $35 Million from Putin
+20123,1,MoveOn.Org-Backed Protest Movement: Breitbart Readers ‘Are With Us’ - Breitbart
+20136,1,MILO: Twitter Has Been Dead for Some Time. Now, Rigor Mortis Is Setting In - Breitbart
+21160,1,Germany’s Populists Beat Merkel’s Migrant CDU Party: Exit Polls
+22147,1,Thousands Pledge to Get Arrested in D.C. Protests Next Month - Breitbart
+24115,1,Donald Trump: Since RNC ‘In Default,’ Pledge Now Voided, I ‘Can Do What’ I ‘Have to Do’ to Win - Breitbart
+24690,1,’Clinton Cash’ Dominates #1 on Facebook During Democratic National Convention - Breitbart
+25861,1,WATCH - Hamas Co-Founder: Trump May Be A Jew - Breitbart
+26006,1,Cannon Used to Shoot Drugs Over Mexican Border Fence Seized
+26268,1,Abraham Lincoln at Cooper Union: ‘Right Makes Might’ - Breitbart
+26560,1,Report: Hillary Clinton’s Campaign Ignored Bill’s Suggestion to Court Working-Class Whites - Breitbart
+27972,1,Judge Jeanine on Brexit: What Happened in U.K. Is Going to Happen in U.S. With Trump - Breitbart
+29643,1,’Clinton Cash’ Movie Surpasses 500,000 Views in 48 Hours
+29979,1,Trump’s Populist/Nationalist Revolt Began with ‘The Greatest Generation’ - Breitbart
+30239,1,Study: 43 of the Most Dangerous Cities in the World Are in Latin America - Breitbart
+30280,1,Anti-Trump Groups Threaten ’Largest Civil Disobedience Action of the Century’ - Breitbart
+30306,1,’Star Wars’ Actress Carrie Fisher Dies at Age 60 - Breitbart
+30335,1,Shock Loss for Sarkozy as Fillon Becomes Favourite for French President
+30648,1,Left-Wing Activists Plot 10-Day March from Philadelphia’s Liberty Bell to D.C. In Civil Disobedience Bid - Breitbart
+31149,1,O’Reilly: Rise of Trump ’Fueled Largely By’ White Grievance - Breitbart
+31156,1,’Clinton Cash’ Trends #1 on Facebook as Progressives Flock To, Promote Film - Breitbart
+31264,1,FT: Breitbart London Bigger Than Vice, The Spectator... Planning Expansion
+31940,1,Jimmy ’Superfly’ Snuka dies
+32151,1,Bernie Ecclestone: ’F1 used to be like skiing’
+32184,1,Mary Tyler Moore, beloved TV actress, dies at 80
+32205,1,Trump orders construction of border wall, boosts deportation force
+32919,1,Former Kentucky governor to give response to Trump’s congressional address
+32945,1,Philippine protesters condemn drug war on anniversary of uprising
+33514,1,Where does the House Freedom Caucus go from from here?
+33576,1,GOP moves to plan B after health care failure
+34487,1,Emmanuel Macron: From political novice to president
+34730,1,Surprise, relief dominate Capitol Hill
+34921,1,Big Sky battle: The singer vs. the millionaire
+35707,1,Who is Jared Kushner?
+36362,1,13 days in Baton Rouge
+36365,1,Poll: Advantage Clinton as conventions begin
+36808,1,Japanese MLB legend Suzuki joins elite 3,000 club
+37534,1,One Direction alum Zayn Malik developing NBC drama
+37730,1,Paralympics day eight: ’Paralympic Pele’ through to football final
+37983,1,Why tonight can clinch the election
+38061,1,Hoboken train crash: 1 dead, more than 100 injured
+38147,1,Woman arrested in shooting of FSU professor
+38153,1,Why does India love Amitabh Bachchan?
+38313,1,7 takeaways from the second presidential debate
+38575,1,Republicans keep control of Congress
+38601,1,Black voters didn’t fail Hillary Clinton
+38665,1,Trump’s national security guru
+38870,1,6.9-magnitude earthquake strikes off Japan
+39025,1,Injured ’Punkin Chunkin’ producer disappointed show is off, faces long recovery
+39643,1,George Michael: World pays tribute to global superstar
+39666,1,Why George Michael’s ’Freedom! 90’ lives on
+39885,1,What you need to know about college championship game
+39985,1,Group makes last-ditch effort to save ’Top Gun’ carrier
+40018,1,Dismay and support for North Korean defector
+40129,1,Real Madrid tops world’s clubs for 10th straight year
+40366,1,Jordan’s King Abdullah, Queen Rania and war on ISIS
+40529,1,Rand Paul wins 2015 CPAC straw poll
+40737,1,Why transgender teen Jazz Jennings is everywhere
+41145,1,’American Pie’ lyrics sell for $1.2 million
+41507,1,Bruce Jenner sued over fatal car accident
+42415,1,Rachel Dolezal voted off city commission
+43050,1,Jennifer Aniston and Justin Theroux get married
+43679,1,NO HOLDS BARRED: Trump, in unprecedented fashion, airs grievances in an epic 77-minute press conference
+44088,1,Inside the identity crisis at the Independent Journal Review, the outlet that has become a powerhouse in the Trump era
+47951,1,Khizr Khan lashes out at Trump for accepting Purple Heart from veteran
+48298,1,Donald Trump is making a surprise trip to Mexico to meet with its president
+48327,1,’It doesn’t matter how tall of a wall you put up’: Trump’s border-wall plan is still full of holes
+48342,1,Inside one of the fastest-growing clothing companies that’s making some millennial moms rich
+49754,1,Trump catapults cable news outlets to their best ratings year ever
+49844,1,Obama’s Faith in White America Was Not Misplaced
+49948,1,La La Land’s Double-Edged Nostalgia
+49959,1,Sons of the Iranian Revolution

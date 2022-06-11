@@ -1,0 +1,524 @@
+71,7,Cyberwar for Sale - The New York Times
+73,1,Apple Removes New York Times Apps From Its Store in China - The New York Times
+87,1,Countering Trump, Bipartisan Voices Strongly Affirm Findings on Russian Hacking - The New York Times
+89,21,The Perfect Weapon: How Russian Cyberpower Invaded the U.S. - The New York Times
+110,3,Russian Intervention in American Election Was No One-Off - The New York Times
+156,1,In Election Hacking, Julian Assange’s Years-Old Vision Becomes Reality - The New York Times
+158,4,Russian Hackers Find Ready Bullhorns in the Media - The New York Times
+206,3,Is Edward Snowden a Spy? A New Book Calls Him One. - The New York Times
+223,1,Russian Hackers Gained ‘Limited’ Access to R.N.C., Comey Says - The New York Times
+359,1,‘Kompromat’ and the Danger of Doubt and Confusion in a Democracy - The New York Times
+618,2,That Old Phone Trump Uses for Twitter Could Be an Opening to Security Threats - The New York Times
+629,1,A Final Match for Venus and Serena Williams. But Maybe Not the Last One. - The New York Times
+814,1,Snap’s Chief Taps Into the ‘Right Now’ - The New York Times
+821,6,Here Is How to Fend Off a Hijacking of Home Devices - The New York Times
+906,1,Cyprus Fears Russian Meddling in Its Settlement Talks - The New York Times
+1107,1,Leader of a Ku Klux Klan Group Is Found Dead in Missouri - The New York Times
+1256,1,Europe Combats a New Foe of Political Stability: Fake News - The New York Times
+1591,4,WikiLeaks Releases Trove of Alleged C.I.A. Hacking Documents - The New York Times
+1592,1,With WikiLeaks Claims of C.I.A. Hacking, How Vulnerable Is Your Smartphone? - The New York Times
+1624,1,C.I.A. Scrambles to Contain Damage From WikiLeaks Documents - The New York Times
+1706,1,Intruder Gets Within Steps of White House - The New York Times
+1710,4,Trump Adviser Had Twitter Contact With Figure Tied to Russians - The New York Times
+1798,7,Russian Agents Were Behind Yahoo Hack, U.S. Says - The New York Times
+1799,1,Republicans, Syria, Geert Wilders: Your Wednesday Evening Briefing - The New York Times
+1805,1,Populists Appear to Fall Short in Dutch Election, Amid High Turnout - The New York Times
+1859,1,Opposing Views on What to Do About the Data We Create - The New York Times
+1911,2,F.B.I. Is Investigating Trump’s Russia Ties, Comey Confirms - The New York Times
+2026,1,Congress Moves to Strike Internet Privacy Rules From Obama Era - The New York Times
+2042,20,North Korea’s Rising Ambition Seen in Bid to Breach Global Banks - The New York Times
+2136,10,None of Us Are Safe From Getting ‘Owned’ - The New York Times
+2362,1,Hillary Clinton Says Russia Used Hacking ‘to Great Effect’ in Her Defeat - The New York Times
+2497,1,After Campaign Exit, Manafort Borrowed From Businesses With Trump Ties - The New York Times
+2738,1,China Quietly Targets U.S. Tech Companies in Security Reviews - The New York Times
+2837,1,Treasury Imposes Sanctions on North Korea, Cutting Access to Banks - The New York Times
+2879,1,Branded a ‘Terrorist’ for Reporting Two Sides of Ukraine’s War - The New York Times
+2938,14,The Chinese Hackers in the Back Office - The New York Times
+2953,3,A Computer Security Start-Up Turns the Tables on Hackers - The New York Times
+2972,1,How China Won the Keys to Disney’s Magic Kingdom - The New York Times
+3045,5,Chinese Curb Cyberattacks on U.S. Interests, Report Finds - The New York Times
+3198,1,On Hillary Clinton’s Rough Day, Republicans Rue Missed Chance - The New York Times
+3210,3,Hillary Clinton’s Email Was Probably Hacked, Experts Say - The New York Times
+3384,4,Is D.N.C. Email Hacker a Person or a Russian Front? Experts Aren’t Sure - The New York Times
+3397,2,Did Putin Try to Steal an American Election? - The New York Times
+3413,1,Clinton’s Portrayal of Trump as Dictator Aims at the Left and Right - The New York Times
+3430,1,Donald Trump Reaffirms Support for Warmer Relations With Putin - The New York Times
+3465,2,Bitcoin Plunges After Hacking of Exchange in Hong Kong - The New York Times
+3499,1,Why Self-Help Guru James Altucher Only Owns 15 Things - The New York Times
+3661,1,More of Kremlin’s Opponents Are Ending Up Dead - The New York Times
+3712,4,New York Times’s Moscow Bureau Was Targeted by Hackers - The New York Times
+3717,1,Italy, U.S. Presidential Race, Syria: Your Wednesday Evening Briefing - The New York Times
+3724,2,Hackers Publish Nude Pictures on Leslie Jones’s Website - The New York Times
+3745,4,IPhone Users Urged to Update Software After Security Flaws Are Found - The New York Times
+3805,1,A Silicon Valley Dream Collapses in Allegations of Fraud - The New York Times
+3816,1,How Russia Often Benefits When Julian Assange Reveals the West’s Secrets - The New York Times
+3902,1,Donald Trump’s Campaign Stands By Embrace of Putin - The New York Times
+3954,1,Value-Seekers Warm to a $450 Annual Credit Card Fee - The New York Times
+3964,8,Simone Biles and Williams Sisters Latest Target of Russian Hackers - The New York Times
+3978,1,U.S. Presidential Race, Colin Powell, Carla Hayden: Your Wednesday Evening Briefing - The New York Times
+4033,1,After Bombings, Hillary Clinton and Donald Trump Clash Over Terrorism - The New York Times
+4039,1,Emmy Awards 2016: Emmys Welcome Surprises Along With the Favorites - The New York Times
+4073,6,Yahoo Says Hackers Stole Data on 500 Million Users in 2014 - The New York Times
+4080,2,Email Hack Details Movements of Joe Biden, Michelle Obama and Hillary Clinton - The New York Times
+4091,1,California Today: Should We Ban Plastic Bags? - The New York Times
+4111,13,Hackers Trawl User Data in Hopes a Small Target Will Lead to a Big One - The New York Times
+4218,1,Yahoo Said to Have Aided U.S. Email Surveillance by Adapting Spam Filter - The New York Times
+4224,3,Maria Sharapova Claims Victory and Goes on the Offensive - The New York Times
+4248,1,U.S. Says Russia Directed Hacks to Influence Elections - The New York Times
+4265,4,What Options Does the U.S. Have After Accusing Russia of Hacks? - The New York Times
+4299,1,Obama Considers ‘Proportional’ Response to Russian Hacking in U.S. Election - The New York Times
+4348,1,Issues in Hillary Clinton’s Past Leave Her Muted in Furor Over Donald Trump - The New York Times
+4351,1,Hacked Transcripts Reveal a Genial Hillary Clinton at Goldman Sachs Events - The New York Times
+4389,2,A New Era of Internet Attacks Powered by Everyday Devices - The New York Times
+4397,1,Donations to Foundation Vexed Hillary Clinton’s Aides, Emails Show - The New York Times
+4718,1,U.S. Officials Defend Integrity of Vote, Despite Hacking Fears - The New York Times
+4836,1,Trump Adviser Has Pushed Clinton Conspiracy Theories - The New York Times
+4867,1,Man Who Hacked Celebrities’ Email Accounts Gets 5 Years in Prison - The New York Times
+4897,2,Russian Hackers Acted to Aid Trump in Election, U.S. Says - The New York Times
+4905,8,Foes of Russia Say Child Pornography Is Planted to Ruin Them - The New York Times
+4911,2,Trump, Mocking Claim That Russia Hacked Election, at Odds with G.O.P. - The New York Times
+4924,1,Trump Links C.I.A. Reports on Russia to Democrats’ Shame Over Election - The New York Times
+4968,3,Yahoo Says 1 Billion User Accounts Were Hacked - The New York Times
+4985,9,U.S. Faces Tall Hurdles in Detaining or Deterring Russian Hackers - The New York Times
+5103,1,Intent on Unsettling E.U., Russia Taps Foot Soldiers From the Fringe - The New York Times
+5146,3,3 Men Made Millions by Hacking Merger Lawyers, U.S. Says - The New York Times
+5179,9,How Russia Recruited Elite Hackers for Its Cyberwar - The New York Times
+5406,1,Orlando, Donald Trump, Net Neutrality: Your Tuesday Evening Briefing - The New York Times
+5407,4,D.N.C. Says Russian Hackers Penetrated Its Files, Including Dossier on Donald Trump - The New York Times
+5438,1,What You Should Watch: ‘Greenleaf’ and ‘Thirteen’ - The New York Times
+5449,3,Mark Zuckerberg Covers His Laptop Camera. You Should Consider It, Too. - The New York Times
+5614,1,Review: In ‘Jason Bourne,’ a Midlife Crisis for a Harried Former Assassin - The New York Times
+5710,7,Hacker Releases More Democratic Party Documents - The New York Times
+5726,1,Louisiana, Simone Biles, U.S. Presidential Race: Your Tuesday Evening Briefing - The New York Times
+5737,3,‘Shadow Brokers’ Leak Raises Alarming Question: Was the N.S.A. Hacked? - The New York Times
+5801,7,Harry Reid Cites Evidence of Russian Tampering in U.S. Vote, and Seeks F.B.I. Inquiry - The New York Times
+5822,2,Trying to Smoke Out the Players in the Hacking of the D.N.C. - The New York Times
+5837,1,Tim Kaine Compares Donald Trump’s Comments on Russian Hacking to Watergate Scandal - The New York Times
+5918,1,Donald Trump Clung to ‘Birther’ Lie for Years, and Still Isn’t Apologetic - The New York Times
+6086,5,U.S. Athletes Reassured After New Russian Hack - The New York Times
+6130,1,Investigating Donald Trump, F.B.I. Sees No Clear Link to Russia - The New York Times
+6383,1,Donald Trump, Russia, Dylann Roof: Your Weekend Briefing - The New York Times
+6405,1,Donald Trump, Aleppo, Yahoo: Your Wednesday Evening Briefing - The New York Times
+6406,2,Russia and the U.S. Election: What We Know and Don’t Know - The New York Times
+6504,1,Donald Trump, After Dismissing Hacking, Agrees to an Intelligence Briefing - The New York Times
+6505,2,Obama Strikes Back at Russia for Election Hacking - The New York Times
+6524,5,F.B.I. Says It Needs Hackers to Keep Up With Tech Companies - The New York Times
+6634,1,Donald Trump Returns Fire, Calling Hillary Clinton a ‘World-Class Liar’ - The New York Times
+6825,1,Chinese-Canadians Fear China’s Rising Clout Is Muzzling Them - The New York Times
+6874,2,Hillary Clinton, Syria, World Anti-Doping Agency: Your Tuesday Evening Briefing - The New York Times
+6923,1,In Hacked Audio, Hillary Clinton Rethinks Obama’s Nuclear Upgrade Plan - The New York Times
+6926,1,Roy Moore, U.S. Presidential Race, ‘Deepwater Horizon’: Your Friday Evening Briefing - The New York Times
+7010,2,Russia Prepares to Block LinkedIn After Court Ruling - The New York Times
+7092,1,The Best TV Shows of 2016 - The New York Times
+7106,1,Donald Trump, Russia, Aleppo: Your Friday Evening Briefing - The New York Times
+7273,1,Email Case May Complicate Clinton Aides’ Pursuit of Security Clearance - The New York Times
+7374,1,Donald Trump, the Unsinkable Candidate - The New York Times
+7454,1,Facebook Said to Create Censorship Tool to Get Back Into China - The New York Times
+7461,3,One by One, ISIS Social Media Experts Are Killed as Result of F.B.I. Program - The New York Times
+7495,6,Democratic House Candidates Were Also Targets of Russian Hacking - The New York Times
+7498,1,Pageant Silences Beauty Queen, a Critic of China, at U.S. Contest - The New York Times
+7504,1,All This Talk of Voter Fraud? Across U.S., Officials Found Next to None - The New York Times
+7538,4,Details Emerge on Global Bank Heists by Hackers - The New York Times
+7545,3,Panama Papers May Inspire More Big Leaks, if Not Reform - The New York Times
+7632,1,Did You Miss the Presidential Debate? Here Are the Highlights - The New York Times
+7644,3,Russian Olympic Chief to Step Down Putin Hints at Other Changes - The New York Times
+7684,1,Why Russia’s Cyberattack Wasn’t Stopped - The New York Times
+7695,1,Trump Gets an Opening from Russia, but the Path Is Risky - The New York Times
+7748,1,Presidential Debate: Here’s What You Missed - The New York Times
+7891,1,Kellyanne Conway: Obama’s Russia Sanctions Meant to ’Box In’ Donald Trump - Breitbart
+7940,5,Fix Is In: House Committee on ’Russian Hacking’ Includes Only DNC-Hired Tech Experts
+8034,1,Fake News! Newsweek Continues War on Steve Bannon by Inventing Russia ‘Ties’
+8495,1,Facebook Introduces Anti-Revenge Porn Program - Breitbart
+8555,1,Ars Technica: ’Russian Hacking’ Report Underwhelms
+8561,4,WikiLeaks Claims CIA Lost Control of ’Hacking Arsenal’ - Breitbart
+8642,1,Cost of Target’s Data Breach Nearing $300 Million
+9359,3,Disney Refuses Ransom to Hackers Who Stole ‘Pirates of The Caribbean’ - Breitbart
+9806,1,Fortune: $141M to Yahoo’s Marissa Mayer Despite SEC Investigation
+9819,1,Franklin Graham: Donald Trump Won Election by the ‘Hand of God’
+10020,1,Zumwalt: Obama’s Russian Hacking Shell Game - Breitbart
+10246,1,Elizabeth Warren: The Left’s Progressive Political Flip-Flopper - Breitbart
+10442,1,German Local Authorities Halt Pro-Erdogan Islamist Rallies
+10678,9,North Korean Hackers Suspected of ‘WannaCry’ Ransomware Attack - Breitbart
+10765,1,Google Facebook Swindled Out of $100 Million in Lithuanian Phishing Scam - Breitbart
+10798,1,Total Vetting Fail: Left-Wing Snowden Fan Girl Reality Winner Gets Access to Our NSA Secrets
+11006,14,Top 15 Things to Know About the ’WannaCry’ Global Ransomware Hacker Attack
+11040,3,Hacker Vandalizes Harvard Newspaper Site to Troll Mark Zuckerberg - Breitbart
+11126,5,Hackers Demand Ransom Payment from Disney over Stolen Copy of ’Pirates of the Caribbean 5’
+11215,1,Report: Microsoft Withheld Free Cyber Attack Patch, Charged Old Software Users Instead - Breitbart
+11234,2,4 Unanswered Questions Surrounding Murdered DNC Staffer Seth Rich - Breitbart
+11326,1,NBC Attacks Trump for Switching to iPhone for Security Reasons - Breitbart
+11400,2,Washington Post’s Fake News of Russian Vermont Power Plant Hack
+11856,1,Popular Pro-Trump Account ’Pizza Party Ben’ Suspended by Twitter - Breitbart
+12088,3,DNC ’Russian Hacking’ Conclusion Comes from Google-Linked Firm
+12538,1,Macron Campaign Hacked, Huge Cache of Files Dumped Online
+12626,1,WikiLeaks: CIA Hackers Want to Take Control of Your Car - Breitbart
+12866,3,‘Shadow Brokers’ Threaten to Release More Stolen NSA Cyber Weapons - Breitbart
+13435,2,WikiLeaks: The CIA Can Covertly Activate Your Mobile Device’s Microphone, Bypass Encryption Apps - Breitbart
+13629,1,Netflix, ABC Hackers Taunt Studios: ’There’s Always More’ Leaks
+13683,1,FBI-DHS ’Russian Hacking’ Report Begins with Major Caveat
+13695,2,Report: Hacker Breaches ’Lazy’ FBI Website Security - Breitbart
+14161,3,Hack Impacts 23K in Texas School District
+14293,1,Tancredo on Sessions Flap: Democrats’ Ferocious Malevolence Matched by Congressional Republicans’ Cowardice - Breitbart
+14316,3,Hackers May Have Obtained Names of over 16,000 Florida Concealed Permit Holders
+14492,1,Microsoft Blames Global Cyberattack on Leaked NSA Code, Warns U.S. Government over Cyberweapons - Breitbart
+14507,1,Expert: Obama Hacking Report Makes Him Question Whether DHS, FBI ’Know What They Are Doing’ - Breitbart
+14675,1,Huffington Post Contributor: Hillary Clinton’s Failure to Win Even 20 States Means She Is ‘Legitimate President-Elect’ - Breitbart
+14757,4,’Orange Is The New Black’ Hackers Target ABC - Breitbart
+14943,1,Big Sean Raps About Murdering Donald Trump on New York Radio
+15020,1,Gaffney: Media Engaged in ’Concerted Effort by the Enemies of This President to Destroy Him’ - Breitbart
+15055,1,Mike Pompeo: Attempts to Invalidate Trump’s Presidency Plays into Putin’s Hands - Breitbart
+15220,2,Hackers Strike 74 Countries With Stoled NSA Hacking Tool
+15248,2,Greenwald: WaPo Story of Russia Hacking U.S. Electric Grid Completely False - Breitbart
+15490,1,Julian Assange: WikiLeaks Info On Trump No Worse Than What He Says Publicly - Breitbart
+15505,5,Hacker Uploads Gay Porn to Islamic State Twitter Accounts - Breitbart
+15599,1,Hacked! Clinton Campaign Admits Campaign Data Compromised
+15609,1,Social Media Society, Not Daily Beast, Should be Shamed
+15746,1,State Dept. Turned Off Security Features on Hillary Clinton’s Homebrew Email Server - Breitbart
+15788,2,Hackers Using Facebook Quizzes to Harvest Personal Data - Breitbart
+16024,3,10 Ways the CIA ’Russian Hacking’ Story is Left-Wing ’Fake News’
+16036,1,Wikileaks Mocks Clinton Campaign’s Russia Conspiracy Theories - Breitbart
+16203,2,Donald Trump Asks Hackers To Release Emails, Not to Hack Again - Breitbart
+16382,1,Clinton and DNC at Risk for Campaign Finance Violations
+16410,6,Federal Gov’t Says Hackers Probe 20 States’ Electronic Voting Systems - Breitbart
+16695,1,Report: Verizon Seeks $1 Billion Discount on Yahoo Purchase Following Company Scandals - Breitbart
+17092,3,Reuters: FBI Probes FDIC Hack Linked to China’s Military - Breitbart
+17240,1,Yahoo Admits It Knew About Security Breach in 2014 - Breitbart
+17272,2,***Horse Race LiveWire*** The Ides of March - Breitbart
+17347,1,John Fund: ‘If Hillary Wins, We’ll Have a Potential Blackmail Target in the White House’ - Breitbart
+18000,1,Aaron Swartz’ Warning That Social Media Companies Could Censor The Net Rings Truer Than Ever - Breitbart
+18259,1,***Dem. Convention LiveWire*** Wasserman Schultz Jeered on ’United Together’ Day - Breitbart
+18278,2,U.S. Had Cyberattack Ready for Iran If Nuclear Deal Failed
+18316,1,North Korea Suffers Massive Internet Outage as Panama Papers Story Breaks - Breitbart
+18349,1,Peter Schweizer: Insecure Left Wants to Blame Their Loss on Russian Hackers
+18373,1,EXCLUSIVE: Hillary Clinton Posted Names of Hidden Intelligence Officials On Her Email - Breitbart
+18560,1,Prof. Banzhaf: ‘We Are Heading into a Perfect Storm’ of Election Fraud
+18631,1,Parental Basement Dwellers: Hillary Clinton Criticizes Bernie Sanders Voters for Having ’Bought into False Promise’ - Breitbart
+18706,1,Sources: Russian Government Intercepted and Will Release Hillary’s Emails - Breitbart
+18746,1,Evidence In Child Porn Case Thrown Out Because FBI Won’t Disclose Hacking Methods - Breitbart
+18767,2,German Bouncer: Girls No Longer Go Out Drinking Alone At Night
+18852,1,Vox: ’Media Obsession with a Bulls**t Email Scandal’ Helped Donald Trump Win - Breitbart
+19031,2,Hillary Clinton: I Did Not Know What the Email Issue Was All About - Breitbart
+19046,2,Hillary’s Non-Secure Blackberry Had ’Vulnerability’ On China Trip - Breitbart
+19114,1,FNC’s Wallace Shuts Down Dem Rep’s ’Red Herring’ Comparison of Powell to Hillary on Email - Breitbart
+19242,1,Peter Schweizer: Media Won’t Ask Questions About ’Clinton Cash’ Because They’re Afraid of the Answers - Breitbart
+19266,4,AP: Hillary Clinton Emails ’Could Have Compromised CIA Names’ - Breitbart
+19332,1,Stein Vows Appeal After Obama-Appointed Judge Shuts Down Recount
+19371,1,Clinton Supporters Hosting Hillary Fundraiser at Hacking Convention - Breitbart
+19426,3,EXCLUSIVE - NSA Whistleblower: Clinton Email Server Was ‘Open To Being Hacked By Anybody’ - Breitbart
+19592,1,White House: Republican Calls For IRS Commissioner To Resign ‘Ridiculous’ - Breitbart
+19681,3,Jack Black Hacked: Actor ’Alive and Well’ After Death Hoax - Breitbart
+19721,1,12 Fake News Stories from the Mainstream Media
+19739,3,Mark Zuckerberg Social Media Accounts Hacked - Breitbart
+19907,2,’Dark Web’ Sold 1 Billion Yahoo User Hack Data Many Times - Breitbart
+19948,1,Hillary Will Have Trouble Arguing Trump Is ‘Reckless’ After FBI Director Revealed Gmail Accounts More Secure than Her Private Email Server - Breitbart
+19959,4,Prof. John Banzhaf: Hackers Can Sabotage 2016 Election Without Changing Ballots
+20076,1,Former House Intelligence Chairman: I’m ’100 Percent’ Sure Hillary’s Server Was Hacked - Breitbart
+20125,3,Jason Miller Dismisses Question on Russian Hacking: ’Most People Are Getting Tired of That’ - Breitbart
+20189,1,An Establishment Conservative’s Guide To The Alt-Right - Breitbart
+20275,1,Hacker Guccifer: Clinton’s Server Unprotected, ’Like an Open Orchid’ - Breitbart
+20393,1,Farage: Remoaners Blaming Russia Have Reached New Low
+20434,1,WikiLeaks, Video: Hillary Clinton Touts H-1B White-Collar Outsourcing Program - Breitbart
+20449,2,147 FBI Agents Working on Hillary Clinton’s Email Investigation - Breitbart
+20451,1,Government Tells Windows Users to Delete QuickTime Due to Hacking Vulnerability - Breitbart
+20832,1,If Hillary Wins: Bill to Exit Foundation, Promises No More Paid Speeches, Will Host Final CGI Awards
+20870,2,Hillary Clinton’s Server Was ‘an Open Orchid’ with ‘Hundreds of Folders,’ Says Hacker - Breitbart
+20878,1,Conspiracy Hillary: ‘No Doubt In My Mind’ Putin Trying To Hack Presidential Election - Breitbart
+21022,1,CNN’s David Gergen Embarrasses Himself: Falsely Claims Clinton Cash ‘Discredited’ - Breitbart
+21189,3,Ransomware Prompts Victims to Infect a Friend to Avoid Paying - Breitbart
+21536,1,James Pinkerton: Franklin D. Roosevelt’s Four Freedoms Are from 1941: We Need New Freedoms in the 21st Century  - Breitbart
+21713,1,Nancy Pelosi Memo: Obama’s Iraq Withdrawal Created Islamic State - Breitbart
+21723,1,DNC Staffers Conspired Against Sanders, Using His Religion, Leak Shows - Breitbart
+21742,1,Hiding Hillary Day 273: Fallout from the FBI Release - Breitbart
+22122,1,Breitbart News Daily: The VP Debate - Breitbart
+22457,1,Trump Protest Disrupted by Troll Changing the Facebook Invite
+22738,1,Erik Prince: NYPD Ready to Make Arrests in Anthony Weiner Case
+22860,1,WikiLeaks: Podesta Email Contains Transcripts of Hillary Clinton’s Goldman Sachs Speeches - Breitbart
+23105,1,Hacker Docs Show DNC Allied With Hillary Clinton Against Bernie Sanders - Breitbart
+23111,2,Report: 65 Million Passwords Stolen from Tumblr in Hack - Breitbart
+23162,1,Politico: ‘States Unprepared for Election Day Cyber Attack’
+23211,1,John Podesta Hacked on Twitter: ’Vote Trump 2016’ - Breitbart
+23222,1,Gorka: Comey Revelations Show Hillary Vulnerable to Blackmail By Foreign Governments - Breitbart
+23271,1,Media Try to Aid Clinton on Trump, Russia Hackers, Hillary Emails
+23469,1,Trump: ’We Have To’ Open Up San Bernardino Attacker’s Phone - Who Does Apple Think It Is? - Breitbart
+23547,1,Report: Weiner Caught Sexting Again ’Catfished’ by Republican Man - Breitbart
+23558,1,Dear Hillary: DNC Hack Solved, So Now Stop Blaming Russia
+23613,6,Zuckerberg Gets Hacked, Turns Out to Have Really Lame Password - Breitbart
+23825,1,Cheryl Mills Testifies: Hillary Clinton’s Emails Were NOT Available For FOIA Requests - Breitbart
+23948,3,Jim Hanson: CIA’s ’Politicized Intelligence’ About Russia Hacking the Election Is ’Kind of a Joke’
+24148,1,***Live Updates*** Trump vs. Clinton, Round One - Breitbart
+24369,1,Sarah Silverman’s Twitter Account Hacked with Anti-Hillary Clinton Video - Breitbart
+24722,1,Blue State Blues: The Purpose of Liberal Paranoia - Breitbart
+25038,3,Nancy Pelosi Complains of ’Sick Phone Calls’ After Hack
+25357,1,FBI Taps Israeli Software Firm to Crack the iPhone - Breitbart
+25409,5,Congress Warned About Russian Hackers Targeting DNC a Year Ago
+25590,5,Russians Hacked The DNC’s Files On Donald Trump - Breitbart
+25601,3,’Glitch’: Months’ Worth of Emails from Top Deputy Failed to Reach Hillary Clinton’s Inbox
+25654,1,Pentagon Warns Chinese Computer Parts May Compromise Cyber-Security
+25833,5,Morgan Wright: Hackers Have Emails from Hillary Clinton’s Server
+25859,1,Exclusive: Green Party Candidate Jill Stein Questions Hillary’s Judgement After FBI Release - Breitbart
+26022,1,Twitter Allows Saudi Group To Promote Tweet Defending Yemen Intervention - Breitbart
+26070,1,How Clinton’s Russia Conspiracy Theory Could Nullify the Vote
+26113,1,Flashback: When the Clintons Loved Russia Enough to Sell Them Our Uranium - Breitbart
+26365,3,Rash of Cyber Attacks on Texas School District Worries Some Parents
+26516,2,Twitter Co-Founder Evan Williams Hacked - Breitbart
+26670,1,DNC Feared Russia-Uranium Clinton Foundation Scandal
+26797,1,Paul Ryan Backs President Obama’s Sanctions Over Alleged Russian Hacks - Breitbart
+27043,1,Hillary Clinton Jeopardized President’s Email with Direct Contact Overseas - Breitbart
+27074,3,’Watch Dogs 2’ Review: A Competent but Cringeworthy Open-World Adventure - Breitbart
+27147,1,46 States Now Asking Feds for Help Monitoring Electronic Voting Systems - Breitbart
+27302,3,FBI: State Election Boards Were Hacked - Breitbart
+27495,1,Islamic State Creates Its Own Secure Messaging App - Breitbart
+27804,5,FBI Director James Comey: Put Tape Over Your Webcams, America - Breitbart
+27930,1,WATCH: Firm Demonstrates Ease of Hacking a Voting Machine - Breitbart
+27935,7,Former DOJ Official: Email Case Against Hillary Clinton ’Stinks To High Heaven’ - Breitbart
+27948,1,Clinton Campaign Manager: Experts Saying Russia Leaked DNC Emails to Help Elect Trump - Breitbart
+28093,1,Twitter Reinstates DNC Hacker Guccifer 2.0 Following Breitbart Report - Breitbart
+28339,2,FBI Made 5 Damning Claims About Hillary’s Emails, No Indictment
+28451,1,Jason Miller: Narrative on Russian Hacking an ’Attempt to try to Delegitimize President-elect Trump’s Win’ - Breitbart
+28455,2,Wikileaks: Hillary IT Team Deemed Phishing Attempt ’Legitimate’ - Breitbart
+28475,1,Yahoo Confirms Huge Data Breach Affecting 500 Million Accounts - Breitbart
+28573,1,Obama Sanctions Russia over Unproven Hacking Claims - Breitbart
+28627,1,9 Scapegoats Progressives Blame for Hillary Clinton’s Stunning Loss - Breitbart
+28680,1,AP: Hillary Clinton Destroyed Gov’t Email, Wiped Names From Her Calendar - Breitbart
+28753,1,The Nuclear Option: All the Fake News That’s Fit to Print! - Breitbart
+28824,3,Obama Introduces National Hacker-Defense Plan - Breitbart
+28894,2,13 Times Hillary Clinton Mirrored Hacked DNC Anti-Trump Playbook In One Speech - Breitbart
+29033,2,Obama: Let Big Brother In If You Want Online Protection - Breitbart
+29054,2,White British Woman Turned ’Most Wanted’ Jihadi Is Training Girls To Attack The West
+29171,1,Secret DNC Memo: Hillary Vulnerable on Clinton Foundation
+29300,1,Marijuana Gas Mask and Other Drama Sinks Laremy Tunsil at NFL Draft - Breitbart
+29378,1,John Bolton: Putin Would Rather Face ‘Weak and Indecisive’ Clinton Than ‘Strong Figure’ like Trump
+29385,1,Report–Clinton Campaign: NYT’s Maggie Haberman ’Friendly Journalist’ Who ’Never Disappointed’ - Breitbart
+29469,3,Critics Say Russian Hacking Story Driven by Hidden Agendas
+29516,1,Huffington Post Silent on Leaked DNC Clinton Documents - Breitbart
+29679,4,U.S. Government Hackers Threaten to Intervene in Election Over ’Russia’ Suspicions - Breitbart
+29882,2,FBI Investigate Potential Hack of DNC Staff Cell Phones - Breitbart
+29927,1,Clinton Advisers Blame Huma Abedin, Inner Circle for Loss - Breitbart
+29983,8,Russians Also Tried to Hack Republican National Committee, and Failed - Breitbart
+30153,1,Conway: White House ’Incredibly Irresponsible’ for Suggesting Trump Knew of Russian Hacking - Breitbart
+30181,2,’Ghostbusters’ Actress Leslie Jones Hacked, Nude Photos Leaked - Breitbart
+30396,1,Bloomberg’s Joshua Green: Clinton Foundation Foreign Cash Ban ’Win for Peter Schweizer’ - Breitbart
+30473,1,Top Clinton Aide Made Fun Of Clinton Donor’s ’Sensitive Info’ Appointment - Breitbart
+30643,1,The Nuclear Option: If Bill Clinton Had a Son, He Would Look Like Anthony Weiner - Breitbart
+30755,2,8 Times Hillary Clinton Pushed Fake News
+30826,1,Twitter Suspends Hacker Guccifer 2.0 After He Hacks Congressional Democrats - Breitbart
+30889,1,Smart TVs with Webcams Vulnerable to Online Peeping Toms - Breitbart
+30975,3,Clinton Foundation Fears It Was Hacked, Hires Cyber Security Firm - Breitbart
+31100,5,Democratic Hacker Horror: Cellphone Numbers, Personal Email Addresses of Congressional Democrats Released - Breitbart
+31214,1,The Intercept: Wikileaks ’Prove Coordination Between Clinton Campaign and Super PACs’ - Breitbart
+31227,5,George Soros Foundation Seeking to Expand U.S. Online Voting
+31571,2,FBI to Interview Hillary Clinton’s Top Aides in Email Investigation - Breitbart
+31573,1,Deray Mckesson Hacked On Twitter, ’Endorses’ Donald Trump - Breitbart
+31592,5,US utility: Alleged Russian malware on laptop
+31643,1,Conway defends Trump over hacking statements
+31717,1,CNN 10 - January 6, 2017
+31735,1,Putin’s ’act of war’ against American democracy
+31741,1,Why proving source of a cyberattack is so damn difficult
+31834,8,How to protect the Internet
+31844,1,Trump’s CIA pick: Russian hacking ’aggressive action’
+32131,1,Pompeo confirmed as CIA chief
+32389,1,Hong Kong’s M+ Museum examines Asia’s shifting design objectives
+32741,1,Trump’s Russia crisis is just beginning
+33124,1,Russia mystery threatens to consume Washington
+33216,2,WikiLeaks Fast Facts
+33221,3,Federal criminal probe being opened into WikiLeaks’ publication of CIA documents
+33258,3,Ukraine seeks probe of hacked Manafort texts
+33279,1,Intruder breaches White House grounds, arrested near residence entrance
+33361,2,Republicans lose patience with FBI on Russia, Trump campaign ties information
+33380,1,Email hack suspect showed off the good life
+33392,7,Russian bank claims effort to frame it for connections to Trump Organization
+33621,2,Senate Russia hearing: Rubio divulges hack attempts
+33624,1,Obama administration under scrutiny for its response to Russia’s meddling
+33647,1,The only 4 things you need to know about Trump and Russia
+33837,1,Hacker sets off emergency alarms, frightening Dallas residents
+34479,1,French election results: Macron defeats Le Pen
+34526,1,Who is Keith Schiller, the man Trump sent to fire Comey?
+34588,1,Trump: It’s ’not possible’ for surrogates to be accurate all the time
+34946,6,Who’s who in Trump-Russia saga
+35148,8,Putin: ’Patriotic’ Russian hackers may have targeted US election
+35181,1,Putin speaks out on election meddling and more
+35209,1,Contractor charged with leaking classified NSA info on Russian hacking
+35229,1,What we know about Reality Winner
+35239,4,CNN Exclusive: US suspects Russian hackers planted fake news behind Qatar crisis
+35268,1,Trump reverses course in Qatar call
+35300,1,Russia hacked ’every day’ from US territory, Kremlin says
+35330,1,Trump: Qatar must stop funding terrorism
+35760,1,Propaganda film project backfires on North Korea
+35764,3,CNN’s Reality Check Team vets Trump’s claims
+35995,1,Trump campaign defends tweet as a ’basic star’ in wake of criticism
+36239,1,’Jason Bourne’: Who will follow Matt Damon?
+36430,1,Day 2 of GOP convention speeches: CNN vets the claims
+36528,3,Is Russia trying to influence U.S. election?
+36529,1,Bernie Sanders: ’I am proud to stand with her’
+36539,8,Sources: US officials warned DNC of hack months before the party acted
+36543,1,DNC hack roils Philly convention
+36550,2,Obama: ’Possible’ Putin trying to sway vote for Trump
+36592,7,Feds probing Clinton campaign hacking
+36600,1,Was Hillary Clinton a good secretary of state?
+36623,1,Assange: ’We have more material related to the Hillary Clinton campaign’
+36673,3,Assange won’t say whether Russia behind DNC hack
+36698,1,Obama says Trump ’unfit’ for presidency
+36875,1,Newly released Clinton emails shed light on relationship between State Dept. and Clinton Foundation
+36914,3,Nancy Pelosi: DNC hack is ’electronic Watergate’
+36938,6,Hacker releases cell phone numbers, personal emails of House Democrats
+36971,4,Nancy Pelosi: DCCC hacking brought on ’obscene and sick calls’
+37159,1,Foundation becomes campaign issue
+37191,2,FBI investigating Russian hack of New York Times reporters, others
+37309,3,Experts: China cyber spies may be watching you
+37333,8,Officials: Hackers breach election systems in Illinois, Arizona
+37579,1,Real reason Wells Fargo scheme is scary
+37705,1,GOP congressman: I ’misspoke’ when I said RNC was hacked
+37713,3,Powell: Trump is ’an international pariah’
+37715,1,Centcom commander: ’Trust deficit’ with Russia
+37908,3,Russian intelligence agencies behind US election hacks, lawmakers say
+37934,2,Pippa Middleton photo hack: Man arrested
+37956,1,FBI releases notes from Clinton email investigation
+38021,3,FBI investigating possible hack of Democratic Party staffer cell phones
+38052,3,FBI director: Hackers ’poking around’ voter systems
+38230,1,DOJ: Government contractor stole secret intelligence
+38266,2,WikiLeaks posts apparent excerpts of Clinton Wall Street speeches
+38267,2,US accuses Russia of trying to interfere with 2016 election
+38447,1,Why Putin fears a Clinton presidency
+38567,2,What’s the biggest threat on Election Day?
+38569,2,Timeline of Hillary Clinton’s email scandal
+38608,1,Is the Obama coalition finished?
+38803,1,Sorority-girl vigilantes break ’good girl/bad guy’ taboos
+38826,1,Obama’s counterterrorism adviser on threats facing Trump administration
+38889,1,Can you spot the invisible man?
+38936,1,What ’Moana’ gets right
+39059,2,Wisconsin officials OK speedy recount, defend tally
+39128,1,Trump national security pick once wrote Chelsea Manning should be tried for treason, executed if guilty
+39300,1,Obama orders review of Russian election-related hacking
+39320,1,Official: Probe ’solely about lessons learned’ on foreign hacking
+39321,1,Spicer casts doubt on Intel of Russian hacking
+39323,1,Graham: Russia’s ’trying to undermine democracies’
+39349,2,Gap on Russia hacking conclusions between intelligence, FBI
+39365,1,Trump’s shockingly honest approach to Putin
+39378,1,Russia hacked GOP groups, US intel believes
+39381,1,Russian hacking and 2016 election, explained
+39386,2,Why the Obama administration didn’t respond earlier to Russian hacks
+39407,1,Corker plans to launch new Russia hacking inquiry
+39448,1,Mitch McConnell Fast Facts
+39451,2,Intel analysis shows Putin approved election hacking
+39474,1,Russian hacking activity continues unabated
+39517,1,Five enduring mysteries about Trump’s victory
+39519,1,Priebus to CIA: ’Stand in front of a camera and make the case’
+39523,1,Gates on Tillerson and Russia: ’Being friendly doesn’t make you friends’
+39599,1,’America First’ makes America last
+39687,12, 2016 Presidential Campaign Hacking Fast Facts
+39735,1,Obama puts Trump on the spot with Russia sanctions
+39761,2,Breaking down the Putin, Trump and Obama spy games
+39766,1,Franks walks back comments on Russia hacking
+39896,2,Get up to speed on the French terror attacks
+39928,2,Some military relatives review online life after threat
+40020,1,State of the Union: Obama’s Robin Hood turn
+40689,1,IRS scam costing victims $15 million
+41149,12,How Russians hacked the White House
+41184,1,Rand Paul admits to ’short temper’
+41859,1,IRS believes Russians are behind tax return data breach
+41923,6,IRS data theft not surprising (Opinion)
+42044,5,Experts: China might be building database of federal worker info
+42106,2,Is it time to panic over massive data breach?
+42164,4,Why the cyberattacks keep coming (Opinions)
+42328,1,Chasing the elusive Silicon Valley dream (Opinion)
+42401,1,The great unexplained Watergate mystery
+42510,2,Hackers successfully ground 1,400 passengers
+42514,4,U.S. government hack could actually affect 18 million
+42872,2,Can your smartphone tell you if you have depression?
+42912,5,Why hacking adultery site won’t stop cheaters
+43074,3,Vermont utility targeted by Russian hackers
+43154,2,Trump says he had ’constructive meeting’ with intelligence officials, emphasizes ’absolutely no effect on the outcome of the election’
+43158,1,US intel report devotes 7 pages to Russia Today’s role in influencing election outcome
+43185,2,CNN anchor confronts Trump adviser on Russia: ’How can you say that the hacking had no impact on the election?’
+43669,2,Yahoo is telling users that hackers may have accessed their accounts without passwords
+43912,5,Everyone is talking about WikiLeaks’ massive CIA data dump — here’s what’s going on
+43917,1,WikiLeaks’ dump of CIA hacking tools is ’devastating’ for the agency — but there may be an upside
+43936,3,Conservative media figures embrace wild WikiLeaks conspiracy theory that CIA hacked DNC, then framed Russia
+43965,2,WikiLeaks has joined the Trump administration
+43969,1,’There’s a lot more shoes to drop from this centipede’: McCain predicts further revelations about Trump’s ties to Russia
+44082,1,Hacked text messages allegedly sent by Paul Manafort’s daughter discuss ’blood money’ and killings, and a Ukrainian lawyer wants him to explain
+44111,1,Paul Manafort is at the center of the Trump-Russia investigation — here’s what you need to know about him
+44124,1,A trio of key Trump associates have taken a big step forward in the Russia investigation
+44149,3,A timeline of events that unfolded during the election appears to support the FBI’s investigation into Trump and Russia
+44158,2,Apple totally dissed WikiLeaks this week — here’s why
+44442,1,Hillary Clinton reportedly blamed everyone but herself for her humiliating defeat to Trump
+44530,1,The Russians are using ’a new style of attack’ against France’s frontrunner candidate
+44594,10,A hacker has leaked 10 stolen episodes of ’Orange Is the New Black’ season 5 after Netflix allegedly refused to pay ransom
+44603,1,Trump hints that the US may be sabotaging North Korea’s nuclear program
+44650,1,Comey successfully dodged the biggest question looming over the Trump-Russia probe
+44665,1,French presidential candidate Emmanuel Macron targeted in a ’massive’ computer hack
+44774,4,The spread of the massive cyberattack that hit 99 countries is slowing — but we still don’t know who’s behind it
+44802,4,Hackers are holding a Disney movie for ransom, according to CEO Bob Iger
+44883,3,UN investigators looking into North Korean sanctions are hit by ’sustained’ cyber attack
+44895,1,Sean Hannity slams ’phony hypocrites’ for attacking him after Fox News retracts Seth Rich story
+44935,1,Trump’s firing of FBI director James Comey continues to reverberate in ’Kremlingate’
+44949,1,Inside the stunning rise of the liberal conspiracy theorist
+45071,2,Top-secret NSA report: Russian hackers tried to breach US voting systems days before the election
+45076,3,Russian fake news may be behind the Middle East crisis involving a major US ally
+45077,1,How a 25-year-old government contractor gained access to the top-secret NSA document about Russian hacking
+45079,3,Top senator: The extent of Russia’s election attacks is ’much broader than has been reported’
+45147,1,’There are only two rules’ — Facebook explains how ’hackathons,’ one of its oldest traditions, is also one of its most important
+45239,1,Russia renewed 6 Trump trademarks while interfering in the 2016 election — 4 were approved on Election Day
+45320,5,Competition among cyber criminals is so fierce that they now have customer support, service guarantees, and other perks
+45339,1,The writers of hit show ’Mr. Robot’ want to make you paranoid about all the technology you use
+45400,1,’El Chapo’ may have made a security ’screw up’ that led to his capture
+45868,3,The hacked Hollywood hospital is not alone — schools and clinics across the country are increasingly being hacked for ransom
+45948,1,The IRS is warning taxpayers about a disturbing new scam
+45951,2,Meet Amelia Pond: ’Vice president of future Google relations with Apple’
+46099,1,For the first time, Mac users have to worry about malware that locks their computer and demands a ransom
+46230,1,The Anonymous attack on Donald Trump is setting off a hacker civil war
+46422,1,The FBI’s method for breaking into a locked iPhone will probably leak soon
+46997,1,Criminal hackers who locked computers and demanded ransoms suddenly apologized and unlocked everything
+47070,1,America’s nukes are still controlled by 8-inch floppy disks
+47411,1,Facebook CEO Mark Zuckerberg puts tape over his laptop camera
+47454,3,Here’s why Mark Zuckerberg puts tape over his laptop camera
+47607,3,AP FACT CHECK: Hillary Clinton’s claims about her emails collapsed under the FBI investigation
+47899,3,The Clinton campaign’s computer network was hacked in the wider cyber attack against Democratic organizations
+47905,2,Hackers attacked Vietnam’s two biggest airports and displayed images about the South China Sea
+47920,1,It turns out one of the most common ways of securing passwords is a bad idea
+48071,3,Here’s what happens when 20,000 hackers invade Las Vegas for a week of hacking, booze, and debauchery
+48094,2,The Russian cyberattack on the Democratic Party is getting ugly
+48132,6,Here’s why the supposed NSA ’hack’ is unlike anything we’ve ever seen before
+48158,7,New Snowden documents prove the hacked NSA files are real
+48182,2,Welcome to the ’self-driving car of finance’
+48184,2,The NSA hack proves Apple was right to fight the FBI
+48208,1,Tesla just announced a huge upgrade for the Model S and Model X
+48219,1,Tesla just made its Model S the fastest new car you can buy
+48251,2,Google Cloud shut down this guy’s business — but now he’s a fan for life
+48253,1,Inside ’Pegasus,’ the impossible-to-detect software that hacks your iPhone
+48264,1,The Democrats are failing Obamacare
+48387,5,The greatest threat to American democracy isn’t technical, security experts say — it’s psychological
+48399,1,Tim Kaine tears into ’self-obsessed’ Donald Trump
+48435,1,’Silicon Valley is full of crazy people’ says programmer who just sold his company to join Stripe
+48619,2,In September, Yahoo told Verizon it hadn’t been hacked — but executives may have known for months
+48707,2,A Yahoo insider believes the hackers could really have stolen over 1 billion accounts
+48802,2,The US just publicly accused Russia of hacking for the first time — but fighting back could be a huge risk
+48848,2,Trump’s campaign keeps dismissing his controversial statements with the same defense
+48913,1,A group of engineers found a way to send a password through your skin
+48981,1,A massive cyberattack is taking down major websites across the internet
+48988,2,The internet is still actually controlled by 14 people who hold 7 secret keys
+48989,1,The massive cyberattack that hit the US hints at a new kind of cyberwarfare
+49004,1,A massive cyberattack knocked out major websites across the internet
+49036,1,Donald Trump calls for an investigation into Obama after latest WikiLeaks revelations
+49103,1,Putin’s chaos strategy is coming back to bite him
+49129,1,A Texas official is walking back an obscene tweet about Hillary Clinton
+49151,2,The US government is launching a massive effort to stop Russia from hacking the election
+49296,3,NSA CHIEF: A nation-state made a ’conscious effort’ to sway the US presidential election
+49309,1,4 steps towards faster, smarter factories
+49522,2,A 26-year old Bitcoin entrepreneur was handed prison time, and the experience only confirmed his belief in the cryptocurrency
+49636,1,Trump ended up expanding his win in Wisconsin by 131 votes after a much-hyped recount
+49660,2,IT HAPPENED AGAIN: Yahoo says 1 billion user accounts stolen in what could be biggest hack ever
+49666,2,Former Republican presidential candidate says Russia hacked his accounts, calls for ’crippling sanctions’ against Putin
+49688,1,Top US intelligence agency hints Electoral College briefing on Russian hacking won’t happen anytime soon
+49708,2,Why Trump’s assertion that hackers can’t be caught after an attack is wrong
+49713,1,’I’m asking you a simple question’: Fox News host confronts RNC chair over Trump’s denial of Russia hacks
+49799,1,Here’s what we think is going to happen in 2017
+49821,1,Hackers got into Sony Music’s Twitter account and claimed that Britney Spears had died
+49864,2,Don’t Read Too Much Into the Vermont Hack Debacle
+49885,2,Why Is Trump So Reluctant to Accept Claims of Russian Hacking?
+49911,1,Trump vs. the Spies
+49928,1,The Atlantic Daily: The Tangled Web
+49930,1,An Intelligence Report That Will Change No One’s Mind
+49931,9,Did Putin Direct Russian Hacking? And Other Big Questions
+49979,7,Trump’s Cyber-Appeasement Policy Might Encourage More Hacks
+49991,1,The Atlantic  Politics & Policy Daily: Back-to-Back Sessions

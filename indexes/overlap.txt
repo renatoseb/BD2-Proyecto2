@@ -1,0 +1,181 @@
+65,1,My Canada - The New York Times
+264,1,Immigrants Head to Washington to Rally While Obama Is Still There - The New York Times
+267,1,Proposed Football League Envisions a No-College Path to the Pros - The New York Times
+332,1,A Big Test for Big Batteries - The New York Times
+538,1,Judge Blocks Aetna’s $37 Billion Deal for Humana - The New York Times
+620,2,Elon Musk Has Trump’s Ear, and Wall Street Takes Note - The New York Times
+816,1,Soul-Searching at Clinton Foundation in Trump Era - The New York Times
+947,1,Steve Bannon Carries Battles to Another Influential Hub: The Vatican - The New York Times
+1093,1,David Oyelowo on How to Play a Real King - The New York Times
+1110,1,As a House Burns, Tenants’ Lives Flash Before Them - The New York Times
+1218,1,The Murky Future of Nuclear Power in the United States - The New York Times
+1307,1,Men, Is Exercise Putting a Damper on Your Sex Life? - The New York Times
+1372,1,The Anti-Trump Activist Taking On Retailers - The New York Times
+1381,1,And the Oscar Winners Will Be ... - The New York Times
+1574,1,Donald Trump, François Fillon, Erdogan: Your Tuesday Briefing - The New York Times
+1632,1,Talking Trumpism: A New Political Journal Enters the Fray - The New York Times
+1807,1,A New York Philharmonic Coup: Deborah Borda Is Named the New Leader - The New York Times
+1860,2,In Gorsuch, Conservative Activist Sees Test Case for Reshaping the Judiciary - The New York Times
+2137,1,Senate Intelligence Committee Leaders Vow Thorough Russian Investigation - The New York Times
+2173,2,U.S. War Footprint Grows in Middle East, With No Endgame in Sight - The New York Times
+2404,1,Ben Sasse Thinks Biden Would Have Won - The New York Times
+2493,1,Trump Faces the Limits of American Power - The New York Times
+2521,3,Why Americans Vote ‘Against Their Interest’: Partisanship - The New York Times
+3270,2,Philippines v. China: Q. and A. on South China Sea Case - The New York Times
+3478,1,Everyone Despises SolarCity Deal, Except Tesla Shareholders - The New York Times
+3496,1,Don’t Let Them Tell You You’re Not at the Center of the Universe - The New York Times
+3521,1,Think Tank Scholar or Corporate Consultant? It Depends on the Day - The New York Times
+3525,1,On the London Stage, Love Doesn’t Just Hurt, It Kills - The New York Times
+3541,1,Stress Over Family Finances Propelled Hillary Clinton Into Corporate World - The New York Times
+3542,1,Emails Renew Questions About Clinton Foundation and State Dept. Overlap - The New York Times
+3623,1,Mark Twain Found Inspiration in Germany (Though Not German) - The New York Times
+3677,1,Syria’s Horrors Visit Turkey Again as Bomber Attacks Kurdish Wedding - The New York Times
+3708,1,Brain Scans of Brazilian Babies Show Array of Zika Effects - The New York Times
+3909,1,There’s a Lot We Need to Talk About - The New York Times
+3996,1,Ralph Lauren Stops Traffic - The New York Times
+4026,1,Straightforward Answers to Basic Questions About Syria’s War - The New York Times
+4046,1,Sheldon Adelson Focuses on Congressional Races, Despite Donald Trump’s Pleas - The New York Times
+4083,1,‘Botched’ Repair to China’s Great Wall Provokes Outrage - The New York Times
+4244,1,Over 190 Countries Adopt Plan to Offset Air Travel Emissions - The New York Times
+4258,1,De Blasio Snubs New York Post Reporter and Calls Paper a ‘Right-Wing Rag’ - The New York Times
+4463,1,‘The Crown’ Episodes 1 and 2: Stiff Lips, Warm Heart - The New York Times
+4546,1,Donald Trump, New Zealand, Facebook: Your Monday Briefing - The New York Times
+4648,1,‘White Nationalism,’ Explained - The New York Times
+4649,1,Pope Francis, Trump, Japan: Your Tuesday Briefing - The New York Times
+4717,1,Potential Conflicts Around the Globe for Trump, the Businessman President - The New York Times
+4945,2,Twitter Reinstates Richard Spencer, White Nationalist Leader - The New York Times
+5141,1,Trump Inauguration Security Planners Brace for Wave of Protesters - The New York Times
+5256,2,From Albany to Prison: Ex-Lawmakers on Life Behind Bars - The New York Times
+5379,1,Two Candidates. Two Speeches. One Cliché After Another From Clinton and Trump. - The New York Times
+5586,1,SoftBank’s $32 Billion Deal for Chip Designer ARM Is Britain’s Biggest Since Brexit - The New York Times
+5604,1,U.S. Sues to Block Anthem-Cigna and Aetna-Humana Mergers - The New York Times
+5653,2,In a Victory for Modi, India Overhauls Its Tangled Tax System - The New York Times
+5672,1,Moment in Convention Glare Shakes Up Khans’ American Life - The New York Times
+5713,1,How to Live Wisely - The New York Times
+5899,1,Bayer Deal for Monsanto Follows Agribusiness Trend, Raising Worries for Farmers - The New York Times
+6273,1,U.S. Seeks Death for Charleston Shooting Suspect. Victims’ Families Prefer Mercy. - The New York Times
+6407,1,The Great A.I. Awakening - The New York Times
+6509,1,Walter E. Mattson, Former President of New York Times, Dies at 84 - The New York Times
+6516,1,Southern Cities Split With States on Social Issues - The New York Times
+6535,1,China Curbs Plans for More Coal-Fired Power Plants - The New York Times
+6561,2,Justice Department Opens Investigation Into Russian Doping Scandal - The New York Times
+6645,7,Risks Higher for Front-Seat Passengers in Some S.U.V. Crashes, Tests Show - The New York Times
+6844,1,Cher’s Latest Road Show? The Campaign Trail - The New York Times
+6872,1,A Day When Fashion and Tragedy Continue to Intersect - The New York Times
+6965,1,Among Donald Trump’s Biggest U.S. Fans: Hindu Nationalists - The New York Times
+7102,1,Grandiose Ideas for Donald Trump Inaugural Give Way to Traditional - The New York Times
+7382,1,Obama Climate Plan, Now in Court, May Hinge on Error in 1990 Law - The New York Times
+7437,1,Donald Trump in the White House: Will He Bring Steve Bannon With Him? - The New York Times
+7592,1,U.S. Presidential Race, Baltimore, Olympics: Your Wednesday Evening Briefing - The New York Times
+7644,1,Russian Olympic Chief to Step Down Putin Hints at Other Changes - The New York Times
+7686,1,Polar Bears’ Path to Decline Runs Through Alaskan Village - The New York Times
+7694,1,The Two-State Solution: What It Is and Why It Hasn’t Happened - The New York Times
+8518,2,Gorka on Syria: ‘No Endgame That Involves Us Being Global Police Officer’
+10557,1,Survey Shows Social Isolation, Sexual Rejection, but Much Sympathy for Transgender Americans - Breitbart
+11034,1,South Carolina GOP Special Election Primary Turns Ugly as Poll Approaches - Breitbart
+11054,2,Steven Mnuchin: ’Regulation Is Killing Community Banks’ - Breitbart
+11207,1,Vox Claims North Korea’s Economy Doing ’Pretty Well’
+11390,1,Blue State Blues: The Deliberate Politicization of Intimacy
+12128,1,Limbaugh on Russia Probes: ’We Are Watching a Silent Coup Here to Oust a Duly Elected President’ - Breitbart
+12162,1,Top U.S. General: America’s ’Nuclear Modernization Can No Longer Be Deferred’
+13726,1,Gorka on Syria: ‘This Is Not a Full-Throated War Deployment,’ Just ‘Surgical’ Missile Strike
+14602,1,Cal Poly Professor Argues Squirrels Are Subjected to Racially-Charged Media Bias - Breitbart
+14634,1,Public University of Illinois Spends $60 Million on Diversity Initiatives - Breitbart
+15089,1,Democrat Lawmaker’s ’Low Expectations’ for Trump’s Overseas Trip: No ’International Crisis’ or ’War’
+16453,1,UC Irvine Professor Says ’Anti-Zionism Week’ At Least As Offensive As Milo - Breitbart
+17046,2,Three Important Defense Reforms to Make America Safer
+18071,1,Milo on the Alt-Right: ’The Most Serious Free Speech Advocates in Decades’ - Breitbart
+19105,1,Pop Icon David Bowie Dead at 69 - Breitbart
+19164,1,Poll: One Third of Swing Voters Say Media Pulling for Hillary Clinton, One Tenth Say for Donald Trump - Breitbart
+20169,1,AP: Many Donors to Clinton Foundation Met with Hillary at State - Breitbart
+20189,1,An Establishment Conservative’s Guide To The Alt-Right - Breitbart
+20340,2,End of Microchip Revolution Very Bad News for Wages - Breitbart
+20798,1,Mother Can’t Stop Doctor From Mutilating Autistic Daughter Who Wants To Be a Transgender Boy - Breitbart
+21917,2,Wikileaks—Clinton Insider Calls Chelsea a Back (and Front) Stabber: ’Apple Doesn’t Fall Far’ - Breitbart
+21957,1,FULL TEXT: MILO At West Virginia University On What Trump Means - Breitbart
+22309,1,NAACP Joins Soros Army Plotting DC Disruptions, Civil Disobedience, Mass Arrests
+22349,1,3 Men Indicted for Attempted Assassination of Texas Judge, Says FBI
+22932,1,Schweizer: Trump Needs to Fully Divest from Family Business to Avoid Potential Conflict of Interests
+23577,1,Poll: FBI Exception for Hillary Clinton Slammed by Middle Class, Backed by Democrats’ High, Low Extremes - Breitbart
+23803,1,FBI Has Enough Evidence to Prosecute Hillary Clinton
+24710,2,Daily Beast, Salon Pull Out Anti-Gamergate Playbook to Accuse Breitbart News of Inciting Harassment - Breitbart
+25382,1,Politico: Hillary Campaign Plans ‘Run-Out-the-Clock Strategy’ to Dodge Clinton Foundation Scandals
+25708,1,Islamic Cash Tied to 9/11 Infects NH Republican Governor’s Race
+26081,1,Hillary Clinton Deleted More Emails Than She Sent to the State Department - Breitbart
+26135,1,***2016 LiveWire*** Trump Campaigns with IN Gov. Pence - Breitbart
+26645,1,Universities Hide Workforce of 100,000-plus H-1B Employees
+26662,1,Politico: Libertarian Koch Brothers Recognize 2016 Defeat by Populists - Breitbart
+27320,1,AP: Bill Clinton Defends Scandal-Plagued Clinton Foundation - Breitbart
+27629,1,Goldman Sachs Executive Helped Bill Clinton Write His State of the Union Address - Breitbart
+27792,1,Silicon Valley Goes ’All-in’ for Cord Cutters - Breitbart
+28599,1,Report: State Dept. Subpoenaed Clinton Foundation, Huma Abedin’s Records - Breitbart
+29287,1,An Emotional Bill Clinton Eyes Possible Exit from Foundation - Breitbart
+29529,1,11 Calls to Shut Down Clinton Foundation from Left-Wing Media - Breitbart
+30360,1,The Worldwide Trumpian Majority: Lessons from Brexit, Britain, and the United States - Breitbart
+30718,1,The Panama Papers Claim to Expose World Leaders’ Riches
+31063,1,Twitter Picked A Fight With Milo Yiannopoulos. They Will Lose - Breitbart
+31400,1,Patrick Stewart Pays Homeless Man Not to Vote For Donald Trump - Breitbart
+31527,1,It’s Time for Conservatives to Consolidate for Trump - Breitbart
+31763,1,USSS chief says ’No friction’ with Trump’s private security
+31958,1,Trump’s HHS pick doesn’t want to flaunt his own Obamacare bill at confirmation hearing
+32140,1,CDC postpones climate conference ahead of Trump takeover
+32426,1,Flu spreads across 40 states
+32480,1,East China Sea: How an uninhabited island chain splits Japan and China
+32560,1,The anti-Trump protest movement digs in -- but can it win?
+32565,1,Spin cycle: Ivanka, Michelle and DC’s cycling studios
+32586,1,’The Missing’ delivers another time-bending mystery on Starz
+32686,1,Brains of those with ADHD show smaller structures related to emotion
+32811,1,Lewandowski: Trump’s staff is letting him down
+32812,1,Lewandowski: If Manafort was contacting Russians, Trump didn’t know
+33370,1,SXSW gets political: All eyes on Trump
+33397,1,Secret Service: White House jumper was captured after more than 15 minutes
+33475,1,Chinese officials warned US bomber
+34819,1,There are lots of ways to get to impeachment
+35129,1,The four reasons people commit hate crimes
+35252,1,South Korea suspends THAAD deployment
+35270,1,Oldest Homo sapiens fossils discovered
+35345,1,Latinos thrive in radio and TV despite Trump
+35783,1,Low expectations for Kerry-Netanyahu meeting
+35931,1,Poll: Clinton and Trump run neck-and-neck
+36012,1,Political portraits crafted out of currency
+36078,1,Billions spent to fix VA didn’t solve problems
+36083,1,How Newt Gingrich became Donald Trump’s inside man
+36119,1,Obama heads to NATO summit at ’inflection point’
+36241,1,South China Sea: Philippines wins court ruling against China
+36512,1,What Clinton’s campaign learned from gamers
+36783,1,Jill Stein: ’No question’ Julian Assange is a hero
+37387,1,How should you talk to loved ones about their weight?
+37440,1,What tests you really need (and when)
+37574,1,Paralympics 2016: Daniel Dias wins gold
+38050,1,Trump’s America: No fat chicks
+38080,1,Weld: Clinton might be most qualified candidate
+38128,1,Who is responsible for fixing race relations in America?
+38471,1,Dangers of Trump’s ’rigged election’ talk
+38528,1,Syrian airstrikes hit school, killing 20 children, rescuers say
+38558,1,Ana Navarro: I’m voting for Hillary Clinton
+38634,1,Barron Trump: First White House son since JFK Jr.
+39286,1,How Mike Pence is poised to be a uniquely powerful VP
+41605,1,New Jersey judge rules twins have different fathers
+42424,1,Mental illness, addiction: Mother takes on ’broken system’
+42473,1,Poignant moments unfold at a preschool in a nursing home
+43744,1,What someone who worked closely with PewDiePie thinks about Disney and YouTube dropping him
+43962,1,Facebook’s mimicry of Snapchat has become a confusing mess
+44079,2,Only 3 major services let you stream live TV over the internet — here’s how they compare
+44258,1,For Trump to force China’s hand against North Korea, he may need to convince them he’s a madman
+44870,1,A former special forces sniper is taking up a new fight — protecting one of the world’s most endangered species
+45181,1,An ominous trend should caution the Fed against raising interest rates again anytime soon
+45962,1,Tesla’s Model 3 has a chance to be huge
+47105,1,Russia’s elites are buying into a black market for a strange commodity
+47246,1,The crisis in Venezuela is getting worse, and families are starving
+47558,1,Researchers are finally learning more about the ’signature injury’ of World War I
+47952,1,Credit Suisse is using cheesecake to forecast sales at Nordstrom
+48022,1,Americans are abandoning a longtime status symbol — and it’s killing Macy’s and Nordstrom
+48188,1,Shut down the Clinton Foundation
+48193,1,I’ve used a meditation app loved by Wall Streeters and Olympic athletes daily for the past 8 months, and now I can’t imagine my life without it
+49593,1,Here’s the presentation David Einhorn just gave to a room of elite hedge fund managers
+49809,1,Trump is now doing many of the things he criticized Hillary Clinton for
+49849,1,2016: A Year Defined by America’s Diverging Economies
+49863,1,Donald Trump’s Interests vs. America’s, Dubai Edition
+49919,1,Putin and the Populists
+49989,1,The Atlantic Daily: Passing the Presidential Mic
+49997,2,Trump Announces Plan That Does Little to Resolve His Conflicts of Interest

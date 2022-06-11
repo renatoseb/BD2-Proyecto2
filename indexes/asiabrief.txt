@@ -1,0 +1,47 @@
+26,1,Istanbul, Donald Trump, Benjamin Netanyahu: Your Morning Briefing - The New York Times
+213,1,Your Morning Briefing: Rafsanjani, Donald Trump, Kabul - The New York Times
+281,1,Donald Trump, Rex Tillerson, Rodrigo Duterte: Your Morning Briefing - The New York Times
+397,1,Brexit, Donald Trump, Chelsea Manning: Your Morning Briefing - The New York Times
+532,1,Donald Trump, Syria, Emperor Akihito: Your Morning Briefing - The New York Times
+552,1,Donald Trump, ‘Brexit,’ Syria: Your Morning Briefing - The New York Times
+705,1,Refugees, Lunar New Year, Malaysia: Your Morning Briefing - The New York Times
+728,1,Refugees, Quebec, Rodrigo Duterte: Your Morning Briefing - The New York Times
+922,1,Travel Ban, Queen Elizabeth, Netanyahu: Your Morning Briefing - The New York Times
+945,1,Syria, Travel Ban, Kabul: Your Morning Briefing - The New York Times
+1063,1,Donald Trump, North Korea, Kashmir: Your Morning Briefing - The New York Times
+1085,1,Justin Trudeau, Lahore, Adele: Your Morning Briefing - The New York Times
+1168,1,Samsung, Kim Jong-un, Rex Tillerson: Your Morning Briefing - The New York Times
+1281,1,Australia, Libya, North Korea: Your Morning Briefing - The New York Times
+1299,1,Kim Jong-nam, Donald Tsang, Mexico: Your Morning Briefing - The New York Times
+1459,1,Donald Trump’s Speech, Mosul, Kim Jong-nam: Your Morning Briefing - The New York Times
+1480,1,Kim Jong-nam, Jeff Sessions, Snapchat: Your Morning Briefing - The New York Times
+1596,1,China, C.I.A., International Women’s Day: Your Morning Briefing - The New York Times
+1651,1,South Korea, Syria, C.I.A.: Your Morning Briefing - The New York Times
+2143,1,Brexit, Donald Trump, Jordan: Your Morning Briefing - The New York Times
+2451,1,Syria, Egypt, Korean Peninsula: Your Morning Briefing - The New York Times
+2494,1,Syria, Ahmadinejad, United Airlines: Your Morning Briefing - The New York Times
+4400,2,Duterte, Mosul, Calais Jungle: Your Thursday Briefing - The New York Times
+4457,2,Theresa May, Daniel Ortega, China: Your Tuesday Briefing - The New York Times
+4474,2,Hillary Clinton, Donald Trump, Mosul: Your Wednesday Briefing - The New York Times
+4546,2,Donald Trump, New Zealand, Facebook: Your Monday Briefing - The New York Times
+4575,2,Donald Trump, Syria, Russia: Your Wednesday Briefing - The New York Times
+4636,1,Aleppo, Donald Trump, Asia-Pacific Economic Cooperation: Your Monday Briefing - The New York Times
+4649,1,Pope Francis, Trump, Japan: Your Tuesday Briefing - The New York Times
+4666,1,Donald Trump, Japan, Mosul: Your Wednesday Briefing - The New York Times
+4736,1,Fidel Castro, Aleppo, Donald Trump: Your Tuesday Briefing - The New York Times
+4925,1,Aleppo, Donald Trump, Istanbul: Your Morning Briefing - The New York Times
+4953,1,Donald Trump, Rex Tillerson, Aleppo: Your Morning Briefing - The New York Times
+4972,1,Rodrigo Duterte, Aleppo, Donald Trump: Your Morning Briefing - The New York Times
+5076,1,Aleppo, Berlin, Donald Trump: Your Morning Briefing - The New York Times
+6122,2,Clinton, Mosul, Pirate Party: Your Monday Briefing - The New York Times
+6356,1,Aleppo, Donald Trump, Pakistan: Your Thursday Briefing - The New York Times
+6364,1,Park Geun-hye, Donald Trump, Microsoft: Your Friday Briefing - The New York Times
+6433,1,Aleppo, China, Jordan: Your Morning Briefing - The New York Times
+6441,1,Aleppo, Berlin, Russia: Your Morning Briefing - The New York Times
+7091,1,Donald Trump, Matteo Renzi, Shinzo Abe: Your Tuesday Briefing - The New York Times
+7427,2,Donald Trump, Delhi, Theresa May: Your Monday Briefing - The New York Times
+7442,2,Donald Trump, Julian Assange, Gwen Ifill: Your Tuesday Briefing - The New York Times
+7509,1,Berlin, Russia, Narendra Modi: Your Morning Briefing - The New York Times
+7652,2,Donald Trump, Russia, Rodrigo Duterte: Your Thursday Briefing - The New York Times
+7680,1,Aleppo, Donald Trump, Chennai: Your Tuesday Briefing - The New York Times
+7770,1,‘Brexit,’ Angela Merkel, Donald Trump: Your Wednesday Briefing - The New York Times

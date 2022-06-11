@@ -1,0 +1,612 @@
+117,1,California Today: Cracking Down on Distracted Driving - The New York Times
+133,1,Four Movies You Should Know About Before the Golden Globes - The New York Times
+163,3,‘La La Land’ Wins Seven Golden Globes ‘Moonlight’ Wins Best Drama - The New York Times
+188,2,Jared Kushner, a Trump In-Law and Adviser, Chases a Chinese Deal - The New York Times
+200,1,The Best and Worst of the Golden Globes - The New York Times
+201,1,Trump Was the Elephant in the Ballroom at the Golden Globes - The New York Times
+206,1,Is Edward Snowden a Spy? A New Book Calls Him One. - The New York Times
+207,3,Casey Affleck: ‘Thanks for Dressing Up’ - The New York Times
+291,2,Directors Guild Nominates Nate Parker for Best Debut - The New York Times
+330,1,William Peter Blatty, Author of ‘The Exorcist,’ Dies at 89 - The New York Times
+378,1,Chelsea Manning to Be Released Early as Obama Commutes Sentence - The New York Times
+380,2,Obama Commutes Sentence of F.A.L.N. Member Oscar Lopez Rivera - The New York Times
+427,1,On Obama’s Pardon List: A Hotel Magnate Who Owned Studio 54 - The New York Times
+435,1,Cate Blanchett’s Star Power Lifts ‘The Present’ on Broadway - The New York Times
+460,1,Roberta Peters, Soprano With a Dramatic Entrance, Dies at 86 - The New York Times
+489,3,Melania Trump’s ‘America First’ Inaugural Wardrobe - The New York Times
+518,1,Baseball Tragedy: Two Players Die in Crashes in the Dominican Republic - The New York Times
+532,1,Donald Trump, Syria, Emperor Akihito: Your Morning Briefing - The New York Times
+547,2,Art-House Fare Hopes for an Oscar-Nod Push, as ‘Split’ Rules North America - The New York Times
+551,1,Academy Awards, James Comey: Your Tuesday Evening Briefing - The New York Times
+552,1,Donald Trump, ‘Brexit,’ Syria: Your Morning Briefing - The New York Times
+560,7,Oscar Nominations 2017: 14 for ‘La La Land,’ and 6 for Black Actors - The New York Times
+573,2,Oscar Nomination Puts Lin-Manuel Miranda One Step Closer to an EGOT - The New York Times
+668,1,Couture in the Shadow of the Women’s March - The New York Times
+677,4,Trump’s Visa Ban May Keep Nominated Iranian Director From Attending Oscars - The New York Times
+700,1,Iranian Director Asghar Farhadi Won’t Attend Oscar Ceremony - The New York Times
+702,1,SAG Film Awards 2017: Acceptance Speeches Turn Pointedly Political - The New York Times
+765,1,Directors From Sundance on What Happened Next - The New York Times
+790,11,Trump Era Invites a Bolder Hollywood Red Carpet - The New York Times
+910,2,Emmanuelle Riva, Star of ‘Hiroshima Mon Amour’ and ‘Amour,’ Dies at 89 - The New York Times
+942,1,Comatose, Then Homeless: ‘My Closest Friend Has Been Pain’ - The New York Times
+991,1,Where Have You Gone, Angelina Jolie? Celebrities Vanish From Fashion’s Front Row - The New York Times
+1014,2,Can Raf Simons Reinvent Calvin Klein? - The New York Times
+1018,4,Taylor Sheridan on His Oscar-Nominated Screenplay for ‘Hell or High Water’ - The New York Times
+1127,1,Corruption Scandals With Brazilian Roots Cascade Across Latin America - The New York Times
+1159,4,Denzel Washington, the Oscars and Race - The New York Times
+1186,7,Smiling, Even When the Oscar Race Is a Losing Marathon - The New York Times
+1205,3,Oscar Plans Are Back On for Syrian Subjects of Nominated Films - The New York Times
+1243,1,Kraft Heinz Withdraws $143 Billion Offer to Merge With Unilever - The New York Times
+1249,1,Kevin Durant and Russell Westbrook, Once a Dynamic Duo, Are Now an Awkward Pairing - The New York Times
+1280,1,Immigration, Milo Yiannopoulos: Your Tuesday Evening Briefing - The New York Times
+1292,1,Sick of Politics? Try These Great Reads - The New York Times
+1312,4,Jimmy Kimmel on Hosting the Oscars at a Political Moment - The New York Times
+1326,1,California Today: On Catalina, the Drought Is Far From Over - The New York Times
+1345,1,California Today: In Virtual Reality, Investigating the Trayvon Martin Case - The New York Times
+1351,3,Isabelle Huppert: ‘The Best Way to Please Is Not to Please’ - The New York Times
+1381,16,And the Oscar Winners Will Be ... - The New York Times
+1382,2,U.S. Blocks Syrian Rescue Worker From Attending the Oscars - The New York Times
+1393,11,‘Moonlight,’ ‘La La Land’ and Everything Else That Happened at the Oscars - The New York Times
+1401,2,The Irresistible Style of Emma Stone - The New York Times
+1415,3,What It Was Like Onstage During the Oscars 2017 Best Picture Mistake - The New York Times
+1416,1,‘Moonlight,’ ‘La La Land’ and What an Epic Oscars Fail Really Says - The New York Times
+1417,1,A Transcript of the Best-Picture Mixup: It Was ‘La La Land,’ Until It Was ‘Moonlight’ - The New York Times
+1418,6,Oscars Mistake Casts Unwanted Spotlight on PwC - The New York Times
+1423,1,Runway vs. Red Carpet - The New York Times
+1434,1,California Today: After Lawmaker’s Silencing, More Cries of ‘She Persisted’ - The New York Times
+1438,6,Buoyed by Oscars, ‘Moonlight’ Is Moving Into 1,500 Theaters - The New York Times
+1524,1,Alison Wright, Exiled From ‘The Americans’ (Perhaps), Hits Broadway - The New York Times
+1559,1,‘Logan’ Box Office Hits $85.3 Million as Fox’s Bet Pays Off - The New York Times
+1599,1,Trump’s New Ban Leaves Few Spots for Refugees, Even the Hunted - The New York Times
+1640,1,Do Nike’s New Shoes Give Runners an Unfair Advantage? - The New York Times
+1699,4,Netflix Casts a Wider Net for Original Documentaries - The New York Times
+1758,1,Snowed In? Here’s What to Cook, Watch, Listen To and More - The New York Times
+1807,1,A New York Philharmonic Coup: Deborah Borda Is Named the New Leader - The New York Times
+1896,1,A Texas Woman ‘Voted Like a U.S. Citizen.’ Only She Wasn’t. - The New York Times
+1994,1,5 Bodies Found Off Libya Amid Fears That 200 Migrants May Have Drowned - The New York Times
+2046,1,Watching My Surgeon Cut Into My Knee - The New York Times
+2058,1,Fran Lebowitz: By the Book - The New York Times
+2128,1,Pharrell Williams’s Life to Become a Movie Musical, ‘Atlantis’ - The New York Times
+2133,1,Ralph Toledano Resigns From Puig in Fashion World Upheaval - The New York Times
+2170,1,California Today: ‘Zoot Suit’ Memories - The New York Times
+2233,1,James Rosenquist, Pop Art Pioneer, Dies at 83 - The New York Times
+2282,1,WrestleMania Stories Collide in the Ring - The New York Times
+2445,1,Frederick Wiseman: The Filmmaker Who Shows Us Ourselves - The New York Times
+2454,1,United Airlines Passenger Is Dragged From an Overbooked Flight - The New York Times
+2470,1,United Airlines, Sean Spicer: Your Tuesday Evening Briefing - The New York Times
+2472,2,United Grapples With PR Crisis Over Videos of Man Being Dragged Off Plane - The New York Times
+2473,1,Video of United Airlines Passenger Creates Furor in China, Too - The New York Times
+2480,1,Fandor: A Streaming Rabbit Hole Worth Falling Down - The New York Times
+2504,3,Why ‘Sorry’ Is Still the Hardest Word - The New York Times
+2505,1,How Technology Has Failed to Improve Your Airline Experience - The New York Times
+2541,1,Files Suggest Honduran Police Leaders Ordered Killing of Antidrug Officials - The New York Times
+2661,2,DreamWorks Animation Sale Leaves Jeffrey Katzenberg at a Crossroads - The New York Times
+2686,1,What Is the Met Gala, and Who Gets to Go? - The New York Times
+2708,1,Men Have Book Clubs, Too - The New York Times
+2900,1,Meryl Streep Does a Number on Donald Trump at Public Theater’s Gala - The New York Times
+2934,1,Will This Guy Shut Off the Lights in the Sanders Campaign? - The New York Times
+2964,1,Oscar Pistorius Is Unfit to Testify at Sentencing, Psychologist Says - The New York Times
+2966,1,At the Tonys, Moments to Remember - The New York Times
+3047,1,Diary of a Cruise Season - The New York Times
+3087,1,Bill Cunningham on Bill Cunningham - The New York Times
+3101,1,Bill Cunningham, Legendary Times Fashion Photographer, Dies at 87 - The New York Times
+3305,1,What You Should Watch: ‘Mustang’ and Good Background Shows - The New York Times
+3326,1,Flight of the Conchords: Aimless, and That’s O.K. - The New York Times
+3471,1,How Do You Handle Dining With Big-Spender Pals? - The New York Times
+3477,1,Jonah Hill Is No Joke - The New York Times
+3480,1,Who Will Light the Olympic Caldron in Rio? It Won’t Be Pelé - The New York Times
+3588,1,Hard Times in Venezuela Breed Malaria as Desperate Flock to Mines - The New York Times
+3594,2,Hey Ho, It’s Old: England Embraces Punk Rock 40 Years Later - The New York Times
+3617,1,Brooklyn Man Charged With Killing Imam and Assistant Near Mosque - The New York Times
+3772,1,Gene Wilder Dies at 83 Star of ‘Willy Wonka’ and ‘Young Frankenstein’ - The New York Times
+3969,1,How Two Producers of ‘Transparent’ Made Their Own Trans Lives More Visible - The New York Times
+4039,1,Emmy Awards 2016: Emmys Welcome Surprises Along With the Favorites - The New York Times
+4225,1,Panti Bliss, Ireland’s Queen of Drag, Expands Her Kingdom - The New York Times
+4260,1,Ladies and Gentlemen, Mr. Broadway – Nathan Lane! - The New York Times
+4281,1,Andrzej Wajda, Towering Auteur of Polish Cinema, Dies at 90 - The New York Times
+4294,1,‘The Birth of a Nation’ Struggles at the Box Office - The New York Times
+4359,2,‘Carrie’ Is Back. Like a Bloody Hand From the Grave. - The New York Times
+4502,2,‘Loving’ Aims to Speak Softly to History - The New York Times
+4553,2,Paris: One Year On - The New York Times
+4575,1,Donald Trump, Syria, Russia: Your Wednesday Briefing - The New York Times
+4587,3,Jackie Chan: The Fists, the Fury, the Oscar - The New York Times
+4632,1,The Images in ‘Billy Lynn’? Razor Sharp. Your Eyes? Bewildered. - The New York Times
+4722,1,From Moguls to Mortals - The New York Times
+4764,1,‘Moonlight’ Makes a Strong Showing at the Gotham Awards - The New York Times
+4817,1,This Season’s Best Books on Hollywood - The New York Times
+4895,3,A Casualty of ‘The Birth of a Nation’ Controversy Speaks Out - The New York Times
+4909,2,Amy Adams on Eyes That Deceive - The New York Times
+4966,1,The Best Dance of 2016 - The New York Times
+4980,1,SAG Nominees Include Viggo Mortensen and Other Surprises - The New York Times
+5030,1,Preaching the Gospel of Diversity, but Not Following It - The New York Times
+5063,1,The Long, Lonely Fall of a Heisman Trophy Winner - The New York Times
+5064,1,Confirm or Deny: André Leon Talley - The New York Times
+5161,1,Debbie Reynolds, Wholesome Ingénue in 1950s Films, Dies at 84 - The New York Times
+5165,1,With ‘Star,’ Lee Daniels Tries to Expand an Empire - The New York Times
+5200,1,Fight to Impeach Brazil’s Leader Tears at Fabric of Daily Life - The New York Times
+5264,1,Your Monday Evening Briefing: Hillary Clinton, Donald Trump, Bitcoin - The New York Times
+5361,1,Broadway’s ‘The King and I’ to Close - The New York Times
+5363,1,A Biased Judge? Donald Trump Has Claimed It Before - The New York Times
+5398,1,Owner of a Modigliani Portrait Is Adamant the Work Isn’t Nazi Loot - The New York Times
+5413,3,Oscar Pistorius Removes His Artificial Legs at Sentencing Hearing - The New York Times
+5415,1,Pat Cleveland: Early Supermodel and Author With Many Tales - The New York Times
+5459,1,What You Should Watch: ‘Please Like Me’ and Films Leaving Netflix - The New York Times
+5487,6,Film Academy Broadens Voting Pool After Oscars Criticism - The New York Times
+5524,1,Oscar Pistorius Sentenced to 6 Years in Reeva Steenkamp Murder - The New York Times
+5527,1,Race for Britain’s Prime Minister Down to Theresa May and Andrea Leadsom - The New York Times
+5537,1,In the Turmoil Over Race and Policing, Children Pay a Steep Emotional Price - The New York Times
+5539,1,Sydney H. Schanberg Dies at 82 Times Reporter Chronicled Khmer Rouge Terror - The New York Times
+5555,1,Why Matt Damon and Paul Greengrass Couldn’t Quit Jason Bourne - The New York Times
+5615,1,Confessor. Feminist. Adult. What the Hell Happened to Howard Stern? - The New York Times
+5656,1,Barbra Streisand Sets the Record Straight - The New York Times
+5657,2,Motion Picture Academy, After Diversifying, Keeps Leadership Intact - The New York Times
+5671,1,Jesse Eisenberg on the Surprising Success of ‘The Spoils’ in London - The New York Times
+5744,2,Family of Man Charged in Killing of Queens Imam Insists He Is Innocent - The New York Times
+5757,1,‘Ben-Hur’ Is Latest Flop for Paramount - The New York Times
+5783,1,The Race to Save the Films We Love - The New York Times
+5858,3,Toronto Film Festival: Just Don’t Call Them ‘Black Films’ - The New York Times
+5893,5,Harvey Weinstein Gets Oscar Boost After ‘Lion’ Screening - The New York Times
+5933,1,Review: Emmy Awards Showcase TV’s Cultural Dominance and Trump Jokes - The New York Times
+5939,2,Angelina Jolie to Divorce Brad Pitt, Ending ‘Brangelina’ - The New York Times
+5949,4,Jane Fonda: The Reluctant Fashionista - The New York Times
+5993,1,‘The Girl on the Train’ Takes the Fast Track From Book to Screen - The New York Times
+6091,1,Anna Kendrick: Movie Star. Twitter Star. Ready for More. - The New York Times
+6137,1,Fear of Donald Trump Helps Democrats Mobilize Hispanics - The New York Times
+6157,1,Saving Refugees on the Mediterranean: a Luxury Yacht With a New Purpose - The New York Times
+6158,1,How the Artist Adrian Ghenie Became an Auction Star - The New York Times
+6187,1,11 Fiction Podcasts Worth a Listen - The New York Times
+6289,1,Holocaust-Themed Ice Dance in Russia Draws Condemnation - The New York Times
+6369,1,The Tao of Matthew McConaughey - The New York Times
+6386,1,‘La La Land’ Sizzles in Limited Release in North America - The New York Times
+6419,1,The Best New Podcasts of 2016 - The New York Times
+6491,2,Death of a Red Carpet Reporter - The New York Times
+6499,1,Did Debbie Reynolds Die of a Broken Heart? - The New York Times
+6540,4,After #OscarsSoWhite, Broadway Seeks a #TonysSoDiverse - The New York Times
+6629,20,Health Insurer Hoped to Disrupt the Industry, but Struggles in State Marketplaces - The New York Times
+6646,1,What It Was Like to Be Photographed by Bill Cunningham - The New York Times
+6738,1,Harley Quinn, Just the Nice, Fun-Loving Psycho Next Door - The New York Times
+6790,3,Arthur Hiller, ‘Love Story’ Director and Box-Office Magnet, Dies at 92 - The New York Times
+6795,1,Detached but Sympathetic: Prosecutor’s Dual Response to Imam’s Killing - The New York Times
+6837,1,In Honduras, a Spiritual and Political Awakening for Tim Kaine - The New York Times
+6844,1,Cher’s Latest Road Show? The Campaign Trail - The New York Times
+6874,1,Hillary Clinton, Syria, World Anti-Doping Agency: Your Tuesday Evening Briefing - The New York Times
+6960,1,Wells Fargo Chief Abruptly Steps Down - The New York Times
+7118,7,‘La La Land,’ ‘Moonlight’ Lead Golden Globe Nominations - The New York Times
+7126,1,On ‘Patriots Day’: ‘Love Will Defeat Evil’ - The New York Times
+7139,1,When Donald Trump Partied With Richard Nixon - The New York Times
+7149,2,Monsieur Vogue Is Leaving Trumpland - The New York Times
+7166,1,Holiday Movies to See (or Skip) - The New York Times
+7175,1,A Brother’s Crimes and a Sister’s Betrayal Make ‘Judas’ a Dutch Best Seller - The New York Times
+7196,2,Jodie Foster Is Still Afraid of Failure - The New York Times
+7206,1,9 Ways Donald Trump Would Be Unlike Any Other Nominee - The New York Times
+7270,1,Hillary Clinton, Donald Trump, Iraq Inquiry: Your Wednesday Evening Briefing - The New York Times
+7322,2,1999 Rape Case Swirls Around Nate Parker and His Film ‘The Birth of a Nation’ - The New York Times
+7341,4,Edward Snowden’s Long, Strange Journey to Hollywood - The New York Times
+7481,1,Beyoncé Leads With 9 Grammy Nominations - The New York Times
+7512,1,A New Gilded Age, for Artists Who Would Rule Forever - The New York Times
+7583,1,Garry Marshall, ‘Pretty Woman’ Director, Dies at 81 a TV and Film Comedy Mastermind - The New York Times
+7596,1,It’s Thrilling. It’s Chilling. It’s a 30-Minute Commercial. - The New York Times
+7615,1,On Being a Black Female Math Whiz During the Space Race - The New York Times
+7616,1,Renée Zellweger Is Back and Standing Up for Herself - The New York Times
+7949,2,Cannes: Major Upset as Political Correctness Satire ’The Square’ Wins Palme d’Or
+8013,1,Alec Baldwin at War with Producer Over Underage Sex Scene Claims
+8249,6,Exclusive — President Trump: Oscars ‘Were Focused so Hard on Politics’ They Could Not Get the Basics of the Ceremony Right - Breitbart
+8271,1,Street Artist Mocks ’Hollywood Royalty’ with Fake Oscars Posters
+8359,3,Jack Black: Meryl Streep Should Win an Oscar and Talk ’More Sh*t About That A**hole’ Trump
+8497,1,Lady Gaga Delivers Her Most Subversive Performance at Super Bowl
+8526,3,Oscars: Ava DuVernay Lauds Mideast Christian Stronghold Lebanon as ’Majority Muslim’ - Breitbart
+8635,7,Oscars ’Tourist’ Revealed to Be Registered Sex Offender
+8639,1,MS-13 Gang Members Indicted for NY Teen Murders
+8823,2,5 of Meryl Streep’s Dumbest Political Comments
+8840,2,’Hamilton’ Producer Lin-Manuel Miranda ’Sobbing’ After Obama Frees Domestic Terrorist Oscar Lopez Rivera
+8843,4,Oscars Ratings Hit 9-Year-Low in Early Numbers
+9132,1,Another Fugitive Mexican Governor Faces New Charges in U.S. None in Mexico
+9332,3,Survey: Majority of Trump Voters Turn Off Political Awards Shows
+9364,6,Goya Drops Puerto Rican Day Parade Celebrating Terrorist Freed by Obama
+9372,1,Hollywood Dentist Kicked Off Flight for Anti-Trump Comment
+9391,2,2017 Oscar Nominations: ’La La Land’ Dominates, #OscarsSoWhite Over - Breitbart
+9415,1,Cartel Assassination of Journalist Silences Mexican News Outlet
+9432,2,Mel Gibson-Vince Vaughn Cop Thriller ’Dragged Across Concrete’ Acquired by Lionsgate
+9517,29,Livewire: 89th Annual Academy Awards
+9685,2,Oscar-Winner Casey Affleck’s Next Role: Animatronic Bear for PETA
+9755,1,Woody Harrelson Quits Smoking Pot after 30 Years
+9796,1,Rosie O’Donnell Donates $1,000 to ‘Brave Young Patriot’ Reality Winner
+9800,9,Davi to Hollywood Elite: Invite Illegal Aliens and Refugees to the Oscars... or You’re Racists! - Breitbart
+9820,1,Hollywood Weaponizes Against Trump: CAA to Host ’Action’ Summit
+9857,2,Talent Agency UTA Trades Oscar Party for Refugee Rally
+9971,1,Mexico Launches $50M Effort to Help Illegal Aliens in U.S.
+10062,3,NYPD, More Sponsors Drop Out of Puerto Rican Day Parade for Honoring Terrorist Freed by Obama
+10085,1,ZUMWALT: France — Where an Age of Enlightenment Once Flourished, Turbidity Now Reigns
+10275,1,Chinese Social Media Rages over United Airlines Controversy - Breitbart
+10611,1,Madonna Angered by Unauthorized Biopic: ’Only I Can Tell My Story’
+10706,2,Barbra Streisand Says Sexism Cost Her Multiple Oscar Nominations
+10707,2,Iran’s Supreme Leader: ’Real War’ with West Is ’Culture War’ on TV, Internet
+10795,1,Kevin Shenkman: Ending Democracy as We Know It in Southern California? - Breitbart
+10866,1,Three-Time Oscar-Winner Daniel Day-Lewis Retires from Acting
+11072,2,Convicted Terrorist Oscar López Rivera Booed at NYC Puerto Rican Day Parade
+11200,2,’Apocalypse Now’ Game Director: We’re Making a Game for ’The 45 Other States’ Hollywood Doesn’t Care About - Breitbart
+11365,1,Sanctuary State’s Deported Alien Suspected in Kidnapping, Murder
+11434,2,Jackie Mason: Plumbers Should Win Oscars, We Can Live Without’ Movie Stars
+11570,4,Oscars ’In Memoriam’ Segment Pays Tribute to Living Producer
+11622,1,17 Alleged Mexican Cartel Operatives Charged in Colorado
+11752,1,5 Mexican Cartel Bosses Who Were Caught Hiding in Texas
+11802,1,Roman Polanski Set for Return to Cannes with ’Based on a True Story’
+11901,4,Chicago Moving to Name Street After FALN Terrorist Oscar Lopez Rivera - Breitbart
+11987,1,Matthew McConaughey to Hollywood: ’Embrace’ Donald Trump
+11995,3,Hollywood’s Partisan Crusade Strengthens Boycotts, Piracy
+12042,3,7 Great Conservative Films Everyone Should Own
+12142,1,Prominent Jesuit Blames ’Morality of Capitalism’ for United Air Incident - Breitbart
+12201,3,Oscar Voter: Meryl Streep Only Nominated for Anti-Trump Speech
+12205,1,Islamic State Releases Video of Jihadis Storming Southern Philippines City
+12212,1,Hollywood Celebrities Attack Donald Trump 15 Times at Oscars
+12380,2,Roger Moore, Star of 7 James Bond Films, Dies at 89 - Breitbart
+12388,1,Talent Agency WME-IMG Forming PAC for Trump Era - Breitbart
+12493,1,Former Paramount Pictures CEO Brad Grey Dies at 59
+12584,1,DELINGPOLE: BBC Throws Jenni Murray To The Transgender Wolves
+12590,1,Report: Ben Affleck’s ’Live By Night’ a $75M Bomb for Warner Bros
+12840,1,Liberals Get a Pass: 4 Times the Media Ignored Leftists’ Comments About Pedophilia - Breitbart
+12951,1,Speculation Over Possible Obama Pardon of Edward Snowden, Bowe Bergdahl and Chelsea Manning - Breitbart
+13014,6,NAZARIAN: That Oscar Win Was a Loss for Iran’s Freedom-Craving People - Breitbart
+13044,5,GLAAD Celebrates ’Moonlight’ as First LGBT Best Picture Winner
+13165,1,Exclusive — President Trump Previews Congressional Address and Pathway on Obamacare Repeal, Tax Cuts, Border Wall - Breitbart
+13192,1,Christian Bale: Trump Picking Up Tips from ‘Dictatorship for Dummies’
+13232,1,MS-13 Woman Laughed As Murder Victim Was Stabbed 153 Times, Say Prosecutors
+13243,2,Adam Sandler Draws Awards Buzz in Cannes with ’The Meyerowitz Stories’
+13267,16,Trump Fans Urge Oscar Boycott: ’Put The Perverts Out of Business’
+13335,1,Report: Mel Gibson Privately Working to Help Holocaust Survivors
+13373,1,Low Blow! Oscar De La Hoya Hits Trump, Border Wall in Ad Promoting Cinco de Mayo Bout - Breitbart
+13384,1,’Icon’ Colin Kaepernick Named to ’Time’ 100 Most Influential People List - Breitbart
+13386,1,Jennifer Lawrence: Trump White House Is Insane
+13666,3,Bill Ayers ‘Dancing in the Aisles’ Over Obama’s Pardon of FALN Member Oscar López Rivera
+13759,1,Actor Christoph Waltz Tells Trump to ’Go Away’
+13877,1,Meryl Streep Hits Trump Again, Vows to Fight ’Brownshirts’ in Gala Speech
+13934,1,Illegal Immigrant Drunk Driver Faces Deportation for 7th Time
+14041,1,Emma Watson Fires Back at Critics of Racy ’Vanity Fair’ Photo
+14354,1,Vogue Editor Anna Wintour: ’No Point About Whining Or Complaining’ Over Trump Administration - Breitbart
+14364,4,Leonardo DiCaprio Surrenders Marlon Brando’s Oscar to Justice Department
+14531,3,Oscars Conspiracy Theory: Trump’s Revenge Against Kimmel
+14629,2,Donald and Melania Trump Skip the Oscars to Honor Military, Governors at Governor’s Ball - Breitbart
+14668,2,Oscars: Beatty, Dunaway Announce Wrong Best Picture Winner
+14776,1,The Nuclear Option: Creepy Kimmel Politicizes Infant Son’s Health Crisis
+14870,1,Walker Scores 29 Hornets Overcome Westbrook’s Triple-Double - Breitbart
+15024,3,Actress Mary Tyler Moore Dead at 80 - Breitbart
+15093,2,Report: DiCaprio Flew ’Eyebrow Artist’ 7,500 Miles for Oscars
+15343,1,Watch: ’Star Wars: The Last Jedi’ Gets First Teaser Trailer
+15513,3,Dustin Hoffman: ’Subliminal Racism’ to Blame for ’White Oscars’
+15612,1,Syrian Refugee, American Muslim, DREAMer, Gay Activist, Join Michelle Obama For State Of The Union - Breitbart
+15672,1,Environmental Group Demands Leo DiCaprio Return ’Stolen Money’ - Breitbart
+15675,1,Pakistan: Man Shoots His Sisters in ’Honor Killing’ After Being Forgiven for Murdering Mother
+15707,4,Leo DiCaprio Pushes Climate Change During Oscar Acceptance Speech
+15767,5,Al Sharpton Calls for National ’Tune Out’ of ’White Oscars’
+15929,2,’Empire’ Star Malik Yoba Checks Oscar Outrage: Hollywood Inclusion Isn’t a ’Birthright’ - Breitbart
+16179,3,Backlash: Julie Delpy Apologizes After Wishing She Was Black In Hollywood - Breitbart
+16182,1,Jeff Bezos Aiming for Academy Awards with Original Films on Amazon - Breitbart
+16407,1,Democrats Hope Convention Star Power Dazzles America Into Voting Hillary - Breitbart
+16575,1,Bryan Cranston Does ’Huge’ Trump Impression: ’I’d Like to Play’ Him at Some Point - Breitbart
+16603,2,Oscar-Winning ’12 Years a Slave’ Director: ’Let’s Fix’ Oscar Diversity Problem - Breitbart
+16617,1,Journalists Hound Nate Parker, Acquitted for Rape Charge Bill Clinton Walks Free - Breitbart
+16685,1,’Brady Bunch’ Matriarch Florence Henderson Dead at 82 - Breitbart
+16698,1,Green Survey: Delingpole At The Epicentre Of Denialist Evil
+16824,4,Borelli: Why is Prominent Hillary Surrogate Tweeting Out Support for A Terrorist as Orlando Victims Lay Dying? - Breitbart
+16920,1,Stacey Dash to Black Americans: Stop Listening to Liberals - ’I Am Sick of Settling for Breadcrumbs’
+17023,2,7 Serious Issues Facing Black People that Aren’t ’Oscars So White’ - Breitbart
+17037,1,Mark Ruffalo Under Fire for Casting Cisgender Actor in Transgender Drama - Breitbart
+17053,3,Academy Hopes to Avoid Repeat of #OscarsSoWhite with Record 683 Member Invitations - Breitbart
+17104,2,Stacey Dash Fires Back: ’BET Lies to Black People’
+17242,4,Mom Asian Kid at Oscars Didn’t Know Joke Would Be Racial
+17316,1,Grammy Awards: Beyoncé Leads Noms with BLM-Inspired ’Lemonade’
+17524,1,Sweden Democrats Proposes Negative Immigration As National Population Experiences Record Growth
+17548,1,Not Welcome Here – Obama’s Visit To UK Tanks As Poll Reveals 60% Of Britons Don’t Want His Pro-EU Lectures
+18027,5,Thank Yous Banned from Oscar Acceptance Speeches
+18044,2,Gene Wilder: 7 Best Roles - Breitbart
+18060,4,Spielberg Blasts #OscarsSoWhite: ’No Inherent or Dormant Racism’ in the Academy - Breitbart
+18090,1,Barbara Boxer at HBO’s ’Confirmation’ Premiere: Anita Hill’s ’Courage’ Got Me Elected to Senate - Breitbart
+18122,1,Texas Cheerleader Bus Crashes, Leaving One Dead
+18352,3,Michelle Obama’s Father’s Day Message: ’Be Better’ - Breitbart
+18392,1,Nike Dumps Boxer Manny Pacquiao Over Anti-Gay Comments - Breitbart
+18444,3,Oscar-winning Producer to #OscarsSoWhite: ’Stop Acting Like Spoiled Brats’
+18455,1,Melissa McCarthy Suggests Ghostbusters Remake Critics Are 45-Year Old Men Living In Their Mother’s Basements - Breitbart
+18554,2,8 Criminals, Abusers And Harassers Who Remain Verified On Twitter
+18645,1,AP: Trump, Rubio Battle for Hispanic GOP Voters in Florida - Breitbart
+18932,4,Deadline: College Rape Case Haunts ’Birth of a Nation’ Star Nate Parker - Breitbart
+18974,1,Outrage Erupts over White Actor Playing Michael Jackson
+19026,1,’The Revenant’ Review: Brutal, Beautiful Revenge Western - Breitbart
+19284,1,Rapper Kevin Gates Calls Out Hypocrisy of Black Lives Matter: ’We Kill Each Other’ - Breitbart
+19377,2,Ethan Hawke Blasts White Oscars: ’People Need to Be Upset’ - Breitbart
+19584,1,Texas School Shocked -- Principal Arrested for Soliciting Minor Online
+19701,6,Academy Members React to Diversity Push: ’It’s F—ing Knee-Jerk Liberalism’ - Breitbart
+19844,2,Lady Gaga, Sexual Assault Survivors at Oscars Get Matching Tattoos - Breitbart
+19944,1,All About Megyn: The ’Eve Harrington’ of Fox News - Breitbart
+20299,3,Spike Lee Calls Out ’Progressive’ Hollywood: ’Step up’ to Fight #OscarsSoWhite
+20375,2,Will Smith: ‘Racism Isn’t Getting Worse, It’s Getting Filmed’ - Breitbart
+20431,1,Oscar-winning ’12 Years a Slave’ Actress Accuses Academy of ’Unconscious Prejudice’
+20739,2,WATCH: Snoop Dogg Profanity-Laced Rant Against ’White Oscars’
+20740,2,Tina Fey Annoyed by Hollywood’s ’Bullsh*t’ Liberal Causes - Breitbart
+20802,3,***Live Updates*** Jeff Sessions to Endorse Donald Trump at Alabama Rally - Breitbart
+20804,1,WAR ON WOMEN: Rose McGowan Accuses 20th Century Fox of Promoting ’Casual Violence Against Women’ - Breitbart
+21061,3,WATCH: Nick Cannon Raps on #OscarsSoWhite: ’Hollywood Mainstream Don’t Validate Me’ - Breitbart
+21071,1,Oscar-Winner Ellen Burstyn on Rise of Trump: After Obama, Now ’the Racists Get a Turn’ - Breitbart
+21126,5,Jada Pinkett Smith: ’White Oscars’ Controversy ’Isn’t Really About the Oscars’
+21259,2,Hollywood Hate: White Man Tells Stacey Dash She’s Not Black
+21441,4,Watch: ’Fresh Prince’ Actress Blasts Will and Jada Pinkett Smith over Oscars Race Controversy - Breitbart
+21514,1,#ShootBack: Gay L.A. Covered in Rainbow Pro-Gun Posters
+21603,3,Golden Globes Recap: Ricky Gervais Delivers, ’Revenant’ Wins Big, Stallone Gets Standing Ovation - Breitbart
+21752,3,Why I support Spike Lee’s #Oscarsmustfall campaign - Breitbart
+21767,3,’L.A. Confidential,’ ’8 Mile’ Director Curtis Hanson Dies at 71
+21801,1,43 Years of Abortion-on-Demand Highlights Utter Failure of Black Leadership - Breitbart
+21810,1,#OscarsSoWhite, Round 2? - Breitbart
+21834,6,Ian McKellen: #OscarsSoHetero
+21868,1,Obama Attends Final Kennedy Center Honors as President
+21896,1,Danny Glover Suggests Doing Away with the Oscars
+21941,1,DiCaprio Fights Climate Change in ’Before the Flood’ Trailer
+22105,1,Leonardo DiCaprio: We Can’t Elect a Candidate Who Doesn’t Believe in Climate Change - Breitbart
+22209,9,WATCH: Jada Pinkett Smith Calls on Blacks to Separate from ’Mainstream’ Culture Over White Oscars Controversy
+22215,1,’Berned’: NBC Says Harry Belafonte Will Endorse Sanders - Breitbart
+22267,1,Exclusive Video: Veteran Forcibly Dragged from Air Force Ceremony for Mentioning God - Breitbart
+22313,9,Mark Ruffalo: ’I Hope’ Oscar Boycott Awakens Hollywood to #BlackLivesMatter Movement
+22388,10,Spike Lee Boycotts Oscars, Compares Himself to Martin Luther King, Jr.
+22400,4,’Selma’ Actor David Oyelowo Demands ’Radical Change’ for ’Unforgivable’ White Oscars
+22535,13,Actress Gina Rodriguez: Support Diversity – Watch My Show!
+22828,1,***Horse Race LiveWire*** Sanders, Clinton Debate After Bernie’s Michigan Upset - Breitbart
+22837,3,Mya Taylor Becomes First Transgender Winner at Spirit Awards - Breitbart
+22851,1,Harry Belafonte Questions Timing of Nate Parker Rape Case Coverage: ’He Faced the Justice System’ - Breitbart
+22891,1,GRAPHIC: Texas Trucker Found Murdered near Mexican Border City
+22898,1,Jon Voight: ’Let Donald Trump Know We Are Completely Behind Him’
+22967,4,Academy Says Diversity Purge is ’Not About Political Correctness’
+23066,2,Texas Police Officers Perform Roadside Delivery of Baby
+23281,3,Oscar Winner Matt Damon Blames ’Systemic Injustices’ on ’Embarrassing’ White Oscars
+23310,9,Academy Defends Diversity Purge: ’We Are Not Excluding Older Members’
+23536,2,Chris Rock Rewriting Show in Wake of Oscars Diversity Controversy - Breitbart
+23548,3,Celebrities to Wear Gun Control Bracelets at Oscars While Surrounded by Massive Increase in Armed Security - Breitbart
+23555,2,Revealed: Brando’s "Insatiable Sexual Appetite" Drove Lover Rita Moreno to Suicide
+23661,1,’Imploded’: ’Hateful Eight’ Is Cop-Hater Tarantino’s Lowest Solo-Grosser In 20 Years - Breitbart
+23738,5,Viola Davis on #OscarsSoWhite: ’Diversity is Not a Trending Topic’ - Breitbart
+23744,1,New Emails Show Clinton Aides Worried About Security, Frustrated with Her Habits - Breitbart
+23765,1,Oscar-Winning Director Almodóvar: ’Diabolical Sexism’ in Hollywood, But Nobody to Blame - Breitbart
+24185,1,Michael Shannon: Red States Should Be U.S. of ’F*cking Assholes’
+24277,14,Oscar Nominee William H. Macy Praises White Oscars Boycott - Breitbart
+24561,1,Academy Member: Diversity Push ‘Insulting to Black People’ - Breitbart
+24613,1,With Democrats In Charge The Result Is Racism, Rape, Riots, and Poison Water - Breitbart
+24784,4,Jimmy Kimmel to Host 2017 Academy Awards - Breitbart
+24934,2,Will Smith Confirms He’ll Boycott Oscars: ’Diversity is the American Superpower’
+25063,1,Hollywood Quits Anti-Sharia Boycott, All-In for NC Trans Boycott
+25243,1,MSNBC’s Harris-Perry: Democratic Field ’Anemic,’ ’Whiter Than the Oscars’ - Breitbart
+25304,2,Anne Hathaway Defends Jennifer Lawrence’s Diva Outburst at Golden Globes - Breitbart
+25324,3,Coen Bros. on Diversity Quotas: ’Idiotic’ to Demand Stories Have ’Four Black People, Three Jews and a Dog’ - Breitbart
+25425,1,DiCaprio Got ’Terrifying’ Up-Close Look at Climate Change While Shooting ’The Revenant’ - Breitbart
+25452,1,Media Silent as Hillary Speaks with Accused Sex Predator Al Gore
+25813,1,Families, Friends Mourn Orlando Jihad Victims - Breitbart
+25905,1,Black Lives Matter Scares BART Official into Carrying Gun - Breitbart
+25973,2,2016 Oscars to Be ’Like Military State’ Due to Increase in Armed Security - Breitbart
+26096,1,Mark Ruffalo Asks Obama to ’Defund Police Departments’ - Breitbart
+26379,2,#OscarsSoWhite Wins: Academy to Purge Old Members for ‘Diversity’
+26424,3,‘Boyz ’N The Hood’ Director John Singleton Defends ‘White Oscars’
+26496,2,Mexican Border State Political Campaigns Took Millions from Drug Cartels, Say Witnesses
+26501,1,Migration Waves and Terrorism to Dominate Davos Get-Together - Breitbart
+26597,3,Hollywood Scrambles to Up Diversity in Wake of #OscarsSoWhite Controversy - Breitbart
+26705,2,SAG Awards Nominations: Complete List
+26785,1,Charlize Theron: It’s Hard to Make It in Hollywood As A ’Gorgeous, Gown-Wearing, Eight-Foot Model’ - Breitbart
+26911,1,Sheriff David Clarke: Beyoncé ’Used’ Gun Violence Mothers ’As a Backdrop’ at VMAs - Breitbart
+26930,1,BAFTA to Block Awards For Films That Aren’t Diverse Enough
+26991,1,California Braces for Wave of ’Equal Pay’ Lawsuits - Breitbart
+27027,2,’Unforgivably Dreadful:’ Critics Annihilate Sean Penn’s Latest Film at Cannes - Breitbart
+27029,1,Oscar-Nominee Charlotte Rampling: Oscar Boycott ’Racist to Whites’
+27160,1,Larry Wilmore Jokes About Suffocating Trump
+27165,1,***Orlando/2016 LiveWire*** Obama Pushes Gun Control: ’More Massacres’ if ’We Don’t Act’ - Breitbart
+27199,2,J.J. Abrams: Gay Characters Coming to Star Wars Franchise - Breitbart
+27310,1,White Actor Charlie Hunnam Under Fire for Playing Mexican Drug Lord in Cartel Film
+27346,3,Michael Moore Joins Oscars Boycott: White Male ’Dominated’ Los Angeles Oppresses Blacks - Breitbart
+27471,1,Report: Bruce Jenner Cancels Speaking Tour over Low Ticket Sales
+27480,1,THR: Hollywood Gripped By Red-Carpet Terror Fears - Breitbart
+27624,7,Oscar Winner Michael Caine: ’You Can’t Vote for an Actor Because He’s Black’
+27775,2,Megyn Kelly Dines with Hollywood Stars on Oscar Night - Breitbart
+27823,2,Celebrities Mourn the Passing of Muhammad Ali
+28060,1,’COMMENTS ARE NOW CLOSED’: Illegal Alien Convicted of Murder After Stabbing Father of Two to Death, Ripping Out His Liver - Breitbart
+28142,3,Jada Pinkett Smith Suggests Minorities Boycott Oscars over All-White Acting Nominations - Breitbart
+28258,1,Transgender Star Eligible for Male and Female Oscar Categories
+28822,1,Open Borders Rap Sheet: 30+ Crimes by Immigrant Suspects in September Alone - Breitbart
+28913,1,Jennifer Lawrence Doesn’t Get What’s ’So Scary’ About Feminism: ’It Just Means Equality’ - Breitbart
+28933,1,Actress Blake Lively Accused of Racism Over Butt Photo - Breitbart
+28968,1,’Deer Hunter,’ ’Heaven’s Gate’ Director Michael Cimino Dies at 77 - Breitbart
+29301,1,Paul Nehlen Billboard Hits Ryan on Trade
+29457,2,’Revenant’ Director Blasts Trump: Building a Wall Would ’Betray the Foundation’ of America - Breitbart
+29572,1,Barbra Streisand Says She Will Move to Australia If Trump Becomes President - Breitbart
+29630,1,Gene Wilder Dies at 83 - Breitbart
+29829,1,’Sully’ Review: Clint Eastwood, Tom Hanks Stick the Landing
+29928,1,Beyoncé Named Most Charitable Celeb for Black Lives Matter Work
+30103,1,Exclusive — Donald Trump: Ted Cruz Would Implement Obamatrade, ‘Will Vote for It Again’ After the Election - Breitbart
+30200,1,Russell Simmons: ’Progressive’ Hollywood ’Incredibly Segregated’ - Breitbart
+30208,4,Oscars Flop: Ratings Hit 8-Year Low - Breitbart
+30238,7,Two-time Oscar Nominee Viola Davis Blames White Oscars on Entire ’Hollywood Movie-Making System’
+30342,1,’No Trump Anytime’ Street Parking Signs Posted in L.A. - Breitbart
+30630,1,Stacey Dash to ’Oscars So White’ Crowd: If You Don’t Want Segregation, ’Get Rid of BET’
+30755,1,8 Times Hillary Clinton Pushed Fake News
+30908,1,Beyoncé Brings Mothers Of Michael Brown, Trayvon Martin To MTV VMAs Red Carpet - Breitbart
+31090,1,T.J. Miller Mocks Donald Trump During 2016 Critics’ Choice Awards - Breitbart
+31186,1,Super Bowl 50: Broncos Win 24-10 Behind Dominant Defense Von Miller Wins MVP - Breitbart
+31493,4,George Clooney Joins #OscarsSoWhite Movement
+31768,1,’Toni Erdmann’ review: A poignant father-daughter comedy
+31783,1,Golden Globes review: Politics take center stage
+31803,1,Hollywood, spare us your hypocrisy
+31892,1,The 14 Trump tweets that defined his high-stakes week
+32014,4,Obama commutes Puerto Rican nationalist’s sentence
+32029,3,Hollywood gears up for the 2017 People’s Choice Awards
+32077,1,Michelle Obama Fast Facts
+32109,1,Kansas City Royals pitcher dies in Dominican Republic
+32160,6,Meryl Streep didn’t need words to react to her Oscar nomination
+32164,1,’La La Land’ fails to make America great again
+32184,2,Mary Tyler Moore, beloved TV actress, dies at 80
+32187,1,’The Mary Tyler Moore Show’: A cast that created a classic
+32223,1,Ivanka Trump’s Instagram account is helping her cultivate a Trump version of Camelot
+32286,2,SAG Awards find unifying theme in addressing Trump policies
+32287,2,SAG Awards 2017 gets political
+32485,1,’Hidden Figures’ star Octavia Spencer on her most ’terrifying’ role yet
+32584,3,Justin Timberlake, more to perform at Oscars
+32620,3,’La La Land’ wins big at BAFTAs
+32681,1,’La La Land’ director on love, romance and that ending
+32788,2,Oscar nominees have these gifts in the bag
+32851,7,Why the Oscars can afford to get political
+32886,3,The 21-year-old Syrian who risked his life for Oscar-nominated documentary
+32902,13,The Oscars: Everything you need to know
+32914,6,The historic Oscar moment you shouldn’t miss
+32920,1,’When We Rise’ chronicles gay-rights movement
+32928,2,’Hamilton’ actor says he expects political speeches at Oscars
+32955,2,Oscars 2017: ’Moonlight’ wins Best Picture after some confusion
+32957,1,ACLU ribbons spotted on Oscars red carpet
+32959,3,Jackie Chan brings two stuffed pandas as his Oscar dates
+32971,4,Oscars host Jimmy Kimmel talks nerves, politics, and Matt Damon
+32975,8,PwC: ’We failed the Academy’ in best picture mess up
+32981,9,Hollywood mobilizes against Trump
+32990,2,Trump: Hollywood’s political obsession led to Oscars blunder
+33209,1,’Stranger Things’ fave cast in pilot for NBC
+33498,1,Why Ryan Gosling giggled during Oscars mix up
+33542,2,Oprah Winfrey Fast Facts
+33544,5,Eddie Murphy Fast Facts
+33545,2,Controversial Police Encounters Fast Facts
+33657,1,Hillary Clinton, it’s too soon
+33682,1,NBA playoffs: Cavs-Warriors III?
+33869,1,Passenger dragged off overbooked United flight
+33870,1,Man filmed being dragged off United flight causes outrage in China
+33892,2,Backlash erupts after United passenger gets yanked off overbooked flight
+33929,1,United reimburses passengers on chaotic flight
+33951,1,Man dragged off United flight was injured, will file suit, lawyer says
+34003,1,Crisis management expert takes on this week’s PR disasters
+34240,3,How Demme showed us America’s nightmare
+34278,1,We need new law to prevent another United fiasco
+34449,1,’Saturday Night Fever’ celebrates 40 years
+34473,1,2 killed as bombs rock Manila district
+34505,1,Removing gender from MTV awards: a start, but not equality
+34942,1,Morgan Freeman Fast Facts
+34966,1,United sorry for falsely accusing gay father of fondling his child
+35093,1,How the ’Sgt. Pepper’ cover might have looked today
+35124,1,Donald Trump called the Manila murders a ’terrorrist attack.’ Except....
+35132,3,Wonder woman, feminist icon or bodacious fantasy figure?
+35282,1,Couple indicted in Texas Denny’s chokehold death
+35371,1,Puerto Rico statehood vote: Big support -- but small turnout
+35518,1,Hollywood reacts to Bill Cosby mistrial
+35615,1,Common talks ’Suicide Squad’ and gun violence
+35764,1,CNN’s Reality Check Team vets Trump’s claims
+35847,3,Cops: Man used 12-year-old boy to lure girls
+36400,1,Lady Gaga, Lenny Kravitz to headline DNC concert
+36409,1,Tiny wall built around Trump’s Hollywood Star
+36413,2,Garry Marshall’s greatest hits
+37036,1,Suspect charged in killings of NY imam, assistant
+37076,1,’Ben-Hur’ remake stumbles across the finish line
+37439,2,Jackie Chan to receive honorary Oscar
+37795,1,Emmys: ’People v. O.J. Simpson’ dominates TV’s biggest night
+38166,1,Former jails transformed into...
+38168,1,Long Island town shaken by slayings of four teens
+38259,1,Pakistan passes milestone law for women
+38294,1,Robert De Niro: I’d like to punch ’bozo’ Trump in the face
+38517,1,’The Crown’: A first look at the connection between Queen Elizabeth and Churchill
+38628,1,LGBT Rights Milestones Fast Facts
+38729,2,Emma Stone on election: It’s time to ’to speak out’
+38942,2,This Chinese ’Mad Max’ rip-off will have fans Furiosa
+38971,1,Robert Redford Fast Facts
+39035,1,Larry Bird Fast Facts
+39215,1,A new golden age of Egyptian cinema?
+39233,9,Academy Awards Fast Facts
+39441,1,2016 In Review Fast Facts
+39547,1,Why 2016 was the year of the colored diamond
+39561,1,Dolly Parton Fast Facts
+39567,1,Lena Dunham’s an easy target but not the problem
+39714,1,Debbie Reynolds, ’Singin’ in the Rain’ star, dies at 84
+39767,4,No, 2016 wasn’t the worst year for celebrity deaths -- and we’ll prove it
+39777,3,Luise Rainer, back-to-back Oscar winner, dead at 104
+39888,1,Fey, Poehler jokes light up Golden Globes
+39891,1,Golden Globes’ Beverly Hilton Hotel has dramatic past
+39939,2,’Transformers’ leads Razzies’ picks for 2014’s worst
+39969,4,Seymour: Is this why ’Selma’ was snubbed?
+39970,1,Academy Award 2015 nominations
+39971,7,LZ: Oscar is much smaller than Selma
+39972,11,5 things we learned from the Oscar nominations
+39998,1,To finish MLK’s work, face up to racism (Opinion)
+40013,1,Fighting death: At 75, nun’s soul still stirs for cause
+40034,3,Why ’American Sniper’ is a hit
+40172,1,Emma Watson to play Belle in new ’Beauty’
+40179,3,’Birdman,’ diversity, speech big moments at SAG Awards
+40309,2,’Star Wars’ standalone movie may star Felicity Jones
+40384,1,83-year-old supermodel Carmen Dell’Orefice is hot
+40395,1,40 reasons why ’SNL’ is still awesome
+40411,2,A Valentine’s Day wedding for Benedict Cumberbatch
+40452,1,’It’s My Party’ singer Lesley Gore dead at 68
+40467,2,’American Sniper,’ the Oscars and that fake baby
+40526,1,Lupita Nyong’o’s dress possibly recovered
+40620,1,’Supergirl’ Melissa Benoist revealed in first CBS photos
+40673,1,Andy Samberg to host the 2015 Emmys
+40739,1,Michael Douglas: We must confront anti-Semitism
+40804,1,Liza Minnelli enters rehab facility for treatment
+40856,1,John Williams: ’Star Wars’ composer takes a break
+40995,1,Outrage over Jamie Foxx’s Bruce Jenner joke at awards
+41033,1,The new women’s movement: Reviving the ERA fight
+41191,1,Did police use excessive force? A look at 3 cases
+41275,1,Paddy Power backtracks over ’beatings’ tweet
+41333,1,New ’Star Wars’ trailer released
+41465,1,First look: Jared Leto is the Joker
+41493,1,Face-off: Mayweather vs. Pacquiao by the numbers
+41496,1,Curfew continues in Baltimore arrests made
+41512,1,How does a legendary American car vanish for 30 years?
+41520,1,The new Joker is here, bringing the memes
+41528,1,Epic miniseries ’Roots’ is getting a remake
+41697,1,David Letterman: Top 10 reasons he’s a comedy god
+41742,1,Martyred  Archbishop Oscar Romero beatified
+41754,1,Told too old? You’re not alone, Maggie Gyllenhaal
+41783,1,The iconic movie I never saw
+41837,1,Actor Sam Shepard arrested on drunken driving charges
+41843,1,Pope Francis sends signal to the poor
+41870,2,’Foxcatcher’: The crazy du Pont next door
+41985,1,Eddie Redmayne lands lead in ’Harry Potter’ spinoff
+42109,2,21 random facts about ’Jaws’
+42155,2,’Lethal Weapon’ actress Mary Ellen Trainor dead
+42248,1,Can you tell Don Lemon how to get to ’Sesame Street’?
+42512,1,James Horner killed in plane crash
+42662,1,Ben Affleck and Jennifer Garner file for divorce
+42705,1,’The Seventies’: 7 movies from the ’70s to binge watch
+42811,1,1st chapter of ’Go Set a Watchman’ has readers in shock
+42853,1,Obama finds story like his own at ’Hamilton’
+42896,1,Theodore Bikel, ’Sound of Music’ star, dies at 91
+42897,1,George Coe, ’SNL’ original castmember, dies at 86
+43224,1,Army veteran who came to the US illegally as a child gives powerful testimony against Jeff Sessions
+43446,1,Netflix and Amazon dropped millions on these Sundance movies everyone will be talking about
+43708,3,United’s CEO cheated death a month into the job and is now leading the company in a battle to become America’s best airline
+43722,1,Warren Buffett’s $10 billion airline investment reveals everything you need to know about the industry
+43797,2,The unbelievable story of why Marlon Brando rejected his 1973 Oscar for ’The Godfather’
+43835,4,New photos reveal what really happened backstage during the massive Oscars screwup
+44345,1,The government is now reviewing the United Airlines incident where a man was dragged off a plane
+44346,1,United responds after shocking video shows doctor being dragged from plane
+44347,3,United is investigating why authorities dragged a passenger off a flight — here’s what it found
+44354,2,United Airlines CEO has finally apologized
+44358,1,Man dragged off United flight breaks his silence, says ’everything’ is injured
+44372,1,Amazon’s Jeff Bezos just explained a key business lesson that could have saved United from its PR fiasco
+44376,1,New video shows the moments before police dragged a man off a United flight
+44423,1,A startup CEO who watched his 84-year-old mother struggle after leaving the hospital is on a mission to change healthcare from the ’inside out’
+44447,1,United Airlines CEO apologizes again for dragging man off a plane — but the company is facing another major problem
+44520,1,We know more about the United incident where a passenger was forcibly dragged off a plane
+44557,1,The lawyer for the United passenger dragged off a plane is suddenly singing the airline’s praises after settlement
+45119,1,Colombia is closing in on the leaders of its biggest gang, but they’re retaliating by copying Pablo Escobar
+45164,1,The internet roasted David West and Tristan Thompson after they got a little too close during an altercation in Game 5
+45388,1,Quentin Tarantino just made a big mistake on the Golden Globes stage
+45939,1,Will Smith’s ’Ali’ co-star says he was an ’a-hole’ on the set who was maybe on steroids
+46007,2,The best-dressed stars on the 2016 Oscars red carpet
+46011,6,Here’s why it’s almost impossible to predict the Oscars
+46013,2,We looked inside the $200,000 Oscar swag bag, and it’s as bizarre as it sounds
+46015,1,’The Look of Silence,’ a film about the 1965 Indonesian genocide, looks to capture the Oscar for Best Documentary after picking up coveted 2016 Spirit Award
+46249,2,An exec who worked at Google for more than a decade reveals what he’ll miss most now that he’s left to join a startup
+46426,1,Charlize Theron says she and Tom Hardy ’struggled’ to get along making ’Mad Max’
+46849,1,Michael Moore: Here’s how Donald Trump can win the general election
+47335,1,Steven Spielberg reveals the one movie that nearly ended his career
+47506,1,J.K. Simmons explains why he really looked so jacked in those workout photos
+48440,2,Oscar favorite ’Arrival’ is one of the best movies of the year — and a big surprise
+48453,1,Oliver Stone attempts to make the Edward Snowden story into a thriller and fails
+48560,2,Jimmy Kimmel burns Donald Trump in fiery Emmys opening monologue
+48662,1,Martin Scorsese’s movie that took 2 decades to make will be released this year
+48954,1,Lincoln just rolled out one of the most hyped cars of the year — here’s the verdict
+49019,1,Obamacare premiums are going up by an average of 25% next year
+49044,1,Legendary director Paul Schrader reveals the ’good news’ and ’bad news’ of casting Nicolas Cage
+49147,1,Nordstrom responds to viral letter calling on retailer to drop Ivanka Trump’s ’toxic’ brand
+49411,1,25 Wall Street movies to watch over Thanksgiving
+49854,1,And, Scene: Hell or High Water
+49868,1,27 Movies to Look Forward to in 2017
+49902,1,The Atlanticâ€™s Week in Culture
+49951,2,The Golden Globes Anoint La La Land and Moonlight
+49986,1,The Absurdity of Attacking Celebrities to Defend Donald Trump

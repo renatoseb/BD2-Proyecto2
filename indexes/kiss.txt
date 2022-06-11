@@ -1,0 +1,504 @@
+8,1,First, a Mixtape. Then a Romance. - The New York Times
+55,2,10 Engaging Proposals, From the Rooftop to the Subway - The New York Times
+123,1,Andrew Garfield, Spiritual Ghost in the Hollywood Machine - The New York Times
+163,1,‘La La Land’ Wins Seven Golden Globes ‘Moonlight’ Wins Best Drama - The New York Times
+216,2,Fox News Settled Sexual Harassment Allegations Against Bill O’Reilly, Documents Show - The New York Times
+389,1,Former ‘Apprentice’ Contestant Files Defamation Suit Against Trump - The New York Times
+478,1,Pet Pigs of New York: Illegal, Embattled, Beloved - The New York Times
+483,1,Women’s March Highlights as Huge Crowds Protest Trump: ‘We’re Not Going Away’ - The New York Times
+667,1,Hugs and Hard Labor on an Indiana Farm - The New York Times
+825,1,The Uncomfortable Love Affair Between Donald Trump and the New England Patriots - The New York Times
+849,1,The Met Opera’s ‘Rusalka’ Is a Dark, Sexy Hit - The New York Times
+904,1,Goodbye, for Good, to Black Sabbath - The New York Times
+940,1,Walter Hautzig, Pianist Whose Talent Helped Him Flee Nazis, Dies at 95 - The New York Times
+1026,1,Going Home to Falluja, a City Slipping Back Into Turmoil - The New York Times
+1060,2,Raymond Smullyan, Puzzle-Creating Logician, Dies at 97 - The New York Times
+1331,1,The Jobs Americans Do - The New York Times
+1355,1,Judge Allows Testimony of Another Accuser in Cosby Case - The New York Times
+1385,1,Feyisa Lilesa, Marathoner in Exile, Finds Refuge in Arizona - The New York Times
+1469,1,Baseball’s Too Slow. Here’s How You Fix It. - The New York Times
+1821,1,The Magician Who Wants to Break Magic - The New York Times
+1955,1,A Father-Son Bonding Mission in the French Alps - The New York Times
+2192,2,The High Price of Leaving Ultra-Orthodox Life - The New York Times
+2193,1,9 Comic Book Heroes Who Could Come Out on the Big Screen - The New York Times
+2219,2,The Face of Miscarriage - The New York Times
+2248,1,Bill O’Reilly Thrives at Fox News, Even as Harassment Settlements Add Up - The New York Times
+2277,1,More Trouble at Fox News: Ailes Faces New Sexual Claims and O’Reilly Loses Two Advertisers - The New York Times
+2391,1,At Ringling Brothers Circus, Preparing for the Final Bows - The New York Times
+2436,2,In the Shadow of a Fairy Tale - The New York Times
+2465,1,Chuck Berry Is Hailed as a Rock Trailblazer and a St. Louis Hero at His Funeral - The New York Times
+2608,1,Prince Knew What He Wanted: Sex, Soul and You - The New York Times
+2610,1,Prince, an Artist Who Defied Genre, Is Dead at 57 - The New York Times
+2652,1,A Former Girl Soldier in Colombia Finds ‘Life Is Hard’ as a Civilian - The New York Times
+2686,1,What Is the Met Gala, and Who Gets to Go? - The New York Times
+2718,2,Crossing the Line: How Donald Trump Behaved With Women in Private - The New York Times
+2772,1,Pioneertown Wants to Be the New Old West - The New York Times
+2773,1,Revel in the Bounty of Spring, With a Feast From Yotam Ottolenghi - The New York Times
+2827,1,Connie Kopelov, of First Same-Sex Couple Legally Married in New York, Dies at 90 - The New York Times
+2888,1,And Like a Tweet in the Night, Kanye Was Gone - The New York Times
+2900,1,Meryl Streep Does a Number on Donald Trump at Public Theater’s Gala - The New York Times
+2919,1,Muhammad Ali Was Her First, and Greatest, Love - The New York Times
+2976,1,Don’t Like Roller Coasters? The View From Earth Is Fine - The New York Times
+3008,1,‘Always Agitated. Always Mad’: Omar Mateen, According to Those Who Knew Him - The New York Times
+3040,2,How to Survive Being an Airbnb Host - The New York Times
+3151,1,Hershey Rejects Mondelez’s $23 Billion Takeover Offer - The New York Times
+3273,1,Can the Circus Go On Without Elephants? Ringling Bets It Can - The New York Times
+3274,2,Too Old for Sex? Not at This Nursing Home - The New York Times
+3433,1,Are Final Clubs Too Exclusive for Harvard? - The New York Times
+3506,1,Alex Rodriguez’s Orchestrated Move May Not Be His Last - The New York Times
+3517,1,Rio Olympics: Drama in the Pool and a Super Tuesday - The New York Times
+3623,1,Mark Twain Found Inspiration in Germany (Though Not German) - The New York Times
+3644,1,Flooding Compounds Pain of Tragic Summer in Baton Rouge - The New York Times
+3742,1,What Do You See in Art? Nearly 50 People Told Us - The New York Times
+3746,1,Security in a Bright Yellow Suitcase - The New York Times
+3760,1,For Aaron Krickstein, and a Reporter, a Covered Open Brings Closure - The New York Times
+3762,1,Watching the Obamas’ First Date, and Feeling a Little Uncomfortable - The New York Times
+3772,3,Gene Wilder Dies at 83 Star of ‘Willy Wonka’ and ‘Young Frankenstein’ - The New York Times
+3798,1,Highlights of Donald Trump’s Immigration Speech and Mexico Trip - The New York Times
+3839,1,Prince’s Old Band Resurrects Him Through His Songs - The New York Times
+3914,1,What Muslims Do on Hajj, and Why - The New York Times
+3928,1,Real-Time Election Day Projections May Upend News Tradition - The New York Times
+3968,2,Throwing Stones and Slaughtering Sheep at the Hajj - The New York Times
+4001,1,U.S. Presidential Race, Syria, William Bratton: Your Friday Evening Briefing - The New York Times
+4016,1,A Chicago Shooting Survivor, but in Need of a Miracle - The New York Times
+4150,1,Hoboken Train Crash Kills 1 and Injures Over 100 - The New York Times
+4181,1,Husband of Hoboken Crash Victim Struggles to Tell Their Child - The New York Times
+4201,1,A Rabbi’s Enduring Sermon on Living Your Last Five Minutes - The New York Times
+4272,1,Martha Raddatz and Anderson Cooper Steered Debate With Sharp Questions - The New York Times
+4287,1,Was That a Debate? Or Were the Candidates Just Trying to Go Viral? - The New York Times
+4321,1,Elena Ferrante’s Picture Book Embraces the Dark Side - The New York Times
+4322,2,Donald Trump Calls Allegations by Women ‘False Smears’ - The New York Times
+4342,1,Cholera Deepens Haiti’s Misery After Hurricane - The New York Times
+4373,2,‘They’re Lies’: Melania Trump Rejects Women’s Claims That Husband Groped Them - The New York Times
+4387,1,Donald Trump Pledges to ‘Heal Divisions’ (and Sue His Accusers) - The New York Times
+4391,2,Scotland Embraces Gay Politicians in a Profound Cultural Shift - The New York Times
+4397,1,Donations to Foundation Vexed Hillary Clinton’s Aides, Emails Show - The New York Times
+4444,1,Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance - The New York Times
+4529,1,London Bridges Are Lighting Up - The New York Times
+4537,1,The Playlist: The xx Return in a Brighter Mood - The New York Times
+4553,1,Paris: One Year On - The New York Times
+4606,2,When Eve and Eve Bit the Apple - The New York Times
+4623,1,High in Tower, Trump Reads, Tweets and Plans - The New York Times
+4631,1,Along the Autism Spectrum, a Path Through Campus Life - The New York Times
+4793,1,‘We Are Orphans Here’ - The New York Times
+4808,1,Extremists Turn to a Leader to Protect Western Values: Vladimir Putin - The New York Times
+4814,1,The Scourge of Racial Bias in New York State’s Prisons - The New York Times
+4859,2,Oakland Fire Victims Included Performers, Educators and Lawyers - The New York Times
+5071,1,Fight - The New York Times
+5116,1,Watch George Michael Perform Live: 5 Memorable Videos - The New York Times
+5123,1,A Letter to the Doctors and Nurses Who Cared for My Wife - The New York Times
+5160,1,Russians No Longer Dispute Olympic Doping Operation - The New York Times
+5184,1,Judith Clark’s Radical Transformation - The New York Times
+5190,1,A Voice of Christmas Past Returns, Asking for a Hippopotamus - The New York Times
+5207,1,Donald Trump Assails ‘Rigged’ Delegate System, Saying He Chooses Not to Exploit It - The New York Times
+5256,1,From Albany to Prison: Ex-Lawmakers on Life Behind Bars - The New York Times
+5320,2,Decades After ‘Boom-Boom Room’ Suit, Bias Persists for Women - The New York Times
+5358,3,Muhammad Ali Remembered, by Those Who Knew Him as Cassius - The New York Times
+5403,4,Court Papers Give Insight Into Stanford Sex Assault - The New York Times
+5438,1,What You Should Watch: ‘Greenleaf’ and ‘Thirteen’ - The New York Times
+5579,1,Sparkling and Blighted, Convention Cities Spotlight Ignored Urban Issues - The New York Times
+5607,3,At Fox News, Kisses, Innuendo, Propositions and Fears of Reprisal - The New York Times
+5655,1,Katinka Hosszu and Her Husband Raise Eyebrows at the Pool - The New York Times
+5810,1,Victim in New Hampshire Prep School ‘Senior Salute’ Case Speaks Out - The New York Times
+5880,2,Cast-Out Police Officers Are Often Hired in Other Cities - The New York Times
+6036,5,Donald Trump Apology Caps Day of Outrage Over Lewd Tape - The New York Times
+6045,2,Donald Trump’s Conduct Was Excused Again and Again. But Not This Time. - The New York Times
+6048,1,An Opera Star Finds the Right Duet - The New York Times
+6074,1,Survivor of Connecticut Plane Crash Tells of Argument in Cockpit - The New York Times
+6076,1,After Donald Trump, Will More Women Believe Their Own Stories? - The New York Times
+6077,13,Two Women Say Donald Trump Touched Them Inappropriately - The New York Times
+6141,1,Mary Keitany of Kenya Wins 3rd Straight New York City Marathon - The New York Times
+6374,2,An Almost-Love Story - The New York Times
+6456,1,Bored, Broke and Armed: Clues to Chicago’s Gang Violence - The New York Times
+6457,2,On an East Side Corner, a Christmas Tree Vendor Offers Familiarity (and Spirits) - The New York Times
+6491,2,Death of a Red Carpet Reporter - The New York Times
+6616,1,‘Swiss Army Man,’ the Strangest Movie Shown at Sundance? - The New York Times
+6672,1,Australian Candidates Woo Allies as Election Deadlock Continues - The New York Times
+6680,1,‘Time in the Box’: Young Rikers Inmates, Still in Isolation - The New York Times
+6781,1,The Billion-Dollar Jackpot: Engineered to Drain Your Wallet - The New York Times
+6796,1,A Single Mom Escapes the Friend Zone, One Non-Date at a Time - The New York Times
+6892,1,Bill Murray, Brooklyn Bartender - The New York Times
+6912,1,Young Rural Women in India Chase Big-City Dreams - The New York Times
+6976,4,Trump Recording Narrows Divide on Sexual Assault - The New York Times
+6977,10,A Traveler’s Guide to Customs: When to Shake Hands, Hug or Kiss - The New York Times
+6997,1,Grandmother’s Killing Lays Bare a Dilemma in Child Welfare Work - The New York Times
+7021,2,‘They Will Have to Die Now’ - The New York Times
+7109,1,‘I Want to Kiss America’: A Woman Who Fled Nazis, Then Russia, Makes a Life in Brooklyn - The New York Times
+7174,2,The Fighter - The New York Times
+7201,1,On the Ground in Aleppo: Bloodshed, Misery and Hope - The New York Times
+7287,1,Zika Virus Case in Utah Baffles Health Officials - The New York Times
+7305,2,For Anne Holton, Tim Kaine’s Wife, Elite Circles Are Old Turf - The New York Times
+7403,1,Donald Trump Talks at Debate, but Many Women Hear Only a 2005 Tape - The New York Times
+7529,1,Provost Resigns Amid Sexual Harassment Case at Berkeley - The New York Times
+7534,1,Sweep in Bronx Tackles Decade of Gang Chaos - The New York Times
+7608,1,Mondelez Abandons Its Efforts to Combine With Hershey - The New York Times
+7645,1,Melissa Mark-Viverito, New York Council Speaker, Reveals She Was Sexually Abused - The New York Times
+7687,1,A Mother Is Shot Dead on a Playground, and a Sea of Witnesses Goes Silent - The New York Times
+7691,1,Visiting the African-American Museum: Waiting, Reading, Thinking, Connecting, Feeling - The New York Times
+7718,2,One Police Shift: Patrolling an Anxious America - The New York Times
+7732,1,‘I Have a Black Son in Baltimore’: Anxious New Parents and an Era of Unease - The New York Times
+7750,1,Voice Shaking, Michelle Obama Calls Trump Comments on Women ‘Intolerable’ - The New York Times
+7779,1,Debbie Reynolds and Carrie Fisher, a Mother-Daughter Act for the Ages - The New York Times
+7792,1,Review: Garth Brooks Brings Rousing Anthems and Ballads to Yankee Stadium - The New York Times
+7851,1,Marvel Responds After Artist Allegedly Inserts Anti-Semitic and Christian References in X-Men Comic - Breitbart
+8320,1,Texas Sees Bump in Mumps
+8490,1,LGBT Writer: I Won’t Accept Gay Conservatives ‘Coming Out’ as Trump Supporters - Breitbart
+8604,1,Turner Classic Movies Sets 24-Hour Debbie Reynolds Marathon
+8635,2,Oscars ’Tourist’ Revealed to Be Registered Sex Offender
+8740,1,Michael Caine: I Voted Brexit for ’Freedom’
+8823,1,5 of Meryl Streep’s Dumbest Political Comments
+9008,1,Sex Attacks and Violence Plagued Austria’s NYE Celebrations
+9025,1,Top Five Media-Generated Non-Stories from Trump’s Foreign Trip - Breitbart
+9517,1,Livewire: 89th Annual Academy Awards
+9576,1,Ashton Kutcher Blows Kiss to John McCain During Senate Hearing
+10173,1,DHS Kelly Creates VOICE For Many Victims of Illegal Alien Criminals - Breitbart
+10281,1,MTV’s Ira Madison III Calls Jeff Sessions’ Granddaughter ’Prop’ Stolen from Toys R Us - Breitbart
+10484,1,Exclusive - Rand Paul: Let’s ’Smash’ Paul Ryan’s Obamacare Lite ’to Smithereens’ - Breitbart
+11005,1,Donald Trump ’Winning’ War with CNN
+11300,1,Megyn Kelly Leaving Fox News for NBC
+11325,1,15 Times Celebrities Envisioned Violence Against Trump and the GOP
+11374,1,High School Basketball Player Scores an Amazing 92 Points in One Game - Breitbart
+11428,1,’Beauty and the Beast’ Director: Gay Controversy Is ’Overblown’
+11848,1,Sen. Rand Paul: I Talked to President Trump Last Night He’s ’Very Open to Negotiation’ on Obamacare Repeal
+11884,5,#LipStickItToTheMan: Trump Resistance Lipstick Lobby Funds Planned Parenthood
+12600,1,Amy Schumer to Star in ’I Feel Pretty’
+12757,1,Manchester Bomber ’Part of Mob Who Waged Intimidation Campaign Against Gang Rape Victim’ - Breitbart
+12840,1,Liberals Get a Pass: 4 Times the Media Ignored Leftists’ Comments About Pedophilia - Breitbart
+13228,1,7 Celebrities Who Believe It’s Not Their Job to Talk Politics
+13280,1,Dems Taunt Republicans with ‘Na Na Na Na’ Chant After Passage of Revised American Health Care Act - Breitbart
+13282,3,Inauguration 2017: The Swearing In of President Donald Trump - Breitbart
+13384,1,’Icon’ Colin Kaepernick Named to ’Time’ 100 Most Influential People List - Breitbart
+13611,1,OUT Magazine’s Chadwick Moore Comes Out as Conservative, Cites Backlash from Left Following MILO Profile - Breitbart
+13713,1,Designer Accused of ’Fat-Shaming’ Amy Schumer over InStyle ’Beauty’ Magazine Cover
+13797,1,Exclusive—ICE, Remembrance Project Condemn ’Vicious’ Attacks on Victims of Illegal Alien Crime - Breitbart
+13868,1,Senators Schumer, Gillibrand Helped Indian Athlete Currently Charged with Sex Abuse to Enter U.S. - Breitbart
+13905,3,Allison Williams Blasted for ’Racist’ Jokes at MTV Movie Awards
+14392,1,Watch: SNL’s Spicer Reacts to Possibility of Being Fired - Breitbart
+14776,1,The Nuclear Option: Creepy Kimmel Politicizes Infant Son’s Health Crisis
+14779,1,Katy Perry: ’I Did More’ Than Just Kiss a Girl During Christian Upbringing
+14820,1,LGBT Anti-Trump Protest in DC Fizzles Bigly - Breitbart
+14893,1,Frank Gaffney: ’Blood in the Water’ After Flynn Resignation ’Sharks Will Be Circling for Others’
+14923,2,5 of Madonna’s Dumbest Political Statements
+15323,2,Muslim Plotting to Join Enslave 9-Year-Old Girl Faces Jail
+15332,1,Elite Boarding School Admits Decades of Sexual Abuse
+15336,1,Frank Gaffney: Comey FBI’s ’Malfeasant Approach’ to Islamist Threat ’Warranted a Cleaning of House’
+15647,1,WATCH: Beyoncé Busts Out Politically Charged ’Formation’ at Super Bowl Halftime Show - Breitbart
+15816,2,Begala: Woman Who Kissed Trump at Caucus ’Could Be a Future Trophy Wife’ - Breitbart
+15869,1,Colin Kaepernick Praises Castro, Lashes Out at NFL Fans - Breitbart
+16004,3,Ted Cruz Booed as He Tells Republicans: ’Vote Your Conscience’
+16099,1,Afghanistan Migration Surging into America 99% Support Sharia Law - Breitbart
+16234,1,Live Updates - Terror in Orlando: Approximately 50+ dead, 50+ More Wounded at Gay Nightclub - Breitbart
+16304,1,Report: Rihanna Cancelled Grammys Spot Following ’Hysterical’ ’Meltdown’
+16316,1,Flashback: Hillary Clinton Praises ’Friend and Mentor’ Robert Byrd (a KKK Recruiter) - Breitbart
+16456,2,Omar Saddiqui Mateen: 6 Facts About Orlando Terrorist - Breitbart
+16496,1,SPOILER: New Anthony Weiner Documentary Backed By George Soros - Breitbart
+16521,1,Alicia Keys to Paul Ryan: Be My Valentine for Criminal Justice Reform - Breitbart
+16771,2,Former Disney Star Bella Thorne Comes Out as Bisexual on Twitter - Breitbart
+16907,1,Schools Urged To Be Alert To Forced Marriages And FGM
+17010,1,Couple Making Out at Bar Uninterrupted by Armed Robbery - Breitbart
+17024,1,10 Songs You Didn’t Know Were Written by Prince - Breitbart
+17316,1,Grammy Awards: Beyoncé Leads Noms with BLM-Inspired ’Lemonade’
+17478,4,Miley Cyrus: ’Kiss My Ashtanga Ass’ if You Aren’t Voting Hillary
+17636,1,Irony Alert: ’Coonery’ Filmmaker Keeps Oprah Winfrey Afloat - Breitbart
+17765,1,***Horse Race LiveWire*** Election Night in West Virginia, Nebraska - Breitbart
+17806,1,Gun Sales to Gays, Lesbians Skyrocket Following Orlando
+18159,2,2016 Election Day: Live Updates - Breitbart
+18190,4,WATCH: Rapper Boosie Badazz Says Today’s TV Shows are Making Children ‘F*cking Gay’ - Breitbart
+18554,1,8 Criminals, Abusers And Harassers Who Remain Verified On Twitter
+18836,1,France Has 5 Million Muslims And Only A Few Hundred Attended ’Solidarity’ Mass After Nice Attack
+18865,2,Ann Coulter: Trump’s Problem with Women - Breitbart
+18992,1,’Emotions, Revenge, Repressed Homosexuality’... How The Media Covered For Orlando Terrorist Omar Mateen
+18996,1,Matt Drudge Taunts Establishment: GOP Delegate Count Looks Like ’Drudge Report Poll Results!’ - Breitbart
+19200,1,’Foreign Men’ Blamed After Mass Sex Assault At Music Festival, Youngest Victim Just 12 Years Old
+19252,1,Rap Sheet: The Women Who Claim to Be Victims of Bill and Hillary Clinton - Breitbart
+19439,1,Hillary Clinton Has Not Done One Thing for Israel - Breitbart
+19458,1,Texas Cop Pauses for Tea Time on Anniversary of Saving Little Girl’s Life
+19549,1,Illegal Aliens Rally for Sanctuary for Aliens, Muslims, LGBTs
+19754,3,Paula Jones: Clinton ’Two Faced,’ ’Liar,’ ’Cares Nothing About Women at All’
+19783,2,Donald Trump May Benefit From Backlash Against Pope’s Comments - Breitbart
+19801,2,WATCH: Pope Francis Washes, Kisses Feet of Migrants on Holy Thursday - Breitbart
+19851,1,FULL TEXT: MILO On How Feminism Hurts Men And Women - Breitbart
+20036,3,WaPo: Donald Trump, Billy Bush Caught on Tape in ’Extremely Lewd Conversation About Women’ - Breitbart
+20344,1,Clint Eastwood: Donald Trump Challenging ‘Kiss-Ass Generation’ - Breitbart
+20532,1,***Live Updates*** GOP Candidates Debate in New Hampshire - Breitbart
+20640,1,Five Crazy Crimes That Have Occurred at Rio Olympics -- Already
+20820,1,Kissing the Ring: Bernie Sanders Breaks Bread With Al Sharpton - Breitbart
+20883,1,Seven Black Panther Party Facts Amid Beyoncé Super Bowl Tribute
+20892,2,Hillary Clinton Campaign Ad Features Men Kissing - Breitbart
+21180,1,Orlando Terrorist Allegedly Traveled to Saudi Arabia, UAE - Breitbart
+21426,2,Hillary’s ’Basket of Deplorables’ Smear Sparks Twitter Backlash - Breitbart
+21792,1,The Nuclear Option: Press Furious Trump Still Tweeting His Message Directly to the People - Breitbart
+21849,1,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+21917,2,Wikileaks—Clinton Insider Calls Chelsea a Back (and Front) Stabber: ’Apple Doesn’t Fall Far’ - Breitbart
+21944,1,#FabulousWall Contest: The Winners - Breitbart
+22293,1,The Nuclear Option: As the World Burns, ’Clinton News Network’ Sets Out to Prove Trump Is Crazy - Breitbart
+22358,3,Gene Simmons: Trump Won - ’People Should Get Over It and Move On’ - Breitbart
+22385,1,SJWs Force Canadian Oil Group To Apologize For Saudi-Mocking ’Hot Lesbians’ Ad - Breitbart
+22592,1,Fans Petition Disney for Lesbian Princess Elsa in ’Frozen’ Sequel - Breitbart
+22629,1,Here’s Why The Left Is So Desperate To Defend The New Feminist Ghostbusters - Breitbart
+22832,1,Mickey Rourke: Donald Trump ’Can S*ck My F**king D*ck,’ Threatens to Beat GOP Candidate With Baseball Bat - Breitbart
+22879,3,Eyewitness Anthony Gilberthorpe Challenges Trump Plane Accuser’s ’Wild Allegations’ of Sexual Assault
+23127,1,Rio de Janeiro: Security Guard Rapes Female Firefighter in Olympic Village - Breitbart
+23199,3,EXCLUSIVE - Juanita Broaddrick Provides Never Before Published Details On Bill Clinton’s Rape
+23252,1,***DNC LiveWire*** Hillary Clinton Accepts Nomination - Breitbart
+23359,1,Producer: Xena Is Gay in ’Warrior Princess’ Reboot - Breitbart
+23467,1,Corey Lewandowski’s Lawyer: Partial Birth Abortion Advocate, Accused of Biting Stripper - Breitbart
+23573,3,Juanita Broaddrick: NBC Kept Me from Mention Hillary Clinton
+23634,1,The Orlando Shooter’s Hillary-Supporting Dad Hates Gays Too, But I’m Sure That’s Just A Coincidence - Breitbart
+23752,1,Porn Star Becomes Latest Trump Accuser - Day After Launching Online Sex Store - Breitbart
+23910,1,Gutfeld: You Don’t Belong In Media, If You Don’t Think Trump Camp’s ’Grotesque,’ ’Sopranos’ Threats Against Kelly Are a Big Deal - Breitbart
+23981,1,Actor Gérard Depardieu Holds Hunting Rifle by Dead Deer in Ad - Breitbart
+24109,2,Celebrities Melt Down on Twitter During First Presidential Debate
+24148,1,***Live Updates*** Trump vs. Clinton, Round One - Breitbart
+24378,1,Cologne Migrant Who Licked And Groped Girls Laughs As He Walks Out of Court a Free Man
+24470,1,Daughter of Fallen Deputy Sheriff Honors Late Father in Photos
+24516,1,If You Love Israel, Trump is the Only Possible Choice - Breitbart
+24568,1,Elizabeth Warren: ’Throw Donald Trump Down The Drain’ - Breitbart
+24827,2,Underage Migrant Gang Sexually Assault German Women
+24865,1,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+24871,1,Twin Falls Police Report Reveals Shocking Details of Latest Refugee Sex Assault - Breitbart
+24922,3,Media Silent On Bill Clinton Double Rape Bombshell - Breitbart
+25090,1,UPDATE–Fox News Chief Fights Back: ’Roger Ailes Has Never Sexually Harassed Megyn Kelly’ - Breitbart
+25342,2,McHugh: Catholic Church ’Prostrating Themselves Before a Religion That’s Been At War With Them for 1400 Years’ - Breitbart
+25625,1,Second Olympic Boxer Faces Sexual Assault Allegations Against Housemaids at Athlete’s Village - Breitbart
+25817,1,New: ’Emotional First Aid Kits’ for Social Justice Warriors
+25836,2,Palin Blasts ‘#NeverTrump Traitors’ Still Backing Hillary: ‘She Can’t Win Without You’ - Breitbart
+25991,1,Gene Simmons: Celebs Should ’Shut Their Pie Holes’ About Politics
+26146,1,Exclusive – Pro-Trump Millennials: ’Slap Yourself Upside of the Head’ if You’re Voting Hillary - Breitbart
+26166,1,Gene Simmons: Donald Trump ’Changed the Game’ in Politics, ’Doesn’t Care’ What Critics Say - Breitbart
+26242,3,Trump Campaign Features Bill Clinton Rape Accuser Juanita Broaddrick In New Anti-Hillary Ad - Breitbart
+26369,1,Rove-Stupid: Governor Snyder Goes Full Rove-Bush Katrina on Flint Water Crisis - Breitbart
+26468,1,Milo: Even If You’re Acquitted Of Rape, Feminists Can Still Ruin Your Life - Breitbart
+26821,1,Exclusive: On Eve of South Carolina Vote, Nation’s ICE Officers Detail How Marco Rubio Betrayed Them - Breitbart
+26894,1,Teacher Charged with Forcible Sodomy of Student
+27070,1,Exclusive — Behind The Scenes With Trump In Detroit: How The Donald Has Become ’The Hope Candidate’ - Breitbart
+27101,1,Maher: Given the Choice Between Cruz and Trump, I Pick Cruz - Breitbart
+27140,1,Ted Cruz: Trump ‘Is Blatantly Lying to You and Laughing About It’ - Breitbart
+27165,1,***Orlando/2016 LiveWire*** Obama Pushes Gun Control: ’More Massacres’ if ’We Don’t Act’ - Breitbart
+27208,2,Mexican Marines Denounce Superiors’ Unwillingness to Fight Cartels
+27239,2,The Left Chose Islam Over Gays. Now 100 People Are Dead Or Maimed In Orlando - Breitbart
+27246,3,Breitbart’s Klein: Bill’s Female Victims ‘Feel More Empowered,’ ‘They’re Not As Intimidated’ - Breitbart
+27306,2,EXCLUSIVE: Mexican Cartel Hitmen Forced to Wear Women’s Lingerie After Capture
+27419,1,University Student Suspended Despite Police Dismissal of Sexual Assault Accusation - Breitbart
+27631,1,Germany: Man Shouting Allahu Akhbar Tried to Behead Surgeon
+27760,1,Paul Ryan Bows to Nationalist Populism as His Career Flashes By
+27772,1,Students Face Expulsion for Creating Game That Promotes ’Rape Culture’ - Breitbart
+27880,1,Colbert: Trump Will ’Wipe His Fat Ass With the Constitution’
+27944,1,Newt Gingrich Challenges Megyn Kelly on Anti-Trump Bias in Epic Showdown...Megyn Won’t Call Bill Clinton a ’Sexual Predator’ - Breitbart
+27977,1,CDC Addresses Zika Virus: Abstain from Sex During Pregnancy - Breitbart
+28047,2,Pamela Geller on the Trump Video: Liberals Suddenly Discover Morality   - Breitbart
+28057,1,Top Downing Street Staffers Hurled Abuse at Candidate Donald Trump With Nazi Comparisons and Pro-Islam Baiting
+28066,1,Malaysia Arrests Police Officer, 14 Others for Islamic State Ties
+28152,1,Clint Eastwood: Khizr Khan Being ’Exploited’ by Democrats - Breitbart
+28351,1,Father of Orlando Shooter to NBC News: ’This Has Nothing to Do With Religion’ - Breitbart
+28396,2,**Live Wire** Jihad in Orlando: Milo Yiannopoulos at Ground Zero - Breitbart
+28514,1,Police: Cascade Mall Shooter Arcan Cetin Blamed Cannabis for His Behavior
+28687,1,Coworker: Orlando Jihadi Wanted to ’Kill All Black People’ but Employer Did Nothing - Breitbart
+28767,1,Vatican Expert: Pope Francis a ‘Friend of Islam’
+28822,1,Open Borders Rap Sheet: 30+ Crimes by Immigrant Suspects in September Alone - Breitbart
+28910,1,Honolulu Pays Lesbian Couple $80k After Kissing Arrest
+28972,1,Gingrich Slams Megyn Kelly for Treatment of Trump - ’You Are Fascinated With Sex and You Don’t Care About Public Policy’ - Breitbart
+29076,1,Mexican Troops, Border Residents Support Heavy-Handed Tactics Against Drug Cartels
+29182,2,Christians And Gays Unite: Billy Graham Team Pray For Milo - Breitbart
+29219,2,Trump: With Hillary SCOTUS Picks You Can ’Kiss the 2nd Amendment Goodbye’ - Breitbart
+29272,6,Madonna Blasted for Making Orlando Shooting About Herself
+29280,3,Breitbart’s Klein: Broaddrick Rape Accusations Nearly Brought Me to Tears - Breitbart
+29318,1,Reeling from Falling Polls, Paul Ryan Floods District with Mailers on Border Security After Funding Every Obama Open Borders Initiative - Breitbart
+29359,2,***2016 LiveWire*** Trump v. Clinton on Foreign Policy - Breitbart
+29394,5,Disney’s ’Once Upon a Time’ Features Lesbian ’True Love’s Kiss’ - Breitbart
+29473,1,NYTimes: Two Women Say Donald Trump Touched Them Inappropriately - Breitbart
+29646,4,Pregnant Women Defy Zika at Brazil Carnival
+29728,1,Ann Coulter: Trump Wins ’Disavowal’ Game, Then Super Tuesday - Breitbart
+29907,1,Naked Fans Inspire Yale to First Victory over Harvard in a Decade - Breitbart
+29925,4,Chris Matthews: Why Is Trump Thinking About Hiring ’Two-Faced Politician’ Romney? - Breitbart
+30039,1,Dove Soap Father’s Day Ad Features Two Gay Dads - Breitbart
+30084,1,WATCH: Meryl Streep Dons Fat Suit and Orange Makeup to Play Donald Trump - Breitbart
+30142,1,A Year After Honoring a Man in a Dress for Courage, ESPN Honors a Man in a Boy’s Body - Breitbart
+30152,1,Flashback: The Saint and The Princess - Breitbart
+30193,1,TX Lt. Gov. Tweets ’A Man Reaps What He Sows’ After Gay Club Shooting -- Bad Timing or Message?
+30412,2,20 Most Epic Celebrity Trump Meltdowns of 2016
+30522,1,Bill Cosby Ordered to Stand Trial for Alleged Sex Assault - Breitbart
+30601,1,NBA Sells Rainbow Shirts to Raise Money for Gay Organization That Instructed HS Students in ’Fisting’ - Breitbart
+30775,1,Video: Kurdish Troops Free Sunnis Outside of Mosul: ’It Felt Like the Liberation of France’ - Breitbart
+31186,1,Super Bowl 50: Broncos Win 24-10 Behind Dominant Defense Von Miller Wins MVP - Breitbart
+31207,2,Top Twenty Sexual Crimes Committed at Target Stores - Breitbart
+31208,1,Bikers For Trump To Patrol Cleveland During RNC Convention
+31289,1,Report: Megyn Kelly Accuses Roger Ailes of Sexual Harassment
+31314,1,Omar Mateen Was Background Checked, Had ’Statewide Firearms License’ - Breitbart
+31487,1,Migrants Sexually Attack Girls at City Hall Youth Party
+31561,2,Fans Petition Marvel for Gay Captain America - Breitbart
+31586,1,New year celebrations ring in 2017
+31627,1,’Stray’ bullet hits Texas legislator in the head
+31773,1,In January, ’ex’ marks the spot
+31858,1,Iraq’s unnamed victims of terror
+31926,1,Teen stolen as baby meets biological parents
+31971,1,Fake IDs may have cracked 18-year kidnapping case
+31984,1,Trump education pick painted by Dems as unqualified
+32164,1,’La La Land’ fails to make America great again
+32231,1,Washington state mumps outbreak: 278 cases, 5 counties
+32417,1,Injured toddler’s future waits on Trump policy
+32434,1,Eminem unleashes on Donald Trump
+32524,1,Washington mumps outbreak continues to grow
+32615,2,Nightclub Fires Fast Facts
+32682,1,Told to go: What’s next for this undocumented mom?
+32712,1,Regis Philbin and Kelly Ripa don’t talk
+32755,1,Trump hands mic to supporter at Florida rally
+32816,1,Donald Trump Fast Facts
+33078,1,Theater refuses ’Beauty’ over gay ’moment’
+33087,1,Being gay in Latin America: Legal but deadly
+33121,1,No tears left to cry: Voices from inside Duterte’s Davao
+33589,2,Could kidnapping law work in Tennessee teacher’s favor?
+33660,3,Missing Tennessee student spotted with teacher in Oklahoma
+33884,2,Cosby’s children books targeted for censorship
+34056,1,Former NFL star Aaron Hernandez hangs himself in prison, officials say
+34115,2,’I’m glad this is over’: Tenn. teacher accused of kidnapping girl arrested in Calif.
+34120,2,Tad Cummins arrest: Tip leads to isolated cabin
+34138,3,How the adults failed Tennessee teen girl
+34162,2,End of the road: 39 days on the run for missing teacher and student
+34364,1,In Hong Kong’s bid for Gay Games, a bid for equality in Asia
+34505,1,Removing gender from MTV awards: a start, but not equality
+34572,1,CNN 10 - May 11, 2017
+34669,1,President Trump, please don’t fire Sean Spicer
+34747,1,Tad Cummins, former teacher, indicted on federal charges
+34836,1,Chicago launches campaign in response to Trump’s immigration policies
+34891,2,Who are the victims of the Manchester attack?
+34937,1,Joe Namath Fast Facts
+34994,1,UK reduces terror threat level to ’severe’
+35057,1,Player banned from French Open for trying to kiss reporter
+35212,1,Bill Cosby’s lawyers open with attack on accusers’ credibility
+35368,2,Paul McCartney Fast Facts
+35581,1,Saudi Arabia’s king replaces nephew with son as heir to throne
+35610,2,What you need to know about Zika
+35614,2,Taylor Swift and Calvin Harris: #delete
+36340,1,’Power’ season 3: We get you ready
+36376,1,Melania Trump’s unexpected moment
+36405,1,Trump campaign tries to move on from plagiarism controversy
+36588,1,That time Walmart got offended by the idea of a female president
+36602,1,10 takeaways from the Democratic convention
+36825,1,2nd Olympic boxer accused of sexual assault
+36894,1,Convicted child molester Sandusky begins appeal
+36928,1,Rio 2016 Olympics: Day 7 as it happened
+36943,1,Jerry Sandusky begins appeal
+37034,1,Britney Spears to perform at MTV VMAs
+37188,1,Hollywood stars pay big to hobnob with Hillary Clinton
+37325,1,Gilda Radner and Gene Wilder: A love story
+37513,2,Sporting protests: Kaepernick’s stand is far from the first
+37577,1,Did Gary Johnson miss his chance?
+37619,3,Nurse kissed by sailor in V-J Day photo dies
+37798,1,’Fault in Our Stars’ couple: Dalton Prager dies
+37898,2,How this Muppet is changing lives in war-torn Afghanistan
+37930,1,’Fault in Our Stars’: Katie Prager dies
+37990,1,Miami Marlins remember star pitcher Jose Fernandez
+38134,1,Kim Kardashian West in New York after robbery
+38137,2,Atlanta Braves say farewell to Turner Field
+38254,4,Source: Trump attempted boardroom kiss
+38255,5,Trump issues defiant apology for lewd remarks
+38257,3,Can Donald Trump recover from this?
+38268,2,12 times Donald Trump declared his ’respect’ for women
+38274,1,Iraq: Families flee battle for ISIS-held town
+38283,1,Trump’s GOP trouble? It’s about white women
+38289,1,We’re shocked: Donald Trump is a sexist
+38307,1,Who won the town hall debate?
+38323,1,GOP on the precipice
+38362,3,What would happen if you experienced Trump’s brag?
+38366,1,Michelle Obama denounces Trump for ’bragging about sexually assaulting women’
+38380,1,The sexist trope Clinton’s supporters must not use
+38381,1,New life, apart: Brothers conjoined at head are in surgery
+38394,1,Tweets show why women don’t report sex assault
+38398,2,Trump accuser: He touched me ’wherever he could find a landing spot’
+38406,9,These women have accused Trump of sexual harassment
+38412,1,Will the ’Apprentice’ tapes remain secret?
+38415,1,Trump casts away his teleprompters
+38425,2,Trump on sex assault allegations: ’I am a victim’
+38428,7,2 additional women accuse Trump of sexual assault
+38441,3,New Trump accuser: GOP nominee grabbed, kissed me
+38457,1,Trump ratchets up ’rigged election’ claims, which Pence downplays
+38459,1,Nine children killed in Aleppo airstrikes
+38470,2,Twin ’warriors’ battle through first weekend after surgery
+38558,1,Ana Navarro: I’m voting for Hillary Clinton
+38642,1,’Make America White Again’: Hate speech and crimes post-election
+38706,1,Trump picks Priebus as White House chief of staff, Bannon as top adviser
+38940,1,Slaughter of innocents continues in battle for Mosul
+39530,1,Out of Mosul: The refugees fleeing ISIS
+39688,1,2016: The year the music died
+39848,1,The crucible of Ferguson
+39852,1,28  Internet acronyms every parent should know
+39883,1,Camel attack leaves two dead in Texas
+39884,1,History moment awaits Palestine at Asian Cup
+39988,1,Legendary punk rock producer Kim Fowley dead at 75
+40260,1,Super Bowl: New England Patriots beat Seattle Seahawks
+40261,1,Highlights from Katy Perry’s Super Bowl halftime show
+40274,1,Justin Timberlake and Jessica Biel expecting first baby
+40299,1,Opinion: Brian Williams broke public trust
+40495,1,CPAC liveblog: Republicans unite against Hillary
+40496,1,Catwoman comes out as bisexual
+40696,1,Hernandez trial: The latest developments
+40783,1,5 things to know about Britain’s Prince Charles
+41043,1,Bikram yoga founder denies sexual assault allegations
+41049,1,A real ’Fault in Our Stars’ couple
+41060,1,Menendez indictment: 3 girlfriends, 7 lavish trips
+41146,2,Aaron Hernandez maintains his swagger in court
+41172,1,Secret Service supervisor accused of making unwanted sexual advances
+41227,1,Imagining Daddy: A rig worker’s daughter and her dreams
+41439,2,How to get kids to eat healthy school lunches
+41517,1,Exploring homosexual identity through anonymity
+41635,1,Musicians mourn the loss of B.B. King
+41694,1,Ladies and gentlemen of the jury, listen with your eyes
+41775,1,The viral presidency: Obama’s best unscripted moments
+41819,1,Duggars’ ’19 Kids and Counting’ hangs in balance
+41823,1,Man stolen as baby reunites with mom 41 years later
+41964,1,Today we are all Bidens
+42060,1,The U.S. and Cuba: A Love Story
+42128,1,Obama delivers emotional eulogy for Beau Biden
+42134,1,Princess Charlotte, Prince George in 1st photos together
+42165,1,Jeb Bush and the campaign money fountain
+42178,2,Obama and Biden share bond beyond politics
+42210,1,Alanis Morissette’s ’Jagged Little Pill’ turns 20
+42496,2,Taxidermists show off their best
+42535,1,How do gay rights look in your country?
+42551,3,Middle-aged virgins: Why so many Japanese stay chaste
+42565,1,Is it OK to talk about your sex life with your kids?
+42761,1,’The Seventies’: The decade’s worst killers
+42831,1,Donald Trump, Jeb Bush heckler
+42837,2,Real ’Fault in Our Stars’ couple kiss again
+42866,1,Donald Trump: The guy GOP candidates can’t ignore
+42895,1,Miley Cyrus to host MTV 2015 Video Music Awards
+42967,1,Joyce Mitchell’s confession: Sex, a painting and a plan
+42975,1,Baltimore boy becomes 1st to receive new hands
+43013,1,Lynn Anderson, ’Rose Garden’ singer, dead at 67
+43208,2,Reports: Fox News secretly paid settlement to former host who accused Bill O’Reilly of sexual harassment
+43252,1,Here’s everyone who’s performing at Trump’s inauguration
+43278,1,9 artists who reportedly turned down performing at Trump’s inauguration
+43295,2,Accuser files defamation lawsuit against Trump, promises to drop it if he admits her story ’is and was the truth’
+43718,1,’A star is born’: Watch Trump let a supporter take over his campaign-style rally in Florida
+44183,1,Trump realizes he shouldn’t have written Democrats off — but he’s already screwed himself
+44221,1,An ex-military Google X employee collapsed on the job, and his coworkers say corporate culture is to blame
+45254,2,Here’s how much planning goes into the world’s biggest New Year’s Eve celebration
+45325,1,Here’s why Tom Brady’s ’no-tomato’ diet is bogus
+45715,4,Brazil warns people attending Carnival not to kiss strangers
+46139,3,Dean of prestigious law school takes ’indefinite leave of absence’ after sexual harassment lawsuit
+47035,1,10 things every politician who endorses Donald Trump should be forced to defend
+47286,1,ISIS-linked news agency claims responsibility for shooting rampage at gay nightclub that left 50 dead
+47292,1,’There was blood everywhere’: Witnesses describe horrific Orlando attacks
+47307,1,’It makes even more sense today’: Senate Democrats are reviving a controversial bill after the Orlando massacre
+47386,1,’Game of Thrones’ fans are still hoping a character killed during the Red Wedding might come back
+47832,1,In a Twitter rant, billionaire Mark Cuban tells Clinton how to become more likeable
+48800,3,Shocking audio emerges of lewd comments Trump made about women in 2005
+48801,1,RNC Chair Reince Priebus condemns Trump for obscene comments about women in 2005 video
+48803,3,AVALANCHE: Top Republicans pile on Trump after lewd comments about women emerge
+48822,3,’It’s sexual assault’: Joe Biden issues scathing rebuke to Trump
+48830,1,Chuck Todd delivers knockout punch to exasperated Rudy Giuliani with devastating question
+48835,1,’Why wait?’: Ted Cruz asks why NBC didn’t release damning tapes of Donald Trump during GOP primaries
+48865,1,Multiple women say Donald Trump made inappropriate sexual advances on them
+48871,1,’This entire story is fiction’: Campaign spokesman denies Trump made unwanted sexual advances on women years ago
+48889,1,Donald Trump Jr. on lewd 2005 tape: ’I’ve had conversations like that with plenty of people’
+48892,1,Former ’Apprentice’ contestant, in emotional press conference, alleges that Trump accosted her
+48905,4,Another Trump accuser alleges: ’He took my hand, and grabbed me, and went for the lips’
+48928,11,A complete list of women who have accused Trump of sexual assault
+48944,1,Donald Trump’s attorney: Trump’s sexual-assault accusers ’aren’t even women he’d be attracted to’
+48984,2,Joe Biden says he would take Donald Trump ’behind the gym’ over lewd comments about women
+48995,1,New accuser alleges Trump offered her $10,000 to accept private penthouse invitation
+49026,1,Trump responds to porn actress accusing misconduct: ’Oh, I’m sure she’s never been grabbed before’
+49076,3,Video shows Donald Trump grabbing and kissing a former Miss Universe in front of an audience
+49136,1,
+49866,1,The Bachelor Gives Nick the Redemption Edit

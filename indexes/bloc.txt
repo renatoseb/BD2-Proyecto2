@@ -1,0 +1,505 @@
+65,1,My Canada - The New York Times
+344,4,U.K. Set to Choose Sharp Break From European Union - The New York Times
+345,3,British Firms Await Brexit Plans, Poised to Relocate - The New York Times
+358,2,As Inauguration Nears, Trump Keeps World Leaders on Edge - The New York Times
+381,1,Trump Entering White House Unbent and Unpopular - The New York Times
+393,4,In ‘Brexit’ Speech, Theresa May Outlines Clean Break for U.K. - The New York Times
+394,9,As Support for E.U. Flags Elsewhere, Bulgaria Sees Its Benefits - The New York Times
+401,1,New York Times Study Calls for Rapid Change in Newsroom - The New York Times
+423,3,Challenges Await Antonio Tajani, the European Parliament’s New President - The New York Times
+462,1,Who Decides Who Counts as Native American? - The New York Times
+494,2,Amid Fistfights, Turkey’s Parliament Backs a New Constitution - The New York Times
+509,1,With French Socialists in Crisis, Manuel Valls and Benoît Hamon Head to Runoff - The New York Times
+545,2,Theresa May Is Grilled Over U.K. Missile Test Failure - The New York Times
+561,6,Emboldened by Trump, Israel Approves a Wave of West Bank Settlement Expansion - The New York Times
+584,1,Mexico’s Potential Weapons if Trump Declares War on Nafta - The New York Times
+614,1,British Alignment With Trump Threatens European Order - The New York Times
+615,3,Ahead of Theresa May’s Visit, Talk of Trade Deal Is Clouded by Politics - The New York Times
+757,5,Trump Threatens Europe’s Stability, a Top Leader Warns - The New York Times
+801,5,For Europe, There’s a New Threat in Town: The U.S. - The New York Times
+851,2,Anarchists Respond to Trump’s Inauguration, by Any Means Necessary - The New York Times
+917,1,Tech Opposition to Trump Propelled by Employees, Not Executives - The New York Times
+926,1,What to Watch in Congress: Confirmation Votes, Regulation Rollbacks - The New York Times
+931,1,Israel Passes Provocative Law to Retroactively Legalize Settlements - The New York Times
+933,1,Split by ‘Brexit,’ May and Merkel Diverge on Wider Issues, Too - The New York Times
+1003,1,Trump May Turn to Arab Allies for Help With Israeli-Palestinian Relations - The New York Times
+1044,1,State G.O.P. Leaders Move Swiftly as Party Bickers in Congress - The New York Times
+1104,2,Angela Merkel, Squeezed by Far Right, Now Faces a Rising Left - The New York Times
+1118,1,California Today: On the Ground in Oroville - The New York Times
+1136,1,Israeli Settlement Sees Friendly Faces in Trump Administration - The New York Times
+1211,1,Trump, an Outsider Demanding Loyalty, Struggles to Fill Top Posts - The New York Times
+1219,1,Greeks Turn to the Black Market as Another Bailout Showdown Looms - The New York Times
+1233,1,A Back-Channel Plan for Ukraine and Russia, Courtesy of Trump Associates - The New York Times
+1256,1,Europe Combats a New Foe of Political Stability: Fake News - The New York Times
+1257,2,‘I Am Ashamed’ vs. ‘Get Over It’: U.K. Parliament Debates Trump Visit - The New York Times
+1260,1,Trump Talk of Terror Listing for Muslim Brotherhood Alarms Some Arab Allies - The New York Times
+1349,1,Amazon Deforestation, Once Tamed, Comes Roaring Back - The New York Times
+1423,1,Runway vs. Red Carpet - The New York Times
+1515,3,E.U. Lawmakers Call for End to Visa-Free Travel for Americans - The New York Times
+1684,1,After Warily Circling, Trump and Angela Merkel Prepare to Meet - The New York Times
+1761,1,Parliament Clears Way for ‘Brexit’ Talks as Scottish Vow Independence Vote - The New York Times
+1762,3,Amid Divisions in U.K. Over ‘Brexit,’ Nicola Sturgeon Calls for New Referendum on Scottish Independence - The New York Times
+1773,1,Geert Wilders, Donald Trump, Scotland: Your Wednesday Briefing - The New York Times
+1774,1,G.O.P. Senators Suggest Changes for Health Care Bill Offered by House - The New York Times
+1806,2,Dutch Vote Watched Across Europe With a Finger in the Wind - The New York Times
+1817,1,Bank of England Official Resigns After Critical Parliament Report - The New York Times
+1826,1,Republicans, Wilders, Tillerson: Your Thursday Evening Briefing - The New York Times
+1888,2,Martin Schulz, Merkel Rival, Wins His Party’s Nomination With 100 Percent of Vote - The New York Times
+1961,1,Leaders Struggle to Unite House Republicans Behind Health Bill - The New York Times
+1993,2,London Attack Echoes, Faintly, in a Europe Anxious but Inured - The New York Times
+2114,4,Scotland Votes to Demand a Post-‘Brexit’ Independence Referendum - The New York Times
+2129,1,Daily Mail Compares 2 U.K. Leaders — Their Legs, Not Their Ideas - The New York Times
+2139,4,U.K. Initiates ‘Brexit’ and Wades Into a Thorny Thicket - The New York Times
+2140,5,Pillars of the West Shaken by ‘Brexit,’ but They’re Not Crumbling Yet - The New York Times
+2142,1,Brexit, Chris Christie, Ivanka Trump: Your Wednesday Evening Briefing - The New York Times
+2143,1,Brexit, Donald Trump, Jordan: Your Morning Briefing - The New York Times
+2158,3,E.U. Blocks Merger of London Stock Exchange and Deutsche Börse - The New York Times
+2169,1,Trump, Tillerson, Venezuela: Your Thursday Evening Briefing - The New York Times
+2178,1,Venezuela Muzzles Legislature, Moving Closer to One-Man Rule - The New York Times
+2210,4,Israel Says It Will Rein In ‘Footprint’ of West Bank Settlements - The New York Times
+2211,7,On ‘Brexit,’ It’s Divorce First, Trade Talks Later, E.U. Tells U.K. - The New York Times
+2226,1,Ranks of Political Prisoners Grow as Democracy Ebbs in Venezuela - The New York Times
+2234,3,After Brexit, Scotland Lays a Path to Another Independence Vote - The New York Times
+2255,2,Serbia’s Prime Minister Projected to Win Presidency, Consolidating Control - The New York Times
+2439,2,A Polarized Supreme Court, Growing More So - The New York Times
+2467,1,Fewer Tomatoes in Ketchup? East Europeans Pursue Parity at the Grocery - The New York Times
+2509,1,For Alabama Christians, Governor Bentley’s Downfall Is a Bitter Blow - The New York Times
+2558,1,New York Today: Primary Preview - The New York Times
+2568,2,What Should We Expect From the Supreme Court’s Showdown Over Immigration? - The New York Times
+2614,1,Hillary Clinton’s Campaign, Cautious but Confident, Begins Considering Running Mates - The New York Times
+2680,1,Iraq Protesters Leave Baghdad Green Zone on Cleric’s Order - The New York Times
+2765,1,Republicans Want Their Party to Unify Behind Donald Trump, Poll Shows - The New York Times
+2778,1,Turkish Parliament Approves Stripping Lawmakers of Their Immunity - The New York Times
+2808,1,Can Donald Trump Win? These Battleground Regions Will Decide - The New York Times
+2870,1,Could a Muslim Judge Be Neutral to Donald Trump? He Doesn’t Think So - The New York Times
+2936,1,While Young Britons Favor Staying in E.U., They Aren’t Big on Voting - The New York Times
+2988,2,Jo Cox, Member of British Parliament, Is Killed in Attack - The New York Times
+3000,2,Thomas Mair, Suspected in the Jo Cox Killing, Is Charged With Murder - The New York Times
+3009,16,Regardless of ‘Brexit’ Vote, Experts Say, E.U. Must Rethink Status Quo - The New York Times
+3029,1,A British Divorce From Europe? Henry VIII Blazed the Trail - The New York Times
+3039,3,In ‘Brexit’ Vote, David Cameron Faces Problem of His Own Making - The New York Times
+3074,1,European Union, Donald Trump, Bernie Sanders: Your Friday Evening Briefing - The New York Times
+3081,2,‘Brexit’ Aftershocks: More Rifts in Europe, and in Britain, Too - The New York Times
+3082,1,‘Brexit’ Opens Uncertain Chapter in Britain’s Storied History - The New York Times
+3090,3,Fractures From ‘Brexit’ Vote Spread Into Opposition Labour Party - The New York Times
+3091,2,Having Won, Some ‘Brexit’ Campaigners Begin Backpedaling - The New York Times
+3092,1,In American Markets, Panic Begins to Subside - The New York Times
+3130,1,With Both Parties in Turmoil, Britain Weighs a General Election - The New York Times
+3131,5,A Blunt Message After ‘Brexit’: Bolting Will Carry a Heavy Price - The New York Times
+3132,4,Having Won, Boris Johnson and ‘Brexit’ Leaders Fumble - The New York Times
+3142,2,Boris Johnson Won’t Seek to Lead Britain, but Michael Gove Will - The New York Times
+3149,1,The Trio to Rio - The New York Times
+3158,7,Austria’s Far Right Presents the E.U. With a New Test at the Polls - The New York Times
+3159,1,No Charisma, No Glamour: Michael Gove Makes His Case to Lead Britain - The New York Times
+3160,1,Taking Refuge in Dollar Could Expose World Economy to New Perils - The New York Times
+3167,1,‘Brexit’ Bats Aside Younger Generation’s European Identity - The New York Times
+3184,1,Nigel Farage, Who Spurred ‘Brexit,’ Resigns as Head of U.K. Independence Party - The New York Times
+3192,3,Theresa May, the Steely, Steady Woman Who Might Lead Britain - The New York Times
+3279,1,Nearly Four-Fifths of White Evangelicals Say They’ll Vote for Donald Trump - The New York Times
+3286,1,Theresa May, New British Prime Minister, Gives Boris Johnson a Key Post - The New York Times
+3291,1,Ruth Bader Ginsburg Expresses Regret for Criticizing Donald Trump - The New York Times
+3436,1,British Decision on Nuclear Plant Angers China and France - The New York Times
+3540,1,Donald Trump Suggests ‘Second Amendment People’ Could Act Against Hillary Clinton - The New York Times
+3602,2,Upset by Brexit, Some British Jews Look to Germany - The New York Times
+3857,1,In Brooklyn, Stifling Higher Learning Among Hasidic Women - The New York Times
+3859,1,Israel Seeking Police Recruits: Eager, and Arab - The New York Times
+3871,1,Merkel Vows to Stay on Course Despite Party Setback - The New York Times
+3926,1,The Secret History of Colombia’s Paramilitaries and the U.S. War on Drugs - The New York Times
+3934,1,Clubbers Lament Demise of Fabric, a ‘Totem’ of London’s Dance Scene - The New York Times
+4009,7,Theresa May, Britain’s Prime Minister, Plays the ‘Brexit’ Waiting Game - The New York Times
+4119,1,Court Leader or Leading Dissenter? Chief Justice’s Fate Tied to Election - The New York Times
+4122,2,‘Brexit’ Prompts Many British C.E.O.s to Consider Relocating, Survey Finds - The New York Times
+4153,1,Torn Over Donald Trump and Cut Off by Culture Wars, Evangelicals Despair - The New York Times
+4188,3,‘Brexit’ Talks Will Start by End of March, Theresa May Says - The New York Times
+4211,3,Why Referendums Aren’t as Democratic as They Seem - The New York Times
+4281,1,Andrzej Wajda, Towering Auteur of Polish Cinema, Dies at 90 - The New York Times
+4297,1,Split Over Donald Trump Threatens to Tilt Republican States - The New York Times
+4334,2,Marmite Survives After ‘Brexit’ Spurs Tesco-Unilever Price Dispute - The New York Times
+4417,2,Canada and E.U. Sign Trade Deal, Bucking Resistance to Globalization - The New York Times
+4497,1,Donald Trump, Republican Party, Marijuana: Your Wednesday Evening Briefing - The New York Times
+4498,1,Californians Legalize Marijuana in Vote That Could Echo Nationally - The New York Times
+4558,2,U.K.’s Bridge to Trump? Nigel Farage, Who Pushed ‘Brexit,’ Posits Himself - The New York Times
+4626,1,Diplomats Confront New Threat to Paris Climate Pact: Donald Trump - The New York Times
+4647,1,Richard Rorty’s 1998 Book Suggested Election 2016 Was Coming - The New York Times
+4673,1,15,000 More Public Workers Are Fired in Turkey Crackdown - The New York Times
+4677,1,Trump Diversifies Cabinet Picks Nikki Haley and Betsy DeVos - The New York Times
+4698,1,Martin Schulz, President of European Parliament, Will Return to German Politics - The New York Times
+4756,1,Earth Isn’t Doomed Yet. The Climate Could Survive Trump Policies. - The New York Times
+4777,2,E.U. Plans Big Increase in Military Spending - The New York Times
+4787,1,François Hollande, Buzz Aldrin, Vladimir Putin: Your Friday Briefing - The New York Times
+4858,1,Like Trump, Europe’s Populists Win Big With Rural Voters - The New York Times
+4893,1,Tied to Europe, Britain’s Car Industry Is Vulnerable After ‘Brexit’ - The New York Times
+4902,1,Report Shows Vast Reach of Russian Doping: 1,000 Athletes, 30 Sports - The New York Times
+5004,1,Trump Picks Mick Mulvaney, South Carolina Congressman, as Budget Director - The New York Times
+5017,4,E.U. Faces Its Next Big Test as France’s Election Looms - The New York Times
+5201,3,E.U. Offers to Loosen Restrictions on Iran Air - The New York Times
+5217,3,Google’s Antitrust Woes in Europe Are Likely to Grow - The New York Times
+5226,1,Obama Urges Britain to Remain in the E.U. - The New York Times
+5354,1,California Senate Race Is a Tale of Diversity and a Flailing G.O.P. - The New York Times
+5359,1,In a Reversal, Germany’s Military Growth Is Met With Western Relief - The New York Times
+5431,11,E.U. Countries Warn Britain on ‘Brexit’: You’ll Pay if You Leave Us - The New York Times
+5445,2,Stay or Go? E.U. Referendum Divides British Families - The New York Times
+5453,3,‘Leave’ Takes the Lead as Britain Awaits Outcome of E.U. Referendum - The New York Times
+5465,1,With ‘Brexit,’ Washington’s Direct Line to the Continent Suddenly Frays - The New York Times
+5466,4,Overwhelmed by ‘Brexit’? Here Are the Basics - The New York Times
+5475,2,Pro-‘Brexit’ City of Sunderland Glad to Poke Establishment in the Eye - The New York Times
+5482,1,Jeremy Corbyn, Leader of Britain’s Labour Party, Loses No-Confidence Vote - The New York Times
+5491,1,‘Brexit’ Briefing: Boris Johnson Isn’t Running Jeremy Corbyn Seeks Labour Revolution - The New York Times
+5516,2,Wigan’s Road to ‘Brexit’: Anger, Loss and Class Resentments - The New York Times
+5527,1,Race for Britain’s Prime Minister Down to Theresa May and Andrea Leadsom - The New York Times
+5554,5,Theresa May Is Poised to Be Britain’s Next Prime Minister - The New York Times
+5584,3,E.U. and U.S. Urge Erdogan to Show Restraint After Coup Attempt in Turkey - The New York Times
+5633,1,Federal Appeals Court Strikes Down North Carolina Voter ID Requirement - The New York Times
+5720,1,Secret Ledger in Ukraine Lists Cash for Donald Trump’s Campaign Chief - The New York Times
+5806,1,Apple Owes $14.5 Billion in Back Taxes to Ireland, E.U. Says - The New York Times
+5887,6,Angela Merkel’s Problems in Germany Could Challenge Europe, Too - The New York Times
+5929,2,Berlin Election Deals Angela Merkel’s Party Another Blow - The New York Times
+5930,1,Obama Sees ‘Personal Insult’ if Blacks Don’t Rally for Hillary Clinton - The New York Times
+6019,1,John Kerry Criticizes Russia, Saying It ‘Turned a Blind Eye’ on Syria - The New York Times
+6137,1,Fear of Donald Trump Helps Democrats Mobilize Hispanics - The New York Times
+6139,3,Theresa May Prepares to Stare Down Parliament in ‘Brexit’ Standoff - The New York Times
+6156,1,In New York, Homeless and Making Plans to Vote - The New York Times
+6202,1,A Reporter Retraces His Steps Through Trump Country - The New York Times
+6256,1,Donald Trump, Nikki Haley, Jo Cox: Your Wednesday Evening Briefing - The New York Times
+6312,3,Zac Goldsmith, Prominent ‘Brexit’ Advocate, Loses Election in London - The New York Times
+6330,1,Markets Weather Italy Referendum Result, but Banks Are Vulnerable - The New York Times
+6458,1,Chinese Propaganda Video Warns of West’s ‘Devilish Claws’ - The New York Times
+6468,2,Netanyahu Promises Retribution for ‘Biased’ U.N. Resolution - The New York Times
+6490,6,As Hopes for European Unity Dim, New E.U. Headquarters Are Glowing - The New York Times
+6560,1,In a Brooklyn Basement, Jazz With a Russian Accent - The New York Times
+6566,1,Your Evening Briefing: EgyptAir, Hillary Clinton, Donald Trump - The New York Times
+6569,1,Iraqi Protesters Clash With Troops in Baghdad’s Green Zone - The New York Times
+6599,6,Money, Jobs and Sovereignty: Myth vs. Reality Ahead of ‘Brexit’ Vote - The New York Times
+6610,1,Globally, Orlando Attack Strikes Now-Familiar Fault Lines - The New York Times
+6625,1,Suspect in British Lawmaker’s Killing: ‘My Name Is Death to Traitors’ - The New York Times
+6636,11,If Britain Favors ‘Brexit,’ Changes Will Come Slowly - The New York Times
+6652,6,Economic Fears Rising, Britain Hopes to Stay in E.U. Market - The New York Times
+6659,1,E.U. Leaders Chart Future as David Cameron Leaves Brussels - The New York Times
+6672,2,Australian Candidates Woo Allies as Election Deadlock Continues - The New York Times
+6719,1,Melania Trump: From Small-Town Slovenia to Doorstep of White House - The New York Times
+6954,1,How to Have a Luxury Vacation for Less - The New York Times
+7063,1,Fidel Castro, Cuban Revolutionary Who Defied U.S., Dies at 90 - The New York Times
+7064,1,Under Fidel Castro, Sport Symbolized Cuba’s Strength and Vulnerability - The New York Times
+7065,1,In Europe, Is Uber a Transportation Service or a Digital Platform? - The New York Times
+7095,1,Angela Merkel Calls for Ban on Full-Face Veils in Germany - The New York Times
+7147,1,Germany Seeks Tunisian Tied to Berlin Christmas Market Attack - The New York Times
+7158,2,U.S. Transition Puts Israeli Focus Back on Palestinians - The New York Times
+7237,1,Bangladesh Arrests Over 3,000 to Halt Attacks - The New York Times
+7243,2,Britain Asks if Tone of ‘Brexit’ Campaign Made Violence Inevitable - The New York Times
+7254,9,Populist Anger Upends Politics on Both Sides of the Atlantic - The New York Times
+7259,1,As Migrants Face Abuse, Fear That ‘Brexit’ Has Given License to Xenophobia - The New York Times
+7302,1,Bank of England Cuts Interest Rate to Historic Low, Citing Economic Pressures - The New York Times
+7323,1,Donald Trump’s Crucial Pillar of Support, White Men, Shows Weakness - The New York Times
+7328,1,Zika, Olympics, U.S. Presidential Race: Your Weekend Briefing - The New York Times
+7428,1,In Boomers’ Sunset, Election Reawakens an Old Divide - The New York Times
+7509,1,Berlin, Russia, Narendra Modi: Your Morning Briefing - The New York Times
+7537,1,Kim Jong-un Seeks to Cement Power at First North Korean Congress in 36 Years - The New York Times
+7569,1,Bombing Kills More Than 140 in Baghdad - The New York Times
+7587,1,Donald Trump Risks Alienating Military Communities in Swing States - The New York Times
+7664,1,As American as Apple Pie? The Rural Vote’s Disproportionate Slice of Power - The New York Times
+7783,1,Hillary Clinton Struggles to Find Footing in Unusual Race - The New York Times
+7813,1,New Orleans Removes Famous ‘Lee Circle’ Monument, Mayor Derides Critics
+7916,1,Knesset Bill Proposes Annexing All Jerusalem-Area Settlements
+8055,1,Turkish Minister: ‘Send 15,000 Migrants a Month to Europe to Shock Them’
+8113,2,After Berkeley, Treat the Violent, Anti-Speech Left Like the KKK
+8378,1,Paris Generation Identitaire Leader: ’This is the Last Election We Have’ to Make Powerful Solutions for France’s Future
+8391,2,EU Increases ‘Brexit Bill’ Demand to €100 Billion, Up From €60 Billion
+8417,1,German Defence Commissioner Vows: ’In The End There Will Be A European Army’
+8573,1,Melania Trump Is First Catholic to Live in White House Since JFK
+8598,1,Israeli Envoys Meet Trump Officials To Negotiate Settlements
+8720,1,Joy Villa Is Just The First Wave Of The New Conservative Counterculture - Breitbart
+8808,1,Spain Urges EU To Take Their Side Over Gibraltar Dispute Post Brexit
+8876,1,"France First" – Le Pen Hits Out At Islamism and Globalisation
+9089,1,Czech Republic: We’d Rather Risk EU Penalties Than Be Forced to Take Migrants
+9157,2,Geert Wilders: The Populist Genie Is Out of the Bottle
+9199,1,After EU Threatens Sanctions, Philippines Refuses Aid to Stop ’Interfering With Our Internal Affairs’
+9218,1,Trump: NATO Is ’Obsolete’
+9237,2,VIDEO: EU President Says English ‘Losing Importance’ After Brexit Vote
+9301,1,Migrant Crisis Summit: Libya Demands €800 Million To Stop Smuggler Boats
+9470,1,Exclusive — House Freedom Caucus Not Budging, Official Position Is for Full Repeal Alternative to Paul Ryan’s Obamacare 2.0 - Breitbart
+9568,1,DUP Set to Spurn Tory Remainers and Back Full Brexit
+9638,2,In or Out? EU Is Hot-Button Issue In French Vote
+9913,3,Republican Study Committee Joins GOP House Leadership Supporting RyanCare Against House Conservatives - Breitbart
+10032,1,Brussels Fears EU Will Not Survive a Marine Le Pen Victory in France
+10086,1,Merkel Will Pay Migrants Millions To Leave Germany
+10327,1,German Government Holds Out Hope For ’Soft Brexit’
+10531,1,EXCLUSIVE: Undercover Audio Reveals Protesters’ Plans to Shut Down Trump’s Inaugural Parade
+10701,5,Activists: Anti-Trump Protests are the New ’Occupy’ - Breitbart
+10774,1,Huntington Beach Goes to War Against Threat to Force District System - Breitbart
+10795,3,Kevin Shenkman: Ending Democracy as We Know It in Southern California? - Breitbart
+10865,1,Trump Touts Marine Le Pen As ’Strongest’ Candidate in French Presidential Race
+10929,1,Shia vs. Sunni: The Schism Western Politicians Don’t Understand and Won’t Discuss - Breitbart
+10952,1,KLEIN - Iran Is the Wild Card Following U.S. Air Strikes In Syria
+11162,1,Ann Coulter: Give Me Your Tired Arguments...
+11196,1,Sen. Grassley: Gorsuch Confirmation Ends Schumer’s 16-Year Era of Filibustering Judges
+11541,1,Le Pen: ’Totalitarian’ European Union Plan to Become Nuclear-Armed Power ’Madness’
+11556,1,Delingpole: Climate Mob Threatens Trump - ’Quit Paris and You’re Toast!’
+11633,2,Erdogan: Soon Europeans ’Will Not Walk Safely on Their Streets’
+11805,1,Veterans Group Blasts ’Selfish’ Elizabeth Warren for Putting Illegal Aliens First - Breitbart
+11816,2,The Quiet Revolution: Fed Up British Middle Classes Backing Brexit
+11824,1,Obamacare on the Ropes as House Follows Senate in Voting to Repeal - Breitbart
+11965,1,Israel Greenlights 3000 More West Bank Jewish Homes
+12048,1,BREXIT! PM Signs Official Letter to Brussels Beginning Britain’s Departure from the European Union
+12468,1,L.A. Olympics CEO: Trump More Helpful than Obama - Breitbart
+12684,1,Israel Opposition Leader: Trump Brings ’Aura of Optimism’ to Region - Breitbart
+12841,1,Dutch Elections: Geert Wilders Slams ’Hate Preachers’ Who Urge Followers To Vote For Migrant Party
+12853,1,Netanyahu Meets African Leaders to Expand Israel Ties
+12878,2,Walls Work: Migration Falls in EU Countries With Border Fences
+12887,1,SCOTUS Throws Cold Water Early on Obama’s Partisan Gerrymandering Project
+12911,1,Brussels ’Crossing Fingers’ For Macron in French Vote
+12972,1,Exclusive-Rep. Kevin Brady: ’It Is Clear We Don’t Have the Votes’ to Pass Ryancare - Breitbart
+13048,1,Pinkerton: Before Trump Nation, There Was Fox Nation: Fox News After Roger Ailes and Bill O’Reilly
+13214,2,Poll: Lead for Angela Merkel’s Party Widens Ahead of September Election - Breitbart
+13282,3,Inauguration 2017: The Swearing In of President Donald Trump - Breitbart
+13503,1,DAMAGE CONTROL: EU Admits Overreach as Populist Victories Loom in 2017
+13571,1,Speaker Paul Ryan Loses Another Non-House Freedom Caucus Conservative in RyanCare Fight - Breitbart
+13815,2,Germany’s Merkel Hits Back After Trump Predicts Shrinking European Union
+14016,2,Commission Removes Britain from EU Maps Two Years Before Brexit
+14059,1,Sen. Rand Paul Turned Away from ’Secret Office for the Secret Bill’ Holding Text of Speaker Ryan’s Obamacare Rescue Bill
+14085,3,Pope Will Meet EU Leaders and Tell Them to ’Tear Down The Walls’
+14088,1,Polls Open in Germany Local Elections as Social Democrats Attempt to Challenge Merkel Power
+14173,1,Speaker Ryan on PM Theresa May: ’This is a Time For Bold Leadership’, U.S. ’Committed’ To Bilateral Trade
+14426,1,Far-Left Antifa ’Protestors’ Attack Populist AfD Convention In Germany Injure Police Officers
+14451,1,Poland Tell EU: We Value Democracy, Respect Our Sovereignty
+14530,1,Merkel: EU Must Take More Migrants Islam Not The Cause Of Terror
+14570,1,Report: Protesters to Disrupt Trump Inauguration Plan Blockades, Property Damage - Breitbart
+14593,4,A Hard Brexit Could Create 400,000 Jobs
+14686,2,Poland Says Taking Migrants ’Much Worse’ Than EU Sanctions
+14935,1,EU Prez Juncker Threatens ’Texit’ as Revenge for Trump’s Brexit Support
+14954,1,EU Migrants’ Right to Remain Could End Next Month
+15249,4,Theresa May Rejects Second Scottish Referendum Before Brexit
+15275,1,Exclusive - Rep. Mark Meadows: ’Principles of a Deal Have Been Defined’ on AHCA Bill
+15575,2,Brexiteers Take Control In Britain’s New Cabinet
+15733,1,Referendum May Face Legal Challenge Over Registration Extension
+15781,1,Hillary Clinton to Raise Cash in California This Week - Breitbart
+15819,1,Obama Joins Israel Boycott, Labels West Bank Goods
+15866,1,Orban Declares ’War Against Brussels’ And EU Migrant Politics
+16041,1,Hungary To Build Second Fence To Keep Out Migrants
+16100,1,London Police Chief: Nearly One Third of People Arrested in UK Capital Not British
+16278,4,EU Executive Says Emergency Border Controls Still Valid
+16415,1,EU Migrants Responsible for 1 in 10 Births in UK
+16569,1,Monmouth Poll: Donald Trump Surges to 8 Point Lead in Iowa - Breitbart
+16743,1,Orban At Conservative European Nations Conference: Migrants ’Are a Hoard Of Evil’
+16984,1,Jorge Ramos Wants to Moderate Trump-Clinton Presidential Debate - Breitbart
+17272,1,***Horse Race LiveWire*** The Ides of March - Breitbart
+17503,4,Commission to Scotland: No Easy Way to Remain in EU - Breitbart
+17548,2,Not Welcome Here – Obama’s Visit To UK Tanks As Poll Reveals 60% Of Britons Don’t Want His Pro-EU Lectures
+17714,1,EU President: ‘European Elites Detached From Reality’
+17826,1,Hundreds of Italians Take to Streets Demanding Exit from EU
+17877,2,Trump Invites Hungarian PM Orbán To Washington D.C.
+17994,1,EU Foreign Affairs Chief: Europe Needs an EU Army - Breitbart
+18301,1,Democrat-Run Cities Push Plans to Let Non-Citizens Vote - Breitbart
+18388,1,’Remain’ Champion Jeremy Corbyn: EU Membership Means NO Immigration Limit - Breitbart
+18425,1,Turkey To Grant 300,000 Syrians Citizenship
+18576,1,Overwhelming Support For Orban On Referendum Day
+18693,1,Slovakia to Send Police to Help Macedonia Guard its Border
+19025,1,Islamic State Supporter Nabbed With Massive Porn Collection
+19094,1,Czech President: Deport All Economic Migrants From Europe
+19239,1,The Rio Olympics: Another Embarrassing Mess From Incompetent Globalists - Breitbart
+19328,1,Sweden Threatens Action if Facebook Fails to Censor ’Hate’, ’Fake News’ - Breitbart
+19334,1,Utah Gov. John Huntsman, Jr: Donald Trump ’Better Positioned’ to Cut Across Party Boundaries - Breitbart
+19543,1,Falling Immigration Will Lead to Higher Wages for Low-Paid Workers, Study Says
+19622,1,Next EU Prez: ’Islam Has No Place’... ’Migrants Change The Character Of Our Country’
+19648,1,Time: Inside the British Town Where 1 in 3 Are EU Migrants
+19771,1,EU Support on the Wane Across Europe Thanks to Migrant Crisis
+19951,1,Soros: Migrants Great for EU Economy... But Make Sure To Spend Billions On Them Each Year
+20004,1,Interior Minister: Germans Should Prepare Themselves for Terror Attacks
+20311,1,Merkel Government ’Incapacitated’ Over Migrant Issue - Breitbart
+20393,1,Farage: Remoaners Blaming Russia Have Reached New Low
+20425,1,Trend: 680,000 Green Cards Issued to Migrants from Muslim Nations in Only 5 Years - Breitbart
+20601,1,CATO Analyst: Obama Should Be Ashamed of Brexit Meddling
+21001,1,Newsweek Drops Cuba Hit Piece on Heels of Trump Outreach to Florida’s Cuban-Americans - Breitbart
+21136,1,Republicans Delay Budget Battle Until After Election - Breitbart
+21176,1,Global Elites Desperate over ’Too Close to Call’ Brexit Vote - Breitbart
+21241,1,At GOP Debate, Trump the Only Candidate Willing to Pause Muslim Immigration - Breitbart
+21276,1,In Search of Donald Trump Democrats - Breitbart
+21533,1,175 Countries Sign Farcical Climate Change Agreement
+21568,1,Diddy Urges ’Hold’ on Black Vote: Hillary Needs to ’Talk to the Black Community’ - Breitbart
+21632,1,Virgil: The Battle for Blue Collar America: Remembering the Forgotten Man
+21744,2,The Ten Ideologies of America
+21825,1,How Millennials Swung Florida For Trump - Breitbart
+21849,1,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+22077,1,Britain Could Cut Immigration By 100,000 Without Hurting Economy, Report Says
+22131,2,Revealed: Turkey’s Plans to Flood Europe with 3,000 Migrants a Day
+22428,1,Globalized Trade Being Destroyed by Robotics and 3-D Printing - Breitbart
+22551,1,Czech President Calls For Referendum On EU Membership
+22766,1,Israel Almost Never Benefits from Compromise - Breitbart
+22776,1,Hollande Says Brexit Won’t Change Channel Migrant Deal
+22779,1,Polls: Donald Trump Pulls Away In Iowa and Georgia, Ties Hillary Clinton In Colorado, Closes Gap In Virginia - Breitbart
+22842,1,Trump Boosted By Party-Switching, Mid-West Democrats, So Racism, Sneers NY Times
+23284,4,Brexit: Britain Votes To Leave EU, PM Cameron Resigns - Breitbart
+23397,1,EXCLUSIVE: U.S. Office of Trade Official Contradicts Obama – ’UK NOT Too Small To Have Free Trade Deal With America’
+23610,1,Faith-Based Voters for Trump Won’t Be in ’Stained Glass Ghetto’
+23628,1,Exclusive — Trump Campaign: ‘Diddy Is Right,’ Hillary Clinton Should Stop ‘Assuming’ Blacks Will ‘Automatically’ Vote For Her - Breitbart
+23652,1,Geert Wilders: Close All Mosques In The Netherlands
+23674,1,No, JC Penney, Fat People Should Absolutely Hate Themselves - Breitbart
+23698,1,House Freedom Caucus to Force Floor Vote to Impeach IRS Commissioner - Breitbart
+23700,1,Glenn Greenwald: U.S. Media Is 100% United’ Against Donald Trump
+23732,3,Hungary Launches New Anti-Migrant Media Offensive
+23805,3,Melee After Flag Burned Outside RNC 17 Arrested - Breitbart
+23809,1,Exclusive-Rep. Jim Jordan: Conservatives Eager to Question IRS Commissioner Under Oath at Impeachment Hearing - Breitbart
+23815,2,Study: Majority of EU Citizens Fear Muslim Migration
+24010,1,***Horse Race LiveWire*** Ted Cruz Fights On - Breitbart
+24122,3,Stabbings In Sacramento as Neo-Nazis, ’Anti-Fa’ Clash at Capitol
+24149,1,Ted Cruz Winning Battle for Evangelicals in Iowa But Losing War Nationally to Trump - Breitbart
+24319,2,AFP: Europe’s Populist Surge Fuelled by Migrant Crisis - Breitbart
+24443,1,Poll: Majority In Germany Wants Repatriation of Government Powers From EU
+24453,3,Dallas Anti-Trump Protesters Are Entitled, Vile and Stupid
+24575,1,Poll: Trump Leads Clinton 76 Percent to 17 Percent Among White Men Without College Degrees - Breitbart
+24670,1,Merkel Ally Threatens Legal Action Over Refugee Policy - Breitbart
+24865,1,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+24994,2,Germany Needs Post-Brexit Trade Deal to Protect its Own Economy, Minister Says
+24996,1,***Horse Race LiveWire*** GOP Candidates Debate in Houston - Breitbart
+25319,1,WATCH: John Kerry Walks Into Door On UK Visit
+25369,1,Venezuela: Over 15% of People Eat Garbage to Survive - Breitbart
+25486,1,Brexit Referendum Not Legally Binding, Supreme Court Told
+25658,2,Zika Economics: Brazil Calls Emergency Mercosur Meeting
+25714,1,USA Today Exclusive: Brexit Hits 52%, + 20 over Remain After Death of Jo Cox - Breitbart
+25768,2,California Primary: Radical May Day Protests to Target Trump
+25949,1,New Poll: ’Out’ Leads By 4 Percentage Points Ahead Of EU Vote
+26027,3,Latest Brexit Poll Tracker - Breitbart
+26051,1,James Pinkerton – The Democrats vs. The Deplorables: The New Class Struggle Comes to the Midwest   - Breitbart
+26340,1,Hungary Referendum: EU Humiliated as 95 Percent Say NO to Migrant Quotas
+26512,1,Turkey Considering Reinstating Death Penalty: PM
+26738,1,Donald Trump: Cruz Staged ’Attack’ In Georgia To Steal Delegates
+26788,1,Pro-Abortion Writer: To Compete, Democrats Must Admit Pro-Life Candidates
+26884,1,EU Cash Fails To Win Hearts And Minds In Cornwall
+26889,1,Media Ignore Sanders’ Deep Ties to Racial Power-Brokers Al Sharpton, Jesse Jackson - Breitbart
+27118,1,Another 100,000 Migrants Likely To Arrive In Bottleneck Greece By End Of Month - Breitbart
+27237,1,The West vs Islam Is The New Cold War - Here’s How We Win - Breitbart
+27335,2,Merkel Wants Migrant Return Deals With North African States
+27361,2,Merkel’s Party, Sliding in Polls, Explores Speedy Repatriation Centres - Breitbart
+27410,1,EU To Blame for Britain’s Steel Crisis, Say Brexit Campaigners
+27585,1,PICTURES AfD Attacked By Anarchists, Hundreds Of Arrests
+27921,1,EU Launches Programme to Issue Cash Cards to Migrants in Turkey
+27949,1,Latinos for Trump Founder: Media Ignoring Trump’s Immigration Plan, ’Going Nuts’ Over Deportation - Breitbart
+28028,3,Long-Time Leaders of Conservative Movement Unite in Support of Ted Cruz - Breitbart
+28062,1,Exclusive — Trumpocrats Demand Hillary Clinton Apologize for ‘Insulting, Elitist Hate-Speech’ She Used in ‘Deplorables’ Attack
+28079,1,Merkel: If We Close The Border, ’Europe Is Destroyed’
+28146,2,Trump Supporters Walk Out of Georgia Delegate Fight After Party Picks Cruz Supporter...’Uproar in the Hall’ - Breitbart
+28392,1,Globalist Power Player Hosts $5,000-Ticket Clinton Fundraiser in London
+28666,1,Libertarian Commentator Lauren Southern Assaulted by ’Anti-Fascist’ Protesters - Breitbart
+28772,1,Turkey EU Minister: ’We Have Met All Criteria For Visa-Free Travel To Europe’
+28902,1,Hollywood ’Power Women’ Keep Wallets Closed for Hillary
+29007,1,Le Pen: Trump’s Win ’Victory of the People Against the Elites’
+29117,1,Brexit: How Europe Fell Out Of Love With The EU
+29281,2,Hillary’s Waterloo: Clinton Campaign Focuses Attention on North Carolina in Desperate Scramble to Stop Trump Surge - Breitbart
+29323,2,EU To Pressure Turkey Into Accepting Large Scale Deportations - Breitbart
+29449,1,Mike Pence Delivers Rousing Call for GOP Unity: ’Elections Are About Choices, So Join Us’ - Breitbart
+29579,1,Brazil President to Christian Leaders: Mention Zika in Sermons
+29595,1,Only Skilled EU Workers Will Be Allowed to Come to UK after Brexit, Government to Promise
+29604,1,Democratic National Convention Begins with Racial Gatherings
+29885,1,Former Czech President Vaclav Klaus — ’Europe Is Full’
+29929,1,Report: Asian-Americans Drifting from Republican Party
+30248,1,Migrants Are Scrambling To Apply For Asylum In Greece To Avoid Being Sent To Turkey
+30340,1,Pennsylvania GOP Primary Rendered ’Meaningless’ by Uncommitted Delegates - Breitbart
+30561,2,EU Threatens to Punish Britain for Getting Close to Trump
+30617,1,Exclusive — Megyn Against the World at Fox: Anchor Rebellion, Creation of Competitor Network Looms Amid Ailes Ouster Rumors - Breitbart
+30963,2,Belgian Region Continues to Block Canada-EU Trade Deal
+31037,1,Clinton Wades In: Urges Britain to Remain In European Union
+31081,1,Market Infrastructure Coped Well With Brexit Fallout - EU Watchdog
+31129,1,AEI: America Faces Same Global Threats of Roman Empire - Breitbart
+31196,1,Exposed: FBI Director James Comey’s Clinton Foundation Connection
+31224,1,Planned Parenthood President Praises Obama SCOTUS Nominee - Breitbart
+31322,1,Turkey’s European Mega-Mosque Complete, Erdogan To Preside Over Opening Ceremony
+31474,1,Merkel Support Slips As Attacks Put Spotlight On Migrant Policy
+31543,1,Virologist Who Discovered Zika: ’No Funding’ for Research
+31564,1,IBD/TIPP Tracking Poll: Trump Leads Clinton with 43 Percent Support - Breitbart
+31566,1,Pew: Record Number of Latinos Eligible to Vote in 2016 — Driven by Millennials, Naturalization - Breitbart
+31583,3,Turkey Will ’Open Gates’ to Migrants if EU Membership Bid Paused
+31959,1,The world needs fixing — and Trump thinks he’s the man to do it
+31989,1,Trump’s new world disorder
+32094,1,Europe’s far-right leaders speak on Trump at conference
+32158,1,TPP unravels: Where the 11 other countries go from here
+32334,1,President Trump nominates Neil Gorsuch for Supreme Court
+32361,1,Berkeley protests of Yiannopoulos caused $100,000 in damage
+32583,1,EU leader: US ’committed’ to Iran nuclear deal
+32860,4,Bannon, Pence send contradictory messages to EU
+33065,1,Europe tries to sway Trump administration views
+33258,1,Ukraine seeks probe of hacked Manafort texts
+33338,1,Brexit: EU tells May it won’t be ’intimidated’
+33344,1,How Dems will use GOP health care bill in 2018
+33427,1,Trump, Ryan are working with moderates on health care
+33503,1,Trump has given the EU a chance to lead the world
+33531,1,Netanyahu’s honeymoon with Trump ends abruptly
+33548,2,NATO Fast Facts
+33562,1,Scottish lawmakers approve independence vote call
+33563,1,Republicans not yet ready to abandon health care
+33617,1,CNN 10 - March 31, 2017
+33795,1,Trump considers rearranging the seats at his table
+34053,1,Turkey referendum: What happened and what’s next
+34287,2,Brexit: Irish border at forefront of talks
+34469,1,Emmanuel Macron’s marriage proves politics is different in France
+34487,1,Emmanuel Macron: From political novice to president
+34839,1,Abroad, President Trump’s reality collides with candidate Trump’s words
+35220,1,GOP supports Trump’s climate move. No one else does.
+35398,1,Could football help ease tensions between North and South Korea?
+35665,1,Jo Cox attack: Suspect appears in court
+35736,1,Brexit views roundup
+35787,2,CNN predicts: ’Leave’ set to win historic EU referendum
+35805,1,Scotland likely to seek independence after EU vote
+35850,1,What Hillary Clinton has learned since 2008
+35858,1,Dissecting two names for Clinton’s VP shortlist
+35896,1,No need for Brexit panic
+35916,1,Make UK the 51st state
+36007,2,Thousands say ’No’ to Brexit in colorful protest
+36040,1,With Trump’s Twitter history, latest no surprise
+36119,1,Obama heads to NATO summit at ’inflection point’
+36126,1,GOP gun bill waits in limbo
+36163,1,Obama: U.S. ’not as divided as some have suggested’
+37035,1,Poll: Clinton up 9 points in Florida
+37068,1,Trump regrets saying ’the wrong thing’
+37323,1,Trump backer apologizes for blackface tweet, but stands by message
+37357,1,I was on board with Kaepernick until....
+37383,1,First on CNN: Pro-Clinton super PAC reserves $6M in ads aimed at minorities
+37444,1,Trump brings message of unity to black church
+37548,1,Senate leaders report progress in talks over Zika and government funding
+37613,1,Why Clinton expressed regret
+37746,1,Trump shifts on Cuba, says he would reverse Obama’s deal
+37843,2,2016: Last call for working class whites?
+37846,1,Poll: White working-class Americans have complicated view of Muslim immigrants
+37906,1,Monday Debate: What celebrities want to ask Clinton and Trump
+37919,1,North Korea at UN: US faces ’tremendous consequences’
+38054,1,Trump jokes: ’Raise your hand if you’re not a Christian conservative’
+38368,1,Thai King Bhumibol Adulyadej dies at 88
+38525,1,How the Latino vote could affect the 2016 race
+38621,1,John Roberts gets another chance for a conservative legacy
+38727,1,Who Donald Trump should appoint to the Supreme Court
+38891,2,Why China and Europe should form the world’s most powerful ’climate bloc’
+39202,1,UK may only have 18 months to conclude Brexit deal, EU warns
+39333,1,Gambian President Yahya Jammeh rejects election defeat
+39402,1,Suburban voters make a president, and they can break him, too
+39532,1,Trump’s Cabinet a boon for conservatives
+39782,1,What (not) to look forward to in 2015
+40179,1,’Birdman,’ diversity, speech big moments at SAG Awards
+40226,1,How ISIS’ new hostage strategy is pressuring leaders
+40748,1,Israel election: Exit polls show near dead heat
+41025,1,’The Daily Show’ missed an opportunity
+41150,1,Rahm Emanuel wins second term as Chicago mayor
+42069,1,Clinton calls for universal voter registration, calls out GOP opponents
+42074,1,Democrats fret unions’ pressure tactics on trade
+42113,1,Paul Ryan’s new partner: Obama
+42253,1,Can Scott Walker win the Harley vote?
+42380,1,Air Force may send top-line fighters to Europe
+43325,2,The Trump administration could turn its back on the liberal world order created after World War II
+43493,1,Former CIA director Petraeus warns that the current international order could ’fray’ and ’collapse’
+43897,1,Former CIA Director Michael Hayden slams pro-Trump media for peddling ’illegitimate’ and ’non-fact based world view’
+44082,1,Hacked text messages allegedly sent by Paul Manafort’s daughter discuss ’blood money’ and killings, and a Ukrainian lawyer wants him to explain
+44178,1,Theresa May signs the Article 50 letter
+44179,2,The UK is about to formally trigger the Brexit process — here’s what that means
+44859,1,George Soros is a favorite target of the right — here’s how that happened
+44949,1,Inside the stunning rise of the liberal conspiracy theorist
+45234,1,Brexit negotiations begin despite Theresa May facing growing revolt over ’Hard Brexit’ plans
+45236,1,Emmanuel Macron wins a strong parliamentary majority in French elections
+45586,1,Donald Trump’s seemingly crazy claim about America’s schools in a Facebook post is mostly true
+45878,1,Hillary Clinton’s campaign is clobbering Bernie Sanders 2 days before the next big contest
+46008,1,Iranian reformists set to win all Tehran parliamentary seats
+46236,1,Here’s the man who’s destroying the Republican Party — but it’s not Donald Trump
+46688,1,Bernie’s ’free college tuition’ plan would be a gift for rich kids, but that doesn’t make it a bad idea
+47498,1,10 things you need to know today
+47502,1,Vodafone is threatening to move UK jobs to the EU, and Goldman says banking jobs could go
+48501,1,George Soros is going after ’America’s toughest sheriff’
+49236,1,Trump’s win has shattered the Democratic Party
+49302,2,The US has revived a disturbing economic ideology that helped cause the Great Depression
+49322,2,An investor predicted the rise of Trump 2 years ago, and what comes next should terrify everyone
+49437,1,Trump makes baseless claim that he won the popular vote because ‘millions’ voted illegally

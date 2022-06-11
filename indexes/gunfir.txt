@@ -1,0 +1,411 @@
+1,1,Rift Between Officers and Residents as Killings Persist in South Bronx - The New York Times
+2,1,Tyrus Wong, ‘Bambi’ Artist Thwarted by Racial Bias, Dies at 106 - The New York Times
+52,1,Chinese City Official Shoots 2 Others and Kills Himself, State Media Says - The New York Times
+62,1,Dylann Roof, Addressing Court, Offers No Apology or Explanation for Massacre - The New York Times
+120,1,Florida Airport Assailant May Have Heard Voices Urging Violence, Officials Say - The New York Times
+160,1,After Fort Lauderdale Shooting, Rumor of Second Gunman Created Chaos - The New York Times
+458,1,A Bullet Misses Its Mark, and Then Takes a Fatal Detour - The New York Times
+569,1,Harold Hayes, Survivor of Secret World War II Odyssey, Dies at 94 - The New York Times
+714,1,An Iraqi Family Split by the Vicissitudes of Asylum - The New York Times
+855,1,Assailant Near Louvre Is Shot by French Soldier - The New York Times
+985,1,Former Prime Minister Is Elected President of Struggling Somalia - The New York Times
+1345,1,California Today: In Virtual Reality, Investigating the Trayvon Martin Case - The New York Times
+1613,1,Iraqi Forces Enter Western Mosul, in Fierce Battle Against ISIS - The New York Times
+1789,1,Chicago’s Top Prosecutor Minces No Words on His Way Out - The New York Times
+1882,1,Using Special Forces Against Terrorism, Trump Seeks to Avoid Big Ground Wars - The New York Times
+1981,1,His Idea for Fighting Terrorism? Funny Plays - The New York Times
+2122,1,Engulfed in Battle, Mosul Civilians Run for Their Lives - The New York Times
+2366,1,Special Ops With a Studious Bent Fight Destruction of Brazil’s Amazon - The New York Times
+2450,2,San Bernardino School Shooting Leaves 3 Dead, Including Student - The New York Times
+2714,1,A Shooting, the Hospital and Then, Months Later, It’s a Homicide - The New York Times
+2754,1,Doctors With Enemies: Did Afghan Forces Target the M.S.F. Hospital? - The New York Times
+2793,3,A Drumbeat of Multiple Shootings, but America Isn’t Listening - The New York Times
+2968,4,Held Hostage in an Orlando Restroom, and Playing Dead to Stay Alive - The New York Times
+3028,4,Orlando Police Defend Actions as Clock Ticked in Massacre - The New York Times
+3125,3,Gunfire and Panicked Calls on Police Log of Orlando Shooting - The New York Times
+3231,1,‘Bomb Robot’ Takes Down Dallas Gunman, but Raises Enforcement Questions - The New York Times
+3243,1,5 Slain Dallas Officers Served Overseas and at Home - The New York Times
+3249,2,Juba Gripped by Renewed Violence as Factions Clash in South Sudan - The New York Times
+3261,2,South Sudan Slides Closer to War as Gunfire Rumbles in Its Capital - The New York Times
+3281,1,Families and Fellow Officers Honor Victims of Dallas Sniper - The New York Times
+3290,1,Scores Die in Nice, France, as Truck Plows Into Bastille Day Crowd - The New York Times
+3317,1,Baton Rouge Shooting Jolts a Nation on Edge - The New York Times
+3333,1,In Istanbul, Optimism Fades to a Familiar Melancholy - The New York Times
+3377,1,Munich Killer Was Troubled, but Had No Terrorist Ties, Germany Says - The New York Times
+3409,1,Suspect Held in Shooting of San Diego Police Officers - The New York Times
+3414,1,Hot-Air Balloon Crash in Texas Kills 16, Officials Say - The New York Times
+3425,3,How an Elite New York Police Unit Rehearses for a Terrorist Attack - The New York Times
+3431,1,New York Today: The Race to Recycle - The New York Times
+3498,3,Orlando Gunman Was Shot at Least 8 Times, Autopsy Finds - The New York Times
+3516,1,Suicide Bomber Kills Dozens at Pakistani Hospital in Quetta - The New York Times
+3598,1,Rio ‘Has Never Felt So Safe.’ But What Happens After the Games? - The New York Times
+3601,1,From False Alarm to Panic: Inside Kennedy Airport’s Chaotic Night - The New York Times
+3647,1,7 Chicago Officers Face Firing Over Laquan McDonald Cover-Up - The New York Times
+3649,1,‘No Matter What You Did, You Are My Son’: Afghan Fighters Reunite as Family - The New York Times
+3725,4,Explosion and Gunfire Erupt at American University in Kabul - The New York Times
+3727,1,Hillary Clinton Says ‘Radical Fringe’ Is Taking Over G.O.P. Under Donald Trump - The New York Times
+3761,1,SEAL Team 6 and a Man Left for Dead: A Grainy Picture of Valor - The New York Times
+3778,2,False Reports of Gunfire at LAX Airport Prompt Panic and Evacuations - The New York Times
+3788,1,How to Stay Safe at the Airport - The New York Times
+4016,1,A Chicago Shooting Survivor, but in Need of a Miracle - The New York Times
+4087,1,Charlotte, Syria, Ted Cruz: Your Friday Evening Briefing - The New York Times
+4434,1,Mosul Is Breached by Iraqi Forces, Heralding a New, Complex Phase - The New York Times
+4553,11,Paris: One Year On - The New York Times
+4836,3,Trump Adviser Has Pushed Clinton Conspiracy Theories - The New York Times
+4903,1,In Chicago, Bodies Pile Up at Intersection of ‘Depression and Rage’ - The New York Times
+4992,1,Aleppo Evacuation Effort Restarts, and Assad Calls It History in the Making - The New York Times
+5005,1,Assad’s Lesson From Aleppo: Force Works, With Few Consequences - The New York Times
+5035,1,Aleppo Evacuations Will Be Monitored After U.N. Reaches Deal - The New York Times
+5040,1,U.N. Will Send Monitors to Aleppo, as Evacuations Resume - The New York Times
+5115,1,At Least 27 Shot, 7 Fatally, in Chicago Over Christmas Weekend - The New York Times
+5124,1,A Dream That Survived Life in a War Zone and Life on the Streets - The New York Times
+5184,1,Judith Clark’s Radical Transformation - The New York Times
+5252,2,Divided Aleppo Plunges Back Into War as Syrian Hospital Is Hit - The New York Times
+5307,1,Police Fatally Shoot Man on a Midtown Manhattan Street - The New York Times
+5373,1,Palestinian Gunmen Open Fire in Tel Aviv, Leaving Four Dead - The New York Times
+5394,3,Last Call at Pulse Nightclub, and Then Shots Rang Out - The New York Times
+5396,1,The Colombian Hit Man Who Became a YouTube Star - The New York Times
+5410,1,Omar Mateen Told Police He’d Strap Bombs to Hostages, Orlando Mayor Says - The New York Times
+5480,1,Istanbul Airport Attack Leaves at Least 41 Dead - The New York Times
+5531,2,Five Dallas Officers Were Killed as Payback, Police Chief Says - The New York Times
+5576,1,Baton Rouge, Turkey, U.S. Presidential Race: Your Weekend Briefing - The New York Times
+5632,1,At the Front in a Scarred Falluja - The New York Times
+5669,1,Chicago Releases Videos From Police Officers’ Killing of 18-Year-Old - The New York Times
+5861,1,Obama on Climate Change: The Trends Are ‘Terrifying’ - The New York Times
+5870,1,‘It Finally Clicked That This Wasn’t an Exercise’: Report Recounts San Bernardino Shooting - The New York Times
+5924,1,Manhattan Bombs Provide Trove of Clues F.B.I. Questions 5 People - The New York Times
+5940,1,Looming Transition Ignites Deadly Clashes in Congo - The New York Times
+5943,2,Man Is Shot in Charlotte as Unrest Stretches to Second Night - The New York Times
+6047,1,2 Police Officers Are Shot and Killed in Palm Springs, Calif. - The New York Times
+6165,3,One Killed and at Least 2 Wounded in Shooting Near California Polling Places - The New York Times
+6241,1,Slain San Antonio Detective Was Targeted, Police Chief Says - The New York Times
+6333,1,Man Motivated by ‘Pizzagate’ Conspiracy Theory Arrested in Washington Gunfire - The New York Times
+6355,1,The Comet Ping Pong Gunman Answers Our Reporter’s Questions - The New York Times
+6408,1,Spared by Gunman in Charleston, Churchgoer Describes Night of Terror - The New York Times
+6435,1,Gunmen in Jordan Kill 10, Including 7 Officers and a Canadian Tourist - The New York Times
+6507,1,Cuomo Commutes Sentence of Judith Clark, Driver in Deadly Brink’s Robbery - The New York Times
+6532,1,Missing Mexican Students Suffered a Night of ‘Terror,’ Investigators Say - The New York Times
+6569,1,Iraqi Protesters Clash With Troops in Baghdad’s Green Zone - The New York Times
+6665,3,Bangladeshi Troops Move to End Hostage Standoff - The New York Times
+6679,1,After Philando Castile’s Killing, Obama Calls Police Shootings ‘an American Issue’ - The New York Times
+6706,1,Truck Attack in Nice, France: What We Know, and What We Don’t - The New York Times
+6709,1,As Turkey Coup Unfolded, ‘the Whole Night Felt Like Doomsday’ - The New York Times
+6779,1,Officials Spent Big on Olympics, but Rio Natives Are Paying the Price - The New York Times
+6821,1,A Reporter Recalls One of the Many Victims of Colombia’s War: Her Father - The New York Times
+6824,1,Shooting Scares Show a Nation Quick to Fear the Worst - The New York Times
+6851,1,Coordinated Bombs in Kabul Kill Senior Afghan Officials at Defense Ministry - The New York Times
+6864,2,Minority Youths Mistrust Police. A Brooklyn High School Has a Plan. - The New York Times
+6917,4,Houston Gunman With Nazi Emblem Injures 9 Before Being Killed by Police - The New York Times
+7006,1,Taliban Strike German Consulate in Afghan City of Mazar-i-Sharif - The New York Times
+7021,3,‘They Will Have to Die Now’ - The New York Times
+7174,5,The Fighter - The New York Times
+7260,1,Victims in Istanbul Airport Attack Reflect City’s International Character - The New York Times
+7280,1,Dallas Police Are Used to Recovering From Being in Harm’s Way - The New York Times
+7375,1,Charlotte, U.S. Presidential Race, Syria: Your Wednesday Evening Briefing - The New York Times
+7514,1,Reading Fake News, Pakistani Minister Directs Nuclear Threat at Israel - The New York Times
+7551,1,Your Monday Evening Briefing: Hillary Clinton, Cleveland Cavaliers, Kanye West - The New York Times
+7556,3,Orlando Shooting Survivors Cope With the Trauma of Good Fortune - The New York Times
+7578,2,Turkish President Returns to Istanbul in Sign Military Coup Is Faltering - The New York Times
+7683,1,Dylann Roof Found Guilty in Charleston Church Massacre - The New York Times
+7718,1,One Police Shift: Patrolling an Anxious America - The New York Times
+7732,1,‘I Have a Black Son in Baltimore’: Anxious New Parents and an Era of Unease - The New York Times
+7765,1,Israel Defense Forces Kill 4 ISIS-Linked Attackers in Golan Heights - The New York Times
+7773,1,In Istanbul, 38 Killed in 2 Blasts Possibly Targeting Police Officers - The New York Times
+7899,1,GRAPHIC: Three Killed in Drug Shootout Outside Ritzy Mexican Border State Bar
+8021,1,Suspect Shoots Three Dead In Fresno, Yells ’Allahu Akbar’ When Tackled by Police - Breitbart
+8082,1,’I’m Bleeding Out,’ Dying Texas Cop Says in Radio Call for Help
+8303,1,VIDEO: Armed Employee Sneaks up Behind Armed Suspect, Foils Robbery Attempt - Breitbart
+8323,1,Pelosi: ’I Pray for Donald Trump, That His Presidency Will Be Successful and That His Family Will Be Safe’
+8455,1,Videos Show Murder Suspect Shooting at Texas Border Town Cops
+8811,1,‘The Only Good Cop is a Dead Cop,’ Says Alleged PA Cop-Killer
+8969,2,WATCH: Gunfire Rattles Tehran as Drone Buzzes Iranian Capital
+9147,1,Cartel Smugglers Becoming More Aggressive Against Border Agents
+9173,6,2016 Closes With 140 Cops Being Killed in the Line of Duty
+9256,1,Cops Shoot ’Knifeman’ Outside UK Parliament, Multiple Injured After ’Car Attack’ on Westminster Bridge
+9378,2,VIDEO: Citizen Journalists Capture Despair of Cartel Shooting War near Texas Border
+9757,1,Limbaugh on Flynn Resignation: ’The Question Is What Did Barack Obama Know and When Did He Know It?’ - Breitbart
+9802,1,GRAPHIC: Mexican Marines Rain Gunfire on Cartel Boss
+10013,1,Boko Haram Jihadists Slay 15 Civilians in Ramadan Attacks in Northern Nigeria
+10372,1,VIDEO: LAPD Shoots from Helicopter, Kills Armed Home Invasion Suspect
+11240,2,Store Owner Fights Back, Fatally Shoots Two Robbery Suspects, Wounds Third - Breitbart
+11424,1,78-Year-Old Texas Man Shoots, Kills Robber
+11476,2,Minnesota Democrat Pushes $200K in Annual Taxpayer Gifts for Gun Control Groups
+12185,1,Shannon Watts: ’Gun Lobby’ Uses Word ’Suppressor’ to Confuse Us
+12517,1,EXCLUSIVE: Foreign Minister: Turkey ’Very Clear’ in Entering Syria to Defeat Islamic State - Breitbart
+12787,1,’We Are Chicago’ Attempts to Show Gamers the Trials of Living in Violence-Plagued City - Breitbart
+13111,1,VIDEO: Somali Pirates Exchange Gunfire with Security Guards, Try to Hijack Cargo Ship - Breitbart
+13454,2,Two Policemen Dead In Paris Shooting
+13949,1,11-Year-Old Girl Shot in the Head in Chicago Critical
+14030,2,Memorial Day: Donald Trump Honors Fallen Soldiers at Arlington National Cemetery - Breitbart
+14074,1,Armed Citizen Who Captured Georgia Cop Killers: ’I Loaded Every Weapon I Could’
+14332,1,Thieves Start Distraction Fire to Rob Cartier Store, Police Shoot Anyway
+14362,1,Man With ’Explosives Belt’ Shot By Brussels Police, Explosions at Central Station
+14438,1,36 Killed in Month-Long Cartel War Near Texas
+14667,2,Texas Fishermen Shot on Border by Suspected Cartel Gunmen
+14775,1,Trump Touts Apprenticeship Initiative: ’There Is Dignity in Every Honest Job, And There Is Nobility in Every Honest Worker’ - Breitbart
+14810,1,Obama Denies the Murder Wave on His Watch - Breitbart
+15000,1,BREAKING: Cartel Gunmen Fire at Border Patrol Agent in Arizona
+15118,1,Ryan: “An Attack on One of Us Is an Attack on All of Us’
+15128,1,VIDEO: Chaos Erupts in NY Penn Station Amid Rumors of Active Shooter, Police Taser Man - Breitbart
+15322,2,Report: James T. Hodgkinson Belonged to ’Terminate the Republican Party’ Facebook Group
+15547,1,PHOTOS: Al Qaeda Attack on Burkina Faso Hotel Leaves at Least 20 Dead - Breitbart
+16108,1,Inmates Show Off Weapons Arsenal in Venezuela Prison
+16134,1,Milwaukee Riots, Day 2 (PHOTOS) - Breitbart
+16234,1,Live Updates - Terror in Orlando: Approximately 50+ dead, 50+ More Wounded at Gay Nightclub - Breitbart
+16239,1,Bizarre Underground Gun Range in Fresno - Breitbart
+16311,1,France Defends Burkini Ban On Tense Post-Attack Beaches
+16456,2,Omar Saddiqui Mateen: 6 Facts About Orlando Terrorist - Breitbart
+16536,1,Mexican Cartel Throws Grenade near Kindergarten Class South of Texas
+16632,1,135 Police Officers Killed in the Line of Duty in 2016
+16846,1,Terror: Truck Crashes into Crowd Celebrating Bastille Day, At Least 80 Dead - Breitbart
+16930,1,Graphic: 6 Cartel Gunmen Burned Alive in Mexican Border City
+17125,2,Multiple Shooters Reported Active In Munich Mall Terror Shooting — Six Reported Dead
+17477,1,Turkish Military: Erdogan Removed to Protect Constitution, ’Democracy, Human Rights’ - Breitbart
+18117,1,Chicago: 32 Shot, Five Fatally in Weekend Violence - Breitbart
+18243,1,36th Police Officer Killed by Gunfire in Line of Duty This Year
+18418,1,Virginia State Trooper Died from Gunshot Wounds Sustained at Bus Terminal Shooting
+18423,1,Islamic State Says They’re Holding Pilot of Crashed Syrian Warplane - Breitbart
+18427,1,Report: As a Teenager, Rubio Dreamed of Being ’First Hispanic President’ - Breitbart
+18523,1,Keith Lamont Scott’s Wife Releases Cellphone Video of Charlotte Police Shooting - Breitbart
+18548,1,GRAPHIC: 6 Dead in Intense Mexican Border State Gun Battle
+18661,1,War on Police Spreads: 3 More Cops Ambushed Across U.S.A.
+18762,2,Police, Soldiers Swarm Mexico’s Acapulco, Killings Continue
+18846,1,Two Officers Dead, One injured in Palm Springs Shooting-Suspect at Large - Breitbart
+19054,1,Dianne Feinstein Loses Bid to Stop Cruz-Sponsored Move to Honor Chinese Dissident - Breitbart
+19171,1,Shots Fired At Police In Brussels During Search Linked To Paris Attacks
+19206,1,Exclusive: Hillary Tells Yet Another Self-Aggrandizing Feminist Lie - Breitbart
+19705,2,GRAPHIC CONTENT: Massive Bloodshed in Battle to Capture El Chapo - Breitbart
+19729,6,Report: Military Coup Under Way in Turkey - Breitbart
+19904,1,Attack on American University Latest Sign of ‘Growing Insecurity in Kabul’ - Breitbart
+20183,1,Watch: Brian Williams Links Dallas Shooting to 1963 JFK Assassination With Multiple References - Breitbart
+20281,2,Milwaukee Riots After Police Shoot Black Suspect
+20589,1,Media, Palestinian Authority Misleading About Palestinian Teen Mistakenly Killed In ’Stone Throwing’ Incident - Breitbart
+20611,1,Armed Clerk Thwarts Robbery at ’Obama Gas Station’ - Breitbart
+21039,1,Maryland Cop Killed by Fellow Officers During Ambush, Says Police Chief
+21075,1,VIDEO: See the Gun Battle That Led to El Chapo’s Capture - Breitbart
+21114,1,Revealed: The Obama Policy That Left Chris Stevens Defenseless
+21402,1,Ronald McDonald Shot Outside North Carolina Sonic
+21460,1,Remain Campaigners Rush To Blame Brexit For MP Attack - Breitbart
+21573,1,Tennessee Police Officer Run Down, Killed by Fleeing Shooting Suspect
+21804,1,Boko Haram Jihadis Burn Children Alive, Slay Over 100 Villagers in Nigeria Massacre - Breitbart
+21818,2,Chicago’s Bloody Memorial Day: 66 Shot, 6 Killed - Breitbart
+22071,2,CONFIRMED: Berlin Attack Suspect Shot Dead in Milan
+22253,1,Report From the Front Line: Turkey Teeters On Brink Of Civil War
+22276,1,North Korea Launches Long Range Rocket, Seen as Covert Missile Test - Breitbart
+22368,3,Dallas Mayor Criticizes Texas Gun Laws After Police Massacre - Breitbart
+22778,1,VIDEO: Two Mayors Murdered in One Day in Southern Mexico
+22787,3,Mexican Cartel Gunfight Caught on Video -- Just Miles from Texas Border
+22915,1,Police Arrest Yemeni Plotting ’Nice-Style’ Islamic State Truck Attack in New York - Breitbart
+23370,1,San Antonio Police Officer Executed While Writing Traffic Ticket -- Suspect: Black Man in Black Car
+23387,1,Son Of Police Officer Latest Fatality of Chicago Gun Violence - Breitbart
+23597,1,WATCH: 60s Radical Communist Angela Davis Supports Voting For Hillary - Breitbart
+23737,1,Two Men, Three Women Allegedly Open Fire on DC Police
+23846,1,Fake News: Associated Press Pushes ’Safe Border’ Narrative to Critique Trump Wall
+23848,1,Cartel Smugglers Help Suspect Who Tried to Run Over Texas Cop Flee to Mexico
+23898,1,Two NYPD Sergeants Shot, Wounded - Breitbart
+23904,2,EXCLUSIVE--GRAPHIC: Drug Cartel Burns Rivals Alive Near Texas Border
+23988,1,Marines Adapting Live-Fire Training Using Robots - Breitbart
+24201,2,Two Texas Cops Shot, Suspect Killed
+25184,1,Gulf Cartel Leaders Presumed Dead in Turf War near Texas Border
+25359,1,Intel Firm: Even More Radical Sect of Black Lives Matter Emerges
+25548,1,Affluent Houston Area Erupts: Gun Battle Leaves 2 Dead, Many Injured
+26019,1,Shooting Death of NBA Star Dwyane Wade’s Cousin Highlights Gang Violence in Chicago - Breitbart
+26030,1,Mexican Cartel Violence Kills Texas Toddler, Dad
+27511,1,Shaves at Barber’s, Corpses in Streets as Islamic State Retreats
+27527,1,A Nation Gathers to Honor 5 Slain Dallas-Area Police Officers
+28106,2,Cop Deaths Double in 2016, Amid Obama’s Anti-Cop Rhetoric - Breitbart
+28396,2,**Live Wire** Jihad in Orlando: Milo Yiannopoulos at Ground Zero - Breitbart
+28739,7,5 Police Officers Killed, 6 Wounded by Snipers in Dallas #BlackLivesMatter Protest
+28828,1,Three Suspected Intruders Enter Home, Only Two Make It Out Alive - Breitbart
+29004,1,Charlotte ’Protest’: Looting, Shooting, and Social Justice
+29424,1,WARNING GRAPHIC: The Most Brutal Murders Linked to El Chapo’s Sinaloa Cartel - Breitbart
+29642,2,Congress Moving to Make Cop-Killing a ’Hate Crime’ - Breitbart
+29839,2,Tennessee Police Officer Killed Responding to Domestic Violence Call
+30091,3,War on Cops: Law-Enforcement Deaths by Gunfire Up by 150% This Year - Breitbart
+30097,1,NY Officer Names K-9 After Five Assassinated Dallas Officers
+30195,4,Report: Explosion, Gunshots at American University in Kabul - Breitbart
+30508,1,’Tom Clancy’s The Division’ Review: We’re Here to Rescue You - Breitbart
+30784,1,Three Officers Wounded, One Dead in Four Attacks on Sunday
+30924,1,Texas High School Students Perform Trump ’Assassination’ Skit
+31212,1,Franken Urges Trump ’to Appeal to America’s Better Angels’ and Reject Stephen Bannon - Breitbart
+31387,2,9 People Wounded in Houston Shooting Spree -- Suspect Shot, Killed by Police
+31433,1,Afghanistan Veteran Saved Dozens in Orlando Jihad Massacre
+31612,2,Istanbul attack: ISIS claims nightclub shooting killer still at large
+31665,2,Turkey: Gunman identified in nightclub attack
+31697,2,Istanbul shooting: Horrifying scene inside massacre nightclub
+31757,1,Unrest in Ivory Coast as soldiers demand pay
+31760,1,Fort Lauderdale victims include grandparents
+31943,1,28 escape in deadly prison break, officials say
+31960,1,Istanbul nightclub shooting suspect confesses
+32028,1,Texas police salute slain detective
+32376,1,Inside the Yemen raid: Women al Qaeda fighters surprised US forces
+32827,1,Police: California officer killed by gang member
+32952,1,Five years after Trayvon Martin’s death, a movement lives on
+33074,1,CNN 10 - March 3, 2017
+33175,2,Kabul hospital attack leaves 30 dead
+33262,1,In western Mosul, a determined few remain
+33295,1,ISIS devastated Mosul Museum, or did it?
+33501,1,Bomber dies in blast near Dhaka airport in Bangladesh
+33545,1,Controversial Police Encounters Fast Facts
+33564,1,3 home invaders killed at Oklahoma residence, authorities say
+33844,1,Shooting at upscale Florida mall leaves 2 dead
+33873,1,Student among 3 dead in San Bernardino school shooting
+33912,1,This artist is spray painting St. Louis’ history
+33962,1,Penn Station: 16 injured in stampede over false reports of gunfire
+33977,1,San Bernardino shooting: 9-year-old victim getting better
+33990,1,Erdogan faces referendum test as Turkey votes
+34032,1,Turkey referendum: Erdogan declares victory
+34113,1,How Paris shooting could shape French election
+34148,2,Afghan base attack: More than 140 feared dead in Taliban raid
+34334,2,Police: San Diego gunman called ex-girlfriend during shooting
+34340,1,Suspect dead in Dallas shooting, mayor says
+34388,1,North Lake College shooting: Victim and suspect dead, police say
+34400,3,The Kent States you don’t know about
+34543,6,CNN 10 - May 10, 2017
+34738,1,CNN 10 - May 18, 2017
+35014,1,ISIS in Southeast Asia: Philippines battles growing threat
+35036,1,Philippines launches air strikes in bid to retake ISIS-occupied city
+35143,1,Two wounded officers released from Texas hospital
+35200,1,How the London terror attack unfolded
+35203,1,London terror attacks: What we know
+35243,1,London attack: What we know about the victims
+35274,1,Iran’s Revolutionary Guards blame Saudis for Tehran attacks
+35438,1,Scalise remains in critical condition after shooting
+35444,1,How a baseball practice turned into terror
+35445,1,Congressional baseball players: We must unite
+35449,5,Rep. Mo Brooks recounts details of shootings
+35464,1,Escaped Georgia inmates captured after chase
+35504,3,Chicago kids shot on school playground
+35644,1,Orlando shooting: Killer’s behavior had long been an issue
+35742,4,Orlando nightclub massacre: Friend says he told FBI about Mateen
+35834,1,Gunmen storm hotel in Mogadishu 15 killed, police say
+35922,1,Istanbul terror attack: 42 killed nation mourns
+35924,1,Turkey airport attack witness: ’It was like hell’
+35962,2, Dhaka cafe standoff: At least 13 hostages rescued
+35989,1,Terror attack in Bangladesh: The victims
+36000,1,Cafe attackers were Bangladeshi, authorities say
+36011,1,Rio mayor: State doing a ’terrible job’
+36016,1,’God wants you to die’: Dhaka’s long night of terror
+36060,2,ISIS: 143 attacks in 29 countries have killed 2,043
+36140,4,Dallas shooting: 5 officers die, suspect ID’d
+36143,1,It’s on us, America
+36145,1,Before Dallas, another shooting targeting police
+36147,1,Texas official walks back ’hypocrites’ line
+36168,1,Police used a robot to kill: The key questions
+36171,1,South Sudan independence day violence leaves nearly 150 dead
+36179,1,Photographer: ’Window’ into Dallas attack
+36187,4,South Sudan violence: U.S. evacuates embassy staff
+36210,1,Michigan shooting: Inmate kills 2 bailiffs, sheriff says
+36219,5,South Sudan: President Kiir orders ceasefire
+36277,1,Terror attack kills scores in Nice, France, Hollande says
+36281,5,Truck attack in Nice: ’We had to run for our lives’
+36300,1,Live updates: Turkey military coup attempt
+36301,1,Turkish president wants U.S. to send rival cleric home
+36303,1,Turkey coup attempt: How a night of  death and mayhem unfolded
+36312,1,Attack in Nice: Driver of truck identified as 31-year-old Tunisia native
+36349,1,Turkey coup attempt: Erdogan rounds up suspected plotters
+36455,2,Munich attacker researched rampage killings, police say
+36460,2,Munich shooting: 9 victims, gunman dead
+36464,1,How people in Turkey feel, one week on
+36530,2,Fort Myers shooting: 2 dead outside teen party at club
+36768,1,Pulse nightclub massacre: Orlando gunman shot 8 times
+36948,1,New York imam, his assistant killed near mosque
+36978,1,Fallen officers: 64 shot dead this year
+36985,1,Suspect arrested in shooting death of Georgia police officer
+37036,1,Suspect charged in killings of NY imam, assistant
+37067,1,Key ally in Syria bombed while US troops ’nearby’
+37224,1,Kabul siege: 12 killed in attack on American University
+37257,3,Badges save officers struck by bullets
+37367,1,Orlando Pulse 911 caller: Gunshots ’going like crazy’
+37447,3,Police officer, suspect killed during pursuit in New Mexico
+37662,2,Syria: Temporary ceasefire begins amid skepticism
+37689,1,Germany: 3 alleged ISIS members arrested
+37726,1,Ohio officer kills robbery suspect, 13, who had BB gun, police say
+37779,1,Police: Philly gunman left rambling letter
+37961,1,Houston shooting: Nine injured, suspect dead
+38127,1,India relocates 10,000 from around Kashmir as tensions rise
+38136,2,Militants launch attack on Indian army camp in Kashmir
+38157,1,Afghan forces regain control of key city after Taliban raid
+38462,2,Battle for Mosul begins with gunfire, bombs
+38492,1,Mosul: Most intense day of fighting since offensive began
+38577,1,California shooting: 1 dead, 2 wounded near LA-area polling station
+38592,1,2015 Paris Terror Attacks Fast Facts
+38694,1,Aleppo residents get warning by text message
+38811,1,Pulse 911 calls: ’They are dying, we’re dying’
+38884,1,Officers injured, slain in what appear to be targeted shootings
+38953,2,Kentucky football game shooting leaves 2 dead
+39086,1,ISIS uses water as weapon in Mosul fight
+39309,1,Slain police officers were best friends, in life and death
+39464,2,Aleppo: Evacuations suspended amid confusion
+39477,1,Help Syrians survive the conflict
+39510,1,Jordan says 10 killed in ’cowardly terrorist attack’
+39576,1,Aleppo evacuations resume after brief delay
+39670,5,Mall mayhem: Fights break out across the US
+39782,1,What (not) to look forward to in 2015
+39825,1,Charlie Hebdo attack: Three terrorists killed in raids
+39855,1,Who were victims in Charlie Hebdo, other Paris attacks?
+39898,1,Boko Haram attack: Bodies still litter bushes
+39944,1,Boko Haram attack repelled, Nigerian military says
+39949,2,Two killed in Belgian anti-terror operation
+39951,1,Amnesty: Satellite images show scale of Boko Haram raid
+39977,1,Suspects detained in Paris over attacks
+40004,1,Ceasefire in Yemen after day of clashes, officials say
+40017,1,No sign of terrorism on AirAsia Flight QZ8501 recording
+40021,1,Yemen President ’has no control’ as Houthis take palace
+40044,1,AirAsia flight climbed quickly before crash
+40046,1,Palestinian man stabs Tel Aviv bus driver, passengers
+40186,1,Gunmen attack Corinthia Hotel in Libya
+40380,1,2 held in alleged plot to shoot up mall in Canada
+40405,1,Teen killed in Maryland shootout parents found dead
+40423,1,Twists, turns in Las Vegas road rage case
+40487,1,Missouri shootings: 7 killed suspect dead, police say
+40659,1,Deputy U.S. marshal, suspect die after shootout
+40680,1,Myanmar warplane kills 5 in China, reports say
+40709,1,Man arrested in connection to Ferguson police shootings
+40736,1,Boston Marathon bombing trial: Police describe shootout
+40771,1,Tunisia museum attack: At least 19 killed, 3 at large
+40819,2,Boston Marathon bombing trial: Showdown in Watertown
+40896,3,Officers killed in San Jose, Wisconsin
+41027,1,147 killed in Kenya school attack, officials say
+41056,4,5 arrested in attack on Kenyan college
+41191,1,Did police use excessive force? A look at 3 cases
+41325,1,Australian model, DJ killed fighting for ISIS in Syria
+41377,1,There aren’t more police shootings, just more coverage
+41737,2,Cleveland officer not guilty in unarmed pair’s killing
+41740,2,A band of sisters on the special ops battlefield
+41776,1,Ramadi, a decade after an encounter with an IED
+41786,1,Inside the battle for Ramadi: Iraqi soldier speaks
+42130,4,U.S. helicopter fired on from Mexico side of the border
+42289,3,Dallas Police Headquarters Shooting Timeline
+42314,1,Dallas police HQ attack: Shooter’s father speaks out
+42392,1,Off-duty New Jersey cop accused of killing wife
+42477,1,How 1963 Birmingham bombing echoes in Charleston church
+42585,1,Terrorism on 3 continents, including 37 dead in Tunisia
+42621,1,Terror attacks: What they say about ISIS (Opinion)
+42717,6,Opinion: Enough with celebratory gunfire
+42917,1,Jessica Lynch copes with wounds, inside and out
+43107,1,The Istanbul nightclub gunman picked off the wounded during the shooting
+44341,2,Classroom murder-suicide leaves an 8-year-old boy dead in shooting at San Bernardino elementary school
+44463,1,Intense photos show Venezuela being rocked by the ’mother of all protests’
+45035,1,Police responding to multiple incidents across London: reports of vehicle striking pedestrians on London Bridge, gunfire and stabbings at Borough Market
+45040,1,Trump touted his blocked travel ban after police responded to ’terrorist incidents’ in London
+45048,1,Police believe they know who the London Attack suspects are
+45187,1,Shooting at San Francisco UPS facility leaves at least 3 dead
+45444,2,At least 23 killed in a hotel after gunfire, explosions erupt in Burkina Faso’s capital
+46183,1,Ankara court bans Facebook and Twitter after images of explosion were shared online
+47500,1,’Bombers can still buy tickets’: Increased security measures likely aren’t enough to prevent attacks at airports
+47503,1,Photos show the aftermath of the Istanbul airport bombing
+47537,2,At least 6 militants killed, several hostages rescued in Dhaka restaurant attack
+47630,1,Multiple police officers shot, at least 5 killed in a sniper attack in Dallas, Texas
+47647,2,Texas officials confirm Dallas police shooter acted alone
+47740,1,Turkish soldiers briefly took over CNN Turk — 1 journalist shot
+47760,1,3 officers killed, 3 others injured in ’ambush’ in Baton Rouge
+47762,2,It’s a ’mystery’ why 2 rebel jets that could have attacked the Turkish president’s plane didn’t
+48177,1,Taking down Zetas cartel leaders has had an alarming effect on violence in Mexico
+48364,1,Here’s how cops actually trace a gun
+48561,1,The crazy series of events that brought down the suspect in the New York and New Jersey bombings
+48572,1,Here’s everything we know about Ahmad Khan Rahami, the suspect in custody in connection with the New York and New Jersey bombings
+48683,4,Here are all the police killings since just the beginning of September
+49221,1,One person killed and multiple people injured in California shooting
+49401,1,Two killed, four wounded in Louisville, Kentucky shooting
+49451,1,Several injured after car, knife attack at Ohio State University — suspect identified

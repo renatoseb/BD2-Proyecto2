@@ -1,0 +1,589 @@
+40,1,Republican Party, Megyn Kelly, Titanic: Your Wednesday Briefing - The New York Times
+44,6,California Hires Eric Holder as Legal Bulwark Against Donald Trump - The New York Times
+71,1,Cyberwar for Sale - The New York Times
+130,1,How to Pounce on Best Credit Card Offers (Before Banks Pull Them) - The New York Times
+253,20,Eric Holder to Lead Democrats’ Attack on Republican Gerrymandering - The New York Times
+296,1,Game Over: These Guys Are No Longer Big Sports Fans - The New York Times
+320,1,‘You Focus on the Good’: Women Who Voted for Trump, in Their Own Words - The New York Times
+325,5,Jolted by Deaths, Obama Found His Voice on Race - The New York Times
+394,2,As Support for E.U. Flags Elsewhere, Bulgaria Sees Its Benefits - The New York Times
+449,2,Under Trump, Approach to Civil Rights Law Is Likely to Change Definitively - The New York Times
+539,1,Supreme Court Won’t Hear Appeal From Texas on Voter ID Case - The New York Times
+580,2,‘The Only Way We Can Fight Back Is to Excel’ - The New York Times
+669,5,Judge Blocks Trump Order on Refugees Amid Chaos and Outcry Worldwide - The New York Times
+670,1,President Trump’s Immigration Order, Annotated - The New York Times
+671,2,Banned From U.S.: ‘You Need to Go Back to Your Country’ - The New York Times
+676,4,‘How Do I Get Back Home?’ Iranians Turned Away From Flights to U.S. - The New York Times
+677,1,Trump’s Visa Ban May Keep Nominated Iranian Director From Attending Oscars - The New York Times
+695,2,Travelers Stranded and Protests Swell Over Trump Order - The New York Times
+696,1,How Trump’s Rush to Enact an Immigration Ban Unleashed Global Chaos - The New York Times
+698,1,Trump’s Executive Order on Immigration: What We Know and What We Don’t - The New York Times
+704,2,Worry and Disbelief in Yemeni-American Community in Brooklyn - The New York Times
+705,1,Refugees, Lunar New Year, Malaysia: Your Morning Briefing - The New York Times
+722,1,In a Week, Trump Reshapes Decades of Perceptions About America - The New York Times
+729,2,Bannon Is Given Security Role Usually Held for Generals - The New York Times
+760,1,Billionaire Is Reported Seized From Hong Kong Hotel and Taken Into China - The New York Times
+786,1,Beyoncé Is Pregnant With Twins - The New York Times
+791,1,A Rare Pacific Islander Captivates Its Neighborhood - The New York Times
+808,3,Visa Ban Amended to Allow Iraqi Interpreters Into U.S. - The New York Times
+829,1,Paris Turns to Flower-Growing Toilet to Fight Public Urination - The New York Times
+835,3,Court Temporarily Blocks Trump’s Travel Ban, and Airlines Are Told to Allow Passengers - The New York Times
+836,1,Broad Challenge to Trump Order May Center on Cleveland Doctor - The New York Times
+853,1,An Evolving Sports City, Atlanta Chases a Championship - The New York Times
+866,2,Appeals Court Rejects Request to Immediately Restore Travel Ban - The New York Times
+891,1,Lifting of Travel Ban Sets Off Rush to Reach U.S. - The New York Times
+970,1,John Oliver Returns: ‘I’m Not a Complete Nihilist’ - The New York Times
+1020,1,6 Highlights From the Ruling on Trump’s Immigration Order - The New York Times
+1047,1,Trump Vows Quick Action to Stop Terrorism After Setback in Court - The New York Times
+1074,1,A Tax Overhaul Would Be Great in Theory. Here’s Why It’s So Hard in Practice. - The New York Times
+1161,1,Trump Calls Press ‘Dishonest,’ Then Utters Falsehoods of His Own - The New York Times
+1185,1,The Dirty Projectors Go Solo - The New York Times
+1274,1,New Trump Deportation Rules Allow Far More Expulsions - The New York Times
+1309,1,Inside Uber’s Aggressive, Unrestrained Workplace Culture - The New York Times
+1357,3,Google Self-Driving Car Unit Accuses Uber of Using Stolen Technology - The New York Times
+1381,1,And the Oscar Winners Will Be ... - The New York Times
+1396,1,Understanding Transgender Access Laws - The New York Times
+1548,1,Stocks Are Up 5 Percent Under Trump. So How Long Will the Rally Last? - The New York Times
+1579,8,Jury Delivers Guilty Verdict in Murder of Police Officer - The New York Times
+1600,1,Sessions’s Potential Deputy Faces a Stern Test on Russia Inquiries - The New York Times
+1604,1,Trump’s New Travel Ban Blocks Migrants From Six Nations, Sparing Iraq - The New York Times
+1643,26,Fox Is Said to Settle With Former Contributor Over Sexual Assault Claims - The New York Times
+1650,3,Republican Party, C.I.A., Syria: Your Thursday Evening Briefing - The New York Times
+1763,1,Think the N.C.A.A. Bracket’s Too Easy? Try One of These Pools - The New York Times
+1795,1,He Didn’t Like ‘Homeland.’ Now He’s Advising It. - The New York Times
+1808,1,Inside John Calipari’s Media Empire - The New York Times
+1828,1,2 Federal Judges Rule Against Trump’s Latest Travel Ban - The New York Times
+1887,2,Travel Ban Dampens Persian New Year Celebration - The New York Times
+1896,2,A Texas Woman ‘Voted Like a U.S. Citizen.’ Only She Wasn’t. - The New York Times
+1949,1,Uber Board Stands by Travis Kalanick as It Reveals Plans to Repair Its Image - The New York Times
+2016,1,California Upholds Auto Emissions Standards, Setting Up Face-Off With Trump - The New York Times
+2117,1,Uber Releases Diversity Report and Repudiates Its ‘Hard-Charging Attitude’ - The New York Times
+2119,1,Cyclone Debbie Strikes Australia’s Coastline as Thousands Flee - The New York Times
+2356,1,Kushner Omitted Meeting With Russians on Security Clearance Forms - The New York Times
+2364,2,Twitter Sues the Government to Block the Unmasking of an Account Critical of Trump - The New York Times
+2439,1,A Polarized Supreme Court, Growing More So - The New York Times
+2491,1,Scouring 11 Time Zones for a Contemporary Russian Art Show - The New York Times
+2557,1,Focus on Chief Justice as Supreme Court Hears Immigration Challenge - The New York Times
+2632,1,Federal Judge Upholds North Carolina Voter Rules - The New York Times
+2654,4,Facebook Plans New Stock Class to Solidify Mark Zuckerberg’s Control - The New York Times
+2703,2,U.S. Warns North Carolina That Transgender Bill Violates Civil Rights Laws - The New York Times
+2720,1,Two-Hour Marathon. Can It Be Done? - The New York Times
+2747,1,Retesting of Doping Samples Could Bar Dozens From Rio Olympics - The New York Times
+2937,1,In a Corner of the Everglades, a Way of Life Ebbs - The New York Times
+3074,1,European Union, Donald Trump, Bernie Sanders: Your Friday Evening Briefing - The New York Times
+3093,2,How Housing’s New Players Spiraled Into Banks’ Old Mistakes - The New York Times
+3155,4,Loretta Lynch to Accept F.B.I. Recommendations in Clinton Email Inquiry - The New York Times
+3187,1,Shadow of Plea Deal for David Petraeus Loomed Over Hillary Clinton Email Case - The New York Times
+3360,1,HSBC Bank Executives Face Charges in $3.5 Billion Currency Case - The New York Times
+3480,1,Who Will Light the Olympic Caldron in Rio? It Won’t Be Pelé - The New York Times
+3638,1,U.S. to Phase Out Use of Private Prisons for Federal Inmates - The New York Times
+3690,1,For Those Keeping Score, American Women Dominated in Rio - The New York Times
+3691,1,The Best and the Worst From the Rio Games - The New York Times
+3907,1,Wells Fargo Fined $185 Million for Fraudulently Opening Accounts - The New York Times
+3924,1,How to Become a C.E.O.? The Quickest Path Is a Winding One - The New York Times
+4018,2,Edward Albee, Trenchant Playwright Who Laid Bare Modern Life, Dies at 88 - The New York Times
+4119,1,Court Leader or Leading Dissenter? Chief Justice’s Fate Tied to Election - The New York Times
+4237,1,The Cubs Confront the Curse: Is This the Year? - The New York Times
+4282,1,Trying to Disrupt the Auto Industry With The Onion’s Help - The New York Times
+4336,1,Donald Trump Assails His Accusers as Liars, and Unattractive - The New York Times
+4365,1,In China, Property Frenzy, Fake Divorces and a Bloating Bubble - The New York Times
+4371,1,N.F.L. Scores: Dallas Cowboys Have a Legitimate Quarterback Controversy - The New York Times
+4500,1,Narendra Modi Bans India’s Largest Currency Bills in Bid to Cut Corruption - The New York Times
+4561,1,Mary Jo White to Step Down as S.E.C. Chief - The New York Times
+4607,1,Trump Turns to His Right Flank to Fill National Security Posts - The New York Times
+4614,2,Friday Mailbag: No More Politics. Just Kidding. - The New York Times
+4667,2,After Obama Push for Clemency, Hints of Reversal Likely to Come - The New York Times
+4878,1,Girl Posting to Twitter From Aleppo Gains Sympathy, but Doubts Follow - The New York Times
+4914,1,Wall Street Is Europe’s Landlord. And Tenants Are Fighting Back. - The New York Times
+4976,1,Chauffeur, Shootaround and Boneless Chicken Wings: Living Large With the Nets - The New York Times
+5303,1,I.O.C. President Says Russian Federations Could Be Barred - The New York Times
+5364,1,Regulators Fear $1 Billion Coal Cleanup Bill - The New York Times
+5377,1,‘Hamilton’ Inc.: The Path to a Billion-Dollar Broadway Show - The New York Times
+5446,1,Bipartisan Senate Group Proposes ‘No Fly, No Buy’ Gun Measure - The New York Times
+5543,1,Ruth Bader Ginsburg, No Fan of Donald Trump, Critiques Latest Term - The New York Times
+5564,2,Crash Near Finish Throws Tour de France Into Chaos - The New York Times
+5640,1,How to Get Better Returns on Savings - The New York Times
+5660,1,Tegla Loroupe Gives Refugee Olympians a Lesson in Hope - The New York Times
+5678,2,Expulsions of Protesters at Rio Olympics Draw Rebukes - The New York Times
+5712,1,Maya DiRado, Exiting the Sport, Catches Katinka Hosszu and Grabs Gold - The New York Times
+5742,1,How Millennials Became Spooked by Credit Cards - The New York Times
+5754,1,It’s Children Against Federal Lawyers in Immigration Court - The New York Times
+6127,1,No Kegs, No Liquor: College Crackdown Targets Drinking and Sexual Assault - The New York Times
+6134,1,A South Korean Man Adopted by Americans Prepares for Deportation - The New York Times
+6163,1,Beijing’s Intervention in Hong Kong Election Could Face a Hurdle: Local Courts - The New York Times
+6200,1,Martha’s Vineyard, Off-Season - The New York Times
+6237,4,Thousands of Mourners Celebrate Gwen Ifill’s Tenacity and Grace - The New York Times
+6242,2,An Airport Survival Guide - The New York Times
+6315,1,Trump’s Tough Trade Talk Could Damage American Factories - The New York Times
+6376,1,Accusations of Fraud at Wells Fargo Spread to Sham Insurance Policies - The New York Times
+6570,1,Economic Promises a President Trump Could (and Couldn’t) Keep - The New York Times
+6734,1,Critics See Efforts by Counties and Towns to Purge Minority Voters From Rolls - The New York Times
+6780,1,This Great-Grandmother Coaches an Olympic Champion. Now Let Her By. - The New York Times
+6788,1,Rio Olympics: U.S. Basketball, Swimmers Detained, and the Women’s 200 - The New York Times
+6803,1,Reflections From Rio - The New York Times
+6973,1,James Cartwright, Ex-General, Pleads Guilty in Leak Case - The New York Times
+6989,1,Emails Warrant No New Action Against Hillary Clinton, F.B.I. Director Says - The New York Times
+7059,1,Many in Florida Count on Obama’s Health Law, Even Amid Talk of Its Demise - The New York Times
+7250,1,In Reversal, Marco Rubio to Seek Re-election to Senate - The New York Times
+7335,1,A Motivational Tool: Believing That Tennis’s Big Four Era Is Over - The New York Times
+7341,1,Edward Snowden’s Long, Strange Journey to Hollywood - The New York Times
+7345,1,A Paralympian Races to Remove Obstacles for the Next Generation - The New York Times
+7802,1,Airbnb Adopts Rules to Fight Discrimination by Its Hosts - The New York Times
+8014,1,Social Security Administration Paid $1 Billion in Benefits to Those Without a SSN
+8074,1,Fake News: DHS Secretary Calls WaPo ’John Kelly-Steve Bannon Feud’ a ‘Fantasy Story’ - Breitbart
+8109,1,New Sheriff in Town: The First 100 Days at the Sessions DOJ - Breitbart
+8167,1,Chris Christie Commutes Sentence for USMC War Vet Charged over Legally Owned Gun - Breitbart
+8298,1,After Bring Fans to Stands in Droves, Mets Considering Promoting Tim Tebow to AA Ball
+8509,4,Goldman Sachs: Almost One Million H-1B Foreign Workers Hold University-Level Jobs Here - Breitbart
+8520,1,Matt Schlapp: CPAC 2017 Is About ’What Do We Do Now?’
+8521,2,Debbie Wasserman Schultz: Federal Government May Ban Passengers from Checking Guns in Baggage
+8563,1,Gun-Controlled Chicago: Thieves Break Into Car of Top Cop
+8703,2,Tech Limitations Hinder ICE Enforcement of Visa Overstays
+8710,2,ESPN Makes Sudden Guidelines Change to Limit On-Air Talent’s Political Commentary - Breitbart
+8769,1,Hans Von Spakovsky: Democrats Oppose Jeff Sessions Because He’ll Enforce Our Immigration Laws
+8799,1,Globalists In Exile: ‘Party of Davos’ a Gloomy Event This Year After Brexit, Donald Trump’s Win - Breitbart
+8839,1,Exclusive—Rep. Jim Jordan on Trump’s First 100 Days: ‘I Think We’re Off to a Great Start’ - Breitbart
+8870,1,Expert: Refugee ’Chain Migration’ Puts Foreign Labor First
+8879,1,Police Name Third London Bridge Killer, All 12 Suspects Released Without Charge
+8894,1,Phony Obamacare Attack Aimed At Luring Conservatives To Support A Hedge Fund Windfall
+8993,3,Missouri Bill: Gun-Banning Businesses Liable for Injuries to Disarmed Customers - Breitbart
+9055,2,’Homefront: The Revolution’ Spring Update: Multiplayer Goes Free-to-Play, Last Expansion Released - Breitbart
+9104,1,Thieves Plow Into Texas Gun Range, Steal Weapons
+9329,1,Donnelly: Dear Mr. President-Elect, Please ’Pick a Fight’ with California on Behalf of the American People - Breitbart
+9436,13,California Hires Eric Holder to Lead Legal Fight Against Trump
+9498,1,John Carney on Dow 20,000: ‘There’s a Sort of Hope Reborn’ After Trump’s Election
+9521,2,7 Reasons the Jeff Sessions Witch Hunt Is Ridiculous - Breitbart
+9587,1,Alan Colmes Dead at 66
+9590,1,Chicago Mayor: City Needs More Regulations on Federally Licensed Gun Dealers - Breitbart
+9598,1,USMC War Vet Faces Prison for Legally Owned Gun Unregistered in New Jersey - Breitbart
+9618,1,John Bolton: Trump’s Only Mistake Was Not Firing Comey on January the 20th - Breitbart
+9691,7,Lott: Police Commit More Gun Crimes Than Concealed Carry Permit Holders
+9711,1,Iraq Votes to Ban Americans in Response to Trump’s Immigration Order - Breitbart
+9712,1,Actress Sarah Wynter: GOP Wants to Allow Concealed Carry for the Blind, Mentally Ill
+9718,1,Ohio Colleges Demand Students Remain Defenseless Despite Campus Carry Law - Breitbart
+9897,8,Reince Priebus Slams Chuck Todd: ’You Don’t Stop Talking’ - Breitbart
+9919,1,Pennsylvania Republican Pushing Ban on Private Gun Sales - Breitbart
+9994,1,Concealed Carry Up 215%, Murder Rate Down 14% - Breitbart
+10009,2,Waffle House Waitress Fired After Shooting Gun During Alleged Robbery - Breitbart
+10193,13,Fitton: Eric Holder and the California-DC Corruption Connection - Breitbart
+10239,1,Ohio State Campus Carry Proponent Shot and Killed Near Campus - Breitbart
+10325,6,DONNELLY: How California DMV Could Settle the Question of Voter Fraud - Breitbart
+10427,1,Congress Takes Aim at DOJ ’Slush Fund’ to Left-Wing Activists - Breitbart
+10447,1,Big Survey Shows Firm Majority Support for Donald Trump’s Refugee Reform - Breitbart
+10605,1,Missouri Lawmakers Push Campus Carry, Liability for Gun-Free Businesses
+10609,1,Mark Kelly Renews Vow to Fight National Reciprocity After Shooting of Unarmed Congressman - Breitbart
+10755,2,Attorney General Jeff Sessions Reforming Obama’s Lax Policies on Crime, Drug Trafficking - Breitbart
+10795,1,Kevin Shenkman: Ending Democracy as We Know It in Southern California? - Breitbart
+10799,6,Eric Holder: Don’t Condemn Attorney General Jeff Sessions Yet - Breitbart
+10805,1,How Federal Agencies Keep Americans in the Dark About Crime Statistics
+10879,1,DHS Pauses Fast-Track H-1B Approvals for Six Months - Breitbart
+10918,2,Moms Demand Action Founder: Trump is ’NRA’s Dream’ but America’s Nightmare - Breitbart
+10919,3,EXCLUSIVE -- Family of Slain Border Patrol Agent Brian Terry Says Eric Holder Among ’The Real Criminals’ Responsible
+10946,1,Rand Paul: ’Lots of Crocodile Tears in DC’ for Comey
+11021,5,Blue State Blues: Why Do Democrats Undermine Latino Leaders?
+11053,1,Michael Brown’s Father on Ferguson Riots: ’They Asked for It’
+11130,1,President Trump to Appear on Golf Channel Tribute to Jack Nicklaus - Breitbart
+11177,1,Rep. DeSantis: Five Key Facts About the Obamacare Replacement Bill
+11309,1,Trump Deputy Assistant Sebastian Gorka Reveals Death Threats
+11356,2,GOP Rep Introduces National Concealed Carry Reciprocity On Day One of New Congress - Breitbart
+11371,1,Report: Facebook Gives Employees Permission to Skip Work to Protest Trump on May 1st - Breitbart
+11372,1,Georgia Lawmakers Pass Campus Carry, Sending It to Governor’s Desk
+11513,9,Sessions DOJ Ends ’Holder Memo’ Era, Resumes Strict Drug Sentencing - Breitbart
+11560,1,Jerry Brown’s New Budget Includes Millions to Defend Illegal Aliens from Deportation - Breitbart
+11729,4,Dem. Assemblyman Pushes Bill to Guarantee Teachers Cannot Shoot Back if Attackers Strike - Breitbart
+11823,1,5 Things We Know for Certain About the Mike Flynn Case - Breitbart
+11837,2,James Comey’s Democrat Critics Now See Russian Conspiracy in Trump’s Firing
+11845,1,GOP Rep. Babin: Concealed Carry for Me but Not for Thee - Breitbart
+11932,1,John Bolton: Trump Admin Put Iran ‘On Notice’ for First Time in Eight Years
+11974,1,Pinkerton: The U.S.-China Competition: Cyberspace and Outer Space
+12122,1,White House Posts ’Hire American’ Executive Order - Breitbart
+12151,1,Oregon Counties Declare Sanctuary Status Against Gun Control
+12251,1,US Prepares to Seek Arrest of Julian Assange - Breitbart
+12678,1,Target Raises Free Shipping Purchase Amount for Online Shoppers as Other Retailers Lower It
+12742,5,Eric Holder’s Airbnb Runs Controversial #WeAccept Multiculturalism Ad - Breitbart
+12762,1,Remembrance Project Members Give Their Take on Jeff Sessions-John Kelly Address - Breitbart
+12772,1,Armed Citizen Who Threw Wallet to Distracted Suspect: ’That’s When I Lit Him Up’ - Breitbart
+12786,5,Police: Concealed Carry Permit Holder Shoots, Kills ’Active Shooter’ - Breitbart
+12833,1,Bad Hombre Crackdown: Sessions Ramps War on Drug Traffickers
+12865,7,MRC: 3 Networks Covered Sessions 7x More Than Eric Holder Being Held in Contempt of Congress - Breitbart
+12887,1,SCOTUS Throws Cold Water Early on Obama’s Partisan Gerrymandering Project
+13101,1,Watch: Trump Press Conference at Trump Tower - Breitbart
+13241,1,Sen. Tom Cotton: Time to Cut Immigration Levels, Shift Focus to Helping American Citizens First
+13310,2,NYDN: Ft. Lauderdale Gun-Free Zone Attack No Justification for Arming Citizens to Shoot Back
+13320,1,De Blasio: Trump’s Immigration Order Is ’Un-American’ - Breitbart
+13488,1,Armed Citizen Intervenes, Kills Suspect Beating AZ State Trooper on Roadside
+13779,1,Chuck Todd: Trump Established a ’Religious Test’ for Refugees From Muslim Countries - Breitbart
+13849,1,Gun-Controlled Chicago: Over 1,000 Shooting Victims This Year
+13889,1,Controversial EB-5 Visa Gets Extension
+14013,6,NYT: Allowing Guns for Self-Defense in Unsecured Airport Areas Is ’Delusional
+14050,1,Gun Controllers Advertise ’Bulletproof Hoodies’ for Students on Campus Carry Campuses
+14175,1,Senate Confirms Dr. Ben Carson 58-41 to Lead Housing and Urban Development Department - Breitbart
+14203,1,Robert Barnes: Democrats Overlooked Clinton Perjury but Launched ’Neo-McCarthyite’ ’HUAC Times Ten’ Attack on Sessions
+14304,1,Schweizer: Sessions Ending DOJ Handouts to Activist Groups ’a Tremendous Victory’
+14314,1,FLYNN: When Obama Blocked Cubans, the Sandwich Boards Molded Over - Breitbart
+14316,6,Hackers May Have Obtained Names of over 16,000 Florida Concealed Permit Holders
+14346,3,Gun-Controlled Chicago: Concealed Permit Holder Shoots Would-Be Carjacker
+14398,2,FBI: Suspect Flew to Gun-Free Ft. Lauderdale Airport ’Specifically’ for Attack - Breitbart
+14523,1,Obama’s Final Interview as President to Air on History Channel
+14540,1,New Mexico Democrats Undertake Last Ditch Effort to Ban Private Gun Sales - Breitbart
+14545,1,Van Jones: Trump ’Opened the Door’ for Disrespect of the President With Birtherism - Breitbart
+14728,1,Sadiq Khan: ’Cancel President Donald Trump’s State Visit’ - Breitbart
+14748,1,Facebook Suspends YouTuber for Disliking ’Transgender Mother’ Commercial **UPDATE** - Breitbart
+14994,1,McCain: Trump’s ’Confused’ Ban May Fuel ISIS Propaganda - Breitbart
+15029,1,Rep. Jason Chaffetz: House Oversight Committee to Subpoena Trump Admin for Late Docs - Breitbart
+15261,2,NY Times: Convicted Alien Vote Fraudster’s Real Crime Was ‘Being Confused’
+15448,2,Arkansas House: State Universities, Colleges Must Allow Campus Carry for Self-Defense - Breitbart
+15913,1,Seth MacFarlane Schooled on ’Automatic’ Weapons After Tweets About Orlando Terror - Breitbart
+16236,1,FLASHBACK- Washington Post in 2014: Non-Citizen Voting Gave Democrats 60th Vote for Obamacare - Breitbart
+16357,2,Trump: ‘Guilty as Hell’ Hillary ‘Will Pay for Her Sins on Nov. 8’
+16573,1,UC Student Body President Opposes Campus Carry Because of ’Stabbings’
+16613,1,Hillary Clinton: Donald Trump a ’Gun Lobby’ Sellout
+17135,3,White House: Obama Does Not Agree With Eric Holder On Edward Snowden - Breitbart
+17387,1,Gun Store Sells 30,000 AR-15s in First Week Following Orlando Terrorist Attack
+17444,1,Donald Trump Shoots AR-15 with North Carolina Law Enforcement - Breitbart
+17459,6,Judge Rules Texas Courthouse Gun-Free Zone
+17623,1,Cleveland Radio Host Promises Violence to Browns Fans Planning 0-16 Parade - Breitbart
+17969,4,Exclusive — Rep. Ron DeSantis: Paul Ryan’s GOP Leadership Team Fears Beltway Media, Isn’t Holding IRS Accountable - Breitbart
+17990,1,Report: Nearly 1 in 14 Children in the U.S. Reside with an Illegal Immigrant Parent - Breitbart
+18159,1,2016 Election Day: Live Updates - Breitbart
+18209,2,Kansas State University Gun Policy to Allow Campus-Wide Concealed Carry - Breitbart
+18263,1,Sanctuary Cities Demand 11th Hour Executive Orders Against Trump
+18425,2,Turkey To Grant 300,000 Syrians Citizenship
+18832,4,Barack Obama Backs Down Over Operation Fast and Furious, Drops Executive Privilege Claim Over Some Documents - Breitbart
+18898,3,Gavin Newsom: Trump’s Election a ’Leap Backward’ for States with Stringent Gun Control - Breitbart
+18926,1,Islamist-Linked Texas Charter School Faces New Fraud Accusations
+19066,1,Samantha Power’s Failure to Stop Genocide at the UN - Breitbart
+19070,1,Campus Carry Heads to Full Senate Vote in Tennessee - Breitbart
+19182,1,Obama Announces Executive Gun Control, Taunts Congress for Inaction
+19212,1,DOJ Watchdog Issues Report Finding Sanctuary Cities, States Illegal
+19262,1,Ted Cruz: Donald Trump ’Hates Guns’ - Breitbart
+19465,2,Flint’s Water a Recurring, Democrat Problem - Breitbart
+19657,1,Black Dallas Cop Sues Black Lives Matter, Soros for Inciting Race War
+19792,1,Estate of Beatle George Harrison ’Offended’ by Song Use at RNC - Breitbart
+19858,1,Obama Tag-Teams with Mexico to Help Migrants Get U.S. Jobs - Breitbart
+19898,1,Prof. Banzhaf: Free Speech on the Line as GWU Tries to Muzzle Milo
+19943,1,Cheap Gas Prices are Trickle-Down Tax Cut of $1500 - Breitbart
+19976,1,Effort to Open Voting to Illegal Immigrants Underway in NYC - Breitbart
+20029,1,Breitbart Predicted Black Lives Matter Now We’ll Predict What’s Coming Next
+20141,1,Orlando’s ’Pulse’ Gay Bar Was a ’Gun-Free Zone’ by State Law - Breitbart
+20398,1,Puerto Rico Intends to Default Despite U.S. Aid - Breitbart
+20541,1,Militant Native American Protesters Attack Pipeline Crew
+20696,1,Glenn Beck Apologizes After Citing Anti-Trump Hoax Tweet on Fox News Trump Fires Back: Dope’s ’Company Is Falling Apart’ - Breitbart
+20872,1,Black Nebraska Senator: I’d ’Mow Everybody Down’ If I Were White - Breitbart
+20983,1,Trump Scores Historic 13 Million GOP Primary Vote Blowout
+21125,1,Pope Francis to Canonize Hillary Clinton Nemesis Mother Teresa - Breitbart
+21128,1,Huffington Post Covers for Loretta Lynch: It’s All Goofy Bill! - Breitbart
+21196,4,***Horse Race LiveWire*** Trump, Clinton Riding Momentum After Big NY Wins - Breitbart
+21311,1,Six Things Every American Should Know About Sen. Jeff Sessions - Breitbart
+21508,8,NYT: ’Public Safety’ At Risk if Donald Trump Signs National Reciprocity - Breitbart
+21547,1,Hillary Clinton: Background Checks Part of Gang Violence Solution
+21561,1,Why the Left Hates Mother Teresa of Calcutta
+21617,1,Glenn Beck at Cruz Rally in Utah: Southern Evangelicals ’Are Not Listening to Their God’
+21673,1,Tim Kaine: ’F’ Rating From NRA, Opposed Letting Virginians Have Gun In Car For Self-Defense - Breitbart
+21710,1,Gun-Toting Senior: ’My Friends Like To Knit, I Like to Shoot’ - Breitbart
+21815,2,Wikileaks: ’Has That Gotten Any Press?’ Clinton Asked After Fast and Furious Killing of ICE Agent
+21947,1,Tim Kaine Takes Pride In ’F’ Rating From NRA - Breitbart
+22163,2,Oath of Allegiance to British Values Would Help Migrants Play ’Positive Role’
+22536,1,Hillary Clinton To Pennsylvania Hunters: ’We Can’t Ignore The 2nd Amendment’ - Breitbart
+22609,3,Moms Demand Founder: We’re Not Anti-Gun But We Oppose Law-abiding Citizens Carrying Nationally - Breitbart
+22624,1,Campus Carry Passes in Alaska Senate Committee - Breitbart
+22755,1,Trump : New Trade Deals Will Eliminate $19 Trillion US Debt in 8 years - Breitbart
+23083,1,The Guardian: Trump Victory Provides NRA Historic ’Moment to Go on Offense’
+23089,1,Concealed Carry Licenses Surge in Ohio - Breitbart
+23122,1,The Bundy Family and Armed Resistance to ‘Government Land Grabs’: Know the Facts - Breitbart
+23284,1,Brexit: Britain Votes To Leave EU, PM Cameron Resigns - Breitbart
+23313,1,’GunMeggedon’ in California With More Gun, Magazine Bans - Breitbart
+23339,1,Gavin Newsom: ’Easier to Get a Gun Than a Happy Meal in CA’
+23540,2,Cruz In GOP Debate: Obama, Hillary United to Take Away Guns - Breitbart
+23614,1,Alleged Brussels Terrorist Was Star Of Documentary About Successful Integration Of Immigrants
+23768,1,Beretta Celebrates 500 Years of Firearm Manufacturing
+23855,4,Ray LaMontagne Cancels UT Show Over Campus Concealed Carry Law
+24017,1,August Rings Out as Chicago’s Most Violent Month in Two Decades - Breitbart
+24019,1,Italy Still Without Government after Renzi Resignation
+24172,1,Bartiromo Drills Rubio on Wanting to Replace Americans with Foreigners - Breitbart
+24203,1,Wikileaks: Clinton Foundation Chatter with State Dept on Uranium Deal with Russia - Breitbart
+24307,1,Paul Nehlen: Paul Ryan ’Sold His Vote! I Absolutely Believe That’ - Breitbart
+24506,1,Photographer Files DMCA Against Trump Jr. over Tweeted Skittles Picture - Breitbart
+24547,1,Sonnie Johnson: Are You Ready to Talk About Real Freedom Now, Jesse Williams? - Breitbart
+24556,1,Implicit Bias: The New ’Original Sin’ - Breitbart
+24599,1,Second Amendment Voter’s Guide: Trump vs. Clinton - Breitbart
+24630,1,Executive Gun Control: The 5 Most Outrageous Facts
+24693,1,Book Excerpt: Beyond Words, Judge Donald Trump by His Actions - Breitbart
+24715,1,FULL TEXT: ’How To Destroy The Alt Right’ By MILO - Breitbart
+24735,1,EXCLUSIVE-Experts: ’Unusual’ and ’Significant’ Donald Trump Wins Without Key Endorsements - Breitbart
+24869,1,Trump Poll Monitors Stand Strong Despite Anti-Poll Monitor Efforts
+25333,1,Jack Nicklaus Says Modifying Ball Will Solve Two Big Problems for Golf - Breitbart
+25359,1,Intel Firm: Even More Radical Sect of Black Lives Matter Emerges
+25379,1,Richard Dreyfuss Trashes Trump to Salvage Liberal Cred After Attending Cruz Rally
+25417,1,U.S. Education Department Civil Rights Complaints More Than Doubled During Obama Administration - Breitbart
+25534,1,Six Aspects Of Donald Trump’s Pro-Gun Push - Breitbart
+25641,1,Great British Public Votes For New Royal Research Ship To Be Named ‘Boaty McBoatface’
+25711,1,Rick Manning: Soros and Koch Brothers Collude to Empty Federal Prisons - Breitbart
+25713,1,NRA Photo Shows Election Day with Wrong Date for Gun Control Suppporters - Breitbart
+25787,1,Sheriffs’ Group Calls Officers to Refuse to Enforce Gun Control
+25799,4,***DNC LiveWire*** Bill Clinton, ’Mothers of the Movement’ Featured ’Anti-Police’ March in Philly - Breitbart
+25943,1,DNC Chair Candidate Tom Perez Had His Own Clinton-Style Email Scandal at Dept. of Justice - Breitbart
+25950,1,’Safe Paws’ Japan Pooch Sets Yoga Ball Speed Record - Breitbart
+26015,1,Rubio: Hillary Will Probably Have To Pardon Herself If Elected, I’d Repeal All ’Unconstitutional’ Obama Orders On Day 1 - Breitbart
+26059,1,Civil Rights Advocates Praise Jeff Sessions for Protecting Black American Workers - Breitbart
+26123,1,Clinton to Resettle One Million Muslim Migrants During First Term
+26134,1,Richard Dreyfuss: Donald Trump a ’Small-D*cked Prick’ - Breitbart
+26168,1,Trump-Modern Day Paul Revere Deserves Nobel Peace Prize - Breitbart
+26249,1,PICS: One Dead, Five Injured In Potential Terrorist Attack In Russell Square, Central London
+26257,1,NYT: Trump Actually Supports ’Arming People to Defend Themselves in Gunfights’
+26266,1,Philadelphia: Multiple Reports of Voter Fraud Hit Social Media
+26277,1,Police Confiscate Guns from Concealed Permit Holder Who Believes in Bigfoot
+26290,1,Concealed Carry Surging: TX to Surpass 1 Million License Holders - Breitbart
+26645,2,Universities Hide Workforce of 100,000-plus H-1B Employees
+26717,1,CNN’s Tom Foreman Caught Lying in Trump-Refugees ’Fact Check’ - Breitbart
+27005,1,Marco Rubio Bought Gun On Christmas Eve to Defend Family From Terrorism - Breitbart
+27280,4,Greg Hardy: I’ve Never Put My Hand on Any Woman - Breitbart
+27322,1,***2016 LiveWire*** AG Lynch Testifies Before Congress…Sanders Endorses Hillary…Pence to Campaign with Trump - Breitbart
+27558,1,Questions Linger as Tesla Prepares to Launch Model 3 - Breitbart
+27784,1,5 Worst Gun Controls
+27949,1,Latinos for Trump Founder: Media Ignoring Trump’s Immigration Plan, ’Going Nuts’ Over Deportation - Breitbart
+27971,3,John Fund: ‘FBI Investigation Goes on into the Clinton Foundation, Rather Than the Emails’
+28020,4,Exclusive — Darrell Issa: ‘Tainted Justice Department’ Cannot Be Trusted to Fairly Investigate Hillary Clinton’s Email Scandal - Breitbart
+28053,3,Mike Pence’s 8 Greatest Fights to Kill Gun Control
+28138,1,***2016 LiveWire*** Trump, Clinton Gear Up for General Election Battle - Breitbart
+28211,1,Walmart Selling Black Lives Matter Shirts with ’Bulletproof’ on Them
+28255,2,Brady Campaign Fights to Keep College Students Defenseless Day After Ohio State Attack - Breitbart
+28308,1,Steve Wynn: NV Ballot Initiative Criminalizes Soldiers Who Leave Gun Behind with Fiancée - Breitbart
+28382,3,Washington Examiner: FBI Releases Documents on Probe of Marc Rich Pardon - Breitbart
+28690,1,Democrat Party Platform: They Are Coming for Your Guns - Breitbart
+28980,1,5 Times Democrats Claimed U.S. Elections Are ’Rigged’ - Breitbart
+29184,1,Three Foreign-Born Cases of Multi-Drug Resistant TB in Nashville, Tennessee - Breitbart
+29306,1,’Family Guy’ Takes YouTuber’s Video Game Clip, Issues Copyright Claim on Original Video - Breitbart
+29433,15,Eric Holder: Snowden Performed a ‘Public Service’
+29520,1,Khizr Khan Attack on Donald Trump Goes Down in Flames
+29986,1,Media Fail On N.C. Transgender Bathrooms, Hides Stealth Plan To Replace the Sexes With ’Gender’ - Breitbart
+30001,5,Open Carry in Effect for Texans
+30092,1,***Live Updates*** GOP Debate Night in South Carolina - Breitbart
+30133,1,Zumwalt: Trump Announces Administration Posts as Critics Announce ’the Sky is Falling!’ - Breitbart
+30324,1,Terry McAuliffe Stands Against Everytown for Gun Safety: Restores Concealed Carry Reciprocity - Breitbart
+30374,1,Refugee Watch Warns: ‘Brussels Coming To A Town Near You’ - Breitbart
+30444,3,Hillary Clinton With Eric Holder: ‘We Have Just Too Many Guns’ - Breitbart
+30611,2,Conway on Jeff Sessions Critics: ’Don’t Want to Respect the Election Results,’ ’Still in Campaign Mode’ - Breitbart
+30615,1,Golden Finale: Phelps Wins 23rd Olympic Gold with Relay Win - Breitbart
+30656,3,Issa Says Fast and Furious Docs May Implicate Eric Holder
+30879,1,Sources: Georgia Lt. Gov. Will Try to Torpedo Campus Carry
+30929,1,Conservatives Blast Puerto Rico $33B Debt Forgiveness - Breitbart
+31042,1,REGNERY: Why Are Liberals Anxious to Free Violent Criminals From Prison? - Breitbart
+31285,1,Paul Ryan Challenger Paul Nehlen: ’He Has Betrayed Us All’
+31398,1,140 Inner City Chicago Stores Charged with Food Stamp Fraud
+31404,7,Upheld: ID Theft Laws Used by Sheriff Arpaio to Prosecute Illegal Aliens
+31408,1,Virginia Radio Host Endorses Trump for President - Breitbart
+31602,2,UFC: Rousey’s comeback halted in first round by Nunes
+31661,1,If Democrats delay action on Trump nominees, America suffers
+31699,1,Dele Alli double ends Chelsea’s winning run
+31745,1,11 times electoral vote count was interrupted
+31833,1,Sessions suggests Trump admin could stamp out legal pot
+31841,1,What the last 48 hours told us about Trump’s next 4 years
+31930,8,Democrats already are trying to get out the vote for 2020
+32012,1,CNN 10 - January 19, 2017
+32138,1,How (and why) Trump’s first formal policy action actually happened
+32153,2,Edward Snowden Fast Facts
+32156,1,Trump to direct federal resources toward building a border wall on Wednesday
+32212,1,7 unanswered questions about Trump’s immigration plans
+32257,3,Trump’s immigration ban sends shockwaves
+32258,5,Inside the confusion of the Trump executive order and travel ban
+32259,1,Judges temporarily block part of Trump’s immigration order, WH stands by it
+32262,1,Thousands of academics sign letter opposing Trump’s travel ban
+32268,1,Student, doctor, son banned by Trump: Now what?
+32270,3,What immigrants need to know about Trump’s order
+32271,5,Green card holders from Trump-restricted countries may not be allowed into US
+32273,2,Families feel the impact of Trump visa ban
+32284,1,Trump travel ban: Here’s what you need to know
+32285,5,Trump’s travel ban: What we know
+32290,1,How the Trump administration chose the 7 countries in the immigration executive order
+32292,1,Listen to the voicemails of people impacted by the immigration ban
+32293,5,Resistance to Trump’s travel ban mounts
+32298,1,Trump’s travel ban: Live updates
+32307,5,Priebus: Green card holders will be allowed into US, case-by-case
+32312,1,Travel ban protests stretch from US to UK
+32328,1,Trump’s first days in office spawn dozens of lawsuits
+32337,1,WH policy director: From campaign hype-man to Oval Office influence
+32349,1,First on CNN: Bipartisan group of federal prosecutors backs Yates
+32354,2,Trump administration easing travel ban restrictions for green card holders
+32356,1,Democrats face their powerlessness
+32421,2,Federal judge declines to renew restraining order on Trump travel ban
+32429,2,Setback for Trump: Appeals court rejects demand to resume travel ban -- for now
+32449,2,Next steps in legal battle over the travel ban
+32453,1,Democratic base leading the way for would-be party leaders
+32533,1,Donald Trump’s alternate universe
+32547,1,Oil Spills Fast Facts
+32582,1,How Trump lost: Views from all sides
+32594,1,Fear spreads after US immigration arrests
+32647,1,White House examining several new travel ban plans
+32818,6,New Trump travel ban order nearing completion
+32822,4,5 things to watch for in a new travel ban
+32830,2,How Uber got the message
+32854,1,Huge stakes for Trump immigration do-over
+32995,2,Legal balancing act in replacing travel ban
+33017,3,Trump delays new travel ban after speech
+33037,1,Trump’s condemnation of hate crimes doesn’t go nearly far enough
+33103,7,What to know about the H-1B visa program
+33152,2,What Trump’s travel ban does, how it’s changed
+33154,1,Toobin: Will courts bless Trump’s do-over?
+33235,1,Washington state asks judge to block new Trump travel ban
+33269,2,Judge denies ’stand your ground’ defense in movie theater shooting
+33332,1,Judges address legal future of travel ban Wednesday
+33355,2,Trump’s policies and how they’ll change America -- in charts
+33505,1,World’s fastest police car can reach 253 mph
+33570,1,Inscrutable Gorsuch raises Democratic ire
+33727,1,How to train yourself to become a morning exerciser
+34171,1,Obama re-emerges in public after avoiding political spotlight
+34244,1,Trump considering proposals to break up the 9th Circuit
+34428,1,The race for a sub-two-hour marathon
+34596,1,Holtzman: We forget Watergate at our peril
+34722,3,10 relevant quotes from Robert Mueller’s FBI farewell
+35079,1,Ariana Grande Manchester benefit concert will feature Coldplay, Miley Cyrus
+35238,1,Jeff Sessions Fast Facts
+35335,1,Melania Trump moves in
+35420,1,5 things we learned at Jeff Sessions’ hearing
+35550,1,America’s Cup: Team New Zealand dominate USA
+35709,1,Catching Fire: Cities building wooden towers
+35869,1,US accuses Russia of harassing diplomats
+35996,1,Djokovic’s grand slam dream shattered
+36087,1,Why Comey stood alone: Inside the FBI’s announcement
+36261,1,Japanese Emperor Akihito considering abdication, broadcaster says
+36333,1,The Manx Missile strikes again
+36461,1,Intersex veteran sues over passport denial
+36548,9,CNN’s Reality Check Team vets the DNC claims
+36818,1,Schlitterbahn death was due to neck injury, police say
+36879,1, Kohei Uchimura retains Olympic crown
+36905,2,TUMS Ultimate Tailgate Sweepstakes Rules
+37051,1,US women make it 1-2-3 at Rio in 100m hurdles
+37155,1,Rio 2016: Top Olympic moments to savor
+37350,1,Key ISIS deputy and spokesman killed in Syria
+37356,3,Chris Brown arrested on suspicion of assault
+37377,1,US doubts Russia’s claim it killed ISIS spokesman
+37437,1,From a life sentence to clemency from Obama
+37553,1,House GOP leaders try to stall push to oust IRS chief
+37587,1,Paralympics day two: Jason Smyth emulates Bolt, controversy on the track
+37623,1,Manchester Derby: New City era comes alive
+37804,1,Mayer heroics earn Argentina final place
+37990,1,Miami Marlins remember star pitcher Jose Fernandez
+38001,11,Operation Fast and Furious Fast Facts
+38050,1,Trump’s America: No fat chicks
+38187,2,Paisley Park tours to get limited run
+38257,1,Can Donald Trump recover from this?
+38311,1,Trump, Clinton wage scorched-earth debate
+38315,1,Trump threatened to jail Clinton if elected. These countries might do the same.
+38317,3,Trump threatens to jail Clinton if he wins election
+38557,1,Trump tests strength of the Republican brand
+38601,1,Black voters didn’t fail Hillary Clinton
+38621,1,John Roberts gets another chance for a conservative legacy
+38715,2,What Donald Trump taught us about ourselves
+38722,1,Critical Dems hope Comey can help curb Trump
+38771,1,Jet-skiing jugs and other trophy tales
+38792,1,How Jeff Sessions could change the Justice Department
+38814,1,The Bush-era Muslim registry failed. Yet the US could be trying it again
+38815,1,Battle over race returns to Capitol with Sessions’ bid to become AG
+38838,1,America’s Cup: Ben Ainslie on course to create history
+38852,1,Kanye rants on politics, cuts 1 show, cancels another
+38854,1,Priebus on $25 million settlement: Trump wanted to take office ’without distraction’
+38890,1,Obama urged to dismantle NSEERS visa tracking program
+39011,1,Maradona’s Argentina trails in Davis Cup
+39053,1,Investigators: Ohio State attacker inspired by ISIS
+39178,2,Guantanamo Bay Naval Station Fast Facts
+39387,1,White males dominate Trump’s top cabinet posts
+39389,1,Pelosi casts doubt on GOP plans to repeal Obamacare
+39430,1,Some Corpus Christi water restrictions lifted
+39517,1,Five enduring mysteries about Trump’s victory
+39640,1,Australian Open loses comeback king del Potro
+39679,2,Opinion: Obama administration was hypocritical on UN’s Israeli settlements vote
+39709,1,Obamacare supporters look to intervene in GOP-led lawsuit
+39836,1,Bill Cosby defiant during second Canadian show
+39838,1,Two senators say Petraeus investigation ’mishandled’
+39848,1,The crucible of Ferguson
+39870,3,Obama, Kerry absent from unity rally in Paris
+39871,1,At least 3.7 million rally against terrorism in France
+39873,1,U.S. working premise:  AQAP ordered Kouachi to attack
+39874,1,Paris standoff gunman’s hideout reportedly found
+39878,1,Feinstein: Visa program is ’Achilles heel of America’
+39892,3,White House: ’Higher profile’ person should have gone to Paris
+39894,2,Jake Tapper: Where were U.S. leaders in Paris march?
+40167,1,Ex-CIA officer convicted in leak case
+40185,1,Why the alleged Russian spy ring matters
+40371,1,Usain Bolt to retire in 2017
+40448,2,Justice Dept. could sue Ferguson for discrimination
+40604,1,’Bloody Sunday’ commemoration march in Selma
+40645,1,Ferguson Police Chief Thomas Jackson resigns
+40666,2,Ferguson protest security: State, county police step in
+40738,1,Gen. Petraeus still advising White House
+40837,1,Bill Weir’s journey to Vanuatu
+40838,2,New Senate is just like the old Senate
+40839,17,Eric Holder: Attorney General For Life?
+40844,1,Unknown group threatens troops online
+41024,1,Former Mrs Beatle with need for speed targets 200km/h
+41039,2,Sen. Robert Menendez indicted on corruption charges
+41079,1,Ferguson’s ugly, racist emails released
+41221,4,Loretta Lynch supporters question delays in AG process
+41342,1,Obama on Loretta Lynch delay: Embarrassing
+41377,1,There aren’t more police shootings, just more coverage
+41431,1,Culture’s transgender ’moment’
+41623,1,The glorious mothers of elephants and whales (Opinion)
+41821,1,Cleveland, DOJ announce changes in police force
+42426,1,Activists prepare for gay marriage decision
+42534,3,A Southerner’s message: This is not who we are
+43232,3,Democrats just launched a campaign to fix one of their biggest problems during the Obama era
+43360,2,People are freaking out about American Airlines’ new ’basic economy’ tickets — but it may not be as bad as it seems
+43448,1,Trump defends immigration ban in fiery statement, says GOP senators opposing are ’looking to start World War III’
+43450,2,Trump just made an unprecedented, ’radical’ change to the National Security Council
+43451,4,’You don’t stop talking, Chuck’: Chuck Todd grills Trump chief of staff over immigration executive order
+43453,1,Mark Cuban goes after Trump in days-long tweetstorm for ’not vetted’ travel ban: ’I’m not sure he realizes how divisive he is’
+43455,1,Report: White House may ask foreign visitors for social media info, cell phone contacts
+43476,1,’President Bannon’s’ hugely destructive first week in office
+43482,2,’Is he confused, or are you confused?’: Sean Spicer grilled by reporters in heated exchange over Trump’s travel ban
+43520,1,How Tesla emerged from the brink of bankruptcy to become America’s coolest car company
+43570,1,’This is all on me’: Homeland Security chief takes blame for botched Trump travel ban
+43709,2,DHS head Kelly: Trump is preparing a new ’streamlined’ immigration ban
+43740,2,A draft of Trump’s revised immigration ban targets the same 7 countries
+43760,1,The fight for the future of the Democratic Party is about to reach a critical point
+43798,1,DNC narrowly elects Tom Perez as new chair
+43819,1,Democrats’ pick to respond to Trump’s speech was selected for one huge reason
+43868,2,Uber’s unraveling: The stunning, 2 week string of blows that has upended the world’s most valuable startup
+43896,1,Programmers in the Valley are pressuring their friends to quit working at Uber
+43901,3,Here are 5 things different about Trump’s new travel ban
+43921,2,Hawaii was the first state to challenge Trump’s new travel ban — here’s why it says the order is still unconstitutional
+43949,1,The Department of Justice just asked the ’sheriff of Wall Street’ to resign after Trump asked him to stay on
+44006,1,A judge in Hawaii just put a restraining order on Trump’s new travel ban
+44092,1,Here’s how Uber says it’s fixing the ’cult of the individual’ problem at the company
+44134,1,A visit to a Seoul escort-karaoke bar by a party of Uber execs in 2014 led to an HR complaint from a female employee
+44147,2,Mark Cuban is getting more serious than ever about politics — and in the age of Trump, the political world is starting to notice
+44387,1,The CEO of a $3.7 billion startup is allegedly firing employees right before their stock options vest, report says
+44450,1,Trump signed an executive order targeting skilled foreign workers — here’s why the H-1B program is so controversial
+44792,1,Sears CEO’s master plan to profit off the demise of his stores is taking a turn for the worst
+44828,1,Uber’s top lawyer is taking a new job in the company
+44917,1,A federal appeals court just upheld a nationwide block on Trump’s travel ban
+45061,1,Trump’s tweeting about the ’travel ban’ and London attacks reveal a president who is going increasingly rogue
+45075,1,Famed Harvard professor Alan Dershowitz: There are people in the White House ’trying everything to try and get him to stop tweeting’
+45096,1,’Training doesn’t stop harassment’: After a stunning string of blows, experts weigh in on how Uber can recover
+45118,1,MAY IN NEGOTIATIONS WITH IRISH UNIONISTS FOR MINORITY GOVERNMENT DEAL
+45145,1,Report: Uber’s long-time chief business officer to resign Monday amid investigation into company’s culture
+45166,2,Uber board member resigns after making a sexist comment at a meeting intended to address sexism at the company
+45184,1,The most important takeaway from Jeff Sessions’ testimony was what he refused to say — and legal experts say Congress should subpoena him for answers
+45205,2,Uber emailed former riders to tell them, ’We have fallen short’
+45221,2,Meet the all-star team of lawyers Robert Mueller has assembled for the Trump-Russia investigation
+45530,1,Wall Street is rolling its eyes at this comment from the Vice President of China, but it actually makes sense
+45697,1,Here’s the latest sign that investors are anxious about Saudi Arabia
+45842,1,’Disgrace’: Donald Trump rips national Republican Party after getting booed at debate
+46001,1,A former Wall Street analyst just set a new world hour record in cycling
+46477,1,LinkedIn thinks it can tell you how likely you are to get a job
+46951,1,A ’less technical’ type of bra is storming the lingerie industry — here’s how experts explain the trend
+47022,1,The world economy is running on monetary fumes
+47321,1,This company is offering a $35,000 deal on unlimited business-class flights
+47916,1,Big Pharma is jacking up the price of the ’antidote’ to the overdose crisis
+48290,1,EpiPen isn’t the only emergency medicine skyrocketing in price
+48914,2,How the Obama administration helped increase the cost of air travel
+48988,2,The internet is still actually controlled by 14 people who hold 7 secret keys
+49289,1,Trump is starting to sound like Obama on immigration
+49326,1,MEET THE NEW EXECUTIVE BRANCH: Here’s who Trump has appointed to senior leadership positions
+49376,1,’The president can’t have a conflict of interest’: Trump addresses renewed controversy surrounding business ties
+49394,1,The revenge of the ’Oxy electorate’ helped fuel Trump’s election upset
+49647,1,Ethics experts say Trump’s latest move to distance himself from his business empire is not enough: ’Nothing of consequence has changed’
+49660,1,IT HAPPENED AGAIN: Yahoo says 1 billion user accounts stolen in what could be biggest hack ever
+49794,1,The Fed has thrown in the towel
+49844,1,Obama’s Faith in White America Was Not Misplaced
+49941,1,All of Human Knowledge Buried in a Salt Mine

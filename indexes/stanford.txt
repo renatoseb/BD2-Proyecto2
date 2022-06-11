@@ -1,0 +1,371 @@
+26,1,Istanbul, Donald Trump, Benjamin Netanyahu: Your Morning Briefing - The New York Times
+65,1,My Canada - The New York Times
+140,1,Scientists Say the Clock of Aging May Be Reversible - The New York Times
+157,2,Data Could Be the Next Tech Hot Button for Regulators - The New York Times
+219,1,A Gut Makeover for the New Year - The New York Times
+329,1,In the Shopping Cart of a Food Stamp Household: Lots of Soda - The New York Times
+333,1,UConn Women Win Their 91st Straight and Rewrite History Again - The New York Times
+338,2,The ‘Impossible’ Veggie Burger: A Tech Industry Answer to the Big Mac - The New York Times
+349,2,A Camden Address With a Link to Martin Luther King Jr. - The New York Times
+390,1,Museum Trustee, a Trump Donor, Supports Groups That Deny Climate Change - The New York Times
+513,2,How Emotion Over Pet Care Helps Explain Human Health Spending - The New York Times
+563,2,When Campus Rapists Are Repeat Offenders - The New York Times
+628,2,New Prospects for Growing Human Replacement Organs in Animals - The New York Times
+669,2,Judge Blocks Trump Order on Refugees Amid Chaos and Outcry Worldwide - The New York Times
+671,1,Banned From U.S.: ‘You Need to Go Back to Your Country’ - The New York Times
+746,1,In Judge Neil Gorsuch, an Echo of Scalia in Philosophy and Style - The New York Times
+805,2,Case Study in Chaos: How Management Experts Grade a Trump White House - The New York Times
+813,1,What Snap’s I.P.O. Filing Reveals About the Company - The New York Times
+814,5,Snap’s Chief Taps Into the ‘Right Now’ - The New York Times
+847,2,China’s Intelligent Weaponry Gets Smarter - The New York Times
+894,1,Lady Gaga, Marine Le Pen, Romania: Your Monday Briefing - The New York Times
+917,1,Tech Opposition to Trump Propelled by Employees, Not Executives - The New York Times
+973,1,Supreme Court Nominee Calls Trump’s Attacks on Judiciary ‘Demoralizing’ - The New York Times
+979,2,Is News of Terror Attacks Underplayed? Experts Say No - The New York Times
+1053,1,How to Pick a Preschool in Less Than an Hour - The New York Times
+1098,1,With 100th Straight Win, Connecticut Women’s Team Redefines Dominance - The New York Times
+1115,1,Will Obamacare Really Go Under the Knife? - The New York Times
+1265,1,Who Are the Richest of the Rich? - The New York Times
+1266,3,Where the World’s Wealthiest Invest Their Billions - The New York Times
+1299,1,Kim Jong-nam, Donald Tsang, Mexico: Your Morning Briefing - The New York Times
+1303,1,California Today: The State’s Hate Landscape - The New York Times
+1326,1,California Today: On Catalina, the Drought Is Far From Over - The New York Times
+1333,1,The Future of Not Working - The New York Times
+1352,1,Doctors Consider a Last Best Hope for Obese Teenagers: Surgery - The New York Times
+1371,1,Trump Administration Cancels Back-Channel Talks With North Korea - The New York Times
+1426,1,Barring Reporters From Briefings: Does It Cross a Legal Line? - The New York Times
+1462,1,Snap Prices I.P.O. at $17 a Share, Valuing Company at $24 Billion - The New York Times
+1469,1,Baseball’s Too Slow. Here’s How You Fix It. - The New York Times
+1477,2,Sergey Kislyak, Russian Envoy, Cultivated Powerful Network in U.S. - The New York Times
+1571,1,Trump Inherits a Secret Cyberwar Against North Korean Missiles - The New York Times
+1578,1,Activists Rush to Save Government Science Data — If They Can Find It - The New York Times
+1608,1,Global Migration Meets Magic in Mohsin Hamid’s Timely Novel - The New York Times
+1626,1,Russia’s RT Network: Is It More BBC or K.G.B.? - The New York Times
+1792,1,It’s Possible to Hack a Phone With Sound Waves, Researchers Show - The New York Times
+1833,1,‘I Am an American Because of Him’: The Journey of Pence’s Grandfather From Ireland - The New York Times
+1841,1,Trump Offers No Apology for Claim on British Spying - The New York Times
+1862,1,An ‘Ideological Food Fight’ (His Words in 2002) Awaits Neil Gorsuch - The New York Times
+1887,1,Travel Ban Dampens Persian New Year Celebration - The New York Times
+1895,1,March Madness: What Happened on Day 4 of the N.C.A.A. Tournament - The New York Times
+1927,2,Gabby Williams Soars as UConn Rolls On in N.C.A.A. Tournament - The New York Times
+1953,1,A New Form of Stem-Cell Engineering Raises Ethical Questions - The New York Times
+1989,1,One Rationale for Voter ID Debunked, G.O.P. Has Another - The New York Times
+2000,1,Now on Twitter: Chelsea Clinton, Unbound - The New York Times
+2205,1,Seeking Best Fit, Women’s Final Four Returns to Friday-Sunday - The New York Times
+2274,1,South Carolina Defeats Mississippi State to Win Women’s Title - The New York Times
+2342,1,Alex Tizon, Journalist Who Wrote of Alienation as Asian-American, Dies at 57 - The New York Times
+2439,1,A Polarized Supreme Court, Growing More So - The New York Times
+2494,1,Syria, Ahmadinejad, United Airlines: Your Morning Briefing - The New York Times
+2501,4,Why Deep Breathing May Keep Us Calm - The New York Times
+2542,1,Obama Tax Return Hints at His Post-Presidency Plans - The New York Times
+2552,5,The Billionaire Who’s Building a Davos of His Own - The New York Times
+2595,3,Down to Lunch Founders Pursue Less-Traveled Path to App Success - The New York Times
+2612,1,Rich People Are Living Longer. That’s Tilting Social Security in Their Favor. - The New York Times
+2627,2,Theranos’s Fate Rests With a Founder Who Answers Only to Herself - The New York Times
+2678,3,Malia Obama Rebels, Sort of, by Choosing Harvard - The New York Times
+2682,1,Experts Warn of Backlash in Donald Trump’s China Trade Policies - The New York Times
+2830,1,Silicon Valley Finds Trump’s Disruption Unwelcome - The New York Times
+2852,1,That Judge Attacked by Donald Trump? He’s Faced a Lot Worse - The New York Times
+2894,1,Hillary Clinton, Donald Trump, Narendra Modi: Your Tuesday Evening Briefing - The New York Times
+2897,6,Light Sentence for Brock Turner in Stanford Rape Case Draws Outrage - The New York Times
+2909,2,Drummer Defends Stanford Student Convicted in Rape Case. Her Band Pays a Price. - The New York Times
+2912,8,Judge Aaron Persky Under Fire for Sentencing in Stanford Rape Case - The New York Times
+2935,1,In Silicon Valley Suburbs, Calls to Limit the Soaring Rents - The New York Times
+2965,1,Walgreens Cuts Ties to Blood-Testing Company Theranos - The New York Times
+2983,1,Can Netflix Survive in the New World It Created? - The New York Times
+3007,1,Renting Rooms to Travelers Can Be a Source of Income Later in Life - The New York Times
+3023,1,Former Vanderbilt Football Player Found Guilty in Campus Rape - The New York Times
+3062,1,Britain’s Dreams of a ‘Swiss Miracle’ Look More Like Fantasy - The New York Times
+3133,1,The Humiliating Practice of Sex-Testing Female Athletes - The New York Times
+3198,1,On Hillary Clinton’s Rough Day, Republicans Rue Missed Chance - The New York Times
+3213,2,How Gretchen Carlson Took On the Chief of Fox News - The New York Times
+3393,1,Chelsea Clinton May Be Willing to Lend a Hand if Her Mother Wins - The New York Times
+3397,1,Did Putin Try to Steal an American Election? - The New York Times
+3435,1,Setting the Body’s ‘Serial Killers’ Loose on Cancer - The New York Times
+3467,1,The Brain That Couldn’t Remember - The New York Times
+3485,3,Latest to Quit Google’s Self-Driving Car Unit: Top Roboticist - The New York Times
+3545,1,Off to College? Maybe These Devices Should Go Along - The New York Times
+3555,1,Rio Olympics: Simone Manuel Makes History in the Pool - The New York Times
+3567,1,Katie Ledecky ... and Everyone Else - The New York Times
+3568,2,A Closer Look at Simone Manuel, Olympic Medalist, History Maker - The New York Times
+3578,1,Once Skeptical of Executive Power, Obama Has Come to Embrace It - The New York Times
+3581,1,Katie Ledecky Smashes World Record in the 800-Meter Freestyle - The New York Times
+3607,1,Giant Coral Reef in Protected Area Shows New Signs of Life - The New York Times
+3664,1,Private Equity Pursues Profits in Keeping the Elderly at Home - The New York Times
+3767,1,Can the Old Masters Be Relevant Again? - The New York Times
+3787,2,Fact-Checking Apple’s Claims on E.U. Tax Ruling - The New York Times
+3794,1,Chinese Women Head Overseas to Freeze Their Eggs - The New York Times
+3904,1,California Today: No, Cal State Isn’t Creating Segregated Housing - The New York Times
+3929,1,North Korea Will Have the Skills to Make a Nuclear Warhead by 2020, Experts Say - The New York Times
+4119,1,Court Leader or Leading Dissenter? Chief Justice’s Fate Tied to Election - The New York Times
+4218,1,Yahoo Said to Have Aided U.S. Email Surveillance by Adapting Spam Filter - The New York Times
+4276,1,Oliver Hart and Bengt Holmstrom Win Nobel in Economics for Work on Contracts - The New York Times
+4318,1,Snap Is Said to Pick Bankers for an I.P.O. - The New York Times
+4326,1,Lessons in the Delicate Art of Confronting Offensive Speech - The New York Times
+4348,1,Issues in Hillary Clinton’s Past Leave Her Muted in Furor Over Donald Trump - The New York Times
+4547,1,Genetic Heart Disease Risk Eased by Healthy Habits, Study Finds - The New York Times
+4605,1,Where to Be Single in New York - The New York Times
+4649,1,Pope Francis, Trump, Japan: Your Tuesday Briefing - The New York Times
+4669,1,Global Warming Alters Arctic Food Chain, Scientists Say, With Unforeseeable Results - The New York Times
+4737,1,California Today: Fretting Over the ‘Netflix Tax’ - The New York Times
+4799,1,After Bitter Campaign, Election Positions Trump to Shape Rules on How You Vote - The New York Times
+4823,1,College Football’s Chosen 4: Alabama, Clemson, Ohio State and Washington - The New York Times
+4862,1,A Dilemma for Humanity: Stark Inequality or Total War - The New York Times
+4935,1,California Today: Questions Persist After the Oakland Fire - The New York Times
+4970,1,Fed Raises Key Interest Rate, Citing Strengthening Economy - The New York Times
+5055,1,Kering’s Latest Luxury: A Generous Parental Leave Policy - The New York Times
+5079,1,Why Is It Hard to Make Friends Over 30? - The New York Times
+5095,1,When Bathroom Runs Rule the Day (and Night) - The New York Times
+5184,2,Judith Clark’s Radical Transformation - The New York Times
+5218,1,$20 Billion in Tax Credits Fails to Increase College Attendance - The New York Times
+5234,1,How Hillary Clinton Became a Hawk - The New York Times
+5243,1,With Deflategate Ruling, Roger Goodell Is Firmly in Control - The New York Times
+5255,1,Malia Obama to Attend Harvard, but Not Until 2017 - The New York Times
+5390,3,‘Let This Woman’s Brave Statement Peel the Blinders Off’ - The New York Times
+5403,9,Court Papers Give Insight Into Stanford Sex Assault - The New York Times
+5457,1,Nicholas Clinch, Who Took On Unclimbed Mountains, Dies at 85 - The New York Times
+5483,2,A Sea of Charter Schools in Detroit Leaves Students Adrift - The New York Times
+5575,5,When Yahoo Ruled the Valley: Stories of the Original ‘Surfers’ - The New York Times
+5685,1,Katie Ledecky Smashes Her Own World Record in 400 Freestyle - The New York Times
+5702,1,We’re So Confused: The Problems With Food and Exercise Studies - The New York Times
+5755,1,How to Link Rio Games’ Top Stories: Just Add Water - The New York Times
+5786,2,Syria’s Paradox: Why the War Only Ever Seems to Get Worse - The New York Times
+5828,4,Which Power Conference Won’t Vie for National Title? Sorry, Pac-12 - The New York Times
+5848,1,California Today: Your Voices - The New York Times
+5892,1,Black Health Experts Renew Fight Against Menthol Cigarettes - The New York Times
+5902,1,California Today: San Diego Struggles to Keep Its Young Tech Talent - The New York Times
+5922,2,A Sour Surprise for Public Pensions: Two Sets of Books - The New York Times
+5935,12,Want to Find Fulfillment at Last? Think Like a Designer - The New York Times
+5947,1,Mark Zuckerberg and Priscilla Chan Pledge $3 Billion to Fighting Disease - The New York Times
+5951,1,Charlotte, Yahoo, U.S. Presidential Race: Your Thursday Evening Briefing - The New York Times
+5973,1,Why Do Obese Patients Get Worse Care? Many Doctors Don’t See Past the Fat - The New York Times
+5999,1,Supreme Court Faces Volatile, Even if Not Blockbuster, Docket - The New York Times
+6002,1,For Orchestras in the U.S., So Much Depends on Their Communities’ Fortunes - The New York Times
+6060,1,A Divisive President at City College, and a Long List of Personal Expenses - The New York Times
+6098,1,Haiti and Africa Projects Shed Light on Clinton’s Public-Private Web - The New York Times
+6127,7,No Kegs, No Liquor: College Crackdown Targets Drinking and Sexual Assault - The New York Times
+6160,1,Vote Highlighted a Gender Gap, With Both Sides Feeling They’ve Lost Ground - The New York Times
+6162,2,California Today: With Trump’s Rise, a Return to the ‘Rebel State’ - The New York Times
+6205,1,How to Deal With Digital Distractions - The New York Times
+6217,1,California Today: Meet the New Mayor, Age 26 - The New York Times
+6334,2,$25 Million in Breakthrough Prizes Given in Science and Math - The New York Times
+6373,1,Worried About the Privacy of Your Messages? Download Signal - The New York Times
+6395,1,Rick Perry, Ex-Governor of Texas, Is Trump’s Pick as Energy Secretary - The New York Times
+6407,2,The Great A.I. Awakening - The New York Times
+6498,2,Russia, Syria, Debbie Reynolds: Your Thursday Evening Briefing - The New York Times
+6506,1,California Today: The Stories That Moved Us in 2016 - The New York Times
+6507,1,Cuomo Commutes Sentence of Judith Clark, Driver in Deadly Brink’s Robbery - The New York Times
+6597,1,Donald Trump’s Statement on Trump University - The New York Times
+6601,2,In Stanford Rape Case, Brock Turner Blamed Drinking and Promiscuity - The New York Times
+6624,1,Officer’s Murder Trial in Freddie Gray Death Turns on ‘Rough Ride’ - The New York Times
+6683,1,Elizabeth Holmes of Theranos Is Barred From Running Lab for 2 Years - The New York Times
+6803,1,Reflections From Rio - The New York Times
+6896,1,Obama, in Farewell to U.N., Paints Stark Choices for Unsettled World - The New York Times
+6976,1,Trump Recording Narrows Divide on Sexual Assault - The New York Times
+7042,1,Where Donald Trump Stands on School Choice, Student Debt and Common Core - The New York Times
+7082,1,Yale Sets Policy That Could Allow Renaming of Calhoun College - The New York Times
+7096,1,A Bigger Economic Pie, but a Smaller Slice for Half of the U.S. - The New York Times
+7168,1,Carrie Fisher, Russia, Shinzo Abe: Your Wednesday Briefing - The New York Times
+7177,44,A Majority Agreed She Was Raped by a Stanford Football Player. That Wasn’t Enough. - The New York Times
+7182,1,In Cramped and Costly Bay Area, Cries to Build, Baby, Build - The New York Times
+7256,1,When You Dial 911 and Wall Street Answers - The New York Times
+7300,1,Instagram Takes a Page From Snapchat, and Takes Aim at It, Too - The New York Times
+7353,1,California Today: Vaccinate Schoolchildren or Keep Them Home - The New York Times
+7445,1,Snapchat’s Parent Files for a Stock Offering - The New York Times
+7477,2,For Blacks Facing Parole in New York State, Signs of a Broken System - The New York Times
+7520,1,Rick Perry, as Energy Secretary, May Be Pressed to Resume Nuclear Tests - The New York Times
+7551,1,Your Monday Evening Briefing: Hillary Clinton, Cleveland Cavaliers, Kanye West - The New York Times
+7595,3,For Simone Manuel, Gold Ripples Beyond the Pool - The New York Times
+7646,1,Janet Yellen Says Labor and Inflation Complicate Fed’s Plans to Raise Rates - The New York Times
+7716,1,Artificial Intelligence Swarms Silicon Valley on Wings and Wheels - The New York Times
+7901,1,Mother Beats Cancer During Pregnancy with Twins Only to Die from Heart Failure a Day After Giving Birth
+8364,2,Civil Rights Commission Launches Investigation into Trump Admin. - Breitbart
+8410,1,5 Susan Rice Scandal Facts Every American Must Know - Breitbart
+8412,1,Watch: Gorsuch Responds to Charge From Student Accusing Him of Discrimination Against Pregnant Female Lawyers - Breitbart
+9369,1,Parent Activists Outraged as West Virginia Republicans Amend Their Own Bill to Replace Common Core - Breitbart
+9762,1,Syracuse Lists Pink Signs Aimed at Women as Example of ’Abhorrent’ Bias Incidents - Breitbart
+9792,1,Extensive Study Contradicts Hillary Clinton Claim ‘Fake News’ Prompted Election Loss
+10250,2,Snapchat Files $3 Billion IPO, But May Never Be Profitable
+10290,1,Thought-Control Technology Enables Quadriplegic to Move Arm - Breitbart
+10456,1,Facebook to Appeal Court Ruling Imposing Austria’s ’Hate Speech’ Ban Globally - Breitbart
+10533,1,Tech Execs Indicted for H-1B Visa Fraud
+10984,5,Stanford Accepts Muslim Teenager Who Wrote ’BlackLivesMatter’ 100 Times On Application - Breitbart
+11974,1,Pinkerton: The U.S.-China Competition: Cyberspace and Outer Space
+12171,1,Texas Coaches Oppose Homeschooler ’Tebow’ Bill
+12355,1,Facebook ‘Fact-checker’ Poynter: Worth Considering ‘Fake News’ Didn’t Significantly Impact 2016 Election
+12459,1,Rahm Emanuel Tells Dems to ’Take a Chill Pill’: ’It Ain’t Gonna Happen in 2018’ - Breitbart
+13484,1,Soros Board Member: Create Government Version of Facebook to Combat Breitbart
+13729,1,Tiger Woods Turns to TaylorMade in Return to Tour at Farmers Insurance Open - Breitbart
+13839,1,Ginsburg Calls for Change to the Electoral College - Breitbart
+14131,1,Jerry Brown Wants 42% Gas Tax Hike to Bail Out CalPERS
+14899,1,Senator Chuck Grassley: Free Speech Is Under Assault on College Campuses - Breitbart
+15176,1,Newspaper Editor Calls for ’Murder in the White House’
+15634,1,Top 10 Leading Heisman Trophy Candidates - Breitbart
+15652,1,Hillary Hits Trump, Cruz for Brussels Response: ’Loose Cannons Tend to Misfire’ - Breitbart
+15667,3,**Horse Race LiveWire** Utah, Arizona Vote in Wake of Brussels Terror - Breitbart
+16234,2,Live Updates - Terror in Orlando: Approximately 50+ dead, 50+ More Wounded at Gay Nightclub - Breitbart
+16574,2,John Boehner Explains Why Donald Trump Could Beat Hillary Clinton - Breitbart
+17050,1,***Horse Race LiveWire*** One Day to Super Saturday - Breitbart
+17942,1,Six Boring Bowl Blowouts on New Year’s Day Beg for Pac-12 vs. SEC Match-ups - Breitbart
+18160,17,Banishment of Western Civilization at Stanford Shows Pervasive Cultural Rot - Breitbart
+18416,1,USA Today: Trump’s Involvement in 3,500 Legal Actions in 30 Years, ’Unprecedented’ - Breitbart
+18666,1,Common Core A Part of Leftist Centralized Education Plan, Says Heritage Foundation Report - Breitbart
+19087,3,California Groundwater ’Three Times Greater’ than Estimated
+19719,1,Former Vikings, Cardinals Coach Dennis Green Dies at 67 - Breitbart
+19836,1,***Super Tuesday LiveWire*** All Eyes on California Trump Promises to Be ’America’s Champion’ - Breitbart
+20051,4,John Boehner: Ted Cruz Is A ‘Miserable Son Of A Bitch’ - Breitbart
+20294,1,Stanford Rape Judge Cleared: No ’Convincing Evidence of Bias’
+21233,1,L.A. Mayor Wants Colleges to Stop Asking About Criminal Records
+21518,2,Condoleezza Rice ’Not Interested in Being Vice President’
+21520,1,Peter Thiel Doubling Down with Big Trump Speech - Breitbart
+21554,1,Gold Medalist Katie Ledecky: ‘My Catholic Faith Is Very Important to Me’
+21584,1,Rape Victim’s Opinion On Stanford Rape Case Not PC Enough for Buzzfeed - Breitbart
+22149,3,Stanford Students Demand Non-White University President, Microagression Policing - Breitbart
+22372,1,Mike Pence Meets with Former Secretary of State Condoleezza Rice
+23278,1,Exclusive — Kimberly Guilfoyle Blows Up Gretchen Carlson’s Allegations Against Roger Ailes: ‘The Truth Should Matter’ - Breitbart
+23382,4,**Horse Race LiveWire** Trump, Cruz Wives in the Crosshairs - Breitbart
+23688,2,NFL to Use Virtual Reality Diversity Training Where Staff Are Harassed by a White Man - Breitbart
+24750,1,RIP: Andy Grove Invented Silicon Valley - Breitbart
+24759,1,Silicon Valley Urges Giving Election Day Off to Help Democrats
+24989,1,Condi Rice Has ’No Recollection’ of Powell Telling Clinton to Use Private Email
+25079,2,European Unis Slide Down Global Rankings Guardian Blames Brexit
+25120,3,Study: Most Students Can’t Tell Difference Between Paid Content and Real News - Breitbart
+25432,1,BBC Downplayed Stalin’s Legacy, Falsely Claimed Victims Numbered ’Thousands’
+25835,1,Zuckerbergs’ $3 Billion Investment to Cure All Diseases
+26426,2,Stanford Report: California Public Pension Debt Up 19% to $964.4 Billion - Breitbart
+26573,2,CA Universities Named Among ’Worst Colleges for Jewish Students’
+27750,4,Jurors Refuse to Serve Under Stanford Rape Judge Aaron Persky
+27842,1,Bloomberg: Milo Is the ‘Pretty, Monstrous Face of the Alt-Right’ - Breitbart
+27901,1,Obama Wants $4 Billion to Subsidize Silicon Valley Driverless Cars - Breitbart
+27913,2,Top 10 Heisman Trophy Candidates - Breitbart
+28318,1,Obama Commutes 61 More Drug Offenders Sentences — More Than Previous Six Presidents Combined - Breitbart
+28720,1,Topless Protesters Arrested at Bernie Sanders Rally - Breitbart
+28845,3,Watch: Stanford University Microbots Able to Tow Nearly 2-Ton Car - Breitbart
+29618,1,LISTEN: Bret Easton Ellis Unloads on Snowflake Social Justice Warriors - Breitbart
+29800,1,Milo To Deliver Major Speech at University of Houston: ’How To Destroy The Alt-Right’ - Breitbart
+30037,1,***College Football Playoff Live Updates*** Clemson, Alabama Advance to National Title Game - Breitbart
+30343,1,Ken Burns Rips Evangelical Trump Voters: ’How Is This in Any Way Christian?’ - Breitbart
+30440,1,***Dem. Convention LiveWire*** Party Disunity Highlighted on Day One - Breitbart
+30529,1,Revealed: First Pictures Of Milo’s Outrageous New ’Dangerous Faggot’ Tour Bus - Breitbart
+31186,1,Super Bowl 50: Broncos Win 24-10 Behind Dominant Defense Von Miller Wins MVP - Breitbart
+31317,1,Cory Booker Fires Up Millennials for Hillary in L.A. Starbucks
+31802,1,The search for what triggers type 1 diabetes
+32061,1,Trump’s inauguration: How’d he do?
+32074,1,James Mattis Fast Facts
+32103,3,Google Fast Facts
+32209,5,AI system detects skin cancer with expert accuracy
+32262,2,Thousands of academics sign letter opposing Trump’s travel ban
+32550,2,John McEnroe Fast Facts
+32726,1,Oroville is the best warning that infrastructure matters
+33137,1,North Korea Nuclear Timeline Fast Facts
+33141,1,CNN 10 - March 6, 2017
+33194,1,Soy nut butter recall expands after more cases of E. coli
+33382,1,Assault charge filed after tweet sent to journalist with epilepsy
+33437,1,Conjoined Twins Fast Facts
+33735,1,New Jersey teen gets accepted by all 8 Ivy League schools
+33759,2,North Dakota teen gets accepted by all 8 Ivy League schools
+34305,1,Meet the kids suing Donald Trump
+34610,1,Death Penalty Fast Facts
+35811,1,Why the U.S. is freaked out about Brexit
+35891,1,Trump: Special interests pushing trade deal want to ’rape our country’
+36109,1,Gretchen Carlson’s gutsy move
+36354,1,Stenson triumphs after classic Troon duel
+36513,1,Two college football punters die in car crash
+36969,2,Sergey Brin Fast Facts
+37178,1,Tyra Banks is going to teach at Stanford
+37199,3,Brock Turner judge backs out of child porn case
+37346,1,Judge declines review in David Becker sex assault case
+37406,1,Trump doctor to CNN: No regrets about letter
+37423,4,Mad about Brock Turner’s sentence? It’s not uncommon
+37435,2,Brock Turner released after 3 months in jail
+37506,1,Romano Prodi Fast Facts
+37714,3,UNC football player turns self in on sexual battery charge
+37740,1,More victims in California police sex scandal?
+37925,1,The secret costs of Islamophobia
+38099,1,Governor signs bill stemming from Brock Turner case
+38115,1,Will electoral college pick a different president?
+38186,1,Who won the debate?
+38207,1,Veep debate in 140 characters (and more)
+38318,1,Town hall debate in 140 characters (and more)
+38323,1,GOP on the precipice
+38347,5,How ’boys are better at math’ mindset causes STEM gender gap
+38362,1,What would happen if you experienced Trump’s brag?
+38394,1,Tweets show why women don’t report sex assault
+38766,1,Why Morocco is a leader of the ’green’ world
+38803,1,Sorority-girl vigilantes break ’good girl/bad guy’ taboos
+38862,1,Ben Bernanke Fast Facts
+39095,1,Trump’s transition rollercoaster ride
+39441,1,2016 In Review Fast Facts
+39465,1,What Trump gets wrong on climate change
+39486,1,Tiger Woods Fast Facts
+39827,1,How the Kouachi brothers chose terrorism (Opinion)
+39837,1,Phylicia Rashad wrong to defend Cosby (Opinion)
+40449,1,9 things no one tells you about losing weight
+40585,3,Sam Simon, ’Simpsons’ producer and philanthropist, dies
+41348,1,Doctors want Mehmet Oz to resign position at Columbia
+41371,1,College admissions: Where you go doesn’t seal your fate
+41767,1,GOP 2016ers grapple with ground troops in Iraq
+41976,2,CNN uncovers high surgical death rate at hospital
+42012,1,Rick Perry’s wife explains 2012 flameout
+42094,1,A look inside the ’broken’ mind of James Holmes
+42328,1,Chasing the elusive Silicon Valley dream (Opinion)
+42756,1,Immigration: The debate Republicans don’t want
+42833,1,On climate change, Obama needs older adults (Opinion)
+43290,2,For $8,000, this startup will fill your veins with the blood of young people — but it has no idea if it’ll have any benefits
+43504,1,Snapchat paid its third cofounder $158 million in cash to disappear
+43578,1,Trump may have undermined the legal case for his immigration ban in 2 major ways
+43581,1,Here are the stocks investors on hot trading app Robinhood love the most
+43731,1,Here’s who is going to get rich from the Snap IPO
+43734,1,An ex-Uber engineer’s blog post about sexual harassment prompted Uber’s CEO to launch an ’urgent investigation’
+43976,1,There’s a raging talent war for AI experts and its costing automakers millions
+44093,1,The CEO of a major solar company said he’s ’skeptical’ Tesla can pull off the solar roof — here’s why
+44207,1,There’s a medical problem that marijuana might be able to help — but no one is talking about it
+44250,1,Las Vegas made the worst stadium deal in the world
+44266,1,Morgan Stanley made an error analyzing Snapchat, and it shines a light on some big flaws in Wall Street research
+44529,1,Thank-you notes aren’t enough anymore — here’s the follow-up email that will show hiring managers you’re a rockstar
+44551,10,The return of Joe Lonsdale: How the cofounder of multibillion-dollar company Palantir was vilified in Silicon Valley, then bounced back
+44685,1,A former banker taught herself how to code and is now a top exec at a $700 million startup
+44874,2,A guy who sold his startup for $1.26 billion tells grads to ’get good at failure’
+45280,1,Carly Fiorina is being slammed for an 11-word tweet
+45411,1,One of PIMCO’s rising stars has left the firm to launch a tech startup
+45640,1,’Shark Tank’ star Robert Herjavec: Entrepreneurs can’t have work-life balance if they want to be successful
+45822,1,How a billionaire who wrote Google’s original code created a robot revolution
+45859,2,An incredible 45 day storm turned California into a 300-mile-long sea — and it could happen again
+45894,1,Here’s why PayPal cofounder Peter Thiel is glad he was rejected from clerking for Justice Scalia
+45960,1,This Stanford physicist quit academia to help companies like Pepsi sell more soda
+46014,1,The counterintuitive reason why doing nothing can make you more successful
+46292,1,’It will be like Christmas in the Kremlin’: Hillary Clinton blasts Donald Trump over NATO comments
+46920,1,A high-school student shared the powerful essay about growing up in one of America’s ’snobbiest’ cities that got her into Stanford
+47213,1,Childhood friend of the ex-Stanford swimmer who sexually assaulted an unconscious woman blames political correctness
+47237,4,Here’s the letter that the ex-Stanford swimmer wrote to the court before his sentencing
+47329,1,39 separate letters pleaded for a lenient sentence in the ex-Stanford swimmer’s sexual assault trial — here’s what they said
+47382,2,Released court transcript reveals judge’s logic on sentencing the ex-Stanford swimmer convicted of sexual assault
+47519,1,The judge who sentenced the ex-Stanford swimmer to 6 months in jail is expected to give a Latino man 3 years in prison for a similar crime
+47671,1,We talked to legal experts who explained why the FBI didn’t urge charges against Clinton — and why some think that was a mistake
+47851,1,Malcolm Gladwell tells us about his beef with billionaires, police violence, and how his new hit podcast lets him explores issues in ways his books can’t
+48070,2,Judge who spared a college student prison time for sexually assaulting a ’helpless’ woman said he ’struggled’ with the decision
+48083,1,You don’t need to have a computer science degree from Stanford to be working on one of Google’s hottest teams
+48246,1,Netflix releases trailer for documentary about Audrie Pott and Daisy Coleman alleged sexual assaults
+48344,2,LinkedIn founder Reid Hoffman is backing a campaign to recall the judge in Brock Turner’s case
+48451,1,The vast majority of Tinder users aren’t using the app the way you might expect
+48493,1,’Jokers’ and ’sellouts’: The cockiest guy in self-driving cars just roasted his competition
+48602,6,Two famous Google alums are advising a secret startup building the ’eyes of the smart home’
+48650,1,Over and over again, the military has conducted dangerous biowarfare experiments on Americans
+48689,1,The 2016 ranking of the 10 most innovative universities in the world
+48943,1,Facebook’s project to take on Cisco inspires such ’cultlike’ devotion, it once caused a whole team to quit Apple
+49056,1,Richard Sherman wore a full Harry Potter costume to a press conference because his son asked him to
+49242,1,North Korea experts on Trump: ’It’s clear he knows next to nothing’
+49410,2,14 things that are harder to get into than Harvard
+49455,1,Trump’s claim that ’millions’ of illegal voters won Clinton the popular vote is ’not at all’ plausible, says key expert
+49496,1,Trump picks legendary Marine Gen. Jim Mattis for defense secretary
+49560,1,Democrats have no good outcomes if they try to oppose Mattis for Defense Secretary
+49588,1,Peter Thiel is trying to save the world: The apocalyptic theory behind his actions
+49702,1,Here’s the biggest thing Google got wrong about self-driving cars
+49852,1,December’s Best Reads: Painkillers, a Pentagon Scandal, and Google’s New Financial Philosophy
+49889,1,The Growing Urban-Rural Divide Around the World
+49892,1,How Design Thinking Became a Buzzword at School
+49925,2,The Value of Fighting Attacks on Free Speech Early and Often
+49926,1,Women Know When Negotiating Isn’t Worth It
+49931,1,Did Putin Direct Russian Hacking? And Other Big Questions
+49959,1,Sons of the Iranian Revolution
+49984,3,The Enduring Mystery of Pain Measurement

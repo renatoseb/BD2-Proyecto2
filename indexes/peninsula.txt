@@ -1,0 +1,416 @@
+68,1,Getting Around by Rail, Sail or Foot - The New York Times
+173,1,North Korea, Rebuking Trump, Says It Can Test Long-Range Missile ‘Anytime’ - The New York Times
+185,1,Seeing America Through Ángel Franco’s Eyes - The New York Times
+191,1,Betsy DeVos, Trump’s Education Pick, Plays Hardball With Her Wealth - The New York Times
+259,1,Arms Seized Off Coast of Yemen Appear to Have Been Made in Iran - The New York Times
+270,1,Neanderthals Were People, Too - The New York Times
+375,1,5 Killed at BPM Festival in Mexico - The New York Times
+558,1,Storm That Roared Through the South Sweeps Into the Northeast - The New York Times
+734,1,Trump Tells South Korea That Alliance With U.S. Is ‘Ironclad’ - The New York Times
+735,1,U.S. Commando Killed in Yemen in Trump’s First Counterterrorism Operation - The New York Times
+763,1,5 Ways to Take a Self-Care Vacation - The New York Times
+1062,1,North Korea Fires Ballistic Missile, Challenging Trump - The New York Times
+1124,1,Trump’s Shift to ‘Outside-In’ Strategy for Mideast Peace Is a Long Shot - The New York Times
+1279,1,Is China Pushing Trump to Talk to North Korea? - The New York Times
+1282,4,Ukraine Lawmaker Who Worked With Trump Associates Faces Treason Inquiry - The New York Times
+1377,1,U.S. Wary of Its New Neighbor in Djibouti: A Chinese Naval Base - The New York Times
+1571,1,Trump Inherits a Secret Cyberwar Against North Korean Missiles - The New York Times
+1581,1,U.S. Air Campaign in Yemen Killed Guantánamo Ex-Prisoner - The New York Times
+1644,1,Danish Father and Son Team Up on Homework and Turn In a German Warplane - The New York Times
+1666,1,U.S. Is Sending 400 More Troops to Syria - The New York Times
+1703,1,A Lake Turned Pink in Australia. It’s Not the Only One. - The New York Times
+2076,1,Alone in the Wild for a Year, TV Contestants Learn Their Show Was Canceled - The New York Times
+2124,1,A Florida of Sun, Sky, Sea and Mind - The New York Times
+2303,2,North Korea Fires Ballistic Missile a Day Before U.S.-China Summit - The New York Times
+2390,2,U.S. Strikes on Syria Put Xi in Tough Position for Trump Meeting - The New York Times
+2451,1,Syria, Egypt, Korean Peninsula: Your Morning Briefing - The New York Times
+2474,2,Trump Says China Will Get Better Trade Deal if It Solves ‘North Korean Problem’ - The New York Times
+2487,1,In Ancient Guano, a Record of Penguin Disaster - The New York Times
+2494,1,Syria, Ahmadinejad, United Airlines: Your Morning Briefing - The New York Times
+2552,1,The Billionaire Who’s Building a Davos of His Own - The New York Times
+2833,1,Travel: Philip Marsden’s ‘Rising Ground’ and More - The New York Times
+2901,4,Chasing Hiroshige’s Vision of Japan - The New York Times
+2935,1,In Silicon Valley Suburbs, Calls to Limit the Soaring Rents - The New York Times
+3174,1,A Remote Pacific Nation, Threatened by Rising Seas - The New York Times
+3201,1,Should the United States Save Tangier Island From Oblivion? - The New York Times
+3285,1,The Mysterious Metamorphosis of Chuck Close - The New York Times
+3366,1,Donald Trump Sets Conditions for Defending NATO Allies Against Attack - The New York Times
+3616,1,Evictions by Armed Men Rattle a Mexican Tourist Paradise - The New York Times
+3731,1,Saudis and Extremism: ‘Both the Arsonists and the Firefighters’ - The New York Times
+3756,1,Laurie the Moose Lady Puts ‘Heart and Soul’ Into Roadkill - The New York Times
+3940,3,North Korea, Far From Crazy, Is All Too Rational - The New York Times
+3962,1,Details of Syria Pact Widen Rift Between John Kerry and Pentagon - The New York Times
+4131,1,To the Moon, North Korea? Or Does a Rocket Have a Darker Aim? - The New York Times
+4178,1,2 Men Who Found Bomb in Chelsea Are Identified as Airline Security Guards - The New York Times
+4232,1,Hurricane Matthew Approaches Florida Governor Urges 1.5 Million to Flee - The New York Times
+4234,2,Hurricane Matthew Makes Old Problems Worse for Haitians - The New York Times
+4249,1,After Hurricane Matthew, Devastation in Southern Haiti - The New York Times
+4290,1,In Haiti, a City’s Race Into the 21st Century Is Ruined by a Hurricane - The New York Times
+4314,1,A New Weapon in Russia’s Arsenal, and It’s Inflatable - The New York Times
+4338,1,Clinton, Trump, Cuba: Your Friday Evening Briefing - The New York Times
+4342,2,Cholera Deepens Haiti’s Misery After Hurricane - The New York Times
+4378,1,Dalian Wanda of China Offers a Carrot to Hollywood - The New York Times
+4483,1,In Remote Settlement High on Tibetan Plateau, Buddhist Spirituality Soars - The New York Times
+4579,2,Yemeni Bankers Get in Trouble Over a Customer, Al Qaeda - The New York Times
+4656,1,Italy’s Last Bastion of Catalan Language Struggles to Keep It Alive - The New York Times
+4766,2,In Macau, Skipping the Casinos, but Embracing the Past - The New York Times
+5104,1,In American Towns, Private Profits From Public Works - The New York Times
+5134,1,Russia Mounts Search After Plane Crash and Says Terrorism Is Unlikely - The New York Times
+5308,2,EgyptAir Flight Believed to Have Crashed at Sea Egypt Cites Possible Terrorism - The New York Times
+5483,1,A Sea of Charter Schools in Detroit Leaves Students Adrift - The New York Times
+5513,1,A Beach Club in Queens Where Every Summer Is the Same - The New York Times
+5648,1,A Gloomy Egypt Sees Its International Influence Wither Away - The New York Times
+5776,2,In Florida Keys, Some Worry About ‘Science and Government’ More Than Zika - The New York Times
+5879,1,Few Expect China to Punish North Korea for Latest Nuclear Test - The New York Times
+5898,1,What It Feels Like to Ride in a Self-Driving Uber - The New York Times
+6023,1,As Hurricane Matthew Nears U.S., Residents Get Warning: Prepare - The New York Times
+6031,1,Donald Trump’s Ventures Began With a Lot of Hype. Here’s How They Turned Out. - The New York Times
+6093,1,Rise of Saudi Prince Shatters Decades of Royal Tradition - The New York Times
+6566,1,Your Evening Briefing: EgyptAir, Hillary Clinton, Donald Trump - The New York Times
+7051,5,A Carefree Getaway Just Off the Persian Gulf - The New York Times
+7143,3,Why Trump Had an Edge in the Electoral College - The New York Times
+7308,1,A ‘Water Bomb’ of a Storm Kills 21 in Macedonia’s Capital, Skopje - The New York Times
+7334,1,North Korean Missile Test Brings Temporary Unity in East Asia - The New York Times
+7357,1,Decoding North Korea’s Claim of a Successful Nuclear Test - The New York Times
+7435,1,Donald Trump Is Elected President in Stunning Repudiation of the Establishment - The New York Times
+7500,1,Egypt Says Traces of Explosives Were Found on Bodies From Paris Flight - The New York Times
+7537,1,Kim Jong-un Seeks to Cement Power at First North Korean Congress in 36 Years - The New York Times
+7575,1,A Saudi Morals Enforcer Called for a More Liberal Islam. Then the Death Threats Began. - The New York Times
+7615,1,On Being a Black Female Math Whiz During the Space Race - The New York Times
+7625,1,How Police Found Second Bomb, and a ‘Total Containment Vessel’ Hauled It Away - The New York Times
+7663,1,Battle Lines Over Trump’s Lands Policy Stretch Across 640 Million Acres - The New York Times
+7741,1,The Surprising Science of Cease-Fires: Even Failures Can Help Peace - The New York Times
+7745,3,Women Petition U.N. Leader to Seek Korean Peace Treaty - The New York Times
+7772,1,Only a Rumbling Volcano Could Make North Korea and the West Play Nice - The New York Times
+7846,1,Maxine Waters: Trump Is Trying to Start War - ’He Doesn’t Deserve To Be President’ - Breitbart
+8327,1,U.S. General: No Incompetence, Bad Judgment Found in Yemen Raid
+8343,3,VP Mike Pence from Korean Demilitarized Zone: ‘Era of Strategic Patience Is Over’
+8437,2,John Bolton: If North Korea Gets Nuclear Missiles, ‘Iran Could Have That Capability the Next Day’
+8471,1,EXCLUSIVE – Rand Paul: Saudi Arabia’s Role in Backing Terrorism Raises Concerns with $100 Billion Arms Deal - Breitbart
+8808,1,Spain Urges EU To Take Their Side Over Gibraltar Dispute Post Brexit
+8888,1,Trump Warns of Potential ’Major, Major Conflict with North Korea’
+8996,1,Pence Affirms U.S. Treaty Commitment to Defend Japan’s Senkaku Islands from China
+9724,1,VP Pence Greets U.S. and South Korea Troops for Easter Sunday
+9835,1,China Announces It Will Block Imports of North Korea’s Coal
+10135,1,Trump Ordered Syria Attack, then Ate Dinner with Chinese President - Breitbart
+10136,1,Report: Trump Admin Preparing to Strike North Korea if Nuclear Test Occurs - Breitbart
+10565,1,Islamic State ’Morality Police’ Behead Two Elderly ’Sorcerers’ in Egypt
+10712,1,Report: Senior Hamas Jihadists Defecting to Islamic State
+10749,1,DNI: Homegrown Jihadists Remain ‘Most Frequent and Unpredictable’ Terror Threat to U.S.
+10925,1,Israel Shutters Egypt Border Crossing Following Terror Warning
+11161,1,100 Days of Trump in Asia: Winning over Duterte, Golf with Abe, and a ’Not as Good’ Deal with China - Breitbart
+11505,2,America’s Likely Response to North Korean Test: Missile Defense Systems
+11562,1,Pre-Passover Attack: Rocket from Egypt’s Sinai Strikes Israeli Greenhouse
+12392,1,Yemen Demands UN Designate Iran-Backed Houthis a Terrorist Organization
+12507,3,John Bolton: Only Way to End North Korea’s Nuclear Weapons Program Is to ‘End the North’
+12882,1,Poland Welcomes Biggest Deployment of U.S. Troops in Decades
+12926,3,Tillerson Challenges China to ’Fulfill Its Obligations’ on North Korea in Tokyo Briefing - Breitbart
+13107,1,Donald Trump Urges China to Solve ‘North Korean Problem’
+13183,1,Making America Great Again: Donald Trump’s 100 Days’ Success - Breitbart
+13206,1,Missiles Deployed Around Moscow as U.S. Troops Arrive in Poland
+13229,1,Report: Church Bombing in Cairo Kills 21, Wounds 38
+13246,1,Pope Francis to Visit Egypt as Persecuted Christians Flee from Jihadists in Sinai
+13345,2,ZUMWALT: With Korean Tensions Mounting, Tillerson Seeks ’New Approach’: Let’s Try Reagan’s - Breitbart
+13593,1,Mystery Surrounds Leaked Draft DHS Document at Center of Controversial Travel Ban Decisions by Two Federal Judges
+13638,1,Pentagon Budget Expected to Bulk Up U.S. Presence in Asia-Pacific
+13841,2,John Bolton: Tillerson State Department’s Certification of Iran’s Nuclear Deal Compliance ’Embarrassing, Inexplicable, Patently False’
+13852,1,Pope’s Timely Egypt Visit Comforts Grief-Stricken Middle East Christians
+14344,1,Martel: CNN, BuzzFeed Deprive Trump Opponents of Clean Hit on Woeful Rex Tillerson Hearing - Breitbart
+14349,1,Defense Official: Intelligence from Yemen Raid ’Definitely Helping’
+14730,1,Final Death Toll for Italy Avalanche Reaches 29
+14765,2,Officials Dismiss Report of Planned North Korea Strike as ’Wildly Wrong, Crazy, Dangerous’ - Breitbart
+15035,1,Al-Qaeda Newspaper: Steve Bannon Believes ’Islam Can’t Be Stopped by Peaceful Means’ - Breitbart
+15204,1,Islamic State Vows More Attacks on Egypt’s Christians
+15983,2,Five Years After Bin Laden, Al-Qaeda Down But Far From Out
+17118,1,Reports: Obama to Liberate Up to 24 Prisoners From Guantánamo
+17324,1,Islamic State Publishes Pictures of ‘Silent Killing’ Camp in Egypt, Flaunting ’Dozens’ of New Recruits
+17594,1,SEXUAL TERRORISM: All the Perfumes of Eurabia Won’t Sweeten the Sharia Stench of Cologne - Breitbart
+17868,1,Italy Deports Jihadist Suspected of Plotting Attack on Leaning Tower of Pisa
+17968,2,’The Holocaust Is Justified’: What Syrian Refugees Learn in School - Breitbart
+18159,1,2016 Election Day: Live Updates - Breitbart
+18484,1,The Black Power Movements Fifty-Year Love Affair with North Korea - Breitbart
+19442,1,Orlando Jihadi Swiftly Deemed ’Self-Radicalized’ Has Al Qaeda, Islamic State Ties
+19542,1,Saudi Funded Mosque Opens in Nice Before Attack
+19544,1,Islamic State, Al-Qaeda Exploit Dallas Attack in Race-Baiting Messages
+19939,1,‘Clock Boy’ Blames ’Islamophobia’ For His Troubles, on 15th Anniversary Of 9/11 Atrocity - Breitbart
+20191,1,Sen. Ron Johnson Demands Obama Reveal Where Gitmo Jihadis Will Be Transferred - Breitbart
+20520,1,Italy Dreads Looming Invasion of 400,000 New Immigrants ‘in Coming Weeks’
+20891,1,Joe Biden to China: Curb North Korea or Japan Can Go Nuclear ’Virtually Overnight’
+20946,1,John Bolton: Countries That Once ‘Hailed’ Obama as a ‘New Messiah’ Now Realize His Policies ‘Endangered’ Them - Breitbart
+22276,1,North Korea Launches Long Range Rocket, Seen as Covert Missile Test - Breitbart
+22287,1,Chernobyl, 30 Years Later: Some Ukrainians Risk Radiation to Avoid Russian Invasion - Breitbart
+22414,1,Report: Islamic State, Al-Qaida, Muslim Brotherhood Discuss ‘Mega-Merger’ in Libya
+22766,1,Israel Almost Never Benefits from Compromise - Breitbart
+22790,1,Navy Seizes Weapons on Iranian Ship Possibly Bound for Yemen’s Houthis
+23085,1,Video: Al-Qaeda Urges Black Americans to Convert to Islam
+23117,1,House Terror Task Force Chair: Obama Has ’Abandoned’ Egypt
+23386,1,EXCLUSIVE: Ex-Gitmo Warden Slams Obama’s Release of Detainees - ’He Has Thrown National Security Out the Window’ - Breitbart
+23501,1,Unclassified 28 Pages of 9/11 Report Reveal Lost Ground in Fight against Jihad - Breitbart
+23671,1,Memo: Clinton State Department Thought Huma Abedin-Connected Saudi Group Funded Terror - Breitbart
+24043,1,IDF Commander: Israel Gearing Up For Attacks From Hundreds of Sinai-Based Islamic State Terrorists - Breitbart
+24448,1,***Horse Race LiveWire*** Trump v. Clinton Begins - Breitbart
+25281,1,George Washington University Hires ‘Reformed’ Al-Qaeda Recruiter
+26321,1,Historic Defeat: Overwhelming Bipartisan Bicameral Vote Overrides Obama’s 9/11 Families Bill Veto - Breitbart
+26592,1,*** Trump v. Clinton: Live Election Results &amp Analysis *** - Breitbart
+26633,1,Plane Crash in Russia, 61 Aboard Reported Dead - Breitbart
+26762,1,North Korea Claims It Conducted a Successful H-bomb Test
+26884,1,EU Cash Fails To Win Hearts And Minds In Cornwall
+27572,1,Al Qaeda Deadly and Growing 15 Years After 9/11
+27691,2,Italy Sets High-Security Perimeter Around Colosseum After Jihadist Threat
+27730,1,Austrian Citizens Overwhelmingly Reject EU Migrant Crisis Approach, Majority Would See Borders Closed Indefinitely
+27925,1,Obama: Donald Trump ‘Doesn’t Know Much About Foreign Policy’ - Breitbart
+28083,1,U.S.-Led Coalition Has Killed 50,000 Islamic State Jihadis
+28141,1,North Korea Test Fires Two Mid-range Ballistic Missiles - Breitbart
+29551,4,Study: West Antarctic - Poster Child of Global Warming - is Getting Colder - Breitbart
+29763,1,North Korea Fires Another Missile to Protest South Korea-U.S. Drills
+30488,1,Egypt Pens Legislation to Ban Niqab in Public Places
+30956,1,Marseille Synagogue To Be Converted Into Mosque
+31396,2,Yemen: Saudi Coalition, Houthis Agree on April 10 Ceasefire
+31777,1,North Korea sends message to Trump amid missile threat
+31794,1,CNN 10 - January 10, 2017
+31871,1,Opinion: Trump and Tillerson could make waves for US-China relations
+31992,1,CNN 10 - January 18, 2017
+32264,1,Trump talks to Putin, Merkel in day of calls
+32344,1,Yemen raid: Daughter of Anwar Al-Awlaki reported killed
+32373,1,Trump makes unannounced visit to Dover AFB
+32376,4,Inside the Yemen raid: Women al Qaeda fighters surprised US forces
+32378,2,North Korea: US, South Korea plotting nuclear attack
+32385,1,UN Ambassador Haley hits Russia hard on Ukraine
+32407,2,Mattis: US will defend Japanese islands claimed by China
+32424,1,Military botches release of video seized in Yemen raid
+32487,1,Source: A target of Yemen raid was al Qaeda chief
+32509,3,Al Qaeda leader mocks Trump after Yemen raid
+32542,1,Yemen requests no US ground missions without approval
+32576,1,Trump says he’s unaware of reports Flynn discussed sanctions with Russian ambassador
+32617,1,China, Russia condemn North Korea’s missile launch
+32619,1,North Korea’s missile launch: Japan, are you watching?
+32635,3,Yemen Fast Facts
+32702,1,Russia: The problem Trump can’t escape
+32789,1,China bans coal imports from North Korea
+32815,1,What McMaster needs to tell Americans
+33174,3,US and North Korea set for ’head-on collision’, China warns
+33204,2,CNN 10 - March 9, 2017
+33248,2,How South Korea’s political turmoil could upend ties with the US
+33249,1,How North Korea might respond to turmoil in the South
+33298,1,South Korea’s ousted President leaves mansion, says ’truth will come out’
+33340,1,North Korea looms over Rex Tillerson’s first Asia trip
+33355,1,Trump’s policies and how they’ll change America -- in charts
+33365,4,Tillerson wades into a political minefield in South Korea
+33412,2,China’s Xi, Tillerson meet as North Korea tests rocket engine
+33453,2,Failed North Korean missile exploded ’within seconds,’ US says
+33465,1,AQAP trying to hide explosives in laptops, official says
+33665,1,First on CNN: New terrorist laptop bombs may evade airport security, intel sources say
+33729,1,Rex Tillerson’s odd North Korea statement
+33732,2,North Korea fires ballistic missile as Trump, Xi prepare to meet
+33752,1,ISIS message calls Trump ’foolish idiot’
+33775,2,Norway to spend $315M on world’s first ship tunnel
+33781,1,Trump, Chinese leader face North Korea dilemma
+33801,1,Trump, Xi have ’candid,’ ’positive’ talks in Florida
+33820,4,US aircraft carrier-led strike group headed toward Korean Peninsula
+33829,1,Markey to Trump: Negotiate with Kim Jong Un
+33867,3,North Korea issues warning as US strike group heads to Korean Peninsula
+33868,1,Tillerson visits Russia as tensions over Syria flare
+33891,6,China calls for calm as US dispatches naval might to Korean waters
+33915,1,North Korea may be able to arm missiles with sarin, Japan PM says
+33917,1,Trump and China: Master diplomat or paper tiger?
+33928,2,Trump’s saber-rattling is North Korea’s propaganda dream come true
+33949,1,Trump dumps Russia for China
+33964,1,North Korea surprises with display of new missiles
+33966,1,North Korea puts on a show for Day of the Sun
+33985,3,North Korean missile test fails, US says
+34001,2,Saudi Arabia Fast Facts
+34011,1,On North Korean border, Pence tells CNN US will drop ’failed policy’
+34012,1,Former South Korean President Park indicted for bribery and abuse of power
+34019,1,North Korea’s military parade: What we didn’t see
+34026,3,US Vice President visits DMZ amid high tensions with North Korea
+34044,1,Start your Tuesday smart
+34046,1,Trump may have to be patient about North Korea
+34054,7,North Korean envoy warns of nuclear war possibility
+34060,1,Pence says US won’t negotiate directly with North Korea -- for now
+34061,3,Official: White House, Pentagon miscommunicated on aircraft carrier’s location
+34068,3,Vice President Mike Pence gives stern warning to North Korea
+34077,9,Mockery, anger in South Korea over USS Carl Vinson ’bluffing’
+34107,2,What are Japan’s options against North Korea?
+34129,1,White House downplays Australia tensions ahead of VP  visit
+34145,1,Trump’s failure to justify force is concerning
+34164,2,North Korea detains US citizen as tensions rise
+34178,3,North Korea threatens to sink US aircraft carrier
+34181,1,US Navy guided-missile sub calls in S. Korea
+34200,2,North Korea marks anniversary with massive artillery drill
+34211,1,CNN 10 - April 26, 2017
+34212,2,Is Donald Trump taking North Korea’s bait?
+34233,3,North Korea rhetoric is angry -- but is conflict closer?
+34236,1,CNN 10 - April 27, 2017
+34270,3,President Trump, protecting South Korea is not a real estate deal
+34271,1,North Korea launches missile after US demands world pressure Pyongyang
+34272,1,North Korea’s missile test fails, US says
+34280,10,North Korea timeline: From Trump’s inauguration to now
+34304,3,How the world sees Trump, 100 days in
+34332,1,Trump is right about media bias
+34335,4,Trump, Kim’s standoff on the Korean Peninsula keeps region on edge
+34348,1,When to call a dictator... and when to let him leave a message
+34406,1,Is South Korea about to reset its North Korea policy?
+34530,1,South Korea election: Moon Jae-in declared winner
+34531,1,US Navy ship collides with Korean fishing boat
+34543,1,CNN 10 - May 10, 2017
+34545,2,South Korea’s new president wants to reverse its North Korea policy
+34553,4,Election brings new North Korea-US dynamic
+34634,3,North Korea launches missile
+34662,2,North Korea says missile could carry large nuclear warhead
+34687,3,Putin warns against ’intimidating’ North Korea
+34689,1,CNN 10 - May 16, 2017
+34765,3,Second carrier to join US ships near Korean Peninsula
+34827,4,North Korea fires another ballistic missile
+34883,1,Unidentified objects flies from North Korea over border with South
+34926,1,US-UK intel sharing back on after Trump vows to plug leaks
+35005,4,North Korea stages 3rd missile test in 3 weeks
+35039,1,Missile test showed highly accurate warhead, says North Korea
+35052,1,US successfully ’intercepts and destroys’ target in missile test
+35065,1,McCain calls China a ’bully,’ criticizes Trump’s foreign policy in speech
+35140,1,Golden Gate Bridge Fast Facts
+35255,4,North Korea launches 4 anti-ship missiles, fourth test in a month
+35398,1,Could football help ease tensions between North and South Korea?
+35480,2,US sailors missing after collision off Japan
+35506,1,Missing USS Fitzgerald sailors found dead
+35521,1,Search is on for 7 missing US sailors, cause of ship collision off Japan
+35561,1,Remembering the seven USS Fitzgerald sailors
+35577,1,Warmbier death raises pressure on White House
+35593,1,The secrets behind Kim Jong Un’s personal piggy bank
+35616,1,Egyptian government: EgyptAir wreckage found
+35733,1,North Korea fires two missiles, South Korea says
+35742,1,Orlando nightclub massacre: Friend says he told FBI about Mateen
+35743,3,Risky flight from South Pole arrives in Chile
+35870,1,More than 40 killed in Yemen suicide attacks
+35920,1,The unlikely godfather of the Islamic State
+36060,5,ISIS: 143 attacks in 29 countries have killed 2,043
+36271,1,North Korea threatens U.S. with ’terror’
+36518,1,Soldiers killed as Ukraine conflict with pro-Russian rebels escalates
+36528,1,Is Russia trying to influence U.S. election?
+36651,1,Trump says Putin is ’not going to go into Ukraine,’ despite Crimea
+36672,1,Donald Trump’s bad 72 hours
+36680,1,Political Prediction Market: Clinton is a 3-to-1 favorite over Trump
+36682,1,North Korea fires 2 ballistic missiles, South Korea and U.S. say
+36723,1,2016 Atlantic Hurricane Season Fast Facts
+36729,1,ISIS leader killed in Sinai, Egypt says
+36814,1,How Muslims in the nation’s capital feel about the 2016 race
+36843,1,When terror isn’t terrorism
+37000,1,Trump plots strategy on ISIS, campaign reset
+37180,2,North Korea threatens nuclear strike amid US-South Korea drill
+37190,2,North Korea test fires submarine missile
+37361,1,Tropical systems threaten Southeast US, Hawaii
+37426,1,Tropical Storm Hermine moves into Carolinas
+37491,2,North Korea fires three ballistic missiles, South Korea says
+37502,1,NASA to catch asteroid and take a sample
+37627,1,Camp David Accords Fast Facts
+37919,1,North Korea at UN: US faces ’tremendous consequences’
+38160,1,Hurricane Matthew swirls toward Haiti
+38211,1,Hurricane Matthew heads to Bahamas after killing 15
+38212,1,Hurricane Matthew: Weather service issues dire warning
+38216,1,Turkey can no longer conceal its deep cracks
+38233,1,Hurricane Matthew kills 276, tears through Haiti, Bahamas, Cuba
+38237,1,Haiti: Hurricane leaves hundreds dead
+38241,1,Hurricane Matthew’s wrath: By the numbers
+38269,3,Hurricane Matthew: Haiti’s ’forgotten disaster’
+38392,1,US in Yemen: If you threaten us, we’ll respond
+38434,1,North Korean missile launch fails, US says
+38497,1,North Korea missile launch fails, says US and South Korea
+38826,1,Obama’s counterterrorism adviser on threats facing Trump administration
+38916,1,South Korea and Japan sign military intelligence-sharing deal
+39271,1,Below-freezing temperatures set to sweep the country
+39304,2,Egyptian blasts kill, wound police officers
+39326,1,Snow and ice for many parts of US this weekend
+39379,1,CNN Student News - December 13, 2016
+39471,1,It’s so bone-chilling, nose-numbing cold that ....
+39820,1,What killed the Maya? ’Blue Hole’ offers clues
+39825,4,Charlie Hebdo attack: Three terrorists killed in raids
+39826,1,Charlie Hebdo attack: What we know and don’t know
+39833,1,U.S. official on terror: ’This isn’t going to stop’
+39854,1,Charlie Hebdo attack: Terror cells activated in France
+39856,1,After Paris attack, 7 questions about Islam
+39871,1,At least 3.7 million rally against terrorism in France
+39873,2,U.S. working premise:  AQAP ordered Kouachi to attack
+39874,2,Paris standoff gunman’s hideout reportedly found
+39893,1,After Paris attacks, search widens for accomplices
+39896,2,Get up to speed on the French terror attacks
+39912,1,1.5 million rally for Paris, but what about Nigeria?
+39913,1,Following the trail after Charlie Hebdo terror attack
+39928,1,Some military relatives review online life after threat
+39929,2,AQAP: Charlie Hebdo attack was years in the making
+39950,2,AQAP: How will France respond to Charlie Hebdo attack?
+39975,1,Europe security officials rush to spot possible threats
+39976,1,Source: Terrorists had trained in Syria with ISIS
+39977,2,Suspects detained in Paris over attacks
+39997,1,Ringleader of Belgian terror cell sought
+40004,3,Ceasefire in Yemen after day of clashes, officials say
+40021,1,Yemen President ’has no control’ as Houthis take palace
+40025,1,Russia denies its troops entered Ukraine
+40049,1,Yemeni government, rebels reach tentative deal
+40065,1,Yemen chaos threatens White House anti-terror campaign
+40066,1,ISIS gaining ground in Yemen
+40082,1,Yemen’s President, Cabinet resign, official says
+40105,1,What’s happening in the Middle East and why it matters
+40107,1,New Saudi King’s big challenges: Yemen, Iran and ISIS
+40262,1,Is U.S. coalition winning war against ISIS? (Opinion)
+40398,1,Americans have plotted to kill cartoonists
+40406,1,Egypt says it hit ISIS targets in Libya after killings
+40463,2,Ukraine: Kerry threatens more sanctions against Russia
+40477,1,Yemen’s deposed president flees house arrest
+40576,2,Does this beach paradise hold the secret to long life?
+40812,2,Yemen mosque attacks: ISIS purportedly lays claim
+40849,1,Yemen: Houthi rebels seize airport in Taiz
+40915,1,Saudis lead air campaign against rebels in Yemen
+40946,2,Unrest, violence mars Arab Spring aftermath
+40950,1,Dzhokhar Tsarnaev trial: The radicalization of Jahar
+40980,1,Threat of ground incursion looms over Yemen
+40986,2,Airstrike on Yemen refugee camp could portend incursion
+41030,1,Russian trawler sinks off Kamchatka Peninsula 54 dead
+41031,1,Al Qaeda fighters free 270 from Yemen prison
+41421,2,The real-life Indiana Jones uncovering lost cities
+41423,1,Obama confronts ’cruel’ reality of his drone war
+41578,1,Golf-ball diving: Lakes lined with $150K of ’white gold’
+41597,2,Report: North Korea tests underwater ballistic missile
+41677,1,NASA: Antarctica’s Larsen B Ice Shelf to disappear
+41678,1,The mystery of the Tsarnaev brothers (Opinion)
+41808,1,In show of muscle, Russia conducts military exercise
+41973,1,What social workers can teach us about staying sane
+42144,1,He got to watch ’The Longest Day’
+42332,1,Al Qaeda No. 2 leader Nasir al-Wuhayshi killed in Yemen
+42333,2,Tropical Storm Bill strikes Texas
+42374,1,Whack-a-mole is not a strategy
+42381,2,Al-Wuhayshi’s death deprives al Qaeda of a heavyweight
+42614,1,Terror on three continents
+42701,2,Boston DA: Girl who washed ashore still a mystery
+42749,1,Plight of ’Baby Doe’ found in Boston Harbor moves millions
+43182,1,How Putin engineered Russia’s return to superpower status
+43422,1,Trump signs executive action for ’new vetting measures’ to keep ’radical Islamic terrorists’ out of the US
+43440,1,Trump and Putin talked about ’mutually beneficial’ trade and security, Kremlin says
+43503,2,Nikki Haley just delivered the Trump administration’s most hawkish words yet toward Russia
+43511,1,Al Qaeda was ready and waiting for the SEALs on Trump’s first raid
+43558,1,Everyone is missing the big picture in Trump’s Yemen raid
+43648,2,UN Ambassador : It’s time to hold North Korea accountable ’with our actions’
+44047,2,Tillerson finally speaks: ’The threat of North Korea is imminent’
+44070,1,The US government has banned laptops on some international flights, and here’s what we know
+44258,2,For Trump to force China’s hand against North Korea, he may need to convince them he’s a madman
+44267,1,North Korea reportedly launched a ballistic missile, ahead of Trump’s meeting with China
+44379,1,Tensions between the US and North Korea are ramping up amid nuclear threats
+44424,1,The US and China are weighing responses to North Korea’s failed missile launch
+44470,1,North Korea: We will launch ’super-mighty preemptive strike’ on US forces, mainland
+44544,1,The White House’s all-hands briefing on North Korea sounded like it was a disorganized mess
+44553,1,A submarine that carries US Navy SEALs just arrived off the coast of North Korea
+44561,1,Wall Street dealmaking has exploded since Trump took office
+44570,2,North Korea test fires medium-range missile shortly after US-South Korea talks
+44870,1,A former special forces sniper is taking up a new fight — protecting one of the world’s most endangered species
+45723,1,The UN will hold an emergency meeting after North Korea fired a long-range rocket
+45955,1,Al-Qaeda is taking control of a pivotal Middle East country
+46313,1,Giant holes found in Siberia could be signs of a ticking climate ’time bomb’
+46405,1,Obama unloads on Trump: He doesn’t know much about ’the world, generally’
+46419,1,Donald Trump says NATO countries must ’pay up’ or ’get out’
+46686,4,North Korea ready to halt nuke tests if US stops South Korean exercises
+47006,1,Black boxes from EgyptAir flight 804 reportedly located as officials confirm smoke was detected before it crashed
+47008,1,The Egyptian Army has shared the first photos of wreckage from the crashed EgyptAir flight
+48632,1,Where Hillary Clinton and Donald Trump stand on foreign policy
+48804,1,Hurricane Matthew threatens Florida to South Carolina with dangerous flooding
+48818,1,Hurricane Matthew makes landfall as it slams the South Carolina coast
+49618,1,Trump reportedly settles on Exxon Mobil CEO Rex Tillerson as secretary of state
+49806,1,Here’s Pope Francis’s Christmas message to the world
+49873,1,The Mysterious Physics of Rainbows

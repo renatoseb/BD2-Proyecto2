@@ -1,0 +1,668 @@
+36,1,A ‘World Unto Itself’ in New York Area Yeshivas: Floor Hockey - The New York Times
+55,1,10 Engaging Proposals, From the Rooftop to the Subway - The New York Times
+65,2,My Canada - The New York Times
+144,1,Naomie Harris: A Chameleon on Screen and Off - The New York Times
+239,4,Danielle Brooks: The First Time I Saw Myself on a Billboard - The New York Times
+285,8,Living in Andy Cohen’s America - The New York Times
+287,1,Don’t Call Them ‘Mocktails’ - The New York Times
+304,2,California Today: Is the Drought Over? - The New York Times
+312,1,One Cookie, 2 Versions: Why Girl Scout S’mores Won’t All Be the Same - The New York Times
+329,1,In the Shopping Cart of a Food Stamp Household: Lots of Soda - The New York Times
+441,1,‘The Founder’: Burgers, Fries and a Couple of Wiseguys - The New York Times
+463,1,Fishing for Clues to Solve Namibia’s Fairy Circle Mystery - The New York Times
+478,1,Pet Pigs of New York: Illegal, Embattled, Beloved - The New York Times
+553,1,California Today: What, Exactly, Is in Your Sushi? - The New York Times
+558,1,Storm That Roared Through the South Sweeps Into the Northeast - The New York Times
+631,1,‘Making It on My Own,’ With Mary Tyler Moore as a Guide - The New York Times
+668,3,Couture in the Shadow of the Women’s March - The New York Times
+686,1,In America’s Heartland, Discussing Climate Change Without Saying ‘Climate Change’ - The New York Times
+755,1,As Canada Transforms, an Anti-Immigrant Fringe Stirs - The New York Times
+809,2,Republicans Move to Block Rule on Coal Mining Near Streams - The New York Times
+923,2,California Today: Tackling Los Angeles’s Deadly Smog - The New York Times
+928,1,Lady Gaga at the Super Bowl: No Controversy, Lots of Glitter - The New York Times
+1078,1,How Malay Spends His Sundays: Cooking at Home, Music in the Studio - The New York Times
+1096,1,#GrammysSoWhite Came to Life. Will the Awards Face Its Race Problem? - The New York Times
+1133,1,Chris Rock Returns With Jokes and Personal Anguish - The New York Times
+1134,1,South Korea’s Olympian Winter Moment - The New York Times
+1193,1,California Today: Capturing the ‘Firefall’ at Yosemite - The New York Times
+1223,1,Cheesecake for the Soul: A ‘Golden Girls’ Cafe Opens - The New York Times
+1304,7,Democrats’ Best Bet to Retake the House? Follow the Sun - The New York Times
+1326,1,California Today: On Catalina, the Drought Is Far From Over - The New York Times
+1339,2,Nikki Haskell Learns the Social Cost of Supporting Donald Trump - The New York Times
+1434,1,California Today: After Lawmaker’s Silencing, More Cries of ‘She Persisted’ - The New York Times
+1522,1,College Student Suffers Severe Reaction After Hazing Involving Peanut Butter - The New York Times
+1553,2,Vitamins Gone Gummy - The New York Times
+1556,1,Closed Afghan-Pakistani Border Is Becoming ‘Humanitarian Crisis’ - The New York Times
+1636,1,In Russia, Blooms Flourish on International Women’s Day - The New York Times
+1640,1,Do Nike’s New Shoes Give Runners an Unfair Advantage? - The New York Times
+1712,2,For Brazil’s Zika Families, a Life of Struggle and Scares - The New York Times
+1740,2,Turkey’s Relations With Europe Sink Amid Quarrel With Netherlands - The New York Times
+1756,1,Lloyd Conover, Inventor of Groundbreaking Antibiotic, Dies at 93 - The New York Times
+1770,1,Why ‘The Outsiders’ Lives On: A Teenage Novel Turns 50 - The New York Times
+1803,1,California Today: A Gallery Flees and Neighborhood Activists Cheer - The New York Times
+1804,1,Using Sling TV and Secure Texts to Keep on Top of Trump - The New York Times
+1910,1,The Verdant Food of Iran Entices at Persian New Year - The New York Times
+1920,1,Burying Their Cattle, Ranchers Call Wildfires ‘Our Hurricane Katrina’ - The New York Times
+1942,1,The Hawaii Cure - The New York Times
+1972,1,Chris Paul’s Fast Hands and Gruesome Fingers - The New York Times
+1981,1,His Idea for Fighting Terrorism? Funny Plays - The New York Times
+2091,1,Baltimoreans Mourn a Man Said to Have Been Killed by Their Neighbor - The New York Times
+2107,1,California Today: Considering a Single-Payer Insurance System - The New York Times
+2125,3,Steve King’s Iowa Voters Rethink Their Support: ‘Way Out of Line’ - The New York Times
+2153,1,In School Nurse’s Room: Tylenol, Bandages and an Antidote to Heroin - The New York Times
+2271,1,Visa Applications Pour In by Truckload Before Door Slams Shut - The New York Times
+2285,1,Inviting the Easter Bunny to the Seder - The New York Times
+2305,1,At Penn Station, Rail Mishap Spurs Large and Lasting Headache - The New York Times
+2335,1,Christie Lies Low, but Can’t Avoid Wrath of Commuters - The New York Times
+2346,1,In France, a Monument Honors the American Flyers of World War I - The New York Times
+2374,1,The Mucus-Shooting Worm-Snail That Turned Up in the Florida Keys - The New York Times
+2405,3,An Ambrosial Cake, and That’s Just the Filling - The New York Times
+2422,1,Independence Days: My Perfect Imperfect Gap Year - The New York Times
+2477,3,California Today: Berkeley Turns to Comedian for Advice - The New York Times
+2478,1,I Thought I Understood the American Right. Trump Proved Me Wrong. - The New York Times
+2524,1,James Baldwin’s Archive, Long Hidden, Comes (Mostly) Into View - The New York Times
+2656,1,Robert Durst’s Transfer to a Los Angeles-Area Prison Is Approved - The New York Times
+2683,1,California Prepares for Long-Denied Star Turn in Presidential Race - The New York Times
+2733,1,Obama in Vietnam Will Focus on Future, Rather Than the Past - The New York Times
+2754,1,Doctors With Enemies: Did Afghan Forces Target the M.S.F. Hospital? - The New York Times
+2809,1,Success of Jerry Brown, and California, Offers Lesson to National Democrats - The New York Times
+2817,1,The Moroccan Garden of One Man’s Dreams - The New York Times
+2835,2,Janice Crouch, ‘Gospel of Prosperity’ Disciple, Dies at 78 - The New York Times
+2886,1,Iraqis Who Flee Fighting in Falluja Find Hardship and Hunger - The New York Times
+2900,1,Meryl Streep Does a Number on Donald Trump at Public Theater’s Gala - The New York Times
+2901,1,Chasing Hiroshige’s Vision of Japan - The New York Times
+2937,1,In a Corner of the Everglades, a Way of Life Ebbs - The New York Times
+2983,1,Can Netflix Survive in the New World It Created? - The New York Times
+3001,1,Christo’s Newest Project: Walking on Water - The New York Times
+3010,1,A War of Brothers in Iraq: ‘I Will Kill Him With My Own Hands’ - The New York Times
+3026,2,Shooting Victims’ Families Watch as Gun Measures Stall Once Again - The New York Times
+3028,2,Orlando Police Defend Actions as Clock Ticked in Massacre - The New York Times
+3034,1,Hands Off My Smiley Face: Emoji Become Corporate Tools - The New York Times
+3036,2,Will Trump Swallow the G.O.P. Whole? - The New York Times
+3057,1,‘Who’s Miranda?’ Suspect in Kayak Killing Didn’t Understand Her Rights, Lawyer Says - The New York Times
+3069,1,YouTube Red Buys ‘Step Up,’ Its First Big-Budget TV Drama - The New York Times
+3103,2,New Jersey Woman Charged After Her Son, 6, Fatally Shoots His Brother, 4 - The New York Times
+3189,1,Hillary Clinton, Wimbledon, NASA: Your Tuesday Evening Briefing - The New York Times
+3285,1,The Mysterious Metamorphosis of Chuck Close - The New York Times
+3333,1,In Istanbul, Optimism Fades to a Familiar Melancholy - The New York Times
+3348,1,By Bulgaria’s Beautiful Black Sea - The New York Times
+3349,1,Jon Stewart Returns on ‘The Late Show With Stephen Colbert’ - The New York Times
+3353,1,Police and Protesters Clash Over Flag Burning at Republican Convention - The New York Times
+3444,1,‘I Have No Choice but to Keep Looking’ - The New York Times
+3447,1,Olympic Cover-Up: Why You Won’t See Some Shoe Logos - The New York Times
+3496,1,Don’t Let Them Tell You You’re Not at the Center of the Universe - The New York Times
+3498,1,Orlando Gunman Was Shot at Least 8 Times, Autopsy Finds - The New York Times
+3532,1,3 Quick and Savory Recipes for Peak-of-the-Season Tomatoes - The New York Times
+3669,2,From Montreal to Minnesota, by Inland Sea - The New York Times
+3681,1,Frank Ocean Finally Delivers His Album, and a Pop-Up Surprise - The New York Times
+3714,1,On Sundays in Senegal, Surf’s Up for the Sheep - The New York Times
+3749,1,Venus Williams, Off the Court - The New York Times
+3796,1,Love Undone - The New York Times
+3824,2,Bags of Cocaine Worth $56 Million Are Found at Coca-Cola Factory in France - The New York Times
+3904,2,California Today: No, Cal State Isn’t Creating Segregated Housing - The New York Times
+3984,2,Autopilot Cited in Death of Chinese Tesla Driver - The New York Times
+3998,1,Black Child With BB Gun Is Shot by Police in Columbus, Ohio - The New York Times
+4076,2,California Today: The Debate Over Indian Mascots and Imagery - The New York Times
+4135,1,Wells Fargo Workers Claim Retaliation for Playing by the Rules - The New York Times
+4154,1,How Donald Trump Set Off a Civil War Within the Right-Wing Media - The New York Times
+4183,1,‘S.N.L.’ Begins a New Season With Alec Baldwin as Donald Trump - The New York Times
+4195,1,California Today: A Shift in the Child Sex Trafficking Trade - The New York Times
+4203,1,How I Created My Very First Garden From Scratch - The New York Times
+4290,1,In Haiti, a City’s Race Into the 21st Century Is Ruined by a Hurricane - The New York Times
+4304,2,This City Is 78% Latino, and the Face of a New California - The New York Times
+4315,1,Why Last-Second Lane Mergers Are Good for Traffic - The New York Times
+4456,1,Notes on the U.S. Election: A Measure of America’s Fever - The New York Times
+4458,1,California Today: How Do Top Newspapers Line Up on the Election? - The New York Times
+4461,2,Want Co-Workers to Vote Your Way? Then Stop Pestering Them - The New York Times
+4482,1,Robert Durst Pleads Not Guilty to 2000 Murder in Los Angeles - The New York Times
+4521,1,ISIS Is Massacring Mosul Civilians as Troops Advance, U.N. Says - The New York Times
+4570,1,In Michael Chabon’s ‘Moonglow,’ Deathbed Stories Illuminate an Era - The New York Times
+4763,1,Gatlinburg Wildfires Force Evacuations: ‘It Was Like Driving Into Hell’ - The New York Times
+4773,2,California Today: A View of San Francisco’s Leaning Tower From Space - The New York Times
+4815,2,Sammy Lee, First Asian-American Man to Earn Olympic Gold, Dies at 96 - The New York Times
+4816,2,Twinkle, Twinkle Little [Insert Name Here] - The New York Times
+4873,2,California Today: Schools Try to Calm New Fears Over Deportation - The New York Times
+4879,1,The Woman Who Might Find Us Another Earth - The New York Times
+4907,1,Rapid Evolution Saved This Fish From Pollution, Study Says - The New York Times
+4935,1,California Today: Questions Persist After the Oakland Fire - The New York Times
+4953,1,Donald Trump, Rex Tillerson, Aleppo: Your Morning Briefing - The New York Times
+4964,1,Baseball Outlaws Hazing Ritual That Forces Rookies to Dress as Women - The New York Times
+4967,2,Seeing Africa by Road - The New York Times
+4980,2,SAG Nominees Include Viggo Mortensen and Other Surprises - The New York Times
+4993,1,Craig Sager, Colorful N.B.A. Sideline Reporter, Dies at 65 - The New York Times
+5020,2,Benjamin Gilman, a New York Congressman for 30 Years, Dies at 94 - The New York Times
+5053,1,Red Wine Hot Chocolate Is a Thing, and It’s (Surprisingly) Delicious - The New York Times
+5060,1,California Today: Cast Your Vote for Californian of the Year - The New York Times
+5070,1,Is American Baking Really Limited to Fruitcake and Gingerbread? - The New York Times
+5184,2,Judith Clark’s Radical Transformation - The New York Times
+5244,1,Gannett Offers $815 Million for Tribune Publishing - The New York Times
+5256,2,From Albany to Prison: Ex-Lawmakers on Life Behind Bars - The New York Times
+5328,1,One T.S.A. Line Worth the Wait - The New York Times
+5336,1,Enthralled by Sicily, Again - The New York Times
+5354,1,California Senate Race Is a Tale of Diversity and a Flailing G.O.P. - The New York Times
+5394,1,Last Call at Pulse Nightclub, and Then Shots Rang Out - The New York Times
+5410,1,Omar Mateen Told Police He’d Strap Bombs to Hostages, Orlando Mayor Says - The New York Times
+5417,4,In Orlando, a Son of a Muslim Immigrant Rushed to Heal Pain Caused by Another - The New York Times
+5426,2,Bidding Wars in the Suburbs - The New York Times
+5433,1,Decades Later, Sickness Among Airmen After a Hydrogen Bomb Accident - The New York Times
+5437,3,Realizing It’s a Small, Terrifying World After All - The New York Times
+5563,1,Emmy Nominations 2016: ‘Game of Thrones’ Rules Again - The New York Times
+5613,3,A Veteran Living in Squalor, and Allegations of ‘Staggering’ Abuse - The New York Times
+5631,1,The Pillow Cure - The New York Times
+5756,2,Frank Ocean Ends His Long Silence With a Variety of Works - The New York Times
+5793,1,The Complex Math Behind Spiraling Prescription Drug Prices - The New York Times
+5852,3,Riding the Rails to the Summer of Love - The New York Times
+5904,1,Review: The Smithsonian African American Museum Is Here at Last. And It Uplifts and Upsets. - The New York Times
+5909,2,California Today: A ‘See Something, Say Something’ Prostitution Plan - The New York Times
+6064,3,‘I’m the Last Thing Standing Between You and the Apocalypse’ - The New York Times
+6103,5,Firebombing of G.O.P. Office Jolts Fragile Balance of a North Carolina Town - The New York Times
+6104,2,Haitians, Battered by Hurricane, Huddle in Caves: ‘This Is the Only Shelter We Have’ - The New York Times
+6106,1,Audience Members Walk Out on Amy Schumer After Trump Criticisms - The New York Times
+6122,2,Clinton, Mosul, Pirate Party: Your Monday Briefing - The New York Times
+6124,1,Why Does Fall Foliage Turn So Red and Fiery? It Depends. - The New York Times
+6127,1,No Kegs, No Liquor: College Crackdown Targets Drinking and Sexual Assault - The New York Times
+6141,1,Mary Keitany of Kenya Wins 3rd Straight New York City Marathon - The New York Times
+6162,1,California Today: With Trump’s Rise, a Return to the ‘Rebel State’ - The New York Times
+6267,1,A Long-Gone Parasite Returns to Florida, Leaving a Trail of Dead Deer - The New York Times
+6326,1,As Double Dutch Wanes in New York, Competition Comes From Abroad - The New York Times
+6376,1,Accusations of Fraud at Wells Fargo Spread to Sham Insurance Policies - The New York Times
+6413,1,The Best Architecture in New York of 2016 - The New York Times
+6421,3,California Today: What Stinks in Huntington Beach? - The New York Times
+6426,1,In Kayak Death Case, Jury Will See Police Interrogation Video - The New York Times
+6461,1,How the Obama Coalition Crumbled, Leaving an Opening for Trump - The New York Times
+6462,1,Coming to Newark Archdiocese: A Different Kind of Cardinal - The New York Times
+6506,1,California Today: The Stories That Moved Us in 2016 - The New York Times
+6581,1,Why Christopher Kimball Is Moving On From America’s Test Kitchen - The New York Times
+6586,1,Almost 100, ‘Forgotten Legend of Basketball’ Still Marvels at the Game - The New York Times
+6677,2,Confused About Quinoa and Nutrition? So Are Other Americans - The New York Times
+6725,2,When Community-Supported Agriculture Is Not What It Seems - The New York Times
+6748,1,Lest We Forget, the U.S., Too, Spent Time in the Doping Wilderness - The New York Times
+6789,1,Greek Villagers Rescued Migrants. Now They Are the Ones Suffering. - The New York Times
+6843,1,6 Tips for (Gracefully) Handling Rain on Your Wedding Day - The New York Times
+6891,1,What to Cook This Week - The New York Times
+6969,1,North Carolina G.O.P. Building Is Firebombed - The New York Times
+6990,1,For ‘S.N.L.,’ Clinton-Trump Has Been a Blessing and a Curse - The New York Times
+7021,1,‘They Will Have to Die Now’ - The New York Times
+7044,1,At Least 5 Children Die in School Bus Crash in Chattanooga - The New York Times
+7146,1,In Shadow of Amazon, European Challenger Looks to China for Inspiration - The New York Times
+7189,1,Earning the ‘Woke’ Badge - The New York Times
+7196,1,Jodie Foster Is Still Afraid of Failure - The New York Times
+7240,1,Orlando Medical Examiner: ‘Take a Typical Homicide Scene, Multiply It by 50’ - The New York Times
+7250,1,In Reversal, Marco Rubio to Seek Re-election to Senate - The New York Times
+7275,1,DeRay Mckesson, Arrested While Protesting in Baton Rouge, Is Released - The New York Times
+7282,1,Amid Protests Over Police Shootings of Black Men, Latinos Note a Disparity - The New York Times
+7286,1,Never-Trump Confidential - The New York Times
+7288,3,Tips to Reduce Food Waste - The New York Times
+7341,1,Edward Snowden’s Long, Strange Journey to Hollywood - The New York Times
+7344,2,The Lonely Toil of Frank Ocean: Is It Art, or Denial? - The New York Times
+7353,1,California Today: Vaccinate Schoolchildren or Keep Them Home - The New York Times
+7422,1,Look Who’s Smiley Now: MoMA Acquires Original Emoji - The New York Times
+7423,1,Doubts About the Promised Bounty of Genetically Modified Crops - The New York Times
+7424,1,California Today: A New Target of Gun Control Advocates — Bullets - The New York Times
+7426,1,Life Beyond Bars: One Man’s Journey From Prison to College - The New York Times
+7557,1,Divers Find Body of Toddler Snatched by Alligator at Disney Resort - The New York Times
+7707,2,How Can Communities Prepare for Mass Shootings? Orlando Offers Lessons - The New York Times
+7708,1,A Creamy, Sweet Tribute to Summer - The New York Times
+7775,1,The Top 10 New York Dishes of 2016 - The New York Times
+7884,1,Celebrities Melt Down Over Comey Firing: ’Full Blown Constitutional Crisis’
+7908,2,One Year of Water in Orange County in Just Four Days - Breitbart
+7943,1,Jerry Brown’s AB 109 ’Reform’ Put L.A.’s Most Wanted Back on Streets - Breitbart
+8039,1,Mike Pence Sends Project Hero Riders Off on 10th Memorial Day Ride for Veterans - Breitbart
+8056,4,Numerous Fatalities in Orlando Workplace Attack, Gunman Dead as Well
+8169,1,Spike Lee: Hillary Clinton Thought She Was ’Entitled’ to the Presidency
+8489,1,Rosie O’Donnell to Melania Trump: ’Divorce’ Donald and ’Flee’
+8549,3,National Geographic Film Crew Accused of Baiting Sharks in Southern California - Breitbart
+8571,1,Comedy Central’s ’Broad City’ to Bleep Out Donald Trump’s Name in Upcoming Season
+8696,1,NEW STRATEGY: Left-Wing Students are Scheduling Alternative Speakers to Counter MILO’s Events - Breitbart
+8799,1,Globalists In Exile: ‘Party of Davos’ a Gloomy Event This Year After Brexit, Donald Trump’s Win - Breitbart
+8936,4,Spike Lee Unveils Anti-Trump Nike Sneakers
+9091,3,Attkisson’s Feb 19 ’Full Measure’ Investigates VA Contractor Accused of Cheating Veterans - Breitbart
+9359,1,Disney Refuses Ransom to Hackers Who Stole ‘Pirates of The Caribbean’ - Breitbart
+9403,1,FAA Investigating Harrison Ford Plane Incident at Orange County Airport
+9682,1,Heavy Rains Spawn California Wildflower Super Bloom that Can Be Seen from Space - Breitbart
+9686,1,Mayhem in Berkeley: Trump Supporters, Counter-Protesters Clash During Rally - Breitbart
+10099,1,Florida McDonald’s Redecorates for Police Week After Community Backlash - Breitbart
+10211,1,Shocked Stockholm Eerily Silent After Truck ’Terror Attack’
+10232,1,’Family Guy’ Peter Griffin Mocks Kellyanne Conway in Emmy Mailer
+10403,1,Former Raiders QB Todd Marinovich Pleads Guilty to Drugs, Public Nudity - Breitbart
+10432,1,NC School District Fights to Keep Pro-Transgender Message in First-Grade Curriculum - Breitbart
+10469,1,Sessions, at San Diego Border, Warns California Not to Go ’Sanctuary’ - Breitbart
+10565,1,Islamic State ’Morality Police’ Behead Two Elderly ’Sorcerers’ in Egypt
+10774,2,Huntington Beach Goes to War Against Threat to Force District System - Breitbart
+10795,2,Kevin Shenkman: Ending Democracy as We Know It in Southern California? - Breitbart
+10798,1,Total Vetting Fail: Left-Wing Snowden Fan Girl Reality Winner Gets Access to Our NSA Secrets
+10825,2,21 Stuck 130 Feet Up for 6 Hours at Knott’s Berry Farm - Breitbart
+11021,1,Blue State Blues: Why Do Democrats Undermine Latino Leaders?
+11051,1,Virgil: Arguments from Bad Authority: How the Mainstream Media Tries to Trick You
+11058,1,Bartender Sets Woman On Fire During New Year’s Eve Trick
+11126,1,Hackers Demand Ransom Payment from Disney over Stolen Copy of ’Pirates of the Caribbean 5’
+11200,1,’Apocalypse Now’ Game Director: We’re Making a Game for ’The 45 Other States’ Hollywood Doesn’t Care About - Breitbart
+11323,1,Dan Savage: Melania Trump Is ‘Ugly on the Inside’ - Breitbart
+11325,1,15 Times Celebrities Envisioned Violence Against Trump and the GOP
+11332,1,Bill Maher Sparks Outrage After Telling Ben Sasse He’s a ’House N**ga’: ’So Hurtful’
+11417,1,G7 Fashion: First Lady Melania Trump Outshines Fellow NATO Spouses In Blossoming Ensemble
+11433,2,Three Illegal Aliens Arrested for Allegedly Kidnapping Texas Attorney
+11466,2,Report: Transgender Activists Attack Pro-Family Campaign Bus With Hammer, Paint - Breitbart
+11572,2,Ann Coulter: How to Provide Universal Health Care Using This One Easy Trick
+11604,1,Trump and Kelly ’Dismantle’ Obama’s ’Progress’ for Illegal Immigrants
+11701,2,Witches Unite to Cast ‘Binding Spell’ on Trump and Followers
+11886,1,Transgender Actor Laverne Cox To Speak at Alternative CU Boulder Event During MILO Visit - Breitbart
+12023,1,California Democrats Propose In-State Tuition for Refugees - Breitbart
+12050,1,Livewire: 59th Annual Grammy Awards
+12339,1,Report: Netflix Now Has More Paid Subscribers than Cable TV
+12398,1,A Year of Hate: 9 Times the Radicalized Left Engaged in Violence in the Trump Era - Breitbart
+12405,1,Sarah Silverman Mistakes Construction Markings for Swastikas
+12449,1,California College Professor Who Called Trump’s Win an ’Act of Terrorism’ Nominated for Campus Award - Breitbart
+12476,2,Obama Drinks from Orange Cup to Support Gun Control Campaign - Breitbart
+12502,4,Orange County, California: Key Battleground for 2018 Midterm Elections - Breitbart
+12737,1,High School Forced to Change Mascot over Accusation ’Stallions’ Is ’Sexist’ - Breitbart
+13103,1,Watch: Obama ’Anger Translator’ Luther Bids Final Farewell
+13212,2,Officer Dead, Schools on Lockdown as Orlando Police Hunt Cop Killer
+13287,1,Study: 2024 Olympics Would Boost L.A. Economy by $9.5 Billion
+13396,1,Portrait of Ronald Reagan Defaced During Break-In at GOP Office in North Carolina
+13529,1,Trump Supporters Disrupt ’Illegal Alien’ Town Hall Held by CA Dem Rep. - Breitbart
+13568,2,Migrant Construction Worker Allegedly Caused Death of 5-Year-Old
+13587,2,Alleged NSA Leaker Once Said ’Being White Is Terrorism’
+13629,2,Netflix, ABC Hackers Taunt Studios: ’There’s Always More’ Leaks
+13734,1,Media Refuse to Blame Anti-Trump Protesters for Violence at Rallies - Breitbart
+13778,1,Rosie O’Donnell Calls for Martial Law to Delay Inauguration
+13857,1,’Ghost Recon Wildlands’ Review - A Fun but Forgettable Sprawling Cartel Hunt That’s Better with Friends - Breitbart
+13942,1,Criminal Aliens Detained in Sanctuary NYC Include Gang Member, Rapists, Sex Offenders
+14194,1,Reports of Hardware Issues Plague Nintendo Switch Launch - Breitbart
+14343,1,Chinese Factory Uses Army of Robots to Sort Packages - Breitbart
+14389,2,Jerry Brown: California Taxpayers are ’Freeloaders’ - Breitbart
+14619,1,Survival Rules for Pro-Trump Californians Living Behind the Blue Curtain - Breitbart
+14669,1,Report: Court Documents Show FBI Used Best Buy ’Geek Squad’ to Gather Evidence - Breitbart
+14757,1,’Orange Is The New Black’ Hackers Target ABC - Breitbart
+14865,1,Police: Man Posed as Wife on Facebook to Cover Up Her Killing
+15099,1,ABC’s ’Black-ish’: ’A Vote for Trump is a Vote for Racism’
+15116,1,Rally for Trump, Law Enforcement Meets Violent Anti-Trump Protesters in California - Breitbart
+15123,1,Trans Star Laverne Cox Lands Role Written for Female Actress
+15331,3,Grammys: Busta Rhymes Rips ’President Agent Orange’ Trump
+15372,1,Puerto Rico to File Largest Public Sector Bankruptcy in History - Breitbart
+15398,1,Trump-mania: California Consumer Confidence Hits 9-Year High
+15555,1,#DumpKelloggs: Minority Employees Accuse Kellogg’s of Racism, Subjecting Them to N-Word, Photo of a Baboon
+15657,1,Parade Float Features Jailed Hillary Clinton Being Hit with Water Balloons
+15734,1,Watch: Mark Cuban Roasts Donald Trump - Breitbart
+15813,1,’About Time!’ Celebs Cheer as Harriet Tubman Replaces Andrew Jackson on $20 Bill - Breitbart
+16065,6,’Orange Is the New Black’ Concludes Season with Homage to Black Lives Matter - Breitbart
+16075,1,HuffPo: Donald Trump Is the Visigoth at the Gates of America’s Capital - Breitbart
+16234,1,Live Updates - Terror in Orlando: Approximately 50+ dead, 50+ More Wounded at Gay Nightclub - Breitbart
+16239,1,Bizarre Underground Gun Range in Fresno - Breitbart
+16325,1,Autopsy: Orlando Jihadi Used 260 Bullets to Kill 49 People, One Victim Shot Ten Times - Breitbart
+16494,1,California DMV Computer Crash Suggests Voting System Vulnerable
+16554,4,Judge Censured for Sex with Women in Chambers Gets Re-Elected
+16562,1,U.S. Intel Chief: Islamic State Produced, Deployed Chemical Weapons - Breitbart
+16570,1,’Let Me Be Clear:’ Paul Ryan Refuses 2016 Republican Nomination Race - Breitbart
+16600,7,Journalist Asks Hillary Clinton a Question... by Rolling an Orange to the Front of Her Plane - Breitbart
+16702,1,Bernstein: Hillary Should ’Release Her Medical Records’ and Talk To Press About Health, Trump Is Worse Than Hillary - Breitbart
+16874,2,Former Police Detective Builds Trump Sign on Roof Near Maryland Airport - Breitbart
+16927,1,Colombia Goes to ’Plan B’ After FARC Terrorist Impunity Deal Loses Popular Vote
+17050,2,***Horse Race LiveWire*** One Day to Super Saturday - Breitbart
+17266,1,Café Countersuit Accuses Muslim Women of ’Civilizational Jihad’
+17308,2,‘Orange is the New Black’ Star Sues NYPD for $10M After Arrest
+17398,9,DA Sues Two CA Companies for Profiting from Baby Parts from Abortions - Breitbart
+17445,1,Donald Trump Officially Opens Los Angeles Campaign HQ - Breitbart
+17609,1,Blue State Blues: Were Sailors Ordered to Surrender?
+17647,3,Rosie O’Donnell Restarts Feud with ’Orange Slug’ Donald Trump - Breitbart
+17660,1,In Decisive California Primary, Ted Cruz Is in Control - Breitbart
+17733,1,George Lopez: I’ll Give Trump a Chance... to ’Suck My Ass’
+17810,1,***Horse Race LiveWire*** Ryan: I Don’t Want, Won’t Accept Nomination Jeb!, Top GOPers to Skip Convention - Breitbart
+17827,1,Officer Survives After Badge Deflects Bullet During Shootout - Breitbart
+17907,2,CAIR Leader Apologizes for Tweet Celebrating Russian Jet Crash
+17952,1,Salon: Why Trump’s Phone Call To Colbert Should Scare the Left - Breitbart
+17980,1,Police: Couple Had Sex in Front of 6-Year-Old Boy in a McDonald’s Parking Lot - Breitbart
+18171,2,Mystery Surrounds West Coast Arrival of Zika-Spreading Mosquito - Breitbart
+18249,1,Rosie Defends Questioning Whether Barron Trump is Autistic
+18408,2,***Horse Race LiveWire*** Erick Erickson: ’Trump Voters Have Failed at Life’ - Breitbart
+18466,1,’Modern Family’ to Feature TV’s First Transgender Child Actor
+18569,1,Gunpocalypse -- Gun Owners to Jerry Brown: Come and Take It
+18587,2,Mike Pence at Firebombed GOP Office: an Act of "Political Terror" - Breitbart
+18659,1,Sanders to Hillary on Wall Street Ties: ’Let’s Not Insult the Intelligence of the American People’ - Breitbart
+18697,1,6-Year-Old Rescues Ducklings from Drainpipe - Breitbart
+18703,1,Mob Attacks Trump Supporters, and It’s Trump’s Fault? - Breitbart
+18842,5,DOJ Blocks Chicago Tribune Buyout of OC Register - Breitbart
+18877,5,Zika-Linked Mosquitoes ’Infesting’ Orange County - Breitbart
+19105,1,Pop Icon David Bowie Dead at 69 - Breitbart
+19264,2,Trans Star Laverne Cox: Bathroom Privacy Laws Are About ’Stigmatizing and Pretending We Don’t Exist’ - Breitbart
+19428,1,Blue State Blues: Three Scenarios in the California Primary - Breitbart
+19621,1,Cuban Exile Community Reels at Obama’s Warm Welcome in Havana - Breitbart
+19709,1,Popular Pages Revolt Against Facebook’s Arbitrary Censorship - Breitbart
+19734,1,9,000 Companies Left California Since 2008
+19752,3,Concealed Carry Permits Surge In Sacramento County - Breitbart
+20267,1,Hundreds of Trump Fans Boo, Walk Out On Amy Schumer - Breitbart
+20495,1,Netflix Content Shrinks over 50% Since 2012 - Breitbart
+20509,1,Norway Minister Ridiculed After Floating In Mediterranean To See What It’s Like To Be A Migrant
+20539,1,New Service Helps Migrants Set Up ’Dates’ With Locals
+20593,2,Ted Cruz Sweeps Colorado - Breitbart
+20836,1,Floridian Man Allegedly Used Dating App to Lure Minors into Prostitution - Breitbart
+20948,2,Spike Lee Turns Empire State Building Orange For Gun Control - Breitbart
+21321,1,Hollywood Liberals Blame Trump for Violent Leftwing Protesters Shutting Down Free Speech
+21425,2,Islamic State Propaganda Promotes Elderly Jihadi Executioners
+21560,1,Gun Control Troll: Amy Schumer Disrobes to Disarm Americans - Breitbart
+21799,1,Photos: Male ’Disney Addict’ Transforms Himself Into Princesses - Breitbart
+21884,1,*** Live Updates of RNC Evening Session: Trump to Introduce Melania*** - Breitbart
+21889,1,California Cubans Celebrate Fidel Castro’s Death - Breitbart
+21946,1,Donald Trump Has Not Spoken with California Primary Director
+22023,1,David ‘Mudcat’ Saunders: Time for Democrats to ‘Help America Move Forward,’ Admit Trump Beat Clinton ‘Fair and Square’
+22096,2,Bitter Liberals Post Selfies of Themselves Flipping Off Trump Tower - Breitbart
+22135,1,Alec Baldwin Joins Cast of Occupy Drama ’The Public’ - Breitbart
+22452,1,Amy Schumer to Star in Live-Action Movie ‘Barbie’
+22458,1,After Getting Everything Wrong in 2016, Stephen Hayes Elevated to Editor-in-Chief at the Weekly Standard - Breitbart
+22470,2,Comedian Sacha Baron Cohen Suggests Trump will Choose Bill Cosby for V.P. - Breitbart
+22795,2,Man Released by Prop. 47 Arrested for Attempted Murder
+22797,1,Terror Cops Investigate ’British Boy’ Shooting Prisoner in New ISIS Video - Breitbart
+23004,1,Exclusive - 360-Degree Video of ’Hillary for Prison’ Debuts at DNC - Breitbart
+23189,1,Twitter Bans Gay Conservative Milo After Anti-Islam Tweets **UPDATE** Twitter Caves - Breitbart
+23262,3,The Nuclear Option - Trump Has One Job Until November 8th: Prosecute Case Against Hillary Clinton - Breitbart
+23343,1,Vandals Throw Fire Bomb into North Carolina GOP Office
+23360,1,Watch: Impatient Driver Quickly Regrets Life Decisions - Breitbart
+23427,1,Joss Whedon: ’Trump Cannot Be Allowed a Term in Office’
+23605,2,Watch: Couple Attacks Man Holding ’Death to America’ Sign - Breitbart
+23763,1,Report: Media Give Gorilla Death 6 Times More Coverage Than ISIS Beheadings of Christians
+23783,1,White Christmas in California as Mountain Snow Draws Locals
+23849,9,Ted Cruz Wins Over 100 New Faith Leader Endorsements in Florida and Missouri - Breitbart
+24020,1,History Suggests Left’s #CalExit Secession Movement is Doomed
+24109,1,Celebrities Melt Down on Twitter During First Presidential Debate
+24508,1,**Live Wire** Jihad in Orlando: How Can We Prevent Another Pulse Massacre? - Breitbart
+24529,1,In Blue California, Democrats On Verge Of Supermajorities
+24578,1,Photos: California Protesters Burn American Flag, Donald Trump Responds - Breitbart
+24790,1,CAIR Honcho Explodes at Breitbart: ‘You Are Anti-Muslim Bigots’
+25295,1,Washington Post Promptly Declares Hillary’s Health ’Real Issue’ After Calling it ’Conspiracy’ - Breitbart
+25399,1,Gang Members Told to Steal $5000 and a Gun Per Day - Breitbart
+25442,1,Theory: Ted Cruz is Lead Singer of Christian Metal Band Stryper - Breitbart
+25570,4,Illegal Alien Allegedly Beats Wife to Death in Texas
+25655,5,Muslims Hold Mass Eid al-Adha Prayer at Angels Stadium - Breitbart
+25782,1,Ex-Mafia Boss Shot Dead
+25805,1,Begoggled Beck Attacks Bowl of Cheetos-to ’Look Like’ Trump - Breitbart
+25853,1,Maher: ’Where Are the Liberals’ To Stand Up for Gay People and Women In the Muslim World? - Breitbart
+25936,1,Obama ‘Slow Jams’ Legacy To Combat Donald Trump: ’Orange Is Not The New Black’ - Breitbart
+25976,1,California Primary Projection: Trump 106, Cruz 66, Kasich 0
+26143,1,California Primary: Left’s May Day March Against Trump
+26207,2,Would You Follow Hillary ’To Hell and Back?’ - Breitbart
+26208,1,UN: Islamic State in Mosul Deploying Child Suicide Bombers
+26209,1,’Orange is the New Black’ Cast Tell Trump: ’F*ck You’
+26214,1,Michael Ian Black, Simon &amp Schuster Prepare to Release ’A Child’s First Book of Trump’ Before GOP Convention - Breitbart
+26298,1,Marine Le Pen Approval Ratings Up After Nice Attack
+26401,1,Texas GOP Consultant Calls for Targeting of Breitbart Advertisers
+26402,1,Indian National Accused of Fondling Underage Girls at Disney
+26444,1,***2016 LiveWire*** Trump Slams ’Thugs’ Who Accosted His Supporters - Breitbart
+26536,1,***Horse Race LiveWire*** GOP Candidates Debate in Michigan - Breitbart
+26608,1,‘Get Your Own Rally!’ Obama Frustrated by ’Bill Clinton Is a Rapist’ Protesters - Breitbart
+26661,2,DOJ to Monitor Election Day Polls in 28 States
+26705,2,SAG Awards Nominations: Complete List
+26781,1,Celebrities Curse Up a Storm in Pro-Hillary Music Video
+27008,1,NC Gov McCrory: Local GOP HQ Firebombing ’Can Impact the Democratic Process,’ ’Sign of Intimidation’ - Breitbart
+27107,6,California Professor Calls Trump’s Win ’Act of Terrorism’
+27322,1,***2016 LiveWire*** AG Lynch Testifies Before Congress…Sanders Endorses Hillary…Pence to Campaign with Trump - Breitbart
+27350,1,For Frank Sinatra, Jr. - Breitbart
+27718,2,Rain! California Doubles Water Allocation as Drought Fades
+27786,1,EXCLUSIVE: Colorado County GOP Chair: Errors with Ted Cruz’s Delegate Win, Might Need Do-Over - Breitbart
+27815,1,Jorge Ramos to DREAMers: You Are the ’Rosa Parks of This Time’
+27829,1,California Man Charged with Sexually Assaulting 13-Year Old Slits Throat in Courtroom - Breitbart
+27897,1,Woman Arrested for DUI Hit-and-Run After Posting Mercedes Pic
+27903,1,New California Primary Poll: Trump 41, Cruz 23, Kasich 21 - Breitbart
+27987,1,Former California Gov. Pete Wilson Endorses ‘Not Anti-Immigrant’ Ted Cruz - Breitbart
+28184,2,Post-Dallas, Black Lives Matter Protests Sweep California
+28331,1,Sam Clovis: ‘Weak-Kneed, Lily-Livered Republicans’ Put on ‘Despicable Display of Cowardice’ by Abandoning Trump
+28349,1,California Primary: Democrat Still Says 20% Muslims Back Terror
+28396,1,**Live Wire** Jihad in Orlando: Milo Yiannopoulos at Ground Zero - Breitbart
+28423,5,Veterans Who Died from Agent Orange Exposure Honored at Vietnam War Memorial
+28556,1,’Empire’ to Tackle Black Lives Matter Themes in Third Season
+28702,1,***Live Updates*** Clinton, Sanders Face Off in First Head-to-Head Debate - Breitbart
+28928,1,El Chapo Captured While Trying to Make ‘Narcos’-Style Biopic of His Life - Breitbart
+29039,1,Veteran Commits Suicide in Parking Lot of Long Island V.A.
+29151,1,Donald Trump and Sarah Palin Battle Ted Cruz in Wisconsin, as Paul Ryan Lurks - Breitbart
+29619,1,University Hands Out ’Free Speech Guide’ for ’Safe and Inclusive Environment’ - Breitbart
+29711,1,Michelle Obama Releases Star-Studded Female Leadership Video Same Day Hillary Clinches Nomination - Breitbart
+29713,1,Trump Fans Protest West Hollywood Mayor’s ’Ban’ on The Donald
+29951,1,Orthodox Jewish Man Slashed in New York Subway Station - Breitbart
+30033,1,Latino Journalist Slams Donald Trump, in Spanish, Starts ’Race Riot,’ in Commencement Speech - Breitbart
+30037,1,***College Football Playoff Live Updates*** Clemson, Alabama Advance to National Title Game - Breitbart
+30084,1,WATCH: Meryl Streep Dons Fat Suit and Orange Makeup to Play Donald Trump - Breitbart
+30365,1,Deadly Tree Crash on Wedding Party in Whittier - Breitbart
+30412,2,20 Most Epic Celebrity Trump Meltdowns of 2016
+30604,1,Brexit: Shakespeare Was Dead Right About Lawyers...
+30664,1,Netflix Drops 18 Classics in Two Years After Halving Its Library in Favor of Original Content - Breitbart
+30732,1,Dr. Sebastian Gorka: ’World Is on Fire’ with Attacks from Middle East to U.S.
+30787,1,At Auto Show, Obama Praises ‘Cool’ Minivan and GM Electric ’Bolt’ - Breitbart
+31137,1,Parents Start Shoving Match During Easter Egg Hunt at Pez Headquarters - Breitbart
+31207,1,Top Twenty Sexual Crimes Committed at Target Stores - Breitbart
+31268,1,Comedian Wanda Sykes Booed Off Stage after Anti-Trump Rant
+31298,1,Davi: Donald Trump Can Revive Reagan’s ’Informed American Patriotism’ - Breitbart
+31535,1,Lee Stranahan: My Weekend Incarceration in a Baton Rouge Prison
+31585,1,Alabama, Clemson back in national title game
+31589,2,21 rescued from California theme park ride
+31632,1,The agony of Earth’s hottest year
+31678,1,China issues first-ever red alert for fog
+31751,1,Winter storm moves up East Coast
+31754,1,College Football Championship: Everything you need to know
+31799,4,Orlando police officer killed sheriff’s deputy dies during manhunt
+31827,2,Orlando tragedy: Two officers remembered
+31881,1,Nutella defends palm oil, deemed a ’potential health concern’
+31919,1,Orlando officer gets a final honor at funeral
+31944,1,Obama’s advice to Trump on being president
+31962,3,Lemons teach about breast cancer
+31992,1,CNN 10 - January 18, 2017
+32032,1,Suspect in Orlando cop killing hurt police chief says he resisted arrest
+32281,2,Stars get animated on SAG Awards red carpet
+32286,1,SAG Awards find unifying theme in addressing Trump policies
+32289,1,’Stranger Things’ star’s speech gets crowd on feet after show’s surprise SAG Award win
+32296,2,SAG winners list: Who won what
+32332,1,This graphene dress lights up when you breathe
+32616,1,Grammys 2017: Adele and Beyoncé’s big moments
+32627,2,A Tribe Called Quest had the most political moment of the Grammys
+32689,1,CNN 10 - February 16, 2017
+32698,3,Suspect in Orlando officer’s killing indicted
+32706,1,’Day Without Immigrants’ shuts down businesses
+32731,2,Deadly storm slams Southern California
+32831,1,Saving the manatee: Should they be listed as endangered?
+32969,1,Why Trump is skipping the White House Correspondents’ Dinner
+32972,1,Fernando Alonso: ’I can’t stop racing - it’s like a drug’
+33030,1,Jewish center bomb threats: What the callers said
+33113,1,Wildfires Fast Facts
+33150,1,Newly arrived Afghan family freed after 4 days
+33279,1,Intruder breaches White House grounds, arrested near residence entrance
+33281,1,Arson suspect thought shop owners were Muslim
+33312,1,Judge orders release of WH fence jumper, GPS monitoring
+33373,2,Markeith Loyd case: State attorney removed
+33405,1,Meet ’Sesame Street’s’ muppet with autism
+33418,1,Why this Persian New Year is different
+33540,1,CNN 10 - March 27, 2017
+33588,1,CNN 10 - March 29, 2017
+33643,1,Rainbow flag creator Gilbert Baker dies at 65
+33710,2,Prosecutor’s cases reassigned over death penalty stance
+33901,1,Prosecutor sues Florida governor over death penalty cases
+33967,1,Baseball hall-of-famer saved by heart from NFL player who died
+33969,1,Braves begin new chapter at SunTrust Park
+33991,1,Trump supporters, opponents clash in Berkeley
+34167,1,California judge OKs Cummins’ move back to Tennessee
+34208,1,Trump’s Canada tariff is Samantha Bee’s fault
+34263,1,Prosecutor: ’Brutal’ genital mutilation won’t be tolerated in US
+34418,6,Are Republicans more likely to prefer pulp in their orange juice?
+34494,1,In Trump’s America, comedians lead the resistance
+34595,5,25 great white sharks spotted off California coast
+34629,1,London Underground Fast Facts
+34795,2,Washington, DC Metro System Fast Facts
+34937,1,Joe Namath Fast Facts
+35078,1,Toxic foam floods the streets of Bangalore
+35089,1,Tiger Woods dashcam video: Golfer stumbles, appears confused
+35140,1,Golden Gate Bridge Fast Facts
+35216,1,Gunman ’singled out’ victims in Orlando shooting spree
+35229,1,What we know about Reality Winner
+35291,1,Who put this here?
+35299,1,Accused leaker Reality Winner pleads not guilty
+35380,3,’Hearts and minds changed’
+35493,1,Smiling faces of London missing haunt those left
+35514,1,Early vote tally foretells soaring turnout in most expensive House race ever
+35608,2,Disney alligator attack: Resort to add warning signs, source
+35633,1,Disney installs alligator warning signs
+35646,1,Alabama county refuses to lower flag to honor Orlando victims
+35654,4,Pulse shooting victims honored at funerals
+35664,1,Florida prosecutor suspended after Facebook rant
+35670,1,Dads stack Cheerios on babies’ heads because ...dads
+35722,1,Wildfires and deadly heat wave hit Southwest U.S.
+35742,1,Orlando nightclub massacre: Friend says he told FBI about Mateen
+35746,1,Rebounding after tragedy: Will Orlando club reopen?
+35890,1,Istanbul airport attack: 36 dead, 147 injured, Turkish officials say
+35922,1,Istanbul terror attack: 42 killed nation mourns
+36107,1,Super Typhoon Nepartak slams Taiwan
+36268,1,Emmy nominations: ’People v. OJ’ scores big
+36546,1,Lena Dunham and other stars team up for ’Humanity for Hillary’
+36708,1,Orlando wants to buy Pulse nightclub, turn it into memorial
+36768,1,Pulse nightclub massacre: Orlando gunman shot 8 times
+36886,1,’Grim Sleeper’ killer sentenced to death
+36943,1,Jerry Sandusky begins appeal
+36947,1, Protests break out in Milwaukee after officer fatally shoots man
+37042,1,Little boy in Aleppo a reminder of war’s horror
+37082,1,Two faces of the Syria tragedy
+37137,1,Frank Ocean long-awaited album is here and it’s called ’Blonde’
+37141,1,Donald Trump: America’s one-night stand
+37165,2,Florida Disney alligator saw boy as prey, report says
+37225,2,College Football Playoff Fast Facts
+37299,1,Why China’s elite want to live in these
+37367,1,Orlando Pulse 911 caller: Gunshots ’going like crazy’
+37411,1,Polaris recalls two off-road models due to fire hazard
+37418,1,A reel honor: Scientists name new fish after Obama
+37522,3,Clinton, press do awkward dance at 30,000 feet
+37671,1,Medical board charges well-known pediatrician with negligence
+37677,1,A fun and fiery barbershop conversation with ’Killer Mike’ and 6 friends
+37690,1,UNC student says she was raped by football player
+37714,1,UNC football player turns self in on sexual battery charge
+37726,1,Ohio officer kills robbery suspect, 13, who had BB gun, police say
+37758,1,What Trump’s birther comments really meant
+37783,1,Harvest moon dazzles worldwide
+37791,1,UNC misconduct policy faces new scrutiny
+37883,1,How to live to 100
+37898,1,How this Muppet is changing lives in war-torn Afghanistan
+38004,6,Department of Veterans Affairs Fast Facts
+38212,1,Hurricane Matthew: Weather service issues dire warning
+38301,1,#MuslimsReportStuff trends after Trump’s comments
+38399,1,Boston’s art installation takes on refugee crisis
+38457,2,Trump ratchets up ’rigged election’ claims, which Pence downplays
+38476,5,Local GOP office in North Carolina firebombed
+38577,1,California shooting: 1 dead, 2 wounded near LA-area polling station
+38876,1,Ex-NBA Star Dennis Rodman charged with hit and run
+39042,2,Tennessee fires force evacuations in Gatlinburg
+39145,1,Beloved Aleppo clown killed in airstrike
+39213,1,Justin Ross Harris sentenced to life for son’s hot-car death
+39362,1,Taraji P. Henson and other stars to honor giving
+39445,1,Screen Actors Guild Awards Fast Facts
+39547,1,Why 2016 was the year of the colored diamond
+39548,1,Orania: South Africa’s whites-only town
+39810,1,Search for AirAsia victims resumes
+39822,1,30 bodies, window panel found in AirAsia search
+39901,1,Smoke shuts down D.C. Metro station
+40015,1,ISIS threatens to kill 2 Japanese hostages
+40072,2,Measles outbreak at Disneyland grows
+40117,1,Number of measles cases growing, California says
+40130,1,ISIS claims it’s beheaded one Japanese hostage
+40154,2,SAG Awards: See who’s nominated
+40179,2,’Birdman,’ diversity, speech big moments at SAG Awards
+40191,1,Purported ISIS post threatens Japanese, Jordan captives
+40201,1,ISIS sets new prisoner handover deadline, post claims
+40248,1,Video: ISIS purportedly beheads Japanese hostage
+40267,1,Video: ISIS purportedly beheads Japanese hostage
+40386,2,Fall 2015 trend guide
+40406,1,Egypt says it hit ISIS targets in Libya after killings
+40533,1,Stolen NASCAR Chevy found in Georgia
+40573,2,The 13th Juror: Boston bomber’s trial a horror show
+40601,1,ISIS goes global
+40625,1,ISIS video claims to show child killing Palestinian man
+40642,1,3 accused in pay-to-stay schools for Asian students
+40668,1,What happened the night of the Secret Service crash?
+40882,1,Robert Durst denied bail new details emerge in case
+40970,1,Stop drinking soda, for (your own) good
+41026,4,Best and worst foods to eat when sick
+41054,1,Black box shows co-pilot Lubitz sped up plane’s descent
+41084,1,Fire engulfs industrial buildings in Louisville
+41093,1,Kenyan student rescued after two days in closet
+41111,1,Government names Kenya attack mastermind
+41178,1,Pacers’ Chris Copeland stabbed near NYC club
+41197,7,California judge faces recall try over rape sentence
+41343,1,Veterinarian posts FB photo of cat shot with arrow
+41360,2,ISIS executes more Christians in Libya, video shows
+41431,2,Culture’s transgender ’moment’
+41439,1,How to get kids to eat healthy school lunches
+41453,2,In Weinstein hostage ordeal, help from Congress
+41457,1,Correspondents dinner: Barack Obama has one mean wit
+41462,1,Tsarnaev trial: The middle finger seen ’round the world
+41484,1,BP spill: Cultivating demand for raw oysters from Gulf
+41610,1,After Nepal quake: Heaven, dotted with pockets of hell
+41697,1,David Letterman: Top 10 reasons he’s a comedy god
+41797,1,Volcano erupts on Galapagos where Darwin worked
+41817,3,Not just prunes: foods to help you get regular
+41870,1,’Foxcatcher’: The crazy du Pont next door
+41885,1,What’s streaming on Netflix, Amazon Prime in June
+41974,1,Chinese cruise ship capsized quickly, survivor says
+41996,1,Dehydration is a real health threat
+42016,1,Chinese cruise ship victims’ relatives go to wreck site
+42104,1,No, America shouldn’t go metric
+42196,1,Indie-rap veteran Pumpkinhead dead at 39
+42292,1,Tamir Rice report: No proof officer warned before shots
+42378,7,Orange: The new black in Bangladesh?
+42430,1,Why are we obsessed with Rachel Dolezal? (Opinion)
+42466,1,James Holmes trial: tears, then prosecution rests
+42482,1,Dad, I know you’ll make it home (Opinion)
+42526,3,’OITNB’ star Taylor Schilling injury during sex scene
+42576,1,North Korea faces historic drought, famine
+42602,4,Springsteen to the Monkees: Unexpected Vietnam anthems
+42632,1,Jeb Bush touts record on guns
+42640,1,Cruz seeks to harness conservative outrage
+42693,3,Texas alligator attack: Man killed in Orange County
+42715,1,Are shark attacks on the rise? (Opinion)
+42760,1,Are parents at kids’ sports games harmful? (Opinion)
+42785,2,Why Tom Selleck deserves his #droughtshaming (opinion)
+42814,2,Alligator involved in deadly Texas attack is killed
+42830,1,Jeb Bush: Not slowing down on raking in the cash
+42836,1,Wild animals make themselves at home
+42841,1,Drones visit California wildfire, angering firefighters
+42937,1,Kick ’em Jenny: Underwater volcano rumbles to life off Grenada
+42986,1,Opinion: Feel disrespected? Pull a gun
+43651,2,The most popular items at Trader Joe’s
+43937,1,DEATH OF THE FOOD COURT: Iconic mall chains like Cinnabon, Sbarro, and Panda Express are transforming to survive
+44079,9,Only 3 major services let you stream live TV over the internet — here’s how they compare
+44414,1,An on-demand delivery startup has started selling healthy fast-food out of a former McDonald’s
+44509,1,Starbucks is entering a new era — and 4 jokes reveal the biggest problems haunting its business
+44555,6,14 foods you can eat as much of as you want and not gain weight
+44594,1,A hacker has leaked 10 stolen episodes of ’Orange Is the New Black’ season 5 after Netflix allegedly refused to pay ransom
+44765,1,Silicon Valley’s ultimate status symbol is the sneaker — here are the rare, expensive, and goofy sneakers worn by the top tech CEOs
+44802,1,Hackers are holding a Disney movie for ransom, according to CEO Bob Iger
+44864,1,Inside Facebook’s plan to eat another $350 billion IT market
+44868,1,Meet the small group of men who are risking everything to destroy ISIS
+44870,1,A former special forces sniper is taking up a new fight — protecting one of the world’s most endangered species
+44913,1,If a nuclear bomb explodes nearby, here’s why you should never, ever get in a car
+45256,1,I was a homeless worker at a San Francisco tech company
+45359,1,BMW designer: The next step is to make technology vanish
+45382,1,Here are all the winners at the 2016 Golden Globes
+45490,1,A Taco Bell exec who was fired after allegedly attacking an Uber driver is now suing him for $5 million
+45559,1,3 California inmates pulled off an unreal escape from a maximum-security jail using bedsheets
+45694,1,A hedge fund has laid out why it is closing — and it is enough to set alarm bells ringing everywhere
+45732,5,The Broncos made a surprising decision for the Super Bowl, and it shows the game is in their head
+46350,1,A groundbreaking technology will soon let us see exactly what is in our food
+46616,1,How a major Democratic group is deploying celebrities to shape the 2016 race
+46709,1,Cleveland’s police union released a bizarre statement on the $6 million settlement paid out for the police shooting of a 12-year-old boy
+46768,4,If you don’t think this man can get Donald Trump elected, you should reconsider
+47003,1,Here’s the trailer for ’Equity,’ the new movie about a badass female banker
+47370,1,How a Chinese power couple created a fast-food chain that’s 3 times more profitable than In-N-Out
+47461,2,2 reasons California’s drought hasn’t caused food prices to skyrocket
+47633,1,Video footage of Alton Sterling and Philando Castile’s deaths may not hold up in court
+47678,2,Fast food still includes an ingredient with no purpose and plenty of negatives
+47775,1,Donald Trump uses first night of GOP convention to stir his base into a frenzy
+47794,1,Chipotle made one mistake over the years that’s costing it a ton of customers now
+47854,1, No one wants to buy this bizarre house in a wealthy San Francisco suburb
+47872,1,A startup backed by the hero of ’The Big Short’ is attempting to bring Wall Street to Main Street
+48047,1,I followed Barack Obama’s morning routine for a week, and it taught me a valuable lesson about mental toughness
+48241,2,’You’re at war’: I went inside the new TSA Academy, where officers learn to detect bombs, spot weapons, and find out why failure isn’t an option
+48258,1,Maine Governor goes off about ‘black and Hispanic’ drug dealers when asked about his negative ’rhetoric’
+48364,2,Here’s how cops actually trace a gun
+48481,1,You could never drink water and still technically survive
+48489,4,UNC linebacker turns himself in to police a day after the sophomore accusing him of rape held a press conference
+48887,13,Orange juice is being called a massive scam — and now it’s disappearing from breakfast in America
+48918,2,Clinton and Trump had 2 very different reactions to the firebombing in North Carolina
+49282,1,I learned the meditation technique taking over Wall Street and now I get why traders are willing to set aside 40 minutes a day
+49593,1,Here’s the presentation David Einhorn just gave to a room of elite hedge fund managers
+49619,2,We ranked everything on the Chick-fil-A breakfast menu — and the best thing isn’t even the chicken
+49811,1,I found the best fried chicken sandwiches of 2016
+49841,1,The Key to Putin’s Cyber Power
+49947,1,Inside LAX’s New Anti-Terrorism Intelligence Unit

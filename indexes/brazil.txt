@@ -1,0 +1,704 @@
+26,1,Istanbul, Donald Trump, Benjamin Netanyahu: Your Morning Briefing - The New York Times
+34,3,Riot by Drug Gangs in Brazil Prison Leaves at Least 56 Dead - The New York Times
+43,2,Trump Appears to Side With Assange Over Intelligence Agencies’ Conclusions - The New York Times
+89,2,The Perfect Weapon: How Russian Cyberpower Invaded the U.S. - The New York Times
+115,1,Hospital Confirms Eric Trump Helped Raise $16.3 Million for It - The New York Times
+116,2,Donald Trump, Fort Lauderdale: Your Friday Evening Briefing - The New York Times
+128,8,Dozens of Inmates Killed as Prison Violence Escalates in Brazil - The New York Times
+156,1,In Election Hacking, Julian Assange’s Years-Old Vision Becomes Reality - The New York Times
+355,5,Death Toll From Brazil Prison Riot Reaches 26 Decapitations Are Seen - The New York Times
+397,1,Brexit, Donald Trump, Chelsea Manning: Your Morning Briefing - The New York Times
+461,1,Most Primate Species Threatened With Extinction, Scientists Find - The New York Times
+480,7,Supreme Court Justice Helping to Oversee Brazil Graft Inquiry Dies in Plane Crash - The New York Times
+591,1,Usain Bolt Stripped of Gold Medal After Relay Teammate Found Guilty of Doping - The New York Times
+642,1,As Migrants Strain Border Towns, Pressure Builds on Mexico to Act - The New York Times
+728,1,Refugees, Quebec, Rodrigo Duterte: Your Morning Briefing - The New York Times
+768,1,25 Great Books by Refugees in America - The New York Times
+855,1,Assailant Near Louvre Is Shot by French Soldier - The New York Times
+1045,1,Losing Hope in U.S., Migrants Make Icy Crossing to Canada - The New York Times
+1082,1,From Trump’s Mar-a-Lago to Facebook, a National Security Crisis in the Open - The New York Times
+1084,1,Trump Sons Forge Ahead Without Father, Expanding and Navigating Conflicts - The New York Times
+1127,2,Corruption Scandals With Brazilian Roots Cascade Across Latin America - The New York Times
+1251,3,Ecuador Votes as Latin America’s Left Sags, a Generation of Icons Gone - The New York Times
+1262,7,Deep in Brazil’s Amazon, Exploring the Ruins of Ford’s Fantasyland - The New York Times
+1266,1,Where the World’s Wealthiest Invest Their Billions - The New York Times
+1281,1,Australia, Libya, North Korea: Your Morning Briefing - The New York Times
+1301,1,President Trump Wants a Wall? Mexico Is It - The New York Times
+1306,1,I Ignored Trump News for a Week. Here’s What I Learned. - The New York Times
+1322,1,As Kelly and Tillerson Visit Mexico, Their Reassurances Differ From Trump’s Stance - The New York Times
+1349,9,Amazon Deforestation, Once Tamed, Comes Roaring Back - The New York Times
+1385,2,Feyisa Lilesa, Marathoner in Exile, Finds Refuge in Arizona - The New York Times
+1410,1,Clashing Agendas: Antidoping Officials vs. U.S. Olympics Leaders - The New York Times
+1421,1,Before Vaquitas Vanish, a Desperate Bid to Save Them - The New York Times
+1475,3,French Vogue’s March Cover Features a Transgender Model - The New York Times
+1512,12,Brazil’s Leaders Tout Austerity (Just Not for Them) - The New York Times
+1533,1,Migrants Confront Judgment Day Over Old Deportation Orders - The New York Times
+1536,1,Torn Ballet Shoes, and a Life Upended - The New York Times
+1637,1,International Women’s Day: Calls to Action, Protests and Words of Praise - The New York Times
+1660,1,Ping-Pong as the Fountain of Youth - The New York Times
+1693,2,Pope Francis Signals Openness to Ordaining Married Men in Some Cases - The New York Times
+1712,7,For Brazil’s Zika Families, a Life of Struggle and Scares - The New York Times
+1713,1,Want to Help Those Coping With Zika? - The New York Times
+1735,1,Donald Trump, Republican Party, Daylight Saving: Your Weekend Briefing - The New York Times
+1867,1,U.S. Breaks With Allies Over Trade Issues Amid Trump’s ‘America First’ Vows - The New York Times
+2103,1,Trump Signs Executive Order Unwinding Obama Climate Policies - The New York Times
+2217,1,FIFA Shares Results of Investigation and Tries to Turn the Page - The New York Times
+2366,9,Special Ops With a Studious Bent Fight Destruction of Brazil’s Amazon - The New York Times
+2535,9,Dilma Rousseff Targeted in Brazil by Lawmakers Facing Scandals of Their Own - The New York Times
+2537,2,Colombia Reports First Cases of Microcephaly Linked to Zika Virus - The New York Times
+2562,9,Brazil’s Lower House of Congress Votes for Impeachment of Dilma Rousseff - The New York Times
+2569,1,Your Monday Evening Briefing: Ecuador, Immigration, Dilma Rousseff - The New York Times
+2650,1,Your Wednesday Evening Briefing: Donald Trump, J. Dennis Hastert, Ted Cruz - The New York Times
+2671,12,Dilma Rousseff, Facing Impeachment in Brazil, Has Alienated Many Allies - The New York Times
+2721,2,‘As Blacks, We Were Born as We Are’: Our Top 10 Comments - The New York Times
+2726,1,Your Weekend Briefing: Transgender Rights, Donald Trump, Doping - The New York Times
+2792,8,Entrusted to Save Brazil: The Party That Ruined Rio - The New York Times
+2806,3,First Arrest Made in Gang Rape Case in Brazil - The New York Times
+2883,1,Do Gorillas Even Belong in Zoos? Harambe’s Death Spurs Debate - The New York Times
+2898,1,A Wizard Comes to the Stage: ‘Harry Potter and the Cursed Child’ Begins Previews in London - The New York Times
+2901,1,Chasing Hiroshige’s Vision of Japan - The New York Times
+2920,3,Delay Pregnancy in Areas With Zika, W.H.O. Suggests - The New York Times
+2986,1,Among Olympians’ Zika Precautions: Fewer Guests, Frozen Sperm - The New York Times
+3053,1,Rory McIlroy Says He Won’t Attend Olympics Over Zika Concerns - The New York Times
+3074,1,European Union, Donald Trump, Bernie Sanders: Your Friday Evening Briefing - The New York Times
+3110,1,‘Brexit’ Is Locking In the Forces That Already Haunt the Global Economy - The New York Times
+3149,1,The Trio to Rio - The New York Times
+3160,1,Taking Refuge in Dollar Could Expose World Economy to New Perils - The New York Times
+3172,1,In New Jersey Student Loan Program, Even Death May Not Bring a Reprieve - The New York Times
+3215,1,France Beats Germany to Reach Euro 2016 Final - The New York Times
+3379,1,Summer Travel and the Zika Virus - The New York Times
+3408,1,Gloomy Days in the Oil Patch, but Some See a Glimmer of Light - The New York Times
+3457,1,U.S. Presidential Race, Bitcoin, Moon Express: Your Wednesday Evening Briefing - The New York Times
+3473,19,Olympic Spirit in Brazil? They Stoned the Torch Relay - The New York Times
+3476,3,A Coup, Terrorists and Inflation, Yet Investors Rush to Turkey - The New York Times
+3479,1,Doping Sample Bottles, No Longer Seen as Tamper-Proof, Endure - The New York Times
+3480,6,Who Will Light the Olympic Caldron in Rio? It Won’t Be Pelé - The New York Times
+3494,5,For the Rio Olympic Games, There’s No Turning Back Now - The New York Times
+3495,3,Even on NBC, Rio’s Colors Can’t Be Airbrushed Out - The New York Times
+3504,13,On Field and in Hometown, Neymar Tries to Change the Narrative - The New York Times
+3537,1,Who’s Got a Carrier to Rival the U.S. Navy’s? (Hint: Not Russia.) - The New York Times
+3588,1,Hard Times in Venezuela Breed Malaria as Desperate Flock to Mines - The New York Times
+3597,2,Olympian’s Mother Leaves a Suitcase at Check-In, and It Is Destroyed - The New York Times
+3598,3,Rio ‘Has Never Felt So Safe.’ But What Happens After the Games? - The New York Times
+3613,5,In the Brazilian Rain Forest, ‘a White Elephant, a Big One’ - The New York Times
+3628,1,Boxing Judges and Refs Removed After Suspicious Results - The New York Times
+3635,2,Miami Beach Zika Cases May Prompt Call to Avoid City - The New York Times
+3636,1,Ryan Lochte, Gawker, Donald Trump: Your Thursday Evening Briefing - The New York Times
+3640,3,This Rio Phenom Would Be a Lock for a Gold. If There Were One for Slacklining. - The New York Times
+3654,4,Ryan Lochte Apologizes ‘for My Behavior’ After Rio Robbery Claim - The New York Times
+3655,1,The Latest on the Ryan Lochte Case - The New York Times
+3666,2,Rio Olympics: Claressa Shields Punches Her Way to Second Gold Medal - The New York Times
+3685,1,D.A. Henderson, Doctor Who Helped End Smallpox Scourge, Dies at 87 - The New York Times
+3690,3,For Those Keeping Score, American Women Dominated in Rio - The New York Times
+3691,4,The Best and the Worst From the Rio Games - The New York Times
+3708,2,Brain Scans of Brazilian Babies Show Array of Zika Effects - The New York Times
+3709,3,Ethiopian Runner Won’t Return Home, but Doesn’t Know Where to Go - The New York Times
+3710,1,Rio Games Highlight Problems With the Olympic Model - The New York Times
+3711,2,With Audience Shrinking, NBC Looks Cautiously to Olympics in Asia - The New York Times
+3724,1,Hackers Publish Nude Pictures on Leslie Jones’s Website - The New York Times
+3777,2,Dilma Rousseff of Brazil Says She Won’t Be Silenced in Impeachment Trial - The New York Times
+3799,7,All Impeachments Are Political. But Was Brazil’s Something More Sinister? - The New York Times
+3897,10,Some See Anti-Women Backlash in Ouster of Brazil’s President - The New York Times
+3936,1,10-Month Ban for Ryan Lochte After Rio Scandal Is Largely Symbolic - The New York Times
+3980,7,‘Lula,’ Brazil’s Ex-President, Is Charged With Corruption - The New York Times
+4057,1,An English Soccer Club Turns Fantasy Sports Into Reality - The New York Times
+4150,4,Hoboken Train Crash Kills 1 and Injures Over 100 - The New York Times
+4181,4,Husband of Hoboken Crash Victim Struggles to Tell Their Child - The New York Times
+4245,1,‘Doomocracy’ Puts the Politics of Fear on Display in Brooklyn - The New York Times
+4409,1,Fans Flock to Town That Inspired ‘Gilmore Girls’ - The New York Times
+4567,1,Raccoons in Central Park Draw Crowds, and Warnings to Stay Away - The New York Times
+4599,4,Donald Trump, President Obama, J.K. Rowling: Your Friday Briefing - The New York Times
+4601,8,‘There’s No Law on the Amazon’: River Pirates Terrorize Ships by Night - The New York Times
+4602,1,Intensified by Climate Change, ‘King Tides’ Change Ways of Life in Florida - The New York Times
+4612,2,Trump, Sessions, Pompeo, Flynn: Your Friday Evening Briefing - The New York Times
+4651,3,Jurgen Klinsmann Fired as U.S. Soccer Coach - The New York Times
+4668,2,Microcephaly Found in Babies of Zika-Infected Mothers Months After Birth - The New York Times
+4674,1,Bruce Arena, Replacing Jurgen Klinsmann as U.S. Coach, Keeps Things Simple - The New York Times
+4711,4,Hungry Venezuelans Flee in Boats to Escape Economic Collapse - The New York Times
+4717,10,Potential Conflicts Around the Globe for Trump, the Businessman President - The New York Times
+4755,1,Trump, Gatlinburg, Fidel Castro: Your Tuesday Evening Briefing - The New York Times
+4758,1,A History of Air Disasters Involving Sports Teams - The New York Times
+4779,3,Doomed Jet Carrying Brazilian Team Reportedly Ran Out of Fuel - The New York Times
+4845,4,Supreme Court Justice Removes Brazil’s Senate Leader Amid Graft Case - The New York Times
+4885,1,Peter Vaughan, Maester Aemon in ‘Game of Thrones,’ Dies at 93 - The New York Times
+4931,1,Donald Trump Says His Company Will Do ‘No New Deals’ During His Term - The New York Times
+4974,5,A ‘Stonehenge,’ and a Mystery, in the Amazon - The New York Times
+4993,1,Craig Sager, Colorful N.B.A. Sideline Reporter, Dies at 65 - The New York Times
+5114,1,Denying Conflict, Trump Family Tries to Resolve Potential Problems - The New York Times
+5148,1,Cristina Fernández de Kirchner Indicted Again on Corruption Charges - The New York Times
+5200,3,Fight to Impeach Brazil’s Leader Tears at Fabric of Daily Life - The New York Times
+5206,1,Your Monday Briefing: Bernie Sanders, Dilma Rousseff, Ecuador - The New York Times
+5280,11,Brazil’s Graft-Prone Congress: A Circus That Even Has a Clown - The New York Times
+5291,5,Price for a Green Card: $500,000 Stadium Stake - The New York Times
+5389,1,Russia and England Fans Clash Repeatedly at European Championships - The New York Times
+5398,1,Owner of a Modigliani Portrait Is Adamant the Work Isn’t Nazi Loot - The New York Times
+5442,3,U.S. Must Dig Deep to Stop Argentina’s Lionel Messi - The New York Times
+5448,1,Hillary Clinton, Donald Trump, Cleveland Cavaliers: Your Wednesday Evening Briefing - The New York Times
+5484,1,Jason Day, World’s Top Golfer, Pulls Out of Olympics Over Zika Fears - The New York Times
+5596,1,Obama’s Support of Erdogan Is a Stark Reminder of Turkey’s Value to U.S. - The New York Times
+5602,1,Attacker in Nice Plotted for Months and Had Accomplices, French Prosecutor Says - The New York Times
+5625,1,4 Zika Cases in Florida Were Likely Spread by Local Mosquitoes, C.D.C. Says - The New York Times
+5641,23,As ISIS Posts in Portuguese, U.S. and Brazil Bolster Olympics Security - The New York Times
+5678,4,Expulsions of Protesters at Rio Olympics Draw Rebukes - The New York Times
+5710,1,Hacker Releases More Democratic Party Documents - The New York Times
+5716,2,Ryan Lochte and Three Teammates Robbed at Gunpoint - The New York Times
+5736,5,American Swimmers Pulled Off Plane in Rio - The New York Times
+5740,11,U.S. Swimmers’ Disputed Robbery Claim Fuels Tension in Brazil - The New York Times
+5752,16,Brazil Gets an Ounce of Revenge on Germany - The New York Times
+5755,1,How to Link Rio Games’ Top Stories: Just Add Water - The New York Times
+5762,1,Ryan Lochte Dropped by Speedo USA and Other Retailers - The New York Times
+5776,1,In Florida Keys, Some Worry About ‘Science and Government’ More Than Zika - The New York Times
+5780,1,Simple Rules for Healthy Eating - The New York Times
+5812,2,Donald Trump, Dilma Rousseff, Cuba: Your Wednesday Evening Briefing - The New York Times
+5861,2,Obama on Climate Change: The Trends Are ‘Terrifying’ - The New York Times
+5930,1,Obama Sees ‘Personal Insult’ if Blacks Don’t Rally for Hillary Clinton - The New York Times
+5945,1,Corey Lewandowski Continues to Be Paid by Donald Trump’s Campaign - The New York Times
+5971,1,First Clinton-Trump Debate Is Framed by Rifts Over Race and Gender - The New York Times
+6057,2,Highlights From the Clinton Campaign Emails: How to Deal With Sanders and Biden - The New York Times
+6123,1,Hillary Clinton Assails James Comey, Calling Email Decision ‘Deeply Troubling’ - The New York Times
+6237,1,Thousands of Mourners Celebrate Gwen Ifill’s Tenacity and Grace - The New York Times
+6251,1,Donald Trump, Chattanooga, Mosul: Your Tuesday Evening Briefing - The New York Times
+6252,2,Zika Looms in Asia, Tempered by a Fuller View of Its Dangers - The New York Times
+6294,19,Chapecoense Soccer Team’s Plane Crashes, Leaving Brazil Devastated - The New York Times
+6448,1,Trump Organization Moves to Avoid Possible Conflicts of Interest - The New York Times
+6479,1,Portrait of George Michael Fills Out, Showing Pitfalls of Fame and Quiet Generosity - The New York Times
+6502,1,The xx Lets the Sunshine In - The New York Times
+6539,10,With Brazil in Turmoil, Rio Counts Down to Olympics - The New York Times
+6555,2,Gisele Inc. - The New York Times
+6599,1,Money, Jobs and Sovereignty: Myth vs. Reality Ahead of ‘Brexit’ Vote - The New York Times
+6610,1,Globally, Orlando Attack Strikes Now-Familiar Fault Lines - The New York Times
+6621,1,C.D.C. Reports 234 Pregnant Women in U.S. With Zika - The New York Times
+6635,2,Abortion Pill Orders Rise in 7 Latin American Nations on Zika Alert - The New York Times
+6647,1,Central Banks Worry About Engaging World Markets After ‘Brexit’ - The New York Times
+6651,1,Lionel Messi and Argentina Miss Again as Chile Wins Copa América - The New York Times
+6724,3,Concerned About Zika, More Top Tennis Players Are Skipping Olympics - The New York Times
+6727,9,Brazil Arrests 10 in Terror Plot as Olympics Near, Officials Say - The New York Times
+6739,2,3 Top D.N.C. Officials Leave as Upheaval After Email Breach Continues - The New York Times
+6758,1,States Vie to Shield the Wealth of the 1 Percent - The New York Times
+6776,4,Rio Olympics: Green Pools Caused by Hydrogen Peroxide Dump - The New York Times
+6785,3,João Havelange, Who Built and Ruled World Soccer With Firm Hand, Dies at 100 - The New York Times
+6787,1,Louisiana, U.S. Presidential Race, Ryan Lochte: Your Wednesday Evening Briefing - The New York Times
+6788,4,Rio Olympics: U.S. Basketball, Swimmers Detained, and the Women’s 200 - The New York Times
+6803,3,Reflections From Rio - The New York Times
+6827,1,U.S. Presidential Race, Apple, Gene Wilder: Your Tuesday Evening Briefing - The New York Times
+6830,16,Dilma Rousseff Is Ousted as Brazil’s President in Impeachment Vote - The New York Times
+6859,1,Catfished by a Catfish: 1 in 5 Seafood Samples Is Fake, Report Finds - The New York Times
+6927,1,Met Picasso Belonged to Family That Fled Nazis, Suit Says - The New York Times
+6937,1,The Editorialists Have Spoken Will Voters Listen? - The New York Times
+6992,1,Disappointed in Rio, Tatyana McFadden Returns to Form in New York City Marathon - The New York Times
+7010,1,Russia Prepares to Block LinkedIn After Court Ruling - The New York Times
+7011,1,Grappling With the Language of Love - The New York Times
+7020,1,Ahead of Trump Presidency, Global Investors Sell Bonds and Grab Stocks - The New York Times
+7029,1,Fake News in U.S. Election? Elsewhere, That’s Nothing New - The New York Times
+7033,5,Zika Is No Longer a Global Emergency, W.H.O. Says - The New York Times
+7047,1,Trump Inches Toward Naming Domestic Cabinet Members - The New York Times
+7059,1,Many in Florida Count on Obama’s Health Law, Even Amid Talk of Its Demise - The New York Times
+7064,1,Under Fidel Castro, Sport Symbolized Cuba’s Strength and Vulnerability - The New York Times
+7074,1,OPEC, Donald Trump, Nancy Pelosi: Your Wednesday Evening Briefing - The New York Times
+7088,1,Taiwan City Planning a Makeover Says a Trump Agent Showed Interest - The New York Times
+7100,1,The Best Movies of 2016 - The New York Times
+7127,1,Congressman Proposes National Surveillance Program After Trump Meeting - The New York Times
+7146,1,In Shadow of Amazon, European Challenger Looks to China for Inspiration - The New York Times
+7287,1,Zika Virus Case in Utah Baffles Health Officials - The New York Times
+7437,2,Donald Trump in the White House: Will He Bring Steve Bannon With Him? - The New York Times
+7502,4,A Charity Auction for Coffee With Ivanka Trump Appears to Be Canceled - The New York Times
+7509,2,Berlin, Russia, Narendra Modi: Your Morning Briefing - The New York Times
+7526,2,Wife and Her Lover Are Arrested in Killing of Greek Envoy in Brazil - The New York Times
+7541,1,Paul Simon’s Ambition, and Inspiration, Never Gets Old - The New York Times
+7563,3,Rio Drug-Testing Lab Is Suspended by Antidoping Regulator - The New York Times
+7588,15,A Young Syrian Torchbearer Highlights Brazil’s Embrace of Refugees - The New York Times
+7589,7,For This Choreographer, the Olympics Are the Zenith - The New York Times
+7590,2,And the Rio Crowd Goes Crazy! For Whatever! - The New York Times
+7621,1,Hillary Clinton, Zika, Syria: Your Monday Evening Briefing - The New York Times
+7628,1,Climate Change Threatens World’s Coffee Supply, Report Says - The New York Times
+7763,1,Mortgage Rates’ Rise Catches Home Buyers — and Lenders — Off Guard - The New York Times
+7766,3,Opponent in Finals Requests Chapecoense Be Awarded the Title - The New York Times
+7797,1,Rio Olympics: Ashton Eaton and Usain Bolt Defend Titles - The New York Times
+7971,1,Fake News: CNN’s Zucker Claims Network’s Credibility ’Higher Than Ever’ - Breitbart
+8624,1,Was Hillary Clinton’s Nomination Legitimate? Six Reasons to Say No - Breitbart
+9070,1,Democratic Leaders Nervous About Overreach as Members Push for Trump Impeachment
+9071,1,DELINGPOLE: Rules for Righties -- a War-Winning Manifesto for 2017
+9106,1,Trump Considering ’Explosive’ Executive Order on Unfair Trade
+9167,2,More Than ’Chaos’: Terror Ties Make Venezuela Direct Threat to USA, Former UN Security Council President Says - Breitbart
+9538,2,Pakistani Man Pleads Guilty to Smuggling Fellow Countrymen Into U.S.
+9735,1,EXCLUSIVE - Benghazi Hero Kris Paronto: Susan Rice ’Needs to Be in Jail’ to Show Politicians ’They Are No Longer Untouchable’
+10436,8,Donna Brazile Suggests Snowstorm Stella Could Hurt Trump Politically
+11811,1,Whistleblower Accuses Venezuela of Issuing Passports to Terrorists in CNN Interview - Breitbart
+11983,2,Brazile: Trump has ‘Enormous’ Opportunity to Find Common Ground with Dems - Breitbart
+12132,2,Donna Brazile: Democrats Are Not Overreaching With Russia-Trump Questions - Breitbart
+12592,1,Broken Democratic Party’s New Message: Donald Trump is the ‘Establishment,’ Not Really ‘Populist’
+12695,1,PHOTOS: Latin America Condemns Venezuela’s ’Excessive Use of Force’ Against Protests - Breitbart
+12820,2,Unity in Division: Tom Perez Named DNC Chair, Selects Keith Ellison as Deputy Chair
+12894,4,Brazil Suspends Sales of Tear Gas to Venezuela amid Increasing Police Violence - Breitbart
+13285,1,Venezuela: Indigenous Shamans Invoke Ancient Curse Against Socialists in Amazon Protest - Breitbart
+13287,2,Study: 2024 Olympics Would Boost L.A. Economy by $9.5 Billion
+13375,1,It’s Official: Los Angeles Traffic is the World’s Worst
+13930,1,DNC Chair Race: Candidates Set to Debate in CNN Forum
+14027,1,African Migrants Surge to U.S. Via Mexico Ahead of Trump
+14123,3,Report: DNC Purges All Staff - Breitbart
+14142,1,Coulter: Dems Upset Over Alleged Russian Election Interference Because They Think They’re the Only Ones Allowed to Rig Elections - Breitbart
+14180,1,Ronda Rousey is Defeated 48 Seconds into Comeback at UFC 207 - Breitbart
+14188,2,**Georgia Special Election Livewire** Democrat Ossoff Versus Republican Handel - Breitbart
+14267,2,Venezuelan Migrant Crisis Hits the Globe from Brazil to Israel
+14593,1,A Hard Brexit Could Create 400,000 Jobs
+15004,9,Donna Brazile Admits to Sharing Debate Questions With Clinton Camp, Blames Russia
+15452,5,DNC ’War Room’ Against Trump Armed with Former Clinton Staffers - Breitbart
+15598,3,Brazil Probes Second Islamic State Fan Ring
+15731,1,Former Guantánamo Detainee Arrested for Ties to Istanbul Airport Attack
+15782,1,Ann Coulter Lights Wisconsin on Fire for Paul Nehlen, Not Ryan
+15956,1,Zika: Experts Fear ’Mosquitos out the Yin Yang’ in Florida
+16154,1,Lebron James Won’t Play in Rio Olympics - Breitbart
+16168,4,Researchers: Zika May Trick Body’s Immune System to Protect It
+16197,1,Al-Qaeda Said to Urge Attacks on Israeli Athletes at Rio Games
+16310,3,Rio’s ’Sustainable’ Olympics Are Just Lipstick On A Pig
+16327,1,Black Lives Matter UK Leader Funded By Taxpayers - Breitbart
+16338,1,First Time Ever All Refugee Olympic Team Heading to Summer Games - Breitbart
+16425,1,Betsy McCaughey: Olympics in Brazil Will Spread Zika ’Around the World’ - Breitbart
+16517,2,NYU Medical Expert Demands Brazil Delay Olympics over Zika
+16548,1,Peruvian Cardinal Slams UN as ‘Modern-Day Herod’ for Pushing Abortion During Zika Crisis - Breitbart
+16659,2,Experts: Zika Vaccine a Decade Away, but Emergency-Use Version May Exist by 2016
+16764,1,1st Sexually Transmitted Zika Virus Case Confirmed in Dallas County
+16919,1,Who’s Who of Anti-American Elite to Attend Dictator Fidel Castro’s Funeral - Breitbart
+16975,1,International Media Reacts to Trump’s Election - Breitbart
+17236,7,Brazil Says Zika Virus Outbreak Worse than Believed - Breitbart
+17604,6,Brazil to Sterilize Zika Mosquitoes with Radiation
+17651,9,Michigan Mother: Hillary Clinton Receiving Advance Debate Question ’Should Be an Automatic Disqualification’ - Breitbart
+17722,4,Brazil: Protests Get Violent as Former President Avoids Trial with Promotion - Breitbart
+17842,1,CNN Editors Help Left-Wing Van Jones Smear CNN’s Pro-Trump Commentator - Breitbart
+17914,1,BBC: Zika Virus Could Become ’Explosive Global Pandemic’ - Breitbart
+17928,1,Thirty-Two Refugees Diagnosed With Active Tuberculosis in Utah - Breitbart
+18040,1,Israel’s Health Ministry Warns Against Pregnancy for Women Visiting Zika-Infected Countries
+18171,1,Mystery Surrounds West Coast Arrival of Zika-Spreading Mosquito - Breitbart
+18172,3,5 Nations in the Americas That Turned Rightward Before the U.S. Elected Trump - Breitbart
+18217,1,Bike Lane Built for Olympics in Rio Collapses, Killing Two
+18259,2,***Dem. Convention LiveWire*** Wasserman Schultz Jeered on ’United Together’ Day - Breitbart
+18305,2,DNC Chair: Although Hillary ’Had To Be Lifted Into That Van,’ She Kept Fighting - Breitbart
+18465,4,Brazil: 30 Men Gang Rape 16-Year-Old, Post Photos on Social Media
+18473,1,Study: Ethanol Worse for Environment Than Gasoline - Breitbart
+18606,1,They Don’t Make Russians Like They Used to (for Democrats, at Least) - Breitbart
+18744,4,Two U.S. Women with Zika Suffer Miscarriages - Breitbart
+18788,2,Donna Brazile: Donald Trump ’Doesn’t Even Look Like Change’ - Breitbart
+18794,1,’Never Trump’ Taps Their Candidate: Bald Unknown Mormon Hill Staffer from Goldman Sachs Who ‘Resettled’ Refugees for UN
+18867,8,Pakistani Man Arrested for Alleged Plot to Bomb Brasilia Airport
+18913,1,’Gays for Trump’ Show Pride at Florida Rallies - Breitbart
+18972,3,It’s Official: Brazil Ousts Impeached President Dilma Rousseff
+19042,1,10 Zika Virus Cases Confirmed in Texas, For Now
+19057,1,CNN’s Brian Stelter: Donna Brazile ‘Embarrassed All of CNN’ - Breitbart
+19071,1,Canada Reports Four Zika Cases
+19097,1,Wikileaks Implies It Will Leak Information About Chief Clinton Campaign Strategist - Breitbart
+19103,1,Four Americans Arrested in Bahrain
+19113,2,’Black Men for Bernie’ Founder to End Democrat ’Political Slavery’ of Minorities
+19234,3,Brazil’s Health Minister: Zika ’More Serious Than We Can Imagine’
+19239,11,The Rio Olympics: Another Embarrassing Mess From Incompetent Globalists - Breitbart
+19407,1,***2016 LiveWire*** Trump v. Obama in Keystone State - Breitbart
+19456,1,Terror Task Force Chair: South America’s Drug Cartels Looking to Work with Terrorists
+19534,4,DNC Chair Brazile: Clinton Fdn Questions Attempt to ’Criminalize Behavior That Is Normal’ - Breitbart
+19581,1,Russian Doctor Accuses Americans of Spreading Zika Worldwide - Breitbart
+19594,2,Missing Ex-Guantánamo Prisoner, Al-Qaeda Fan Found in Venezuela
+19712,1,Experts: Conditions for Zika Outbreak Spread from Texas to Maryland - Breitbart
+19867,4,Olympics Committee Confirms: No Canceling Games over Zika
+19878,1,Djokovic, Nadal Reach Milestones at French Open - Breitbart
+19888,1,Record Tourism in 2015: Over 2 Million Foreign Visitors Travelled to D.C. - Breitbart
+19932,3,Senate Democrats Block Zika Funding Because It Doesn’t Fund Planned Parenthood - Breitbart
+20039,4,African Researchers Use Ebola Tactics to Help Fight Zika
+20067,3,Wikileaks’ Emails Validated in Routine Tests, As Democrats Try to Discredit Revelations - Breitbart
+20213,5,Officials Fear Return of Zika as Brazil Enters ’Rainy Season’
+20227,3,Zika Cases Appearing Coast to Coast, Nearly All Travel-Related
+20434,1,WikiLeaks, Video: Hillary Clinton Touts H-1B White-Collar Outsourcing Program - Breitbart
+20447,2,NYT: U.S. Flew Brazilian Anti-Terror Agents to Super Bowl for Training
+20479,1,WSJ: ’Nation Now Has Proof’ of Hillary Scandals, But Leftist Media ’Devote Its Front Pages to the Trump Story’
+20532,1,***Live Updates*** GOP Candidates Debate in New Hampshire - Breitbart
+20640,2,Five Crazy Crimes That Have Occurred at Rio Olympics -- Already
+20733,2,WATCH: Congressman Keith Ellison Talks Union Racism - Breitbart
+20766,3,Protesting Teachers Extinguish Olympic Torch in Rio de Janeiro - Breitbart
+20865,2,U.S. Gov’t Sends ’1,000 Spies’ to Help with Olympics Security - Breitbart
+21023,5,Zika in Colombia: Cases Double to 2,100 in One Week
+21038,2,U.S. Public Health Official: Louisiana Flooding Could Help Spread Zika - Breitbart
+21247,4,WHO Declares Zika a Public Health Emergency - Breitbart
+21250,1,***Live Updates*** Trump, Clinton Share Stage at Annual Al Smith Charity Roast - Breitbart
+21251,1,Bitter John Podesta Blames ’Broken’ FBI for Russian Email Hacks - Breitbart
+21498,7,Trump: I’d Get Electric Chair for Cheating Debates Like Hillary
+21662,4,Legalized Abortion May Have Hindered Zika Research
+21727,1,Business That Paid Bill Clinton $17M+ Linked to Nonprofit Funded by Hillary’s State Department - Breitbart
+21769,3,Zika: 4,000 Microcephaly Cases as Brazil Deploys Soldiers
+21771,1,China Steals $8.7 Billion a year in Pirated Software - Breitbart
+21858,2,Brazil: Sao Paulo a ’War Zone’ after Impeachment
+21877,1,***Horse Race LiveWire*** Super Tuesday: Part Deux - Breitbart
+22326,2,Caddell: Voters See DNC/CNN-Type Collusion as ‘Threat to Democracy’
+22604,1,Thousands of Middle Eastern Illegal Immigrants Busted with Forged Papers at Border
+22738,1,Erik Prince: NYPD Ready to Make Arrests in Anthony Weiner Case
+22817,1,Limbaugh Rips Dems, Media for Attacking Trump for ’Rigged Election’ Remarks While Claiming Russians Are Trying to ’Rig’ U.S. Election - Breitbart
+22855,4,Colombia Registers First ’Probable’ Microcephaly Case in Zika Baby
+22981,1,Brazil Hosts ’National Day Against Zika’ as Virus Fears Escalate
+23052,9,Brazil Nears 100,000 Zika Cases Less Than 100 Days from Olympics
+23127,3,Rio de Janeiro: Security Guard Rapes Female Firefighter in Olympic Village - Breitbart
+23305,3,State Dept.: Hezbollah, Islamic State Maintain Presence in Latin America - Breitbart
+23319,4,Brazil’s Leftist Workers’ Party Collapses in First National Election Since Impeachment
+23348,1,Breitbart News Daily: Battle for New Hampshire — Carly, Ed Klein, Ambassador John Bolton - Breitbart
+23434,3,Doctors Find Possible Tie Between Zika and Another Deformity
+23597,1,WATCH: 60s Radical Communist Angela Davis Supports Voting For Hillary - Breitbart
+23618,3,Trump: ’If They Fired Donna Brazile, Why Not Hillary Clinton?’
+23685,2,America Last: 20 American-Born Companies that Have Sold Out to Foreign Interests - Breitbart
+23816,1,Zika: Singapore ’Extremely Vulnerable,’ Russia on Alert
+24268,2,Donna Brazile: ’Chris Christie Prosecuted Marco Rubio’ at the Debate - Breitbart
+24482,1,WikiLeaks: CNBC Host Rebecca Quick Promises to ‘Defend’ Obama Appointee - Breitbart
+24515,2,HYPOCRISY: America Accepts Six Times More Migrants than All Latin American Countries Combined - Breitbart
+24570,2,Rio Officials Turn on Ryan Lochte After Robbery Embarrasses Olympic Security - Breitbart
+24696,1,Opposition Rises Against Rep. Keith Ellison’s Bid to Chair the Democratic National Committee - Breitbart
+24717,1,Disney Providing Free Insect Repellent to Prevent Zika Virus
+24725,1,Two Cases Hint at Possible Sexual Transmission of Zika
+24776,2,Olympics: Brazilian Soldier Killed After GPS Leads Him to Favela
+24779,2,American Women Begin Aborting Babies over Zika Fears
+24806,5,The Pseudohistory, Preachy Environmentalism, and Multiculturalist Pageantry of Rio’s Opening Ceremonies - Breitbart
+24858,11,WikiLeaks: DNC Chair Fed Debate Questions to Hillary Clinton
+24872,2,Hillary’s World: How Clinton’s Foreign Policy Has Destabilized Nearly Every Corner of the Globe - Breitbart
+24883,1,Zika in Jamaica: Warnings of ’Pandemonium’ as Women Take ’Laissez Faire’ Approach
+25007,1,National Institutes of Health: Zika Virus Is a ’Pandemic’
+25026,3,Zika-Related Birth Defects Skyrocket in Colombia as WHO Confirms Link
+25082,3,WATCH: Planned Parenthood Capitalizes on Zika Tragedy to Promote Abortion in Latin America
+25224,1,Former Mexican President Vicente Fox: Trump ‘Already Won’ by Furthering His Brand - Breitbart
+25227,4,Zika Might Keep U.S. Goalkeeper Hope Solo out of the Olympics
+25252,1,Rio Shakedown: U.S. Swimmers Allowed to Leave with $11,000 Payment - Breitbart
+25345,1,Glenn Greenwald: WikiLeaks Emails Show Media’s ’Serious Impropriety’ - Breitbart
+25487,3,Zika Study: ’Prepare for Global Epidemic of Microcephaly’
+25513,1,’Tiririca,’ Brazil’s Clown Congressman, Steals the Show at Impeachment Vote - Breitbart
+25515,3,’SMITE’ World Championship Day 1: First Round Rumble - Breitbart
+25545,2,Obama Threatens to Veto GOP Zika Funding Bill Because It Doesn’t Fund Planned Parenthood - Breitbart
+25639,2,Jesuit Georgetown Joins Planned Parenthood in Promoting Abortion as Zika Remedy - Breitbart
+25658,7,Zika Economics: Brazil Calls Emergency Mercosur Meeting
+25698,1,Cher Compares ’F*cking Idiot’ Donald Trump to Hitler at Clinton Fundraiser - Breitbart
+25736,3,Bobby Knight: In a Trump Administration There Will Be No Bullsh*t
+25799,1,***DNC LiveWire*** Bill Clinton, ’Mothers of the Movement’ Featured ’Anti-Police’ March in Philly - Breitbart
+25886,6,Rio Declares Fiscal Emergency Before Olympics
+25938,1,Zika-Carrying Mosquito Brings Yellow Fever Epidemic to Congo
+26092,2,’My Joints Felt Like Dead Weights’: Zika Tied to Guillan-Barré
+26106,4,Zika: Red Cross Relying on ’Self-Deferral’ to Protect Blood Supply
+26373,1,’Rigged’ Message Gains Steam, Donald Trump Catching Up to Hillary Clinton in Latest Reuters Poll - Breitbart
+26563,2,Zika Virus: Airlines, Cruise Lines Offer Refunds
+26615,2,Texas Health Officials Brace for More Zika Virus Cases After Six Confirmed Statewide
+26649,4,Zika: Leftists Pressure the Americas to Embrace Abortion
+26829,37,***2016 Livewire*** Democrats In Disarray On Eve Of Hillary Clinton’s Coronation Convention in Philadelphia - Breitbart
+26841,9,The Rio Olympics Is Brazil’s Reward for Trusting in Socialism - Breitbart
+26865,10,Damage Control: CNN Chief Jeff Zucker Slams Donna Brazile, Clinton Campaign’s Debate Cheat - Breitbart
+26887,2,Mother of Girls with Microcephaly: ’Your Children Will Be So Much Stronger Than You Think’ - Breitbart
+26905,4,Brazil Parties Through Zika as Carnival Week Approaches
+27058,1,Florida Governor Declares Zika State of Emergency in 4 Counties - Breitbart
+27249,1,Report: Illegal Migrants from Terror-Linked Countries Surging at Southern Border
+27393,5,Five Things That Might Kill You at the Olympics
+27426,2,WikiLeaks: CNN’s Gloria Borger Describes ’GOP Hell,’ Calls John Podesta a ’Star’ - Breitbart
+27472,1,Chinese Officials, White House Staff Screaming on Tarmac Mar Obama’s G-20 Arrival - Breitbart
+27503,8,DNC Chair Brazile: Hillary Speech Leaks ’Crap’ Postmarked From Russia - Breitbart
+27592,1,Dem Rep.: Fire DNC Officials Who Raised Bernie Sanders’s Religion
+27613,7,PHOTOS: Brazilians Burn President in Effigy to Celebrate Impeachment Vote - Breitbart
+27641,3,Journalist with Microcephaly: Call to Abort Zika Babies ’Personally Offended Me’ - Breitbart
+27652,1,28-Year-Old Texas Teacher Accused of Sending Nude Picture to 14-Year-Old Former Student - Breitbart
+27670,3,Argentina Stocks Up on Mosquito-Eating Frog to Fight Zika
+27689,13,Donna Brazile Denies Feeding Hillary Clinton Questions Ahead of CNN Town Hall - Breitbart
+27724,4,Zika Hits Africa: Thousands Test Positive on Cape Verde Island
+27889,5,Portuguese Minister of Education Mugged at Rio Olympics
+27944,1,Newt Gingrich Challenges Megyn Kelly on Anti-Trump Bias in Epic Showdown...Megyn Won’t Call Bill Clinton a ’Sexual Predator’ - Breitbart
+28013,4,Brazil: Congressional Committee Votes to Impeach President
+28031,6,Zika Begins to Hit Brazil’s Tourism Industry, Months Before Olympics - Breitbart
+28056,2,Blue State Blues: Hillary Clinton Can See Russia from Her House
+28134,1,Russia Announces Discovery of First Zika Case
+28203,3,Victims of Zika: How Virus Targets Infants and the Unborn
+28207,1,Border Fence Down: Border Patrol Union Says Breach Brings Terrorist Concerns
+28246,4,Brazil Sterilizes Olympic Stadiums Over Zika Virus - Breitbart
+28365,1,El Salvador Introduces Mosquito-Eating Fish to Zika Fight
+28404,4,Democratic Party Suffers Nervous Breakdown In Philly: The Inside Story - Breitbart
+28415,2,Brazil: Police, Leftist Mobs Clash with Protesters Calling for President’s Impeachment - Breitbart
+28419,5,Facebook Executive Released from Jail in Brazil - Breitbart
+28598,1,Taxpayers Face Billion Dollar Expenses for Zika Babies
+28627,2,9 Scapegoats Progressives Blame for Hillary Clinton’s Stunning Loss - Breitbart
+28729,2,International Media Covers Election Day in America
+28812,4,DNC Chair Brazile: Trump Victory ’Tainted’ By Russian Intrusion - Breitbart
+28874,5,’Panelaço’: Brazilians Drown Out President’s Zika Speech with Pot-Banging Protest - Breitbart
+28972,1,Gingrich Slams Megyn Kelly for Treatment of Trump - ’You Are Fascinated With Sex and You Don’t Care About Public Policy’ - Breitbart
+28986,1,EXCLUSIVE - Syrian Official: U.S. Must Cooperate With Assad Regime To Fight Terror
+29069,1,Breitbart Tech at the ’SMITE’ World Championship: Meet the Teams - Breitbart
+29114,2,***Live Updates*** New Hampshire Primary Results: Trump, Sanders Projected Winners - Breitbart
+29130,2,Brazil’s President Dilma Rousseff: My Impeachment Is Sexist
+29173,8,Brazil Calls In American Experts as Zika Panic Grows - Breitbart
+29201,2,Rio Olympics: Busload of Chinese Reporters Caught in Gunfight
+29202,2,Exclusive -- Donald Trump: Rigged Election Includes Media Bias, Clinton Cheating, and ‘Fact That She’s Even Allowed to Run’
+29248,3,Zika: Brazilian Judge Says Abortions ’Valid’ for Affected Fetuses
+29292,1,’I’ve Been Robbed’: Irish Boxer Leaves Olympic Ring with Middle Fingers Up - Breitbart
+29412,1,German Railway Launches Gender Segregated Carriages In Wake Of Sex Attacks
+29579,8,Brazil President to Christian Leaders: Mention Zika in Sermons
+29604,1,Democratic National Convention Begins with Racial Gatherings
+29645,2,Brazil: Police Say Video Shows Lochte, Swimmers, Gas Station Attendants Fighting - Breitbart
+29646,3,Pregnant Women Defy Zika at Brazil Carnival
+29657,2,Olympics Chaos: Staffers Sold Tickets for Seats That Don’t Exist - Breitbart
+29730,2,Scammers, Bug Spray Companies Capitalizing on Zika Fears - Breitbart
+29797,4,Facebook Calls WikiLeaks Block ’An Accident’ After Accusations Of Censorship - Breitbart
+29801,3,Expert: Rio Water More Dangerous Than Zika - Breitbart
+29802,1,Top DNC Officials Go Down as Convention E-Mail Scandal Rages
+29825,5,Report: Zika Causing Rise in Illegal Abortions in Brazil
+29882,1,FBI Investigate Potential Hack of DNC Staff Cell Phones - Breitbart
+30011,2,Brazil Bans Ryan Lochte from Leaving Country (He Already Left) - Breitbart
+30093,1,Venezuela Confirms Three Zika Deaths, 21 Suffering Related Nerve Disorder - Breitbart
+30133,6,Zumwalt: Trump Announces Administration Posts as Critics Announce ’the Sky is Falling!’ - Breitbart
+30239,1,Study: 43 of the Most Dangerous Cities in the World Are in Latin America - Breitbart
+30339,4,Open Season in Brazil: Formula One Boss’s Mother-in-Law Kidnapped
+30354,1,First U.S. Case of Male-to-Male Sexually Transmitted Zika Virus Confirmed in Dallas
+30357,5,A Month Before Olympics, Former Gitmo Detainee Missing En Route to Brazil
+30430,1,Zika Exposes Environmentalists’ Deliberate DDT Death Toll - Breitbart
+30678,5,University Working on Zika Vaccine in Texas
+30694,1,Pau Gasol: ’Zika Is a Much Bigger and More Serious Threat Than We Think’ - Breitbart
+30716,4,The Pendulum Swings Leftward for the Democrats – And That’s Good News for Donald Trump  - Breitbart
+30726,1,Zika Virus Baffles World’s Health Leaders - Breitbart
+30767,1,Brazil Confirms Case of Zika Infection by Blood Transfusion
+30824,2,Zika Virus: U.S. Military Offering to Ship Pregnant Employees Out of Affected Region - Breitbart
+31035,1,WHO Puts World on Alert over Zika Virus
+31053,1,Shock: 170 Zika Cases in California - Breitbart
+31071,4,Three Pregnant Women Test Positive for Zika in Florida
+31094,1,U.S. Pro-Life Groups Denounce Left’s Embrace of Abortion for Zika Pandemic - Breitbart
+31174,1,Donna Brazile on FBI Re-Opening Clinton Email Investigation: It’s ’Like an 18-Wheeler Smacking into Us’ - Breitbart
+31257,1,6 Zika Cases in California in Last 3 Years - Breitbart
+31308,1,Rio de Janeiro Reporting Two Suspected Zika Cases an Hour
+31458,2,Brazile: Trump Built His Campaign on Mocking Women, Attacking Immigrants, Muslims - Breitbart
+31510,1,Qatar Gives $100,000 to Texas School to Push Arabic Language and Culture
+31543,6,Virologist Who Discovered Zika: ’No Funding’ for Research
+31570,1,Zika Virus Found in Danish Tourist Returning From South America
+31572,2,FLASHBACK: How the Clinton Campaign Demonized Clinton ’Conspiracists’ While Praising the FBI - Breitbart
+31586,1,New year celebrations ring in 2017
+31596,2,Greek ambassador to Brazil killed
+31648,3,Prisoners decapitated in Brazil riot over drug turf
+31765,1,Records all round for Real and Rooney
+31782,4,Brazilian prison riot leaves 4 dead
+31916,3,26 die in latest Brazilian prison riot
+31924,1,Trump rips ’all talk,’ ’no action’ civil rights icon Lewis
+31943,6,28 escape in deadly prison break, officials say
+31961,1,I live in Miami, I’m pregnant, and I tested positive for the Zika virus
+32012,1,CNN 10 - January 19, 2017
+32031,2,Brazil judge overseeing corruption probe dies in plane crash
+32153,1,Edward Snowden Fast Facts
+32161,3,Hide and seek: Feds find $20 million in a mattress
+32222,9,Trump’s wall isn’t Latin America’s only problem
+32460,1,Australia: 7% of Catholic priests abused children, commission finds
+32541,1,Silencing Elizabeth Warren backfires on Senate GOP
+32558,2,Wave of deadly violence follows police walkout in Brazilian city
+32615,2,Nightclub Fires Fast Facts
+33087,2,Being gay in Latin America: Legal but deadly
+33422,2,Paraglider’s near-death experience
+33437,1,Conjoined Twins Fast Facts
+33493,1,Team of blind students battling in robotics competition
+33503,1,Trump has given the EU a chance to lead the world
+33541,1,International Criminal Court Fast Facts
+34007,1,David Beckham Fast Facts
+34058,1,Where are all the women in sailing?
+34089,1,Venezuela protests: What you need to know
+34176,1,HUD Secretary Ben Carson holds firm despite students’ pleas for help
+34180,4,CNN 10 - April 25, 2017
+34411,1,New US embassy designs make a bold statement
+34435,1,Where the search for Madeleine McCann stands
+34581,1,Boston murder suspect suddenly changed, adoptive mom says
+34625,4,Pope John Paul II Fast Facts
+34651,1,Buemi charges to Monaco ePrix win
+34757,5,Brazil’s President, accused of bribery, says he will not resign
+34796,1,Venezuela Fast Facts
+34949,1,International Space Station Fast Facts
+35030,5,Artists and activists call for Brazilian President to resign
+35071,1,Study reveals environmental cost of tobacco
+35119,2,US School Violence Fast Facts
+35332,1,Brazilian President acquitted in illegal campaign funds case
+35405,11,Zika Virus Infection Fast Facts
+35530,1,Trump, America needs Cuba’s business
+35610,11,What you need to know about Zika
+35701,1,2016 Formula One final title standings
+35778,1,In Latin America, requests for abortions rise as Zika spreads
+35864,1,Vladimir Putin: Is this one sporting contest he can’t win?
+35901,2,Jason Day to miss Rio Olympics over Zika virus scare
+35907,1,How to fight environmental crime
+36011,2,Rio mayor: State doing a ’terrible job’
+36038,1,Are these the best buildings in the world?
+36076,6,Rio police tell tourists they won’t be able to protect them
+36103,3,Will Rio Games really be a catastrophe?
+36121,1,Germany sings the blues Marseille celebrates
+36123,1,Chief critic of Brazil’s Dilma Rouseff resigns
+36447,8,Police arrest 12 suspected of planning terrorist acts during Olympics
+36468,3,Dems open convention without Wasserman Schultz
+36480,1,Usain Bolt: Sport needs me to win at Olympics
+36539,1,Sources: US officials warned DNC of hack months before the party acted
+36547,1,IOC should win medal for cowardice
+36556,2,Breaking the ultimate glass ceiling
+36619,9,Rio Olympics: Is Brazil ready for the 2016 Games?
+36654,1,How much are the Rio Olympic gold medals worth?
+36717,1,Colombia to U.S.-bound migrants: We’re deporting you back to Cuba
+36736,1,271 Russian athletes cleared for Rio Games
+36743,1,What are mosquito-control workers spraying in Miami?
+36759,1,Rio 2016 Olympics: Relive the opening ceremony
+36791,1,Yusra Mardini: Refugee swimmer off to flyer
+36793,1,Uber driver will see his son compete in Rio thanks to passenger
+36805,9,Brazil Olympic team’s number of drug-test samples questioned
+36825,2,2nd Olympic boxer accused of sexual assault
+36832,2,16 facts: Rio 2016 Olympic Games
+36833,1,Trump agenda looks like more of the same
+36850,1,Gymnastics: Team USA and Simone Biles take team gold
+36863,1,Rio 2016: Japan humbles All Blacks
+36876,1,Rio 2016 Olympics: Day 5 action - live!
+36914,1,Nancy Pelosi: DNC hack is ’electronic Watergate’
+36930,3,Nigeria says men’s soccer team not going on ’strike’
+36955,1,Michael Phelps: How swimming legend regained his ’immortality’
+36976,1,Ryan Lochte, other US swimmers robbed in Rio
+36982,1,Golf: Justin Rose takes gold in Rio
+36987,1,Who is the greatest Olympian?
+37017,2,Kerri Walsh Jennings chases fourth gold
+37018,1,Rio 2016 Olympics: Day 11 as it happened
+37037,8,Olympics: Brazil loses to Sweden on penalties in women’s football semifinal
+37041,2,US swimmer: Guards pulled guns, wanted money
+37045,4,2 US swimmers removed from flight in Rio
+37048,3,Olympics: Americans, Bolt enjoy golden day
+37054,1,Rio 2016 Olympics: Day 12 - Live!
+37070,1,Rio 2016 Olympics: Day 13 - as it happened!
+37074,3,Questions loom over reported robbery of US swimmers
+37078,1,US women through to relay final after scare
+37081,12,Can Brazil get Ryan Lochte extradited?
+37091,4,Germany pips Sweden to Olympic football gold
+37103,2,Ryan Lochte’s apology the latest in Rio swimmers saga
+37104,1,How Lochte should have responded
+37114,3,Lochte: ’I over-exaggerated’ robbery story
+37115,1,Rio 2016 Olympics: Day 15 as it happened
+37119,4,Olympics: Brazil wins football gold
+37132,3,Rio residents and tourists reflect on the Olympics
+37133,1,Can we defeat the world’s deadliest creature?
+37146,1,Athlete of the Day
+37155,5,Rio 2016: Top Olympic moments to savor
+37209,6,Dilma Rousseff Fast Facts
+37239,1,Ryan Lochte charged by Brazilian authorities
+37311,2,Clinton Foundation official plays defense over accusations
+37312,2,Trump will directly address black voters, top aide says
+37315,1,Italy earthquake: Amid the rubble, a couple says ’I do’
+37390,3,Brazil’s Senate ousts Rousseff in impeachment vote
+37399,10,Dilma Rousseff is out. Now what?
+37427,3,US should embrace a changing Latin America
+37495,1,Serena Williams: World No. 1 surpasses Roger Federer’s record
+37574,4,Paralympics 2016: Daniel Dias wins gold
+37587,4,Paralympics day two: Jason Smyth emulates Bolt, controversy on the track
+37607,1,Paralympics day three: Malaysians make history, US Army sergeant wins gold
+37635,4,Paralympics day 4: Tatyana McFadden begins gold rush, Brazil’s sprint stars
+37654,1,Paralympics: Durand powers to second gold
+37664,1,Hillary Clinton stumbles -- will her campaign follow?
+37688,1,Is America at risk of following the path of failing states?
+37695,1,Paralympics: Tatyana McFadden wins 5th gold
+37716,1,CNN Student News - September 15, 2016
+37730,4,Paralympics day eight: ’Paralympic Pele’ through to football final
+37757,2,Paralympics day nine: Highlights from Rio
+37772,4,Paralympics day ten: Fatal crash in road race
+38021,1,FBI investigating possible hack of Democratic Party staffer cell phones
+38297,1,The 74-year-old coach behind Van Niekerk’s golden run
+38443,5,Brazil opens first elephant sanctuary
+38504,1,US GP: ’F1 is the perfect sport for the American market’
+38511,1,Fan arrests as fights erupt at Olympic venue
+38541,1,The other election week story
+38625,2,Battle brewing for DNC leadership
+38661,1,Democrats try to pick up the pieces
+38681,1,Brazil GP: Lewis Hamilton keeps title hopes alive with pole start
+38713,3,Lewis: ’I’m still hunting’ after Brazil win
+38771,2,Jet-skiing jugs and other trophy tales
+38800,1,WHO ends Zika public health emergency
+38856,2,Favela photos reveal truth beyond stereotypes
+38887,1,Biden spokeswoman: VP won’t run DNC
+38932,1,Trump White House events could be yuge
+38985,1,Lewis Hamilton ’mesmerized’ by Serena Williams
+39002,1,Pedro wonder strike inspires Chelsea win
+39026,1,F1: Nico Rosberg clinches world title in tense Abu Dhabi GP finale
+39038,10,Colombia plane crash: 71 dead on Brazil soccer team’s charter flight
+39061,4,Chapecoense: Football team’s fairy-tale rise ends in tragedy
+39062,1,How to enter the contemporary design market
+39092,1,Chapeco gathers to remember its fallen team
+39136,1,Howard Dean drops out of DNC chair race
+39149,1,Fidel Castro memorial draws throngs
+39169,1,Mass brawl mars EPL top of table clash
+39172,1,Poignant scenes as Chapecoense team mourned
+39419,1,Barcelona: Messi, Suarez, Neymar and their secrets
+39427,1,Two sports, one club: when PSG met eSports
+39441,2,2016 In Review Fast Facts
+39598,1,California Dems ready to fight Trump’s immigration plans
+39600,1,Trump’s bad tariff idea (and better one on tax reform)
+39739,1,Fashion designer reinvents ancient technique
+39782,1,What (not) to look forward to in 2015
+39844,1,Front-row fanatics at Rock in Rio
+39884,1,History moment awaits Palestine at Asian Cup
+40042,1,Obama goes on offense
+40045,1,Brazilian surfer Ricardo dos Santos shot dead near home
+40360,1,Brazil prison escape follows seduction
+40513,1,Tim Howard discusses Tourette’s, divorce and fatherhood
+40715,1,50 dead after bus plunges off road in Brazil
+40721,5,Brazil protests call for Dilma Rousseff’s impeachment
+40755,1,Catfish named for ’Star Wars’ character Greedo
+40768,1,Study: Breastfed babies have a higher IQ
+41059,1,The fastest growing religion in the world is ...
+41073,1,7 ’impossible’ dance GIFs to trick your eyes
+41109,1,Bali Nine: Australian drug smugglers’ legal bids fail
+41220,1,Soccer player Oliver Minatel attacked on plane
+41306,1,Millions in WWII silver reclaimed from deep ocean
+41335,2,Gisele Bundchen walks in her last runway show
+41474,1,Indonesia executions: Foreign envoys summoned
+41514,4,Brazil’s Young Miss pageants an escape from poverty
+41646,1,Celibacy proposal for gay blood donors is discriminatory
+41867,3,The ugly example FIFA scandal sets for soccer kids
+41895,1,Somebody’s gotta voodoo it
+42006,1,18th century Portuguese slave ship Sao Jose wreck found
+42026,1,World’s largest telescope to reveal dawn of universe
+42117,2,Sports stadium architecture: Welcome to the new temples of pleasure
+42209,2,Kuwait’s ghost stadium prepares to breathe new life
+42328,1,Chasing the elusive Silicon Valley dream (Opinion)
+42363,1,Majlinda Kelmendi fights for Kosovo recognition
+42449,1,Annecy Film Festival: Best animation around the world
+42495,5,Women’s World Cup: Brazil and South Korea exit
+42543,1,WikiLeaks report alleges NSA spied on French presidents
+42702,1,3 ways Pope Francis is shaking up the church
+42716,1,Opinion: Women’s World Cup final: Let’s do this!
+42773,1,Pope: Poor are sacrificed on ’the altar of money’
+42836,1,Wild animals make themselves at home
+42874,2,The Hunt: Ex-cop Daniel Hiers accused of murder
+43182,1,How Putin engineered Russia’s return to superpower status
+43391,5,A top strategist explains the biggest problem China faces
+43404,1,The US has been downgraded to a ’flawed democracy’
+43534,1,The CEO of Nissan-Renault has figured out what Trump’s ’America First’ doctrine means for the auto industry
+43785,5,’It transformed me’: Donna Brazile reflects on ’constant harassment,’ bomb threats that came after DNC hacks
+43936,2,Conservative media figures embrace wild WikiLeaks conspiracy theory that CIA hacked DNC, then framed Russia
+44003,1,Inside the $1 billion marijuana ’unicorn’ that operates out of a once-abandoned Hershey’s factory
+44413,3,A judge in South America’s biggest city says Uber drivers are employees
+44949,1,Inside the stunning rise of the liberal conspiracy theorist
+44953,1,Doctors are trying an unorthodox approach to treat burn victims — using fish skin
+45562,14,Things are so bad in Brazil they had to cancel Carnival
+45715,5,Brazil warns people attending Carnival not to kiss strangers
+45725,1,Here are the best moments from the GOP debate
+45920,1,One group in Latin America may be about to see its economic gains erased
+46448,2,Goldman Sachs just sent out this quiz to clients — see how many questions you can get right
+46607,7,Rousseff loses impeachment vote in Congress
+46887,1,A 15-year-old boy from Canada has ’discovered’ a forgotten Mayan city
+46930,3,The Olympics are having an unprecedented meltdown
+47029,1,Tim Cook just acknowledged that the price of iPhones may be too high
+47040,1,The market as we know it is ’crumbling’
+47091,1,How a failed education startup turned into Musical.ly, the most popular app you’ve probably never heard of
+47243,1,Russia just unveiled its new Airbus and Boeing challenger
+47843,6,The US reportedly helped Brazil track down and capture 11 suspected ISIS militants
+47847,2,DNC Chair Debbie Wasserman Schultz will resign after the Democratic convention
+47956,1,Here’s how the newest technology is changing how we watch the Olympics
+47991,3,One of the biggest threats to the Rio Olympics will come from the internet
+47998,1,Watch Gisele Bündchen walk the world’s longest runway at the opening ceremony in Rio
+48004,1,A stray bullet went through a media tent at the Rio Olympics
+48039,1,The US women’s gymnastics team just obliterated the competition like never before to win a gold medal
+48115,1,American swimmer Ryan Lochte and 3 others were robbed at gunpoint after a party in Rio
+48147,1,Swimmers who were allegedly robbed with Ryan Lochte were reportedly stopped from leaving Rio
+48149,4,A tour bus from Paraguay was busted with 300 kilos of cocaine on its way to the Olympics
+48175,3,Brazilian goalie makes amazing save in penalty kicks to open door for Brazil’s gold medal
+48176,4,Neymar broke down in tears after scoring gold-medal-winning penalty kick for Brazil
+48183,3,One move almost always sets off chaos in the currency market
+48195,1,All of Ryan Lochte’s sponsors have dropped him
+48364,5,Here’s how cops actually trace a gun
+48389,2,The world is facing a growing snakebite crisis — and there’s a serious shortage of antivenom
+48525,1,Iran shouldn’t be underestimated in 2 key oil markets
+48872,11,New email suggests DNC chair had exact CNN town hall question in advance
+48946,1,Undercover videos lead to Democratic operative’s firing, force another to distance himself from DNC
+48969,2,Things got uncomfortably awkward after Trump jabbed Clinton at a swanky New York charity dinner
+49073,1,Both sides want the FBI to come clean with more information about Hillary Clinton’s emails — for wildly different reasons
+49243,1,’Blood, sweat, and tears’: What a Trump presidency could mean for the Western Hemisphere
+49593,1,Here’s the presentation David Einhorn just gave to a room of elite hedge fund managers
+49795,1,SIGN IN
+49885,4,Why Is Trump So Reluctant to Accept Claims of Russian Hacking?
+49920,1,What Donald Trump Owes Wall Street
+49960,1,Did Meryl Streep Misrepresent MMA?

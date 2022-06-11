@@ -1,0 +1,866 @@
+6,1,Taiwan’s President Accuses China of Renewed Intimidation - The New York Times
+33,3,Airline Pilot, Believed to Be Drunk, Is Pulled From Cockpit in Canada - The New York Times
+116,1,Donald Trump, Fort Lauderdale: Your Friday Evening Briefing - The New York Times
+154,4,Airstrikes by Russia Buttress Turkey in Battle vs. ISIS - The New York Times
+229,1,D’Amato Removed From Plane After Urging Walkout Over Delays - The New York Times
+254,10,Taiwan Responds After China Sends Carrier to Taiwan Strait - The New York Times
+261,1,How to Navigate New Airline Carry-On Rules - The New York Times
+300,2,Trump National Security Adviser Called Russian Envoy Day Before Sanctions Were Imposed - The New York Times
+345,1,British Firms Await Brexit Plans, Poised to Relocate - The New York Times
+397,1,Brexit, Donald Trump, Chelsea Manning: Your Morning Briefing - The New York Times
+400,4,Search for Malaysia Airlines Flight 370 Is Called Off After Nearly 3 Years - The New York Times
+555,1,Trump Injects High Risk Into Relations With China - The New York Times
+669,1,Judge Blocks Trump Order on Refugees Amid Chaos and Outcry Worldwide - The New York Times
+676,1,‘How Do I Get Back Home?’ Iranians Turned Away From Flights to U.S. - The New York Times
+686,1,In America’s Heartland, Discussing Climate Change Without Saying ‘Climate Change’ - The New York Times
+735,3,U.S. Commando Killed in Yemen in Trump’s First Counterterrorism Operation - The New York Times
+769,3,Raid in Yemen: Risky From the Start and Costly in the End - The New York Times
+847,1,China’s Intelligent Weaponry Gets Smarter - The New York Times
+967,1,Flight Attendants Fight Human Trafficking With Eyes in the Sky - The New York Times
+1063,1,Donald Trump, North Korea, Kashmir: Your Morning Briefing - The New York Times
+1103,1,Report Rebuts Russia’s Claims of Restraint in Syrian Bombing Campaign - The New York Times
+1157,5,F.A.A. Investigates Errant Flight Involving Harrison Ford - The New York Times
+1173,1,Campaign Over, President Trump Will Hold a (What Else?) Campaign Rally - The New York Times
+1208,2,Irwin Stambler, 92, Dies Reference Book Writer With Songs in His Heart - The New York Times
+1236,2,Mar-a-Lago Neighbors Discover Costs of Trump’s Visits - The New York Times
+1242,2,Iraq Starts Offensive to Retake Western Mosul From ISIS - The New York Times
+1279,1,Is China Pushing Trump to Talk to North Korea? - The New York Times
+1281,1,Australia, Libya, North Korea: Your Morning Briefing - The New York Times
+1310,1,With Big Red Stamp, Russia Singles Out What It Calls ‘Fake’ News - The New York Times
+1377,1,U.S. Wary of Its New Neighbor in Djibouti: A Chinese Naval Base - The New York Times
+1389,1,Father of Commando Killed in Yemen Refused to Meet Trump - The New York Times
+1405,1,Russia Looks to Exploit White House ‘Turbulence,’ Analysts Say - The New York Times
+1459,1,Donald Trump’s Speech, Mosul, Kim Jong-nam: Your Morning Briefing - The New York Times
+1460,4,Russian Airstrike in Syria Hits U.S. Allies by Mistake - The New York Times
+1476,1,Jeff Sessions Recuses Himself From Russia Inquiry - The New York Times
+1481,4,Touring Warship, Trump Pushes Plan to Expand Military - The New York Times
+1482,1,Trump May Give the Pentagon More Authority to Conduct Raids - The New York Times
+1503,1,Sessions Controversy Heightens Trump’s Feeling of Being Under Siege - The New York Times
+1528,1,U.S. Strengthens Its Forces in a Crowded Syrian Battlefield - The New York Times
+1538,3,China to Raise Military Spending, but Less Than in Recent Years - The New York Times
+1557,1,North Korea’s Launch of Ballistic Missiles Raises New Worries - The New York Times
+1602,2,The Huge January Trade Deficit Shows Trump’s Hard Job Ahead - The New York Times
+1723,1,Why U.S. Antimissile System in South Korea Worries China - The New York Times
+1730,1,Trump Administration Is Said to Be Working to Loosen Counterterrorism Rules - The New York Times
+1766,1,From Flight 370 Hunt, New Insight Into Indian Ocean’s Unknown Depths - The New York Times
+1850,3,Syria Fires Missiles at Israeli Warplanes - The New York Times
+1938,2,Devices Banned on Flights From 10 Countries Over ISIS Fears - The New York Times
+2115,1,At BlackRock, Machines Are Rising Over Managers to Pick Stocks - The New York Times
+2122,1,Engulfed in Battle, Mosul Civilians Run for Their Lives - The New York Times
+2123,1,U.S. ‘Probably Had a Role’ in Mosul Deaths, Commander Says - The New York Times
+2138,1,Rex Tillerson to Lift Human Rights Conditions on Arms Sale to Bahrain - The New York Times
+2173,1,U.S. War Footprint Grows in Middle East, With No Endgame in Sight - The New York Times
+2174,1,Trump Eases Combat Rules in Somalia Intended to Protect Civilians - The New York Times
+2183,1,Beginning ‘Brexit’ and Bracing for Impact - The New York Times
+2286,1,Worst Chemical Attack in Years in Syria U.S. Blames Assad - The New York Times
+2298,9,Trump Faces Test as Boeing Announces Deal to Sell Jetliners to Iran - The New York Times
+2303,1,North Korea Fires Ballistic Missile a Day Before U.S.-China Summit - The New York Times
+2346,1,In France, a Monument Honors the American Flyers of World War I - The New York Times
+2349,4,Dozens of U.S. Missiles Hit Air Base in Syria - The New York Times
+2352,2,The Grim Logic Behind Syria’s Chemical Weapons Attack - The New York Times
+2378,5,Syria Strike Puts U.S. Relationship With Russia at Risk - The New York Times
+2384,2,63 Hours: From Chemical Attack to Trump’s Strike in Syria - The New York Times
+2411,1,U.S.-Led Force Reduces Attacks on ISIS in Syria After Airstrike - The New York Times
+2412,1,When Solar Panels Became Job Killers - The New York Times
+2454,3,United Airlines Passenger Is Dragged From an Overbooked Flight - The New York Times
+2489,1,Legal Marijuana Ends at Airport Security, Even if It’s Rarely Stopped - The New York Times
+2494,1,Syria, Ahmadinejad, United Airlines: Your Morning Briefing - The New York Times
+2540,1,Chinese General Visits Disputed Spratly Islands in South China Sea - The New York Times
+2662,1,3 Tied to San Bernardino Gunman Are Indicted - The New York Times
+2682,1,Experts Warn of Backlash in Donald Trump’s China Trade Policies - The New York Times
+2699,1,Long Island Plane Crash Kills 3 - The New York Times
+2754,4,Doctors With Enemies: Did Afghan Forces Target the M.S.F. Hospital? - The New York Times
+2783,2,EgyptAir Was Aware of Threats to Security, Including One Scribbled on Plane - The New York Times
+2911,4,U.S. Accuses Chinese Jet of Flying Too Close to American Plane - The New York Times
+2984,1,EgyptAir Flight 804 Wreckage Reported in Mediterranean - The New York Times
+3150,1,Transgender People Will Be Allowed to Serve Openly in Military - The New York Times
+3184,2,Nigel Farage, Who Spurred ‘Brexit,’ Resigns as Head of U.K. Independence Party - The New York Times
+3266,1,James Stavridis, Retired Admiral, Is Being Vetted as Hillary Clinton’s Running Mate - The New York Times
+3278,1,For Whites Sensing Decline, Donald Trump Unleashes Words of Resistance - The New York Times
+3514,4,New Photos Cast Doubt on China’s Vow Not to Militarize Disputed Islands - The New York Times
+3537,1,Who’s Got a Carrier to Rival the U.S. Navy’s? (Hint: Not Russia.) - The New York Times
+3626,1,When the Pilot Is a Mom: Accommodating New Motherhood at 30,000 Feet - The New York Times
+3696,2,Iran Revokes Russia’s Use of Air Base, Saying Moscow ‘Betrayed Trust’ - The New York Times
+3761,3,SEAL Team 6 and a Man Left for Dead: A Grainy Picture of Valor - The New York Times
+3878,1,Our Restaurant Critic Goes National. First Stop: California. - The New York Times
+3887,1,Donald Trump Vows to Bolster Nation’s Military Capacities - The New York Times
+3921,1,Galaxy Note 7 Owners Are Urged to Stop Using Their Phones - The New York Times
+3926,2,The Secret History of Colombia’s Paramilitaries and the U.S. War on Drugs - The New York Times
+3943,2,As More Devices Board Planes, Travelers Are Playing With Fire - The New York Times
+4027,1,U.S. Admits Airstrike in Syria, Meant to Hit ISIS, Killed Syrian Troops - The New York Times
+4043,4,U.S. Officials Say Russia Probably Attacked U.N. Humanitarian Convoy - The New York Times
+4066,8,John Kerry Urges Grounding of Military Aircraft in ‘Key Areas’ of Syria - The New York Times
+4067,1,Obama Administration Considers Arming Syrian Kurds Against ISIS - The New York Times
+4131,1,To the Moon, North Korea? Or Does a Rocket Have a Darker Aim? - The New York Times
+4192,2,Tension With Russia Rises as U.S. Halts Syria Negotiations - The New York Times
+4210,1,U.S. Election Cycle Offers Kremlin a Window of Opportunity in Syria - The New York Times
+4302,1,Pentagon Confronts a New Threat From ISIS: Exploding Drones - The New York Times
+4306,1,F.B.I. Investigating if Fatal Plane Crash in East Hartford Was Intentional - The New York Times
+4355,1,New Syria Talks End Quickly, Giving Little Hope to a Beleaguered Aleppo - The New York Times
+4456,1,Notes on the U.S. Election: A Measure of America’s Fever - The New York Times
+4478,1,Long Avoided by Tourists, Iran Is Suddenly a Hot Destination - The New York Times
+4570,1,In Michael Chabon’s ‘Moonglow,’ Deathbed Stories Illuminate an Era - The New York Times
+4583,2,Airstrikes on Aleppo Resume as Russia Begins New Offensive in Syria - The New York Times
+4696,3,American Is Killed in First Casualty for U.S. Forces in Syria Combat - The New York Times
+4700,2,As Wildfires Rage, Israel Suggests Arson and Asks for Foreign Help - The New York Times
+4777,2,E.U. Plans Big Increase in Military Spending - The New York Times
+4779,2,Doomed Jet Carrying Brazilian Team Reportedly Ran Out of Fuel - The New York Times
+4807,1,Trump, Taiwan and China: The Controversy, Explained - The New York Times
+4913,1,Trump Spent Far Less Than Clinton, but Paid His Companies Well - The New York Times
+4929,6,Iran and Boeing Sign $16.6 Billion Deal on Sale of 80 Aircraft - The New York Times
+4972,1,Rodrigo Duterte, Aleppo, Donald Trump: Your Morning Briefing - The New York Times
+4995,2,China Suggests It Has Placed Weapons on Disputed Spratly Islands in South China Sea - The New York Times
+5032,1,Muted U.S. Response to China’s Seizure of Drone Worries Asian Allies - The New York Times
+5033,1,China Agrees to Return Seized Drone, Ending Standoff, Pentagon Says - The New York Times
+5096,1,Caroline Kennedy Dances in a Christmas Video, and Japan Can’t Get Enough - The New York Times
+5099,1,Hijacking Ends Peacefully After Libyan Airliner Lands in Malta - The New York Times
+5120,4,Singers in Russian Military Choir Among 92 Feared Dead After Plane Crashes Into Black Sea - The New York Times
+5128,4,Aboard a U.S. Eye in the Sky, Staring Down ISIS in Iraq and Syria - The New York Times
+5173,1,Russia Finds No Signs of Explosion in Black Sea Plane Crash - The New York Times
+5193,1,Mayday on the Carolina Queen - The New York Times
+5201,1,E.U. Offers to Loosen Restrictions on Iran Air - The New York Times
+5234,2,How Hillary Clinton Became a Hawk - The New York Times
+5271,1,U.N. Security Council Condemns Attacks on Health Workers in War Zones - The New York Times
+5301,1,Nigerian Girl Abducted by Boko Haram From Chibok Is Found - The New York Times
+5308,4,EgyptAir Flight Believed to Have Crashed at Sea Egypt Cites Possible Terrorism - The New York Times
+5316,1,U.S. Drone Strike Targets Taliban Leader - The New York Times
+5400,1,Orlando, Hillary Clinton, Donald Trump: Your Monday Evening Briefing - The New York Times
+5443,1,Hillary Clinton Makes Dire Predictions for Economy if Donald Trump Wins - The New York Times
+5496,1,Istanbul, Hillary Clinton, Loretta Lynch: Your Friday Evening Briefing - The New York Times
+5549,1,U.S. Will Deploy 560 More Troops to Iraq to Help Retake Mosul From ISIS - The New York Times
+5553,1,Tribunal Rejects Beijing’s Claims in South China Sea - The New York Times
+5572,4,Turkey Interrupts U.S. Air Missions Against ISIS at Major Base - The New York Times
+5632,1,At the Front in a Scarred Falluja - The New York Times
+5658,1,U.S. Presidential Race, Rio Olympics, London: Your Thursday Evening Briefing - The New York Times
+5715,2,Afghanistan Forces Struggle to Hold Firm Against Taliban in South - The New York Times
+5727,2,Russia Sends Bombers to Syria Using Base in Iran - The New York Times
+5782,5,World’s Largest Aircraft Crashes, Gently, in 2nd Test Flight - The New York Times
+5808,1,Japanese Government Urges Another Increase in Military Spending - The New York Times
+5854,1,Bad Luck and Worse Manners Tarnish Obama’s Asia Trip - The New York Times
+5931,2,Aid Convoy Is Hit in Syria as Cease-Fire Falters and Bombings Resume - The New York Times
+5936,1,Federal Complaint Traces Ahmad Khan Rahami’s Steps Before Bombings - The New York Times
+6074,2,Survivor of Connecticut Plane Crash Tells of Argument in Cockpit - The New York Times
+6077,1,Two Women Say Donald Trump Touched Them Inappropriately - The New York Times
+6196,1,U.S. Fingerprints on Attacks Obliterating Yemen’s Economy - The New York Times
+6203,1,Donald Trump, Mike Pence, Paul Ryan: Your Tuesday Evening Briefing - The New York Times
+6223,1,Fifth Avenue in Front of Trump Tower Will Stay Open, de Blasio Says - The New York Times
+6341,1,Shinzo Abe to Become First Japanese Leader to Visit Pearl Harbor - The New York Times
+6433,1,Aleppo, China, Jordan: Your Morning Briefing - The New York Times
+6478,1,An Oklahoma Newspaper Endorsed Clinton. It Hasn’t Been Forgiven. - The New York Times
+6488,7,China Deploys Aircraft Carrier to Disputed South China Sea - The New York Times
+6522,9,Donald Trump’s Jet, a Regular on the Campaign Trail, Isn’t Registered to Fly - The New York Times
+6576,1,Donald Trump and Bikers Share Affection at Rolling Thunder Rally - The New York Times
+6578,1,Jane Fawcett, British Decoder Who Helped Doom the Bismarck, Dies at 95 - The New York Times
+6580,1,Tested by Russia, NATO Struggles to Stay Credible - The New York Times
+6623,1,John Kerry Is Said to Side With Diplomats’ Critical Memo on Syria - The New York Times
+6640,1,Some Early Signs of ‘Brexit’ Upheaval - The New York Times
+6760,3,How Think Tanks Amplify Corporate America’s Influence - The New York Times
+6812,1,Support for Saudi Arabia Gives U.S. Direct Role in Yemen Conflict - The New York Times
+6819,1,G.E., the 124-Year-Old Software Start-Up - The New York Times
+6820,1,A Powerful Russian Weapon: The Spread of False Stories - The New York Times
+6848,3,Air Force, Running Low on Drone Pilots, Turns to Contractors in Terror Fight - The New York Times
+6855,3,Fact-Checking Donald Trump’s National Security Speech - The New York Times
+6858,1,Matt Lauer Loses the War in a Battle Between the Candidates - The New York Times
+6875,4,Israel Denies Claims That Syria Shot Down Warplane and Drone - The New York Times
+6896,1,Obama, in Farewell to U.N., Paints Stark Choices for Unsettled World - The New York Times
+6905,1,Amid New Airstrikes in Syria, an Aid Convoy Arrives - The New York Times
+7068,1,Delta Air Lines Bans Disruptive Donald Trump Supporter for Life - The New York Times
+7099,1,Talks With Mitt Romney for Secretary of State ‘Not About Revenge,’ Trump Says - The New York Times
+7116,3,Trump Joins Line of Critics of Costly Fighter Jet - The New York Times
+7157,9,Smaller Bathrooms on Planes Pose Challenges for Passengers - The New York Times
+7167,3,Why Some of Your Holiday Gifts Might Not Fly - The New York Times
+7168,1,Carrie Fisher, Russia, Shinzo Abe: Your Wednesday Briefing - The New York Times
+7174,3,The Fighter - The New York Times
+7188,3,Russia Bolsters Its Submarine Fleet, and Tensions With U.S. Rise - The New York Times
+7194,12,Donald Trump’s Aging Air Fleet Gives His Bid, and His Brand, a Lift - The New York Times
+7239,2,Iran Said to Have Deal With Boeing to Buy Passenger Planes - The New York Times
+7329,1,One Photo of a Syrian Child Caught the World’s Attention. These 7 Went Unnoticed. - The New York Times
+7358,1,Hajj Prep: Search Soul, Buy Sturdy Shoes, Pay the Dentist - The New York Times
+7473,1,Donald Trump Thrusts Taiwan Back on the Table, Rattling a Region - The New York Times
+7480,3,‘Cancel Order!’ Donald Trump Attacks Plans for Upgraded Air Force One - The New York Times
+7483,5,With an Arsenal of Apps, a Fearful Flier Faces the Skies - The New York Times
+7484,2,Pakistan Passenger Plane Crashes With 48 on Board - The New York Times
+7524,6,Alaska, Reliant on Air Transit, Faces Pilot Shortage. Are Drones an Answer? - The New York Times
+7543,6,Data Points to Rapid Loss of Control Aboard EgyptAir Jet - The New York Times
+7550,1,Okinawa Murder Case Heightens Outcry Over U.S. Military’s Presence - The New York Times
+7558,2,EgyptAir 804’s ‘Black Box’ Recovered in Mediterranean - The New York Times
+7692,1,Getting a Drone as a Gift? Check Your Insurance - The New York Times
+7711,1,U.S. Reveals Death Toll From Airstrikes Outside War Zones - The New York Times
+7722,5,Pilot of Vanished Malaysian Flight Had Deviant Route on His Simulator, Minister Says - The New York Times
+7736,1,Obama Plays Down Confrontation With China Over His Plane’s Stairs - The New York Times
+7739,2,Why Business Class Poses a Unique Fire Hazard - The New York Times
+7777,1,Trump Says U.S. Would ‘Outmatch’ Rivals in a New Nuclear Arms Race - The New York Times
+7850,3,China Slams Deployment of U.S. Carrier to South China Sea
+8009,2,Lockheed CEO Pledges 1,800 New Jobs, Lower F-35 Costs - Breitbart
+8142,1,House Witness on Libya: ’Moscow’s Foothold in Libya Is Growing’
+8216,1,Rubio: The Days of Assad Being Able to Act With Impunity ’Are Over’ - Breitbart
+8327,2,U.S. General: No Incompetence, Bad Judgment Found in Yemen Raid
+8781,2,Canadian Pilot Arrested After He Passes Out Drunk in the Cockpit - Breitbart
+9101,5,Report: Only 7 out of 10 Air Force Planes Are Capable of Deployment - Breitbart
+9173,1,2016 Closes With 140 Cops Being Killed in the Line of Duty
+9178,2,Boeing to Begin Testing Self-Flying Airplanes - Breitbart
+9229,3,Trump Orders Strikes Against Syrian Regime Airbase in Response to Chemical Attack - Breitbart
+9233,1,North Korea Threatens ’Super-Mighty Preemptive Strike’ to Reduce America to ’Ashes’
+9381,3,U.S. Army: 95 Percent of Brigade Combat Teams Unprepared to Fight
+9639,1,Deep State Leaks Highly Classified Info to Washington Post to Smear President Trump - Breitbart
+9711,1,Iraq Votes to Ban Americans in Response to Trump’s Immigration Order - Breitbart
+9813,1,Investigation Clears U.S. Troops in Death of 33 Afghan Civilians
+9904,3,Gorka on Media’s Russia Obsession, Trump’s ’America First’ Budget, and Why the Immigration EO Challenge Will Fail
+10166,1,Uber Hires NASA Engineer for VTOL ’Flying Car’ Project - Breitbart
+10384,1,US Navy Destroyer Fitzgerald Collides with Philippine-Flagged Merchant Ship near Japan
+10776,2,FULL SPEECH: Theresa May Hails Globalism, Calls for Action on Climate Change
+10987,1,Russia Freezes Coordination with U.S. in Syria Following American Airstrikes
+11109,1,Donald Trump Rips Media for ’Wrong’ Russia Meeting Report: ’Never Mentioned the Word Israel’
+11128,2,Photos: Islamic State Says It’s Again Deploying Drones in Mosul
+11143,1,Trump on Syria’s Assad Following Chemical Weapons Attack: ’Something Should Happen’ - Breitbart
+11422,1,Russian Fighter Makes ‘Provocative, Erratic’ Approach Within 5 Feet of U.S. Recon Plane - Breitbart
+11522,1,Flight to London Evacuated Following Bomb Threat
+11610,1,7 Castro Victims and Cuban Heroes Invited to Trump’s Cuba Announcement - Breitbart
+11705,1,WINNING: Trump Meets with American Freed from Egyptian Jail in No Quid Pro Quo Deal
+11798,1,Drone Worth $1.5 Million Goes Missing from Arizona Army Base - Breitbart
+11887,2,U.S. Navy Ships Will Deploy Laser Weapons Within Two Years - Breitbart
+12013,1,Official: Russia Knew Syrian Chemical Attack Was Coming
+12108,2,Trump Pushes ’America First’ at Boeing Visit - Breitbart
+12142,1,Prominent Jesuit Blames ’Morality of Capitalism’ for United Air Incident - Breitbart
+12162,1,Top U.S. General: America’s ’Nuclear Modernization Can No Longer Be Deferred’
+12187,1,New York Times Outs Israel as Source of Classified Intel Before Trump Visit
+12210,1,Site of Ft. Lauderdale Airport Shooting a Gun-Free Zone - Breitbart
+12637,7,Justin Trudeau Faces Unprecedented Ethics Probe over Private Island Getaway with Imam - Breitbart
+12806,2,Report: Donald Trump’s 2018 Budget Request Seeks $2.6 Billion For Border Infrastructure - Breitbart
+13107,1,Donald Trump Urges China to Solve ‘North Korean Problem’
+13206,1,Missiles Deployed Around Moscow as U.S. Troops Arrive in Poland
+13207,2,Haley: Any Nation That Wants to Defend Assad’s Atrocities Will ‘Do So in Full Public View’
+13215,2,Catholic Leaders Criticize U.S. Attack on Assad Regime Complicated Plight of Christians in Syria Continues - Breitbart
+13247,4,Two Texas Guardsmen Killed in Helicopter Crash
+13306,1,Trump Defies Turkey, Approves Heavy Weapons for Syrian Kurds - Breitbart
+13374,1,Rex Tillerson: Vladimir Putin Did Not Have Advance Notice of Strikes in Syria
+13638,1,Pentagon Budget Expected to Bulk Up U.S. Presence in Asia-Pacific
+13806,2,Trump’s Military Rebuild in Limbo in First Hundred Days
+13971,1,PINKERTON: The American Way of Winning the War Against Disease
+13992,1,Review: Michael Savage Outlines His Strategic Plan for Victory in ’Trump’s War’
+14039,2,Exclusive: USS Carl Vinson Shadowed by Russian, Chinese Spy Ships Near South Korea - Breitbart
+14089,1,VIDEO: Delta Airline Employee Kicks Family off Flight, Threatens Father with Jail for Not Giving Up Seat
+14103,4,North Korea Launches Another Ballistic Missile Test, as Talk of War Increases
+14349,2,Defense Official: Intelligence from Yemen Raid ’Definitely Helping’
+14361,1,In Trump White House, Wildcard Putin Faces First Assertive America of His Career - Breitbart
+14365,1,It’s Official: Trump Orders Border Wall Between U.S. and Mexican Narco-states
+14765,1,Officials Dismiss Report of Planned North Korea Strike as ’Wildly Wrong, Crazy, Dangerous’ - Breitbart
+14948,4,Tillerson Fallout: China Demands U.S. Respect Illegal Airspace Claim over Japanese Islands
+15028,1,Nikki Haley: Syrian People ’Don’t Want’ ’Disgusting,’ ’War Criminal’ Assad
+15165,1,Islamic State Video Boasts of Weapons Workshops
+15178,1,U.S. Military Drops Massive Bomb on Islamic State in Afghanistan - Breitbart
+15207,6,EXCLUSIVE: Firm Awarded $418M Arms Sale to Kenya Caught Misrepresenting Products
+15262,2,ZUMWALT: What the Vietnam War Should Tell Us About Committing Ground Forces in Syria - Breitbart
+15324,1,President Trump to Commerce Dept: Steel Trade Investigation a Matter of National Security - Breitbart
+15383,1,Islamic State Holds Terrified Civilians as Human Shields as Raqqa Battle Nears
+15466,3,Russian Plane Performs ’Barrel Roll’ Over Air Force Plane - Breitbart
+15486,1,’13 Hours’ Review: Riveting Indictment of Obama, Hillary, and The DC Media - Breitbart
+15539,1,FBI Revelations Ruin Hillary Clinton’s Big Day in Iowa
+15574,7,Pentagon Officials: Anti-Aircraft Weapons Prevented Possibility of Air Force Aid in Benghazi
+15632,2,Red Dragon Rising: China’s Threat to America Grows Daily - Breitbart
+15664,1,**LIVE UPDATES** Massive Winter Storm Hits East Coast - Breitbart
+15839,1,Sharyl Attkisson: Obama and Clinton Lied to the Public, ‘Impeded the Investigation’ - Breitbart
+15990,2,Donald Trump Sizzles in Foreign, Defense Policy Speech: ‘I Will Never Let You Down’ - Breitbart
+16147,1,Aleppo Ceasefire Collapses in Hours, 50,000 Civilians in Danger - Breitbart
+16295,1,Iran Claims Seizure of over 13,000 Pages of Intel from Abducted U.S. Sailors - Breitbart
+16383,1,Emergency UN Meeting After U.S.-led Forces Strike Syrian Troops
+16523,1,Black Lives Matter UK Halts Heathrow Airport Traffic For ’Moment Of Rage’
+16623,1,First the Turkey Coup, Now the Economic Crash - Breitbart
+16833,1,EXCLUSIVE: Feds Deny Cooking Border Numbers to Help Hillary, Agents Say Feds Lying
+17066,1,Bernie Sanders Memo Shows Demands: ’A Plane-Or I Contest The Convention’ - Breitbart
+17071,1,Trump to FNC’s Wallace on If He ’Snubbed’ Iowa Voters by Skipping Debate: ’You Have to Stick Up for Your Rights’ - Breitbart
+17300,1,Malaysia Shuts Down Sharia-Compliant Airline
+17324,1,Islamic State Publishes Pictures of ‘Silent Killing’ Camp in Egypt, Flaunting ’Dozens’ of New Recruits
+17566,2,Tens Of Thousands Flee Raging Israeli Bushfires - Breitbart
+17609,1,Blue State Blues: Were Sailors Ordered to Surrender?
+17762,1,Pat Caddell: Ford Moving Jobs to Mexico Is ‘Globalism vs. Nationalism’ -- They’re ’Proving Trump’s Point’
+18873,1,John Bolton Agrees with Bernie Sanders: Hillary Clinton not Qualified to Be President - Breitbart
+18975,2,Philippines’ Duterte Wants Joint Exercises with Japan After Vowing Closer Ties to China - Breitbart
+19030,1,Ted Cruz Unveils Military Plan Aboard Aircraft Carrier: ‘Islamism Will Join Other Discredited Ideologies … on the Ash Heap of History’ - Breitbart
+19074,1,At least 77 dead, hundreds injured in powerful Ecuador earthquake - Breitbart
+19313,3,Trump’s Mission: Make America Great Again, Thinking Big and Winning - Lessons from U.S. History - Breitbart
+19684,1,Erdogan: Turkey Entered Syria to ’End the Rule of the Tyrant Assad’
+19729,3,Report: Military Coup Under Way in Turkey - Breitbart
+19730,1,Kathleen Willey Thanks Donald Trump for Exposing Clintons
+20063,1,Report: Islamic State Has Launched at Least 52 Chemical Weapons Attacks - Breitbart
+20257,1,Pentagon Does Not Know if Sailors Captured by Iran Defended
+20338,1,President Obama Stays on Air Force One for 18 Minutes to Watch End of Cavs-Warriors - Breitbart
+20532,1,***Live Updates*** GOP Candidates Debate in New Hampshire - Breitbart
+20597,1,Donald Trump: Clinton Foundation ’Must be Shut Down’ - Breitbart
+20694,1,U.S. Bombs Al-Shabaab Terror Camp Graduation, Killing over 150 Terrorists
+20736,1,U.S. Navy Plans More Military Exercises of ’Greater Complexity’ in South China Sea
+20818,2,Iran Holds Air Force Drills to Display Defense Might
+21281,3,Saudi-Linked Company Works on Air Force One, VIP Aircrafts
+21313,1,Company Using Trained Eagles to Take Down Drones - Breitbart
+21496,1,US Military Using Floppy Disks For Nuclear Operations - Breitbart
+21640,2,Islamic State Terrorists ’Shave Beards’, Prepare to Flee Mosul
+21652,3,CIA Fears Terrorists Will Use MANPADs to Down Civilian Aircraft
+21722,2,Second Russian Jet Crashes in Failed Carrier Landing Near Syria
+21738,1,Liberal Billionaire Soros To Give $500 Million To Migrants
+21844,1,U.S. Military Declares 12 Missing Marines Dead - Breitbart
+22166,1,Black Lives Matter Activist Claims American Airlines Booted Her from Plane for #FlyingWhileBlack - Breitbart
+22267,1,Exclusive Video: Veteran Forcibly Dragged from Air Force Ceremony for Mentioning God - Breitbart
+22365,1,Donald Trump Receives Bay of Pigs Veterans Association’s First Ever Endorsement - Breitbart
+22392,1,Anniversary of Sandra Bland’s Death Raises Tension Amid War on Cops
+22396,1,Boko Haram Video Shows Corpses of Chibok Girls ’Killed by Airstrikes’ - Breitbart
+22420,1,Obama’s $400 Million Cash Payment to Iran May Be Unprecedented - Breitbart
+22591,2,12 Missing After Marine Helicopters Collide Near Hawaii
+22731,2,Veterans Day Demonstrators Counter Anti-Trump Protests - Breitbart
+22879,2,Eyewitness Anthony Gilberthorpe Challenges Trump Plane Accuser’s ’Wild Allegations’ of Sexual Assault
+23072,2,Claim: Israeli Aircraft Struck Islamic State Targets in Egypt’s Sinai
+23299,1,Forgotten History: How American Presidents from Washington to Lincoln Agree with Trump on Trade - Breitbart
+23398,1,PHOTOS: Pearl Harbor, 75 Years Later
+23801,1,Chinese Military Lures Recruits with Rap Music Video
+23853,2,Hillary Emails - NATO Commander on Libya War Mission: ‘Inshallah, Soon’ - Breitbart
+23878,2,Steve Bannon: Fathers and Grandfathers of ‘Deplorables’ Turned War Around After Pearl Harbor
+24092,2,Israel Shoots Down Hamas Drone as West Bank Violence Surges
+24434,1,Dem Rep Gabbard: ’Lot of Fear’ of Consequences ’Going Against the So-Called Clinton Machine’ In Washington - Breitbart
+24448,1,***Horse Race LiveWire*** Trump v. Clinton Begins - Breitbart
+24667,1,Man Removed from Commercial Flight After Harassing Ivanka Trump and Family - Breitbart
+24743,1,NSA Listens to In-Flight Mobile Calls Placed ’Above 10,000 Feet’
+24879,1,Satellite Images: China Adds Anti-Aircraft Weapons in Colonized South China Sea - Breitbart
+25008,1,Explosions Hit Brussels Airport, One Killed - Belgian Media
+25201,8,MILO: Navy Sides With Seamen, Not Social Justice - Breitbart
+25514,1,Chris Rock Comedy Removed from Delta Airlines for ‘F*ggot’ Joke
+25692,1,South China Sea: Beijing Scrambles Jets against U.S. Warship
+25745,1,Rep. Darrell Issa: I Would Subpoena Hillary Clinton for Lying Under Oath to Congress
+25821,1,Hillary Clinton: We May Have Already Been Visited By Aliens - Breitbart
+25978,1,Chipotle Teams with Google Parent Alphabet for Burrito Delivery Drone - Breitbart
+26292,1,China Says Its South China Sea Military Buildup Is a Boon to the World
+26415,9,Turkish Flight from Texas Diverted to Ireland After Bomb Scare
+26519,2,Egypt Orders ‘Urgent Investigation’ into EgyptAir Crash as Possible Terrorist Attack - Breitbart
+26520,1,U.S. Transfers Missile Defense System to Israel’s Air Force - Breitbart
+26633,2,Plane Crash in Russia, 61 Aboard Reported Dead - Breitbart
+26698,1,Gowdy: CIA Didn’t Want Us Talking To Witness Who Said He Had To Work Phone To Get Gaddafi Loyalists To Come Save Them In Benghazi - Breitbart
+26746,1,Ted Cruz: ‘We’re Going To Build A Wall’ - Breitbart
+27026,1,Human Remains, Debris, Luggage from EgyptAir Flight MS804 Found
+27167,1,Thousands search for missing in Japan’s deadly earthquakes - Breitbart
+27445,1,DEA: 224 Mexican Cartel Border Tunnels Found Since 1990
+28241,2,The Left’s Bloody War on Women: Sending Chicks into Combat Betrays Men, Women and Civilization - Breitbart
+28520,1,Breitbart’s Aaron Klein: Inside House Benghazi Committee’s Final Report - Breitbart
+28592,1,Austrian Government Will Pay Migrants €500 Each To Go Home, Wants Citizen Militia to Patrol Border
+29213,4,Iran Destroys U.S. Navy Fleet in Islamic State-Style Film
+29347,1,Conservative Legend Phyllis Schlafly Dies At 92
+29633,1,In Vietnam, Obama Issues Tepid Response To South China Sea Violations - Breitbart
+29865,1,North Korea Detonates Most Powerful Nuclear Weapon Yet
+29986,1,Media Fail On N.C. Transgender Bathrooms, Hides Stealth Plan To Replace the Sexes With ’Gender’ - Breitbart
+30376,1,North Korea Threatens ’Preemptive Nuclear Strike of Justice’ on U.S.
+30524,1,Putin Calls for ’Strengthening Combat Readiness’ Against NATO
+30857,1,Exclusive — Team Cruz Fires at Rubio for Skipping 18 Defense Bill Votes in 2015: Marco ‘Was Nowhere to Be Found’ - Breitbart
+30931,1,Erik Prince: Clinton ‘Playing Fast and Loose with National Security Very Likely Caused’ Iranian Nuclear Scientist’s Death
+31064,1,Photos: U.S. Sailors on Their Knees Before Iran Surface
+31153,2,Report: Outgoing President Shuts Down Border Aerial Surveillance Program
+31267,2,Philippines President-Elect Won’t Live in Haunted Presidential Palace
+31337,1,Donald Trump Scoffs at ‘Golf and Grandkids’ Cover Story for Runway Rendezvous of Loretta Lynch, Bill Clinton - Breitbart
+31402,3,Psych Eval Ordered After Woman Jumps Out of Airliner
+31516,1,Exclusive: Benghazi Hero Would Not Enlist in Military Under President Hillary Clinton - Breitbart
+31588,1,3 dead in Texas plane crash collision
+31601,1,Lake Erie plane crash: Police now searching for remains
+31607,2,3 missing in downed plane incident off Hawaiian island of Moloka’i
+31619,1,Pilot passed out in cockpit, police say he was drunk
+31622,1, New Year’s resolution: Hold Russia accountable
+31623,1,Pilot passed out in cockpit, accused of being drunk
+31635,2,Trump gives colorful New Year’s Eve speech
+31642,1,Bag found in Lake Erie search for plane carrying 6
+31659,1,Why are Russian warships in Philippines?
+31705,1,US keeping closer watch on North Korea
+31723,1,Fort Lauderdale airport: 5 dead, shooting suspect had gun in checked bag
+31794,4,CNN 10 - January 10, 2017
+31824,1,Obama offers optimism -- and warnings -- in farewell address
+31844,1,Trump’s CIA pick: Russian hacking ’aggressive action’
+31859,5,US Marine F-35s to be ’cornerstone’ in Japan, Pacific defense
+32035,3,LaGuardia Airport collision is 2nd this week
+32154,1,Inside a $250 million mansion
+32257,1,Trump’s immigration ban sends shockwaves
+32315,1,Somalia Fast Facts
+32344,2,Yemen raid: Daughter of Anwar Al-Awlaki reported killed
+32360,3,Trump, Tillerson and the South China Sea: What’s at stake
+32376,3,Inside the Yemen raid: Women al Qaeda fighters surprised US forces
+32407,1,Mattis: US will defend Japanese islands claimed by China
+32409,3,After Trump attack, Lockheed Martin slashes F-35 cost
+32424,1,Military botches release of video seized in Yemen raid
+32492,1,Praise for Putin, but Trump’s Russia policy a work in progress
+32544,4,Chinese and US aircraft in ’unsafe’ encounter
+32676,2,Russia deploys missile in apparent treaty violation
+32697,5,Russian spy ship lurks off Connecticut coast
+32702,1,Russia: The problem Trump can’t escape
+32724,1,Combat troops to Syria? Not so fast
+32736,1,Russian provocation: Bluster or genuine peril
+32760,1,American Politician Plane Fatalities Fast Facts
+32877,1,What is VX nerve agent, and what could North Korea do with it?
+32942,2,Trump’s call for US nuclear supremacy raises questions
+32980,1,3 dead in California plane crash
+33019,1,Trump on generals in Yemen raid: They ’lost’ Navy SEAL
+33038,1,Axelrod: Trump’s promises face buzzsaw of reality
+33055,1,Trump: Sessions ’did not say anything wrong’
+33076,1,Russia: 1,000 ISIS casualties in Palmyra
+33085,1,Suspected chemical attack in Mosul, Red Cross says
+33134,1,China’s modest military spending hike masks bigger goals
+33183,1,Abuja airport shutdown ’hugely embarrassing’
+33185,3,MH370 families plan private search for missing plane
+33214,1,US Marines join local forces fighting in Raqqa
+33291,1,Nearly 100,000 displaced since start of western Mosul assault
+33319,1,Japan’s largest warship to train with US Navy
+33357,1,Marines issue new social media guidelines after scandal
+33362,4,Russian spy ship again spotted off East Coast
+33407,1,Will Iraq survive victory over ISIS in Mosul?
+33460,1,US joins first air assault ’behind enemy lines’ against ISIS in Syria
+33465,3,AQAP trying to hide explosives in laptops, official says
+33475,2,Chinese officials warned US bomber
+33510,2,Plane crashes into Georgia house
+33523,1,US military investigating if airstrikes caused nearly 300 civilian deaths
+33543,1,2008 Georgia Russia Conflict Fast Facts
+33548,3,NATO Fast Facts
+33553,1,US-led strike caused civilian deaths in Mosul, Iraqi official says
+33584,4,US Air Force considers dumping undefeated fighter jet
+33593,1,American Airlines co-pilot dies during landing in New Mexico
+33623,1,Military warns Congress against punting on spending
+33665,1,First on CNN: New terrorist laptop bombs may evade airport security, intel sources say
+33708,6,North Asia on a knife’s edge: Whose position is strongest?
+33714,2,Southeast storms: Death toll climbs to 5
+33725,1,Trump’s Secretary of Everything: Jared Kushner
+33772,1,Trump on Syria’s Assad: ’Something should happen’
+33777,1,Hertling: Trump’s first cold slap of reality
+33796,4,US investigates possible Russia role in Syria chemical attack
+33804,1,Congresswoman ’skeptical’  Assad regime behind gas attack
+33809,6,Satellite images show before, after US strikes on Syrian base
+33820,5,US aircraft carrier-led strike group headed toward Korean Peninsula
+33827,3,Syria strikes: Site of chemical attack hit again
+33856,1,Haley: Syria regime change is inevitable
+33861,1,Coalition and Syrian opposition forces repel ISIS attack
+33867,5,North Korea issues warning as US strike group heads to Korean Peninsula
+33868,1,Tillerson visits Russia as tensions over Syria flare
+33871,3,US missile strike took out 20% of Syria’s airforce, Mattis claims
+33878,1,Spicer on Syria: If you gas a baby or barrel bomb, expect a response
+33891,2,China calls for calm as US dispatches naval might to Korean waters
+33894,1,Putin: More chemical attacks planned in Syria
+33917,1,Trump and China: Master diplomat or paper tiger?
+33929,1,United reimburses passengers on chaotic flight
+33939,1,Trump carves out tough commander-in-chief posture
+33941,1,What next? Scorpion stings man on United Airlines flight
+33951,1,Man dragged off United flight was injured, will file suit, lawyer says
+33952,1,Trump won’t say if he greenlit use of ’mother of all bombs’
+33957,1,Assad claims Syria chemical attack was ’fabrication’, in face of evidence
+33964,1,North Korea surprises with display of new missiles
+33985,1,North Korean missile test fails, US says
+34021,4,US sends newest stealth fighters to Europe
+34041,1,1 killed after Blackhawk crashes at Maryland golf course
+34044,1,Start your Tuesday smart
+34061,4,Official: White House, Pentagon miscommunicated on aircraft carrier’s location
+34077,2,Mockery, anger in South Korea over USS Carl Vinson ’bluffing’
+34094,1,Assad and Kim: A tale of two dictators
+34108,13,4 times in 4 days: Russian aircraft fly off US coast
+34109,1,Married man sends hijack hoax email to avoid trip with girlfriend
+34145,1,Trump’s failure to justify force is concerning
+34164,3,North Korea detains US citizen as tensions rise
+34178,3,North Korea threatens to sink US aircraft carrier
+34181,3,US Navy guided-missile sub calls in S. Korea
+34200,2,North Korea marks anniversary with massive artillery drill
+34211,3,CNN 10 - April 26, 2017
+34212,3,Is Donald Trump taking North Korea’s bait?
+34233,1,North Korea rhetoric is angry -- but is conflict closer?
+34236,1,CNN 10 - April 27, 2017
+34241,1,Pilot: The mystery of United’s dead giant rabbit
+34271,1,North Korea launches missile after US demands world pressure Pyongyang
+34272,1,North Korea’s missile test fails, US says
+34280,2,North Korea timeline: From Trump’s inauguration to now
+34304,1,How the world sees Trump, 100 days in
+34335,2,Trump, Kim’s standoff on the Korean Peninsula keeps region on edge
+34343,2,Aeroflot turbulence leaves passengers with fractures, bruises
+34382,1,CNN 10 - May 3, 2017
+34401,1,Climate change expected to worsen turbulence
+34455,1,Trump: Bedminster stay saves money
+34482,1,ISIS leader in Afghanistan was killed, US confirms
+34531,1,US Navy ship collides with Korean fishing boat
+34560,2,DHS to brief airline reps, lawmakers as laptop ban expansion is considered
+34594,6,Plane in Air Force One fleet was at risk of catching fire
+34597,1,Trump gets 2 scoops of ice cream, everyone else gets 1
+34619,6,Russian jet flies within 20 feet of US Navy plane
+34627,1,Zacarias Moussaoui Fast Facts
+34644,1,Report: North Korean diplomat open to US talks
+34678,2,2 killed in Teterboro Airport crash
+34687,1,Putin warns against ’intimidating’ North Korea
+34696,1,Washington Post reporter: White House ’playing word games’
+34706,1,Coast Guard searches for plane crash survivors off Bahamas
+34713,1,CNN 10 - May 17, 2017
+34753,1,CNN 10 - May 19, 2017
+34756,4,Chinese fighter flew inverted over US Air Force jet, official says
+34765,3,Second carrier to join US ships near Korean Peninsula
+34777,2,American Airlines passenger arrested
+34827,2,North Korea fires another ballistic missile
+34874,1,CNN 10 - May 23, 2017
+34883,1,Unidentified objects flies from North Korea over border with South
+34906,6,Air Force gives new life to the A-10 Warthog
+34917,1,US warship tests China’s claims in South China Sea
+34963,2,Passenger jumps off plane onto tarmac
+34977,6,Chinese jets conduct unsafe maneuver near US aircraft
+34985,2,British Airways IT outage grounds flights
+35013,1,Sri Lanka floods: Battle to rescue stranded as death toll mounts
+35026,1,British Airways says it’s moving closer to full operations after day of chaos
+35041,1,Sri Lanka floods: Battle to rescue stranded as death toll tops 180
+35066,1,Russian cruise missiles hit ISIS targets near Palmyra
+35091,2,US Air Force vet gets 35 years prison for trying to join ISIS
+35125,2,Pence plane missed runway target by nearly 2,000 feet, NTSB says
+35253,5,Wreckage of missing Myanmar military plane found
+35255,2,North Korea launches 4 anti-ship missiles, fourth test in a month
+35339,1,Afghan soldier kills 3 US soldiers, US official says
+35480,1,US sailors missing after collision off Japan
+35537,1,Kushner heads to Jerusalem and Ramallah to talk peace
+35540,1,Syrian warplane shot down by US jet
+35545,1,How do Navy ships operate?
+35565,2,How hot is it in the West? Let us count the ways
+35568,7,Russia: US planes over western Syria now ’air targets’
+35616,2,Egyptian government: EgyptAir wreckage found
+35672,2,Russia denies bombing U.S.-backed Syrian rebels
+35682,2,Oregon man accused of groping teen aboard American Airlines flight
+35722,1,Wildfires and deadly heat wave hit Southwest U.S.
+35743,2,Risky flight from South Pole arrives in Chile
+35748,1,Korean War Fast Facts
+35792,1,Flight 804: Egypt fails to pull data from damaged recorders
+35837,1,Bodies identified as 2 missing family members in Florida, officials say
+35894,1,House hunting by helicopter takes off among Chinese
+35903,2,U.S. officials: Russian warship came dangerously close to Navy ship
+35918,2,EgyptAir 804: Recorder shows signs of smoke
+35921,1,Air Force official: Targeting of ISIS could be better
+35948,1,Bill Clinton meeting causes headaches for Hillary
+35954,1,Airstrikes target fleeing ISIS convoys
+35964,1,Taiwan accidentally launches missile toward China, kills fishing boat captain
+36029,2,Human remains recovered at EgyptAir crash site
+36044,1,Iraq Fast Facts
+36057,2,Pilot: Did a fire cause EgyptAir crash?
+36060,1,ISIS: 143 attacks in 29 countries have killed 2,043
+36067,3,EgyptAir voice recorder indicates fire on plane
+36113,3,U.S. jets diverted to Iraq, abandoning Syrian rebels
+36211,1,Ash Carter: U.S. sending more troops to Iraq
+36237,1,FBI closes the books on D.B. Cooper
+36238,1,US, Moscow set to discuss pact Pentagon may not want
+36241,1,South China Sea: Philippines wins court ruling against China
+36295,3,US, Russia talk Syria coordination despite Pentagon concerns
+36304,1,Kerry: US, Russia to cooperate against al Qaeda in Syria
+36397,6,Turkey’s power cutoff to air base problem for Pentagon
+36412,1,Cruz stands by refusal to endorse Trump
+36466,1,Report: MH370 pilot simulated suspected route
+36481,2,MH370 search could be suspended soon
+36687,2,Reports of chemical gas attacks in 2 Syrian cities
+36713,4,Emirates plane catches fire in Dubai hundreds escape, 1 firefighter killed
+36730,3,Heavy bombing in Syria’s rebel-held Aleppo
+36745,1,Syrian rebels push to break siege in Aleppo
+36770,1,Video purportedly showing US payment to Iran emerges
+36806,1,Balloon pilot didn’t see power lines, investigators think
+36853,1,Turkey’s Erdogan meets with Putin
+36858,2,Secret heroes: Newly revealed Silver Star actions
+36924,2,Virginia plane crash victims identified
+37007,1, Defense officials see gains against ISIS
+37093,5,Aerial close encounter between US, Syrian jets
+37217,1,US fires warning shots at Iranian vessel
+37290,1,Turkey flexes muscle in northern Syria
+37361,1,Tropical systems threaten Southeast US, Hawaii
+37373,1,Libya Fast Facts
+37375,1,Benghazi Mission Attack Fast Facts
+37382,1,September 11th Warning Signs Fast Facts
+37384,2,US commercial flights take off for Cuba
+37510,1,Trump refuses to rule out legal status for undocumented immigrants
+37547,2,Trump calls for military spending increase
+37555,2,Russian fighter jet makes ’unsafe’ intercept of US aircraft
+37556,3,AirAsia flight aborted after navigational error
+37567,1,Failed hostage rescue attempt in Afghanistan
+37629,1,Israel targets Syrian artillery after projectile lands in Golan Heights
+37655,3,US official: Navy aircraft threatened with shoot down by Iran
+37681,1,Syrian ceasefire appears to hold, but aid deliveries on standby
+37683,1,Surprise! US Navy sailor unexpectedly gives birth on aircraft carrier
+37749,7,US Air Force grounds F-35 fighter jets
+37789,1,US, Iraqi troops close in on last ISIS-held city
+37859,1,US blames Russia for Syria convoy attack
+37860,3,1 dead in California U-2 crash
+37913,2,US: ’Concerning’ mustard attack on US base
+37941,1,Aleppo strikes trap children in rubble
+37959,4,The last Flying Tigers of World War II
+38064,1,Regime forces amass around Aleppo as diplomacy falters
+38091,4,Last Doolittle survivor recalls US revenge attack
+38110,1,Hurricane Matthew heads toward Jamaica, Haiti
+38195,1,Will Trump learn from Pence’s debate prep?
+38231,1,What happens if Duterte dumps the US?
+38235,1,Third piece of plane wreckage confirmed as MH370 debris
+38437,2,US Navy’s stealth destroyer joins the fleet
+38502,5,Russian warships sail down British coast
+38524,1,NATO bolsters presence in Eastern Europe as Russia tension rises
+38592,2,2015 Paris Terror Attacks Fast Facts
+38603,3,Two US Marine jets collide over water, one pilot ejects
+38678,1,Southern forest fires force evacuations
+38733,1,Horrific crash kills 1st woman to fly China’s J-10 fighter
+38821,1,Syria: Airstrikes knock out Aleppo hospitals
+38903,1,Brad Pitt child abuse investigation closed
+38939,2,U2 ’Dragonlady’ pilots spy on ISIS from the edge of space
+38946,1,Israel wildfires scorch more land, 60,000 evacuated in Haifa
+38973,1,Israel wildfires: Haifa residents allowed home
+39038,1,Colombia plane crash: 71 dead on Brazil soccer team’s charter flight
+39058,1,US military readies for next frontier: Space war
+39093,1,’Vectors, miss!’ Colombia plane crash audio surfaces
+39235,1,Remembering the date which will live in infamy
+39243,2,PIA plane crash: All 47 on board killed Pakistani pop star among victims
+39282,1,John Glenn, famed astronaut, senator dies at 95
+39319,1,Tillerson leading candidate for secretary of state
+39345,1,Storm impacts flights, arctic blast on the way
+39369,1,Stunning geometric shapes appear in snow on frozen, isolated lakes
+39410,2,China installs weapons on contested South China Sea islands, report says
+39499,1,US says China will return underwater drone
+39526,2,Egypt to hand over EgyptAir crash victims’ remains
+39551,4,MH370: Searchers almost certainly looking in the wrong place, report says
+39590,4,Military reviewing NYC escape routes for Trump
+39597,1,Man removed from flight after allegedly harassing Ivanka Trump, Jared Kushner
+39608,1,For Trump, no qualms in contradicting Obama
+39637,4,Malta hijackers surrender after releasing Libyan passengers
+39647,1,Germany evacuates 50,000 people on Christmas to defuse massive bomb
+39654,2,Performers on crashed plane were headed to Syria
+39662,7,Russia plane crash: What’s the story behind the Tu-154?
+39665,1,Black box from crashed Russian military plane found
+39781,4,Search for AirAsia Flight QZ8501 slowed by weather
+39806,3,7-year-old survives Kentucky plane crash that kills 4
+39810,3,Search for AirAsia victims resumes
+39822,7,30 bodies, window panel found in AirAsia search
+39862,1,Tail of Flight QZ8501 recovered black boxes not found
+39897,1,The American who inspires terror from Paris to the U.S.
+39899,6,Searchers find AirAsia QZ8501’s black boxes
+39950,1,AQAP: How will France respond to Charlie Hebdo attack?
+39985,1,Group makes last-ditch effort to save ’Top Gun’ carrier
+40005,1,How right was Romney?
+40011,3,What are the world’s safest airlines?
+40017,4,No sign of terrorism on AirAsia Flight QZ8501 recording
+40026,1,China denies it stole designs for new U.S. fighter
+40044,2,AirAsia flight climbed quickly before crash
+40110,4,Crews attempt to float AirAsia flight wreckage
+40137,3,2 Marines die as helicopter crashes in California
+40145,2,Weather halts new bid to lift AirAsia QZ8501 fuselage
+40176,1,Incident at White House puts drones into focus
+40198,3,Indonesian military stops search for AirAsia QZ8501
+40236,4,UK jets intercept Russian bombers near British airspace
+40242,10,The new Air Force One
+40247,4,AirAsia plane climbed, triggered stall warning
+40249,1,ISIS fighters: Constant airstrikes drove us from Kobani
+40292,1,Conrad Hilton charged with assault on flight
+40299,2,Opinion: Brian Williams broke public trust
+40317,1,Airstrikes pound ISIS targets in Mosul
+40337,2,Aircraft carrier steams through a rainbow
+40370,1,U.S. copters support Iraqis fighting ISIS
+40394,2,Air Force sending ’tankbuster’ jets back to Europe
+40400,1,Ukrainian leader says ceasefire in effect
+40432,6,UK jets intercept Russian planes near British airspace
+40480,3,’Ghost Rider’ B-52 rises from Boneyard
+40499,1,United Airlines memo to pilots outlines safety concerns
+40512,3,Iran aircraft carrier war games
+40527,1,Inequality: Time for grown-up debate
+40543,3,No trace. A year later we still ask: Where is MH370?
+40574,2,Navy aircraft carriers’ crew: ’The Three Presidents’
+40575,1,’Top Gun’ carrier makes final journey
+40600,3,U.S. Air Force: Is superiority under threat?
+40639,5,Airlander 10: Is the world’s largest aircraft ready for take-off?
+40652,5,Black Hawk crashes off Florida human remains found
+40665,5,U.S. admiral raises alarm over Russian military threat
+40684,1,U.S. Army sending armored convoy 1,100 miles through Europe
+40699,13,New U.S. stealth bomber shrouded in mystery
+40725,1,Aid workers scramble to help Vanuatu after Cyclone Pam
+40733,1,Russia puts Northern Fleet on ’full alert’
+40734,1,UK’s Prince Harry to end military service in June
+40750,1,Ex-airman pleads not guilty to terror-related charges
+40765,6,NATO intercepts Russian military aircraft near Latvia
+40809,1,LAPD officer Henry Solis sought in killing after fight
+40890,1,Italy high court to weigh Amanda Knox case Friday
+40913,5,Germanwings plane crash: Co-pilot acted deliberately
+40934,2,Officials: Co-pilot Andreas Lubitz hid illness
+40935,1,Pilot: Why I take this personally
+40946,1,Unrest, violence mars Arab Spring aftermath
+40955,1,Reports: Antidepressants found at Andreas Lubitz home
+40977,1,Air Canada plane loses landing gear in Halifax
+41011,5,Iranian aircraft buzzed Navy helicopter in Gulf
+41055,1,What’s Germanwings’ legal liability for Alps crash?
+41064,2,Rest easy Japan: Space invaders aren’t interested
+41186,4,The ’Furious 7’ C-130 Hercules that just won’t quit
+41229,2,U.S. says Russian fighter jet intercept was ’unsafe’
+41246,1,Small plane crashes in Fort Lauderdale, Florida
+41299,3,UK jets sent to intercept Russian bombers
+41303,5,Man taken into custody after landing aircraft on Capitol grounds
+41323,2,Solar-powered plane gets stuck in China
+41339,4,Gyrocopter pilot who shut down Capitol released
+41349,2,Aircraft carrier that survived atomic blasts surveyed
+41381,2,U.S.: Warships near Yemen create ’options’ on Iran
+41478,1,Mobile Bay boaters missing after storm
+41501,2,FAA: Dreamliner battery could lose all power
+41546,2,Hangar of Japan’s aircraft carrier sub found
+41560,14,American to launch Dreamliner 787 service
+41564,5,Germanwings co-pilot Andreas Lubitz rehearsed descent
+41566,4,Pentagon considered stopping intercepts of Russian aircraft
+41586,2,Russia shows off new high-tech tank
+41599,1,Russia marks 70 years since victory over Nazi Germany
+41616,1,The 11 best videos of the week
+41624,1,Air Force’s newest fighter gets first female pilot
+41661,3,China cautions U.S. Navy on patrols in South China Sea
+41662,10,40 years ago: Vietnam War ends with massive airlift
+41668,3,Johnny Depp’s dogs flying back to America
+41673,1,Abu Sayyaf, key ISIS figure in Syria, killed in U.S. raid
+41806,11,A secret Navy flight over China’s military buildup
+41807,3,Chinese official: U.S. playing up South China Sea issue
+41808,1,In show of muscle, Russia conducts military exercise
+41834,1,Air France plane had near miss with African volcano
+41890,1,Why is this Special Forces war hero being investigated?
+41937,1,Solar Impulse slowed by weather front on Pacific flight
+41959,1,Weather front slows solar plane on Pacific flight
+41983,2,Russian planes fly close to U.S. warship near Crimea
+42024,6,Should U.S. worry about China’s island building?
+42030,4,Does the FBI have a secret surveillance air force?
+42092,2,U.S. bombs ISIS using social media intel
+42097,3,Hypersonic aircraft to go 5 times the speed of sound
+42130,1,U.S. helicopter fired on from Mexico side of the border
+42132,1,Southwest plane clips aircraft wing after push back
+42150,1,Hillary Clinton’s other Libya problem
+42167,2,The superyacht that’s also a jet plane and a helicopter
+42239,6,U.S., Russian aircraft came within 10 feet
+42241,1,MH370 possibly plunged straight into ocean, expert says
+42293,5,Russian military aircraft buzzes NATO warships in Baltic
+42323,1,Diverted flight strands passengers in military barracks
+42333,1,Tropical Storm Bill strikes Texas
+42336,1,Asia trade deal: Obama’s pivot to nowhere
+42376,1,Why Waterloo still fascinates us (Opinion)
+42380,5,Air Force may send top-line fighters to Europe
+42388,3,U.S.-Russia military tango raises fears of conflict
+42408,1,New York prison escapees added to most wanted list
+42487,1,New York prison break: Focus of manhunt shifts again
+42510,3,Hackers successfully ground 1,400 passengers
+42512,1,James Horner killed in plane crash
+42523,4,Kim Jong Un meets N. Korea’s first women fighter pilots
+42561,1,Airlines’ carry-on bag chaos has to end (Opinion)
+42612,2,U.S. theory: ISIS’s al-Baghdadi hiding among civilians
+42680,1,EPA boss: Climate is ’greatest threat of our time’
+42825,2,After ’El Chapo’ escape, Mexico offers reward
+42841,2,Drones visit California wildfire, angering firefighters
+42842,1,Defiant Donald Trump refuses to apologize to John McCain
+42888,1,U.S. hits top terror leader in strike
+42941,4,How Tom Cruise dangled from moving plane
+42964,3,Debris looks like part of Boeing 777, source says
+42968,1,Search for missing Florida teens reaches Day 6
+42985,4,F-35 set to make its debut
+42997,3,9/11 photos show challenge of pivotal moment
+43002,2,Airliners come within 100 feet of drone over New York
+43008,1,Bin Laden relatives killed in UK plane crash, police say
+43026,2,Can Zimbabwe have lion’s killer extradited?
+43038,1,F-35 Joint Strike Fighters cleared for active combat
+43044,6,MH370: Malaysia says more plane debris found on Reunion
+43052,3,No U.S. aircraft carrier in Persian Gulf for 2 months
+43069,1,Malaysia reckless on MH370 facts
+43108,1,Check out Delta’s new Canadian airliner that’s trying to challenge Boeing and Airbus
+43313,1,American Airlines is banning carry-on bags and overhead bin use for basic-economy passengers
+43360,3,People are freaking out about American Airlines’ new ’basic economy’ tickets — but it may not be as bad as it seems
+43405,1,Emirates just launched a new flight to New York — and US airlines are furious
+43470,1,A bizarre photo of 80 giant birds on a plane is taking over the Internet — but it isn’t as strange as you think
+43511,1,Al Qaeda was ready and waiting for the SEALs on Trump’s first raid
+43530,1,Trump’s ’America First’ policies are catapulting Boeing into dangerous territory
+43587,1,The F-35 slaughtered the competition in its latest test
+43700,2,China’s military is approaching ’near parity’ with the West
+43722,1,Warren Buffett’s $10 billion airline investment reveals everything you need to know about the industry
+43736,6,At least 5 people feared dead as plane crashes into major Melbourne retail centre
+43808,2,A forgotten war technology could safely power Earth for millions of years. Here’s why we aren’t using it
+43875,2,The US is considering a direct strike against North Korea — here’s how it would go down
+43990,2,SEAL Team 6 is reportedly training for a decapitation strike against North Korea’s Kim regime
+44083,1,Tech and terrorism experts question Trump’s airline electronics ban: It ’makes absolutely no sense’
+44143,2,The US government’s laptop ban is now in effect — here’s what we know so far
+44204,1,North Korea reportedly has a fleet of 1,000 drones it can use for chemical attacks
+44221,2,An ex-military Google X employee collapsed on the job, and his coworkers say corporate culture is to blame
+44305,5,Syrian forces defiantly take off from airfield hit by onslaught of US cruise missiles
+44309,2,US officials: Russian drone may have turned camera off, right before Syrian attack
+44342,1,Facing impeachment, Alabama governor Robert Bentley resigns over sex scandal
+44345,1,The government is now reviewing the United Airlines incident where a man was dragged off a plane
+44346,2,United responds after shocking video shows doctor being dragged from plane
+44356,1,Sean Spicer apologizes for his controversial Holocaust remarks: ’Frankly, there is no comparison’
+44358,2,Man dragged off United flight breaks his silence, says ’everything’ is injured
+44378,2,The US unleashed the ’mother of all bombs’ onto an ISIS target in Afghanistan
+44379,2,Tensions between the US and North Korea are ramping up amid nuclear threats
+44384,1,Here’s how much the ’mother of all bombs’ the US just dropped on ISIS in Afghanistan actually cost
+44392,4,United made a major change to ensure the nightmare of Flight 3411 doesn’t happen again
+44393,1,Here’s what’s going on with Chinese troop movements on North Korea’s border
+44409,2,’A new phase’: Trump shifts on core issues at a dizzying pace at a critical moment in his presidency
+44424,1,The US and China are weighing responses to North Korea’s failed missile launch
+44429,1,The US’s show of force toward North Korea may be ’just adding fuel to the fire’
+44439,1,I’ve been flying for 40 years — and it’s always been a terrible experience
+44459,4,Iran’s ’stealth’ fighter is a total joke
+44470,1,North Korea: We will launch ’super-mighty preemptive strike’ on US forces, mainland
+44476,2,A startup’s $1 million flying car is officially rolling out to buyers in 2020
+44553,1,A submarine that carries US Navy SEALs just arrived off the coast of North Korea
+44563,3,Here’s why a Delta passenger was kicked off a plane for using the bathroom
+44570,2,North Korea test fires medium-range missile shortly after US-South Korea talks
+44574,1,Alphabet just revealed details of a secret Sergey Brin company — and it sounds like his new blimp project
+44610,1,Why it’s important that Trump would be ’honored’ to talk to North Korea’s Kim Jong Un
+44671,1,This strange mod to the F-35 kills its stealth near Russian defenses — and there’s good reason for that
+44845,2,Passenger detained after allegedly trying to breach cockpit on an American Airlines flight to Hawaii
+44856,1,US Air Force fighter jets escorted an American Airlines plane into Hawaii after a passenger disturbance
+44870,2,A former special forces sniper is taking up a new fight — protecting one of the world’s most endangered species
+44937,1,French officials are investigating whether an iPhone and iPad played a role in a terrifying plane crash that killed 66 people
+44940,1,We flew to the Hamptons like the 1% with Blade, an ’Uber-for-helicopters’ startup — and it was as fabulous as it sounds
+44978,6,Here’s how much room you get on each of America’s airlines
+45042,2,Flying economy in America has become an awful experience — and it will likely only get worse
+45190,1,United Airlines grounded a flight after passengers witness jet fuel gushing from the wing
+45202,1,These United emails reveal how terrified the airline has become of its customers
+45229,3,Airline gate agents share 8 of their favorite travel hacks
+45232,1,US-led coalition aircraft shoots down Syrian fighter jet near Raqqa
+45250,2,The White House has delayed imposing new financial sanctions on Iran as tensions mount between the two nations
+45273,1,5 planes wrote ’Trump is disgusting’ in the air over California’s annual Rose Parade
+45400,1,’El Chapo’ may have made a security ’screw up’ that led to his capture
+45454,1,NASA is upping the competition on SpaceX
+45475,1,SpaceX breaks a leg and misses chance at a successful rocket landing
+45726,1,The South China Sea will be the battleground of the future
+45789,1,2 superpowers were responsible for a big chunk of last year’s increase in military spending
+45844,1,Check out Boeing’s newest airliner — the 737 Max
+45944,1,A small plane with more than 20 people on board is reportedly missing in the mountains of Nepal
+46066,1,A Ukrainian plane company is threatening to overtake defense giant Lockheed Martin
+46074,2,This is what it looks like when the Air Force tests its jet engines
+46100,1,This is what it’s like to fly a personal seaplane around New York City
+46200,1,The US now believes that it killed ISIS’ military mastermind in an airstrike
+46220,1,FedEx: Amazon would have to spend ’tens of billions’ to compete with us
+46320,1,Watch this JetBlue flight take a hard landing at an airport in the Bahamas
+46435,1,MAJOR FEDSPEAK: Here’s your full preview of this week’s big economic events
+46511,2,Beautiful pictures of US B-52s arriving in Qatar to strike ISIS
+46694,3,US airlines are freaking out about a company you’ve never heard of
+46727,1,US military uses controversial ’roof knock’ tactic in Iraq to try to warn civilians before bombing raids
+46858,3,These are all the planes in the US Air Force
+46946,2,This is the real reason US airlines should be terrified of a European upstart you’ve never heard of
+46981,1,Wreckage from crashed EgyptAir flight MS804 has not been found, is still considered missing
+46987,1,A US patrol plane was just intercepted by 2 Chinese military aircraft over the South China Sea
+47006,3,Black boxes from EgyptAir flight 804 reportedly located as officials confirm smoke was detected before it crashed
+47008,5,The Egyptian Army has shared the first photos of wreckage from the crashed EgyptAir flight
+47036,10,We’re thinking of drones completely wrong
+47154,2,Boeing may be redesigning its most popular plane to fix a ’major mistake’
+47189,1,The nastiest feud in the airline business has reached soap-opera-worthy levels
+47219,1,There’s one reason why the A-10 Warthog is irreplaceable
+47243,2,Russia just unveiled its new Airbus and Boeing challenger
+47321,1,This company is offering a $35,000 deal on unlimited business-class flights
+47384,2,It’s not just cars — electric airplanes are coming, too
+47400,1,It’s taken me years of flying to put my finger on this critical flaw in airplane design
+47513,1,One of 2 black boxes on doomed EgyptAir flight stopped recording when the plane fell off radar at 37,000 feet
+47567,1,Here’s what the $99 flight from LA to Iceland is like
+47762,3,It’s a ’mystery’ why 2 rebel jets that could have attacked the Turkish president’s plane didn’t
+47927,1,The evidence is mounting that the disappearance of MH370 was a deliberate act by the pilot
+47957,3,An Emirates flight has crash-landed at Dubai’s airport
+48215,2,The F-35 ’will absolutely thrive’ in the most militarized region on the planet
+48244,4,Here’s when an F-15 is better than an F-22 or an F-35
+48276,1,Obama’s biggest achievement in Syria fell short — and Assad is rubbing it in his face
+48349,2,A meteorologist reveals what it’s like to fly an airplane through a hurricane
+48371,6,Airlines have no idea what to do when people are sexually assaulted on flights
+48418,1,Obama’s grand finale trip to Asia has turned into a disaster
+48447,2, Boeing is making a major change to its planes that could end jet lag as we know it
+48494,1,Norwegian Air will offer $69 tickets to Europe — but one thing needs to happen first
+48945,1,Russia has muscled the US out of Syria
+49180,2,This man built a cutting-edge stealth boat for the US Navy. Then the government tried to put him out of business.
+49436,1,An airline pilot reveals why a plane Boeing discarded 12 years ago is the one they desperately need
+49459,1,Delta bars passenger for life after his expletive-laced, pro-Trump rant on a flight
+49553,1,Watch a US-led coalition airstrike knock out an ISIS headquarters near the group’s last Iraqi stronghold
+49650,4,Military plane circles low over Manhattan, prompts brief widespread confusion
+49752,1,After meeting with Trump, Boeing CEO says Air Force One will cost less than $4 billion
+49757,4,A Cold War technology designed to make jets fly for days might solve Earth’s looming energy crisis
+49764,4,Trump asks Boeing to price out a comparable jet to compete with F-35 — and Lockheed Martin’s stock tanked
+49765,1,Trump says US must ’expand its nuclear capability’ until ’the world comes to its senses’
+49804,2,A Russian military plane carrying 92 people has crashed into the Black Sea
+49807,4,Iran negotiated to pay only half price for its $16.6 billion Boeing plane deal
+49808,3,These 6 planes want to end Airbus and Boeing’s dominance in the skies
+49828,1,Korean Air has given flight attendants the green light to use tasers on unruly passengers
+49865,1,Why the Technology in ’Rogue One’ Is So Old-Fashioned
+49893,1,Obama: The Ocean President
+49947,4,Inside LAX’s New Anti-Terrorism Intelligence Unit
+49954,1,The Atlantic Daily: Movies and Movements

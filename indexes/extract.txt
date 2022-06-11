@@ -1,0 +1,300 @@
+23,1,George Michael’s Freedom Video: An Oral History - The New York Times
+24,1,With New Congress Poised to Convene, Obama’s Policies Are in Peril - The New York Times
+95,1,Corzine Reaches $5 Million Settlement With Regulators in MF Global Case - The New York Times
+143,1,After One-Child Policy, Outrage at China’s Offer to Remove IUDs - The New York Times
+252,1,6 Volkswagen Executives Charged as Company Pleads Guilty in Emissions Case - The New York Times
+270,1,Neanderthals Were People, Too - The New York Times
+339,1,Scott Pruitt, Trump’s E.P.A. Pick, Backed Industry Donors Over Regulators - The New York Times
+344,3,U.K. Set to Choose Sharp Break From European Union - The New York Times
+363,1,Trump Health Secretary Pick’s Longtime Foes: Big Government and Insurance Companies - The New York Times
+482,1,What Did Neanderthals Leave to Modern Humans? Some Surprises - The New York Times
+548,1,Trump Revives Keystone Pipeline Rejected by Obama - The New York Times
+842,1,For Andrew Puzder, Labor Nominee, Fighting for Owners’ Interests Began Early - The New York Times
+871,1,G.O.P. Hurries to Slash Oil and Gas Rules, Ending Industries’ 8-Year Wait - The New York Times
+888,1,Spicing Up the Colombian Melting Pot - The New York Times
+1003,1,Trump May Turn to Arab Allies for Help With Israeli-Palestinian Relations - The New York Times
+1030,1,Former A.I.G. Executives Reach Settlement in Accounting Fraud Case - The New York Times
+1075,1,Top Opposition Leader in Cambodia Resigns as Election Nears - The New York Times
+1105,1,Lt. Gen. Harold Moore, Whose Vietnam Heroism Was Depicted in Film, Dies at 94 - The New York Times
+1227,1,Geert Wilders, a Dutch Nationalist Politician, Calls Moroccan Immigrants ‘Scum’ - The New York Times
+1340,1,An Aquatic Paradise in Mexico, Pushed to the Edge of Extinction - The New York Times
+1403,1,Trump to Seek $54 Billion Increase in Military Spending - The New York Times
+1496,1,Sydney’s Swelter Has a Climate Change Link, Scientists Say - The New York Times
+1514,1,Paula Fox, Novelist Who Chronicled Dislocation, Dies at 93 - The New York Times
+1547,1,Leashes Come Off Wall Street, Gun Sellers, Polluters and More - The New York Times
+1570,1,A Eureka Moment for Two Times Reporters: North Korea’s Missile Launches Were Failing Too Often - The New York Times
+1576,1,California Today: What to Look for on Election Day - The New York Times
+1578,2,Activists Rush to Save Government Science Data — If They Can Find It - The New York Times
+1589,1,Exciting Microbe Research? Temper That Giddy Feeling in Your Gut - The New York Times
+1592,1,With WikiLeaks Claims of C.I.A. Hacking, How Vulnerable Is Your Smartphone? - The New York Times
+1600,1,Sessions’s Potential Deputy Faces a Stern Test on Russia Inquiries - The New York Times
+1731,1,Is ICE’s Help-Wanted Sign a Welcome Mat for Rogue Applicants, Too? - The New York Times
+1747,1,It’s Democrats’ Turn to Hint at a Shutdown, Over Border Wall Funding - The New York Times
+1907,3,Patients Lose Sight After Stem Cells Are Injected Into Their Eyes - The New York Times
+1942,1,The Hawaii Cure - The New York Times
+2055,2,U.S., in Reversal, Issues Permit for Keystone Oil Pipeline - The New York Times
+2106,1,What to Know About Trump’s Order to Dismantle the Clean Power Plan - The New York Times
+2234,1,After Brexit, Scotland Lays a Path to Another Independence Vote - The New York Times
+2270,1,Explosion in St. Petersburg, Russia, Kills 11 as Vladimir Putin Visits - The New York Times
+2366,1,Special Ops With a Studious Bent Fight Destruction of Brazil’s Amazon - The New York Times
+2368,1,F.D.A. Will Allow 23andMe to Sell Genetic Tests for Disease Risk to Consumers - The New York Times
+2405,1,An Ambrosial Cake, and That’s Just the Filling - The New York Times
+2671,1,Dilma Rousseff, Facing Impeachment in Brazil, Has Alienated Many Allies - The New York Times
+2720,1,Two-Hour Marathon. Can It Be Done? - The New York Times
+2730,1,Social Media Finds New Role as News and Entertainment Curator - The New York Times
+2738,2,China Quietly Targets U.S. Tech Companies in Security Reviews - The New York Times
+2868,1,‘Liquid’ Cancer Test Offers Hope for Alternative to Painful Biopsies - The New York Times
+2874,3,Greed, Corruption and Danger: A Tarnished Afghan Gem Trade - The New York Times
+2883,2,Do Gorillas Even Belong in Zoos? Harambe’s Death Spurs Debate - The New York Times
+2975,1,Court Backs Rules Treating Internet as Utility, Not Luxury - The New York Times
+2983,1,Can Netflix Survive in the New World It Created? - The New York Times
+3130,1,With Both Parties in Turmoil, Britain Weighs a General Election - The New York Times
+3184,1,Nigel Farage, Who Spurred ‘Brexit,’ Resigns as Head of U.K. Independence Party - The New York Times
+3239,1,If a Carrot for Jordan Works, Syrian Refugees Will Stay Put - The New York Times
+3275,1,Train Crash in Italy Leaves at Least 25 Dead and Dozens Injured - The New York Times
+3381,1,Uncle Sam Wants You — Or at Least Your Genetic and Lifestyle Information - The New York Times
+3401,1,Hedge Fund Calls New York Times Article a ‘Distortion’ - The New York Times
+3423,1,Harnessing the Immune System to Fight Cancer - The New York Times
+3435,2,Setting the Body’s ‘Serial Killers’ Loose on Cancer - The New York Times
+3467,2,The Brain That Couldn’t Remember - The New York Times
+3548,1,Echoing a Film Plot, Chinese Gangs Kill Drifters in an Elaborate Mining Ruse - The New York Times
+3588,1,Hard Times in Venezuela Breed Malaria as Desperate Flock to Mines - The New York Times
+3625,1,Beyond Coal: Imagining Appalachia’s Future - The New York Times
+3832,1,How Spy Tech Firms Let Governments See Everything on a Smartphone - The New York Times
+3868,1,NASA Aims at an Asteroid Holding Clues to the Solar System’s Roots - The New York Times
+4020,1,Inspired by the U.S., West Africans Wield Smartphones to Fight Police Abuse - The New York Times
+4026,1,Straightforward Answers to Basic Questions About Syria’s War - The New York Times
+4169,1,Deutsche Bank Troubles Raise Fear of Global Shock - The New York Times
+4228,1,N.J. Transit Changes Rules for Trains Arriving at Hoboken Station - The New York Times
+4272,1,Martha Raddatz and Anderson Cooper Steered Debate With Sharp Questions - The New York Times
+4278,3,How U.S. Torture Left a Legacy of Damaged Minds - The New York Times
+4508,2,Marijuana Company Prepares to Cross State Lines, as Legally as Possible - The New York Times
+4570,1,In Michael Chabon’s ‘Moonglow,’ Deathbed Stories Illuminate an Era - The New York Times
+4726,1,With One Castro Gone, Questions About What the Other Castro Will Do - The New York Times
+4749,1,Venus Flytraps Need Protection From Poachers in North Carolina - The New York Times
+4765,1,Skiing the Alps, Making It My Own - The New York Times
+4784,1,Donald Trump Holds ‘Thank You’ Rally in Cincinnati, and Announces His Pick for Defense Secretary - The New York Times
+4871,1,What It’s Like to Apply for a Job in Donald Trump’s White House - The New York Times
+4880,1,1 Patient, 7 Tumors and 100 Billion Cells Equal 1 Striking Recovery - The New York Times
+4951,1,Under Rex Tillerson, Exxon Mobil Forged Its Own Path Abroad - The New York Times
+4958,1,Reversing Course, E.P.A. Says Fracking Can Contaminate Drinking Water - The New York Times
+5047,1,Platinum Hedge Fund Executives Charged With $1 Billion Fraud - The New York Times
+5051,1,Harnessing the U.S. Taxpayer to Fight Cancer and Make Profits - The New York Times
+5196,1,Taking a Trip, Literally, on Colorado’s Pot Trail - The New York Times
+5246,1,Avoiding Peanuts to Avoid an Allergy Is a Bad Strategy for Most - The New York Times
+5258,1,Ted Cruz Stays Positive Despite Grim Numbers in Indiana - The New York Times
+5270,1,Bountiful Afghan Opium Harvest Yields Profits for the Taliban - The New York Times
+5324,1,Those With Multiple Tours of War Overseas Struggle at Home - The New York Times
+5364,1,Regulators Fear $1 Billion Coal Cleanup Bill - The New York Times
+5403,1,Court Papers Give Insight Into Stanford Sex Assault - The New York Times
+5452,2,Obama Fracking Rule Is Struck Down by Court - The New York Times
+5577,1,In the Age of ISIS, Who’s a Terrorist, and Who’s Simply Deranged? - The New York Times
+5632,1,At the Front in a Scarred Falluja - The New York Times
+5780,1,Simple Rules for Healthy Eating - The New York Times
+5849,1,The Same, Only Different: Designing a New Union Square Cafe - The New York Times
+5861,1,Obama on Climate Change: The Trends Are ‘Terrifying’ - The New York Times
+5876,1,In the Bonobo World, Female Camaraderie Prevails - The New York Times
+5952,1,As New York Breathes Sigh of Relief, Bomb Victims Cope With the Aftermath - The New York Times
+6011,1,How Hillary Clinton Grappled With Bill Clinton’s Infidelity, and His Accusers - The New York Times
+6066,1,How to Improve Your Retirement Income if You Haven’t Saved - The New York Times
+6165,1,One Killed and at Least 2 Wounded in Shooting Near California Polling Places - The New York Times
+6307,1,How to Hide $400 Million - The New York Times
+6315,1,Trump’s Tough Trade Talk Could Damage American Factories - The New York Times
+6378,1,High on Hitler and Meth: Book Says Nazis Were Fueled by Drugs - The New York Times
+6395,2,Rick Perry, Ex-Governor of Texas, Is Trump’s Pick as Energy Secretary - The New York Times
+6495,2,Taking Fish Oil During Pregnancy Is Found to Lower Child’s Asthma Risk - The New York Times
+6546,1,For Hillary Clinton and John Kerry, Divergent Paths to Iran Nuclear Talks - The New York Times
+6655,1,How ‘Brexit’ Will Affect Travel to Europe - The New York Times
+6688,1,Anti-Abortion Group Presses Ahead Despite Recent Supreme Court Ruling - The New York Times
+6782,1,Louisiana Floods Lead to 8 Deaths - The New York Times
+6828,1,Crickets, Snakes, Crabs: A Mix of Fact and Fraud in New York’s Subway - The New York Times
+6831,1,Yesterday, Outraged by Apple’s Tax Dodge. Today, by Its Tax Bill. - The New York Times
+6832,1,How to Win Friends and Influence People (on Fake Mars) - The New York Times
+6922,1,Woman Who Took Husband’s Intestine on Flight Wanted It Tested, Lawyer Says - The New York Times
+7111,1,How the Twinkie Made the Superrich Even Richer - The New York Times
+7127,1,Congressman Proposes National Surveillance Program After Trump Meeting - The New York Times
+7357,1,Decoding North Korea’s Claim of a Successful Nuclear Test - The New York Times
+7359,1,Wells Fargo Offers Regrets, but Doesn’t Admit Misconduct - The New York Times
+7414,1,This Time, Anna Deavere Smith Cuts Close to Home - The New York Times
+7492,1,Clinton Campaign Demands Intelligence on Possible Russian Efforts to Elect Trump - The New York Times
+7505,1,Zsa Zsa Gabor, Actress Famous for Her Glamour (and Her Marriages), Dies at 99 - The New York Times
+7519,1,No Food, No Medicine, No Respite: A Starving Boy’s Death in Venezuela - The New York Times
+7542,1,Opioid Prescriptions Drop for First Time in Two Decades - The New York Times
+7610,1,A Celebrity Z-List? Yes, It Exists - The New York Times
+7663,2,Battle Lines Over Trump’s Lands Policy Stretch Across 640 Million Acres - The New York Times
+7729,1,David’s Ankles: How Imperfections Could Bring Down the World’s Most Perfect Statue - The New York Times
+7741,1,The Surprising Science of Cease-Fires: Even Failures Can Help Peace - The New York Times
+8329,1,Report: ’72 Terrorists Came From Countries Covered by Trump Vetting Order’
+8473,1,GRAPHIC: Mexican Border State Authorities Unearth Bodies in Shallow Graves
+8981,1,Fitton: Documents Confirm that Obama IRS Improperly Targeted Conservatives - Breitbart
+9012,1,Texas Dems Stage Hunger Strike Over Sanctuary City Crackdown
+9352,1,Exclusive — Taylor Force Family’s Attorneys: Cut U.S. Funding to Palestinian Terrorists, Suicide Bombers’ Families Now - Breitbart
+9429,1,Los Angeles Seeks to Stop Oil and Gas Boom - Breitbart
+9842,1,CNN: Trump Pushes Congress to Quickly Fund Wall - Breitbart
+10011,1,FCC Deregulation: Merger Mania as Courts to Rehear AT&ampT Mobility Case - Breitbart
+10718,1,ACLU Attorney: Dismemberment Abortion Not ‘Inhumane’ - Breitbart
+10978,1,Facebook Files Patent for Meme Analysis Engine - Breitbart
+11207,1,Vox Claims North Korea’s Economy Doing ’Pretty Well’
+11373,1,Hayward: 9 Vital Principles for Obamacare Repeal - Breitbart
+11441,1,Ubisoft Surprises with ’Mario’ Crossover Title at E3 Press Conference - Breitbart
+11651,1,WATCH: Netanyahu Thanks House For Condemning UN Resolution
+11807,1,Gabe Newell Hints at His Regrets About the ’Half-Life’ Franchise in Reddit AMA - Breitbart
+12343,1,Terror Suspect Wanted to Join Islamic State, Gun Down ’Jewish Football Fans’
+12397,1,’Prey’ Review: An Immersive Though Sometimes Repetitive Sci-Fi Shooter RPG Hybrid - Breitbart
+12751,1,Elon Musk Threatens to Quit Advisory Panel if Donald Trump Cuts Energy Taxes, Subsidies - Breitbart
+12983,1,Trump Tweets: Democrats Help MS-13, Heroin Smugglers by Opposing Border Wall - Breitbart
+13216,1,Students Ask Boston University Alumni to Withhold Donations over School’s Ties to Fossil Fuel Industry - Breitbart
+13336,1,California Fracking Boom Set to Lift U.S. Production to New Record - Breitbart
+13433,1,Los Angeles Olympics on the Way, Just a Matter of When - Breitbart
+13654,1,Judith Clark Sued FBI for Harassment While Engaging in Domestic Terrorism - Breitbart
+13700,1,Trump, Unlike Obama, Addressed ’Islamic Terror’ Directly - Breitbart
+14185,1,Report: U.N. Agency Is Helping North Korea with Patent for Nerve Gas Component
+14730,1,Final Death Toll for Italy Avalanche Reaches 29
+14908,1,Pew: Middle Class Shrank During Obama’s Eight-year Tenure - Breitbart
+14952,1,North Korea Research Paper Calls U.S. a ’Human Rights Desert’
+15338,1,MILO: How I Forced GLAMOUR Magazine To Admit I’m Not A ’White Supremacist’ - Breitbart
+15502,1,Orlando Police Chief: Some Victims May Have Been Hit by Police
+15717,1,Study: China Harvesting Organs from Tens of Thousands of Political Prisoners Annually - Breitbart
+16159,1,Cartel Bosses Run Mexican Empires from Safe Houses in Texas - Breitbart
+16475,1,Geller: Free Afshin Sohrabzadeh! - Breitbart
+16678,1,Scammers Are Pretending to Be Your Facebook Friends - Breitbart
+16805,1,Amazon Refuses to Turn Over Echo Recordings to Police in Murder Investigation - Breitbart
+17445,1,Donald Trump Officially Opens Los Angeles Campaign HQ - Breitbart
+17675,1,Marijuana Legalization in U.S. Cuts Mexican Pot Profits by 70 Percent
+17974,1,After ‘Spotlight’ Takes Oscar, Boston Globe Dumps Catholic Site - Breitbart
+18139,1,Former Facebook Employee Compares Company Culture To A Religion - Breitbart
+18296,1,Albanian Migrant On The Run After Double-Stabbing Murder
+18542,1,More Trouble for Theranos: Two Years of Blood-Test Results Voided - Breitbart
+18627,1,Obama Might As Well Have Declared: ’Britain Lost the War Of Independence Because You Have Small D**ks’
+19237,1,Italian High Court Rules Public Masturbation Not a Crime
+19638,2,Steve Bannon on Wall Street Reform: ’It’s Not That Money Controls Washington. Washington Controls the Money’ - Breitbart
+19817,2,Texas Tutor’s Lewd ’Batman and Robin’ Selfies Lead to Child Porn Charges
+20086,1,Boycott of Target and Kellogg’s Deters Corporate Bullying, Says American Family Association - Breitbart
+20698,1,OPEC Chief: Oil is Now Too Cheap
+21164,1,Progressives’ Hatred of Nationalism Pushes US Towards the End of Sovereignty - Breitbart
+21171,1,Donald Trump Making America’s Energy Policy Cheaper, Faster, and Better - Breitbart
+21399,1,Report: Islamic State General Flees to Europe with 400 Soldiers Disguised as Refugees
+21588,1,***Horse Race LiveWire*** Cruz Picks Fiorina as Running Mate Bobby ’The General’ Knight to Endorse Trump - Breitbart
+21911,2,How Donald Trump Can Win Iowa - Breitbart
+22406,1,New York Times: Unease Over Mass Migration Is Spawning ’Far-Right’
+22803,1,Leadsom Dubbed ’Maggie II’, Ahead In Polls, Gets Farage Backing
+23437,2,Jack Abramoff: I Was Imprisoned for Same Things Hillary Clinton Has Done
+23507,1,Hillary University: Bill Clinton Bagged $16.46 Million from For-Profit College as State Dept. Funneled $55 Million Back - Breitbart
+23591,1,EXCLUSIVE-Claim: Carnival Forces U.S. Workers to Train Foreign Replacements Before Christmas - Breitbart
+23655,1,DELINGPOLE: ’Moronic, Self-Righteous, Disgusting Losers’ Tried to Turn the Berlin Attack on Nigel Farage - Breitbart
+23758,1,Exclusive — Donald Trump on Paul Ryan Summit: ‘We’re Going to Beat Hillary Clinton’ Either Way, But Unity ‘Much Better’ - Breitbart
+23790,1,Exclusive — Sen. Jeff Sessions on WikiLeaks Revelation of Hillary Clinton’s Support for ‘Open Borders’: ‘It’s a Smoking Gun’ - Breitbart
+24184,1,Trump: ’We’re Gonna Get Apple to Start Building Their Damn Computers and Things In This Country’ - Breitbart
+24547,2,Sonnie Johnson: Are You Ready to Talk About Real Freedom Now, Jesse Williams? - Breitbart
+24709,3,New York Considering ’Textalyzer’ to Determine if Texting Led to Car Crashes - Breitbart
+24920,1,Obama Uses Mosque Speech to Subordinate All Religion to the State - Breitbart
+25831,1,Implanted Brain Chip Allows Paralyzed Man to Control Hand Again - Breitbart
+27016,1,Infant Found in Storm Drain After Ejected From Car
+27439,1,Donald Trump: Hillary Clinton’s 65 Percent Estate-Tax Grab Will Alienate ’NeverTrump’ Faction - Breitbart
+27515,1,916 Illegals From Terror-Linked Countries Apprehended Since 2014 - Breitbart
+27870,1,No, Jesse Williams, I Will Not ’Sit Down’ - Breitbart
+27960,2,Cannibalism and Extraction of Migrants’ Organs Revealed on Trafficker’s Cellphone
+28268,1,LISTEN: Breitbart’s Kassam Destroys Pro-Shariah Muslim American On Sean Hannity Show
+28689,1,Study: Fat People More Likely to Be Stupid - Breitbart
+28986,1,EXCLUSIVE - Syrian Official: U.S. Must Cooperate With Assad Regime To Fight Terror
+29534,1,Exclusive — Donald Trump: Race Is Turning Around, Hillary’s ‘Polls Starting To Go Down’ While ‘Mine Are Going Up’ - Breitbart
+29730,1,Scammers, Bug Spray Companies Capitalizing on Zika Fears - Breitbart
+29798,1,Man with Bionic Penis Reportedly Flooded with Sex Offers - Breitbart
+29948,1,Clinton Surrogate Guy L. Smith: New York Times Is ’Right-Wing’
+30244,1,Petition Calls for ABC to Fire Jesse Williams Over ’Racist’ BET Awards Speech - Breitbart
+30392,1,Fact-Check: Yes, Partial-Birth Abortion Involves Ripping an Unborn Child Apart - Breitbart
+30508,1,’Tom Clancy’s The Division’ Review: We’re Here to Rescue You - Breitbart
+31242,1,Weeks Before Orlando Terror: British Imam Visited Central Florida To Preach ’Death To Gays’ In Name Of Allah
+31601,1,Lake Erie plane crash: Police now searching for remains
+31945,1,Bahrain executes 3 men convicted in bombing that killed police
+31968,2,Nobel economist: One-percenters, pay your taxes
+32153,1,Edward Snowden Fast Facts
+32571,1,Donald Trump’s Asia pivot
+33355,1,Trump’s policies and how they’ll change America -- in charts
+33504,1,Dental coverage may be yanked under GOP health care plan
+33590,1,UK to trigger Article 50, starting Brexit process
+33721,1,Wood, fire and metal: How fine whiskey gets its flavor
+33876,1,China’s deadly secret: More executions than all other countries put together (Opinion)
+33976,1,Killing of 8 Ohio family members still shrouded in mystery
+34104,2,Making Star Wars-style ’vaporators’ real
+34166,1,Senate Russia investigation to add 2 staffers
+34270,1,President Trump, protecting South Korea is not a real estate deal
+34305,1,Meet the kids suing Donald Trump
+35136,1,Stem Cells Fast Facts
+35270,1,Oldest Homo sapiens fossils discovered
+35580,1,Why Kim agreed to release Otto Warmbier
+35792,1,Flight 804: Egypt fails to pull data from damaged recorders
+36029,1,Human remains recovered at EgyptAir crash site
+36177,1,Did Hillary Clinton do enough to win over Bernie Sanders’ backers?
+36380,1,John Oliver and Jerry Seinfeld become fast friends
+36571,1,Here’s how to paint with pollution
+36646,1,Are fireflies flickering out?
+36898,1,No, Obama was not the ’founder’ of ISIS
+36912,2,DEA declines to loosen restrictions on medical marijuana
+37001,1,Democrats face simmering internal tensions
+37050,1,Inside Syria’s prisons, where an estimated 17,723 have died since 2011
+37445,1,Earthquake rattles Oklahoma, six other states
+37467,1,This animal is no longer endangered
+37490,1,Hillary Clinton: Timing of Russian hack is aimed at helping Trump
+37496,1,Rescuers work to retrieve four trapped in Tel Aviv parking garage collapse
+37512,1,Sources: ISIS planned more targets during Paris attacks
+37579,4,Real reason Wells Fargo scheme is scary
+37850,3,Human skeleton found in Antikythera shipwreck
+37941,2,Aleppo strikes trap children in rubble
+38411,1,Was New Jersey’s bipedal bear Pedals killed?
+38762,1,Chinese scientists use gene-editing techniques in humans for first time
+38764,1,Why Google knows all about your roof
+38936,1,What ’Moana’ gets right
+39086,1,ISIS uses water as weapon in Mosul fight
+39285,1,Scientists discover dinosaur trapped in amber in unprecedented find
+39465,1,What Trump gets wrong on climate change
+39548,1,Orania: South Africa’s whites-only town
+39665,1,Black box from crashed Russian military plane found
+39681,1,Brooklyn rapper Troy Ave shot again
+39991,1,El Capitan: Climbers didn’t conquer Yosemite (Opinion)
+40185,1,Why the alleged Russian spy ring matters
+40577,1,Generous kidney donor triggers 6 transplants
+40652,1,Black Hawk crashes off Florida human remains found
+41077,1,Why quantum dots are taking over your TV
+41130,1,Mass graves found in Tikrit
+41151,1,Kansas law bans ’dismemberment abortion’
+41276,1,Oldest DNA taken from Neanderthal who fell into well
+41642,1,Found: First warm-blooded fish (we’ve been eating it)
+41825,1,Food #fail: 10 items you’ve been eating wrong
+41952,2,WH hostage policy review to call for ’critical’ changes
+42174,1,The women on the front lines of the new abortion battle
+42259,1,Opinion: Women were ’examined like cattle’
+42370,1,Lawmakers, Obama officials scramble on trade
+42760,1,Are parents at kids’ sports games harmful? (Opinion)
+43388,1,At one end of Trump’s revived Keystone XL pipeline, there’s a scene you must see to believe
+43511,1,Al Qaeda was ready and waiting for the SEALs on Trump’s first raid
+43558,1,Everyone is missing the big picture in Trump’s Yemen raid
+43566,1,The GOP just gave Exxon Mobil a gift
+43783,2,Earth’s newest continent ’Zealandia’ was found thanks to a giant underwater land grab
+43931,1,The largest onshore oil discovery in America for at least 30 years just happened in Alaska
+43992,1,A war of words between 2 of America’s stock exchanges has taken a strange twist
+44024,1,GOLDMAN SACHS: This should be a good year for stockpickers, and it’s great news for us
+44173,1,Here’s how Trump’s new executive order will dismantle Obama’s efforts to reverse climate change
+44494,1,A major dairy producer collapsed — now it’s making nut milks and business is booming
+44685,1,A former banker taught herself how to code and is now a top exec at a $700 million startup
+45302,1,Something strange is happening with American births that started 30 years ago
+45680,1,Iraq’s about to plunge off a fiscal cliff — and the consequences could be dire
+46364,1,A top medical institution ran a secret study on Theranos — here’s what it found
+46506,1,Saudi Arabia and Russia might sabotage the ’most important meeting of the last 3 decades’
+46735,1,A new multibillion-pound deal is brewing in the pharma industry
+47035,2,10 things every politician who endorses Donald Trump should be forced to defend
+47089,1,’The new gasoline’ could be in an epic bubble
+47124,1,CREDIT SUISSE: These 3 things could send China’s markets crazy
+47241,1,There’s a hot new trend that could change the face of investing
+47429,1,EU REFERENDUM BLOG: BRITAIN VOTES FOR BREXIT
+47605,1,The next correction will ’extract more than a pound of flesh in damage’
+48014,2,BARCLAYS: There is nothing left to fight the coming economic storm
+48616,1,Ted Cruz should have listened to me
+49246,1,If you read it closely, Trump’s new website practically promises to devastate the climate
+49533,2,Trump’s plan to rethink free trade agreements could have a silver lining for the environment
+49537,1,Here’s how to manipulate Trump
+49757,1,A Cold War technology designed to make jets fly for days might solve Earth’s looming energy crisis
+49810,1,Apple included wild new hidden wallpapers in its latest software updates
+49845,2,Obama’s Environmental Legacy, in Two Buttes
+49908,1,Obama Was Too Good at Social Media
+49941,1,All of Human Knowledge Buried in a Salt Mine

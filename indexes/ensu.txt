@@ -1,0 +1,338 @@
+2,1,Tyrus Wong, ‘Bambi’ Artist Thwarted by Racial Bias, Dies at 106 - The New York Times
+55,1,10 Engaging Proposals, From the Rooftop to the Subway - The New York Times
+190,1,Women’s March on Washington Opens Contentious Dialogues About Race - The New York Times
+289,1,Baltimore Agrees to Broad Change for Troubled Police Dept. - The New York Times
+322,1,Democrats Confront F.B.I. Chief at Closed-Door Intelligence Briefing - The New York Times
+331,1,Falcons Take Advantage of Seattle’s Stumble and Race to N.F.C. Title Game - The New York Times
+359,1,‘Kompromat’ and the Danger of Doubt and Confusion in a Democracy - The New York Times
+403,1,Russian Dissident Artist Will Seek Asylum in France - The New York Times
+427,1,On Obama’s Pardon List: A Hotel Magnate Who Owned Studio 54 - The New York Times
+451,1,El Chapo, Mexican Drug Kingpin, Is Extradited to U.S. - The New York Times
+494,1,Amid Fistfights, Turkey’s Parliament Backs a New Constitution - The New York Times
+531,1,Taxpayers Will Defend Trump in Suit Charging Constitutional Violations - The New York Times
+565,1,In Its Third Month, India’s Cash Shortage Begins to Bite - The New York Times
+569,2,Harold Hayes, Survivor of Secret World War II Odyssey, Dies at 94 - The New York Times
+578,1,Federal Agencies Told to Halt External Communications - The New York Times
+688,1,Oh, What a Voice: A Revival for a Member of the Four Seasons - The New York Times
+978,1,Mothers and Daughters Divided by Refugee Ban Encounter the Guilt of Good Fortune - The New York Times
+1056,1,‘Hell Hath No Fury Like a Woman Warned’ - The New York Times
+1059,1,Knicks Invent New Type of Loss as Owner Banishes Charles Oakley - The New York Times
+1105,1,Lt. Gen. Harold Moore, Whose Vietnam Heroism Was Depicted in Film, Dies at 94 - The New York Times
+1115,1,Will Obamacare Really Go Under the Knife? - The New York Times
+1156,1,Runoff Likely in Jakarta Election Seen as Test of Tolerance for Indonesia - The New York Times
+1185,1,The Dirty Projectors Go Solo - The New York Times
+1298,1,Mexico, Syria, Trump: Your Wednesday Evening Briefing - The New York Times
+1362,1,The Big Question for the U.S. Economy: How Much Room Is There to Grow? - The New York Times
+1448,1,Trump Sidelines Camp David for Mar-a-Lago - The New York Times
+1450,1,Two Groups Scuffle Amid Art Inside a Minneapolis Museum - The New York Times
+1480,1,Kim Jong-nam, Jeff Sessions, Snapchat: Your Morning Briefing - The New York Times
+1512,1,Brazil’s Leaders Tout Austerity (Just Not for Them) - The New York Times
+1540,1,René Préval, President of Haiti in 2010 Quake, Dies at 74 - The New York Times
+1554,1,How Liberian Women Delivered Africa’s First Female President - The New York Times
+1711,1,Belgium’s New Deportation Law Raises Red Flag With Civil Rights Groups - The New York Times
+1831,1,Trump May Have Pushed Dutch Voters Away From Populism - The New York Times
+1899,1,Lack of Oxford Comma Could Cost Maine Company Millions in Overtime Dispute - The New York Times
+1928,1,Trisha Brown, Choreographer and Pillar of American Postmodern Dance, Dies at 80 - The New York Times
+1950,1,Martin McGuinness, an I.R.A. Leader Turned Peacemaker, Dies at 66 - The New York Times
+1967,1,Essential Reading: 5 Books About Dramatic Supreme Court Nomination Hearings - The New York Times
+2163,1,Maajid Nawaz’s Radical Ambition - The New York Times
+2406,1,The Emerging Trump Doctrine: Don’t Follow Doctrine - The New York Times
+2672,1,A Year After Earthquake, Nepal’s Recovery Is Just Beginning - The New York Times
+2863,1,Anti-Trump Voices Amplify on Internet, With Violent Results - The New York Times
+2898,1,A Wizard Comes to the Stage: ‘Harry Potter and the Cursed Child’ Begins Previews in London - The New York Times
+2902,1,No Escape From Black Holes? Stephen Hawking Points to a Possible Exit - The New York Times
+2940,1,Man Who Shot Christina Grimmie, a Singer on ‘The Voice,’ Is Identified - The New York Times
+3036,1,Will Trump Swallow the G.O.P. Whole? - The New York Times
+3062,1,Britain’s Dreams of a ‘Swiss Miracle’ Look More Like Fantasy - The New York Times
+3235,1,Donald Trump and Hillary Clinton Struggle to Be Unifying Voice for Nation - The New York Times
+3252,1,Our ‘Ghostbusters’ Review: Girls Rule. Women Are Funny. Get Over It. - The New York Times
+3316,1,At Royal Troon, the Bunkers Bury the Best - The New York Times
+3375,1,Jaap van Zweden: Before You See Him, Listen - The New York Times
+3453,1,Fly-Fishing in Montana, Where a River Still Runs Through It - The New York Times
+3456,1,How a Secretive Branch of ISIS Built a Global Network of Killers - The New York Times
+3502,1,Michael Phelps Relishes the Cheer and Challenge of His New Reality - The New York Times
+3733,1,In Books on Donald Trump, Consistent Portraits of a High-Decibel Narcissist - The New York Times
+3802,1,Paul LePage, the Governor of Maine, Now Says He’s Not Quitting - The New York Times
+3804,1,World’s Oldest Fossils Found in Greenland - The New York Times
+3900,1,Zimbabwe Follows Robert Mugabe’s Health by Following His Plane - The New York Times
+3960,1,Trial to Begin in Standoff at Oregon Wildlife Refuge - The New York Times
+3962,1,Details of Syria Pact Widen Rift Between John Kerry and Pentagon - The New York Times
+3987,1,Young Women Get Buzzed, on Their Own Terms - The New York Times
+4050,1,Protests Erupt in Charlotte After Police Kill a Black Man - The New York Times
+4086,1,Fatal Shooting by Police Shakes Charlotte’s Self-Image - The New York Times
+4323,1,Trump Accuses Clinton of Guiding Global Elite Against U.S. Working Class - The New York Times
+4422,1,Merciless End for a Long Island Cop Killer - The New York Times
+4478,1,Long Avoided by Tourists, Iran Is Suddenly a Hot Destination - The New York Times
+4580,1,‘I Was Terrified’: Inmates Say They Paid a Brutal Price for a Guard’s Injury - The New York Times
+4759,1,The End of the Anglo-American Order - The New York Times
+4815,1,Sammy Lee, First Asian-American Man to Earn Olympic Gold, Dies at 96 - The New York Times
+4997,1,Looking for Love? Put On a Cat Sweater - The New York Times
+5233,1,The Dangers of ‘Polypharmacy,’ the Ever-Mounting Pile of Pills - The New York Times
+5301,1,Nigerian Girl Abducted by Boko Haram From Chibok Is Found - The New York Times
+5311,1,‘I Quit,’ Handcuffed Man Says in Video of Fatal Encounter With Georgia Police - The New York Times
+5428,1,Why ‘Transcending Race’ Is a Lie - The New York Times
+5437,1,Realizing It’s a Small, Terrifying World After All - The New York Times
+5592,1,What, Congressman Steve King Asks, Have Nonwhites Done for Civilization? - The New York Times
+5675,1,‘He Wasn’t Profiteering During the Conflict’ - The New York Times
+5855,1,Do You Really Need Rental Car Insurance? 8 Things to Know - The New York Times
+5888,1,‘Big Success Story’: Sri Lanka Is Declared Free of Malaria - The New York Times
+5997,1,Harry Belafonte: ‘Movements Don’t Die’ - The New York Times
+6064,2,‘I’m the Last Thing Standing Between You and the Apocalypse’ - The New York Times
+6078,1,As Donald Trump Stumbles, Hillary Clinton Watches Her Step - The New York Times
+6085,1,House Republicans in Close Races Worry Trump’s Problems May Hurt Them - The New York Times
+6092,1,For Paul Ryan, a Long, Labored Path Leading Away From Donald Trump - The New York Times
+6226,1,Man Is Fatally Shot and 2 Officers Are Hurt at Brooklyn Housing Complex - The New York Times
+6341,1,Shinzo Abe to Become First Japanese Leader to Visit Pearl Harbor - The New York Times
+6349,1,Joe McKnight Shooting: Man Is Charged Days Later in Fatal ‘Road Rage’ - The New York Times
+6416,1,Lagarde Case Is ‘Weak,’ French Prosecutor Says, Raising Chances of Acquittal - The New York Times
+6507,1,Cuomo Commutes Sentence of Judith Clark, Driver in Deadly Brink’s Robbery - The New York Times
+6518,1,Speaker David Gowan Reshapes Arizona House, From the Carpets on Up - The New York Times
+6753,1,From Syrian Rubble to German Concert Halls With a Piano, a Mission and Survivor’s Guilt - The New York Times
+7063,1,Fidel Castro, Cuban Revolutionary Who Defied U.S., Dies at 90 - The New York Times
+7113,1,Paolo Gentiloni, Italy’s Foreign Minister, Will Try to Form a New Government - The New York Times
+7122,1,Kanye West Visits Donald Trump - The New York Times
+7144,1,I.M.F. Stands by Christine Lagarde, Convicted of Negligence - The New York Times
+7199,1,Yale Defies Calls to Rename Calhoun College - The New York Times
+7263,1,Turkey Says Airport Bombers Were From Kyrgyzstan, Russia and Uzbekistan - The New York Times
+7387,1,Claims of Saudi Role in 9/11 Appear Headed for Manhattan Court - The New York Times
+7388,1,Is ‘Westworld’ HBO’s Next Big Hit? - The New York Times
+7426,1,Life Beyond Bars: One Man’s Journey From Prison to College - The New York Times
+7541,1,Paul Simon’s Ambition, and Inspiration, Never Gets Old - The New York Times
+7547,1,Is Lizzie Grubman a Changed ‘Party Girl’? - The New York Times
+7719,1,Google Silences Doubters With Blockbuster Quarter - The New York Times
+7851,1,Marvel Responds After Artist Allegedly Inserts Anti-Semitic and Christian References in X-Men Comic - Breitbart
+7990,1,Alex Jones Leaks Megyn Kelly’s Interview Pitch: ’It’s Not Gonna Be Some Gotcha Hit Piece, I Promise’ - Breitbart
+8074,1,Fake News: DHS Secretary Calls WaPo ’John Kelly-Steve Bannon Feud’ a ‘Fantasy Story’ - Breitbart
+8230,1,Report: US Investigators Had Concern That Brady’s Missing Jersey Could Have Harmed US-Mexico Relations - Breitbart
+8811,1,‘The Only Good Cop is a Dead Cop,’ Says Alleged PA Cop-Killer
+9025,1,Top Five Media-Generated Non-Stories from Trump’s Foreign Trip - Breitbart
+9372,1,Hollywood Dentist Kicked Off Flight for Anti-Trump Comment
+9378,1,VIDEO: Citizen Journalists Capture Despair of Cartel Shooting War near Texas Border
+9439,1,Arsonist Sets Trump International Hotel in Las Vegas on Fire - Breitbart
+9686,1,Mayhem in Berkeley: Trump Supporters, Counter-Protesters Clash During Rally - Breitbart
+9984,1,Chaos at Florida Airport: Passengers Brawl After Spirit Airlines Cancels Flights - Breitbart
+10157,1,Tancredo: Iowa’s Congressman Steve King Target of Globalist Assassins - Breitbart
+10550,1,Manhunt for Migrant Plotting Toxic Gas Attacks on Seaside Towns
+10577,1,House Republicans Humiliated Reverse Plans to Gut House Ethics Oversight - Breitbart
+10862,1,Cuban Immigrant Behind Deadly Rampage in Texas
+10953,2,Kellogg’s Brand Falls from 60 to 84th Place with Consumers in 4 Years - Breitbart
+10974,1,Kellogg’s Latest Mass Layoffs Hit Kansas City
+11013,1,Kellogg Layoffs Now Hitting Florida
+11612,1,Twitter Shares Crash Following Quarterly Earnings Report Release - Breitbart
+11871,1,Gang Member Released by Jerry Brown Charged with Attempted Murder of Cop - Breitbart
+12279,1,Tancredo – Memo to President Trump: Two Border Patrol Patriots Still Awaiting Justice - Breitbart
+12398,1,A Year of Hate: 9 Times the Radicalized Left Engaged in Violence in the Trump Era - Breitbart
+12477,1,Students Claim Objective ’Truth’ Is a ’White Supremacist’ Myth - Breitbart
+12511,1,Pro-Trump Rallies Across America Stand up to Violence - Breitbart
+12804,1,Protesters Block Le Pen Supporters Trying to Reach Rally
+12963,1,Sexual Assault Suspect Not Allowed to Defend Himself, Could Cause ’Psychological Harm’ to Accuser - Breitbart
+13413,1,Navy SEAL Raid in Yemen Spotlights Issue of Female Terrorists Amid Trump’s Temporary Refugee Halt - Breitbart
+13427,1,California Farmer Fined $2.8M for Plowing His Own Field - Breitbart
+13443,1,Super Falcons: Atlanta Routs Packers 44-21 for NFC Title - Breitbart
+13516,1,VIDEO: Cartel Tunnel Discovered Inside Mexican Border Prison
+13575,1,Super Bowl Live Blog - Breitbart
+13579,2,Report: Target’s CEO Opposed Transgender Plan Which Slashed $20 Billion in Stock Value - Breitbart
+13620,1,Sen. David Perdue: Obamacare Is Pushing America Toward a Single-Payer Disaster
+14486,1,’Trump Can Get Him Home,’ Says Son of Former FBI Agent Missing in Iran
+15150,1,ABC Interrupts Playoffs to Promote ‘Black-ish’ Episode, Which Demeans Trump Supporters - Breitbart
+15293,1,Trump Moving to Take Bids on Building the ’Wall’ - Breitbart
+15295,1,North Korea Nukes San Francisco in Propaganda Video - Breitbart
+15375,1,Bill Cosby Accuser Takes Stand in Sex Assault Trial: ’I Wasn’t Able to Fight’
+15604,1,Saudi Man Divorces Wife on Wedding Night for Excessive Texting
+15609,1,Social Media Society, Not Daily Beast, Should be Shamed
+15618,1,National Border Patrol Council Endorses Trump for President
+15663,1,Homesick ’Clock Boy’ Ahmed Reportedly Returning to Texas
+15667,1,**Horse Race LiveWire** Utah, Arizona Vote in Wake of Brussels Terror - Breitbart
+15834,1,***LIVEWIRE*** Watch: Street Clashes in Charlotte, N.C., After Police Shooting - Breitbart
+15846,1,LEAKED VIDEO: Mexican Soldiers Rescue Cartel Gunmen After Gun Battle Near Texas Border
+16541,2,Migrants Racist to Blonde Women, Swedish Ethics Professor Says
+16697,1,Double Murder Suspect from Texas Drug-Theft Shootout Caught in Mexico
+16712,1,Mark Levin on the Constitutional Convention: The Framers Would Have Never Voted for ‘the Government as It Exists Today’ - Breitbart
+17147,1,Facebook Censorship and the War on Free Speech - Breitbart
+17490,1,New York Observer: Megyn Kelly 2016 Is Candy Crowley 2012 - Breitbart
+17766,1,WATCH: White SFSU Student Harassed by Black Student for Having Dreadlocks - Breitbart
+17899,1,Triggered SJW Sends Hilarious 2,000-Word Complaint to College Authorities After Milo Event - Breitbart
+18030,1,Dem Congressman to Voters: ’Calm Down on the Superdelegate Issue’
+18213,1,DHS Calendar Records Reveal Extent of Obama’s Long Immigration Push
+18293,1,No Memorial For Slain Migrant Worker In Sweden For Fear Of Offending Migrants
+18653,1,Whether It’s John McCain, Mitt Romney or Donald Trump, Democrats Always Run ‘War on Women’ Campaign - Breitbart
+18724,1,Foreign-Born Cases of TB Increased Eight Percent in North Carolina Last Year More Refugees Planned for Asheville - Breitbart
+18755,1,Texas Teacher Charged for Punching 2nd Grader in Face
+19433,1,Drunk Driver Evades Arrest, Kills Prom Teen, Say Police
+19447,1,NBC Sports: ’No Wall Will Stop’ NFL from Returning to Mexico - Breitbart
+19531,1,More Foreign Graduates to Compete for STEM Jobs Under Newly Unveiled Obama Rule - Breitbart
+19656,1,Former EU President Hired As New Chairman of Goldman Sachs International
+19781,1,Governments of the World are Coming for Your Cash - Breitbart
+20028,1,Egypt Steps Up Security As Muslim Brotherhood Marks Three Years Since Breakup Of Pro-Morsi Protest
+20358,1,WATCH: ‘Worst Ever’ Riots Erupt At Greek Border Migrant Camp
+20618,1,Teacher Impregnated by 13-Year-Old Student Turns Herself In
+20655,1,’Wrong Steve Bannon’: UK Man Receives Torrent of Abuse, Love
+20808,1,Leftists Organize to Silence Border Patrol Agents Over Trump Endorsement - Breitbart
+20859,1,Cuban Dissident Refuses Hospitalization on Day 9 of Hunger Strike
+21122,1,On a Night of Riots, Blues and Blackhawks Fans Sing National Anthem Together - Breitbart
+21750,1,Islamic State Strikes in ’Hub City’ for Libyan Migrants
+22223,1,***Horse Race LiveWire*** Nevada Votes: Trump Beats Rubio, Cruz Combined - Breitbart
+22421,1,Philippines’ Duterte to Obama: Fix Hollywood’s Cocaine Problem
+22692,1,El Chapo is a Violent Murdering Criminal, Stop Glorifying Him
+23030,1,Weinstein Co. Casts David Koresh Role for ’Waco’ Miniseries - Breitbart
+23122,1,The Bundy Family and Armed Resistance to ‘Government Land Grabs’: Know the Facts - Breitbart
+23214,1,Student Newspaper Suing University After Being Defunded for Mocking ’Safe Spaces’ - Breitbart
+23632,1,The world’s strongest earthquakes since 1900 - Breitbart
+23729,1,Jesuit University Moves to Fire Conservative Professor Over His Political Views - Breitbart
+24125,1,WikiLeaks: ‘The Boss Won’t Be Comfortable’-How Clinton Campaign Flipped-Flopped on TPP - Breitbart
+24428,1,After Super Tuesday, the GOP Establishment Looks For a Nice Losing Strategy - Breitbart
+24565,1,Re-Suicide: Obama Adopts Bush-era Tricks To Re-inflate Property Bubble - Breitbart
+24886,1,Clinton Tech Suspected of Asking Reddit Users for Help Stripping ‘Very VIP’ Name from Emails - Breitbart
+24904,1,EXCLUSIVE- Pat Buchanan: Donald Trump’s Rise Is Rejection of a Quarter Century of Bush Republicanism - Breitbart
+24922,1,Media Silent On Bill Clinton Double Rape Bombshell - Breitbart
+25113,1,‘North Africans’ Attack Tourist Photographing Muslim In Burkini
+25198,1,Operation #TrumpCup: ’This is a Statement, Not a Protest’
+25200,1,Trump: ’I Will Never Back Down from Supporting and Fighting’ for Border Patrol Agents - Breitbart
+25231,1,FBI Informant Helps Bust Massive Tennessee Meth Ring
+25346,1,Muslim Burka-Only Event at French Water Park Sparks Outrage
+25711,1,Rick Manning: Soros and Koch Brothers Collude to Empty Federal Prisons - Breitbart
+26349,1,Investors Defrauded For Millions Through EB-5 Visa Program - Breitbart
+27074,1,’Watch Dogs 2’ Review: A Competent but Cringeworthy Open-World Adventure - Breitbart
+27269,2,Report: Police to Interview Everyone on Prince Flight That Made Emergency Landing - Breitbart
+27370,1,Shooter Attacks Turkish Journalist on Trial for Anti-Erdogan Report
+27596,1,Man Shouting ’Allahu Akbar’ Stabs Paris Policeman, Wife to Death
+27618,1,Chinese Scientist Plans to Clone a Million Cows per Year - Breitbart
+27640,1,’Kim Kardashian of Pakistan’ Allegedly Murdered by Brother in ’Honor Killing’ - Breitbart
+27669,1,France Declares State of Economic Emergency
+27845,1,NBER Study: ’No Racial Differences’ in Officer-Involved Shootings
+27982,1,Tense Dallas BLM Protest Yields No Violence
+28376,1,L.A. County Officer Steve Owen Killed by Burglary Suspect
+28448,1,Report: Ziff Davis Buys Gawker - Breitbart
+28567,1,Texas Lawmaker Proposes Bill to Teach Teens How to Interact With Police
+28945,1,University of Miami Cancels MILO Event, Citing ’Security Concerns’ - Breitbart
+29155,1,France DOES Have a Problem With Islam, Hollande Confirms
+30160,1,Eighth Grader’s ‘White Privilege’ Poem Takes First Place - Breitbart
+30510,1,U.S. Accuses Israel Of Expropriating Hundreds Of Acres Of Land
+30704,1,Photos: International Left Burns Brazil’s Cities to Protest Rousseff Impeachment - Breitbart
+30725,1,Four Refugees With Infectious Tuberculosis Sent to Indiana in 2015 - Breitbart
+30784,1,Three Officers Wounded, One Dead in Four Attacks on Sunday
+31179,1,Former Gawker Editor-in-Chief Grilled over Child Porn Comments in Hulk Hogan Trial - Breitbart
+31194,1,7 Terror Attacks and Plots Foiled This Christmas Season - Breitbart
+31298,1,Davi: Donald Trump Can Revive Reagan’s ’Informed American Patriotism’ - Breitbart
+31407,1,High School Ends Tradition of Graduation Prayer After Student Invoked Jesus Christ Last Year - Breitbart
+31504,1,After Brouhaha with Trump, PGA Grand Slam of Golf Gone for Good - Breitbart
+31622,1, New Year’s resolution: Hold Russia accountable
+31754,1,College Football Championship: Everything you need to know
+32058,1,Police injured, more than 200 arrested at Trump inauguration protests
+32130,1,The world’s most dangerous fashion show?
+32318,1,Dems may back off big battle over Supreme Court pick
+32585,1,How to find town hall meetings
+32773,1,Recep Tayyip Erdogan Fast Facts
+32945,1,Philippine protesters condemn drug war on anniversary of uprising
+33272,1,GOP lawmaker: Obamacare replacement ’not in a form that I approve of’
+33490,1,Ukraine seeks clues in Kremlin critic’s death
+33572,1,White House evasive as House Intelligence Committee grinds to a halt
+33894,1,Putin: More chemical attacks planned in Syria
+33916,1,Why do these failed paradises exist in Hong Kong?
+33947,1,Georgia cops fired after videos surface from traffic stop
+33962,1,Penn Station: 16 injured in stampede over false reports of gunfire
+34357,1,The FBI translator who went rogue and married an ISIS terrorist
+34370,1,Family angry at reports of DOJ decision on officers in Alton Sterling killing
+34374,1,Ex-officer Michael Slager pleads guilty in death of Walter Scott
+34385,1,No federal charges against officers in Alton Sterling death
+34435,1,Where the search for Madeleine McCann stands
+34516,1,Boston doctors, engaged to each other, slain in luxury apartment
+34569,1,South Sudan Fast Facts
+34850,1,Manchester: No stranger to adversity
+35028,1,Sato wins Indy 500 as Alonso forced to retire
+35196,1,’They’re stabbing everyone’: Eyewitness accounts of London attack
+35282,1,Couple indicted in Texas Denny’s chokehold death
+35346,1,Ostapenko rallies to beat Halep in French Open final
+35351,1,Legionnaires’ disease sickens 2 Las Vegas hotel guests
+35464,1,Escaped Georgia inmates captured after chase
+35500,1,Rand Paul on a killing field: Stay or go?
+35655,1,Opinion: Make Stonewall a gay rights monument
+36041,1,How Trump overshadowed Clinton’s bad weekend
+36155,1,Mom shields son during Dallas shooting
+36159,1,Serena Williams wins historic 22nd major
+36171,1,South Sudan independence day violence leaves nearly 150 dead
+36187,1,South Sudan violence: U.S. evacuates embassy staff
+36190,1,Murray beats Raonic for Wimbledon title
+36219,1,South Sudan: President Kiir orders ceasefire
+36337,1,Why Turkey’s coup attempt matters for US
+36358,1,A tragic first week in July
+36362,1,13 days in Baton Rouge
+36510,1,Kaine comes home to his spiritual center
+36515,1,Chris Froome wins third Tour de France
+36723,1,2016 Atlantic Hurricane Season Fast Facts
+36730,1,Heavy bombing in Syria’s rebel-held Aleppo
+36785,1,Belgian outshines Tour champ Froome to win Rio road race
+36887,1,Mother mourns newborn son lost in hospital fire
+37041,1,US swimmer: Guards pulled guns, wanted money
+37187,1,Iraqi troops plow toward key Iraqi city
+37381,1,U.S. Open 2016: Wozniacki flourishing
+37593,1,’Kicks’ explores violence, youth with a twist
+37609,1,US Open 2016: Kerber wins title
+37740,1,More victims in California police sex scandal?
+37826,1,Ahmad Khan Rahami: What we know about the bombing suspect
+37830,1,NY, NJ bombings: Suspect charged with attempted murder of officers
+37856,1,Suspect wrote ’bombs will be heard in the streets,’ authorities say
+37919,1,North Korea at UN: US faces ’tremendous consequences’
+37928,1,Candidates in Monday’s debate, beware the gender minefields
+38173,1,Mussels and clams from Maine are recalled
+38380,1,The sexist trope Clinton’s supporters must not use
+38545,1,Janet Reno’s career punctuated by highs, lows
+38577,1,California shooting: 1 dead, 2 wounded near LA-area polling station
+38590,1,Penn State Scandal Fast Facts
+38651,1,Can Trump build a wall without Congress’ approval?
+38730,1,Andy Murray wins in first match as No. 1
+38822,1,White nationalist bloodied during DC protest
+38839,1,Grandson of Rep. Danny Davis shot to death in Chicago
+38871,1,5 reasons why South Korea’s president is unlikely to quit
+38884,1,Officers injured, slain in what appear to be targeted shootings
+38996,1,After Fidel Castro’s death, can Cuba finally move on?
+39007,1,Fidel, the promise and the betrayal
+39022,1,New Orleans shootout leaves 1 dead, 9 wounded
+39268,1,Petraeus, and the double standard on sex
+39441,1,2016 In Review Fast Facts
+39530,1,Out of Mosul: The refugees fleeing ISIS
+39684,1,Former Texas Rangers pitcher John Barfield shot to death
+39872,1,Kosher grocery employee, a Muslim, hailed as hero
+40254,1,Australian Open:
+40405,1,Teen killed in Maryland shootout parents found dead
+40463,1,Ukraine: Kerry threatens more sanctions against Russia
+40946,1,Unrest, violence mars Arab Spring aftermath
+40993,1,U.S. ends Boston bombing case with grisly photos
+41028,1,What is Al-Shabaab, and what does it want?
+41082,1,Sarah Brady, widow of James Brady, dies
+41191,1,Did police use excessive force? A look at 3 cases
+41200,1,Washington, D.C., shootings: Census Bureau, H Street
+41681,1,Egypt’s ex-President Mohamed Morsy sentenced to death
+41741,1,43 killed in Mexico shootout
+41786,1,Inside the battle for Ramadi: Iraqi soldier speaks
+42080,1,French Open 2015: Serena Williams rallies to make final
+42554,1,’The Simpsons’ guide to satirizing Islam
+42699,1,Clinton campaign corrals media
+42784,1,Wimbledon 2015: Serena Williams wins 21st major
+42799,1,’Sanctuary cities’ are not the problem
+42818,1,Pope defends economic message
+42887,2,Investigation finished in shooting death of Samuel Dubose
+42990,1,LaGuardia upgrades: Lipstick on a pig?
+43042,1,Suspect in Shreveport officer’s death caught
+43117,1,It’s time for Trump to come to his senses on nuclear weapons
+43511,1,Al Qaeda was ready and waiting for the SEALs on Trump’s first raid
+43562,1,Falcons offensive coordinator Kyle Shanahan explains the baffling late-game play calls that cost the Falcons dearly in the Super Bowl
+43710,1,BILL GATES: A new kind of terrorism could wipe out 30 million people in less than a year — and we are not prepared
+44233,1,A top LinkedIn exec says the Dalai Lama parable CEO Jeff Weiner told him  at their first meeting changed his management style
+46181,1,Here’s why Trump is dominating despite a strong economy
+46558,1,Donald Trump is right: The Republican nominating process is a scam
+46611,1,Here’s what would happen at if the Republicans have a contested convention
+47423,1,Justice Kennedy has emerged as the unlikely hero of affirmative action
+47844,1,A car startup in Los Angeles is getting everyone’s attention with these billboards
+48377,1,The 23 best comedy movies you can stream on Netflix right now
+48511,1,An NYPD officer was attacked by a man with a meat cleaver
+48783,1,Some owners in ’The Leaning Tower of San Francisco’ say their condos are worthless
+48927,1,Why I left the Republican Party to become a Democrat
+49275,1,Cowboys beat Steelers in insane finish that features 3 touchdowns in 115 seconds
+49432,1,Fidel Castro once asked the leader of the Soviet Union to annihilate the US with nuclear weapons
+49847,1,Will the Alabama Crimson Tide Keep Rolling?
+49859,1,The Era of Republican Overreach Begins
+49863,1,Donald Trump’s Interests vs. America’s, Dubai Edition
+49868,1,27 Movies to Look Forward to in 2017
+49900,1,Republicans Grapple With the Risk of Overreach
+49997,1,Trump Announces Plan That Does Little to Resolve His Conflicts of Interest

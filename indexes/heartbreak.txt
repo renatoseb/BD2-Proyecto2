@@ -1,0 +1,298 @@
+124,1,He Helped Topple a Dictator. In New York, He’s Another Face in the Crowd. - The New York Times
+185,1,Seeing America Through Ángel Franco’s Eyes - The New York Times
+320,1,‘You Focus on the Good’: Women Who Voted for Trump, in Their Own Words - The New York Times
+323,2,Jennifer Holliday Decides Not to Sing for Trump After Opposition - The New York Times
+567,1,Climate Change Activist’s Barefoot Walk Across America Ends in Tragedy - The New York Times
+591,1,Usain Bolt Stripped of Gold Medal After Relay Teammate Found Guilty of Doping - The New York Times
+791,1,A Rare Pacific Islander Captivates Its Neighborhood - The New York Times
+795,2,A Personal Trainer for Heartbreak - The New York Times
+941,1,Review: ‘Lincoln in the Bardo’ Shows a President Haunted by Grief - The New York Times
+984,1,Here Are Our Stories That Won the Biggest Awards in the Magazine World - The New York Times
+1116,1,Pedro Hernandez Found Guilty of Kidnapping and Killing Etan Patz in 1979 - The New York Times
+1130,1,ABC Casts First Black ‘Bachelorette,’ Rachel Lindsay, a Texas Lawyer - The New York Times
+1185,1,The Dirty Projectors Go Solo - The New York Times
+1210,1,Letter of Recommendation: Presidential Biographies - The New York Times
+1231,1,‘Grease’ in a Nairobi High School: Saheem Ali on His First Time Directing - The New York Times
+1332,1,The Retraining Paradox - The New York Times
+1340,1,An Aquatic Paradise in Mexico, Pushed to the Edge of Extinction - The New York Times
+1821,1,The Magician Who Wants to Break Magic - The New York Times
+1879,1,The Battle of ‘Miss Saigon’: Yellowface, Art and Opportunity - The New York Times
+2060,1,Ariel Levy Has Written a Thoroughly Modern Memoir - The New York Times
+2091,1,Baltimoreans Mourn a Man Said to Have Been Killed by Their Neighbor - The New York Times
+2173,1,U.S. War Footprint Grows in Middle East, With No Endgame in Sight - The New York Times
+2272,1,N.C.A.A. Championship: How North Carolina Won Its Sixth Title - The New York Times
+2332,1,The Diva Departs: Renée Fleming’s Farewell to Opera - The New York Times
+2379,1,Acting on Instinct, Trump Upends His Own Foreign Policy - The New York Times
+2408,1,U.S. Strike on Syria Brings Fleeting Hope to Those Caught in Brutal Conflict - The New York Times
+2488,1,Hasan Minhaj to Perform at White House Correspondents’ Association Dinner - The New York Times
+2494,1,Syria, Ahmadinejad, United Airlines: Your Morning Briefing - The New York Times
+2804,1,Review: ‘Roots’ for a Black Lives Matter Era - The New York Times
+2883,1,Do Gorillas Even Belong in Zoos? Harambe’s Death Spurs Debate - The New York Times
+2979,1,After Orlando Shooting, Talk Show Hosts Suggest Talk Is Not Enough - The New York Times
+2980,1,Orlando, Disney, Donald Trump: Your Wednesday Evening Briefing - The New York Times
+3058,1,Supreme Court Tie Blocks Obama Immigration Plan - The New York Times
+3064,1,Democratic Party, Hillary Clinton, Donald Trump: Your Thursday Evening Briefing - The New York Times
+3285,1,The Mysterious Metamorphosis of Chuck Close - The New York Times
+3324,1,Philando Castile Was Pulled Over 49 Times in 13 Years, Often for Minor Infractions - The New York Times
+3414,1,Hot-Air Balloon Crash in Texas Kills 16, Officials Say - The New York Times
+3477,1,Jonah Hill Is No Joke - The New York Times
+3551,1,Simone Biles, Michael Phelps, U.S. Presidential Race: Your Thursday Evening Briefing - The New York Times
+3611,1,As Louisiana Floodwaters Recede, the Scope of Disaster Comes Into View - The New York Times
+3708,1,Brain Scans of Brazilian Babies Show Array of Zika Effects - The New York Times
+3724,1,Hackers Publish Nude Pictures on Leslie Jones’s Website - The New York Times
+3729,1,Hopes Dim for Survivors of Italy Quake Death Toll Stands at 267 - The New York Times
+3976,1,This North Dakota Bike Trail Is Stunning. Just Hope You Survive It. - The New York Times
+4037,1,Want a Zika Test? It’s Not Easy - The New York Times
+4116,1,Arnold Palmer, the Magnetic Face of Golf in the ’60s, Dies at 87 - The New York Times
+4237,1,The Cubs Confront the Curse: Is This the Year? - The New York Times
+4305,2,Cubs Oust Giants to Reach N.L.C.S., for Once on Good Side of a Big Rally - The New York Times
+4463,1,‘The Crown’ Episodes 1 and 2: Stiff Lips, Warm Heart - The New York Times
+4566,1,Georgia Father Is Convicted of Murder in Toddler’s Death in Hot Car - The New York Times
+4684,1,Eli Lilly’s Experimental Alzheimer’s Drug Fails in Large Trial - The New York Times
+4712,1,100 Notable Books of 2016 - The New York Times
+4715,1,Miami’s Cuban Exiles Celebrate Castro’s Death - The New York Times
+4859,1,Oakland Fire Victims Included Performers, Educators and Lawyers - The New York Times
+4876,1,Sweeping Health Measure, Backed by Obama, Passes Senate - The New York Times
+4878,1,Girl Posting to Twitter From Aleppo Gains Sympathy, but Doubts Follow - The New York Times
+4903,1,In Chicago, Bodies Pile Up at Intersection of ‘Depression and Rage’ - The New York Times
+5163,1,The Memorable TV Episodes of 2016 - The New York Times
+5239,1,‘Game of Thrones’ Season 6 Premiere: Picking Up the Jagged Pieces - The New York Times
+5269,1,‘Flags of Our Fathers’ Author Now Doubts His Father Was in Iwo Jima Photo - The New York Times
+5459,1,What You Should Watch: ‘Please Like Me’ and Films Leaving Netflix - The New York Times
+5505,1,The Garrison Keillor You Never Knew - The New York Times
+5532,1,Shootings Further Divide a Nation Torn Over Race - The New York Times
+5537,1,In the Turmoil Over Race and Policing, Children Pay a Steep Emotional Price - The New York Times
+5567,1,Texas Boy Known as ‘Copeland Crush’ and His Father Are Mourned - The New York Times
+5672,1,Moment in Convention Glare Shakes Up Khans’ American Life - The New York Times
+5734,1,Feeling Cornered, Coal Industry Borrows From Tobacco Playbook, Activists Say - The New York Times
+5752,1,Brazil Gets an Ounce of Revenge on Germany - The New York Times
+5875,1,The Playlist: Lady Gaga Returns Lovelorn, and Zack de la Rocha Returns Furious - The New York Times
+6014,1,Reader’s Guide to This Fall’s Big Book Awards - The New York Times
+6322,1,After a Breakup, an App to Help Breathe, Then Run - The New York Times
+6502,1,The xx Lets the Sunshine In - The New York Times
+6635,1,Abortion Pill Orders Rise in 7 Latin American Nations on Zika Alert - The New York Times
+6651,1,Lionel Messi and Argentina Miss Again as Chile Wins Copa América - The New York Times
+6690,1,Front-Page Editorials Aim to Soothe the Grief-Stricken - The New York Times
+6770,1,Gay and Lesbian High School Students Report ‘Heartbreaking’ Levels of Violence - The New York Times
+6778,1,The Tyranny of Other People’s Vacation Photos - The New York Times
+6869,1,Kiefer Sutherland Returns. This Time the Oval Office Is His. - The New York Times
+6963,1,‘Hamilton’ and Heartache: Living the Unimaginable - The New York Times
+7000,1,Review: ‘“Master Harold” … and the Boys,’ a Searing Indictment of Racism - The New York Times
+7100,1,The Best Movies of 2016 - The New York Times
+7235,1,After Nightclub Massacre, Obama Expresses Outrage and a Familiar Lament - The New York Times
+7426,1,Life Beyond Bars: One Man’s Journey From Prison to College - The New York Times
+7457,1,Review: ‘Gilmore Girls: A Year in the Life’ Revives a Snow Globe Town - The New York Times
+7607,1,Dark Horses Abound at the United States Open - The New York Times
+7663,1,Battle Lines Over Trump’s Lands Policy Stretch Across 640 Million Acres - The New York Times
+7691,1,Visiting the African-American Museum: Waiting, Reading, Thinking, Connecting, Feeling - The New York Times
+9395,1,Nasty: Madonna Shares Pubic Hair Pic to Promote Anti-Trump March
+10015,1,Obama’s Organizing for Action Partners with Soros-Linked ‘Indivisible’ to Disrupt Trump’s Agenda
+10244,1,FULL TEXT – MILO at Cal Poly State University: ’No More Dead Babies’ - Breitbart
+10655,1,Barbra Streisand: ’I Don’t Know How We’re Going to Take Four Years’ of ’Disgraceful’ Trump - Breitbart
+10752,1,Top U.S. General: ‘We Have Not Relaxed the Rules of Engagement’ in Mosul - Breitbart
+11247,1,Barbra Streisand Blames Sexism for Hillary Clinton’s ’Heartbreaking’ Loss
+11904,1,Tragedy: Former NFL Star Todd Heap Accidentally Kills 3-Year-Old Daughter While Moving Truck - Breitbart
+12072,1,Pelosi Calls on Speaker Ryan to Reconvene Congress for Syria Debate - Breitbart
+12302,1,DELINGPOLE: How Social Media’s Useful Idiots Responded to the Manchester Suicide Bomb - Breitbart
+12473,1,Toby Keith: I Won’t ’Apologize’ for Playing Trump Inauguration
+12694,1,Democrats React to President Trump’s Retaliatory Strike on Syria’s Use of Chemical Weapons - Breitbart
+13130,1,Five Facts About Trump’s Reinstatement of the Mexico City Policy on Abortion
+13900,1,Trump: Madonna’s Comments ’Disgraceful to Our Country’
+14100,1,Dying Author Writes Death Bed Essay Encouraging Women to Date Her Husband After She Dies
+14224,1,Parents Fearful to Allow Children Out as Islamist Terror Sweeps Europe
+14302,1,Fake News: Politico Scrubs Soros Ties to Anti-Trump Group
+14318,1,American Wrestler in Mexico Infuriates Fans With Pro-Trump Rants in the Ring - Breitbart
+14865,1,Police: Man Posed as Wife on Facebook to Cover Up Her Killing
+14897,1,Pentagon Confirms Knowledge of Tulsi Gabbard’s Trip to Meet Assad in Syria
+15486,1,’13 Hours’ Review: Riveting Indictment of Obama, Hillary, and The DC Media - Breitbart
+15513,1,Dustin Hoffman: ’Subliminal Racism’ to Blame for ’White Oscars’
+15750,1,Loretta Lynch Gives Shout-Out to Black Lives Matter: ’Do Not Be Discouraged’ - Breitbart
+16004,1,Ted Cruz Booed as He Tells Republicans: ’Vote Your Conscience’
+16088,1,Van Jones: Trump Won Rust Belt Because of Dems ’Arrogance and Elitism’ - Breitbart
+16234,1,Live Updates - Terror in Orlando: Approximately 50+ dead, 50+ More Wounded at Gay Nightclub - Breitbart
+16692,2,McCain: Obama’s Lack of Leadership Causing ’Unraveling of the World Order’ - Breitbart
+16846,1,Terror: Truck Crashes into Crowd Celebrating Bastille Day, At Least 80 Dead - Breitbart
+16947,1,LeBron James Named AP Male Athlete of Year - Breitbart
+16950,1,Veteran Pleads for Help in Restoring L.A. Vietnam Memorial
+17112,1,Politichicks: ‘Clinton Cash’ Exposes Bill &amp Hillary’s ‘Pay-to-Play Matrix’ - Breitbart
+17176,1,Words of a Warrior: George Washington’s 85-Word Impromptu Speech That Helped Win the Revolution - Breitbart
+17404,1,PICTURES: Pakistan Bombing Kills 60 During Easter Celebration, Mostly Women and Children - Breitbart
+18010,1,’Joy’ Review: Inspiring, Entertaining Love Letter to American Capitalism - Breitbart
+18343,1,Hillary Clinton: It’s ‘Incredibly Painful’ to Run Against Donald Trump - Breitbart
+18377,1,LGBT News Denounces Pope Francis for Failing to Mention Gays in Orlando Statement
+18561,1,Mike Pence Throws Down: Charlotte Protesters Have ’No Right to Engage in Violence Against Our Citizens or Our Police’ - Breitbart
+18810,1,RIP: Breitbart News Editor Mike Flynn Passes Away
+18827,1,Atheist Group Demands Stop to Christmas Drive for Needy: ‘Bribes to Pressure Poor Children to Convert to Christianity’ - Breitbart
+19026,1,’The Revenant’ Review: Brutal, Beautiful Revenge Western - Breitbart
+19054,1,Dianne Feinstein Loses Bid to Stop Cruz-Sponsored Move to Honor Chinese Dissident - Breitbart
+19377,1,Ethan Hawke Blasts White Oscars: ’People Need to Be Upset’ - Breitbart
+20011,1,Taylor Swift Donates $1M for Louisiana Flood Relief
+20426,1,Reddit CEO Announces Crackdown On Reddit’s Trump-Supporting Subreddit - Breitbart
+20433,1,Hillary: We’re Not Holding People Accountable For Hiring Illegal Immigrants, Which Creates ’Unlevel Playing Field’ - Breitbart
+20773,1,Madonna: ’Haven’t Had a Good Night’s Sleep’ Since Trump Won
+21183,1,Weather Channel Issues Severe Hurricane Warning, ’This Is Not Hyperbole’ - Breitbart
+21400,1,***Horse Race LiveWire*** Sanders Looks to Sweep Alaska, Washington, Hawaii - Breitbart
+21414,1,Hillary Clinton in Leaked 2013 Speech: ’I Would Like to See More Successful Business People Run For Office’ - Because They Can’t Be Bought - Breitbart
+21794,1,’Dirty Politics’: Palin Blasts Cruz Campaign ’Lies’
+22260,1,Homeland Security in the Age of Truck Attacks: The Once and Future Fortress  - Breitbart
+24107,1,***Live Updates*** Dems Hold Sunday Evening Debate in South Carolina - Breitbart
+24614,1,Hillary Clinton: Donald Trump Would Damage Economy By Deporting Illegal Immigrants - Breitbart
+24839,1,Carson Campaign Volunteer Dies - Breitbart
+24861,1,Burt Reynolds 10 Greatest Films - An 80th Birthday Tribute - Breitbart
+24871,1,Twin Falls Police Report Reveals Shocking Details of Latest Refugee Sex Assault - Breitbart
+24973,1,Babysitter Charged After Father Posts Photos of Bruised One-Year-Old on Facebook
+25245,1,’Clinton Cash’ Global Premiere Scores 170,000 Views in 3 Hours - Bernie Sanders Supporters Promote - Breitbart
+25515,1,’SMITE’ World Championship Day 1: First Round Rumble - Breitbart
+26551,1,Louisiana Flood Victims to Trump: ‘We Knew You Would Be Here For Us’
+26657,1,Curt Schilling’s Video Game Studio Cleared of Any Criminal Wrongdoing - Breitbart
+26835,1,Singer Prince Dead at 57 - Breitbart
+26982,1,Pamela Geller: Twin Falls Newspaper Editor Calls Reporting on 5-Year-Old Rape Victim ’Fairy Tales’ - Breitbart
+27037,1,***Live Updates*** Pence, Kaine Square Off in VP Debate - Breitbart
+27165,1,***Orlando/2016 LiveWire*** Obama Pushes Gun Control: ’More Massacres’ if ’We Don’t Act’ - Breitbart
+27267,1,108 Years and a Rain Delay Later, Cubs Win a Worth-the-Wait World Series - Breitbart
+27716,1,Trump, Pence vs. Hillary Foreign Policy: ’Weakness Arouses Evil’
+28087,1,***Horse Race LiveWire*** Hillary Wins South Carolina, Three Days to Super Tuesday - Breitbart
+28714,1,For the Ladies: Books That Won’t Make You Feel Like a Victim – Or Hate Men - Breitbart
+28739,3,5 Police Officers Killed, 6 Wounded by Snipers in Dallas #BlackLivesMatter Protest
+28917,2,***GOP Convention LiveWire*** Pence, Cruz Headline Day 3 - Breitbart
+29145,1,’Dishonored 2’ Review: Still One of the Best Games of the Year Despite Falling Short of the Original - Breitbart
+29301,1,Paul Nehlen Billboard Hits Ryan on Trade
+29311,1,***2016 LiveWire*** Trump Surges to Lead in Ohio, Nevada - Breitbart
+29874,1,Gov. Mike Pence: DC’s Taxes and Regulations Hurting American Jobs - Breitbart
+29892,1,Trump to Louisiana Flood Victims: ’When You Hurt, We All Hurt’
+30092,1,***Live Updates*** GOP Debate Night in South Carolina - Breitbart
+30199,1,Half Black Actress Zoe Saldana Under Fire for ’Blackface’ in Nina Simone Biopic - Breitbart
+30306,1,’Star Wars’ Actress Carrie Fisher Dies at Age 60 - Breitbart
+30309,1,First Baby Born in Texas with Zika-Linked Microcephaly
+30456,1,Exclusive - Steve King: Remembering Iowa’s Sarah Root, 21-Year-Old Killed By Illegal Alien - Breitbart
+30786,1,Trump Mocks Jill Stein, ’Defeated, Demoralized Dems’ for ’Ridiculous’ Recount ’Scam’ - Breitbart
+31680,1,A low moment in sports broadcasting
+31761,1,Jeff Sessions faces ’Washington’s bloodsport’
+31826,1,Dylann Roof jury: Death penalty for Charleston church shooter
+31878,1,Baltimore house fire: Six children killed mother, others survive
+32098,2,AFCON 2017: Ghana dances its way into quarterfinals, Pharaohs break Uganda hearts
+32292,2,Listen to the voicemails of people impacted by the immigration ban
+32553,1,Deported mother: ’I did it for love’
+32587,1,Guadalupe Garcia de Rayos has become the focus of a national debate over the Trump administration’s crackdown on illegal immigration.
+32680,1,Etan Patz case: Pedro Hernandez found guilty of murder, kidnapping
+32682,1,Told to go: What’s next for this undocumented mom?
+33073,1,MS-13 gang members indicted in brutal deaths of teens
+33087,1,Being gay in Latin America: Legal but deadly
+33097,1,Nearly 2 years after racists crashed a child’s party, fear lingers for attendees
+33128,2,’I’m married now’: Adele confirms marriage
+33186,1,Joy, then heartbreak: What happened at one woman’s ICE check-in
+33290,1,CNN 10 - March 13, 2017
+33301,2,Hoping for a miracle outside Chicago ICE office
+33474,1,Japan PM Shinzo Abe embroiled in land-sale scandal
+33570,1,Inscrutable Gorsuch raises Democratic ire
+33635,1,These hospital ’baby rockers’ take care of infants who have no one
+33705,1,UNC tops Gonzaga for national title
+33850,1,Indian acid attack survivors find love together
+34049,1,Arkansas execution delayed as Supreme Court refuses to overrule state court
+34090,1,This man’s deportation is testing Trump’s murky stance on DACA
+34153,1,Florida wildfires: Thousands evacuated
+34314,2,Deadly storms hit several states
+34496,1,Priebus defends proposed cuts to W.H. office battling drug epidemic
+34620,2,Elvis Presley Fast Facts
+34891,1,Who are the victims of the Manchester attack?
+34894,1,After day of anguish, missing 15-year-old confirmed dead in Manchester
+35007,1,The legend of Francesco Totti in ten chapters
+35421,1,Police: 2 officers killed, 2 inmates on run in Georgia
+35712,1,’Finally, we did it!’: Cavs’ title ends 52 years of Cleveland sports agony
+35788,2,On immigration, Supreme Court split is right
+35797,1,Deadlocked Supreme Court deals big blow to Obama immigration plan
+35924,1,Turkey airport attack witness: ’It was like hell’
+35970,1,Toxic algae bloom blankets Florida beaches, prompts state of emergency
+35983,1,Michelle Obama: Let girls learn
+35994,1,Memphis mother accused of killing 4 children
+36140,1,Dallas shooting: 5 officers die, suspect ID’d
+36143,1,It’s on us, America
+36179,1,Photographer: ’Window’ into Dallas attack
+36182,1,When big news gets personal
+36196,3,Relatives of slain correspondent Colvin sue Syrian regime
+36239,1,’Jason Bourne’: Who will follow Matt Damon?
+36358,1,A tragic first week in July
+36368,1,A family’s grief as more Nice victims identified
+36372,1,DOJ asks Supreme Court to rehear immigration case
+36525,1,Boko Haram blamed for humanitarian crisis in Nigerian state
+36632,1,Khizr Khan: Trump has a ’black soul’
+36637,1,Did Trump go too far?
+37037,1,Olympics: Brazil loses to Sweden on penalties in women’s football semifinal
+37042,1,Little boy in Aleppo a reminder of war’s horror
+37230,1,This photo of a couple saying goodbye is breaking hearts
+37241,1,Giving a voice to Turkey’s transgender people
+37408,2,Zika spraying kills millions of honeybees
+37416,1,The search for a Speedo-wearing guru
+37495,1,Serena Williams: World No. 1 surpasses Roger Federer’s record
+37501,1,Space probe finds lost Philae lander on comet
+37773,1,Iranian Para-cyclist dies after crash
+37845,1,Photos: Couple fights Alzheimer’s together
+37853,1,Is emerging Terence Crutcher narrative accurate?
+37925,1,The secret costs of Islamophobia
+38036,1,Obama comes face to face with burdens of 9/11 generation
+38361,1,Freida Pinto: This is revolutionary
+38363,1,Michelle Obama: This issue is personal for me
+38382,1,Tyson Fury: Champion vacates heavyweight belts
+38409,1,Infant dies after plunge down elevator shaft
+38491,1,The final debate: CNN’s Reality Check Team vets the claims
+38559,1,Election night isn’t a party for presidential transition staff
+38690,1,Clinton to donors: FBI letters were double whammy to campaign
+38713,1,Lewis: ’I’m still hunting’ after Brazil win
+38815,1,Battle over race returns to Capitol with Sessions’ bid to become AG
+38875,1,6 dead in Tennessee school bus crash
+39025,1,Injured ’Punkin Chunkin’ producer disappointed show is off, faces long recovery
+39079,1,Gatlinburg fire victims: Houses destroyed, relatives missing
+39130,1,Man released in fatal shooting of former NFL player
+39175,1,Aleppo: Girl’s Twitter account goes silent
+39219,1,Oakland fire: Warehouse ’too risky’ even for man without home
+39221,1,7 special-needs teens removed from Texas home
+39248,1,US art teacher sketching Syria’s civil war
+39546,1,Arkansas child killing: 911 tapes capture grandmother’s agony
+39651,1,2016 celebrity deaths: A year of great loss
+39676,1,7 huge stories you probably missed this year (but shouldn’t have)
+39699,1,Carrie Fisher, ’Star Wars’’ Princess Leia, dies at 60
+40055,1,All charges dropped in Phylicia Barnes murder case
+40374,1,It’s snow time again in Boston
+40545,1,Chief: Man killed by officer was not armed
+40573,1,The 13th Juror: Boston bomber’s trial a horror show
+40582,1,Parents: Missing 8th grader took his own life
+40885,1,Germanwings crash report: Pilot locked out of cockpit
+41209,2,South Carolina shooting: Funeral held for Walter Scott
+41249,1,Philadelphia police: Mom left quadriplegic son in woods
+41268,1,Police: Twins drown in canal as mom tries to fend off bee
+41271,1,Police: Mom of quadriplegic son in woods in ’treatment’
+41410,1,Prosecutor: ’Tsarnaev was and is unrepentant’
+41424,1,Al Qaeda hostage, American Warren Weinstein, killed
+41523,1,In Nepal, lift spirits through music (Opinion)
+41622,2,Mother’s Day: Kids on #IWishMyMotherKnew
+41694,1,Ladies and gentlemen of the jury, listen with your eyes
+41823,1,Man stolen as baby reunites with mom 41 years later
+41828,1,Texas floods: Searches for the missing continue
+41951,1,Tragedy haunts Joe Biden once again
+41964,1,Today we are all Bidens
+42049,1,Ted Cruz apologizes for Biden joke
+42133,1,13 dead, search for 6 on Malaysia’s Mount Kinabalu
+42213,1,Actor Enright in Syria: Kurds need help against ISIS
+42325,1,How passing the plate becomes a ’Sunday morning stickup’
+42357,3,Irish families of victims in balcony collapse fly to California
+42406,1,Obama: ’Senseless murders’ in church shooting
+42455,1,Charleston shooting: We need soul searching (Opinion)
+42466,2,James Holmes trial: tears, then prosecution rests
+42475,1,Charleston shooting suspect appears in court
+42476,1,Church shooting strikes at the heart of black culture
+42630,1,Tunisia hotel attack: 38 killed, tourists flee
+42639,1,Charleston remembers three more lives
+42678,1,Time to split the euro in two (Opinion)
+42693,1,Texas alligator attack: Man killed in Orange County
+42790,1,Bullying by peers has effects later in life
+42868,1,Death penalty: Why America needs a rethink
+42890,1,Sex trafficking: The new American slavery
+44025,1,Northwestern wins first-ever NCAA Tournament game when Vanderbilt player forgets that his team is winning
+45168,1,Massive fire breaks out at London apartment building
+45303,1,Obama has introduced a sweeping set of new measures to tackle gun violence
+46437,1,Netflix’s excellent new laugh-track sitcom is the next step in cord-cutting
+47327,1,A veteran went on a lengthy tweetstorm aimed at Trump after the nominee said soldiers stole millions
+47459,1,Why Britain left
+47928,1,’I am appalled’: 2 prominent Republicans delivered blistering rebukes of Trump’s attacks on the Khan family
+48183,1,One move almost always sets off chaos in the currency market
+49694,1,Here’s what you can do to help besieged, war-torn Aleppo, Syria

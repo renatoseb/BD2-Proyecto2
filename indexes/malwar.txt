@@ -1,0 +1,88 @@
+71,3,Cyberwar for Sale - The New York Times
+89,4,The Perfect Weapon: How Russian Cyberpower Invaded the U.S. - The New York Times
+1570,2,A Eureka Moment for Two Times Reporters: North Korea’s Missile Launches Were Failing Too Often - The New York Times
+1571,1,Trump Inherits a Secret Cyberwar Against North Korean Missiles - The New York Times
+1591,2,WikiLeaks Releases Trove of Alleged C.I.A. Hacking Documents - The New York Times
+1592,5,With WikiLeaks Claims of C.I.A. Hacking, How Vulnerable Is Your Smartphone? - The New York Times
+1625,3,With C.I.A. Hacking Revelations, How to Protect Your Devices - The New York Times
+2042,3,North Korea’s Rising Ambition Seen in Bid to Breach Global Banks - The New York Times
+2726,1,Your Weekend Briefing: Transgender Rights, Donald Trump, Doping - The New York Times
+2811,1,Governments Turn to Commercial Spyware to Intimidate Dissidents - The New York Times
+2938,1,The Chinese Hackers in the Back Office - The New York Times
+3045,1,Chinese Curb Cyberattacks on U.S. Interests, Report Finds - The New York Times
+3210,2,Hillary Clinton’s Email Was Probably Hacked, Experts Say - The New York Times
+4218,2,Yahoo Said to Have Aided U.S. Email Surveillance by Adapting Spam Filter - The New York Times
+4265,2,What Options Does the U.S. Have After Accusing Russia of Hacks? - The New York Times
+4389,1,A New Era of Internet Attacks Powered by Everyday Devices - The New York Times
+4679,1,Hillary Clinton Supporters Call for Vote Recount in Battleground States - The New York Times
+4841,1,Beware, iPhone Users: Fake Retail Apps Are Surging Before Holidays - The New York Times
+4911,1,Trump, Mocking Claim That Russia Hacked Election, at Odds with G.O.P. - The New York Times
+4985,1,U.S. Faces Tall Hurdles in Detaining or Deterring Russian Hackers - The New York Times
+5146,1,3 Men Made Millions by Hacking Merger Lawyers, U.S. Says - The New York Times
+5448,1,Hillary Clinton, Donald Trump, Cleveland Cavaliers: Your Wednesday Evening Briefing - The New York Times
+5449,3,Mark Zuckerberg Covers His Laptop Camera. You Should Consider It, Too. - The New York Times
+5697,1,Facebook Blocks Ad Blockers, but It Strives to Make Ads More Relevant - The New York Times
+5737,1,‘Shadow Brokers’ Leak Raises Alarming Question: Was the N.S.A. Hacked? - The New York Times
+6505,1,Obama Strikes Back at Russia for Election Hacking - The New York Times
+7538,1,Details Emerge on Global Bank Heists by Hackers - The New York Times
+7878,1,WikiLeaks Reveals CIA ’Archimedes’ Tool Reportedly Used to Infect Local Networks - Breitbart
+7940,3,Fix Is In: House Committee on ’Russian Hacking’ Includes Only DNC-Hired Tech Experts
+8552,1,WikiLeaks: CIA ’Pandemic’ Malware Infected Servers to Spread Virus to Computers - Breitbart
+8561,4,WikiLeaks Claims CIA Lost Control of ’Hacking Arsenal’ - Breitbart
+9359,1,Disney Refuses Ransom to Hackers Who Stole ‘Pirates of The Caribbean’ - Breitbart
+9480,3,Gary Miliefsky on Ransomware Attack: Cybercrime a Trillion-Dollar Industry, ‘Only Going to Get Worse’
+10411,3,Latest WikiLeaks Vault 7 Release Claims CIA Can Attribute Cyber Attacks to Other Countries - Breitbart
+10678,2,North Korean Hackers Suspected of ‘WannaCry’ Ransomware Attack - Breitbart
+11006,3,Top 15 Things to Know About the ’WannaCry’ Global Ransomware Hacker Attack
+11400,4,Washington Post’s Fake News of Russian Vermont Power Plant Hack
+11943,1,Gorka on Russian Power Grid Hacking Fake News: Mainstream Media ’Not About Truth It’s About Maintaining a Narrative’
+12088,2,DNC ’Russian Hacking’ Conclusion Comes from Google-Linked Firm
+13251,1,WikiLeaks: CIA Hoarded ’Zero Day’ Exploits, Breached Obama Admin Commitments - Breitbart
+13435,4,WikiLeaks: The CIA Can Covertly Activate Your Mobile Device’s Microphone, Bypass Encryption Apps - Breitbart
+14022,6,WikiLeaks: CIA Uses ’Stolen’ Malware to ’Attribute’ Cyberattacks to Nations Like Russia - Breitbart
+14507,5,Expert: Obama Hacking Report Makes Him Question Whether DHS, FBI ’Know What They Are Doing’ - Breitbart
+15220,1,Hackers Strike 74 Countries With Stoled NSA Hacking Tool
+15248,2,Greenwald: WaPo Story of Russia Hacking U.S. Electric Grid Completely False - Breitbart
+16410,1,Federal Gov’t Says Hackers Probe 20 States’ Electronic Voting Systems - Breitbart
+16903,3,Federal Court: Government Doesn’t Need a Warrant to Search Your PC - Breitbart
+18746,2,Evidence In Child Porn Case Thrown Out Because FBI Won’t Disclose Hacking Methods - Breitbart
+19959,1,Prof. John Banzhaf: Hackers Can Sabotage 2016 Election Without Changing Ballots
+21313,1,Company Using Trained Eagles to Take Down Drones - Breitbart
+21771,3,China Steals $8.7 Billion a year in Pirated Software - Breitbart
+26365,1,Rash of Cyber Attacks on Texas School District Worries Some Parents
+27804,1,FBI Director James Comey: Put Tape Over Your Webcams, America - Breitbart
+29679,1,U.S. Government Hackers Threaten to Intervene in Election Over ’Russia’ Suspicions - Breitbart
+30533,1,Trump to Meet With Intelligence Leaders About Claims of Russian Hacking - Breitbart
+31592,6,US utility: Alleged Russian malware on laptop
+31646,1,Adviser contradicts Trump: Russians hacked the US
+31834,1,How to protect the Internet
+33105,2,Cyberattack hits PA Democrats’ computers
+34660,3,CNN 10 - May 15, 2017
+35764,1,CNN’s Reality Check Team vets Trump’s claims
+36971,1,Nancy Pelosi: DCCC hacking brought on ’obscene and sick calls’
+37309,3,Experts: China cyber spies may be watching you
+37333,1,Officials: Hackers breach election systems in Illinois, Arizona
+38021,1,FBI investigating possible hack of Democratic Party staffer cell phones
+43074,2,Vermont utility targeted by Russian hackers
+43264,1,18 of the hottest under-the-radar startups to watch in 2017
+43639,1,’Utterly shocking’: National security experts say Trump is making foreign intelligence agencies’ jobs ’much easier’
+43917,1,WikiLeaks’ dump of CIA hacking tools is ’devastating’ for the agency — but there may be an upside
+43936,3,Conservative media figures embrace wild WikiLeaks conspiracy theory that CIA hacked DNC, then framed Russia
+43965,1,WikiLeaks has joined the Trump administration
+44530,2,The Russians are using ’a new style of attack’ against France’s frontrunner candidate
+44643,3,Be very careful when someone emails you a Google Doc link — it could be malware
+44774,4,The spread of the massive cyberattack that hit 99 countries is slowing — but we still don’t know who’s behind it
+44787,1,The massive global cyberattack affecting 200,000 victims will cause more chaos on Monday
+44793,10,A 22-year-old who lives with his parents stopped the worldwide malware hack by registering a domain for $10.69
+45320,3,Competition among cyber criminals is so fierce that they now have customer support, service guarantees, and other perks
+45868,1,The hacked Hollywood hospital is not alone — schools and clinics across the country are increasingly being hacked for ransom
+45948,1,The IRS is warning taxpayers about a disturbing new scam
+45951,1,Meet Amelia Pond: ’Vice president of future Google relations with Apple’
+46099,4,For the first time, Mac users have to worry about malware that locks their computer and demands a ransom
+46997,2,Criminal hackers who locked computers and demanded ransoms suddenly apologized and unlocked everything
+48253,1,Inside ’Pegasus,’ the impossible-to-detect software that hacks your iPhone
+48387,1,The greatest threat to American democracy isn’t technical, security experts say — it’s psychological
+48913,1,A group of engineers found a way to send a password through your skin
+49836,1,Does Anyone Know What to Make of Obama’s Sanctions?
+49914,1,The USSR’s Futurist Film and Sweden’s Sweet Tooth: The Week in Global-Affairs Writing
+49931,2,Did Putin Direct Russian Hacking? And Other Big Questions

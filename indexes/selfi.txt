@@ -1,0 +1,335 @@
+15,1,As Second Avenue Subway Opens, a Train Delay Ends in (Happy) Tears - The New York Times
+163,1,‘La La Land’ Wins Seven Golden Globes ‘Moonlight’ Wins Best Drama - The New York Times
+200,1,The Best and Worst of the Golden Globes - The New York Times
+239,1,Danielle Brooks: The First Time I Saw Myself on a Billboard - The New York Times
+368,1,Hooked on Our Smartphones - The New York Times
+457,1,At Least 20 Firefighters Killed in Tehran Building Collapse - The New York Times
+461,1,Most Primate Species Threatened With Extinction, Scientists Find - The New York Times
+544,1,Snapchat Discover Takes a Hard Line on Misleading and Explicit Images - The New York Times
+652,1,Google, in Post-Obama Era, Aggressively Woos Republicans - The New York Times
+701,1,Silicon Valley’s Ambivalence Toward Trump Turns to Anger - The New York Times
+921,2,New England Patriots, Elizabeth II: Your Monday Evening Briefing - The New York Times
+945,1,Syria, Travel Ban, Kabul: Your Morning Briefing - The New York Times
+963,1,How a Fractious Women’s Movement Came to Lead the Left - The New York Times
+1068,1,World’s Diplomats, Seeking a Bridge to Trump, Look to Haley - The New York Times
+1134,2,South Korea’s Olympian Winter Moment - The New York Times
+1226,1,U.S. Wrestlers Find They Have Passionate Fans in Iran - The New York Times
+1324,1,Bathroom Case Puts Transgender Student on National Stage - The New York Times
+1339,1,Nikki Haskell Learns the Social Cost of Supporting Donald Trump - The New York Times
+1393,1,‘Moonlight,’ ‘La La Land’ and Everything Else That Happened at the Oscars - The New York Times
+1490,2,Snap Shares Leap 44% in Debut as Investors Doubt Value Will Vanish - The New York Times
+1712,1,For Brazil’s Zika Families, a Life of Struggle and Scares - The New York Times
+1812,1,Afghan Officials Say at Least 50 Died in Attack on Hospital - The New York Times
+1874,1,I Planned My Wedding in 5 Days. You Could, Too. - The New York Times
+1931,2,A Putin Opponent Is Doused in Green. He Makes It Work. - The New York Times
+2003,1,At Asia’s Hottest Art Fair, Taking Selfies With a Mao ‘Corpse’ - The New York Times
+2235,1,Bill de Blasio Speaks at Funeral for Man Killed in Racist Attack - The New York Times
+2316,2,It’s Easy to Be Called ‘Thirsty’ on Social Media. What About on Capitol Hill? - The New York Times
+2441,1,Sleep Is the New Status Symbol - The New York Times
+2512,1,Review: The Chainsmokers Find That Pop Is an Awkward Fit - The New York Times
+2522,1,How Behavioral Economics Can Produce Better Health Care - The New York Times
+2650,1,Your Wednesday Evening Briefing: Donald Trump, J. Dennis Hastert, Ted Cruz - The New York Times
+2651,1,Texting and Driving? Watch Out for the Textalyzer - The New York Times
+2709,1,The Met Opera Is Struggling. How Can It Fill Those Empty Seats? - The New York Times
+2757,1,Mr. Trump’s Wild Ride - The New York Times
+2772,1,Pioneertown Wants to Be the New Old West - The New York Times
+2888,1,And Like a Tweet in the Night, Kanye Was Gone - The New York Times
+2914,1,Mecca Goes Mega - The New York Times
+3034,1,Hands Off My Smiley Face: Emoji Become Corporate Tools - The New York Times
+3036,1,Will Trump Swallow the G.O.P. Whole? - The New York Times
+3065,1,Three Separate, Equal and Dysfunctional Branches of Government - The New York Times
+3164,1,‘Child, I Trust You’: On Deadline With Bill Cunningham - The New York Times
+3197,1,Why Does the Beauty Industry Ignore Curvy Models? - The New York Times
+3240,1,Iran, Once Quiet About Its Casualties in Syria and Iraq, Now Glorifies Them - The New York Times
+3395,1,Megyn Kelly Stops By the Rumor Mill With Cameo at CNN Party - The New York Times
+3428,1,Review: ‘Meet the Donors: Does Money Talk?’ Explores Campaign Contributors - The New York Times
+3477,1,Jonah Hill Is No Joke - The New York Times
+3494,1,For the Rio Olympic Games, There’s No Turning Back Now - The New York Times
+3495,1,Even on NBC, Rio’s Colors Can’t Be Airbrushed Out - The New York Times
+3538,1,Dancing Her Way to Pop Stardom, Thanks to YouTube and Rihanna - The New York Times
+3560,1,Snapchat Finds Itself on the Wrong Side of a Racial Lens. Again. - The New York Times
+3561,1,Trump Tower Climber Now Faces Charges - The New York Times
+3614,2,How to Get the Most out of Visiting World-Famous Sites - The New York Times
+3736,1,University of Texas Students Find the Absurd in a New Gun Law - The New York Times
+3742,1,What Do You See in Art? Nearly 50 People Told Us - The New York Times
+4049,1,Allo’s Tryout: 5 Days With Google’s Annoying Office Intern - The New York Times
+4238,8,5 Selfie Tips From a Makeup Artist - The New York Times
+4318,1,Snap Is Said to Pick Bankers for an I.P.O. - The New York Times
+4396,1,Declaring ‘That’s Me,’ and Empowering Latinas - The New York Times
+4409,1,Fans Flock to Town That Inspired ‘Gilmore Girls’ - The New York Times
+4451,1,A Traumatized Brain That Helped Heal a Broken Heart - The New York Times
+4567,1,Raccoons in Central Park Draw Crowds, and Warnings to Stay Away - The New York Times
+4646,1,Reince Priebus, Normalizer in Chief - The New York Times
+4676,1,Is Social Media Disconnecting Us From the Big Picture? - The New York Times
+4686,1,Jailed by Egypt, Honored for His Photojournalism - The New York Times
+4711,2,Hungry Venezuelans Flee in Boats to Escape Economic Collapse - The New York Times
+4779,1,Doomed Jet Carrying Brazilian Team Reportedly Ran Out of Fuel - The New York Times
+4793,1,‘We Are Orphans Here’ - The New York Times
+4817,1,This Season’s Best Books on Hollywood - The New York Times
+4829,1,Shadows Fall and Jaws Drop for a Jolly Green Icon’s Comeback - The New York Times
+4890,1,Trump Is Still Not Very Popular, and His Problem With Women Could Return - The New York Times
+4904,1,Got an Hour? See the Met These 4 Ways - The New York Times
+4967,1,Seeing Africa by Road - The New York Times
+4972,1,Rodrigo Duterte, Aleppo, Donald Trump: Your Morning Briefing - The New York Times
+5106,1,A Struggling Theme Park Asks: Do You Still Believe in Santa? - The New York Times
+5176,1,The Biggest Digital Map of the Cosmos Ever Made - The New York Times
+5230,1,White Man or Black Woman? Senate Race Tears at Maryland Democrats - The New York Times
+5432,1,How Should Hillary Clinton Choose a Running Mate? Start With Chemistry - The New York Times
+5471,1,Bill Cunningham Looked for Subjects. And They Looked for Him. - The New York Times
+5542,1,On a Somber Sunday, ‘One Nation Under God Examines Its Soul’ - The New York Times
+5594,1,Donald Trump’s Convention Is a Low-Energy Show So Far - The New York Times
+5663,1,Lit’s Dynamic Duo, Will and Jane, Shared Path to Pop Stardom - The New York Times
+5672,1,Moment in Convention Glare Shakes Up Khans’ American Life - The New York Times
+5798,1,Anthony Weiner and Huma Abedin to Separate After His Latest Sexting Scandal - The New York Times
+5829,1,What Donald Trump and Anthony Weiner Have in Common - The New York Times
+5844,1,A Shopping Mall at Ground Zero, Uninformed by Its Sacred Land - The New York Times
+5898,2,What It Feels Like to Ride in a Self-Driving Uber - The New York Times
+5901,2,Alicia Keys and the ‘Tyranny of Makeup’ - The New York Times
+5946,1,How to Use Google to Plan Your Trip - The New York Times
+6044,2,Asian-American Fighters Return to Ancestral Homelands, and Find Fans Waiting - The New York Times
+6064,3,‘I’m the Last Thing Standing Between You and the Apocalypse’ - The New York Times
+6120,1,South Koreans, Seeking New Zest for Life, Experience Their Own Funerals - The New York Times
+6121,1,The ‘Saddest’ Polar Bear Lives in a Mall in China - The New York Times
+6126,1,Stark Choice for Syrians in Rebel Areas: ‘Doom’ or the Green Bus - The New York Times
+6409,1,Uber Expands Self-Driving Car Service to San Francisco. D.M.V. Says It’s Illegal. - The New York Times
+6429,1,The Robot Revolution Will Be the Quietest One - The New York Times
+6498,1,Russia, Syria, Debbie Reynolds: Your Thursday Evening Briefing - The New York Times
+6512,1,4 Trailers That Have Us Excited for 2017 - The New York Times
+6550,1,Prince’s Addiction and an Intervention Too Late - The New York Times
+6551,1,Is Britney Spears Ready to Stand on Her Own? - The New York Times
+6587,1,Crowds Are Out, Crates Are In as Louvre Takes Flood Precautions - The New York Times
+6752,1,U.S.A. Basketball Is Already Cruising in Rio. Now, to Take the Court. - The New York Times
+6753,1,From Syrian Rubble to German Concert Halls With a Piano, a Mission and Survivor’s Guilt - The New York Times
+6778,1,The Tyranny of Other People’s Vacation Photos - The New York Times
+6913,1,Are You Ready for Some Football … and Riot Gear and Pepper Spray? - The New York Times
+7021,3,‘They Will Have to Die Now’ - The New York Times
+7087,1,5 Ways to Be a Better Tourist - The New York Times
+7182,1,In Cramped and Costly Bay Area, Cries to Build, Baby, Build - The New York Times
+7189,1,Earning the ‘Woke’ Badge - The New York Times
+7267,1,Cheryl Strayed: A Close Encounter at Badlands - The New York Times
+7306,1,Spotted in Rio: Gisele Bündchen, Bermuda Shorts, and Michael Phelps as a Lightning Bug - The New York Times
+7340,1,Turning Instagram Into a Radically Unfiltered Travel Guide - The New York Times
+7341,1,Edward Snowden’s Long, Strange Journey to Hollywood - The New York Times
+7371,1,Artificial Intelligence Software Is Booming. But Why Now? - The New York Times
+7386,2,Social Media Got You Down? Be More Like Beyoncé - The New York Times
+7475,1,A Nation in Mourning: Images of Cuba After Fidel Castro - The New York Times
+7544,1,Mexico Prepares to Counter ‘the Trump Emergency’ - The New York Times
+7651,1,Bill Clinton Evokes Past, but From the Periphery of His Wife’s Campaign - The New York Times
+7691,1,Visiting the African-American Museum: Waiting, Reading, Thinking, Connecting, Feeling - The New York Times
+7729,4,David’s Ankles: How Imperfections Could Bring Down the World’s Most Perfect Statue - The New York Times
+7756,1,The End of Relaxation - The New York Times
+8077,2,Refugee Launches Lawsuit Against Facebook After Selfie Used for Memes - Breitbart
+8298,1,After Bring Fans to Stands in Droves, Mets Considering Promoting Tim Tebow to AA Ball
+8499,1,Woman Sues Casino for Giving Her a Steak Dinner Instead of a $43 Million Jackpot - Breitbart
+9025,1,Top Five Media-Generated Non-Stories from Trump’s Foreign Trip - Breitbart
+9032,1,Joyce Carol Oates: Christianity ’Virtually Synonymous’ with White Nationalism
+9555,1,Istanbul Nightclub Terrorist ’Identified as Uzbek Jihadist’
+9648,1,Chuck Schumer: ’America Cannot Afford a Twitter Presidency’
+9684,1,MasterCard Tests Credit Cards with Embedded Fingerprint Reader - Breitbart
+9970,1,’Lacklustre Campaign’ Sees Macron Falling In Polls
+10169,1,MILO: Trump Slims Down Lena Dunham. Is There Anything He Can’t Do? - Breitbart
+10347,1,Family of Nine Asylum Seekers Accused of Gang-Rape Attack
+10675,1,REPORTS: MILO UC Davis Event Cancelled After Leftists Tear Down Barricades, Engage In Violence - Breitbart
+11101,1,Two Female Texas Teachers Accused of Middle School Sex
+11486,1,Donald Trump: ‘Over-rated’ Meryl Streep a ‘Hillary Flunky’ - Breitbart
+11657,1,BBC Comedy Sketch "Real Housewives of ISIS" Causes Outrage
+12223,1,MILO Takes Selfies With UC Davis Protestors - Breitbart
+12659,1,Troubled Quarterback Johnny Manziel to Appear at Shopping Mall to Sign Autographs During Next Super Bowl - Breitbart
+12981,1,Sean Spicer Confirms WH ‘Meeting with Potential People’ for Press Vacancies - Breitbart
+13790,1,WATCH: UC Davis Protester Screams Obscenities At Martin Shkreli - Breitbart
+14048,8,’Baywatch’ Star Priyanka Chopra Slammed for Selfies at Holocaust Memorial
+14301,1,Man Wears MAGA Hat in NYC, Predictable Results Ensue
+14340,1,***LIVE UPDATES*** MILO UC Berkeley Show Evacuated As Masked Anti-MILO Protesters Start Fires, Swarm Building - Breitbart
+14444,1,Obama: ‘I Probably Wouldn’t Have Been President’ If My High School Years Were Online - Breitbart
+15484,1,MILO: Hollywood Leftists, Stop Being Racist and Move to Cuba - Breitbart
+15523,5,Murder Suspect Caught Taking Selfies Behind Bars
+15663,1,Homesick ’Clock Boy’ Ahmed Reportedly Returning to Texas
+16327,1,Black Lives Matter UK Leader Funded By Taxpayers - Breitbart
+16522,1,Fans Blast Fergie’s ’MILF Money’ Music Video as ’Trash’
+16851,1,Hillary Clinton Emerges from the Woods to Warn About ‘Threat’ of Fake News - Breitbart
+16943,1,WATCH: Justin Bieber Punched in Face in Street Brawl - Breitbart
+17039,3,Actress Emily Ratajkowski: I’m Too Sexy to Land ‘Serious Roles’ - Breitbart
+17694,3,Bill Clinton’s ’Bimbo Eruption’ - Breitbart
+17725,1,Vietnam: Pop Star Runs for Office on Anti-Communist Ticket
+18157,1,Sex Shop ’Dildo Nativity Scene’ Sparks Anger
+18159,1,2016 Election Day: Live Updates - Breitbart
+18273,3,Muslim Selfie Girl Returns To Twitter After Breitbart Expose: ’I Meant Zionists, Not Jews!’
+18530,1,NOT A REALITY SHOW: Obama Dance Off with R2-D2 and Stormtrooper - Breitbart
+18603,1,Trans Actress to ’Piss In All the Wrong Bathrooms’ During North Carolina Tour - Breitbart
+18789,1,Turkey Coup Aftermath: Erdogan Shuts Down 131 Media Outlets
+19041,2,Macaca Monkey Loses Selfie Suit - Breitbart
+19244,3,Hillary Can’t Keep Up With Kardashians As Kim Moves Toward Trump
+19294,1,NY Daily News: Madonna Won’t Honor Promise to Fellate Hillary Voter - Breitbart
+19405,1,Gay Israeli Lawmaker Leads Fight for Gun Rights: ’Anyone Who Rises to Kill You - Kill Him First’ - Breitbart
+19696,1,REPORT: Locals Fled Pool After Migrants Masturbated Into Jacuzzi, Defecated Into Kid’s Pool, Invaded Girls Changing Rooms - Breitbart
+19817,3,Texas Tutor’s Lewd ’Batman and Robin’ Selfies Lead to Child Porn Charges
+19854,1,Hillary Clinton Laughs Off Question About Her Health - Breitbart
+19926,1,MILO Takes On Lesbian Hate Crime Hoaxes At Texas Tech - Breitbart
+19944,1,All About Megyn: The ’Eve Harrington’ of Fox News - Breitbart
+20459,1,Milo on Rutgers Radicals: ’The Hysteria and Intolerance Just Emboldens Me Further’ - Breitbart
+20517,3,Funeral Director Accused of Taking Selfies with Hearses, Caskets - Breitbart
+21026,1,Snapchat IPO Valued at Up to $40 Billion - Breitbart
+21776,1,Syrian Prof: Arabs Migrate for ’Sluts’ and Welfare, Attack When They Don’t Get It
+21876,1,The Kaepernick Caper: Celebrity Hypocrisy on Steroids - Breitbart
+21923,1,Atheist Group Demands Texas School Paint Over Ten Commandments Mural
+22096,1,Bitter Liberals Post Selfies of Themselves Flipping Off Trump Tower - Breitbart
+22466,1,Sean Penn Interviews El Chapo for Rolling Stone... SHOCK: Magazine Gives Fugitive Drug Lord Editorial Control
+22595,1,Islamic State Fans Make Video Praising Orlando Gay Club Massacre - Breitbart
+22689,3,British Man Takes Selfie with EgyptAir Hijacker - Breitbart
+22739,1,Sports Site Claims GOP ‘F**king Idiots’ for All White Selfie - Breitbart
+22818,1,Justin Bieber Removed from Historic Mexican Site for Climbing Ruins and Pulling Down His Pants
+22828,2,***Horse Race LiveWire*** Sanders, Clinton Debate After Bernie’s Michigan Upset - Breitbart
+22915,1,Police Arrest Yemeni Plotting ’Nice-Style’ Islamic State Truck Attack in New York - Breitbart
+23565,1,Actress Selma Blair Removed From Plane on Stretcher After Mid-Flight Meltdown - Breitbart
+24137,1,Hell Hath No Fury like a Weiner Scorned - Breitbart
+24261,2,Honor Killing: Gang Dismembers Pakistani Man for Alleged Affair - Breitbart
+24600,2,Qandeel Baloch’s Mom: Islamic Cleric Advised Son to Murder Sister
+24734,1,Saudi Cleric on Islamic State Hit List Wounded in Philippines
+24981,2,Trump Rally Overnight Stake Out in Wilmington Starts 12 Hours Before Event - Breitbart
+25459,1,Why Your Facebook Friends Are Clueless About the Clinton Emails
+26009,1,Museum of Modern Art Adds Emojis to Collection - Breitbart
+26117,3,MasterCard Using Selfies to Verify Online Purchases - Breitbart
+26625,3,’Pakistan’s Kim Kardashian’ Exposed ’Hypocrite’ Mufti Shortly Before Honor Killing - Breitbart
+26694,1,Watch: Sarah Silverman Appears as Hitler on ’Conan,’ Compares Trump to Nazi Dictator - Breitbart
+27074,2,’Watch Dogs 2’ Review: A Competent but Cringeworthy Open-World Adventure - Breitbart
+27389,1,Cory Booker Talks to Near-Empty Room of LGBT Activists for Hillary - Breitbart
+27443,1,Citizens with AR-15s Stand Guard Outside Texas Police Departments
+28044,1,Latin Pop Star Prince Royce Sings ’Happy Birthday’ to Clinton
+28373,1,Seven Artists, Dissidents, Journalists, and Rebels Who Defied Authoritarians in 2016
+28420,3,Debra Messing Poses for Gun Contol Selfie As UCLA Shooting Unfolds - Breitbart
+28579,1,***Horse Race LiveWire*** Summer Bummer: GOP Fight Drags on to Convention - Breitbart
+28658,2,Arcan Cetin Mentioned Ayatollah, Islamic State on Blog
+28771,1,High Security, Low-Key Start For French Open
+29114,1,***Live Updates*** New Hampshire Primary Results: Trump, Sanders Projected Winners - Breitbart
+29329,1,FULL TEXT: MILO Explains The Patriarchy At Ohio University - Breitbart
+29918,1,Bar Refaeli Poses In A Bikini 3 Weeks After Giving Birth
+30349,1,Saudi Social Media Outraged At Resolution Exposing 9/11 Claims
+30371,1,French Police Release Suspect, Hold Two In Custody Over Islamist Priest Execution
+30538,1,Ashton Kutcher Takes Veiled Shot at Trump Supporters: ’It Hurts Me Inside’ - Breitbart
+30707,1,Report: Child Welfare Officials Investigating Anthony Weiner - Breitbart
+30755,1,8 Times Hillary Clinton Pushed Fake News
+30926,1,Sarah Palin’s Fiery Iowa Endorsement of Donald Trump: Let’s Stop ‘Pussyfooting Around,’ ‘Kick ISIS’s Ass,’ Build Border Wall - Breitbart
+31495,1,Shallow Pre-College Reading Assignments Pave Way for Social Justice Agenda - Breitbart
+31526,2,Media-Darling Muslim Selfie Girl: ’Hitler Left Some Jews So We’d Know Why He Killed Them’
+31665,3,Turkey: Gunman identified in nightclub attack
+31670,1,5 things for 5 things for Wednesday, January 4, 2017
+31947,1,The view from Obama’s train to Washington
+31992,1,CNN 10 - January 18, 2017
+32387,1,Milo Yiannopoulos is trying to convince colleges that hate speech is cool
+32642,1,Liberal superhero Justin Trudeau is not immune to the forces of Trump
+32852,1,Constituents search for ’missing’ reps
+33422,1,Paraglider’s near-death experience
+33449,1,Cut it out: Canadian diplomats told to stop using Justin Trudeau cutouts
+33473,2,Why popularity means nothing in race to be Hong Kong’s leader
+33505,1,World’s fastest police car can reach 253 mph
+33527,1,Suspect to police: I stabbed black man as ’practice’
+33897,1,San Bernardino school shooter fired 10 shots, reloaded once
+33977,1,San Bernardino shooting: 9-year-old victim getting better
+34051,1,Maxine Waters is having a moment
+34063,1,Start your Wednesday smart
+34171,1,Obama re-emerges in public after avoiding political spotlight
+34339,1,French election: Is it Emmanuel Macron’s to lose?
+34671,1,Baby on Board badge not just for cars in NY
+34910,1,Art duo create 3D miniatures of historic events
+34911,1,Ex-Playboy playmate sentenced in ’body-shaming’ case
+34959,1,What we learned about Melania Trump from her first international trip
+35007,1,The legend of Francesco Totti in ten chapters
+35073,1,Murray, del Potro close to rematch
+35229,2,What we know about Reality Winner
+35290,1,Uber driver gets extra tip from NFLer for 8-hour ride
+35299,1,Accused leaker Reality Winner pleads not guilty
+35591,2,They came, they camped, they baked at Death Valley ... on purpose
+35952,4,Dad hilariously re-creates daughter’s sexy selfies
+36042,1,ISIS Fast Facts
+36060,1,ISIS: 143 attacks in 29 countries have killed 2,043
+36166,1,Dallas police chief’s storied career marked by tragedies
+36332,1,Pakistan social media star killed by brother
+36510,1,Kaine comes home to his spiritual center
+36702,1,Jogger Karina Vetrano’s body found by her dad
+36707,3,Cheese! An incredible selfie...from Mars?
+36821,1, Shirtless Justin Trudeau photobombs wedding
+36869,1,How to get your child to apologize and mean it
+37272,1,Residents, rebels leave besieged Syrian city
+37444,1,Trump brings message of unity to black church
+37940,1,The friendship of George W. Bush and Michelle Obama
+38143,1,Why Trump is the perfect ’Real Housewife’
+38421,1,Black doctor claims discrimination by airline
+38580,1,Eric Trump may have broken law with ballot tweet
+38852,1,Kanye rants on politics, cuts 1 show, cancels another
+38855,1,Welcome to Duterte country
+38859,1,Grandma accidentally invites stranger to Thanksgiving - and it gets better
+39283,1,Hillary Clinton calls fake news ’an epidemic’
+39622,1,Christmas reborn in Iraqi town freed from ISIS
+39787,4,Camera selfies: Turning the lens on themselves
+39832,1,Female suspect sought in Paris hostage-taking
+39859,1,Massive search for woman linked to Paris hostage-taker
+40008,1,Miss Lebanon distances herself from Miss Israel photo
+40076,2,PEGIDA chief resigns amid Hitler selfie uproar
+40148,1,Obama and Modi: Best broments
+40227,1,Dzhokhar Tsarnaev trial: A marathon of jury picking
+40334,1,The 13th Juror: Watching Tsarnaev for clues
+40362,1,Neil Armstrong’s widow finds moon artifacts in closet
+40566,1,Election 2016: Jeb Bush makes his first Iowa foray
+40573,1,The 13th Juror: Boston bomber’s trial a horror show
+40675,1,Narcissists aren’t born they’re made (Opinion)
+40678,1,Iraqi forces retake most of Tikrit, militia head says
+40743,1,Obama redefines the lame duck presidency
+41034,1,Iran nuclear deal framework announced
+41048,5,April Fools’ Day 2015: The best and worst pranks
+41390,1,Hubble Space Telescope turns 25
+41458,1,Magma expanse under Yellowstone supervolcano more vast
+41462,2,Tsarnaev trial: The middle finger seen ’round the world
+41513,1,How old do you look? This site tells you in seconds
+41572,1,Look at me! 21 selfies of the week
+41583,1,Nicola Sturgeon is realigning British politics
+41653,1,Look at me! 24 selfies of the week
+41667,1,Frequent tanner shares grisly skin-cancer selfie
+41771,1,Look at me! 28 selfies of the week
+41812,1,The Clintons celebrate Memorial Day in Chappaqua
+41844,1,Look at me! 26 selfies of the week
+42025,1,Look at me! 23 selfies of the week
+42198,1,Chinese feminists show off armpit hair in photo contest
+42367,1,Look at me! 26 selfies of the week
+42395,1,The 2016 pop culture primary is here
+42474,1,Charleston shooting: Clementa Pinckney among victims
+42605,1,Look at me! 27 selfies of the week
+42646,2,NASA astronaut takes selfie with earth’s shine
+42669,1,Look at me! 27 selfies of the week
+42732,16,Kim Kardashian: My selfies give me power
+42744,2,Pope calls greed ’the devil’s dung’
+42746,1,Look at me! 25 selfies of the week
+42808,1,The 2015 Drone Aerial Photography Contest
+42812,1,Candace Hill: The fastest girl of all time
+42818,2,Pope defends economic message
+42827,2,Bryan Cranston said what?! Five Comic-Con OMG moments
+42878,1,Look at me! 23 selfies of the week
+42902,1,Mapping Morocco through portraits
+42955,1,A young ballclub barnstorms the Deep South
+42963,1,Bison attacks woman taking selfie in Yellowstone Park
+42981,1,Look at me! 22 selfies of the week
+43078,1,11 reasons driving a supercar isn’t as cool as you think
+43120,1,Migrants document their trek to safety by taking selfies along the way
+43850,1,’Right now we’re just celebrating’: Inside Snap’s crazy $33 billion IPO
+44051,1,Meet ’Professor X,’ the AI genius who left his lab at Princeton to beat Uber, Google, and Intel at their own game
+44088,1,Inside the identity crisis at the Independent Journal Review, the outlet that has become a powerhouse in the Trump era
+44167,1,The 21 most believable rumors about Samsung’s Galaxy S8, one of the biggest smartphones of 2017
+44279,1,Snapchat just launched an attack on a key source of Facebook’s ad revenue
+44540,3,I tried Facebook in virtual reality and I’m not sure what the point was
+44618,1,Take a look at the failed Fyre Festival’s promotional pitch to investors
+45078,1,Apple announced the future this week, and you probably didn’t even notice
+45327,2,I went on a Tinder date with ’pharma bro’ Martin Shkreli — here’s what it was like
+46615,1,Instagram is spurring the biggest shift the fitness world has seen in decades
+47091,1,How a failed education startup turned into Musical.ly, the most popular app you’ve probably never heard of
+47241,2,There’s a hot new trend that could change the face of investing
+47766,4,There’s a glaring problem with this Paul Ryan selfie
+47981,1,Fireworks, ancient ruins, and celebrities: Inside Larry Page and Sergey Brin’s exclusive conference in Italy
+48233,1,Facebook’s new app for high schoolers raises privacy concerns
+48450,1,What it takes to achieve fame and fortune on YouTube
+48633,2,George W. Bush needed a little help from Obama to take a selfie
+48728,1,A $50 device turns any video into a 3D experience — and is a terrifying way to watch ’Game of Thrones’
+48953,1,A product designer’s yearlong battle with China’s copycats shows how hard it can be to protect startup ideas
+49011,1,Get ready for Snapchat to feel a lot more like TV
+49092,1,Mark Zuckerberg has a new battle cry to fight Snapchat: ’The camera is the composer’
+49207,1,This election, more than 40,000 have traded votes in swing states to keep Trump out
+49320,2,Twitter mocks selfie of Mike Pence and Republican members of Congress
+49339,1,The scene at Trump Tower is frantic as Trump embarks on an unprecedented transition to the presidency

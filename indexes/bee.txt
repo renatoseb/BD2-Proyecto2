@@ -1,0 +1,218 @@
+213,1,Your Morning Briefing: Rafsanjani, Donald Trump, Kabul - The New York Times
+214,1,California Today: $8 Million in Tech Money for the Bay Area Arts - The New York Times
+234,12,A Bumblebee Gets New Protection on Obama’s Way Out - The New York Times
+251,1,California Today: The Tale of the Laguna Beach Jumper - The New York Times
+270,1,Neanderthals Were People, Too - The New York Times
+450,1,Road Trip to Trump’s Inauguration: ‘Let’s See What He Can Do’ - The New York Times
+553,1,California Today: What, Exactly, Is in Your Sushi? - The New York Times
+725,8,Samantha Bee to Roast Trump on Same Night as Correspondents’ Dinner - The New York Times
+727,1,Donald Trump, Quebec City, Patriots: Your Monday Evening Briefing - The New York Times
+823,1,Lady Gaga Coy on Details of Super Bowl Halftime Show - The New York Times
+923,1,California Today: Tackling Los Angeles’s Deadly Smog - The New York Times
+1118,1,California Today: On the Ground in Oroville - The New York Times
+1303,2,California Today: The State’s Hate Landscape - The New York Times
+1312,1,Jimmy Kimmel on Hosting the Oscars at a Political Moment - The New York Times
+1434,1,California Today: After Lawmaker’s Silencing, More Cries of ‘She Persisted’ - The New York Times
+1576,1,California Today: What to Look for on Election Day - The New York Times
+1652,1,California Today: Why the State’s Biggest Lake Is Dying - The New York Times
+1735,1,Donald Trump, Republican Party, Daylight Saving: Your Weekend Briefing - The New York Times
+1751,2,For Solace and Solidarity in the Trump Age, Liberals Turn the TV Back On - The New York Times
+1803,1,California Today: A Gallery Flees and Neighborhood Activists Cheer - The New York Times
+1979,1,At Chatsworth House, a Tale of Five Centuries - The New York Times
+2014,1,California Today: Henry Rollins Strikes Chord as a Columnist - The New York Times
+2107,1,California Today: Considering a Single-Payer Insurance System - The New York Times
+2144,1,California Today: Muslim Candidate Says He’s ‘Triple Threat to Donald Trump’ - The New York Times
+2170,1,California Today: ‘Zoot Suit’ Memories - The New York Times
+2477,1,California Today: Berkeley Turns to Comedian for Advice - The New York Times
+2608,1,Prince Knew What He Wanted: Sex, Soul and You - The New York Times
+2884,1,Muhammad Ali: The Champion Who Never Sold Out - The New York Times
+2979,6,After Orlando Shooting, Talk Show Hosts Suggest Talk Is Not Enough - The New York Times
+3064,2,Democratic Party, Hillary Clinton, Donald Trump: Your Thursday Evening Briefing - The New York Times
+3121,1,California Today: How Badly Do You Want That New Rail Line? - The New York Times
+3129,1,California Today: Yes, They’re Still Counting the Presidential Primary Votes - The New York Times
+3397,1,Did Putin Try to Steal an American Election? - The New York Times
+3418,1,Meet the New Owner of the Playboy Mansion - The New York Times
+3605,2,Comedy Central Cancels Larry Wilmore’s Late-Night Show - The New York Times
+3648,1,Review: ‘Morris From America’: A 13-Year-Old Stranger in a Strange Land - The New York Times
+3771,1,Mylan Tries Again to Quell Pricing Outrage by Offering Generic EpiPen - The New York Times
+3811,1,Georgetown University, Donald Trump, SpaceX: Your Thursday Evening Briefing - The New York Times
+3822,7,Aimed at Zika Mosquitoes, Spray Kills Millions of Honeybees - The New York Times
+3847,1,A Ranger, a Field of Wildflowers and the Retelling of Flight 93 - The New York Times
+3950,2,California Today: School Bond Measure? Why You Should Care - The New York Times
+4045,2,Syria, U.S. Presidential Race, Tulsa: Your Evening Briefing - The New York Times
+4056,8,Samantha Bee Condemns NBC and Jimmy Fallon’s Trump Interview - The New York Times
+4076,2,California Today: The Debate Over Indian Mascots and Imagery - The New York Times
+4091,1,California Today: Should We Ban Plastic Bags? - The New York Times
+4125,2,‘Miss Peregrine’ and Tim Burton: The Making of a Film Fable - The New York Times
+4165,2,California Today: $2 More for a Pack of Cigarettes? - The New York Times
+4290,1,In Haiti, a City’s Race Into the 21st Century Is Ruined by a Hurricane - The New York Times
+4411,1,Cuba in All Its Natural Glory at the American Museum of Natural History - The New York Times
+4458,8,California Today: How Do Top Newspapers Line Up on the Election? - The New York Times
+4475,1,California Today: What to Watch For on Election Day - The New York Times
+4935,1,California Today: Questions Persist After the Oakland Fire - The New York Times
+5060,2,California Today: Cast Your Vote for Californian of the Year - The New York Times
+5234,1,How Hillary Clinton Became a Hawk - The New York Times
+5488,1,Trump Institute Offered Get-Rich Schemes With Plagiarized Lessons - The New York Times
+5770,1,The EpiPen, a Case Study in Health System Dysfunction - The New York Times
+5781,1,Mylan to Offer Some Patients Aid on Cost of EpiPens - The New York Times
+5891,1,California Today: Fighting Fire With Fire - The New York Times
+5909,1,California Today: A ‘See Something, Say Something’ Prostitution Plan - The New York Times
+5985,1,Tax Break for Olympic Heroes? A Sole Lawmaker Says No - The New York Times
+6062,1,Review: Taylor Mac’s 24-Hour Concert Was One of the Great Experiences of My Life - The New York Times
+6133,1,Gannett Abandons Effort to Buy the Newspaper Publisher Tronc - The New York Times
+6162,1,California Today: With Trump’s Rise, a Return to the ‘Rebel State’ - The New York Times
+6411,1,California Today: Tracking the Bullet Train’s Progress - The New York Times
+6520,1,2016 Pulitzer Prizes: A.P. Wins Public Service Award ‘Hamilton’ Is Honored - The New York Times
+6869,1,Kiefer Sutherland Returns. This Time the Oval Office Is His. - The New York Times
+6873,1,Lionel Shriver’s Address on Cultural Appropriation Roils a Writers Festival - The New York Times
+6880,1,Drone Racing Becomes ESPN’s Newest Televised Sport - The New York Times
+6936,1,In Video, Sacramento Police Appear to Try to Hit Man With Their Car Before He’s Fatally Shot - The New York Times
+6946,1,Hurricane Matthew, Donald Trump, Nobel Prize: Your Friday Evening Briefing - The New York Times
+7092,2,The Best TV Shows of 2016 - The New York Times
+7234,1,Muhammad Ali Fans Pay Homage to Their Local Hero - The New York Times
+7309,1,Donald Trump’s Diet: He’ll Have Fries With That - The New York Times
+7322,1,1999 Rape Case Swirls Around Nate Parker and His Film ‘The Birth of a Nation’ - The New York Times
+7353,1,California Today: Vaccinate Schoolchildren or Keep Them Home - The New York Times
+7363,1,Songwriters Sue Justice Department Over Licensing Rules - The New York Times
+7549,1,Muhammad Ali Dies at 74: Titan of Boxing and the 20th Century - The New York Times
+7631,1,Obama Says African-American Museum Will Tell of ‘Suffering and Delight’ - The New York Times
+7667,3,California Today: Some Opt to Pass on Thanksgiving Politics - The New York Times
+8021,1,Suspect Shoots Three Dead In Fresno, Yells ’Allahu Akbar’ When Tackled by Police - Breitbart
+8101,1,California May Allow Communists to Work Openly in State Government - Breitbart
+8899,1,Oakland Sets Up $300,000 Anti-Deportation Fund - Breitbart
+8925,2,California Ready for Single-Payer Insurance ... But Who’s Going to Pay for It? - Breitbart
+9107,1,Bernie Sanders to California Democrats: Please Pass Single-Payer Health Care! - Breitbart
+9488,1,Celebrities Defend Stephen Colbert’s ’C*ck Holster’ Joke
+9891,5,Samantha Bee Mocks Trump, Roasts Media at ’Not the White House Correspondents’ Dinner’ - Breitbart
+9953,1,Linda Sarsour, Women’s March Organizer and Fake Feminist
+10216,1,Splash! Jerry Brown Says California’s Drought Is Over - Breitbart
+10228,1,Emergency Evacuations Ordered, Oroville Dam Spillway Near Failure
+10804,1,Oroville Lake Down 52 Feet, but 9 Upstream Reservoirs to Flood
+10870,1,7 Unhinged Celebrity Reactions to Comey Hearing
+10923,1,Jerry Brown Seeks ’Common Ground’ with Donald Trump - Breitbart
+10973,1,Woman Accused of Murdering Son-in-Law Celebrates Killing
+11147,1,California Democratic Party Leader Leads ’F*ck Donald Trump’ Chant at Convention - Breitbart
+11973,3,Samantha Bee: ’Democrats Suck at Voting’ - Breitbart
+12321,1,Northern California Snowmelt Crisis as Temps Rise into 70s - Breitbart
+12418,1,MILO Media Meltdown: Breitbart Editor’s UC Davis Event Dominates Headlines - Breitbart
+12440,3,Protesters Angry Sen. Dianne Feinstein Isn’t Holding Town Halls
+12510,1,TIME Cover Features Stephen K. Bannon - Breitbart
+12624,1,HBO Scraps Jon Stewart Animated Comedy Series
+12770,4,Fresno State Cancels Lecturer’s Classes After Breitbart News Report on ’Trump Must Hang’ Tweet - Breitbart
+12813,2,California Rushes Sanctuary State Law Through Senate - Breitbart
+12842,1,Eureka! Every California Republican Votes to Replace Obamacare - Breitbart
+12886,2,Samantha Bee: America Does Not Have a ’Smug Liberal Problem’ - Breitbart
+12890,8,Thieves Steal Bees that Pollinate Central Valley Almonds
+12973,1,Ed Helms To Host ‘Fake News with Ted Nelms’ Special for Comedy Central
+13152,2,Unpopular Gas Tax Could Hurt California Democrats in 2018 - Breitbart
+13724,2,’Full Frontal with Samantha Bee’ Mocks Man with Brain Cancer For Having ‘Nazi Hair’
+13734,2,Media Refuse to Blame Anti-Trump Protesters for Violence at Rallies - Breitbart
+13746,1,Kamala Harris Bashes Breitbart, Raises Campaign Cash - Breitbart
+13866,1,Trump’s ’America First’ Budget Puts CA Democrat Priorities Last - Breitbart
+13895,1,CA Immigration Rallies: ’No Ban, No Wall, Sanctuary for All’
+14001,1,Anti-Trump ’Resistance’ Tries, Fails to Imitate Tea Party
+14178,3,One California Democrat Admits He’s Tired of Trashing Trump
+14264,1,Fresno Bee Mocked Fears of Radical Islamic Terror in February - Breitbart
+14356,1,Bay Area Public Radio Mourns Obama’s ’Food Legacy’ - Breitbart
+14616,1,Snoop Dogg Blasts ‘Uncle Tom’s for Performing At Inauguration
+14983,1,Bad Jokes or Mean Internet Trolls? Amy Schumer Loses Either Way
+15158,1,Dan Gainor: ’Hollywood Hates the People Who Watch Its Shows’
+16477,1,Shooting Victim Went Door-to-Door for Neighborhood Watch Group
+17342,3,Thanksgiving: Hillary Fans Encourage Nasty, Vindictive Family Dinners
+17710,2,Meet the ‘Trumpocrats’: Lifelong Democrats Breaking with Party Over Hillary Clinton to Support Donald Trump for President - Breitbart
+18056,19,Glenn Beck and Samantha Bee Bond Over Their Fear and Loathing of Trump
+18095,1,Colin Kaepernick Says Nothing ’Un-American’ About Kneeling for National Anthem - Breitbart
+18259,1,***Dem. Convention LiveWire*** Wasserman Schultz Jeered on ’United Together’ Day - Breitbart
+18569,1,Gunpocalypse -- Gun Owners to Jerry Brown: Come and Take It
+18595,1,Former Assemblyman: Newsom’s Gun Control Push a Boon to GOP Candidates
+18651,4,Backlash Against Transgender Locker Rooms in Clovis, California - Breitbart
+18790,1,Muhammad Ali Was Bigger Than the Ring - Breitbart
+19752,2,Concealed Carry Permits Surge In Sacramento County - Breitbart
+20804,1,WAR ON WOMEN: Rose McGowan Accuses 20th Century Fox of Promoting ’Casual Violence Against Women’ - Breitbart
+20927,3,California Politicians Praise ’Smart, Bold’ Women of Ghostbusters
+21440,1,’Sovereign Citizens’ Enter CA Army National Guard Base
+21791,1,Microsoft Tests Underwater Data Center, Greenpeace Unimpressed - Breitbart
+22501,1,McCarthy: Donald Trump Could Help GOP Win Seats - Breitbart
+23783,2,White Christmas in California as Mountain Snow Draws Locals
+23960,3,Obama’s Father’s Day Trip Disrupts Yosemite Travel - Breitbart
+24566,1,’The Populist Explosion’: New Book Explains Rise of Trump, Sanders, and the Populist Future - Breitbart
+24926,1,Desperation: Jon Stewart to Join Stephen Colbert for ’Late Show’ RNC Ratings Stunt - Breitbart
+24933,2,Samantha Bee: White People Have Ruined America - Breitbart
+24987,1,Nearly 50 British University Academics Sign Open Letter Demanding MILO Ban - Breitbart
+25055,5,Jerry Brown Enacts Most Aggressive Climate Change Bill In America
+25272,1,Refugees Arrested Across USA in Terrorism Investigation
+25792,1,Oakland Fire Leader: ’Love Child of Manson, Pol Pot and Hitler’
+26247,2,Sierra Club Discovers Founder Was a White Supremacist
+26576,3,Gang Member Among Two Anti-Trump Protesters Charged with Felony
+27250,1,Burning Man Buys Nevada Site for Year-Round Party - Breitbart
+27648,4,UPDATE: Hispanic Man to Be Buried in South Texas ’Whites Only"’Cemetery
+27707,3,11-Year-Old Lemonade Stand Entrepreneur Lands $11 Million Deal - Breitbart
+28184,2,Post-Dallas, Black Lives Matter Protests Sweep California
+28193,1,SNL Mocks Trump Surrogate in Cold Open - Breitbart
+28251,1,Jerry Brown Admits $15 Min Wage Bad Signs Anyway - Breitbart
+28381,1,Scott Jones Dumps Trump: This ’May Cost Me the Election’
+28808,1,California Primary: Cruz, Kasich Plan to Divvy Up 53 Districts
+28822,1,Open Borders Rap Sheet: 30+ Crimes by Immigrant Suspects in September Alone - Breitbart
+28933,1,Actress Blake Lively Accused of Racism Over Butt Photo - Breitbart
+29246,2,CA: Condoms in Pornography on November Ballot - Breitbart
+29382,1,Obama: Establishment Media Were Shattered in 2016 Election - Breitbart
+29403,1,AR-15 Demands Skyrockets Following New California Gun Controls
+30150,15,Glenn Beck, Samantha Bee Team Up to Fight ’Trumpism’
+30332,2,Can Trump Deliver More Water to California’s Farmers? - Breitbart
+30412,3,20 Most Epic Celebrity Trump Meltdowns of 2016
+30622,1,Oakland Residents: Riots Have ’Nothing to Do with Trump’ - Breitbart
+30995,1,Pamela Geller: Washington Post Praises Muslim ’Camp Ramadan’ for Children - Breitbart
+31090,1,T.J. Miller Mocks Donald Trump During 2016 Critics’ Choice Awards - Breitbart
+31223,1,Colin Kaepernick Never Even Registered to Vote - Breitbart
+31717,14,CNN 10 - January 6, 2017
+32019,9,’Full Frontal’ might help Samantha Bee more than it helps you
+32626,1,Beyoncé’s mother of a Grammy performance
+32958,9,CNN 10 - February 27, 2017
+33433,1,Hospital recommends Beyonce and ABBA for CPR training
+33780,1,Clinton on Russian election meddling: ’More effective theft even than Watergate’
+34208,3,Trump’s Canada tariff is Samantha Bee’s fault
+34449,2,’Saturday Night Fever’ celebrates 40 years
+34494,1,In Trump’s America, comedians lead the resistance
+34990,6,Manchester bee tattoos honor bombing victims
+35178,10,National Spelling Bee Fast Facts
+35847,3,Cops: Man used 12-year-old boy to lure girls
+36743,1,What are mosquito-control workers spraying in Miami?
+36927,1,Joseph Schooling: The Singapore swimming star who beat idol Phelps
+37195,2,A clue in Prince’s death could have big consequences
+37219,1,Are drug companies overcharging?
+37408,16,Zika spraying kills millions of honeybees
+37433,18,Bee-pocalypse: Lessons from Zika spraying
+37487,1,Sex ed is required. Why isn’t financial education?
+37596,4,Zika aerial spraying in Miami completed despite health concerns
+37951,5,Samantha Bee is right: Jimmy Fallon should’ve pressed Trump
+38108,7,Bees placed on endangered species list  -- a first in the US
+38598,1,What Clinton’s loss says about women in politics
+39441,1,2016 In Review Fast Facts
+39618,4,Entertainment in 2016: A look back
+39865,1,Massive chain-reaction accident closes I-94 in Michigan
+40563,1,Swarms you’ve never seen before
+40677,6,5 ways to help save the bees
+40997,1,Trevor Noah to replace Jon Stewart on ’Daily Show’
+41025,2,’The Daily Show’ missed an opportunity
+41080,1,How historic California drought hurts nation
+41125,1,Let’s Move reaches 5 after criticism -- progress
+41268,2,Police: Twins drown in canal as mom tries to fend off bee
+41518,2,Free Comic Book Day and ’Regrettable Superheroes’
+41543,1,Grace Lee Whitney, Yeoman Rand on ’Star Trek,’ dead at
+41554,2,The Dzhokhar Tsarnaev the defense wants you to know
+41853,1,Faces of the 2015 National Spelling Bee
+41905,2,Trevor Noah to start on ’Daily Show’ in September
+41913,7,Why South Asians win spelling bees: P-R-A-C-T-I-C-E
+41922,3,A tradition of success at spelling bees (Opinion)
+42131,8,Are bees getting dementia?
+42350,14,How pesticides are killing the bees (Opinion)
+42437,12,Capitol Hill abuzz after 15,000 honey bees swarm
+42705,1,’The Seventies’: 7 movies from the ’70s to binge watch
+43939,4,Samantha Bee apologizes after mocking man with brain cancer for having ’Nazi hair’
+45508,1,Obama mocks Republican rhetoric on the economy: ’It’s terrible and on fire and covered in bees’
+45655,1,Why Jon Stewart was so much better at hosting ’The Daily Show’ than Trevor Noah
+45720,3,This guy created a genius way to get back at telemarketers — listen to his hilarious robot lead them in circles
+47075,8,Scripps National Spelling Bee ends on historic note for the 3rd consecutive year
+48448,1,Companies you’ve never heard of are making a killing off high drug prices
+49308,2,Colin Kaepernick stands behind decision to not vote amid report that he has never been registered to vote
+49985,2,What Conan O’Brien Means to Late Night’s Future

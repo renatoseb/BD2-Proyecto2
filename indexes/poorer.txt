@@ -1,0 +1,161 @@
+3,1,Among Deaths in 2016, a Heavy Toll in Pop Music - The New York Times
+50,1,President Xi’s Great Chinese Soccer Dream - The New York Times
+84,1,The 2017 Class Divide, as Dissected by a New ‘One Day at a Time’ - The New York Times
+101,1,How to Predict Gentrification: Look for Falling Crime - The New York Times
+138,1,The Major Potential Impact of a Corporate Tax Overhaul - The New York Times
+619,1,Mexico, Chinese New Year: Your Thursday Evening Briefing - The New York Times
+879,1,Argentina’s Trump-Like Immigration Order Rattles South America - The New York Times
+1073,1,A Long Way From Mexico: Company Bets China Has an Appetite for Taco Bell - The New York Times
+1119,1,Can Immigration Hurt the Economy? An Old Prejudice Returns - The New York Times
+1164,1,House G.O.P. Leaders Outline Plan to Replace Obama Health Care Act - The New York Times
+1301,1,President Trump Wants a Wall? Mexico Is It - The New York Times
+1333,1,The Future of Not Working - The New York Times
+1403,1,Trump to Seek $54 Billion Increase in Military Spending - The New York Times
+1491,1,Kansas Supreme Court Says State Education Spending Is Too Low - The New York Times
+1576,1,California Today: What to Look for on Election Day - The New York Times
+1774,1,G.O.P. Senators Suggest Changes for Health Care Bill Offered by House - The New York Times
+1776,1,No Magic in How G.O.P. Plan Lowers Premiums: It Pushes Out Older People - The New York Times
+1885,1,G.O.P.’s Health Care Tightrope Winds Through the Blue-Collar Midwest - The New York Times
+1900,1,Large Sections of Australia’s Great Reef Are Now Dead, Scientists Find - The New York Times
+1921,1,In New York, Bringing Broadband to Everyone by 2018 - The New York Times
+2612,1,Rich People Are Living Longer. That’s Tilting Social Security in Their Favor. - The New York Times
+2617,1,In an Age of Privilege, Not Everyone Is in the Same Boat - The New York Times
+2825,4,Kansas Parents Worry Schools Are Slipping Amid Budget Battles - The New York Times
+2834,1,Rich Defendants’ Request to Judges: Lock Me Up in a Gilded Cage - The New York Times
+2871,1,President Obama and India’s Modi Forge an Unlikely Friendship - The New York Times
+3081,1,‘Brexit’ Aftershocks: More Rifts in Europe, and in Britain, Too - The New York Times
+3082,1,‘Brexit’ Opens Uncertain Chapter in Britain’s Storied History - The New York Times
+3091,1,Having Won, Some ‘Brexit’ Campaigners Begin Backpedaling - The New York Times
+3184,1,Nigel Farage, Who Spurred ‘Brexit,’ Resigns as Head of U.K. Independence Party - The New York Times
+3191,1,Welsh Reject E.U., but Its Money Will Be Missed - The New York Times
+3312,1,Alaskans Brace for Spending Cuts as Oil Prices Tumble - The New York Times
+3324,1,Philando Castile Was Pulled Over 49 Times in 13 Years, Often for Minor Infractions - The New York Times
+3481,1,They Want Trump to Make the G.O.P. a Workers’ Party - The New York Times
+3669,1,From Montreal to Minnesota, by Inland Sea - The New York Times
+3950,1,California Today: School Bond Measure? Why You Should Care - The New York Times
+3963,2,America’s Inequality Problem: Real Income Gains Are Brief and Hard to Find - The New York Times
+4064,1,Maternal Mortality Rate in U.S. Rises, Defying Global Trend, Study Finds - The New York Times
+4136,1,Scenes From New England’s Drought: Dry Wells, Dead Fish and Ailing Farms - The New York Times
+4184,1,Donald Trump and His Allies Struggle to Move Past Tax Revelation - The New York Times
+4264,1,For Britain’s ‘Brexit’ Bunch, the Party Just Ended - The New York Times
+4403,1,Used Cars Slip Past Recall Safeguards, Putting Drivers in Danger - The New York Times
+4627,1,How the Iranian-Saudi Proxy Struggle Tore Apart the Middle East - The New York Times
+4653,1,U.S. Dementia Rates Are Dropping Even as Population Ages - The New York Times
+4711,1,Hungry Venezuelans Flee in Boats to Escape Economic Collapse - The New York Times
+4814,1,The Scourge of Racial Bias in New York State’s Prisons - The New York Times
+4858,4,Like Trump, Europe’s Populists Win Big With Rural Voters - The New York Times
+4937,1,Rise in Infant Drug Dependence Is Felt Most in Rural Areas - The New York Times
+4963,1,Christians in U.S. Are Less Educated Than Religious Minorities, Report Says - The New York Times
+5017,1,E.U. Faces Its Next Big Test as France’s Election Looms - The New York Times
+5107,1,A ‘Hoop Dreams’ Sequel, Written by Gun Violence - The New York Times
+5516,2,Wigan’s Road to ‘Brexit’: Anger, Loss and Class Resentments - The New York Times
+5670,1,Black Lives Matter Activists Stage Protests Across Britain - The New York Times
+5795,1,Africa’s Tennis Talent, Though Obscure, Is Burgeoning - The New York Times
+5905,1,Connecticut to Appeal Decision in Schools Funding Case - The New York Times
+6010,1,Donald Trump Trashes Nafta. But Unwinding It Would Come at a Huge Cost. - The New York Times
+6377,1,The Future of Privacy - The New York Times
+6463,2,How Social Isolation Is Killing Us - The New York Times
+6537,2,The Mirage of a Return to Manufacturing Greatness - The New York Times
+6541,1,Colorado Weighs Replacing Obama’s Health Policy With Universal Coverage - The New York Times
+6605,1,Choosing a School for My Daughter in a Segregated City - The New York Times
+6781,1,The Billion-Dollar Jackpot: Engineered to Drain Your Wallet - The New York Times
+7107,1,What Would It Take to Replace the Pay Working-Class Americans Have Lost? - The New York Times
+7176,1,Uncertainty Over New Chinese Law Rattles Foreign Nonprofits - The New York Times
+7269,1,Piles of Dirty Secrets Behind a Model ‘Clean Coal’ Project - The New York Times
+7407,1,New Memoirs Show How the Other Half Lives - The New York Times
+7442,1,Donald Trump, Julian Assange, Gwen Ifill: Your Tuesday Briefing - The New York Times
+7686,2,Polar Bears’ Path to Decline Runs Through Alaskan Village - The New York Times
+7740,1,How to Pinch Pennies in the Right Places - The New York Times
+8037,1,’Political Hospice’ Is ’Way Forward’ For White Working Class, Says WashPo Editor - Breitbart
+8217,1,Delingpole: Top Physicist and Leading Republicans Urge Trump to Quit Paris Climate Agreement
+8478,1,Harvard Business Review: American Families Face Increasing Financial Instability - Breitbart
+11140,1,Pope Francis: ‘Muslim Terrorism Does Not Exist’ - Breitbart
+12352,2,Former Black Panther: ’Illegitimate Congressman’ John Lewis ’Presided Over Destruction Of Black People’ - Breitbart
+13240,1,Blue State Blues: Hate Crime in the Chicago Obama Created
+14610,1,DELINGPOLE: Scott Pruitt Says No to CO2 and Social Justice at EPA
+16515,1,Belgian Prisons ’Like North Korea’ As Strike Crisis Hits - Breitbart
+16814,1,What I Like About Bernie Sanders - Breitbart
+17533,1,***Horse Race LiveWire*** 2 Days to South Carolina: Pope Francis Shifts the Race’s Focus - Breitbart
+17561,1,Brand Battle: Hillary Clinton’s Reputation Down With Democrats, While Trump Gains with Republicans - Breitbart
+17910,2,Wikileaks Reveals-Hillary Clinton to Goldman Sachs: Americans Who Want to Limit Immigration Are ’Fundamentally UnAmerican’ - Breitbart
+17940,2,Leaked Hillary Clinton Speech to Foreign Bank: ’My Dream Is a Hemispheric Common Market with Open Trade and Open Borders’ - Breitbart
+18342,1,***Live Updates*** Bernie, Hillary Debate in Wisconsin Moderator Donated to Clinton Foundation - Breitbart
+18388,1,’Remain’ Champion Jeremy Corbyn: EU Membership Means NO Immigration Limit - Breitbart
+18509,1,Farage: ’Hillary Brings Stability... Of Failure’
+19545,1,Italy Defies EU Imposed Austerity With Brussels-Baiting Budget
+19672,1,EU Referendum Campaign Resumes After MP Murder
+19784,1,Cows Worse Than Cars for Climate Change, Environmentalists Admit - Breitbart
+19923,1,Paris Fugitive Helped More By Friends And Neighbours Than Islamic State - Breitbart
+20075,1,Pope Francis: ‘Persecution Is the Christian’s Daily Bread’
+21083,1,GOP Debate’s Islamic-Advocate Questioner Also Is A Bernie Sanders Supporter - Breitbart
+21270,1,Decadence, Not Donald, Destroying GOP - Breitbart
+21451,1,EXCLUSIVE -- American Worker Forced to Train Foreign Replacement Reveals How Hillary Clinton Betrayed Him
+21686,1,Woman Screams ’Assh*le’ at FL Gov. Rick Scott
+22393,1,Colombia: Venezuela Is Hiding Zika Cases
+22517,1,Obama Defends Globalization, Commits to ‘International Order’
+22606,1,Number Of Migrants Claiming Benefits In Germany Surges By 169 Per Cent
+23263,1,Embracing ’Angry’ Voters May Help Trump Win Nomination - Breitbart
+23309,1,Islam Academic: Migrants Want Eurabia, Globalists Using Migrants to Destroy The West
+23807,1,Social Justice Warrior Knives Out For Startup Guru Paul Graham
+26146,1,Exclusive – Pro-Trump Millennials: ’Slap Yourself Upside of the Head’ if You’re Voting Hillary - Breitbart
+26232,1,Reuters: Working Class Democrats from Famous Rust Belt Town Rally Behind Trump’s Populist Message
+27057,1,LIVE WIRE: David Cameron Grilled On Sky News
+27062,1,FLASHBACK—Bill Clinton Calls For Creation of ‘Global Community’: ‘America Has Greater Obligations to Open Our Borders’ - Breitbart
+27305,1,Hillary Raises Over $1 Million At Home of Economist Magazine Owner
+27899,2,Attack of the Globalists: Magazine Owned by Hillary Mega-Backer Urges Republicans to Vote Clinton
+27955,1,Robot-phobia: Paul Ryan Says Dairy industry Needs More Migrant Labor - Breitbart
+28005,1,Koch Brothers Will Not Oppose Globalist Clinton Ryan Headlines
+28096,1,Wikileaks: PR Firm Seeks Clarification on Hillary’s Support of 25% Gun Tax - Breitbart
+28323,1,George Osborne Tells Leave To ‘Tone Down Rhetoric After Jo Cox’
+28524,1,NYT Opinion: Register All Guns, License All Gun Owners - Breitbart
+28850,1,Trump Versus The Green Blob: The Biggest Science Scam In History - Breitbart
+30092,1,***Live Updates*** GOP Debate Night in South Carolina - Breitbart
+30560,3,Donald Trump Campaign: Clinton Cash Formula: ’Give Money to Bill, Get Favors from Hill’ - Breitbart
+31653,1,Blue states should take Trump’s tax cut money and run
+31663,1,Why four eyes are better than two
+32516,1,Manual labor and shift work may impact fertility
+32656,1,Hip-hop group: DeVos is bad for the inner cities
+33171,1,Linda Burney: Australia’s first Aboriginal woman in parliament
+33178,1,Trump’s first big sale: Rallying GOP on health care
+33307,1,A CBO report conservatives can love
+33317,1,GOP health plan: Bad news for the old and poor
+33349,1,Dutch elections: Wilders’ far-right party beaten, early results show
+33503,1,Trump has given the EU a chance to lead the world
+35696,2,British referendum campaigning resumes
+35937,1,Why we forget Muslim terror victims
+36334,1,Coup attempt in Turkey: What you need to know
+36361,1,Terrorism: The jihad-crime nexus
+36955,1,Michael Phelps: How swimming legend regained his ’immortality’
+37454,1,What happens if we all live to 100?
+37949,1,NYT editorial board endorses Clinton
+39402,1,Suburban voters make a president, and they can break him, too
+39792,1,2015: Try the power of radical empathy (Opinion)
+39911,1,Five years after the quake: Haiti at a crossroads
+40014,1,On patrol with Skid Row’s ’angel cop’
+40820,1,Helping school-age children ’see’ their future
+41009,1,Nigeria vote: Muhammadu Buhari beats Goodluck Jonathan
+41383,1,Xenophobic killing in South Africa caught by photos
+41793,1,Heat wave kills more than 1,100 in India
+42137,1,’Chiraq’: Spike Lee film title likens Chicago to Iraq?
+42636,1,Who commits mass shootings?
+42678,1,Time to split the euro in two (Opinion)
+43418,1,Trump’s pick for education secretary loves ’school choice’ — here’s what that means
+44417,1,Trump is playing a dangerous game of chicken with Democrats that could cause healthcare costs to skyrocket
+44626,1,Some thoughts on Greenwich, Winnetka, and why Hillary Clinton lost
+44639,1,Obamacare just suffered 2 big blows from insurance companies as repeal looms
+44695,1,’Most of benefits go to millionaires’: George Stephanopoulos grills Paul Ryan over Republican healthcare bill
+45007,1,TRUMP WITHDRAWING FROM PARIS CLIMATE AGREEMENT
+45295,1,Paul Graham: ’Ending economic inequality means ending startups’
+45532,1,Former Oklahoma policeman sentenced to 263 years in prison for raping 4 women
+45544,1,The world’s wealth is going to just 62 people
+46214,1,The retirement crisis is getting truly scary
+46244,1,ISIS’ backup plan is falling apart
+46582,2,Bernie Sanders releases his 2014 tax return
+46688,2,Bernie’s ’free college tuition’ plan would be a gift for rich kids, but that doesn’t make it a bad idea
+46974,2,Venezuela is falling apart and its military is terrifying people
+47113,1,A 22-year-old ’molded’ to vote for Hillary Clinton explains why he and his wife are supporting Trump
+47483,2,’Leave’ voters were not as stupid as David Cameron wanted them to be
+48861,1,How your gut bacteria affect your sleep, stress levels, and mood
+49803,1,The African country the suspected Berlin market attacker was from has become a breeding ground for ISIS
+49910,1,Why Do Humans Still Have a Gene That Increases the Risk of Alzheimer’s?
+49924,1,America Is Still Making Things

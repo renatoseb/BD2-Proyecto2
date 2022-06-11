@@ -1,0 +1,393 @@
+8,1,First, a Mixtape. Then a Romance. - The New York Times
+60,1,Ivanka Trump’s New Washington Home Once Belonged to a Putin Foe - The New York Times
+67,2,Places to Put Your Hands Together - The New York Times
+166,2,On the Golden Globes Red Carpet, It’s Fantasy vs. Reality - The New York Times
+200,1,The Best and Worst of the Golden Globes - The New York Times
+209,2,Hearing Highlights: Sessions Questioned on Links to Xenophobia - The New York Times
+217,1,The Art of Flavor at Flora Bar in the Met Breuer - The New York Times
+278,1,Ben Carson Urges Ending Reliance on Welfare in Bid to Be Housing Chief - The New York Times
+330,1,William Peter Blatty, Author of ‘The Exorcist,’ Dies at 89 - The New York Times
+347,2,A High-End Kitchen on the Cheap - The New York Times
+483,6,Women’s March Highlights as Huge Crowds Protest Trump: ‘We’re Not Going Away’ - The New York Times
+484,1,How Marches in Washington Have Shaped America - The New York Times
+497,2,Quicken Loans, the New Mortgage Machine - The New York Times
+510,1,In a Rust Belt Town, the Women’s March Draws Shrugs and Cheers From Afar - The New York Times
+511,1,In Trump’s Hometown, a Clear Message of Defiance From Women - The New York Times
+568,1,A Chinese Nuclear Site, Hidden in a Mountain, Is Reborn as a Tourist Draw - The New York Times
+668,1,Couture in the Shadow of the Women’s March - The New York Times
+689,1,Seeking a Fresh Start Without Limitations - The New York Times
+720,2,The Alt-Majority: How Social Networks Empowered Mass Protests Against Trump - The New York Times
+794,1,Political Fashion Statements at the Men’s Wear Shows - The New York Times
+832,1,Nickelodeon Wades Into Princess Politics - The New York Times
+893,1,At Cosseted ‘Winter White House,’ Outside World Intrudes on Trump - The New York Times
+894,1,Lady Gaga, Marine Le Pen, Romania: Your Monday Briefing - The New York Times
+963,2,How a Fractious Women’s Movement Came to Lead the Left - The New York Times
+1053,1,How to Pick a Preschool in Less Than an Hour - The New York Times
+1100,1,With Everything About Trump, What’s a Designer to Do? - The New York Times
+1101,1,What Does ‘Dress Like a Woman’ Mean? Designers Tackle the Question - The New York Times
+1134,1,South Korea’s Olympian Winter Moment - The New York Times
+1151,1,Gender Fluidity on the Runways - The New York Times
+1195,1,Congress Goes Home, and Constituents Fired Up Over Health Care Are Waiting - The New York Times
+1223,1,Cheesecake for the Soul: A ‘Golden Girls’ Cafe Opens - The New York Times
+1231,1,‘Grease’ in a Nairobi High School: Saheem Ali on His First Time Directing - The New York Times
+1273,1,Trespassing in Christina’s World - The New York Times
+1488,1,Cherry Blossoms in Washington Could Peak Early - The New York Times
+1511,1,How to Escape Your Political Bubble for a Clearer View - The New York Times
+1523,1,How to Steal a River - The New York Times
+1541,1,The Lighter Side of Rick Owens - The New York Times
+1636,1,In Russia, Blooms Flourish on International Women’s Day - The New York Times
+1637,1,International Women’s Day: Calls to Action, Protests and Words of Praise - The New York Times
+1640,1,Do Nike’s New Shoes Give Runners an Unfair Advantage? - The New York Times
+1703,18,A Lake Turned Pink in Australia. It’s Not the Only One. - The New York Times
+1712,5,For Brazil’s Zika Families, a Life of Struggle and Scares - The New York Times
+1722,1,The Hills Are Alive With the Sound of Julie Andrews and Henson Puppets - The New York Times
+1735,1,Donald Trump, Republican Party, Daylight Saving: Your Weekend Briefing - The New York Times
+1739,1,As Daylight Saving Starts, Some Ask: Why Fall Back at All? - The New York Times
+1836,2,Why the Whitney’s Humanist, Pro-Diversity Biennial Is a Revelation - The New York Times
+1874,2,I Planned My Wedding in 5 Days. You Could, Too. - The New York Times
+1979,1,At Chatsworth House, a Tale of Five Centuries - The New York Times
+2045,1,Going Under the Knife, With Eyes and Ears Wide Open - The New York Times
+2131,1,Back Channel to Trump: Loyal Aide in Trump Tower Acts as Gatekeeper - The New York Times
+2284,1,My Son, My Daughter: A Mother’s Evolution - The New York Times
+2396,1,How Much Silence Is Too Much? I Found Out - The New York Times
+2401,1,Review: In ‘War Paint,’ Sing a Song of Face Creams - The New York Times
+2436,1,In the Shadow of a Fairy Tale - The New York Times
+2525,1,Parts Are Greater Than the Sum of the Chicken at Torishin - The New York Times
+2583,1,Iceland’s Water Cure - The New York Times
+2608,1,Prince Knew What He Wanted: Sex, Soul and You - The New York Times
+2615,1,In College Roommate David Panton, Ted Cruz Finds Unwavering Support - The New York Times
+2657,1,Dyson Wants to Create a Hair Dryer Revolution - The New York Times
+2674,1,Brooklyn’s Wearable Revolution - The New York Times
+2757,1,Mr. Trump’s Wild Ride - The New York Times
+2764,1,Just Add Salt: How to Make Bacon and Pancetta at Home - The New York Times
+2800,1,Libertarians See Chance Amid Discontent Over Donald Trump and Hillary Clinton - The New York Times
+2835,1,Janice Crouch, ‘Gospel of Prosperity’ Disciple, Dies at 78 - The New York Times
+2937,1,In a Corner of the Everglades, a Way of Life Ebbs - The New York Times
+2963,1,Weasels Are Built for the Hunt - The New York Times
+2977,1,Poultry Has a Pedigree at Le Coq Rico - The New York Times
+3101,1,Bill Cunningham, Legendary Times Fashion Photographer, Dies at 87 - The New York Times
+3152,1,Gathering to Remember Bill Cunningham, Outside the Picture Frame - The New York Times
+3181,3,There’s More to Rosé Than You May Think - The New York Times
+3259,2,How a $2 Roadside Drug Test Sends Innocent People to Jail - The New York Times
+3285,8,The Mysterious Metamorphosis of Chuck Close - The New York Times
+3333,1,In Istanbul, Optimism Fades to a Familiar Melancholy - The New York Times
+3353,1,Police and Protesters Clash Over Flag Burning at Republican Convention - The New York Times
+3444,1,‘I Have No Choice but to Keep Looking’ - The New York Times
+3467,2,The Brain That Couldn’t Remember - The New York Times
+3613,1,In the Brazilian Rain Forest, ‘a White Elephant, a Big One’ - The New York Times
+3616,1,Evictions by Armed Men Rattle a Mexican Tourist Paradise - The New York Times
+3634,1,Sneakers for That Sprint Down the Aisle - The New York Times
+3664,1,Private Equity Pursues Profits in Keeping the Elderly at Home - The New York Times
+3681,1,Frank Ocean Finally Delivers His Album, and a Pop-Up Surprise - The New York Times
+3746,2,Security in a Bright Yellow Suitcase - The New York Times
+3749,2,Venus Williams, Off the Court - The New York Times
+3796,1,Love Undone - The New York Times
+3834,1,Steak That Sizzles on the Stovetop - The New York Times
+3835,1,Hurricane Batters Florida’s Gulf Coast, Then Turns North - The New York Times
+3886,1,Female Scientists Turn to Data to Fight Lack of Representation on Panels - The New York Times
+3996,1,Ralph Lauren Stops Traffic - The New York Times
+4016,1,A Chicago Shooting Survivor, but in Need of a Miracle - The New York Times
+4048,1,Bruce Springsteen’s Memoir: Riding Shotgun With the Boss - The New York Times
+4063,1,Preparing Your Home for Sale - The New York Times
+4107,1,Journey From Class Clown to Suspect in Chelsea Bombing - The New York Times
+4175,1,The Other Trump - The New York Times
+4321,1,Elena Ferrante’s Picture Book Embraces the Dark Side - The New York Times
+4330,1,‘The Greatest Loss and Despair’: Thais Mourn Their King - The New York Times
+4335,1,Meet CoverGirl’s New Cover Boy - The New York Times
+4342,1,Cholera Deepens Haiti’s Misery After Hurricane - The New York Times
+4348,1,Issues in Hillary Clinton’s Past Leave Her Muted in Furor Over Donald Trump - The New York Times
+4396,3,Declaring ‘That’s Me,’ and Empowering Latinas - The New York Times
+4425,1,10 Things You Need to Know Before Seeing ‘Doctor Strange’ - The New York Times
+4431,1,Want the ‘Real’ Brooklyn? Go Cheap - The New York Times
+4497,1,Donald Trump, Republican Party, Marijuana: Your Wednesday Evening Briefing - The New York Times
+4618,1,Review: Miranda Lambert Sings of What Comes After the Heartbreak - The New York Times
+4730,1,Afghan Vice President Seen Abducting Rival - The New York Times
+4766,1,In Macau, Skipping the Casinos, but Embracing the Past - The New York Times
+4793,1,‘We Are Orphans Here’ - The New York Times
+4813,1,The Playlist: Burial and Laura Marling Slip Deeper Into the Void - The New York Times
+4817,1,This Season’s Best Books on Hollywood - The New York Times
+4863,2,Children’s Headphones May Carry Risk of Hearing Loss - The New York Times
+4870,1,At Aska, a Nordic Chef’s Vision Bears Fruit (and Lichens) - The New York Times
+4878,1,Girl Posting to Twitter From Aleppo Gains Sympathy, but Doubts Follow - The New York Times
+4883,1,Black Designers in Focus at Fashion Institute of Technology - The New York Times
+4889,1,On Campus, Trump Fans Say They Need ‘Safe Spaces’ - The New York Times
+4904,1,Got an Hour? See the Met These 4 Ways - The New York Times
+4910,1,The Sudden Rise of Lil Yachty - The New York Times
+5112,2,Refugees Encounter a Foreign Word: Welcome - The New York Times
+5156,1,For the Trumps, ‘Made in U.S.A.’ May Be a Tricky Label to Stitch - The New York Times
+5220,2,In Los Angeles, Ditching the Car for an Eco-Friendly Trip - The New York Times
+5252,2,Divided Aleppo Plunges Back Into War as Syrian Hospital Is Hit - The New York Times
+5257,1,A Potent Side Effect to the Flint Water Crisis: Mental Health Problems - The New York Times
+5326,1,A Mission to Bring STEM Skills, and Robots, to Children in West Africa - The New York Times
+5358,1,Muhammad Ali Remembered, by Those Who Knew Him as Cassius - The New York Times
+5445,1,Stay or Go? E.U. Referendum Divides British Families - The New York Times
+5459,1,What You Should Watch: ‘Please Like Me’ and Films Leaving Netflix - The New York Times
+5463,1,How to Stretch the Summer Solstice - The New York Times
+5530,2,Marie Kondo and the Ruthless War on Stuff - The New York Times
+5756,1,Frank Ocean Ends His Long Silence With a Variety of Works - The New York Times
+5852,1,Riding the Rails to the Summer of Love - The New York Times
+5876,1,In the Bonobo World, Female Camaraderie Prevails - The New York Times
+5944,1,Flagged Two Times in 2014, Ahmad Rahami Passed Scrutiny - The New York Times
+6038,1,Hurricane Matthew Avoids Direct Hit on Florida, Continues North - The New York Times
+6062,1,Review: Taylor Mac’s 24-Hour Concert Was One of the Great Experiences of My Life - The New York Times
+6072,1,Generation Adderall - The New York Times
+6160,4,Vote Highlighted a Gender Gap, With Both Sides Feeling They’ve Lost Ground - The New York Times
+6169,1,In Once-Tolerant Mosul, a Social Unraveling That Feels Permanent - The New York Times
+6171,1,Clicks to Bricks: Online Retailers Find the Lure of a Store - The New York Times
+6186,1,Trying Out a Forgotten (and Free) Service: Personal Shoppers - The New York Times
+6332,1,Business Since Birth: Trump’s Children and the Tangle That Awaits - The New York Times
+6408,1,Spared by Gunman in Charleston, Churchgoer Describes Night of Terror - The New York Times
+6415,2,Drug 85 Times as Potent as Marijuana Caused a ‘Zombielike’ State in Brooklyn - The New York Times
+6523,1,Ex-New York Officer Gets 5 Years of Probation in Fatal Brooklyn Shooting - The New York Times
+6610,1,Globally, Orlando Attack Strikes Now-Familiar Fault Lines - The New York Times
+6646,1,What It Was Like to Be Photographed by Bill Cunningham - The New York Times
+6649,1,Hillary Clinton Surprises by Attending Pride Parade in New York - The New York Times
+6671,1,Turkish Leader Erdogan Making New Enemies and Frustrating Old Friends - The New York Times
+6681,1,Review: ‘The Secret Life of Pets’ Amuses, but Misses Opportunities - The New York Times
+6744,1,The Bedazzling of the American Gymnast - The New York Times
+6758,1,States Vie to Shield the Wealth of the 1 Percent - The New York Times
+6779,1,Officials Spent Big on Olympics, but Rio Natives Are Paying the Price - The New York Times
+6793,3,Is Hayden a Boy or Girl? Both. ‘Post-Gender’ Baby Names Are on the Rise. - The New York Times
+6854,2,Neon Makes a Point at the U.S. Open - The New York Times
+6925,1,Rihanna’s Fenty Line Debuts in Paris and Receives a Pop Star Welcome - The New York Times
+6972,1,The New Protesters Defying Donald Trump: His Customers - The New York Times
+6997,1,Grandmother’s Killing Lays Bare a Dilemma in Child Welfare Work - The New York Times
+7136,1,Wonder and Worry, as a Syrian Child Transforms - The New York Times
+7162,1,Butter and Shrimp Make Holiday Magic - The New York Times
+7219,1,A Worrisome Pileup of $100 Million Homes - The New York Times
+7234,1,Muhammad Ali Fans Pay Homage to Their Local Hero - The New York Times
+7249,1,Out of Prison for Acid Attack, Dancer Hopes to Get Back to the Bolshoi - The New York Times
+7260,1,Victims in Istanbul Airport Attack Reflect City’s International Character - The New York Times
+7601,1,They Get Paid to Have a Catalog-Perfect Summer - The New York Times
+7614,1,Jerry Heller, Music Manager Who Promoted N.W.A and Gangsta Rap, Dies at 75 - The New York Times
+7639,1,Desert Trip Festival Woos Classic Rock Fans (Emphasis on ‘Classic’) - The New York Times
+7691,1,Visiting the African-American Museum: Waiting, Reading, Thinking, Connecting, Feeling - The New York Times
+7725,1,Patrice Munsel Dies at 91 Soprano Became a Star at the Met as a Teenager - The New York Times
+7911,1,MILO: Democrats Are No Longer the Party of the Working Man, They’re ’the Party of the Cuckold’ - Breitbart
+7946,2,Moms Demand Pushes #DisarmHate For Orlando Pulse, but Everyone in Pulse Was Disarmed - Breitbart
+8387,3,Gays Against Sharia March Branded ’Islamophobic’, Will Be Picketed by LGBT Activists
+8403,1,Inauguration Coverage, Day Three: Live Updates - Breitbart
+8414,4,Gun Ownership in LGBT Community Continues Surge Under Trump
+8418,2,Investigation Launched After Texas Judge Wears ’Pussy Hat’ in Courtroom - Breitbart
+8419,8,Senegal’s Pink House Gives Hope to Pregnant Women Who Have Been Victims of Abuse
+8990,2,EXCLUSIVE - ’Separation of Church and State!’: Leftist Activists Disrupt Michigan Town Hall
+9305,1,Hillary Clinton Reduced to Modeling Shoes for Katy Perry - Breitbart
+9724,1,VP Pence Greets U.S. and South Korea Troops for Easter Sunday
+9762,1,Syracuse Lists Pink Signs Aimed at Women as Example of ’Abhorrent’ Bias Incidents - Breitbart
+9823,1,Celebrity Chef Sandra Lee: I ’Can’t Stomach’ Paul Ryan - Breitbart
+9943,1,Poll: After Brexit, Majority of Britons Would Vote To Leave the Eurovision Song Contest Too
+10000,1,Concern Mounts as Over 250 Earthquakes Hit Border - Breitbart
+10053,1,MILO: The Difference Between Conservatives and Democrats is ’We Don’t Think the Working Class is Evil’ - Breitbart
+10054,1,Fashion Industry CEO: Supporting Planned Parenthood Is a ‘Civic Responsibility’
+10643,1,Diversity Advocates Slam, Damn, Trump Border Reform - Breitbart
+10664,1,Kellyanne Conway Praised in London Assembly for Intl Women’s Day
+10949,1,MILO: ’America Has a Problem With Fake Hate Crimes’ - Breitbart
+11112,1,MILO: ’Non-College Educated Doesn’t Mean Stupid’ - Breitbart
+11276,3,Rare ’Pink Star’ Diamond Becomes Priciest Diamond Ever Sold at $71.2M - Breitbart
+11373,1,Hayward: 9 Vital Principles for Obamacare Repeal - Breitbart
+11600,1,Draw Down Continues: Kellogg’s Laying Off 200 in Minnesota
+11884,5,#LipStickItToTheMan: Trump Resistance Lipstick Lobby Funds Planned Parenthood
+11894,1,FULL TEXT: MILO on why the Democrats Lost the White Working Class - Breitbart
+12003,2,Planned Parenthood #PinkOut: ‘Turn the Whole Internet Planned Parenthood Pink’
+12304,1,VIDEO: Anti-Western Hindu Extremists Assault Couples in India on Valentine’s Day - Breitbart
+12418,1,MILO Media Meltdown: Breitbart Editor’s UC Davis Event Dominates Headlines - Breitbart
+12478,1,Back to Blue: UK to Scrap Maroon European Passport for Iconic Dark Blue Design
+12509,1,WATCH: Code Pink Disrupts Launch of Pro-Israel Congressional Caucus: ’Israel Is an Apartheid State!’ - Breitbart
+12717,1,More Than a ’Bloodbath’: 100 Layoffs at ESPN - Breitbart
+12769,2,The Advocate Calls for More Gun Control: Legal Guns No Different Than Illegal Guns
+13468,1,Progressives Prepping for Anti-Trump Woman’s March by Making ’Pussyhats’ - Breitbart
+13536,1,Rep. Vern Buchanan Holds Off Thousands of Leftists Who Storm His Town Hall
+13673,1,100 Earthquakes Hit Near California-Mexico Border on New Year’s Eve - Breitbart
+14064,1,The New Birtherism: Left Rallies to Demand Trump’s Tax Returns - Breitbart
+14332,1,Thieves Start Distraction Fire to Rob Cartier Store, Police Shoot Anyway
+14868,1,EXCLUSIVE: Watch - Israeli Envoy Dani Dayan: Campaign to Silence Pro-Israel Voices on U.S. Campuses a ‘Real War’
+15229,1,MILO: Harry Potter Seems to be ’the Only Book That Millennial Liberals Can Reference’ - Breitbart
+15576,5,Code Pink Disrupts Donald Trump RNC Speech After Warning Breitbart They Would - Breitbart
+15890,1,‘Feminist’ Obama: We Need To Change The Internet To Protect Women - Breitbart
+16243,1,Texas Punishes Former Immigration Attorney for Phony Asylum Cases
+16359,3,***GOP Convention LiveWire*** Trump Accepts Nomination - Breitbart
+16381,1,Jennifer Lopez Announces First Performance in Israel Amid Boycott Pressure
+16769,1,Students ’Afraid’ After Pro-Trump Chalk Messages Appear on Campuses Across America - Breitbart
+16806,1,WATCH: Musical Brexit Supporter Reveals New ’Get The Party Started’ Pop Parody
+16838,1,The Nuclear Option: Trump Our Only Hope - Against Boredom - Breitbart
+17536,1,The Specter of De-Gentrification: The Once and Future Suburb - Breitbart
+17678,1,[*BN*]The Nuclear Option[*]: No Cure in Sight for Elites’ Donald Trump Derangement Syndrome - Breitbart
+17725,1,Vietnam: Pop Star Runs for Office on Anti-Communist Ticket
+17806,1,Gun Sales to Gays, Lesbians Skyrocket Following Orlando
+17907,1,CAIR Leader Apologizes for Tweet Celebrating Russian Jet Crash
+18186,1,Facebook Apologizes After Banning Breast Cancer Awareness Video - Breitbart
+18262,1,Amber Alert: Sheriff Tells Abductor of 4-Year Old, ’Don’t You Hurt That Baby!’
+18339,2,Washington Post: Dog Halloween Costumes ’Sexist’ for Perpetuating Gender Norms - Breitbart
+18410,1,NFL Showcasing Black Panthers Tribute Proves the League Still Doesn’t Get It - Breitbart
+19042,1,10 Zika Virus Cases Confirmed in Texas, For Now
+19065,1,New York City Spending $265,000 To Reduce Sexual Privacy, Boost Transgender Ideology - Breitbart
+19458,1,Texas Cop Pauses for Tea Time on Anniversary of Saving Little Girl’s Life
+19533,1,What Is an ’Assault Weapon?’ - Breitbart
+19707,1,Hillary Clinton Distributing Official ’Woman Card’ To Supporters - Breitbart
+19709,1,Popular Pages Revolt Against Facebook’s Arbitrary Censorship - Breitbart
+19851,1,FULL TEXT: MILO On How Feminism Hurts Men And Women - Breitbart
+19926,1,MILO Takes On Lesbian Hate Crime Hoaxes At Texas Tech - Breitbart
+20089,1,***Horse Race LiveWire*** Left-Wing Activists Plan Anti-Trump Protests in NYC, Arizona - Breitbart
+20410,1,Trump Endorses Paul Ryan Now, Deal With Him Later - Breitbart
+20491,1,SJWs Threaten, Assault Attendees at Milo Yiannopoulos Speech - Breitbart
+21289,1,WATCH: Trump Tells NH Rally FBI Re-opening Hillary Clinton Case
+21527,3,Donald Trump Goes Rogue on the Billionaires’ Consensus - Breitbart
+22146,1,BBC: Even Liberals Are Buying Guns Under Trump
+22432,6,2nd Amendment Court Case Victor: ’Armed Queers Don’t Get Bashed’
+22694,1,Facebook Wishes Brits A Happy St. George’s Day 24 Hours Early
+23034,1,Obama Awards Medal of Freedom in Star-Studded Ceremony
+23252,1,***DNC LiveWire*** Hillary Clinton Accepts Nomination - Breitbart
+23302,1,Yelp Loses 4 Stars: Stock Down 50%, CFO Out - Breitbart
+24018,2,Celebs Join Effort to Persuade Electoral College to Elect Clinton
+24036,3,Gavin Newsom Calls Transgender Gun Activist ’Disgusting’
+24209,1,***2016 LiveWire*** Republican National Convention Kicks Off - Breitbart
+24337,6,LGBT Gun Rights Group Sees Membership Quadruple After Orlando - Breitbart
+24386,1,The Weeknd, Muslim Rapper Belly Cancel Jimmy Kimmel Appearance Over Donald Trump - Breitbart
+24578,1,Photos: California Protesters Burn American Flag, Donald Trump Responds - Breitbart
+24676,1,Donald Trump’s Praise For Cops Angers Left, ’Black Lives Matter’ Activists - Breitbart
+24688,2,Indonesia Cracks Down on ’Gays’, Blocks Dating App Grindr and Other Websites
+24744,4,Pink Pistols: Orlando Terror Shows Why Gays Should Arm Themselves
+25189,4,***2016 LiveWire*** Trump Courts Evangelicals Clinton Addresses Abortion Activists - Breitbart
+25481,1,Donald Trump Scores Big At Vegas Rally: ’It’s a Phenomenon’ - Breitbart
+26193,1,It’s Official: Leftists Failed at Protesting GOP Convention
+26203,1,Watch: Protester Interrupts Trump’s RNC Speech - Breitbart
+26762,1,North Korea Claims It Conducted a Successful H-bomb Test
+27355,1,Christina Hoff Sommers And Camille Paglia On Coddled Students And Fainting-Couch Feminists - Breitbart
+27417,1,WATCH: Anti-Brexit Protesters March In London Demanding Referendum Be Overturned
+27505,1,’My Body Is Not a Crime’: Women Observe ’Go Topless Day’
+27580,3,Mark Levin: Trump a ‘Radical Kook,’ ‘Close’ to Being 9/11 Truther - Breitbart
+27616,1,Breitbart’s Aaron Klein: ’Deceptive’ Talking Points Utilized to Sell Iran Deal - Breitbart
+27831,1,Moderator at Democrat Debate on Live Mic: ’Oh God’ - Breitbart
+27895,3,EXCLUSIVE - Code Pink Founder: We’ll Try To Infiltrate, Disrupt RNC - Breitbart
+28155,1,Newly Arrived Syrian Migrant Molested Woman At Notting Hill Carnival
+28999,1,Soros-Backed J Street Received Over $500,000 To Push Iran Nuclear Deal To Pro-Israel Community - Breitbart
+29447,1,***Horse Race LiveWire*** Trump Reveals Foreign Policy Team - Breitbart
+29618,1,LISTEN: Bret Easton Ellis Unloads on Snowflake Social Justice Warriors - Breitbart
+29619,1,University Hands Out ’Free Speech Guide’ for ’Safe and Inclusive Environment’ - Breitbart
+29953,1,Muslim Mayor of London Flies Rainbow Flag From City Hall
+30306,1,’Star Wars’ Actress Carrie Fisher Dies at Age 60 - Breitbart
+30412,2,20 Most Epic Celebrity Trump Meltdowns of 2016
+30467,1,National Review Goes Full-Snob: Attacks Donald Trump Voters as Ignorant Bigots - Breitbart
+30469,1,EXCLUSIVE – Jackie Mason: Hollywood Should Blacklist Celebs Who Boycott Israel
+30712,1,Berkeley Students to Police: Drop ’Islamophobic’ Training
+30806,1,Farage: The Greatest British Politician Since Margaret Thatcher
+30859,1,Soros-Backed Group that Helped Sell Iran Nuclear Deal Funds Media, DC Think Tanks - Breitbart
+31005,1,Game of Thrones Actress: ’Free the Penis’ - Breitbart
+31312,1,EXCLUSIVE – Gay Porn Kingpin Takes on LGBT Boycott Israel Movement
+31632,1,The agony of Earth’s hottest year
+31822,1,Sessions takes on racism charges pledges to recuse himself from Clinton probes
+31895,1,Newborn abducted from hospital found alive 18 years later, sheriff says
+31902,1,William Peter Blatty, author of ’The Exorcist,’ dies at 89
+31926,1,Teen stolen as baby meets biological parents
+32078,1,Protesters rally worldwide in solidarity with Washington march
+32099,1,Here’s what was said in fiery Women’s March speeches
+32121,1,Can women’s march make magic moment into a movement?
+32491,3,Indian state tries pink teddy bears to get women to vote
+32654,1,How to get fired by the president
+32825,1,India’s battle against three words that grant Muslims instant divorce
+32893,1,Little Tikes recalls 540,000 swings
+33260,2,Red, white or pink? Women’s rights don’t come color-coded
+33306,1,Meet Hello Kitty’s beer swilling, heavy metal-loving angry sister
+33522,1,Can China fix its mammoth water crisis before it’s too late?
+33540,3,CNN 10 - March 27, 2017
+33643,2,Rainbow flag creator Gilbert Baker dies at 65
+33842,1,Dazed but defiant, Stockholm unites after attack
+34063,1,Start your Wednesday smart
+34151,3,Brain hats send message at March for Science
+34187,1,Obama made his return after leaving the White House, and he didn’t wear a tie
+34267,1,Melania Trump finds her way in her first 100 days
+34281,1,Melania Trump helps open garden dedicated to first ladies at DC children’s hospital
+34377,1,19 things Ivanka Trump wants you to know, per her new book
+34438,1,Vogue India cover lands Kendall Jenner in more trouble
+34451,2,Jail for laughing protester is an outrage
+34613,1,Fox triple-dog dares you not to love its next live musical
+34614,1,’Grey death’: A powerful new street drug
+34629,1,London Underground Fast Facts
+34746,1,How aliens in film have evolved
+34758,1,Venezuela: So few supplies, so much pain
+34865,1,N. Korea, the ’perfect sci-fi film set’?
+35019,2,Rare ’no oil’ emeralds go to auction
+35038,1,ISIS targets Iraqis at ice cream shop
+35077,1,Portland stabbing suspect yells in court: Free speech or die
+35150,1, If Wonder Woman can’t win, how can the rest of us?
+35291,1,Who put this here?
+35307,2,London Bridge attacker tried to rent larger truck
+35369,1,London: Fake explosive belts photos released
+35511,1,US Open 2017: Justin Thomas hits record score
+35722,1,Wildfires and deadly heat wave hit Southwest U.S.
+35730,1,Early Picasso work sells for record $63.4M
+36317,1,In Nice attack, young lives were not spared
+36325,1,After Ghostbusters, the Blues Sisters?
+36661,1,Heads will roll: The beauty of guts and gore
+36864,2,Man ’on neighborhood watch’ kills 20-year-old
+36916,1,Lawyer calls suspect ’George Zimmerman 2.0’
+37130,1,Judge seeks criminal contempt charges against  Arpaio
+37241,1,Giving a voice to Turkey’s transgender people
+37304,1,Birthday memorial held for murdered girl
+37450,1,’Wonder Woman’ Serena beats Navratilova record
+37898,1,How this Muppet is changing lives in war-torn Afghanistan
+38005,1,Roger Moore Fast Facts
+38153,1,Why does India love Amitabh Bachchan?
+38274,1,Iraq: Families flee battle for ISIS-held town
+38340,2,Outpouring of support for ’unstable’ Thai King
+38355,1,Crown Prince returns to Bangkok as Thailand holds vigil for ailing king
+38368,1,Thai King Bhumibol Adulyadej dies at 88
+38387,1,Thai King’s funeral procession arrives at the Grand Palace
+38523,1,Oklahoma manhunt: ’It was all a setup,’ fugitive says on Facebook Live
+38628,1,LGBT Rights Milestones Fast Facts
+38703,2,This rare blue diamond could sell for $25M
+38863,1,Syria: Aleppo pounded by ’heaviest bombardment’ yet
+38938,1,Missing northern California mother found safe
+38968,1,Missing California mom reunited with family
+39248,1,US art teacher sketching Syria’s civil war
+39281,1,’Fuller House’ cast reflects on show’s success ahead of Season 2
+39468,1,Dear TSA: Grabbing vaginas isn’t safety
+39547,6,Why 2016 was the year of the colored diamond
+39860,3,Two protesters arrested outside Dick Cheney’s home
+39988,1,Legendary punk rock producer Kim Fowley dead at 75
+40304,1,Young Native Americans celebrating their culture
+40342,2,Source: NYPD officer indicted in Gurley shooting
+40563,1,Swarms you’ve never seen before
+40758,1,Opinion: ’It’s a girl!’ Not so fast ...
+40773,1,Raising Ryland: The story of a young transgender child
+40805,1,New Orleans airport machete attack suspect dies
+40880,2,The gold superyacht for ladies
+41033,1,The new women’s movement: Reviving the ERA fight
+41206,1,Geoffrey Lewis, frequent co-star of Clint Eastwood, dies
+41462,1,Tsarnaev trial: The middle finger seen ’round the world
+41468,1,Coming soon: A superhero universe for girls
+41497,3,Royal baby: Catherine gives birth to a girl
+41589,1,Texas earthquakes: Fracking is likely cause, study says
+41645,1,Wanted: Tough, feminine U.S. soldiers
+41797,3,Volcano erupts on Galapagos where Darwin worked
+41917,1,The women of ISIS: Who are they?
+41928,1,Soul-sucking dementor wasp buzzes on Harry Potter fame
+42099,1,Barbie is getting more real
+42105,1,Do women really need ’female Viagra’?
+42535,2,How do gay rights look in your country?
+42639,2,Charleston remembers three more lives
+42659,1,The art of the abandoned sofa
+42687,1,9 things we know about turn-ons
+42760,4,Are parents at kids’ sports games harmful? (Opinion)
+42790,1,Bullying by peers has effects later in life
+42836,1,Wild animals make themselves at home
+42917,1,Jessica Lynch copes with wounds, inside and out
+42975,2,Baltimore boy becomes 1st to receive new hands
+43193,1,’It doesn’t make sense’: Questions remain after report that Trump team fired leaders of US nuclear weapons safety and security
+43349,1,Aerial photos show the contrast between crowds at Trump’s inauguration and the Women’s March
+43351,2,Thousands of women wore pink ’pussy hats’ the day after Trump’s inauguration
+44353,1,UNDERCOVER IN AN IPHONE FACTORY: What it’s really like to work in a Chinese mega-factory, according to a student who spent 6 weeks there
+44859,2,George Soros is a favorite target of the right — here’s how that happened
+45256,1,I was a homeless worker at a San Francisco tech company
+45265,4,This $5000 bracelet that has been around for decades is the new millennial status symbol
+45312,1,Beware the political rise of the world’s tech titans
+45740,1,Everyone is talking about the weird constipation and diarrhea ads that aired during the Super Bowl
+46047,2,IBM’s restructuring continues, with reduced severance for laid off employees
+46386,1,REVIEW: Apple pulled off something amazing with its newest iPhone
+46608,2,Victoria’s Secret might become the next Abercrombie & Fitch
+47008,1,The Egyptian Army has shared the first photos of wreckage from the crashed EgyptAir flight
+47121,1,Vincenzo Nibali just won an epic Giro d’Italia — here are our favorite photos from the world’s most beautiful bike race after 3 wild weeks
+47370,1,How a Chinese power couple created a fast-food chain that’s 3 times more profitable than In-N-Out
+47678,1,Fast food still includes an ingredient with no purpose and plenty of negatives
+48434,1,Ohio police released graphic photos of 2 people overdosing in front of a 4-year-old to ’show the other side’ of the opioid crisis
+49093,1,I spent 2 hours with 12 undecided voters who hate Trump and Clinton — here’s what I learned

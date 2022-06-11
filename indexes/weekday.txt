@@ -1,0 +1,1027 @@
+26,1,Istanbul, Donald Trump, Benjamin Netanyahu: Your Morning Briefing - The New York Times
+40,1,Republican Party, Megyn Kelly, Titanic: Your Wednesday Briefing - The New York Times
+116,1,Donald Trump, Fort Lauderdale: Your Friday Evening Briefing - The New York Times
+117,1,California Today: Cracking Down on Distracted Driving - The New York Times
+155,1,Donald Trump, Golden Globes, Jerusalem: Your Monday Briefing - The New York Times
+212,1,Sessions, Trump, Dylann Roof: Your Tuesday Evening Briefing - The New York Times
+213,1,Your Morning Briefing: Rafsanjani, Donald Trump, Kabul - The New York Times
+214,1,California Today: $8 Million in Tech Money for the Bay Area Arts - The New York Times
+216,1,Fox News Settled Sexual Harassment Allegations Against Bill O’Reilly, Documents Show - The New York Times
+251,1,California Today: The Tale of the Laguna Beach Jumper - The New York Times
+281,1,Donald Trump, Rex Tillerson, Rodrigo Duterte: Your Morning Briefing - The New York Times
+303,1,Donald Trump, Chicago Police: Your Friday Evening Briefing - The New York Times
+304,1,California Today: Is the Drought Over? - The New York Times
+340,1,Trump, Davos, Martin Luther King Jr.: Your Weekend Briefing - The New York Times
+396,1,Brexit, Chelsea Manning: Your Tuesday Evening Briefing - The New York Times
+397,1,Brexit, Donald Trump, Chelsea Manning: Your Morning Briefing - The New York Times
+421,1,Trump, Price, Pruitt: Your Wednesday Evening Briefing - The New York Times
+507,1,Donald Trump’s Inauguration, Women’s March: Your Weekend Briefing - The New York Times
+524,1,Trump Abandons Trans-Pacific Partnership, Obama’s Signature Trade Deal - The New York Times
+532,1,Donald Trump, Syria, Emperor Akihito: Your Morning Briefing - The New York Times
+551,1,Academy Awards, James Comey: Your Tuesday Evening Briefing - The New York Times
+552,1,Donald Trump, ‘Brexit,’ Syria: Your Morning Briefing - The New York Times
+553,1,California Today: What, Exactly, Is in Your Sushi? - The New York Times
+619,1,Mexico, Chinese New Year: Your Thursday Evening Briefing - The New York Times
+653,1,Rafael Nadal, March for Life: Your Friday Evening Briefing - The New York Times
+688,1,Oh, What a Voice: A Revival for a Member of the Four Seasons - The New York Times
+705,1,Refugees, Lunar New Year, Malaysia: Your Morning Briefing - The New York Times
+727,1,Donald Trump, Quebec City, Patriots: Your Monday Evening Briefing - The New York Times
+728,1,Refugees, Quebec, Rodrigo Duterte: Your Morning Briefing - The New York Times
+754,1,Ukraine, François Fillon, Quebec: Your Wednesday Briefing - The New York Times
+759,1,For Couriers, China’s E-Commerce Boom Can Be a Tough Road - The New York Times
+775,1,New England Patriots, Rex Tillerson: Your Wednesday Evening Briefing - The New York Times
+810,1,New England Patriots, Lady Gaga: Your Thursday Evening Briefing - The New York Times
+811,1,California Today: The Collapse of Organized Farm Labor - The New York Times
+844,1,New England Patriots, the Louvre: Your Friday Evening Briefing - The New York Times
+894,1,Lady Gaga, Marine Le Pen, Romania: Your Monday Briefing - The New York Times
+921,1,New England Patriots, Elizabeth II: Your Monday Evening Briefing - The New York Times
+922,1,Travel Ban, Queen Elizabeth, Netanyahu: Your Morning Briefing - The New York Times
+923,1,California Today: Tackling Los Angeles’s Deadly Smog - The New York Times
+945,1,Syria, Travel Ban, Kabul: Your Morning Briefing - The New York Times
+946,1,California Today: Granddaughter of Cesar Chavez Comes Home - The New York Times
+1007,1,Executive Orders, Kellyanne Conway: Your Thursday Evening Briefing - The New York Times
+1025,1,Shinzo Abe, Executive Orders: Your Friday Evening Briefing - The New York Times
+1063,1,Donald Trump, North Korea, Kashmir: Your Morning Briefing - The New York Times
+1064,1,Trump’s Cabinet, Refugee Ban, Grammys: Your Weekend Briefing - The New York Times
+1085,1,Justin Trudeau, Lahore, Adele: Your Morning Briefing - The New York Times
+1086,1,Adele, Justin Trudeau, Trump: Your Monday Evening Briefing - The New York Times
+1117,1,Michael Flynn, Kim Jong-un: Your Tuesday Evening Briefing - The New York Times
+1118,1,California Today: On the Ground in Oroville - The New York Times
+1143,1,Israel, Kim Jong-un, Andrew Puzder: Your Evening Briefing - The New York Times
+1145,1,South Africa, a Nation With Sharp Inequality, Considers a Minimum Wage - The New York Times
+1168,1,Samsung, Kim Jong-un, Rex Tillerson: Your Morning Briefing - The New York Times
+1169,1,Trump’s News Conference, Russia, Facebook: Your Evening Briefing - The New York Times
+1176,1,Baghdad Car Bomb Kills Scores in Shiite Neighborhood - The New York Times
+1193,1,California Today: Capturing the ‘Firefall’ at Yosemite - The New York Times
+1280,1,Immigration, Milo Yiannopoulos: Your Tuesday Evening Briefing - The New York Times
+1281,1,Australia, Libya, North Korea: Your Morning Briefing - The New York Times
+1298,1,Mexico, Syria, Trump: Your Wednesday Evening Briefing - The New York Times
+1299,1,Kim Jong-nam, Donald Tsang, Mexico: Your Morning Briefing - The New York Times
+1303,1,California Today: The State’s Hate Landscape - The New York Times
+1326,1,California Today: On Catalina, the Drought Is Far From Over - The New York Times
+1345,1,California Today: In Virtual Reality, Investigating the Trayvon Martin Case - The New York Times
+1433,1,Trump, Kellyanne Conway, Samsung: Your Tuesday Evening Briefing - The New York Times
+1434,1,California Today: After Lawmaker’s Silencing, More Cries of ‘She Persisted’ - The New York Times
+1441,1,As France’s Towns Wither, Fears of a Decline in ‘Frenchness’ - The New York Times
+1458,1,Trump, Snapchat, Mosul: Your Wednesday Evening Briefing - The New York Times
+1459,1,Donald Trump’s Speech, Mosul, Kim Jong-nam: Your Morning Briefing - The New York Times
+1479,1,Jeff Sessions, Snapchat, Palmyra: Your Thursday Evening Briefing - The New York Times
+1480,1,Kim Jong-nam, Jeff Sessions, Snapchat: Your Morning Briefing - The New York Times
+1505,1,European Union, Nintendo Switch, ‘Logan’: Your Friday Evening Briefing - The New York Times
+1549,1,Donald Trump, François Fillon, Opel: Your Monday Briefing - The New York Times
+1574,1,Donald Trump, François Fillon, Erdogan: Your Tuesday Briefing - The New York Times
+1575,1,Trump Tower, T.S.A., Iraq: Your Monday Evening Briefing - The New York Times
+1576,1,California Today: What to Look for on Election Day - The New York Times
+1595,1,Republican Party, Central Intelligence Agency: Your Tuesday Evening Briefing - The New York Times
+1596,1,China, C.I.A., International Women’s Day: Your Morning Briefing - The New York Times
+1623,1,C.I.A., International Women’s Day, Barcelona: Your Thursday Briefing - The New York Times
+1650,1,Republican Party, C.I.A., Syria: Your Thursday Evening Briefing - The New York Times
+1651,1,South Korea, Syria, C.I.A.: Your Morning Briefing - The New York Times
+1652,1,California Today: Why the State’s Biggest Lake Is Dying - The New York Times
+1682,1,Republican Party, ‘Kong: Skull Island’: Your Friday Evening Briefing - The New York Times
+1735,1,Donald Trump, Republican Party, Daylight Saving: Your Weekend Briefing - The New York Times
+1751,1,For Solace and Solidarity in the Trump Age, Liberals Turn the TV Back On - The New York Times
+1769,1,Pakistan City’s Affluent Women Bring Islam Into Their Lives and Lifestyles - The New York Times
+1773,1,Geert Wilders, Donald Trump, Scotland: Your Wednesday Briefing - The New York Times
+1799,1,Republicans, Syria, Geert Wilders: Your Wednesday Evening Briefing - The New York Times
+1803,1,California Today: A Gallery Flees and Neighborhood Activists Cheer - The New York Times
+1826,1,Republicans, Wilders, Tillerson: Your Thursday Evening Briefing - The New York Times
+1842,1,Tillerson, Trump, ‘Beauty and the Beast’: Your Friday Evening Briefing - The New York Times
+1908,1,Is Gascony the Most Delicious Corner of France? - The New York Times
+1917,1,Gorsuch, Rockefeller, Brady: Your Monday Evening Briefing - The New York Times
+1962,1,London, Gorsuch, Syria: Your Wednesday Evening Briefing - The New York Times
+1990,1,Gorsuch, London, Republican Party: Your Thursday Evening Briefing - The New York Times
+2013,1,London, Donald Trump, Keystone Pipeline: Your Evening Briefing - The New York Times
+2014,1,California Today: Henry Rollins Strikes Chord as a Columnist - The New York Times
+2082,1,Raiders, Mosul, Jared Kushner: Your Monday Evening Briefing - The New York Times
+2107,1,California Today: Considering a Single-Payer Insurance System - The New York Times
+2142,1,Brexit, Chris Christie, Ivanka Trump: Your Wednesday Evening Briefing - The New York Times
+2143,1,Brexit, Donald Trump, Jordan: Your Morning Briefing - The New York Times
+2144,1,California Today: Muslim Candidate Says He’s ‘Triple Threat to Donald Trump’ - The New York Times
+2169,1,Trump, Tillerson, Venezuela: Your Thursday Evening Briefing - The New York Times
+2170,1,California Today: ‘Zoot Suit’ Memories - The New York Times
+2246,1,Jared Kushner, SpaceX, Baseball: Your Weekend Briefing - The New York Times
+2267,1,Gorsuch, Russia, N.C.A.A. Final: Your Monday Evening Briefing - The New York Times
+2290,1,Syria, Hungary, Marine Le Pen: Your Wednesday Briefing - The New York Times
+2299,1,California Today: Defying Trump With Sanctuary Bill - The New York Times
+2321,1,Trump, Syria, Pepsi: Your Wednesday Evening Briefing - The New York Times
+2322,1,Syria, Pepsi, Stephen Bannon: Your Thursday Briefing - The New York Times
+2385,1,Syria, Neil Gorsuch, Stockholm: Your Friday Evening Briefing - The New York Times
+2386,1,California Today: Winemakers Wonder: Who Will Pick the Grapes? - The New York Times
+2451,1,Syria, Egypt, Korean Peninsula: Your Morning Briefing - The New York Times
+2470,1,United Airlines, Sean Spicer: Your Tuesday Evening Briefing - The New York Times
+2477,1,California Today: Berkeley Turns to Comedian for Advice - The New York Times
+2494,1,Syria, Ahmadinejad, United Airlines: Your Morning Briefing - The New York Times
+2558,1,New York Today: Primary Preview - The New York Times
+2561,1,Among Travelers and Commuters, the Homeless Stop In and Stay - The New York Times
+2569,1,Your Monday Evening Briefing: Ecuador, Immigration, Dilma Rousseff - The New York Times
+2598,1,Your Thursday Evening Briefing: Prince, Donald Trump, Volkswagen - The New York Times
+2605,1,Your Friday Evening Briefing: Prince, Donald Trump, Game of Thrones - The New York Times
+2650,1,Your Wednesday Evening Briefing: Donald Trump, J. Dennis Hastert, Ted Cruz - The New York Times
+2664,1,Your Thursday Evening Briefing: Ted Cruz, Donald Trump, N.F.L. - The New York Times
+2704,1,Your Wednesday Evening Briefing: Donald Trump, Hillary Clinton, Fort McMurray - The New York Times
+2709,1,The Met Opera Is Struggling. How Can It Fill Those Empty Seats? - The New York Times
+2726,1,Your Weekend Briefing: Transgender Rights, Donald Trump, Doping - The New York Times
+2746,1,Your Evening Briefing: Bernie Sanders, Donald Trump, Zika - The New York Times
+2763,1,Fire Under Metro-North Tracks Caused by Fuel Spill - The New York Times
+2774,1,Secret Service Shoots Man Near White House - The New York Times
+2843,1,Your Thursday Evening Briefing: Golden State Warriors, Hillary Clinton, Prince - The New York Times
+2851,1,Your Friday Evening Briefing: Hillary Clinton, Donald Trump, Golden State Warriors - The New York Times
+2894,1,Hillary Clinton, Donald Trump, Narendra Modi: Your Tuesday Evening Briefing - The New York Times
+2916,1,Hillary Clinton, Tel Aviv, Carbon Dioxide: Your Thursday Evening Briefing - The New York Times
+2980,1,Orlando, Disney, Donald Trump: Your Wednesday Evening Briefing - The New York Times
+2982,1,De Blasio’s $325 Million Ferry Push: Rides to 5 Boroughs, at Subway Price - The New York Times
+2999,1,Jo Cox, Donald Trump, Golden State Warriors: Your Friday Evening Briefing - The New York Times
+3035,1,Donald Trump Hints He May Fund Race Himself - The New York Times
+3038,1,U.S. Senate, Orlando, Donald Trump: Your Tuesday Evening Briefing - The New York Times
+3042,1,What J. Dennis Hastert, Ex-House Speaker, Will Face in Prison - The New York Times
+3064,1,Democratic Party, Hillary Clinton, Donald Trump: Your Thursday Evening Briefing - The New York Times
+3074,1,European Union, Donald Trump, Bernie Sanders: Your Friday Evening Briefing - The New York Times
+3112,1,Your Monday Evening Briefing: Brexit, Abortion, ‘Game of Thrones’ - The New York Times
+3118,1,Istanbul Airport, Benghazi, Pat Summitt: Your Tuesday Evening Briefing - The New York Times
+3121,1,California Today: How Badly Do You Want That New Rail Line? - The New York Times
+3129,1,California Today: Yes, They’re Still Counting the Presidential Primary Votes - The New York Times
+3143,1,Istanbul, Donald Trump, Boris Johnson: Your Thursday Evening Briefing - The New York Times
+3154,1,California Today: Airbnb, a Hometown Success (and Villain) - The New York Times
+3157,1,New Cars Are Too Expensive for the Typical Family, Study Finds - The New York Times
+3189,1,Hillary Clinton, Wimbledon, NASA: Your Tuesday Evening Briefing - The New York Times
+3211,1,Hillary Clinton, Donald Trump, NATO: Your Thursday Evening Briefing - The New York Times
+3223,1,Dallas, Roger Federer, Hillary Clinton: Your Friday Evening Briefing - The New York Times
+3236,1,Roger Ailes, Arguing Gretchen Carlson Breached Contract, Presses for Arbitration - The New York Times
+3245,1,Dallas, Euro 2016, Wimbledon: Your Weekend Briefing - The New York Times
+3253,1,Dallas, Republican Party, Britain: Your Monday Evening Briefing - The New York Times
+3269,1,Bernie Sanders, Theresa May, South China Sea: Your Tuesday Evening Briefing - The New York Times
+3332,1,Republican Convention, Baton Rouge, Turkey: Your Monday Evening Briefing - The New York Times
+3336,1,Fox News’s Convention Moment Overshadowed by Struggle Over Ailes’s Fate - The New York Times
+3345,1,Republican Convention, Hillary Clinton, Roger Ailes: Your Tuesday Evening Briefing - The New York Times
+3361,1,‘Nothing Short of a Miracle’: No Serious Injuries in Tappan Zee Crane Collapse - The New York Times
+3369,1,Turkey, Ted Cruz, Roger Ailes: Your Thursday Evening Briefing - The New York Times
+3387,1,France Identifies 2nd Man Who Attacked Church and Killed Priest - The New York Times
+3431,1,New York Today: The Race to Recycle - The New York Times
+3443,1,U.S. Presidential Race, Rio, William Bratton: Your Tuesday Evening Briefing - The New York Times
+3457,1,U.S. Presidential Race, Bitcoin, Moon Express: Your Wednesday Evening Briefing - The New York Times
+3484,1,Rio, Trump, African National Congress: Your Friday Evening Briefing - The New York Times
+3511,1,Donald Trump, Delta Air Lines, Michael Phelps: Your Monday Evening Briefing - The New York Times
+3528,1,Donald Trump, Michael Phelps, Zika: Your Tuesday Evening Briefing - The New York Times
+3551,1,Simone Biles, Michael Phelps, U.S. Presidential Race: Your Thursday Evening Briefing - The New York Times
+3599,1,U.S. Presidential Race, Rio Olympics, Milwaukee: Your Monday Evening Briefing - The New York Times
+3636,1,Ryan Lochte, Gawker, Donald Trump: Your Thursday Evening Briefing - The New York Times
+3693,1,What’s Next for the New York Subway? Toronto Already Knows - The New York Times
+3705,1,Louisiana, U.S. Presidential Race, Zika: Your Tuesday Evening Briefing - The New York Times
+3717,1,Italy, U.S. Presidential Race, Syria: Your Wednesday Evening Briefing - The New York Times
+3737,1,Donald Trump, Hillary Clinton, Federal Reserve: Your Friday Evening Briefing - The New York Times
+3811,1,Georgetown University, Donald Trump, SpaceX: Your Thursday Evening Briefing - The New York Times
+3830,1,Hillary Clinton, Donald Trump, Mother Teresa: Your Friday Evening Briefing - The New York Times
+3875,1,U.S. Presidential Race, Rodrigo Duterte, Roger Ailes: Your Tuesday Evening Briefing - The New York Times
+3889,1,Donald Trump, Hillary Clinton, iPhone: Your Wednesday Evening Briefing - The New York Times
+3904,1,California Today: No, Cal State Isn’t Creating Segregated Housing - The New York Times
+3917,1,U.S. Presidential Race, North Dakota, NASA: Your Friday Evening Briefing - The New York Times
+3950,1,California Today: School Bond Measure? Why You Should Care - The New York Times
+3978,1,U.S. Presidential Race, Colin Powell, Carla Hayden: Your Wednesday Evening Briefing - The New York Times
+3990,1,Donald Trump, Hillary Clinton, Edward Snowden: Your Thursday Evening Briefing - The New York Times
+4001,1,U.S. Presidential Race, Syria, William Bratton: Your Friday Evening Briefing - The New York Times
+4035,1,New York City, U.S. Presidential Race, Syria: Your Evening Briefing - The New York Times
+4045,1,Syria, U.S. Presidential Race, Tulsa: Your Evening Briefing - The New York Times
+4076,1,California Today: The Debate Over Indian Mascots and Imagery - The New York Times
+4087,1,Charlotte, Syria, Ted Cruz: Your Friday Evening Briefing - The New York Times
+4091,1,California Today: Should We Ban Plastic Bags? - The New York Times
+4133,1,Presidential Debate, Houston, Syria: Your Monday Evening Briefing - The New York Times
+4152,1,Hoboken, Wells Fargo, F.C.C.: Your Thursday Evening Briefing - The New York Times
+4153,1,Torn Over Donald Trump and Cut Off by Culture Wars, Evangelicals Despair - The New York Times
+4165,1,California Today: $2 More for a Pack of Cigarettes? - The New York Times
+4195,1,California Today: A Shift in the Child Sex Trafficking Trade - The New York Times
+4207,1,Tim Kaine, Mike Pence, Donald Trump: Your Tuesday Evening Briefing - The New York Times
+4219,1,Mike Pence, N.S.A., Nobel Prize: Your Wednesday Evening Briefing - The New York Times
+4274,1,New York Today: Mourning a Brooklyn Prosecutor - The New York Times
+4288,1,Donald Trump, Samsung, Yemen: Your Monday Evening Briefing - The New York Times
+4311,1,Donald Trump, Samsung, Chicago Cubs: Your Wednesday Evening Briefing - The New York Times
+4338,1,Clinton, Trump, Cuba: Your Friday Evening Briefing - The New York Times
+4363,1,Mosul, ‘Brexit,’ U.S. Presidential Race: Your Monday Briefing - The New York Times
+4375,1,Trump, Mosul, Republican Party: Your Monday Evening Briefing - The New York Times
+4400,1,Duterte, Mosul, Calais Jungle: Your Thursday Briefing - The New York Times
+4405,1,As Evening Commute Gets Darker, It Also Gets More Dangerous, Officials Warn - The New York Times
+4426,1,Hillary Clinton, Donald Trump, North Dakota: Your Tuesday Briefing - The New York Times
+4435,2,Philadelphia Transit Strike Strands Thousands - The New York Times
+4457,1,Theresa May, Daniel Ortega, China: Your Tuesday Briefing - The New York Times
+4458,1,California Today: How Do Top Newspapers Line Up on the Election? - The New York Times
+4474,1,Hillary Clinton, Donald Trump, Mosul: Your Wednesday Briefing - The New York Times
+4475,1,California Today: What to Watch For on Election Day - The New York Times
+4497,1,Donald Trump, Republican Party, Marijuana: Your Wednesday Evening Briefing - The New York Times
+4546,1,Donald Trump, New Zealand, Facebook: Your Monday Briefing - The New York Times
+4563,1,Trump, Obama, Gwen Ifill: Your Monday Evening Briefing - The New York Times
+4575,1,Donald Trump, Syria, Russia: Your Wednesday Briefing - The New York Times
+4576,1,California Today: Latino Power Rising - The New York Times
+4599,1,Donald Trump, President Obama, J.K. Rowling: Your Friday Briefing - The New York Times
+4612,1,Trump, Sessions, Pompeo, Flynn: Your Friday Evening Briefing - The New York Times
+4635,1,Tim Kaine Readily Moves Out of Spotlight: ‘This Is More Me’ - The New York Times
+4636,1,Aleppo, Donald Trump, Asia-Pacific Economic Cooperation: Your Monday Briefing - The New York Times
+4649,1,Pope Francis, Trump, Japan: Your Tuesday Briefing - The New York Times
+4666,1,Donald Trump, Japan, Mosul: Your Wednesday Briefing - The New York Times
+4682,1,Donald Trump, Global Warming, Facebook: Your Wednesday Briefing - The New York Times
+4706,1,Florence Henderson, Trump, Israel: Your Friday Evening Briefing - The New York Times
+4736,1,Fidel Castro, Aleppo, Donald Trump: Your Tuesday Briefing - The New York Times
+4737,1,California Today: Fretting Over the ‘Netflix Tax’ - The New York Times
+4755,1,Trump, Gatlinburg, Fidel Castro: Your Tuesday Evening Briefing - The New York Times
+4772,1,OPEC, Big Mac, Syria: Your Thursday Briefing - The New York Times
+4773,1,California Today: A View of San Francisco’s Leaning Tower From Space - The New York Times
+4787,1,François Hollande, Buzz Aldrin, Vladimir Putin: Your Friday Briefing - The New York Times
+4800,1,California Today: Meet Your Next Attorney General - The New York Times
+4838,1,Standing Rock, Trump, Renzi: Your Monday Evening Briefing - The New York Times
+4856,1,Donald Trump, Iran, Joe McKnight: Your Tuesday Evening Briefing - The New York Times
+4872,1,Donald Trump, Indonesia, Aleppo: Your Wednesday Evening Briefing - The New York Times
+4873,1,California Today: Schools Try to Calm New Fears Over Deportation - The New York Times
+4888,1,Donald Trump, John Glenn, Oakland: Your Thursday Evening Briefing - The New York Times
+4900,1,California Today: Is a U.C. Education Affordable Anymore? - The New York Times
+4925,1,Aleppo, Donald Trump, Istanbul: Your Morning Briefing - The New York Times
+4934,1,Donald Trump, Aleppo, Golden Globes: Your Monday Evening Briefing - The New York Times
+4935,1,California Today: Questions Persist After the Oakland Fire - The New York Times
+4953,1,Donald Trump, Rex Tillerson, Aleppo: Your Morning Briefing - The New York Times
+4972,1,Rodrigo Duterte, Aleppo, Donald Trump: Your Morning Briefing - The New York Times
+5026,1,Aleppo, Vladimir Putin, Donald Trump: Your Weekend Briefing - The New York Times
+5044,1,Donald Trump, Aleppo, Russia: Your Monday Evening Briefing - The New York Times
+5049,1,2nd Avenue Subway Will Open on Jan. 1, M.T.A. Says - The New York Times
+5059,1,Berlin, Russia, Donald Trump: Your Wednesday Evening Briefing - The New York Times
+5060,1,California Today: Cast Your Vote for Californian of the Year - The New York Times
+5078,1,Berlin, United Nations, Trump: Your Thursday Evening Briefing - The New York Times
+5125,1,George Michael, United Nations, Shinzo Abe: Your Tuesday Briefing - The New York Times
+5180,1,Syria, Russia, Mosul: Your Friday Evening Briefing - The New York Times
+5206,1,Your Monday Briefing: Bernie Sanders, Dilma Rousseff, Ecuador - The New York Times
+5216,1,Your Tuesday Evening Briefing: Hillary Clinton, Donald J. Trump, Kabul - The New York Times
+5247,1,Your Wednesday Briefing: Donald Trump, Hillary Clinton, iPhone - The New York Times
+5264,1,Your Monday Evening Briefing: Hillary Clinton, Donald Trump, Bitcoin - The New York Times
+5289,1,Your Evening Briefing: Hillary Clinton, Donald Trump, Cultural Revolution - The New York Times
+5300,1,Your Evening Briefing: Bernie Sanders, Donald Trump, Boko Haram - The New York Times
+5332,1,Your Tuesday Evening Briefing: Donald Trump, Golden State Warriors, Hillary Clinton - The New York Times
+5338,1,Your Wednesday Evening Briefing: Hillary Clinton, Donald Trump, EgyptAir - The New York Times
+5384,1,Hillary Clinton, Donald Trump, Muhammad Ali: Your Friday Evening Briefing - The New York Times
+5400,1,Orlando, Hillary Clinton, Donald Trump: Your Monday Evening Briefing - The New York Times
+5406,1,Orlando, Donald Trump, Net Neutrality: Your Tuesday Evening Briefing - The New York Times
+5448,1,Hillary Clinton, Donald Trump, Cleveland Cavaliers: Your Wednesday Evening Briefing - The New York Times
+5486,1,Istanbul, Donald Trump, Roger Federer: Your Wednesday Evening Briefing - The New York Times
+5492,3,New York’s Sidewalks Are So Packed, Pedestrians Are Taking to the Streets - The New York Times
+5496,1,Istanbul, Hillary Clinton, Loretta Lynch: Your Friday Evening Briefing - The New York Times
+5509,1,Quiet Fixer in Donald Trump’s Campaign: His Son-in-Law, Jared Kushner - The New York Times
+5576,1,Baton Rouge, Turkey, U.S. Presidential Race: Your Weekend Briefing - The New York Times
+5590,1,Accused of Sexual Harassment, Roger Ailes Is Negotiating Exit From Fox - The New York Times
+5595,1,Republican Convention, Turkey, Garry Marshall: Your Wednesday Evening Briefing - The New York Times
+5619,1,Hillary Clinton, Donald Trump, Turkey’s Military: Your Thursday Evening Briefing - The New York Times
+5639,1,Donald Trump, Hillary Clinton, Zika Virus: Your Tuesday Briefing - The New York Times
+5658,1,U.S. Presidential Race, Rio Olympics, London: Your Thursday Evening Briefing - The New York Times
+5707,1,Hillary Clinton, Donald Trump, Vladimir Putin: Your Friday Evening Briefing - The New York Times
+5726,1,Louisiana, Simone Biles, U.S. Presidential Race: Your Tuesday Evening Briefing - The New York Times
+5778,1,Italy, Hillary Clinton, Donald Trump: Your Thursday Evening Briefing - The New York Times
+5785,1,Trump a Working-Class Hero? A Blue-Collar Town Debates His Credentials - The New York Times
+5812,1,Donald Trump, Dilma Rousseff, Cuba: Your Wednesday Evening Briefing - The New York Times
+5848,1,California Today: Your Voices - The New York Times
+5859,1,Gary Johnson, Donald Trump, Wells Fargo: Your Thursday Evening Briefing - The New York Times
+5891,1,California Today: Fighting Fire With Fire - The New York Times
+5902,1,California Today: San Diego Struggles to Keep Its Young Tech Talent - The New York Times
+5909,1,California Today: A ‘See Something, Say Something’ Prostitution Plan - The New York Times
+5951,1,Charlotte, Yahoo, U.S. Presidential Race: Your Thursday Evening Briefing - The New York Times
+6037,1,California Today: Hollywood History vs. ‘Souvenir Junk’ - The New York Times
+6052,1,Hillary Clinton, Donald Trump, Samsung: Your Monday Briefing - The New York Times
+6079,1,Bob Dylan, Donald Trump, Michelle Obama: Your Thursday Evening Briefing - The New York Times
+6115,1,Cubs, Trump, Mosul: Your Wednesday Evening Briefing - The New York Times
+6122,1,Clinton, Mosul, Pirate Party: Your Monday Briefing - The New York Times
+6153,1,Hillary Clinton, Donald Trump, New Delhi: Your Tuesday Briefing - The New York Times
+6162,1,California Today: With Trump’s Rise, a Return to the ‘Rebel State’ - The New York Times
+6203,1,Donald Trump, Mike Pence, Paul Ryan: Your Tuesday Evening Briefing - The New York Times
+6212,1,New York Today: Our City That Never Was - The New York Times
+6217,1,California Today: Meet the New Mayor, Age 26 - The New York Times
+6233,1,Donald Trump, Obama, Thanksgiving: Your Weekend Briefing - The New York Times
+6240,1,Donald Trump, Pope Francis: Your Monday Evening Briefing - The New York Times
+6251,1,Donald Trump, Chattanooga, Mosul: Your Tuesday Evening Briefing - The New York Times
+6256,1,Donald Trump, Nikki Haley, Jo Cox: Your Wednesday Evening Briefing - The New York Times
+6279,1,Fidel Castro, Formula One, François Fillon: Your Monday Briefing - The New York Times
+6292,1,Donald Trump, Colombia, Fidel Castro: Your Wednesday Briefing - The New York Times
+6310,1,Donald Trump, François Hollande, Tiger Woods: Your Thursday Evening Briefing - The New York Times
+6317,1,Taiwan, Italy, Joe McKnight: Your Friday Evening Briefing - The New York Times
+6329,1,Putting His Mark on the World - The New York Times
+6356,1,Aleppo, Donald Trump, Pakistan: Your Thursday Briefing - The New York Times
+6364,1,Park Geun-hye, Donald Trump, Microsoft: Your Friday Briefing - The New York Times
+6383,1,Donald Trump, Russia, Dylann Roof: Your Weekend Briefing - The New York Times
+6396,1,Rex Tillerson, Aleppo, Donald Trump: Your Evening Briefing - The New York Times
+6405,1,Donald Trump, Aleppo, Yahoo: Your Wednesday Evening Briefing - The New York Times
+6411,1,California Today: Tracking the Bullet Train’s Progress - The New York Times
+6420,1,Obama, Aleppo, Vladimir Putin: Your Friday Evening Briefing - The New York Times
+6421,1,California Today: What Stinks in Huntington Beach? - The New York Times
+6433,1,Aleppo, China, Jordan: Your Morning Briefing - The New York Times
+6441,1,Aleppo, Berlin, Russia: Your Morning Briefing - The New York Times
+6498,1,Russia, Syria, Debbie Reynolds: Your Thursday Evening Briefing - The New York Times
+6506,1,California Today: The Stories That Moved Us in 2016 - The New York Times
+6509,2,Walter E. Mattson, Former President of New York Times, Dies at 84 - The New York Times
+6525,1,Your Wednesday Evening Briefing: Donald Trump, Elizabeth II, Harriet Tubman - The New York Times
+6543,1,Your Weekend Briefing: Ted Cruz, Donald Trump, N.F.L. - The New York Times
+6551,1,Is Britney Spears Ready to Stand on Her Own? - The New York Times
+6566,1,Your Evening Briefing: EgyptAir, Hillary Clinton, Donald Trump - The New York Times
+6619,1,Jo Cox, EgyptAir, Golden State Warriors: Your Thursday Evening Briefing - The New York Times
+6701,1,Theresa May, Donald Trump, Hillary Clinton: Your Wednesday Evening Briefing - The New York Times
+6787,1,Louisiana, U.S. Presidential Race, Ryan Lochte: Your Wednesday Evening Briefing - The New York Times
+6794,1,Zika, U.S. Presidential Race, Ryan Lochte: Your Friday Evening Briefing - The New York Times
+6802,1,U.S. Presidential Race, Ryan Lochte, Rio de Janeiro: Your Monday Evening Briefing - The New York Times
+6823,1,Gene Wilder, Huma Abedin, Donald Trump: Your Monday Evening Briefing - The New York Times
+6827,1,U.S. Presidential Race, Apple, Gene Wilder: Your Tuesday Evening Briefing - The New York Times
+6874,1,Hillary Clinton, Syria, World Anti-Doping Agency: Your Tuesday Evening Briefing - The New York Times
+6926,1,Roy Moore, U.S. Presidential Race, ‘Deepwater Horizon’: Your Friday Evening Briefing - The New York Times
+6933,1,Donald Trump, Aleppo, FARC: Your Monday Evening Briefing - The New York Times
+6946,1,Hurricane Matthew, Donald Trump, Nobel Prize: Your Friday Evening Briefing - The New York Times
+6956,1,Trump, Russia, Samsung: Your Wednesday Briefing - The New York Times
+6986,1,Adventures in Upscale Brooklyn - The New York Times
+7009,1,Donald Trump, Leonard Cohen, Mosul: Your Friday Evening Briefing - The New York Times
+7074,1,OPEC, Donald Trump, Nancy Pelosi: Your Wednesday Evening Briefing - The New York Times
+7085,1,Matteo Renzi, Oakland, Aleppo: Your Monday Briefing - The New York Times
+7091,1,Donald Trump, Matteo Renzi, Shinzo Abe: Your Tuesday Briefing - The New York Times
+7101,1,Who Haunts U.K. Ghost Trains? Railway Enthusiasts - The New York Times
+7106,1,Donald Trump, Russia, Aleppo: Your Friday Evening Briefing - The New York Times
+7155,1,Berlin, Putin, Trump, Israel: Your Friday Evening Briefing - The New York Times
+7168,1,Carrie Fisher, Russia, Shinzo Abe: Your Wednesday Briefing - The New York Times
+7172,1,Carrie Fisher, Trump, Israel: Your Wednesday Evening Briefing - The New York Times
+7195,1,Your Monday Evening Briefing: Bernie Sanders, Donald Trump, Johnny Manziel - The New York Times
+7260,1,Victims in Istanbul Airport Attack Reflect City’s International Character - The New York Times
+7270,1,Hillary Clinton, Donald Trump, Iraq Inquiry: Your Wednesday Evening Briefing - The New York Times
+7283,1,Turkey, Nice, Presidential Race: Your Friday Evening Briefing - The New York Times
+7328,1,Zika, Olympics, U.S. Presidential Race: Your Weekend Briefing - The New York Times
+7353,1,California Today: Vaccinate Schoolchildren or Keep Them Home - The New York Times
+7360,1,U.S. Presidential Race, North Dakota, Syria: Your Weekend Briefing - The New York Times
+7375,1,Charlotte, U.S. Presidential Race, Syria: Your Wednesday Evening Briefing - The New York Times
+7385,1,Presidential Debate, Chris Christie, U.S. Senate: Your Tuesday Evening Briefing - The New York Times
+7398,1,Syria, N.S.A., Michelle Obama: Your Evening Briefing - The New York Times
+7418,1,Mosul, CETA, Trump: Your Tuesday Briefing - The New York Times
+7424,1,California Today: A New Target of Gun Control Advocates — Bullets - The New York Times
+7427,1,Donald Trump, Delhi, Theresa May: Your Monday Briefing - The New York Times
+7429,1,Clinton, Trump, Reno: Your Monday Evening Briefing - The New York Times
+7442,1,Donald Trump, Julian Assange, Gwen Ifill: Your Tuesday Briefing - The New York Times
+7509,1,Berlin, Russia, Narendra Modi: Your Morning Briefing - The New York Times
+7551,1,Your Monday Evening Briefing: Hillary Clinton, Cleveland Cavaliers, Kanye West - The New York Times
+7582,1,What Does Mayor de Blasio Do at the Gym? He Runs New York - The New York Times
+7585,1,Hillary Clinton, North Carolina, Zika: Your Friday Evening Briefing - The New York Times
+7592,1,U.S. Presidential Race, Baltimore, Olympics: Your Wednesday Evening Briefing - The New York Times
+7621,1,Hillary Clinton, Zika, Syria: Your Monday Evening Briefing - The New York Times
+7652,1,Donald Trump, Russia, Rodrigo Duterte: Your Thursday Briefing - The New York Times
+7653,1,Donald Trump, Marijuana, Rolling Stones: Your Thursday Evening Briefing - The New York Times
+7667,1,California Today: Some Opt to Pass on Thanksgiving Politics - The New York Times
+7668,1,Election Recount, Fidel Castro: Your Monday Evening Briefing - The New York Times
+7680,1,Aleppo, Donald Trump, Chennai: Your Tuesday Briefing - The New York Times
+7743,1,California Today: Extra! Extra! How the Gossip Machine Chased the ‘Brangelina’ Split - The New York Times
+7770,1,‘Brexit,’ Angela Merkel, Donald Trump: Your Wednesday Briefing - The New York Times
+7838,1,Rep. Phil Roe: House Healthcare Bill ‘Giant Step’ in Process of Replacing Obamacare
+7897,1,AMAC CEO: Obamacare Replacement Bill a ’Positive Step in Lowering the Cost of Health Care’
+7954,1,Rep. Dave Brat: ’We Have Five or Six Plans’ to Replace Obamacare GOP Leadership Needs to ‘Pick One’
+8071,1,Rep. Brat: Obamacare Deal the Most Free Market We Could Get It Before Losing House Votes
+8104,1,Chris McDaniel Blasts ’Republican Surrender Caucus’ Over Obamacare Bill
+8128,1,Frank Gaffney: ‘If Assad Must Go, What Do We Want There Next?’
+8184,1,Craig Shirley on Memorial Day: World War II Soldiers and Civilians Made ‘Ultimate Sacrifice’ Without Complaint
+8282,1,Ned Ryun: Trump WH Breaking into Two Factions -- National Populists vs. Liberal NYC Democrats
+8309,1,Gorka: ‘Forgotten Man’ Was Given a Voice on November 8, and the Media Can’t Stand It
+8312,1,Ann Coulter: Trump Should Withdraw Funding from Any School with Speech Codes
+8372,1,Pamela Geller on Syria Strike: ‘What Is the Objective? Which Al-Qaeda Satellite Are We Partnering With?’
+8397,1,Dr. Zuhdi Jasser: Left Uses Muslims as ‘Foil for Identity Politics’
+8420,1,Pat Caddell: Trump White House ’Looks like Fort Apache Under Attack’ by Media, Political Class
+8437,1,John Bolton: If North Korea Gets Nuclear Missiles, ‘Iran Could Have That Capability the Next Day’
+8457,1,Asra Nomani: Alt-Left Is Waging ‘Propaganda War’ and ‘Cyber Jihad’ to Claim America
+8487,1,John Bolton: Left ‘Engaging in Collective Hysteria’ Because They Cannot Make ‘Substantive Arguments’ Against Trump Policies
+8518,1,Gorka on Syria: ‘No Endgame That Involves Us Being Global Police Officer’
+8556,1,Philip Haney: Governments Can Use Basic Indicators to Prevent Islamic Terror Attacks
+8562,1,Mark Cuban on Breitbart News Daily: ‘I Learn from People Who Disagree with Me’
+8634,1,Rep. Louie Gohmert: Protests Against Gorsuch Nomination Are ‘Fake News’ Funded by ‘Soros Money’
+8641,1,Immigration Expert Krikorian: White House ’Surrender’ on Budget Deal Is ’Betraying People Who Supported’ Trump
+8653,1,Tony Perkins: Trump EO Re-Affirms Jefferson’s Doctrine of Separation of Church and State
+8751,1,Rep. Jim Jordan: Working with Dems on Health Care Would Be ’a Big Mistake’
+8760,1,’Dog Company’: Bronze Star Decorated Army Captain Explains How Politically Correct Lawyers Are Betraying Our Troops
+8761,1,Sekulow: Expect ‘Whining Testimony’ from Comey ‘He Needs to ‘Grow up and Act Like an Adult’
+8762,1,Pamela Geller: Universities Normalizing Anti-Semitic Voices like Linda Sarsour but Silencing Jewish Conservatives
+8769,1,Hans Von Spakovsky: Democrats Oppose Jeff Sessions Because He’ll Enforce Our Immigration Laws
+8783,1,Asra Nomani: Voting for Trump as a Muslim Immigrant Revealed ‘Intolerance of the Tolerance-Loving Left’
+8798,1,Trump Supporter Plans Anti-Trump Rally over Lack of Tax Reform
+8810,1,Tech Worker Craig Diangelo Forced to Train H-1B Replacement Now Running for Congress
+8832,1,Hillary Emails: Top Clinton Aide Plotted to ‘Help’ News Media ‘Figure Out How Things Work’
+8885,1,MacGuineas: U.S. Faces $14 Trillion Deficit in 10 Years as Interest Is ’Single Fastest-Growing Part of the Budget’
+8916,1,Rep. DeSantis: ’Intelligence Committee Should Absolutely Subpoena’ Rice
+8972,1,Pamela Geller: Sharia Law Is ‘Misogynistic, Anti-Semitic, Anti-Infidel, Anti-Gay, Anti-Free Speech’
+9066,1,Krikorian: Trump Promised to End DACA on Day One Has ‘Done Absolutely Nothing’
+9114,1,Thomas Hodgson: Arrest Officials from Sanctuary Cities ’This Is All About Following Our Laws’
+9134,1,Gorka on Trump’s First 100 Days: ‘We Understand We Inherited a World on Fire’ - Breitbart
+9149,1,Forgotten No Longer: Pennsylvania Breitbart Readers Praise Trump Paris Decision
+9153,1,Kris Kobach Enters Kansas Governor Race to End ‘Insane’ Policies like Charging American Students Three Times as Much as Illegals
+9183,1,Bolton on London: ’Being Born on English Soil’ Doesn’t Strip Away Potential for Islamic Terrorism
+9216,1,Robert Barnes: Trump Could ‘Go Full Andrew Jackson’ and Ignore Interference from Activist Judges
+9274,1,Cliff Sims: Even CNN’s Poll Liked Trump’s Speech - Breitbart
+9293,1,Gorka: ‘Things Have Changed Fundamentally’ for North Korea, Because ‘America Is Back’
+9340,1,Tim Graham: Establishment Media Give VA Shooter’s Leftist Politics a Pass, Unlike Tea Party
+9418,1,Fred Fleitz: If Dems Continue ‘Pointless’ Trump Investigations, Congress Should Investigate Hillary Clinton’s Criminal Activity
+9422,1,John Bolton: Moving U.S. Embassy to Jerusalem as Simple as Moving the Sign from One Building to Another
+9447,1,Gorka: Leaks from Obama Loyalists ‘Dangerous Politicization of Intelligence’
+9479,1,Muslim Reform Leader Asra Nomani: Donald Trump’s Overseas Trip Has Been ’Genius’ So Far
+9480,1,Gary Miliefsky on Ransomware Attack: Cybercrime a Trillion-Dollar Industry, ‘Only Going to Get Worse’
+9484,1,Perkins: Trump Shifting Power Back to the People, Away from Hollywood and Media
+9498,1,John Carney on Dow 20,000: ‘There’s a Sort of Hope Reborn’ After Trump’s Election
+9571,1,Peter Schweizer: Clinton Global Initiative Folded Because They Can No Longer ‘Sell Access to Political Power’ - Breitbart
+9618,1,John Bolton: Trump’s Only Mistake Was Not Firing Comey on January the 20th - Breitbart
+9635,1,Rep. Mo Brooks: ‘Obamacare 2.0’ Is a ‘Republican Welfare Program, the Worst Bill I’ve Ever Faced’
+9636,1,Peter Schweizer: Kushner’s Failure to Disclose Billion-Dollar Ties to Goldman Sachs, George Soros Is ‘Massive, Massive Problem’ - Breitbart
+9810,1,Judicial Watch President Fitton: Comey Memos Need to Be Made Public
+9843,1,Steve Bannon: ‘Hobbits and Deplorables Had a Great Run in 2016,’ but It’s Only ‘Top of the First Inning’
+9858,1,Wilbur Ross: Free Trade Deal Needed with Europe to Reduce Unfair Tariffs
+9866,1,Gainor: Left-Wing Media Smears Anti-Sharia March
+9894,1,Legal Analyst Philip Holloway: ‘We Do Not Need Hate Crime Laws’
+9904,1,Gorka on Media’s Russia Obsession, Trump’s ’America First’ Budget, and Why the Immigration EO Challenge Will Fail
+9928,1,Squatty Potty CEO: Griffin Image ’So Divisive and So Disturbing, You Don’t Have a Decision, Really’
+9950,1,Sen. Joe Manchin: Judge Gorsuch ’a Good Man’ No ‘Just Reason to Filibuster’ Him
+10069,1,Speaker Ryan’s Pending Choice: Raise Voters’ Wages or Raise Companies’ Revenues - Breitbart
+10079,1,Report: Detroit FGM-Doctor Mutilated Girls Far Worse Than She Admits - Breitbart
+10172,1,Rep. Jody Hice: Obamacare Repeal Delayed Because ’Very Few People Thought Trump Would Win’
+10206,1,Joel Pollak on What He Saw at the Trump Revolution: ‘How Trump Won’
+10214,1,Peter Schweizer: Trump’s Infrastructure Bill Needs Transparency ‘So It’s Not Hijacked by the Permanent Political Class’
+10270,1,John Bolton: Trump Appointees Must Avoid ’Siren Song’ of Positive Media Coverage in Shaping Policy
+10296,1,Gorka: Story That Secretary of State Tillerson Refuses Eye Contact with Diplomats Is ‘Fake News’
+10306,1,True the Vote’s Engelbrecht: U.S. on Verge of ‘Systemic’ Voter Fraud Crisis Could Turn a ‘Major Election’
+10369,1,Megyn Kelly Spox: Fox News Exit ‘Still Being Negotiated’ - Breitbart
+10433,1,Bolton on Susan Rice Scandal: Obama Needs to Be Asked What He Knew and When He Knew It
+10457,1,Frank Gaffney: Ryan Should Resign as Speaker Because ‘He’s Simply Not a Reliable Partner for the President’
+10471,1,Angel Mom Laura Wilkerson Launches ’Enforce the Law’
+10480,1,Frank Gaffney: Trump Will Target ‘Beachheads of Terrorism’ and Infrastructure of Islamic Radicalization
+10483,1,Bolton: Use of Nerve Gas Proves North Korea Is Crazy
+10513,1,Peter Schweizer: FBI Naming Kushner ‘Person of Interest’ Marks ‘Major Shift in the Russian Investigation’
+10518,1,John Bolton: Paris Climate Accord Objective Is ‘Reduction of National Sovereignty’ for ‘Global Governance’
+10615,1,Hoekstra: Dems ’in Awkward Position’ over Comey Firing Trump Did What They Wanted Obama to Do
+10808,1,John Carney: Trump Has Been Good to Wall Street Without Any Giveaways for Wall Street
+10850,1,Former Secret Service Officer: Madonna’s Bomb the White House Speech Could Motivate Others to Act
+10880,1,Ann Coulter: Establishment Targets Stephen Miller, the ‘Brilliant and Patriotic Genius’ Behind Trump
+10924,1,Andrew Walther: Obama Administration Allowed ISIS Dechristianization in Syria and Iraq
+10940,1,Caddell: Anti-Trump Resistance Rhetoric Fueling ’Raging Fever’ in Unbalanced People
+10944,1,Caddell: Democrat Hypocrisy on Comey ’Enough to Choke a Horse’
+10964,1,Rep. Marsha Blackburn: FCC Rule-Change Vote Eliminates Obama Admin Internet Tax and Regulatory Power Grab
+11024,1,Cliff Sims: House Healthcare Bill ’Still a Work in Progress’
+11036,1,Caddell: Dishonest Anti-Trump Media Have Become ’Danger to Democracy’
+11095,1,John Bolton: Trump Needs ‘Long-Term Strategy to Keep Russia in Check in Europe and Middle East’
+11114,1,Kelsey Harkness: Women’s Strikers Ignore Atrocities in Muslim World
+11124,1,Kris Kobach: Democrats Already Attacking Election Integrity Commission
+11177,1,Rep. DeSantis: Five Key Facts About the Obamacare Replacement Bill
+11224,1,Frank Gaffney on Tillerson’s ‘Incoherent’ Stance on Iran Nuclear Deal: ‘This Is No Way to Run a Government’
+11242,1,Fred Fleitz: ‘We May Have Generations of Radical Islamists in the U.K. Unless the British Government Wakes Up’
+11252,1,Gorka: ‘I Guess the Obama Administration Were Islamophobes, as Well,’ Since They Created List of Nations for Trump Immigration Order
+11270,1,Scott Pruitt: Paris Climate Agreement Would Have Driven More ‘Regulation Through Litigation’
+11295,1,Andrzejewski: Can Sanctuary Cities Violate Federal Law with No Consequences?
+11360,1,J. Christian Adams: Trump Reforms Will Remove Any Arrested Illegal Here Less Than 2 Years
+11387,1,Joe Manchin: ’I’ve Been Pro-Life All My Life I Was Born Pro-Life’
+11389,1,MILO Security Coordinator: Berkeley Police Had a ’No Arrests Policy’ - Breitbart
+11462,2,Whatever It Takes: Allen West Tells Curt Schilling America Must Stand Up for Warriors, Veterans - Breitbart
+11469,1,Dr. Sebastian Gorka: Iran Nuclear Deal Is the Worst of Obama’s ‘Many Catastrophic Legacies’
+11475,1,John Bolton: I’m Concerned That U.S. Is Pushing Back on Israeli Settlements, Delaying Jerusalem Embassy Move
+11523,1,Krikorian: ’No Longer Will Any Classes of Immigrants Be Exempt from Enforcement’
+11532,1,Historian John Heiser on Why Soldiers of Gettysburg ’Came Back Again and Again’
+11630,1,After Super Bowl Ad Flap, 84 Lumber CEO Says She Backs Trump and Border Wall
+11671,1,Frank Gaffney: China ‘Considers Bad Behavior from North Korea a Strategic Asset’
+11675,1,Carney on Nordstrom’s Pulling Ivanka’s Line: ’I Suspect It’s All Politics’
+11733,1,Frank Gaffney: McMaster and Obama Admin ‘Holdovers’ Promote False Notion Terrorism Is Inherently Un-Islamic
+11736,1,Krikorian: ’Bringing Sanctuary Cities to Heel Much More Difficult’ Than Building Border Wall
+11745,1,Rohrabacher on CIA WikiLeaks Revelations: ’We Are Not Immune to Authoritarian Government’
+11762,1,Pamela Geller: Trump Gets an A for Riyadh Speech, But He’s Wrong to Say Terrorists Aren’t Invoking Koran
+11848,1,Sen. Rand Paul: I Talked to President Trump Last Night He’s ’Very Open to Negotiation’ on Obamacare Repeal
+11849,1,Scott Uehlinger: Susan Rice Unmasking ‘Abuse of Power’ Violates ‘Spirit of the Law,’ Should Be ‘Further Investigated’
+11864,1,Noah Wall: After Years of GOP Repeal Bills Under Obama, Now ’They Back Down’
+11925,1,Zuhdi Jasser: Apologists for Radical Islam ‘Coddle the Muslim Community’
+11931,1,Swarztrauber: Trump’s FCC Can Be an Ally to Consumers, Rather Than Just Regulating Everything
+11932,1,John Bolton: Trump Admin Put Iran ‘On Notice’ for First Time in Eight Years
+11943,1,Gorka on Russian Power Grid Hacking Fake News: Mainstream Media ’Not About Truth It’s About Maintaining a Narrative’
+11972,1,Jeff Landry: Sessions’ Testimony Showed Russia Investigation Is ’Witch Hunt Dreamed Up’ by Democrats
+11978,1,Ken Blackwell: Media ‘Borking’ Sessions Because He’s Southern ’White, Conservative, Evangelical’
+11988,1,Thomas Pyle: Scraping Paris Deal ‘One of the Single-Most Important Decisions’ Trump Has Made
+12032,1,Washington State Takes 10 Refugees, 0 Muslim Rest of Country Takes 189 Refugees, 151 Muslim - Breitbart
+12034,1,Gorka: Trump Fired FBI Director to Make a Statement After Comey’s Latest Testimony
+12041,1,Peter Schweizer: Business Dealings of President Trump’s Son-in-Law ‘Worrisome,’ Should Be ‘Monitored with Great Intensity’
+12239,1,John Carney: Economic Indicators Demonstrate Consumer Confidence with Trump
+12288,1,Burnett: White House Faction Pushing Trump to Stay in Paris Climate Deal Despite Campaign Promise
+12294,1,Gaffney: Media Encouraging Deep State to ’Put the Worst Possible Gloss’ on Flynn Leaks
+12336,1,Tom Van Flein: House Ethics Reform Necessary to Stop Left’s Alinsky Tactics
+12396,1,Banzhaf: Trump’s Immigration Executive Order Is Constitutional
+12507,1,John Bolton: Only Way to End North Korea’s Nuclear Weapons Program Is to ‘End the North’
+12537,1,Tom Fitton: Congress Won’t ‘Hold the Intelligence Agencies to Account in Any Significant Way’
+12575,1,Bolton on Obama’s Legacy: America ’Endangered Now on Fronts That Were Inconceivable Eight Years Ago’
+12587,1,Peter Schweizer: Media Chases Trump-Putin Conspiracy Theories, Ignores Evidence of John Podesta’s Russia Ties
+12602,1,Frank Gaffney: Trump Restores Reagan’s ‘Peace Through Strength’ Doctrine
+12671,1,Rep. Duncan on Deep State: We Need to Fire ’Entrenched Bureaucrats’ Who Leaked Information
+12818,1,Dan Gainor: Anti-Trump Media Wanted the Patriots to Lose
+12821,1,EXCLUSIVE -- Pat Buchanan on Donald Trump’s First 100 Days
+12854,1,Rep. Ron DeSantis: More Threats, Celebrations of Scalise Shooting Pouring In
+12868,1,O’Keefe: Dems, Left, and Media Should Be Asked If They Disavow Violent Inauguration Protesters
+12917,1,Manchin: Trump Should Reach out to Intel Community
+12938,1,Boykin: Manning’s Actions ’Every Bit as Egregious and Damaging as Snowden’s’
+13007,1,Fr. Paul Scalia: Our Spiritual Yearning Has Turned to Secular Politics and the Economy
+13033,1,John Bolton: ‘Politically Motivated’ Leaks Are ‘Partisan Tools’ to Destroy the Trump Presidency
+13079,1,Bolton: Trump White House Must Tear Up Iran Nuclear Deal Immediately
+13226,1,Pat Caddell Grades First 100 Days: Donald Trump C+ Dems F Republicans F-
+13298,1,Gainor: Left Using Syria Strike ’to Bully Trump into Changing Refugee Policy’
+13303,1,Matt Schlapp: Kansas Special Election ‘a Warning Shot to All Members of Congress’ Used to Winning Easily - Breitbart
+13334,1,Michael Steele on Mark Zuckerberg’s Universal Income Idea: ’Why Doesn’t He Start with His Own Organization’
+13383,1,Rep. Kelly on Obamacare Fix: ’We’re Going to Find Out What’s in It Before We Pass it’
+13402,1,Tom Fitton: Comey Has ‘Repeatedly and Improperly Protected Clinton and Her Top People From Consequences of Criminal Behavior’
+13469,1,Krikorian: Mexico ’Obviously Not Going to Write Us a Check’ but Likely Will Pay for Wall - Breitbart
+13512,1,Paul Nehlen: Ryan’s Obamacare Bill ’a Bailout for the Insurance Industry’
+13553,1,Lt. Gov. Michael Steele: Democrats Continue to Alienate Voters
+13620,1,Sen. David Perdue: Obamacare Is Pushing America Toward a Single-Payer Disaster
+13690,1,Holloway: Intelligence Community Leaking Classified Material to New York Times Is ‘Sedition’
+13726,1,Gorka on Syria: ‘This Is Not a Full-Throated War Deployment,’ Just ‘Surgical’ Missile Strike
+13755,1,Black Journalist Group Demands Meeting With NBC After Tamron Hall ‘Whitewashing’
+13793,1,Joy Villa: ’Overwhelming Response’ to MAGA Grammys Dress Album Could Hit No. 2 on Billboard Chart
+13841,1,John Bolton: Tillerson State Department’s Certification of Iran’s Nuclear Deal Compliance ’Embarrassing, Inexplicable, Patently False’
+13896,1,Gorka: Left Cares About Alinsky Tactics and Political ‘Triangulation’ More Than Safety of Americans - Breitbart
+13898,1,Gorka &amp Jasser: We Are Fighting ‘Not a War with Islam, but a War Inside Islam’
+13938,1,Gorka: Efforts to Block President Trump’s Executive Orders Are ‘Clutching at Straws, Desperation’
+13956,1,Peter Schweizer: Kellyanne Conway’s Nordstrom Ethics Violation Exposes Media Hypocrisy
+13967,1,Hastings: Rick Perry’s Energy Policy Is Pro-Environment
+13970,1,Rep. Louie Gohmert: Trump Will Use Twitter to Make Congress Keep Its Promises
+13975,1,Rep. Jim Jordan: Obamacare Repeal on Trump’s Desk in ’6 to 8 Weeks’ Replacement to Follow
+13978,2,Whatever It Takes-David Grantham: Human Traffickers Can Ship Anyone, Anywhere - Breitbart
+14047,1,Historian Jonathan Casey on the History and Impact of World War I
+14055,1,Dan Gainor: Trump Rallies Turn into War Zones 3 Antifa Riots at Berkeley Events This Year
+14070,1,Obama Encouraged ‘Deep State’ ‘De Facto Coup’ Against Trump
+14105,1,Ann Coulter’s Report Card for President Trump’s First Two Weeks: ‘I Give Him an A+++’
+14110,1,Tancredo to Sanctuary City Pols: ’How Do You Live with Yourself’ Given the Death and Mayhem from Your Decisions?
+14115,1,Peter Schweizer: No Question Tom Price Made Same Mistake with Stocks as Many Congressmen
+14136,1,Cardinal Dolan on the ‘Culture of Death’: ‘Isolated, Chic Left’ in Denial About Growing Pro-Life Support in America
+14144,1,Gaffney: Sanctuary Cities Are ‘Magnet’ for Illegals, Don’t Make Us Safer
+14171,1,Dannenfelser: Trump May Finally Force Media to Cover March for Life
+14203,1,Robert Barnes: Democrats Overlooked Clinton Perjury but Launched ’Neo-McCarthyite’ ’HUAC Times Ten’ Attack on Sessions
+14245,1,Fred Fleitz: ’The North Korean Government Murdered’ Otto Warmbier as ’Obama Administration Did Almost Nothing’
+14294,1,Gorka: Trump’s Riyadh Speech Was ‘Kryptonite to Neo-Conservatism’ and Obama’s ‘Alice in Wonderland’ Policies
+14295,1,Rep. Brat: ’White House Messaging on Health Care and Taxes’ Missing from Budget Battle
+14304,1,Schweizer: Sessions Ending DOJ Handouts to Activist Groups ’a Tremendous Victory’
+14372,1,Jenny Beth Martin: Paul Ryan Should Have Considered Canceling CNN Town Hall After ’Hit Job’ They Did on Trump
+14386,1,Gainor: Conservatives Abused by ‘Media Who Don’t Represent 75 Percent or More of the Country’
+14387,1,J. Rachel Reed on ’K-9 Korea: The Untold Story of America’s War Dogs in the Korean War’
+14400,1,Tim Lee: Trump Should Focus on Tax Cuts, Not Deficit
+14409,1,Gorka: Trump ’Incredibly Pragmatic’ About Relations with Russia, Iran
+14436,1,Peter Schweizer: Trump Appoints to Ex-Im Bank Disgraced Ex-Congressman Andrew Breitbart Called On to Resign
+14454,1,Gainor: Megyn Kelly’s Alex Jones Interview Would Be Called ’a Hit Job’ on Anyone Else
+14514,1,Sen. Capito: Pruitt Will Bring ’Common-Sense Balance’ to EPA, Protecting Jobs, Economy, and Environment
+14529,1,Rep. Steve King: Conservatives Should Be ’Excited’ about Gorsuch
+14583,1,Mark Krikorian: Revised Immigration Order Legally Sound, but Trump Opponents Will ’Find at Least One Federal Judge’ to Block It
+14734,1,Retired Lt. Gen. Rick Lynch on How Faith Sustained Him Through Years of War
+14743,1,Pat Caddell: ’Politics Has Been Reduced to Tribal Warfare’
+14791,1,Rep. Gohmert: Trump ’Being Set Up for Failure,’ Ryancare Doesn’t Fully Repeal Obamacare
+14793,1,Gorka: An Upstanding Citizen or Immigrant on Monday Doesn’t Decide to Become a Jihadi on Tuesday
+14835,1,Gainor: Villa’s ’MAGA’ Dress ’Is What It Takes to Be Counter-Culture’ in Hollywood Today
+14856,1,Kristan Hawkins: ’Corporate Abortion Lobby’ Has ’Bought Off the Discussion’ of Women’s Rights
+14893,1,Frank Gaffney: ’Blood in the Water’ After Flynn Resignation ’Sharks Will Be Circling for Others’
+14969,1,Exclusive: Sarah Palin on Donald Trump’s First 100 Days
+14977,1,Pat Caddell on Paris Accord: Trump ’Has Drawn a Line’ on America’s Globalist Political Elites
+15020,1,Gaffney: Media Engaged in ’Concerted Effort by the Enemies of This President to Destroy Him’ - Breitbart
+15060,1,Gorka: Radical Islam Has Grown ‘Much, Much Stronger’ Since 9/11
+15064,1,Gosnell Authors: Minority Women and Children’s Bodies Were Piling Up in Abortion Clinic, and ’Liberals Didn’t Care’
+15072,1,Walter Cronkite Awards Dub Jake Tapper, Jorge Ramos, &amp Katy Tur Best Reporters of 2016
+15136,1,Andrew McCarthy: Special Counsel Mueller Should Investigate Leaks
+15158,1,Dan Gainor: ’Hollywood Hates the People Who Watch Its Shows’
+15164,1,Rep. Steve King Explains Controversial Tweet: Streets of Europe ’Burning’ with Violent Unrest from Mass Migration
+15195,1,Pete Hoekstra on CIA WikiLeaks: We Can’t Trust Spy Agencies If They ‘Can’t Protect Their Own Data from Outside Intruders’
+15316,1,Robert Barnes: ‘Ludicrous’ to Claim Obama Never Spied on Americans When He ‘Drone-Bombed American Citizens Around the World’
+15336,1,Frank Gaffney: Comey FBI’s ’Malfeasant Approach’ to Islamist Threat ’Warranted a Cleaning of House’
+15348,1,Dog the Bounty Hunter and Beth Blast Christie, Bless Clarke - Breitbart
+15368,1,Erik Prince: DOJ Admits Blackwater Contractors Were Caught in Enemy Crossfire
+15542,1,Eric Trump: ’My Father Will Build the Wall So Fast, People’s Heads Will Spin’ - Breitbart
+15549,1,Erik Prince on Huma Abedin: ‘Agent of Influence Very Sympathetic to the Muslim Brotherhood’ Had Hillary Clinton’s Ear ‘for All These Years’
+15590,1,Rep. Babin on Rigged Elections: ’There Are Fraud Investigations Going On Right Now in Three States’
+15676,1,Frank Gaffney: What Hillary Clinton Did ’Gets People Killed’
+15678,1,Roger Stone: Saying Trump ’in Bed with Putin’ is a ’Conspiracy Theory’ - While Clinton ’Does Paid Errands’ for Russian Oligarchs - Breitbart
+15723,1,U.S. Senate Candidate Rob Maness: Pat Smith ’Treated Like Dirt’ by Media
+15755,1,Rep. Darrell Issa: Boehner’s Hand-Picked Chaffetz ‘Did Absolutely Nothing in the Way of Serious Oversight’ - Breitbart
+15765,1,Rafael Cruz: Donald Trump ‘Would Be Worse Than Hillary Clinton, But He Cannot Beat Hillary Clinton’ - Breitbart
+15853,1,Richard Berman: China Is Taking Over America’s Film Industry - Breitbart
+15891,1,Meghan McCain Named Co-Host of Fox News Channel’s ’Outnumbered’
+15915,1,John Bolton: ’I’d Be in Jail Right Now" If I Did What Hillary Did
+15934,1,Michelle Malkin: NeverTrumpers ‘Completely Lost Perspective’ During Election Now Asking Trump for Jobs
+16017,1,Dinesh D’Souza: RNC Dropping the Ball in Not Supporting Films Like ’Hillary’s America’ and ’Clinton Cash’
+16042,1,Helen Aguirre Ferré: Trump Hasn’t Been ’Hispandering’ like Clinton
+16045,1,Roger Stone: GOP Establishment Would Rather Have ’Crony Capitalist’ Hillary Clinton as President Than Trump - Breitbart
+16098,1,Roger Stone: How Did Clinton Aide Huma Abedin Get Security Clearance, ’Given Very Clear Ties to a Radical Offshoot of Islam?’
+16138,1,Frank Gaffney: Pearl Harbor an Object Lesson in Practicing Ronald Reagan’s ‘Peace Through Strength’
+16164,1,America Responds to Trump’s Speech: ‘That Was Me Up There Speaking’ - Breitbart
+16174,1,Mark Krikorian: Puzder Was Champion of ‘Jobs Americans Won’t Do’ Myth
+16244,1,Charles Ortel: States and Foreign Governments Investigating Clinton Foundation ‘Charity Fraud’ - Breitbart
+16287,1,Caddell: George H.W. Bush Endorsement of Hillary Clinton Is Establishment ’Protection Racket’
+16291,1,Senator Jeff Sessions: Trump Presidency Would ’Kill the Advancement’ of Obamatrade - Breitbart
+16434,1,Paul Sperry: Khzir Khan Is a ‘World-Renowned Expert on Sharia, Not the Constitution’ - Breitbart
+16513,1,Andrew McCarthy: ’FBI Rewrote the Statute’ to Give Clinton a Pass
+16552,1,Senior Trump Adviser Stephen Miller: Remittances from Illegal Immigration Finance ‘Corruption and Cartels in Mexico’ - Breitbart
+16561,1,Debbie Lee of America’s Mighty Warriors: ’You Don’t Aspire to Be a Gold Star Mother’
+16583,1,Bob Carey: Veterans Voted in ’Record Numbers’ for Trump
+16590,1,Pat Caddell: Media Protects Clinton with ‘Biggest, Most Secure Bubble I Have Ever Seen’ - Breitbart
+16712,1,Mark Levin on the Constitutional Convention: The Framers Would Have Never Voted for ‘the Government as It Exists Today’ - Breitbart
+16760,1,John Yob: ’One Hundred Percent Certain’ GOP Will Have a Contested Convention - Breitbart
+16824,1,Borelli: Why is Prominent Hillary Surrogate Tweeting Out Support for A Terrorist as Orlando Victims Lay Dying? - Breitbart
+16832,1,Pastor Mark Burns: Trump Going to the Black Community to Solve Problems, Not Say ‘See You in Four Years’ Like Democrats - Breitbart
+16880,1,Tom Brokaw, Patient 2640: Cancer ‘Is the Most Pernicious Enemy That Medicine Has’ - Breitbart
+16887,1,Mark Levin: Vote for ’the Most Conservative Candidate’ Because ’That’s What We Need’
+16952,1,Hermann Kelly on Brussels Attack: Open European Borders Allow Jihadis to ’Carry Out Their Atrocities at Will’
+17029,1,Rasmussen Poll: Donald Trump Leads Hillary Clinton by Two Points - Breitbart
+17073,1,James O’Keefe: If Media Covered Project Veritas Like They Covered Trump Tape, ‘I Guarantee You Trump Would Win the Election’
+17108,1,Erik Prince: Clinton’s ‘Foreign Policy Record Is a Disaster,’ Trump Is ‘Willing to Take a Different Direction’ - Breitbart
+17114,1,Frank Gaffney: Trump Foreign Policy Must Start with Designating Muslim Brotherhood a Terrorist Organization
+17132,1,James Woolsey: Trump Should Have Hammered Clinton on Her ‘Devastating’ Record as Secretary of State
+17154,1,Rohrabacher on Bolton: ’We Could Be the Dynamic Duo’ at State Department
+17164,1,David Bossie: Conservatives Will Be ’in the Icebox for Four Years with Hillary Clinton’ - Breitbart
+17176,1,Words of a Warrior: George Washington’s 85-Word Impromptu Speech That Helped Win the Revolution - Breitbart
+17187,1,Breitbart Editor: ’Ridiculous’ To Call Horowitz Headline Antisemitic - Breitbart
+17264,1,Caddell: 2016’s ‘New Paradigm’ - ‘Mainstream America’ Versus ‘Arrogant’ Political Class ’Who Usurp Democracy’
+17267,1,Daniel Pipes: Trump’s Muslim Immigration Policy Is Evolving for the Better - Breitbart
+17309,1,Tom Fitton: Naive to Think Millions of Aliens in U.S. but ’None of Them Are Illegally Voting’
+17323,1,Professor Who Accurately Predicted Trump Victory Accuses Media of Poll Bias
+17354,1,Peter Schweizer Debunks Claim Breitbart News ‘Manipulated FBI into Investigating Hillary Clinton’
+17366,1,Peter Schweizer: World Sees ’Clinton Cash’ Hillary as Typical ‘Kleptocrat’
+17393,1,Sheriff David Clarke on Jailbreak Bill: Democrats Have ’Always Been Pro-Criminal’ GOP Elites like Paul Ryan ‘in Bed with This Sleazy Movement’
+17406,1,Dinesh D’Souza: Democratic Party Like ’A Criminal Gang’ Seeking Wealth And Power - Breitbart
+17457,1,Kellyanne Conway: Marco Rubio’s Super Tuesday Defeat Reveals His Constituency Is ’Donors, Mainstream Media, and Punditocracy’ - Breitbart
+17472,1,How Caddell Got It Right: ’This Is the Rising of the People’ - Breitbart
+17495,1,Exclusive -- Ann Coulter on Kobach in the Cabinet, Immigration, and Building the Wall
+17504,1,Exclusive -- Ann Coulter Post-Election Review: Media Bias, ’Fake News,’ and Burning Down the Conservative Establishment
+17611,1,Tom Brokaw: Bernie Sanders Can Win Nomination if He Wins California - Breitbart
+17613,1,Gaffney: China Will Aggressively Fight South China Sea Ruling
+17616,1,Shepard Smith of Fox News Comes Out as Gay, Defends Roger Ailes
+17759,1,Caddell Calls Out ’Stupidity of Republicans’ in Internet Takeover Debate
+17762,1,Pat Caddell: Ford Moving Jobs to Mexico Is ‘Globalism vs. Nationalism’ -- They’re ’Proving Trump’s Point’
+17787,1,John Bolton: Obama’s ’Humiliating’ Ransom Payment Was ’Wrapped Around the Nuclear Deal’ - ’We Were Doing Iran’s Bidding’ - Breitbart
+17795,1,Sonnie Johnson Slams Mitt Romney: ’Cowards Get Brave When They’re Not in a Fight’ - Breitbart
+17807,1,Ted Harvey: ‘It’s as Though the Clinton Campaign Held a Gun to the FBI Director’s Head’
+17954,1,Paul Nehlen: ’People Like Paul Ryan Have Hijacked This Great Country of Ours’
+17983,1,Pat Caddell on MSM Ignoring O’Keefe Tape: ’Imagine If That Was Corey Lewandowski’ Threatening Hillary Clinton Supporters
+18049,1,Shalabh Kumar: Electing Hillary Will Mean ’The End of This American Civilization’ - Breitbart
+18076,1,Ed Klein on DNC/Media Collusion: ‘You Can Cover the Circus but You Can’t Sleep with the Elephants’ - Breitbart
+18093,1,Wreaths Across America Thanks Breitbart News: ’There Will Be 70,000 People’ Placing Wreaths at Arlington Saturday
+18096,1,Pat Caddell: American People Will ’Revolt’ if Party Establishments Cheat Primary Winners Trump, Cruz, and Sanders - Breitbart
+18100,1,Muslim American Citizen: ‘I Fear for My Life from These Terrorists’
+18136,1,Michael Savage: Facebook, Google Are ‘Mini-Fascist States That Crush Opposition Viewpoints’ - ‘Should Be Taken Down Under Anti-Trust Legislation’ - Breitbart
+18151,1,Phil Robertson, Dave Bossie: ‘Torchbearer’ Is a ‘Christian War Film’
+18228,1,Donald Trump on Charles Koch: ’I Don’t Need Him at All,’ ’I Got My Own Money’ - Breitbart
+18266,1,Bill Otis: ’Complacency, Forgetfulness, Short-Sightedness’ Driving Republican Support for Prison Sentence ’Reform’ - Breitbart
+18334,1,Pete Hoekstra: ’Cowardly Republicans’ Attacking Trump Because He’s an ’Agent of Change’
+18349,1,Peter Schweizer: Insecure Left Wants to Blame Their Loss on Russian Hackers
+18356,1,Bobby Knight: Donald Trump Is ’Totally in Love with the United States,’ ’Best-Prepared’ to Serve - Breitbart
+18405,1,Dan Stein: Trump Has the Best Immigration Policy Team of Any Republican Candidate in History
+18441,1,Darrell Issa: Hillary Clinton Is a ’Criminal Involved in a Criminal Enterprise’
+18471,1,Tom Fitton: Clinton Foundation Still ‘Open for Business’ -- ‘to Get in on the Racket, You Make a Donation Now’
+18549,1,Peter Morici: Working Class Women Realized Hillary’s ’Form of Feminism Discriminates Against Their Sons’
+18560,1,Prof. Banzhaf: ‘We Are Heading into a Perfect Storm’ of Election Fraud
+18575,1,Rob Maness: ’It’s Like Dunkirk’ in Louisiana
+18586,1,Exclusive -- Sarah Palin on Her Political Future
+18730,1,Chris Warren on Memorial Day at Arlington: ‘Read the Headstones Feel What It Is to Be an American’
+18773,1,SiriusXM Announces Suspension of Glenn Beck over Brad Thor Interview Comments - Breitbart
+18804,1,Pat Caddell: Hillary Clinton’s Health Scare Reminiscent of McGovern-Eagleton Fiasco
+18815,1,Dr. Sebastian Gorka: ’If There’s Anybody Who’s in the Pocket of the Kremlin, It’s Hillary’
+18848,1,Flynn: Terror-Linked Nations ’Cutting Deals’ with Mexican Cartels
+18873,1,John Bolton Agrees with Bernie Sanders: Hillary Clinton not Qualified to Be President - Breitbart
+18880,1,Michael Pack on George Washington and Alexander Hamilton
+18907,1,Trumpocrats to Tour Rust Belt, Energize Democrats for Trump Against Hillary - Breitbart
+18971,1,Bill Clinton Mistress: Hillary ‘Uses Lies, Threats, Violence’
+19028,1,Breitbart News Daily: Republican Three-Way… Plus Two - Breitbart
+19093,1,Roger Stone: Clintons Have Long Record of ’Very Deep Dog Whistle Politics’
+19148,1,Katrina Pierson: Bernie Sanders Supporters ’Sending Me Messages’ They Will Back Donald Trump If Hillary Clinton ’Steals’ the Democratic Nomination - Breitbart
+19165,1,Lt. Gen. Michael Flynn on Obama and Hillary’s Refusal to Name Radical Islamic Terrorism: Aiming to ’Dumb Us Down’ - Breitbart
+19230,1,Myra Adams: ‘Clinton Cash’ Tells America, ’We Are Stark Raving Mad If We Elect the Clintons‘ Again
+19242,1,Peter Schweizer: Media Won’t Ask Questions About ’Clinton Cash’ Because They’re Afraid of the Answers - Breitbart
+19347,1,Scott Baio: ’If These Illegals Were Voting Republican There’d Be a 200-Ft Wall Down at the Border’ - Breitbart
+19351,1,Ben Carson: Detroit ’Once the Most Prosperous City in America,’ Now ’the Biggest Bankruptcy After Decades of Progressive Leadership’ - Breitbart
+19356,1,Nina Shea: How Hillary Clinton Assisted the ‘Mainstreaming of Taliban Ideology’ in Pakistan to Deadly Effect
+19358,1,Tom Coburn on Looming Fiscal Crisis: ‘a Hard Time Is Coming’ - Breitbart
+19474,1,Roger Stone: If Rubio Loses Florida, ’Abundantly Clear Mitt Romney Is Waiting In The Wings’ - Breitbart
+19524,1,Daniel Horowitz: There Is a Fifth Column in the American Government - Breitbart
+19572,1,Trump Adviser Sam Clovis: ‘It’ll Be Very Clear Tonight That He’s Done a Great Deal of Preparation’ for Debate
+19631,1,Former SEAL Carl Higbie: ‘If Hillary Clinton Is the Commander-in-chief, Half the Military Is Gonna Get Out’ - Breitbart
+19641,1,Rick Manning: National Review’s ‘Vile’ Cover Story Attacking Working Class Americans Is ‘Morally Reprehensible’
+19728,1,Dr. Herbert London: Hillary Clinton Is ‘Embodiment of Evil’
+19738,1,Dr. Jane Orient: ‘Media Is Being Told Not to Give Us the Whole Story’ on Hillary Clinton’s Health
+19864,1,Caddell: What Is Pelosi’s Argument for Being Leader? ‘I’ve Done a Great Job Losing’?
+19898,1,Prof. Banzhaf: Free Speech on the Line as GWU Tries to Muzzle Milo
+19916,1,Rep. Marsha Blackburn: How Can People Vote for Clinton When ‘Her Own Staff Is Having a Difficult Time Dealing with Her Lying?’
+19958,1,Gary Kaltbaum: Globalists Using ‘Scare Tactics’ on Markets, Will ’Lie, Cheat, and Steal to Turn Back the Clock’ on Brexit - Breitbart
+19959,1,Prof. John Banzhaf: Hackers Can Sabotage 2016 Election Without Changing Ballots
+19969,1,Ed Cox: Trump Could Have a ‘Ronald Reagan 1980 Kind of Blowout’
+19974,1,Rafael Cruz: ‘Indiana Has Become Ground Zero’ for Ted Cruz - Breitbart
+19982,1,Dr. Sebastian Gorka: Anyone Surprised by Weekend’s Islamic Terror Attack ’Has Been Asleep for the Last Two Years’
+20007,1,Pat Caddell: Bill Clinton ‘Being Discounted’ Like ’the Crazy Uncle in the Attic’ Over Obamacare Comments - Breitbart
+20030,1,John Sununu: Republicans May ’Look at Alternatives’ if a ‘Disaster’ Candidate Like Trump Becomes Nominee
+20127,1,Ed Martin: Eagle Forum Office Spray-Painted with ’Slurs’ and ’Nasty Stuff from the Left’ After Phyllis Schlafly’s Death
+20150,1,Ben Carson: After Progressives Control the Courts, ‘It Doesn’t Matter Who the President Is’ - Breitbart
+20258,1,Breitbart News Daily: Gov. Jeb Bush, Donald Trump, Gov. Mike Pence, Mark Levin - Breitbart
+20265,1,John Allen: Global War on Christianity, ‘200 million Daily at Risk’ of Assault, Torture, Death - Breitbart
+20463,1,Breitbart News Daily: Nevada Gold, Silver, Bronze
+20510,1,Hans Von Spakovsky: ’Non-Citizens Registered and Voting All Over the Country’
+20585,1,Breitbart’s Marlow: New EU IT Facebook Code ’About Controlling Message’ By An ’Open Borders, Globalist Organization’ - Breitbart
+20621,1,LISTEN: Stephen K. Bannon’s Epic ‘Clinton Cash’ Rant - Bill and Hillary ‘Two Biggest Grifters to Ever Run for President’ - Breitbart
+20663,1,John Bolton: Aleppo ‘Significant Victory’ for Assad Regime, Russia, and Iran
+20706,1,Pat Caddell: Hillary Clinton’s Criminal Investigation a ’Constitutional Crisis’ like Watergate
+20720,1,John Bolton: ‘It Would Be an Honor to Be Considered for Any Position to Serve the Country’ In Trump Administration - Breitbart
+20754,1,Former Secret Service Officer Gary Byrne Threatens Defamation Suit Against Media Matters over Clinton Book
+20811,1,Rohrabacher: ‘I’d Be Very Willing’ to Be Trump’s Secretary of State
+20841,1,Peter Schweizer: The Clintons ’Function as a Kind of Political Mafia’ - Breitbart
+20946,1,John Bolton: Countries That Once ‘Hailed’ Obama as a ‘New Messiah’ Now Realize His Policies ‘Endangered’ Them - Breitbart
+20955,1,Bolton: Trump’s Taiwan Call ’Absolutely Not a Violation of the One China Policy’
+21076,1,Roger Stone: Trump Will ’Sweep’ Next State Races, ’Close to Impossible’ for Cruz to Stop Him
+21086,1,Kyle Shideler: Additional Investigation Needed into Saudi 9/11 Links from ’28 Pages’ - Breitbart
+21158,1,Erik Prince: Leaked ‘Pay-to-Play’ Clinton Emails Show ’Everything Is for Sale for the Democrats’
+21228,1,Pat Caddell: Election ’Headed Toward Armageddon’
+21248,1,John Bolton: James Comey Should Dare Obama to Fire Him
+21291,1,Brett Decker: ’Riot Inside the Convention Hall Would Be Bigger Than Outside on the Streets’ if GOP Steals Nomination from Donald Trump - Breitbart
+21316,1,Pat Caddell: Trump ‘Insurgent Candidate’ Against ’Failed’ System
+21325,1,John Bolton: ’Hillary’s Campaign Slogan Might as Well Be Vote for Hillary Clinton - Not Indicted, Yet!’
+21370,1,China Rattled Over ’Death Threat’ Letter to President Xi Jinping and Family - Breitbart
+21387,1,Economist: Trump Had to Correct ‘Extremely Biased’ Lester Holt on Weakest Recovery Since Great Depression - Breitbart
+21393,1,Frank Gaffney: Leaders like Merkel Still ‘Scratching Their Heads’ over Motivations of Jihadis
+21474,1,Cartoonist Brett Smith: ’Clinton Cash: A Graphic Novel’ Is ’One of the Most Subversive Things the Right Has Done’ with Pop Culture
+21475,1,Dr. Herb London: ‘Every Time We Have the Opportunity to Repudiate People Like Colin Kaepernick, We Should Do So’
+21494,1,Ed Klein: Obama Has a ‘Mole, a Manchurian Candidate’ in Tim Kaine
+21649,1,David Drucker: Trump Doesn’t Have Much Time
+21692,1,Sharyl Attkisson: Media Distorting Facts to Serve World Elites
+21694,1,Bolton: Hillary Can’t Face Benghazi Mother Pat Smith -- ’Tested in a Crisis Situation, Hillary’s Character Failed’
+21740,1,Caddell: Hillary ’Looks Kind of Hysterical … Making Wild Attacks’
+21746,1,MRC’s Gainor: Media Hail ’Drunken, Debauched’ Ted Kennedy as ’Lion of the Senate,’ While Demonizing Trump
+21768,1,Curt Schilling: It Felt Like ESPN’s Rule to Not Talk Politics ’Applied to Me and Me Alone’ - Breitbart
+21843,1,Ed Klein: Foot Massages and Wet T-Shirt Contests at Bill Clinton Presidential Library - Breitbart
+21931,1,Filmmaker Rick DeLano: ‘The Principle’ Tells the ‘Most Interesting Detective Story in History’ That Scientists Want Concealed - Breitbart
+21940,1,Pat Caddell on Hillary Clinton: ’She Keeps Going Back to the Same Lies, and She Gets Away with It’
+22023,1,David ‘Mudcat’ Saunders: Time for Democrats to ‘Help America Move Forward,’ Admit Trump Beat Clinton ‘Fair and Square’
+22052,1,Pat Caddell: Election ’More Rigged on a Cosmic Level Than a Precinct Level’
+22140,1,Exclusive -- Sarah Palin Defends Breitbart Against ’the Wrath of the Whiners’
+22150,1,Frank Gaffney: Rubio Was Seen As ’Establishment’s Darling’ With ’John McCain’s Attitudes’ On Foreign Policy - Breitbart
+22159,1,Caddell: Kellogg’s Doesn’t Support ’Free Enterprise,’ Only ’Crony Capitalism’ and ’Sucking Up’ to Elite Opinion
+22203,1,More Breitbart.com Site Records Fall: 200,000,000 Pageviews in Month 11.5M in Single Day - Breitbart
+22254,1,Caddell: Electing Clinton Will Institutionalize Corruption
+22255,1,John Bolton on Europe’s Migrant Crisis: ‘Only a Matter of Time Before Some of Those Terrorists Get to the United States’ - Breitbart
+22281,1,Rob Maness: Rick Perry Pick as Energy Secretary Is ‘About Jobs’
+22326,1,Caddell: Voters See DNC/CNN-Type Collusion as ‘Threat to Democracy’
+22354,1,Frank Gaffney: ’Most Searing Indictment of Hillary’ Is ’Her Consistent Support for, Alignment with, and Help to the Global Jihad’
+22539,1,Trevor Loudon: If Hillary Clinton Is Elected, ’There Will Never Be Another Republican President, Ever’
+22588,1,Bolton: Republican Candidates ‘Who Backed Away from Trump’ Lost
+22602,1,Donald Trump Warns: ’The Republicans Are Already Weakening’ on Appointing Obama’s Supreme Court Nominee - Breitbart
+22614,1,Schweizer: Clinton Has More Emails Mentioning Yoga Than Russian Nuke Deal
+22616,1,Andy McCarthy: Trump Playing GOP Voters For ‘Chumps,’ Because ‘He Is Exactly What We’ve Been Fighting All This Time’ - Breitbart
+22691,1,Caddell: Dems ‘Walked Right into the Trap’ Trump Baited with Clinton’s Email
+22738,1,Erik Prince: NYPD Ready to Make Arrests in Anthony Weiner Case
+22750,1,Nicholas Eberstadt: Media Ignore Crisis of ’Men Without Work’ Because They Are Not a ’Designated Victim Class’
+22757,1,Donald Trump: WSJ Poll ’A Fix,’ ’Rupert Murdoch Hit’ - Breitbart
+22805,1,Exclusive -- Trump’s Pitch to NeverTrump: It’s the Supreme Court
+22830,1,Dr. Herbert London: Brexit Part of Worldwide ‘Populist Uprisings’ Against Globalist Bureaucracies - Breitbart
+22861,1,Mark Levin: Nancy Reagan Was ’An Elegant, Classy Lady’ From ’An Era Gone’ - Breitbart
+22864,1,Pat Caddell: Romney’s ’47 Percent’ Gaffe Disqualifies Slam on Trump
+22892,1,Former NYPD Detective Bo Dietl Blasts Politically Correct Profiling
+22942,1,Ed Klein: Comey ‘Under Pressure to Redeem Himself’
+22989,1,A.J. Delgado: Cuba Must Release Political Prisoners, Support Free Speech to Bring President Trump to the Table
+23008,1,Anthony Sadler and Alek Skarlatos: Terrorist Train Attack Shows Gun-Free Zones Don’t Work
+23019,1,Pat Caddell: Poll Shows ’Great Opposition’ to Refugee Expansion ’Even Among Democrats and Hillary Voters’
+23099,1,Pete Hoekstra: Kasich Now Guaranteed a Say in Who Gets the GOP Nomination - Breitbart
+23107,1,Dr. Stephen Meyer: America’s ‘Special Relationship’ with UK at Stake in Brexit Vote Against ’Anti-American’ EU - Breitbart
+23121,1,Rep. Steve King: GOP Establishment Could Back Hillary if Trump or Cruz Wins Nomination
+23167,1,Caddell Post-Debate Analysis: Trump Won on ’Leadership, Honesty’
+23172,1,Pat Caddell: ‘This Election Will Change Amazingly’ if Trump Makes the Issue ‘Who Runs America?’
+23207,1,Eric Trump Dismisses Last-Minute Establishment Attacks: ’The Most Dangerous People Are The Ones Who Are Drowning’ - Breitbart
+23218,1,Pat Caddell: ’This Really Is Trump’s Election If He Wants To Win It’ - Breitbart
+23224,1,Pat Caddell: ‘Polling Is All Over the Place… Shock Potential Is Enormous’ - Breitbart
+23241,1,Frank Gaffney: Japan’s PM Abe May Convey ’Note of Regret’ During Pearl Harbor Visit
+23280,1,Pat Caddell: ’Desperate’ Media Now Claiming Ohio Isn’t a ‘Bellwether’ Because ’Trump’s Ahead’
+23417,1,Pat Caddell: Media Thinks Race Is Over, But ‘Nervous’ Clinton Campaign Knows ‘This Is a Change Election’ - Breitbart
+23459,1,Prof. John Banzhaf: Marilyn Mosby May Be Disbarred Like Nifong
+23517,1,Peter Schweizer: Trump Family Will Be Offered ’Sweetheart Deals’ by Foreign Governments, Needs Transparency
+23582,1,Caddell: ‘Fake News’ Issue Part of Media Outrage That the ‘Peasants’ Revolted
+23586,1,Chris Gaubatz: President Hillary Clinton Is ‘Exactly What the Muslim Brotherhood Would Want’
+23629,2,Whatever It Takes-Milo Yiannopoulos Joins Curt Schilling: ’Welcome to the Family’ - Breitbart
+23631,1,Roger Stone: Cruz Doesn’t Have ‘Temperament to Be President’ - Breitbart
+23740,1,Robert C. O’Brien: ‘Peak Political Correctness Prevents Us from Identifying Who Our Enemies Are’
+23748,1,Sheriff David Clarke: Hillary Clinton a ‘Morally Bankrupt,’ ’Pathological Liar’ -- ‘Her Ethical Elevator Has No Bottom Floor’
+23784,1,Dan Gainor: ABC’s ’Quantico’ Puts ’Make America Great Again’ ’in the Mouth of Terrorists’ to Impact Election - Breitbart
+23790,1,Exclusive — Sen. Jeff Sessions on WikiLeaks Revelation of Hillary Clinton’s Support for ‘Open Borders’: ‘It’s a Smoking Gun’ - Breitbart
+23877,1,Dr. Tawfik Hamid: Sharia Compliance Is a Death Sentence for Gays, ‘You Have to Throw Them from the Top of a Cliff or Burn Them Alive’ - Breitbart
+23878,1,Steve Bannon: Fathers and Grandfathers of ‘Deplorables’ Turned War Around After Pearl Harbor
+23919,1,Ben Carson Slams Clinton Plan to Move Syrian Refugees to Detroit: ’We Need to Take Care of Our Own People’ First - Breitbart
+23932,1,Nigel Farage: ‘Massive Thanks to Breitbart on Both Sides of the Pond’ for Brexit Coverage - Breitbart
+23944,1,John Bolton: Obama Administration Denying Jerusalem Is in Israel Was ‘Thumb in the Eye to Bibi Netanyahu’ - Breitbart
+23948,1,Jim Hanson: CIA’s ’Politicized Intelligence’ About Russia Hacking the Election Is ’Kind of a Joke’
+23975,1,Roger Stone: It’s Time America Got Some Answers About Huma Abedin - Breitbart
+24031,1,Pamela Geller: Prince Charles’ BBC Holiday Remarks ’Delusional’
+24038,1,Ann Coulter: Why Do We Have Debate Moderators at All? ’Why on Earth Should All These Hillary Voters Be Choosing the Questions?’ - Breitbart
+24065,1,Roger Stone: Clinton Aide Huma Abedin ’Most Likely a Saudi Spy’
+24090,1,Frank Gaffney: Washington "Willfully Blind" to Jihadist Threat
+24111,1,Frank Gaffney: We’ll Likely Find a ’Mosque Fomenting Jihad’ in OSU Attacker’s Background
+24123,1,Curt Schilling: ’Some of the Biggest Racists in Sports Commentating’ Work at ESPN - Breitbart
+24132,1,Mark McKinnon: GOP Establishment ‘Soaked the Place in Kerosene, All Donald Trump Did Was Light a Match’
+24147,1,Dr. Zuhdi Jasser: Fake Hate Crimes Against Muslims Are Actually Hurting Muslims
+24168,1,Robert Spencer: ‘Iran Is What ISIS Wants to Be When It Grows Up’
+24169,1,Charity Still Needs ’Few Thousand Wreaths’ to Cover All Headstones in Arlington National Cemetery
+24210,1,Prof. John Banzhaf: ‘Virtually All Constitutional Scholars Agree’ Muslim Immigration Ban Would Be Legal
+24305,1,John Bassett: ‘When You Walk Those Beaches of Normandy, You Know What This Country Stands For’
+24307,1,Paul Nehlen: Paul Ryan ’Sold His Vote! I Absolutely Believe That’ - Breitbart
+24364,1,Wash Post’s Robert Costa: Donald Trump ’Beginning to Turn a Corner’ to Delegate Accumulation - Breitbart
+24377,1,Caddell: Thankful Americans Re-established ’Their Sovereignty’ over ’Political Class and Their Media Outriders’
+24408,1,Stacey Dash: 2016 Election Will ’Get Very Ugly’
+24410,1,Stephen K. Bannon: ’Lawlessness’ of Comey/Clinton ‘Inextricably Linked’ to Dallas Shooting - ‘We Are Turning into a Lawless Society Driven by Anarchy’ - Breitbart
+24432,1,Al Regnery on Republicans’ Sentencing Reform Bill: ’Too Many Innocent People Will Get Hurt If This Bill Gets Passed’ - Breitbart
+24487,1,Steve Bannon Speaks to Breitbart Audience: ‘The Forgotten Men and Women Who Are the Backbone of This Country’ Have Risen Up
+24490,1,Challenger Paul Nehlen Calls Paul Ryan a ‘Soulless Globalist’
+24509,1,Brussels Attack Eyewitness Steven Wolfe: Ordinary People in Belgium Died Due to ’Arrogance’ of European Elites
+24582,1,Hillary Email: Use Late Night Shows to Help Shape Opinions - Breitbart
+24589,1,Trumpocrat David ‘Mudcat’ Saunders: Charges of Racism and White Nationalism Against Steve Bannon Are ‘Insane’
+24597,1,Tom Coburn: Rubio ’Trustworthy’ and Electable, Cruz Not ’Effective’ Working with Others, Trump a ’Carnival Barker’
+24665,1,Michael Savage: Hillary’s ‘Deplorables’ Are ‘the Backbone of America,’ But Bill Clinton ‘Gutted Their Jobs, Deported Their Factories to China for Profit’ - Breitbart
+24698,1,Andrea Lafferty: ’We’ve Had It’ with Target on Transgender Issue
+24780,1,Sandy Rios: 1.1 Million Families Join AFA’s Target Boycott, Stock Takes $2.5 Billion Hit - Breitbart
+24810,1,Caddell: Haley Pick a ’Good Sign’ Trump Is ’Willing to Overlook Her Opposition to Him’
+24843,1,Peter Schweizer: Trump Children Getting Security Clearance Could Pose Conflicts of Interest with Business Dealings
+24876,1,Kirsten Evans: Christians Must ’Raise Their Voices’ Against Genocide In Middle East - Breitbart
+24903,1,Donald Trump on ’Yuge Tent’: Bringing Positive Message and ’Incredible Energy’ to Blue States like MI and NH
+24955,1,Kim Jensen: Obama’s Legacy Is the Islamic State Caliphate - ‘A Harbinger Event That Changed the Landscape of Terrorism for the Entire World’ - Breitbart
+25044,1,Michelle Malkin on Tillerson Pick: ‘Massive Improvement’ from Mitt Romney or Hillary Clinton
+25065,1,Sarah Palin: ‘Grateful to See the Church Step Up’ for Donald Trump Because ‘Eight Years Ago, I Felt They Didn’t’
+25078,1,CO State Sen. Ted Harvey: Trump ‘Hitting Hillary Every Time She Opens Her Mouth’ - Breitbart
+25142,1,Caddell: Democrats ’a Hollowed-Out Party’ of ’Bi-Coastal Elites,’ Unable ’to Reach Out Beyond Identity Politics’
+25280,1,Corey Lewandowski: Establishment Trying to Stop Trump Because if He Becomes President ‘Days of Backroom Deals Are Over’
+25296,1,J. Christian Adams: Protecting Clinton Is Latest DOJ Scandal
+25326,1,Caddell: Polls Suggest Trump Losing Votes to ‘Undecided or Down Ballot,’ Not Hillary
+25339,1,Stephen K. Bannon to Obama: Why Don’t You Go to Pearl Harbor and Apologize to the Dead Still Buried There? - Breitbart
+25342,2,McHugh: Catholic Church ’Prostrating Themselves Before a Religion That’s Been At War With Them for 1400 Years’ - Breitbart
+25387,1,Stephen Miller: Kasich Pro-Amnesty Position Even More ‘Radical’ Than Hillary’s
+25424,1,Peter Schweizer: More Emails to Come Showing Hillary Clinton’s ’State Dept. Doing Favors for Foreign Oligarchs’
+25438,1,Caddell: Political Elites Will Tell Us Terrorism Is ‘New Normal’
+25458,1,Curt Schilling: ’Disgusting’ How America Treats Its Veterans, ’They Need to Gut’ the VA - Breitbart
+25559,1,Donald Trump on Hillary Clinton: ’I Think We’ll Whip Out’ Clinton Cash, ’Very Pertinent’ - Breitbart
+25671,1,Raheem Kassam: Steve Bannon Is ‘the Man Who Flew to London to Hire This Brown Guy from a Muslim Family’ - Breitbart
+25734,1,Pat Caddell: ’The American People Have Figured Out They’ve Been Screwed’ By Free Trade - Breitbart
+25745,1,Rep. Darrell Issa: I Would Subpoena Hillary Clinton for Lying Under Oath to Congress
+25753,1,Jim Hanson: Turkey Wedding Suicide Bomber Shows How ISIS Exploits the Vulnerable to Carry Out Terror Attacks - Breitbart
+25806,1,Prof. John Banzhaf: Donald Trump’s Muslim Immigration Freeze ’Certainly Not Unconstitutional’
+25816,1,Dr. Sebastian Gorka on Trump’s Cabinet: ‘After Eight Years of Pajama Boys, It’s Time for the Alpha Males’
+25833,1,Morgan Wright: Hackers Have Emails from Hillary Clinton’s Server
+25841,1,Paul Nehlen: Paul Ryan ‘Abandoned’ His District, ’Failed’ as Speaker - Breitbart
+25947,1,Duck Dynasty’s Phil Robertson: Media Controlled by ’Satan’
+25994,1,Brunell Donald-Kyei: If Journalists Only Told One Side of the Story During Slavery, ‘Black People Would Still Be Slaves’
+26057,1,Political Historian Joshua Kendall: Most Presidents’ Children Grew Up Unhappy, Unsuccessful
+26105,1,Dr. Sebastian Gorka: OSU Attacker a Disciple of Anwar Al-Awlaki, Who Is More Dangerous Today Than Bin Laden
+26114,1,Joshua Green: ‘$62 Million in Ads Run Against Trump, Zero in Attack Ads Run Against Clinton’ in Primaries - Breitbart
+26138,1,Frank Gaffney: Khizr Khan ‘Lying for the Faith’
+26244,1,Peter Schweizer: Media Went from ‘Defending the Clinton Foundation’ to ‘Pretending It Wasn’t There’ to ‘Saying Shut It Down’
+26246,1,Rep. Ryan Zinke: Obama-Clinton Foreign Policy Gave Us ‘Rising Persia, At the Expense of Our Allies’ - Breitbart
+26329,1,Paul Nehlen: Speaker Ryan Has A Border Related ’Drug Problem’ - Breitbart
+26372,1,Sonnie Johnson on Blacks for Donald Trump: ‘We Want Greatness We Do Not Want Free Sh*t’ - Breitbart
+26412,1,John Bolton: Bill Allowing 9/11 Families to Sue Saudi Arabia Is a ‘Cruel Hoax’
+26440,1,Pat Caddell: ’Hillary Clinton Is in Real Trouble,’ She Has ’No Message’ - Breitbart
+26471,1,Ann Coulter: ‘In Trump We Trust’ Celebrates ‘Rebellion of the People Against All of Washington’
+26487,1,Dr. Ben Carson: ’If Christianity Disappeared’ Many in the Mainstream Media ’Would Be Just Fine With That’ - Breitbart
+26494,1,Gorka on Clinton’s Health: Strong Candidates Needed Because Every President ’Ages About 25 Years’ in Office
+26508,1,’Path to 9/11’ Director Cyrus Nowrasteh to Premiere ’The Young Messiah’ at CPAC - Breitbart
+26515,1,Peter Schweizer: Clintons Showed Corrupt Politicians How to ’Systematically Sell Out Country for Personal Profit’ - Breitbart
+26617,1,John Bolton: Hostile Foreign Governments Will Use Obama’s Internet Surrender to Their Advantage - Breitbart
+26648,1,Armstrong Williams: Carson a Team Player Who Can Build Alliances to Succeed at HUD
+26655,1,Frank Gaffney: Saudis Waging ’Economic Warfare’ Against U.S., Attack on Fracking Industry Was a ’Hostile Action’ - Breitbart
+26687,1,John Sununu on Cruz: ’It Stings Anytime You Fail to Win Any Delegates in a State as Big as New York’ - Breitbart
+26695,1,Nehlen: Ryan Standing on Platform He Spent Millions to Tear Down
+26707,1,Hillary Clinton Memo: Ellen Willing To Use Her Show To ‘Promote’ Hillary’s ‘Agenda’ - Breitbart
+26798,1,John Bolton: ’I Don’t Want to See Anybody Else Get Nuclear Weapons’ - Even Our Allies - Breitbart
+26812,1,Donald Trump: Apple ’100 Percent Wrong,’ Should Aid FBI’s Investigation - Breitbart
+26837,1,Andy McCarthy on Conservative, Libertarian Backers of Sentencing Reform: ‘They’re Open to Almost Anything That Cuts Out the Federal Role in Law Enforcement’ - Breitbart
+26860,1,Trump Adviser A.J. Delgado: Cuba Must Release Political Prisoners, Support Free Speech
+26889,1,Media Ignore Sanders’ Deep Ties to Racial Power-Brokers Al Sharpton, Jesse Jackson - Breitbart
+26896,1,Kellyanne Conway: ’As the Establishment Goes to Cruz, Remember Cruz Did Not Go to the Establishment’ - Breitbart
+26935,1,Trump Adviser Peter Navarro: ’Bad Trade Deal Hillary’ Is a ’Pathological Liar like Her Husband’
+27047,1,Frank Gaffney: ‘Turkish Islamic Supremacist Cult’ Is Operating Texas Charter Schools with Taxpayer Subsidies
+27075,1,Charity Needs Help to Decorate Headstones of Fallen Heroes with Wreaths
+27131,1,Democrat Tom Coyne: Trump Challenging ’Institutional Elites’ in Both Parties
+27162,1,Andy McCarthy: Sentencing Reform Bill Slipping Through Congress Without Hearings ’Worst Combination of Bad Elements Coming Together’ - Breitbart
+27195,1,Pat Caddell: When Trump Finds Out Kasich Voted for NAFTA, Kasich Will Lose Ohio - Breitbart
+27197,1,Boykin on Values Voter Summit: Many More Will ’Become Comfortable with Trump-Pence Ticket’
+27212,1,Sharyl Attkisson: Brexit Support Was ’Largely Censored from the Mainstream Media’
+27223,1,Paul Nehlen Blasts Speaker Ryan as Obama’s ’Primary Enabler in Congress’
+27236,1,Christian Rickers: Democrats Have ‘No Vision for the Future’ They’re ‘Still Looking in the Rear View Mirror’
+27247,1,Adrienne Ross on Aunt Alma 2016: ‘Make America Laugh Again’
+27326,1,Shireen Qudosi: ‘To Say That Islam Is Just Peace Is a Complete Farce’
+27394,1,Hogan Gidley: Rule GOP Establishment Wrote to Block Ron Paul Now Prevents Them from Blocking Trump
+27423,1,Charlie Spiering on ’Whatever It Takes’: Trump Meeting Obama More Substance than Style - Breitbart
+27461,1,Professor John McAdams: ’Of Course I’m Not Going to Apologize’ for Defending a Student’s Freedom of Speech - Breitbart
+27491,1,John Bolton: Obama Administration’s ‘Politicized Intelligence’ Does ‘Grave Harm’ to Public Confidence in Intel Community
+27498,1,Rebecca Mansour: Devout Catholics ’Inevitably Led Toward Being Like Mother Teresa,’ Devout Muslims Led To Jihad - Breitbart
+27506,1,Pat Caddell: ’Nobody Knows What We’re Polling’
+27548,1,Maria Bartiromo Defends Roger Ailes: ’I’ve Known Him to Be Nothing but a Professional’ - Breitbart
+27550,1,Bolton and Gorka Slam ‘Neocons For Hillary’ - Breitbart
+27599,1,Peter Schweizer: Clinton Foundation ’Shell of Its Former Self’ in Two Years
+27680,1,Former Al Gore Staffer Larry Haas: European Leadership Plagued by ’Multiculturalism,’ ’Reluctance to Make Judgments About Western Values’
+27726,1,Joe Borelli: ’Convention Apocalypse’ Hit DNC, Not RNC
+27749,1,Pat Caddell: if Clinton Is Elected, Her Pay-for-Play Operation Will ‘Make the Clinton Foundation Look Like Kid’s Play’ - Breitbart
+27761,1,Kate Andersen Brower: Michelle Obama ’Finds It Hard to Forgive’ Hillary Clinton for 2008 Campaign Comments - Breitbart
+27824,1,Roger Stone: With Just Weeks Before Early Voting Begins, ‘Trump Is Still in Range, This Is Still a Viable Candidate’ - Breitbart
+27866,1,Schweizer: Obama’s DOJ ‘Transferring Money to Left-wing Groups’ ‘to Influence This Election’ - Breitbart
+27918,1,Breitbart News Daily: Donald Trump, Candy Carson, Rafael Cruz - Breitbart
+27952,1,Michelle Malkin: ‘Lazy Lemmings’ of Establishment Media Can’t Keep Up with Breitbart News and Conservative Review
+27968,1,Stephen Miller: Cruz ’Double Agent Delegates’ Disenfranchise Voters - Breitbart
+27971,1,John Fund: ‘FBI Investigation Goes on into the Clinton Foundation, Rather Than the Emails’
+27988,1,Tom Tancredo: Oath to Defend America Made Optional Because It Could Reduce Muslim Immigration
+27993,1,Councilman Joe Borelli: A Donald Trump Victory in New York Will Make Him ’the Presumptive Nominee’ - Breitbart
+28017,1,Caddell: Media Have ‘Selective Memory’ When It Comes to Democrats Accepting Election Results
+28027,1,Jack Abramoff: If Hillary Clinton Is Elected, She Will Have ‘Gotten Away with Selling Our Government for Hundreds of Millions of Dollars’
+28170,1,Sarah Palin: Trump Movement Began with the GOP Establishment’s ‘Shocking Betrayals’ of Tea Party Voters
+28181,1,Ed Martin on Phyllis Schlafly’s Final Book: ‘Conservatives Have to Understand Why Trump Is the Pick’
+28224,1,Peter Morici: Trump Trade Policies Will End Years of Politicians Selling Out American Workers
+28317,1,Schweizer: Clinton Foundation Gives Only Six Percent to Charity
+28331,1,Sam Clovis: ‘Weak-Kneed, Lily-Livered Republicans’ Put on ‘Despicable Display of Cowardice’ by Abandoning Trump
+28368,1,Patricia Smith: Hillary Clinton ‘Treats Me Like Dirt’ Because ‘I’m a Nobody’ -- ‘Why Doesn’t She Just Tell Me the Truth?’
+28459,1,Rep. Steve King: If Trump or Cruz Isn’t Nominated ’Could Be the End of the Republican Party’ - Breitbart
+28463,1,Blackwater Founder Erik Prince: Jihadists ’at War with Us We Are Clearly Not at War with Them’
+28508,1,Jim Hanson: Enforce a ’Sharia Exclusion Ban for Entry into the United States’ - Breitbart
+28543,1,Craig Shirley: ’Cleveland Is Going To Be A City Under Siege’ During GOP Convention - Breitbart
+28555,1,Armstrong Williams: Brussels Attack Was a ’Declaration of War’ Against Europe and America - Breitbart
+28652,1,Caddell: 10 to 12 Percent of Voters in Play Most Favor Trump
+28699,1,Dr. Sebastian Gorka: After January 20, America Must ’Jettison Political Correctness’ to ’Inoculate Ourselves’ Against Jihad
+28791,1,Jan Brewer: Military Families Highlight Our Need for ‘High, Consistent, and Comparable Education Standards’ - Breitbart
+28810,1,Doctors Weigh In on Hillary’s Health
+28820,1,Exclusive: Donald Trump: ‘I Am the Messenger’
+28832,1,Pat Caddell: Hillary Clinton Tries to Brand Everyone an Extremist
+28899,1,Comic Book Writer Chuck Dixon: ’Clinton Cash: A Graphic Novel’ Details Clintons’ ’Shocking Repeated Pattern of Outrages’
+28901,1,Kristin Tate: Donald Trump Should Pick A Woman for Vice President, Not ’Another Old White Man’ - Breitbart
+29031,1,Pamela Geller: Stopping Sharia ‘Doesn’t End with Drawing Mohammed, It Begins There’ - Breitbart
+29050,1,Frank Gaffney: Charles Koch’s Isolationism Like ’A Lot Of American Businessmen’ ’Towards Nazi Germany Before World War II’ - Breitbart
+29062,1,Dr. Alan Mendoza: Brussels Bombing Shows European Multiculturalism ’Simply Has Not Worked’ - Breitbart
+29065,1,Stephen Miller: Kasich Pro-Obamatrade Agenda ‘Death Warrant for Ohio Manufacturing’ - Breitbart
+29131,1,Curt Schilling Backs Trump with a Caveat: ’I Need Him to Start Acting Like a Leader’ - Breitbart
+29140,1,John Bolton: Russia Probably Already Has Hillary Clinton’s Emails
+29147,1,Independent Newspaper Goes ’Online Only’ After Nailing Its Colours To The Mast of The ’Islamophobia’ Industry
+29202,1,Exclusive -- Donald Trump: Rigged Election Includes Media Bias, Clinton Cheating, and ‘Fact That She’s Even Allowed to Run’
+29214,1,Roger Stone Predicts GOP Will Create ’New, Noxious’ Rules at Convention to Steal Nomination from Donald Trump - Breitbart
+29242,2,Pat Caddell on ’Whatever It Takes’: Trump Wins Because ’The People Want Their Country Back’ - Breitbart
+29308,1,Schilling Predicts Trump Win, Says ’Change’ Is Driving Election
+29349,1,Penny Nance: ’The Real War on Women Is Happening Around the World by Islamic Fascists’ - Breitbart
+29378,1,John Bolton: Putin Would Rather Face ‘Weak and Indecisive’ Clinton Than ‘Strong Figure’ like Trump
+29401,1,Pat Caddell: Democrat Voters Worried About Clinton’s Health
+29427,1,Todd Buchholz: ‘Crisis in the American Spirit’ Can Be Overcome with ‘Grit, Mobility, and Confidence’ - Breitbart
+29440,1,Rep. Dave Brat: If We Followed Regular Order, Like Paul Ryan Promised, ‘There Would Be No Government Shutdown We’d Already Have a Budget’
+29496,1,Peter Schweizer: Trump Dissolves Foundation and Shows Leadership, Unlike Clintons Fighting ‘Tooth and Nail’ to Keep Their Cash Flow
+29514,1,Pat Caddell: Establishment Can’t Stop Trump’s Populist Candidacy Because They Can’t Recognize Legitimate Concerns Motivating His Voters - Breitbart
+29528,1,Charles Hurt: Sanders Voters Are ’Totally Ignorant’ Kids Who Just ’Want Free Crap’ - Breitbart
+29537,1,Darrell Issa: Trump’s ’Drain the Swamp’ Mandate Biggest ’Since Teddy Roosevelt’
+29602,1,Jeffrey Lord Calls for ’Trump-Cruz Alliance’: ’Ted Cruz Should Be Trump’s Vice-President’ - Breitbart
+29669,1,Robert Walker: Cruz Joined Forces with Kasich Because ’He Recognizes Now That the Whole Battle Is At the Convention’ - Breitbart
+29702,1,Leslie Rutledge: Hillary Clinton ‘Would Lie Even When the Truth Would Serve Her Better’
+29740,1,Caddell: 2/3 Think Hillary Clinton ’Not Telling The Truth’
+29749,1,Pat Caddell: Hillary Clinton ‘Attacked the American People, She Didn’t Attack David Duke’
+29756,1,Senate Candidate Rob Maness: Trump Critics Like Bill Kristol ’Old School,’ ’Need to Stop Whining and Get on Board’ - Breitbart
+29822,1,Cruz Super PAC Chair Kellyanne Conway: ‘Cruz Wants Trump All to Himself’ to Debate ‘Whose Brand of Conservative Populism’ Can Win - Breitbart
+29830,1,Tony Nash: China Understands Trump’s Nationalist Rhetoric - Breitbart
+29844,1,Wash Post’s Robert Costa: ’Party Elite’ Could Turn to Paul Ryan ’in a Chaos Situation in Cleveland’ - Breitbart
+29851,1,Frank Gaffney: Brexit Vote Is ’Freedom’s Last Chance in Europe’ - Breitbart
+29860,1,Larry Kudlow: ’JFK Would Be a Republican Today’
+29866,1,Armstrong Williams: Failure to Stop Muslim Terror Attacks Shows ‘European Union Experiment Is Not Working’ - Breitbart
+29879,1,Apologize For What? Curt Schilling Stands Strong Against Left on Transgender Bathroom Comments - Breitbart
+29948,1,Clinton Surrogate Guy L. Smith: New York Times Is ’Right-Wing’
+29950,1,Frank Gaffney on Obama’s Attempt to Slip Irreversible Internet Surrender Under the Radar: ’We’ve Got Three Days to Fix This’
+29979,1,Trump’s Populist/Nationalist Revolt Began with ‘The Greatest Generation’ - Breitbart
+30089,1,Secret Service Officer Gary J. Byrne: ‘The Hillary Clinton I Know Is a Complete Pathological Liar’
+30251,1,David Webb to Moderate ‘Security in Today’s World’ Panel - Breitbart
+30367,1,John Bolton: U.N. Set to Elect Another ‘Secular Pope’ Hillary Clinton Will ‘Play Right into His Hands’
+30370,1,Larry Kudlow: ‘Britain Will Never Rule Britain Again’ If It Stays In the European Union - Breitbart
+30499,1,Penny Nance: Stopping Merrick Garland Will Be a ‘Cage Match,’ ‘Most Important Battle of Our Lives’ - Breitbart
+30519,1,Donald Trump: ‘There’s No Question’ Hillary Clinton ‘Took Money’ and ‘Did Favors for It’ - Breitbart
+30559,1,Omarosa on African Americans for Trump: ‘If You Want Something You’ve Never Had, You’ve Got to Do Something You’ve Never Done’
+30570,1,Mendoza: ’The Need for Reform at the UN Is Paramount’
+30573,1,John Bolton: ‘I Have This Sick Feeling in My Stomach Obama’s Gonna Go and Apologize’ For Hiroshima - Breitbart
+30576,1,Peter Schweizer: Clinton Foundation Probe Must Continue — You Can’t Say ’She Gets a Free Pass Because She Lost’
+30599,1,Kellyanne Conway: ‘Millennial Women Have Rejected Hillary Clinton in Her Own Party’ - Breitbart
+30681,1,Bolton on WikiLeaks Revelations: Hillary Clinton Thinks the World Must ’Get Ready for Open Borders’
+30709,1,Rep. Marsha Blackburn Says Trump Is Right: ‘Time Out’ on Immigration from ‘Countries with Terrorist Ties’
+30732,1,Dr. Sebastian Gorka: ’World Is on Fire’ with Attacks from Middle East to U.S.
+30737,1,Pat Caddell: Trump Must ’Raise the Stakes’ for Voters to ’Take Back Control of Their Country’
+30744,1,Rafael Cruz: Base Will Revolt if GOP Beats Trump in Any Scenario Aside from Ted Winning One-On-One
+30833,1,Stephen Miller: Trump ’Won on the Issues’ the Republican ’Donor Class Has Lost’ - Breitbart
+30880,1,Sen. Rand Paul: I Can Hardly Watch CNN Anymore Because It’s So Biased
+30931,1,Erik Prince: Clinton ‘Playing Fast and Loose with National Security Very Likely Caused’ Iranian Nuclear Scientist’s Death
+30973,1,Trumpocrats PAC: Media Ignoring Hundreds of Thousands of Democrats Recruited for Trump
+30980,1,Bolton: Geert Wilders Conviction About People ‘Trying to Suppress Speech’
+30998,1,ACU Chairman: Republican Pundits Will Fight Trump All the Way to Convention
+31077,1,Tea Party Leader Bill Hennessy: ’You Can’t Be Never Trump and Never Hillary’
+31088,1,John Bolton: Normal People Don’t Become ’Lone Wolf’ Terrorists Overnight by ’Spontaneous Combustion’
+31123,1,Caddell: Recount Aimed at Delegitimizing Trump ‘War’ Against Elites ‘Didn’t End on Election Day’
+31187,1,Caddell: Post-Election Media ’Appalling,’ and ’Not Doing Anything to Heal the Country’
+31191,1,Former Secret Service Agent Dan Bongino on Hillary Clinton’s Faint: ‘I’ve Never Seen a Protectee Go Down Like That, Ever’
+31230,1,Ann Coulter: Comparisons to Phyllis Schlafly Are ‘Like Being Compared to Winston Churchill’ - Breitbart
+31277,1,David Bossie: Cruz Campaign ’in a Fetal Position Last Night,’ No ‘Path Forward’ without Indiana - Breitbart
+31280,1,Frank Gaffney: Hillary Clinton’s ’Sympathy for the Muslim Brotherhood’ a ’Disqualifier’ for the Presidency
+31361,1,Donald Trump: Hillary Clinton ’So Flawed,’ ’Doesn’t Have Strength’ - Breitbart
+31408,1,Virginia Radio Host Endorses Trump for President - Breitbart
+31463,1,Peter Schweizer: Uranium Deal Was ‘Win-Win-Win’ for Clintons, Canadian Financiers, Vladimir Putin ‘Losers Are the American People’ - Breitbart
+31491,1,Curt Schilling: Media Celebrating Colin Kaepernick Vilified Tim Tebow for ’Lowering His Head in Prayer to God’ - Breitbart
+31515,1,Bo Dietl: Obama Has ’Divided’ the U.S.
+31551,1,John Bolton on Hiroshima: Harry Truman’s Morals ‘Apparently Didn’t Quite Make it Up to Barack Obama’s High Standards’
+31700,1,Winter storm will bring snow to South
+31731,1,South hunkers down for winter storm
+32306,1,A Reality Check of Trump’s first week in office
+32437,1,The Bishop Eddie Long I knew
+32560,1,The anti-Trump protest movement digs in -- but can it win?
+33120,1,All hell broke loose at student protest -- and that’s not OK
+33859,1,Egyptians unite against ISIS after church bombings
+33890,1,Japan’s 700-year-old ’oke’ craft gets a modern makeover
+33969,1,Braves begin new chapter at SunTrust Park
+38061,1,Hoboken train crash: 1 dead, more than 100 injured
+38089,1,Hoboken train crash: Event recorder recovered
+40014,1,On patrol with Skid Row’s ’angel cop’
+41695,1,In Nepal: A 10-year-old’s scary future after earthquake
+42098,1,Mary’s Meals feeds 1 million kids each school day
+42860,2,Billionaire’s Beach just got a lot less exclusive
+45560,1,The East Coast is digging out from an epic blizzard — here’s what you need to know about getting around
+46406,1,This is why public transportation in the US is crumbling
+47283,1,Why Detroit has one of America’s worst public transportation systems
+47368,1,New York’s governor keeps pushing ahead with one of the worst transit ideas in America
+47756,1,A change coming to your iPhone will help you sleep better
+48263,1,The Bank of Japan is worried about a stock market crash

@@ -1,0 +1,519 @@
+103,1,‘James Bond of Philanthropy’ Gives Away the Last of His Fortune - The New York Times
+124,1,He Helped Topple a Dictator. In New York, He’s Another Face in the Crowd. - The New York Times
+263,1,Snow Acts as a Magical Balm in an Anxious Turkey - The New York Times
+345,1,British Firms Await Brexit Plans, Poised to Relocate - The New York Times
+358,1,As Inauguration Nears, Trump Keeps World Leaders on Edge - The New York Times
+446,1,For Trump’s Nominees, a Billionaires’ Guide to Running the Government - The New York Times
+534,1,Quandary in South Sudan: Should It Lose Its Hard-Won Independence? - The New York Times
+574,1,Geography Made America Great. Has Globalization Undone Its Influence? - The New York Times
+614,4,British Alignment With Trump Threatens European Order - The New York Times
+623,1,Skepticism and Support in South Korea as Ban Ki-moon Weighs Presidential Bid - The New York Times
+740,1,Postcard From My Past: Crossing Into Syria - The New York Times
+772,1,Rex Tillerson Is Confirmed as Secretary of State Amid Record Opposition - The New York Times
+801,1,For Europe, There’s a New Threat in Town: The U.S. - The New York Times
+933,1,Split by ‘Brexit,’ May and Merkel Diverge on Wider Issues, Too - The New York Times
+981,5,Joyous Africans Take to the Rails, With China’s Help - The New York Times
+1058,1,African Nations Increasingly Silence Internet to Stem Protests - The New York Times
+1104,1,Angela Merkel, Squeezed by Far Right, Now Faces a Rising Left - The New York Times
+1127,1,Corruption Scandals With Brazilian Roots Cascade Across Latin America - The New York Times
+1145,1,South Africa, a Nation With Sharp Inequality, Considers a Minimum Wage - The New York Times
+1168,1,Samsung, Kim Jong-un, Rex Tillerson: Your Morning Briefing - The New York Times
+1169,1,Trump’s News Conference, Russia, Facebook: Your Evening Briefing - The New York Times
+1181,1,Disappearing Seagrass Protects Against Pathogens, Even Climate Change, Scientists Find - The New York Times
+1216,1,Trump Aides Try to Reassure Europe, but Many Are Wary - The New York Times
+1251,1,Ecuador Votes as Latin America’s Left Sags, a Generation of Icons Gone - The New York Times
+1306,1,I Ignored Trump News for a Week. Here’s What I Learned. - The New York Times
+1506,1,How Uber Deceives the Authorities Worldwide - The New York Times
+1520,1,First Seen 30 Years Ago, a Supernova Refuses to Be Ignored - The New York Times
+1554,1,How Liberian Women Delivered Africa’s First Female President - The New York Times
+1608,1,Global Migration Meets Magic in Mohsin Hamid’s Timely Novel - The New York Times
+1740,1,Turkey’s Relations With Europe Sink Amid Quarrel With Netherlands - The New York Times
+1773,1,Geert Wilders, Donald Trump, Scotland: Your Wednesday Briefing - The New York Times
+1806,3,Dutch Vote Watched Across Europe With a Finger in the Wind - The New York Times
+1826,1,Republicans, Wilders, Tillerson: Your Thursday Evening Briefing - The New York Times
+1831,1,Trump May Have Pushed Dutch Voters Away From Populism - The New York Times
+1882,1,Using Special Forces Against Terrorism, Trump Seeks to Avoid Big Ground Wars - The New York Times
+1888,2,Martin Schulz, Merkel Rival, Wins His Party’s Nomination With 100 Percent of Vote - The New York Times
+1919,2,David Rockefeller, Philanthropist and Head of Chase Manhattan, Dies at 101 - The New York Times
+1993,2,London Attack Echoes, Faintly, in a Europe Anxious but Inured - The New York Times
+2139,1,U.K. Initiates ‘Brexit’ and Wades Into a Thorny Thicket - The New York Times
+2140,1,Pillars of the West Shaken by ‘Brexit,’ but They’re Not Crumbling Yet - The New York Times
+2183,2,Beginning ‘Brexit’ and Bracing for Impact - The New York Times
+2249,1,Ancestral Climates May Have Shaped Your Nose - The New York Times
+2290,1,Syria, Hungary, Marine Le Pen: Your Wednesday Briefing - The New York Times
+2396,1,How Much Silence Is Too Much? I Found Out - The New York Times
+2453,2,2017 Pulitzer Prize Winners - The New York Times
+2467,1,Fewer Tomatoes in Ketchup? East Europeans Pursue Parity at the Grocery - The New York Times
+2729,1,Manchester United Match Canceled After Fake Bomb Is Found - The New York Times
+2778,1,Turkish Parliament Approves Stripping Lawmakers of Their Immunity - The New York Times
+2810,2,Three Days, 700 Deaths on Mediterranean as Migrant Crisis Flares - The New York Times
+2844,2,How Will ‘Brexit’ Vote Go? Monty Python May Offer Clue - The New York Times
+2926,1,Iceland Carbon Dioxide Storage Project Locks Away Gas, and Fast - The New York Times
+2963,1,Weasels Are Built for the Hunt - The New York Times
+3009,3,Regardless of ‘Brexit’ Vote, Experts Say, E.U. Must Rethink Status Quo - The New York Times
+3029,1,A British Divorce From Europe? Henry VIII Blazed the Trail - The New York Times
+3074,1,European Union, Donald Trump, Bernie Sanders: Your Friday Evening Briefing - The New York Times
+3090,1,Fractures From ‘Brexit’ Vote Spread Into Opposition Labour Party - The New York Times
+3112,1,Your Monday Evening Briefing: Brexit, Abortion, ‘Game of Thrones’ - The New York Times
+3132,1,Having Won, Boris Johnson and ‘Brexit’ Leaders Fumble - The New York Times
+3158,1,Austria’s Far Right Presents the E.U. With a New Test at the Polls - The New York Times
+3167,2,‘Brexit’ Bats Aside Younger Generation’s European Identity - The New York Times
+3211,1,Hillary Clinton, Donald Trump, NATO: Your Thursday Evening Briefing - The New York Times
+3239,1,If a Carrot for Jordan Works, Syrian Refugees Will Stay Put - The New York Times
+3288,1,Singer at All-Star Game Adds ‘All Lives Matter’ to Canadian Anthem - The New York Times
+3333,2,In Istanbul, Optimism Fades to a Familiar Melancholy - The New York Times
+3501,1,Election Shows Many South Africans Losing Faith in ‘Pompous’ A.N.C. - The New York Times
+3554,1,Simone Biles Soars, Lifting Another Country With Her - The New York Times
+3583,2,Aid and Attention Dwindling, Migrant Crisis Intensifies in Greece - The New York Times
+3602,1,Upset by Brexit, Some British Jews Look to Germany - The New York Times
+3669,2,From Montreal to Minnesota, by Inland Sea - The New York Times
+3929,1,North Korea Will Have the Skills to Make a Nuclear Warhead by 2020, Experts Say - The New York Times
+3996,1,Ralph Lauren Stops Traffic - The New York Times
+4085,1,David Adjaye on Designing a Museum That Speaks a Different Language - The New York Times
+4188,1,‘Brexit’ Talks Will Start by End of March, Theresa May Says - The New York Times
+4450,1,When Gluttony Dons Racing Shoes - The New York Times
+4495,1,Donald Trump’s Victory Promises to Upend the International Order - The New York Times
+4525,1,Robert Vaughn, Who Starred as Napoleon Solo in ‘Man From U.N.C.L.E.,’ Dies at 83 - The New York Times
+4596,1,Obama, With Angela Merkel in Berlin, Assails Spread of Fake News - The New York Times
+4611,1,How Rudolph Giuliani, Possible Cabinet Pick, Made Millions as Ex-Mayor - The New York Times
+4712,1,100 Notable Books of 2016 - The New York Times
+4759,2,The End of the Anglo-American Order - The New York Times
+4788,1,President François Hollande of France Won’t Seek Re-election - The New York Times
+4819,1,Protesters Gain Victory in Fight Over Dakota Access Oil Pipeline - The New York Times
+4821,1,Austria Rejects Far-Right Presidential Candidate Norbert Hofer - The New York Times
+4893,1,Tied to Europe, Britain’s Car Industry Is Vulnerable After ‘Brexit’ - The New York Times
+4951,1,Under Rex Tillerson, Exxon Mobil Forged Its Own Path Abroad - The New York Times
+4963,1,Christians in U.S. Are Less Educated Than Religious Minorities, Report Says - The New York Times
+4967,1,Seeing Africa by Road - The New York Times
+5019,1,As President Joseph Kabila Digs In, Tensions Rise in Congo - The New York Times
+5026,1,Aleppo, Vladimir Putin, Donald Trump: Your Weekend Briefing - The New York Times
+5041,2,Christmas Markets Are Beloved Tradition, but a Challenge to Protect - The New York Times
+5094,1,Hunt for Berlin Suspect Ends in Gunfire on an Italian Plaza - The New York Times
+5097,1,Flurry of Settlements Over Toxic Mortgages May Save Banks Billions - The New York Times
+5108,1,Grappling With My Family’s Identity in a Post-‘Brexit’ Europe - The New York Times
+5129,1,Weakened Militarily, ISIS Still Has Power to Sow Deadly Mayhem - The New York Times
+5268,1,Ruined Serbian Orthodox Church Was a Landmark of Old New York - The New York Times
+5298,1,Everything Is Different on an Island - The New York Times
+5415,1,Pat Cleveland: Early Supermodel and Author With Many Tales - The New York Times
+5431,2,E.U. Countries Warn Britain on ‘Brexit’: You’ll Pay if You Leave Us - The New York Times
+5437,1,Realizing It’s a Small, Terrifying World After All - The New York Times
+5453,2,‘Leave’ Takes the Lead as Britain Awaits Outcome of E.U. Referendum - The New York Times
+5457,1,Nicholas Clinch, Who Took On Unclimbed Mountains, Dies at 85 - The New York Times
+5465,1,With ‘Brexit,’ Washington’s Direct Line to the Continent Suddenly Frays - The New York Times
+5466,1,Overwhelmed by ‘Brexit’? Here Are the Basics - The New York Times
+5479,1,At Cannes, the Ad Industry Confronts the Rise of Facebook - The New York Times
+5516,1,Wigan’s Road to ‘Brexit’: Anger, Loss and Class Resentments - The New York Times
+5554,1,Theresa May Is Poised to Be Britain’s Next Prime Minister - The New York Times
+5584,1,E.U. and U.S. Urge Erdogan to Show Restraint After Coup Attempt in Turkey - The New York Times
+5600,1,Donald Trump’s Remarks Rattle NATO Allies and Stoke Debate on Cost Sharing - The New York Times
+5708,1,Polio Response in Africa to Be Fast, Difficult and Possibly Dangerous - The New York Times
+5709,1,Germany Proposes Tougher Measures to Combat Terrorism - The New York Times
+5795,6,Africa’s Tennis Talent, Though Obscure, Is Burgeoning - The New York Times
+5843,1,‘I’ve Become a Racist’: Migrant Wave Unleashes Danish Tensions Over Identity - The New York Times
+5845,1,A.N.C.’s Combative Response to Election Losses Startles South Africa - The New York Times
+5852,3,Riding the Rails to the Summer of Love - The New York Times
+5863,1,Air China Will Fly You to London, and Warn You About Dark-Skinned People There - The New York Times
+5887,3,Angela Merkel’s Problems in Germany Could Challenge Europe, Too - The New York Times
+5974,1,Plan to Let Migrant Children Attend School Enrages Many Greeks - The New York Times
+5992,2,‘I Guess I’m Having an Aleppo Moment’: Gary Johnson Can’t Name a Single Foreign Leader - The New York Times
+6044,1,Asian-American Fighters Return to Ancestral Homelands, and Find Fans Waiting - The New York Times
+6135,1,Watches See a ‘Brexit’ Boom - The New York Times
+6158,1,How the Artist Adrian Ghenie Became an Auction Star - The New York Times
+6292,1,Donald Trump, Colombia, Fidel Castro: Your Wednesday Briefing - The New York Times
+6320,2,Gambia’s President, in Power 22 Years, Loses Election - The New York Times
+6330,1,Markets Weather Italy Referendum Result, but Banks Are Vulnerable - The New York Times
+6407,1,The Great A.I. Awakening - The New York Times
+6490,1,As Hopes for European Unity Dim, New E.U. Headquarters Are Glowing - The New York Times
+6580,1,Tested by Russia, NATO Struggles to Stay Credible - The New York Times
+6640,1,Some Early Signs of ‘Brexit’ Upheaval - The New York Times
+6652,1,Economic Fears Rising, Britain Hopes to Stay in E.U. Market - The New York Times
+6659,1,E.U. Leaders Chart Future as David Cameron Leaves Brussels - The New York Times
+6666,1,‘Brexit’ Briefing: Battle of the Somme Tories Step Up as Boris Johnson Exits - The New York Times
+6709,1,As Turkey Coup Unfolded, ‘the Whole Night Felt Like Doomsday’ - The New York Times
+6820,1,A Powerful Russian Weapon: The Spread of False Stories - The New York Times
+6901,2,A Single Migration From Africa Populated the World, Studies Find - The New York Times
+6956,1,Trump, Russia, Samsung: Your Wednesday Briefing - The New York Times
+6975,1,My 10 Favorite Books: Kehinde Wiley - The New York Times
+7040,1,Angela Merkel to Seek 4th Term as Germany’s Leader - The New York Times
+7063,1,Fidel Castro, Cuban Revolutionary Who Defied U.S., Dies at 90 - The New York Times
+7065,1,In Europe, Is Uber a Transportation Service or a Digital Platform? - The New York Times
+7104,1,Giraffes, Towering and Otherworldly, Are ‘Vulnerable’ to Extinction - The New York Times
+7146,1,In Shadow of Amazon, European Challenger Looks to China for Inspiration - The New York Times
+7168,1,Carrie Fisher, Russia, Shinzo Abe: Your Wednesday Briefing - The New York Times
+7243,1,Britain Asks if Tone of ‘Brexit’ Campaign Made Violence Inevitable - The New York Times
+7254,3,Populist Anger Upends Politics on Both Sides of the Atlantic - The New York Times
+7262,1,After ‘Brexit,’ Finding a New London for the Financial World to Call Home - The New York Times
+7267,1,Cheryl Strayed: A Close Encounter at Badlands - The New York Times
+7302,1,Bank of England Cuts Interest Rate to Historic Low, Citing Economic Pressures - The New York Times
+7373,1,Angela Merkel Accepts Responsibility for Party’s Losses in Berlin Election - The New York Times
+7380,1,Evolution Is Happening Faster Than We Thought - The New York Times
+7386,1,Social Media Got You Down? Be More Like Beyoncé - The New York Times
+7423,1,Doubts About the Promised Bounty of Genetically Modified Crops - The New York Times
+7559,1,Words of Obama’s Father Still Waiting to Be Read by His Son - The New York Times
+7640,1,Poland Steps Back From Stricter Anti-Abortion Law - The New York Times
+7780,1,Europe Tried to Rein In Google. It Backfired. - The New York Times
+7795,1,Even Uber Couldn’t Bridge the China Divide - The New York Times
+7810,1,20-Year-Old Brit Dies Fighting Islamic State in Syria
+7936,3,Red Bull Boss Slams Mass Migration, Forced Multiculturalism in Europe - Breitbart
+8080,1,Virgil: Making America Great Again—Or Not: The Establishment Targets Trump’s Top Strategist
+8964,1,Vice President Pence Appears to Support EU Freedom of Movement
+9050,1,Terror Expert: Europe Needs to Brace Itself for ’More and More’ Islamist Attacks - Breitbart
+9105,1,Angelina Jolie Slams Refugee Order: Trump ’Playing with Fire’
+9218,1,Trump: NATO Is ’Obsolete’
+9237,1,VIDEO: EU President Says English ‘Losing Importance’ After Brexit Vote
+9301,1,Migrant Crisis Summit: Libya Demands €800 Million To Stop Smuggler Boats
+9608,1,’Record-Breaking’ Number of Migrants Crossing Mediterranean This Easter
+9627,1,Gatestone Institute: Trump Fires Up Europe’s Anti-Establishment Movement
+9816,1,VIDEO: Thousands Join Pro-EU Rallies Across Germany
+9923,2,Matteo Salvini: Europe ’Soft’, Islam Incompatible with Our Values
+10289,2,Pope on Europe’s Identity Crisis: Rediscover Your Roots
+10550,1,Manhunt for Migrant Plotting Toxic Gas Attacks on Seaside Towns
+10660,1,EU Officials Increasingly Fear a Marine Le Pen Upset in France
+10742,1,‘Next Pope’ Says Trump Could Be Like ‘Best President’ Reagan
+10962,1,Trump: Terrorism ’One of the Gravest Threats to Religious Freedom’ - Breitbart
+11018,1,Hungarian Minister: Christianophobia Is ‘Last Acceptable Form of Discrimination’
+11161,1,100 Days of Trump in Asia: Winning over Duterte, Golf with Abe, and a ’Not as Good’ Deal with China - Breitbart
+11169,1,Labour Turfs out Cabbie After Accusation He ’Liked’ Islam-Critical Posts
+11267,1,Italian Populist Slams Court’s ‘Politicized’ Block of Trump Order
+11380,1,’You Are Europe’s Future’: Erdogan Tells Turks in Europe Have Five Kids, Not Three
+11499,1,EU Threatens Poland Over Logging, Risks Fresh Clash With Right-Wing Government - Breitbart
+11683,1,Cohn: Trump Becoming "Smarter,’ ’More Knowledgeable’ on Climate Change - Breitbart
+11744,1,LISTEN: Breitbart London’s Raheem Kassam Delivers Stirring Article 50 Day Message
+11756,1,Historian: European Civil War Within 30 Years
+12086,1,Assad: America’s ’Deep State’ – Not Trump – Blew Up Airbase in Syria
+12175,1,Macron: Merkel’s Open Door Migrant Policy ’Saved Our Dignity’
+12303,1,Germany ’Employing Nazi Measures Against My Turkish Brother Citizens’, Claims Erdogan
+12856,2,Bank of England: EU, Not UK, Has Most to Lose from Brexit
+13028,1,10 Famous People Who Praised Venezuela’s Descent Into Socialist Hell - Breitbart
+13121,1,Goldman Sachs Tells Investors Marine Le Pen Could Be France’s Next President - Breitbart
+13174,1,Dutch Police Allegedly Bribe Newspaper to Bury Data on Criminal Asylum Seekers
+13669,1,Soros-Backed University Is ’Cheating’, Says Hungarian PM
+13815,1,Germany’s Merkel Hits Back After Trump Predicts Shrinking European Union
+13974,1,Syrian Migrant ’Asked Islamic State for €180,000 to Fund Car-Bombing Campaign’
+14166,1,Hungarian Prime Minister: If Brussels Tries to Relocate Migrants, ‘I Will Veto’
+14218,1,Muslims Have Greater Religious Freedom than Christians in Europe, Says Anti-Discrimination Chief
+14609,1,Polish PM on Manchester Attack: ‘Europe, Rise from Your Knees or You’ll Be Crying over Your Children Every Day’
+14686,1,Poland Says Taking Migrants ’Much Worse’ Than EU Sanctions
+14798,1,Virgil: The Battle Between Donald Trump and John McCain
+15053,1,World Leaders Praise U.S. Strike on Syria, ‘Proportionate, Appropriate’
+15202,1,Less than Half of Young Brits Feel European after Brexit Vote
+15382,1,Europe Reacts to General Election Results: ’May’s No Margaret Thatcher’
+15432,2,KASSAM: ‘America, Use Trump Presidency to Save the World Again’
+15639,2,Financial Times: Mass Immigration Is Unstoppable - Breitbart
+15726,1,As Far as the MSM is Concerned, America Was a Mistake
+15768,1,Breitbart’s Kassam On Brexit Poll Bump: ’Populism Winning Across Europe... We’re Not Going Away’
+15866,1,Orban Declares ’War Against Brussels’ And EU Migrant Politics
+15949,1,Fascism Historian: Claiming Donald Trump Is a Fascist Makes Fascism Impossible to Understand - Breitbart
+15971,2,EU Accepts TTIP Deal Dead Due To Trump Presidency - Breitbart
+16101,1,Female Genital Mutilation Cases Increase Due to Migrants
+16223,1,UK Equalities Chief Who Popularised The Term ’Islamophobia’ Admits: ’I Thought Muslims Would Blend into Britain... I Should Have Known Better’
+16265,2,The West Is Finally Fighting Back against Militant Islam
+16708,1,Morici: Donald Trump’s Economy Will Benefit Ordinary Investors - Breitbart
+16743,2,Orban At Conservative European Nations Conference: Migrants ’Are a Hoard Of Evil’
+16846,1,Terror: Truck Crashes into Crowd Celebrating Bastille Day, At Least 80 Dead - Breitbart
+17178,1,Breaking Point: Europe Cannot Take Another Year of the Migrant Crisis, Danish PM Says
+17297,1,MILO: Twitter ’Embarking on a War Against Conservative Points of View’ - Breitbart
+17345,1,WATCH: Protesters Blockade Calais, Demand End To ‘Invasion In Europe’ - Breitbart
+17383,1,Austrian Police Arrest Three Terror Suspects in Asylum Homes
+17441,1,European Churches Witnessing ’Mass Baptisms’ For Migrants
+17455,1,Silicon Valley ’Dazed and Confused’ by Peter Thiel’s RNC Speech
+17594,2,SEXUAL TERRORISM: All the Perfumes of Eurabia Won’t Sweeten the Sharia Stench of Cologne - Breitbart
+17891,2,Thousands Gather in Rome for Anti-Migrant Rally, ‘Stop the invasion!’
+18066,1,Facts Belie Bill Clinton’s Disparaging Remarks About Poland - Breitbart
+18301,1,Democrat-Run Cities Push Plans to Let Non-Citizens Vote - Breitbart
+18450,1,Pope Calls Migrant Crisis ‘Arab Invasion’, Says Europe Must ‘Rediscover Its Cultural Roots’ - Breitbart
+18543,1,Islamic State Sends Text Messages Urging Belgian Muslims to ’Fight Westerners’
+18617,1,Hungary Brands London a ’No-Go Zone’ Due To High Immigration
+18736,1,**LiveWire**​ Assorted Activists Gather in Manhattan for Day of Protests - Breitbart
+18790,1,Muhammad Ali Was Bigger Than the Ring - Breitbart
+18990,1,Marvel Turns Donald Trump into Comic Book Villain - Breitbart
+19076,1,Obama Warns Mark Zuckerberg: Planet Will Be Under Water
+19150,2,European Union Declares Balkan Route Closed To Illegal Migrants, But Prepares To Open Borders To Millions
+19255,1,Sick Jihadi Poll Mocks Europe, Asks ’What Colour Will the Eiffel Tower Be Next?’
+19301,1,Islamic Scholar: Europe May Be Heading Toward Civil War
+19385,2,Fears Rise in Europe of Jihadist Influx if Iraq Retakes Mosul
+19457,3,Movie Review: ’How to Let Go of the World and Love All the Things Climate Can’t Change’ - Breitbart
+19771,1,EU Support on the Wane Across Europe Thanks to Migrant Crisis
+19912,1,Twin Falls Crisis Imposed by Clinton-Era Pro-Refugee Advocates - Breitbart
+19951,1,Soros: Migrants Great for EU Economy... But Make Sure To Spend Billions On Them Each Year
+20329,1,READ: Netanyahu’s Chanukah Speech Blasts Obama, Salutes Soldiers
+20393,1,Farage: Remoaners Blaming Russia Have Reached New Low
+20525,1,Iran Adopting ‘Art of the Deal’ Strategy as Trump Takes Office
+21011,2,EXCLUSIVE VIDEO: Open Borders Campaigners Stage ’Die In’ In London, Claim Cologne Rapes NOT Committed By Muslim Migrants - Breitbart
+21391,1,CITI: Italian Referendum Bigger Risk to Europe Than Brexit
+21399,1,Report: Islamic State General Flees to Europe with 400 Soldiers Disguised as Refugees
+21503,1,Sunday Telegraph: Boris Johnson — The EU Wants a Superstate, Just as Hitler Did - Breitbart
+21505,1,Independence Day Created Greatest Empire the World Will Ever Know: The Anglosphere - Breitbart
+21681,1,***LIVE at 7PM ET*** MILO At Michigan State University: ’Reclaiming Constantinople’ - Breitbart
+21688,1,Cameron Predicts Collapse of Euro, Blames His Defeat on ’Populism’
+21872,1,AfD MEP Calls for Merkel to Be Investigated over Migrant Deaths
+21892,1,Multiple Young Boys Requiring Surgery After Being Raped In Calais ‘Jungle’ Camp - Breitbart
+22030,2,One Week after Brexit, Only UK Stocks Are Higher - Breitbart
+22117,1,Merkel Again Forced To Defend Migrant Crisis Record, Hits Out At Anti-Migration AfD Party
+22131,1,Revealed: Turkey’s Plans to Flood Europe with 3,000 Migrants a Day
+22201,1,PICTURES: Hundreds Of ’No Borders’ Activists Protest On Austria-Italy Border
+22255,2,John Bolton on Europe’s Migrant Crisis: ‘Only a Matter of Time Before Some of Those Terrorists Get to the United States’ - Breitbart
+22282,2,EU Chief: Borders Must Stay Open Despite Deadly Terror Attacks - Breitbart
+22407,1,Refugees Holiday in Countries They ’Fled’, At Taxpayers’ Expense
+22428,1,Globalized Trade Being Destroyed by Robotics and 3-D Printing - Breitbart
+22446,1,’Fleeing War’ Yet Only 7 Per Cent of Asylum Seekers Would Actually Return After Conflict
+22599,1,NASA Study: Sea Level Rise Absorbed by Earth
+22800,1,Ten Percent of Twin Falls Police Officers Are Refugees - Breitbart
+23284,4,Brexit: Britain Votes To Leave EU, PM Cameron Resigns - Breitbart
+23309,1,Islam Academic: Migrants Want Eurabia, Globalists Using Migrants to Destroy The West
+23362,2,Christmas on Lockdown: Beefed Up Security Across Europe
+23439,1,European Ministers Lay Out Plan to Create United States of Europe
+23581,1,Britain’s EU Membership Referendum: A 2016 Declaration Of Independence? - Breitbart
+23585,1,Black Lives Matter Protests Spread To Germany - Breitbart
+23815,1,Study: Majority of EU Citizens Fear Muslim Migration
+23816,1,Zika: Singapore ’Extremely Vulnerable,’ Russia on Alert
+23860,1,America Reacts to ‘Clinton Cash’: ’Will Never Be Voting for Hillary’
+24077,1,British Universities Drop In World Rankings ’Because They Are Forced To Focus On Diversity’
+24152,1,’Epidemic Alert’: Contagious, Deadly Disease Found Among Migrants
+24319,1,AFP: Europe’s Populist Surge Fuelled by Migrant Crisis - Breitbart
+24508,1,**Live Wire** Jihad in Orlando: How Can We Prevent Another Pulse Massacre? - Breitbart
+24555,1,Libertarians and Trump: To Be, or Not To Be, a Republican in 2016
+24727,2,Marine Le Pen in Euro Parliament: ’UK Sent A Signal Of Freedom Out To The Entire World’
+24778,1,Italy Breaks Immigration Record in 2016
+24865,1,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+24872,1,Hillary’s World: How Clinton’s Foreign Policy Has Destabilized Nearly Every Corner of the Globe - Breitbart
+24994,1,Germany Needs Post-Brexit Trade Deal to Protect its Own Economy, Minister Says
+25048,1,Chinese Tourist Mistaken For Refugee, Stripped Of Passport, Forced To Spend Two Weeks In German Migrant Camp
+25067,1,PEGIDA Leader’s Twitter Account Hijacked By Turkish Nationalists
+25129,1,Obama Defends European Union After Brexit Vote - Breitbart
+25232,1,Migration Chief: Europe Must Open Its Borders To All, Including Economic Migrants
+25369,1,Venezuela: Over 15% of People Eat Garbage to Survive - Breitbart
+25372,2,Catholic Church Outpaces General Population, Lags Behind Islam
+25533,1,Peter Morici: By Destabilising Deutsche Bank, Hillary Could Ignite another Economic Crisis
+25571,1,Bilderberg: Elites Panic as Brexit Takes 10% Lead - Breitbart
+25771,1,Parenting Magazine Warns ’Blond, Cheerful’ Families Dangerous, Likely Right Wing
+25816,1,Dr. Sebastian Gorka on Trump’s Cabinet: ‘After Eight Years of Pajama Boys, It’s Time for the Alpha Males’
+25870,1,Migrants Bringing Rare Diseases Strain German Medical System
+26068,1,Driver Threatened with Chainsaw During Calais Night Of Violence
+26315,2,MILO Goes Off On Regressive Left At Pro-Trump Art Show In NYC - Breitbart
+26378,1,Obama: Britain Should Stay in the EU Because Of Iran, Climate Change, TTIP, And Because Sovereignty Is Outdated
+26482,2,Cologne-Style Attacks Could Happen in Britain If We Remain Within EU
+26590,2,Camp of the Saints: Europe Braces for Unabated Wave of Migrants After 1M+ in 2015
+26669,1,Seeds of Disorder: High School Courses Now Dedicated to Teaching American Guilt - Breitbart
+26689,1,Ex Guantanamo Detainee Moazzam Begg: The Islamic Caliphate Is Just A ’Muslim European Union’ - Breitbart
+26704,1,Lefties Try To Crash Fourth Of July With ’AmericaWasNeverGreat’ Hashtag - Breitbart
+26841,3,The Rio Olympics Is Brazil’s Reward for Trusting in Socialism - Breitbart
+26982,1,Pamela Geller: Twin Falls Newspaper Editor Calls Reporting on 5-Year-Old Rape Victim ’Fairy Tales’ - Breitbart
+27257,1,Albanian People Smuggling Gang Taken Down in France
+27281,1,Watch: Donald Trump, Mexican President Enrique Peña Nieto Joint Appearance - Breitbart
+27361,1,Merkel’s Party, Sliding in Polls, Explores Speedy Repatriation Centres - Breitbart
+27410,1,EU To Blame for Britain’s Steel Crisis, Say Brexit Campaigners
+27497,1,The Top 13 Reasons For Staying In The EU... Debunked
+27724,1,Zika Hits Africa: Thousands Test Positive on Cape Verde Island
+27973,2,Hungarian Intelligence Expert: Migration ’Military Operation’ to Destroy Nation States
+28029,1,Man Sets Train On Fire, Stabs 6 People In Switzerland
+28079,1,Merkel: If We Close The Border, ’Europe Is Destroyed’
+28151,2,Mass Migration Brings Rise Of Islamic Polygamy In Europe
+28166,1,Revealed: Sweden Migrant Accommodation Killer ’Child’ Was Fibbing Adult Somalian
+28284,1,Angelina Jolie Pitt: ’Don’t Brexit, and Keep your Borders Open to Migrants’ - Breitbart
+28447,1,Obama Administration Surge Agenda Threatening U.S. With 100 Syrian Refugees Per Day
+28497,1,Anti-White Racism: The Hate That Dares Not Speak Its Name - Breitbart
+28594,1,Left Media Migrant Rape Cover-Up: HuffPo, Indy, AND United Nations Claim Cologne Attackers ’Not Refugees’, German Prosecutor: ’Total Nonsense’ - Breitbart
+28615,1,WATCH: Milo On Why Britain Should Leave The EU - To Stop Muslim Immigration - Breitbart
+28789,1,Buchanan: Dems ’Welcome’ Illegal Immigration For Votes, ’Invasion’ of US and Europe Will Make Them ’Cease To Exist’ - Breitbart
+28874,1,’Panelaço’: Brazilians Drown Out President’s Zika Speech with Pot-Banging Protest - Breitbart
+29036,1,Thanksgiving: 35K Pounds of Turkey Flown to U.S. Troops in War Zones
+29044,1,Donald Trump Beheaded in ’Spawn’ Comic Book - Breitbart
+29117,1,Brexit: How Europe Fell Out Of Love With The EU
+29134,1,Ann Coulter–Hashtag: We Are Neville Chamberlain! - Breitbart
+29189,1,Leonardo DiCaprio Flew 8,000 Miles on Private Jet to Accept Environmental Award - Breitbart
+29323,1,EU To Pressure Turkey Into Accepting Large Scale Deportations - Breitbart
+29460,1,Trump Meets John Kelly, the Longest Serving Marine General in History
+29578,1,Exclusive — Diamond and Silk: Media Giving Bill Clinton a Pass on Black Lives Matter Breakdown - Breitbart
+29617,1,Hungary Border Fence Success, Balkans Route Down To ’A Trickle’
+29664,1,Istanbul Bombing Is Latest in Spate of Jihadist Ramadan Attacks
+29674,1,Marion Le Pen Backs Trump, ‘Responds To People’s Hopes’
+29818,1,Just Hours Before Islamist Truck Terror, Hollande said Populism Is the Real Threat - Breitbart
+29841,1,George Soros Post-Brexit Backtrack: Merkel’s Open Borders Policy ’Not Properly Thought Out’
+29862,1,Advanced Placement Tests To Hide History of Religion and Islamic Jihad in Europe - Breitbart
+29885,2,Former Czech President Vaclav Klaus — ’Europe Is Full’
+29886,1,’Jesus 2016 is a Refugee in a Boat’, Says Catholic Bishop
+29893,1,Ronda Rousey’s Sister: ’Horrible People’ Gleeful Over Knockout - Breitbart
+30276,2,Happy Birthday, America! - Breitbart
+30367,1,John Bolton: U.N. Set to Elect Another ‘Secular Pope’ Hillary Clinton Will ‘Play Right into His Hands’
+30374,1,Refugee Watch Warns: ‘Brussels Coming To A Town Near You’ - Breitbart
+30477,1,Munich Killer Planned Shooting For Year, Shot Victims At Random
+30663,1,Dutch PEGIDA Leader Arrested for Failing to Take off Hate Shaped Like Pig
+30756,1,Breitbart News Daily: Political Revolution in Europe - Breitbart
+31028,1,Guardian Editor: I’m Voting LEAVE Because The EU Pushes Down Wages
+31273,1,Facebook Deletes Page of Swedish Immigration Critic, Reactivates It After Backlash - Breitbart
+31322,1,Turkey’s European Mega-Mosque Complete, Erdogan To Preside Over Opening Ceremony
+31392,1,Report: 2015 Saw ‘Most Violent’ Persecution of Christians in Modern History - Breitbart
+31423,1,Police Try To Link Munich Gunman To Anders Breivik
+31534,1,Hollande: A President Trump Would ’Complicate’ US-Europe Ties
+31583,1,Turkey Will ’Open Gates’ to Migrants if EU Membership Bid Paused
+31608,1,Get ready for another year of global tumult
+31697,1,Istanbul shooting: Horrifying scene inside massacre nightclub
+31949,1,Underdog Zimbabwe so close to AFCON upset
+32002,1,Trump’s blast sends chill across Europe
+32011,1,44 ways to judge the Obama era
+32041,1,How the world sees a Trump presidency
+32144,1,CNN 10 - January 24, 2017
+32160,1,Meryl Streep didn’t need words to react to her Oscar nomination
+32171,2,CNN 10 - January 25, 2017
+32193,2,Why Australia Day is so controversial
+32218,1,CNN 10 - January 27, 2017
+32343,1,20,000 people called us about Trump’s travel ban. Listen to their voices.
+32381,1,Donald Trump’s undiplomatic diplomacy
+32564,1,CNN 10 - February 10, 2017
+32725,2,How to navigate Trump’s tectonic change in transatlantic relations
+33065,1,Europe tries to sway Trump administration views
+33074,1,CNN 10 - March 3, 2017
+33087,1,Being gay in Latin America: Legal but deadly
+33132,1,’America First’ puts freedom and leadership last
+33229,1,Europe is teetering on edge of change Trump might push it over
+33277,1,Trump casts long shadow over Dutch election
+33284,2,Should China move its historic monuments?
+33335,1,Will Europe ride populist wave? Visual guide
+33377,1,In Yemen, urgent support for survivors of deadly boat attack
+33439,2,Africa’s most populous city just got its first skate crew
+33454,1,Czech zoo cuts off horns to protect rhinos
+33503,1,Trump has given the EU a chance to lead the world
+33528,1,A huge sigh of relief on health care
+33567,6,The millennials cashing in on Africa’s internet addiction
+33722,1,CNN 10 - April 4, 2017
+34021,1,US sends newest stealth fighters to Europe
+34160,1,There’s a #MarchForScience on all 7 continents, even Antarctica
+34357,1,The FBI translator who went rogue and married an ISIS terrorist
+34368,1,Where the Mexico City Policy matters the most
+34428,1,The race for a sub-two-hour marathon
+34555,2,Europe view: American democracy isn’t as strong as you think
+34745,1,Donald Trump’s risky religious pilgrimage
+34889,4,Terror key theme for Trump abroad, but gaps in agenda remain
+34916,1,Wary allies await Trump at NATO summit
+35111,1,Ghitis: Trump has finally gone too far
+35270,3,Oldest Homo sapiens fossils discovered
+35576,1,Two big changes in Antarctica have scientists worried
+35736,5,Brexit views roundup
+35739,1,How to cram a dream home into a 309 square foot apartment
+35753,1,Why the Brexit vote is so close
+35791,3,David Beckham backs Remain campaign
+35811,1,Why the U.S. is freaked out about Brexit
+35812,2,Brexit ’Leave’ campaign built victory on arguments against EU
+35817,1,Brits search for Irish passports after Brexit
+35818,1,Brexit: Why are Brits thumbing their noses?
+35825,1,Brexit: EU leaders demand quick UK exit
+35897,1,Obama, Trump throw down on trade
+35978,1,Obama tries to reassure neighbors on Trump, trade
+36119,2,Obama heads to NATO summit at ’inflection point’
+36163,1,Obama: U.S. ’not as divided as some have suggested’
+36181,1,In Poland, Obama confronts a legacy reality check
+36202,1,Opinion: Tests for British PM Theresa May
+36337,1,Why Turkey’s coup attempt matters for US
+36442,1,What Pokemon Go looks like in Syria
+36455,1,Munich attacker researched rampage killings, police say
+36506,1,Munich gunman planned attack for a year, officials say
+36525,1,Boko Haram blamed for humanitarian crisis in Nigerian state
+36646,1,Are fireflies flickering out?
+36960,1,What Kenny Baker (and R2-D2) meant to us
+36987,1,Who is the greatest Olympian?
+37362,1,Heavy metal finds a home in Botswana
+37407,2,Mark Zuckerberg visit boosts Nigeria startups
+37427,2,US should embrace a changing Latin America
+37881,1,Hash House Harriers, the world’s most fun run club?
+38039,2,Gary Johnson struggles to name a world leader he respects
+38078,2,China banned from buying donkeys
+38139,1,The artists exploring Africa’s style battles
+38174,1,LinkedIn chief slams Trump over tax returns
+38182,1,Race to save rare pangolin from tragic end
+38354,1,Paris attacks: Lawyers for main suspect quit
+38463,1,’Safari’: Ulrich Seidl goes into the dark world of trophy hunting
+38752,1,Obama: Trump tapped into a ’troubling’ strain
+38766,1,Why Morocco is a leader of the ’green’ world
+38789,3,Arctic, Antarctic sea ice at record lows
+38791,2,Obama leaves Europe with little certitude
+38883,3,China funds railways to link across East Africa
+39038,1,Colombia plane crash: 71 dead on Brazil soccer team’s charter flight
+39039,2,Meet the new ’Girl from Ipanema’
+39058,1,US military readies for next frontier: Space war
+39061,1,Chapecoense: Football team’s fairy-tale rise ends in tragedy
+39139,1,Austria’s far-right: Hipsters or hatemongers?
+39157,1,How populism could shake up Europe: A visual guide
+39185,1,Austria: Far-right nationalist Hofer admits defeat
+39416,1,The $7 plan bringing solar power to Tanzania
+39543,1,Berlin attack: ISIS claims it inspired truck assault
+39544,2,Ethiopia becomes the wind capital of Africa
+39675,1,THIS will actually be built
+39749,1,Israel risks sliding toward apartheid
+39754,1,2016’s most visually inspiring moments
+39884,1,History moment awaits Palestine at Asian Cup
+39905,1,Boko Haram more worrying than ISIS
+39912,3,1.5 million rally for Paris, but what about Nigeria?
+39968,1,The richest women in the world
+40066,1,ISIS gaining ground in Yemen
+40085,2,Bill &amp Melinda Gates: Our bet for 2030
+40238,2,50-ft ’dragon’ dinosaur unearthed by Chinese farmers
+40258,1,Study: Skull may shed light on humans’ move from Africa
+40408,1,French PM promises justice in Jewish cemetery attack
+40603,1,Report: Cycling body gave Armstrong special treatment
+40733,1,Russia puts Northern Fleet on ’full alert’
+40903,1,Giving a face to Sudan’s refugee crisis
+41321,2,Why migrants are dying to reach Italy
+41346,1,South Africa xenophobic attacks: How did we get here?
+41380,2,Hundreds of migrant deaths: What is Europe going to do?
+41668,1,Johnny Depp’s dogs flying back to America
+41700,2,Texas hunter bags rhino on controversial Namibia hunt
+41826,1,FIFA corruption marks ’World Cup of fraud,’ U.S. says
+42006,1,18th century Portuguese slave ship Sao Jose wreck found
+42018,1,American woman killed by lion was ’kind, adventurous’
+42153,1,Photo shows lion moments before it killed U.S. tourist
+42364,1,The king with 100 wives
+42376,1,Why Waterloo still fascinates us (Opinion)
+42380,1,Air Force may send top-line fighters to Europe
+42435,1,A day in Russia’s military Disneyland
+42485,1,U.N. World Refugee Day: Richer nations urged to step up
+42535,1,How do gay rights look in your country?
+42585,1,Terrorism on 3 continents, including 37 dead in Tunisia
+42587,1,Suspect detained after beheading, explosion in France
+42614,1,Terror on three continents
+42678,4,Time to split the euro in two (Opinion)
+42702,2,3 ways Pope Francis is shaking up the church
+42744,2,Pope calls greed ’the devil’s dung’
+42773,1,Pope: Poor are sacrificed on ’the altar of money’
+43100,3,Obama’s hesitant approach to foreign policy resulted in the biggest stain on his legacy
+43325,1,The Trump administration could turn its back on the liberal world order created after World War II
+43343,1,The 9 biggest marches and protests in American history
+43346,1,Women band together for what could be the largest political demonstration the US capital has ever seen
+43404,1,The US has been downgraded to a ’flawed democracy’
+43783,6,Earth’s newest continent ’Zealandia’ was found thanks to a giant underwater land grab
+43854,1,Renault CEO Carlos Ghosn is not threatened by his rival’s purchase of GM’s European business
+44119,3,4 maps of past empires that can tell us about the future
+44224,1,Here’s the bizarre reason you’re not supposed to use the bottom button on suits
+44531,1,Trump is taking aim at one of America’s closest allies — and he has bipartisan backing
+44870,2,A former special forces sniper is taking up a new fight — protecting one of the world’s most endangered species
+45216,1,This new animation shows how close Antarctica is to losing an iceberg the size of Delaware
+45726,1,The South China Sea will be the battleground of the future
+45999,1,Navy SEAL details the harrowing mission that earned him a Medal of Honor
+46190,1,An influential psychology theory about chocolate chip cookies may be wrong — and it could change how we think about willpower
+46244,1,ISIS’ backup plan is falling apart
+46251,1,How this ’Shark Tank’ entrepreneur negotiated hard for a $2 million deal with Kevin O’Leary and Lori Greiner
+46448,1,Goldman Sachs just sent out this quiz to clients — see how many questions you can get right
+46543,1,My husband and I are business partners who just had our first child — here’s how we make it work
+46681,1,GM and Uber could force Tesla to do something it isn’t ready for
+46782,1,My husband and I are business partners who just had our first child — here’s how we make it work
+46857,1,Iran says it will close the Strait of Hormuz if the US conducts military drills in the Persian Gulf
+46930,1,The Olympics are having an unprecedented meltdown
+46954,2,Switzerland is opening the world’s longest-ever railway tunnel
+47043,1,Volkswagen is making a $300 million bet on one of Uber’s rivals
+47062,1,Japan’s prime minister is warning world leaders about a ’Lehman-scale crisis’
+47419,1,EU REFERENDUM LIVE: MASSIVE FLOODS DISRUPT VOTING AND CAUSE TRAVEL CHAOS
+47429,1,EU REFERENDUM BLOG: BRITAIN VOTES FOR BREXIT
+47459,2,Why Britain left
+47501,1,Here’s why Brexit is both different from — and the same as — the last time the UK ditched Europe
+47502,2,Vodafone is threatening to move UK jobs to the EU, and Goldman says banking jobs could go
+47600,1,Barclays’ investment bank staff tell us why they are not freaking out about the Brexit vote
+47689,1,JPMORGAN: Your next finance job could be in Madrid
+48332,1,Companies like Apple will bring back billions if there’s a ’tax holiday,’ but last time it was a ’disaster’
+48558,1,Why humans couldn’t domesticate zebras
+48786,2,I’ve been traveling the world for 5 years, and here are the 7 best pieces of advice I can give you about money
+48812,1,I read the 87-year-old book recommended by Elon Musk, and my favorite chapter reveals the dark side of innovation and adventure
+49785,1,Trump questions the US’s nuclear arsenal — here’s how the US’s nukes compare with Russia’s
+49822,1,Chinese cities are undergoing an insane housing boom with prices up as much as 43% in a year
+49839,1,2016, Summed Up in a Word
+49914,1,The USSR’s Futurist Film and Sweden’s Sweet Tooth: The Week in Global-Affairs Writing
+49937,1,Trump Is Turning American Companies Into Reality-Show Contestants

@@ -1,0 +1,105 @@
+332,1,A Big Test for Big Batteries - The New York Times
+796,1,‘Training Day’ and ‘A.P.B.,’ Where the Rogue Cop Rules - The New York Times
+821,1,Here Is How to Fend Off a Hijacking of Home Devices - The New York Times
+1445,1,Shaky Jobs, Sluggish Wages: Reasons Are at Home - The New York Times
+1467,2,Covering Fashion Shows With a Functional iPhone Keyboard - The New York Times
+1532,4,Nintendo Switch: A Blast at Home, So-So on the Go - The New York Times
+1621,2,Why We Can’t Look Away From Our Screens - The New York Times
+1625,1,With C.I.A. Hacking Revelations, How to Protect Your Devices - The New York Times
+1750,1,Using Air Quotes, White House Walks Back ‘Wiretap’ Talk - The New York Times
+1758,1,Snowed In? Here’s What to Cook, Watch, Listen To and More - The New York Times
+1782,3,Thinking of Rigging Your Home With Smart Devices? Start Here - The New York Times
+1998,1,Crossing the Border? Here’s How to Safeguard Your Data From Searches - The New York Times
+2147,1,What the Repeal of Online Privacy Protections Means for You - The New York Times
+2151,1,He Turned His Home Into a Reality Television Show - The New York Times
+2441,1,Sleep Is the New Status Symbol - The New York Times
+2491,1,Scouring 11 Time Zones for a Contemporary Russian Art Show - The New York Times
+2518,1,Burger King ‘O.K. Google’ Ad Doesn’t Seem O.K. With Google - The New York Times
+2536,1,The Battle Over the Sea-Monkey Fortune - The New York Times
+2674,1,Brooklyn’s Wearable Revolution - The New York Times
+2717,1,Review: In Radiohead’s ‘A Moon Shaped Pool,’ Patient Perfectionism - The New York Times
+2738,1,China Quietly Targets U.S. Tech Companies in Security Reviews - The New York Times
+2860,1,Tony Fadell Steps Down Amid Tumult at Nest, a Google Acquisition - The New York Times
+2962,1,Apple Developer Conference: A More Open Siri, and Other Upgrades - The New York Times
+3284,1,The Downside to Cord-Cutting - The New York Times
+3545,4,Off to College? Maybe These Devices Should Go Along - The New York Times
+3846,1,Zen and the Art of Managing Smartphone Photos - The New York Times
+3896,1,IPhone 7 and Wireless Headphones: Analyzing Apple’s Announcements - The New York Times
+3952,1,Keeping Your Old Phone Alive and Working - The New York Times
+3999,1,Samsung Stumbles in Race to Recall Troubled Phones - The New York Times
+4162,1,A High-Stakes Bet: Turning Google Assistant Into a ‘Star Trek’ Computer - The New York Times
+4191,1,Google, Lagging Amazon, Races Across the Threshold Into the Home - The New York Times
+4296,1,Making Sous Vide Simplify Work for You - The New York Times
+4432,1,Assad in Person: Confident, Friendly, No Regrets - The New York Times
+4551,1,Getting Organized in a Tiny Apartment - The New York Times
+4813,1,The Playlist: Burial and Laura Marling Slip Deeper Into the Void - The New York Times
+4859,1,Oakland Fire Victims Included Performers, Educators and Lawyers - The New York Times
+4872,1,Donald Trump, Indonesia, Aleppo: Your Wednesday Evening Briefing - The New York Times
+4948,1,Gifts That Santa, the World Traveler, Would Love - The New York Times
+5162,1,85-Year-Old Marathoner Is So Fast That Even Scientists Marvel - The New York Times
+5586,2,SoftBank’s $32 Billion Deal for Chip Designer ARM Is Britain’s Biggest Since Brexit - The New York Times
+5729,1,Gawker Is Said to Be Sold to Univision in a $135 Million Bid - The New York Times
+5953,1,Free Tools to Keep Those Creepy Online Ads From Watching You - The New York Times
+5996,2,Packing Tips From Professional Travelers - The New York Times
+6180,1,10-Second Videos From Your Sunglasses. Thank Snapchat. - The New York Times
+6198,2,Samsung to Buy Harman International in an $8 Billion Bet on Cars - The New York Times
+6210,1,Ever Wanted to Back a Start-Up? Indiegogo Opens the Door to Small Investors - The New York Times
+6364,1,Park Geun-hye, Donald Trump, Microsoft: Your Friday Briefing - The New York Times
+6841,1,Letter of Recommendation: The Useless Machine - The New York Times
+7074,1,OPEC, Donald Trump, Nancy Pelosi: Your Wednesday Evening Briefing - The New York Times
+7252,2,Devices That Deserve to Go Along on Vacation - The New York Times
+8223,1,Donald Trump Cuts Consumer Spending by Illegal Immigrants, Laments Federal Reserve Member - Breitbart
+16781,1,EXCLUSIVE: Futurologist Dr. Ian Pearson On Sex With Robots, Contact Lens VR, And More - Breitbart
+20833,1,Police Hand Out 6000 Rape Alarms For New Years
+25654,1,Pentagon Warns Chinese Computer Parts May Compromise Cyber-Security
+26835,1,Singer Prince Dead at 57 - Breitbart
+27965,1,The FCC’s Push to Unlock Set-Top Boxes May Backfire - Breitbart
+33311,1,Conway denies suggesting wider surveillance of Trump
+33321,1,DOJ asks for more time to collect evidence on Trump wiretap claims
+33679,1,Florida snake hunt sparks ’python fever’
+35739,1,How to cram a dream home into a 309 square foot apartment
+36032,1,The independence America really needs
+37055,1,McDonald’s removes fitness tracker from Happy Meals
+39841,1,The 7 coolest things at CES 2015
+40094,1,Drone carrying drugs crashes south of U.S. border
+40841,1,10 ways to get happy
+40851,2,TV this week: New ’Late Late Show,’ ’Inspector Gadget’
+41236,1,President Obama and climate change: 5 things I learned
+43097,1,5 major technologies killed by Silicon Valley in 2016
+43220,1,Facebook is working on a way to read brain waves that could let your send your thoughts to people
+43327,2,This might be our best look yet at Samsung’s Galaxy S8
+43583,1,We’re witnessing the slow-motion collapse of the smartwatch
+43885,1,Trump has caused a growing number of liberals to start prepping for an apocalypse
+44028,1,Forget saving for the iPhone 8, this $1,900 iPhone 7 Plus is the one you want
+44063,1,Facebook’s mysterious hardware group is working on everything from AR to mind reading - here’s what we know so far
+44167,1,The 21 most believable rumors about Samsung’s Galaxy S8, one of the biggest smartphones of 2017
+44189,1,Samsung’s Galaxy S8 resurrects a fantasy tech companies have had for years
+44353,1,UNDERCOVER IN AN IPHONE FACTORY: What it’s really like to work in a Chinese mega-factory, according to a student who spent 6 weeks there
+44589,1,Nintendo just unveiled a new portable console — here’s what it is and why you should want one
+44818,1,Google is putting Android and its voice assistant inside of cars — here’s your first look
+45052,1,The iPad was supposed to revolutionize news, books, and computers. So what happened?
+45575,1,A bunch of details about the next iPad just leaked
+46201,1,It’s no coincidence that Amazon and Microsoft are rethinking the computer
+46329,1,17 charts that show just how scary Amazon’s $275 billion business really is
+46812,1,This guy helped Yahoo and Apple grow like crazy — now he’s raised $7 million to solve a big problem
+47125,2,Apple and Microsoft are still fighting an old war — while Amazon and Google fight a new one
+47158,1,Mary Meeker thinks Apple is the past, Amazon is the future
+47216,2,This 24-year-old skipped the chance to be the first in his family to go to college — now he’s raised $30 million to help everyone sleep better
+47493,1,This unmarked van looks like it could be an Apple self-driving car or mapping vehicle
+47966,2,Intel is recalling its fitness watches: It is important you stop using your watch and return it immediately
+48270,1,Look at all the weird counterfeit tech you can buy in China
+48309,2,The end of Nest as we know it is a sign of a new beginning for Android
+48390,1,These are all the Labor Day sales you should know about
+48419,2,The iPhone 7 is Apple’s hype machine, perfected
+48534,1,Amazon Echo will bring artificial intelligence into our lives much sooner than expected
+48600,1,Jawbone hasn’t paid one of its key business partners and has almost no inventory left, sources say
+48663,1,7 ways you’re sabotaging your morning routine without realizing it
+48691,1,This genius iPhone 7 case would give you back the headphone jack Apple removed
+48768,1,Google is going to win the next major battle in computing
+48913,1,A group of engineers found a way to send a password through your skin
+48953,1,A product designer’s yearlong battle with China’s copycats shows how hard it can be to protect startup ideas
+49032,1,Apple CEO Tim Cook got testy after an analyst asked him if Apple had a ’grand strategy’
+49629,2,Wearables are dead
+49701,1,How the hot startup that stole Apple’s thunder wound up in Silicon Valley’s graveyard
+49736,1,Amazon’s store brand makes a lot of great tech, but these are the 10 gadgets actually worth buying
+49908,1,Obama Was Too Good at Social Media

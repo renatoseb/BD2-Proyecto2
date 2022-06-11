@@ -1,0 +1,175 @@
+8,1,First, a Mixtape. Then a Romance. - The New York Times
+38,1,An Immigrant’s Instinct to Aid Others Collides With Financial Need - The New York Times
+62,3,Dylann Roof, Addressing Court, Offers No Apology or Explanation for Massacre - The New York Times
+120,1,Florida Airport Assailant May Have Heard Voices Urging Violence, Officials Say - The New York Times
+212,1,Sessions, Trump, Dylann Roof: Your Tuesday Evening Briefing - The New York Times
+213,1,Your Morning Briefing: Rafsanjani, Donald Trump, Kabul - The New York Times
+215,1,Sentenced to Death: A Look at Dylann Roof’s Rampage and Its Aftermath - The New York Times
+336,1,Cubans Planning to Leave for U.S. Face a Bleak New Reality - The New York Times
+427,1,On Obama’s Pardon List: A Hotel Magnate Who Owned Studio 54 - The New York Times
+432,1,Death Toll in Mistaken Bombing of Camp in Nigeria Climbs to 70 - The New York Times
+726,1,Quebec Mosque Attack Forces Canadians to Confront a Strain of Intolerance - The New York Times
+881,1,Jaguars Owner Shahid Khan Opposes Trump’s Immigration Ban - The New York Times
+1114,1,Russia Deploys Missile, Violating Treaty and Challenging Trump - The New York Times
+1399,1,Tunisia Fears the Return of Thousands of Young Jihadists - The New York Times
+1415,1,What It Was Like Onstage During the Oscars 2017 Best Picture Mistake - The New York Times
+1742,1,Jordan Frees Soldier Who Killed 7 Israeli Schoolgirls in ’97 Rampage - The New York Times
+1951,1,A Friend Lied About Dylann Roof’s Massacre Plan. Now He’ll Go to Prison. - The New York Times
+2232,1,Yevgeny Yevtushenko, Poet Who Stirred a Generation of Soviets, Dies at 83 - The New York Times
+2504,1,Why ‘Sorry’ Is Still the Hardest Word - The New York Times
+2536,1,The Battle Over the Sea-Monkey Fortune - The New York Times
+2652,1,A Former Girl Soldier in Colombia Finds ‘Life Is Hard’ as a Civilian - The New York Times
+2897,1,Light Sentence for Brock Turner in Stanford Rape Case Draws Outrage - The New York Times
+2964,2,Oscar Pistorius Is Unfit to Testify at Sentencing, Psychologist Says - The New York Times
+3112,1,Your Monday Evening Briefing: Brexit, Abortion, ‘Game of Thrones’ - The New York Times
+3285,1,The Mysterious Metamorphosis of Chuck Close - The New York Times
+3329,1,‘I Feel a Deep Sense of Remorse,’ Donald Trump’s Ghostwriter Says - The New York Times
+3332,1,Republican Convention, Baton Rouge, Turkey: Your Monday Evening Briefing - The New York Times
+3402,1,With 100 Days to Go, Candidates Take Fight to Battleground States - The New York Times
+3412,1,Donald Trump Criticizes Muslim Family of Slain U.S. Soldier, Drawing Ire - The New York Times
+3449,1,Dylann Roof’s Lawyers Argue Against Death Penalty - The New York Times
+3759,1,Donald Trump’s Surrogates Back Off ‘Deportation Force’ for Illegal Immigrants - The New York Times
+4294,1,‘The Birth of a Nation’ Struggles at the Box Office - The New York Times
+4422,3,Merciless End for a Long Island Cop Killer - The New York Times
+4549,1,Colombia Reaches New Peace Deal With Rebels - The New York Times
+4742,1,Sotheby’s Tries to Block Suit Over a Leonardo Sold and Resold at a Big Markup - The New York Times
+4867,1,Man Who Hacked Celebrities’ Email Accounts Gets 5 Years in Prison - The New York Times
+4991,1,Congregants’ Quiet Agony at the Dylann Roof Trial - The New York Times
+5184,2,Judith Clark’s Radical Transformation - The New York Times
+5396,3,The Colombian Hit Man Who Became a YouTube Star - The New York Times
+5403,1,Court Papers Give Insight Into Stanford Sex Assault - The New York Times
+5413,2,Oscar Pistorius Removes His Artificial Legs at Sentencing Hearing - The New York Times
+5454,1,Democrats End Sit-In After 25 Hours, Drawing Attention to Gun Control - The New York Times
+5475,1,Pro-‘Brexit’ City of Sunderland Glad to Poke Establishment in the Eye - The New York Times
+5524,1,Oscar Pistorius Sentenced to 6 Years in Reeva Steenkamp Murder - The New York Times
+5758,1,A Suicidologist’s New Challenge: The George Washington Bridge - The New York Times
+6052,1,Hillary Clinton, Donald Trump, Samsung: Your Monday Briefing - The New York Times
+6117,1,Buying at a Used Car Auction? What You Don’t Know Could Kill You - The New York Times
+6152,1,On Election Day, Little Chance of Changing That Early Vote - The New York Times
+6273,1,U.S. Seeks Death for Charleston Shooting Suspect. Victims’ Families Prefer Mercy. - The New York Times
+6372,1,Jurors Hear Dylann Roof Explain Shooting in Video: ‘I Had to Do It’ - The New York Times
+6481,1,Japanese Leader’s Pearl Harbor Visit, Called a First, Looks More Like a Fourth - The New York Times
+6642,1,Seeking Answers, Michael Phelps Finds Himself - The New York Times
+6653,1,Gay Catholic Groups Want Pope Francis to Do More Than Apologize - The New York Times
+6823,1,Gene Wilder, Huma Abedin, Donald Trump: Your Monday Evening Briefing - The New York Times
+7260,1,Victims in Istanbul Airport Attack Reflect City’s International Character - The New York Times
+7368,1,Obama, Pressing Senators, Delays Veto of Bill Exposing Saudis to 9/11 Suits - The New York Times
+7403,3,Donald Trump Talks at Debate, but Many Women Hear Only a 2005 Tape - The New York Times
+7477,1,For Blacks Facing Parole in New York State, Signs of a Broken System - The New York Times
+7611,1,Anthony Weiner, Who Always Had Something to Say, Goes Silent - The New York Times
+7662,1,The Financial Benefits of Buying What You Love - The New York Times
+8625,1,Terrorist Who Killed Lee Rigby Will Pursue £20,000 Lawsuit for Teeth Broken in Prison
+9136,1,Angel Moms: Trump Administration to Support Program Helping Americans Hurt by Illegal Alien Crime - Breitbart
+9364,1,Goya Drops Puerto Rican Day Parade Celebrating Terrorist Freed by Obama
+10046,1,Egypt Court Sentence Man to Death for Murdering Christian Alcohol Retailer
+10582,1,CNN’s Chris Cillizza Begs People to ‘Stop Talking’ About Anthony Weiner
+10973,1,Woman Accused of Murdering Son-in-Law Celebrates Killing
+11322,1,GABRIEL: The War on Girls - Breitbart
+11947,1,MILO and Pamela Geller Protest Sharia-Advocate Linda Sarsour in NYC - Breitbart
+12057,1,Poll: 96% of Trump Supporters Would Vote for Him Again, Win Popular Vote - Breitbart
+12149,1,Pope Francis Apologizes for Catholic Church’s Role in 1994 Rwanda Genocide
+13061,1,Detroit Rapper Molly Brazy Seen Pointing Gun at a Toddler’s Head in Video - Breitbart
+13324,1,Eight Convictions in Asylum Seeker Gang Rape Case
+15181,1,Woman Only Given Probation After Allegedly Admitting She Raped 13-Year-Old Boy
+15982,1,Driver Slams Car Into Veteran’s Vehicle ’in the Name of Allah’
+16402,1,Metallica Exacts Revenge on Super Bowl With Epic Show
+16617,1,Journalists Hound Nate Parker, Acquitted for Rape Charge Bill Clinton Walks Free - Breitbart
+16824,1,Borelli: Why is Prominent Hillary Surrogate Tweeting Out Support for A Terrorist as Orlando Victims Lay Dying? - Breitbart
+17169,1,Stalker’s Nude Peephole Vid Transforms Erin Andrews to ‘Shell of Person She Used to Be’ - Breitbart
+17591,1,Obama’s Hiroshima Visit: Fishing for a Legacy - Breitbart
+18303,1,EXCLUSIVE - Bishop Aubrey Shines: On Immigration, Jobs, School Choice, Donald Trump Is the Candidate Black Voters Have Been Waiting For - Breitbart
+18911,1,Rome: Ex-Boyfriend Burns Co-Ed Alive as Passing Motorists Ignore Her
+19043,1,Attorney for Illegal Alien in Prom-Night Drunk Driving Murder Case Blames Police
+19478,3,Two Men Get 10 Years for Raping Drugged Woman in Broad Daylight
+19668,2,Pence: Grateful That Trump Has ’Expressed Remorse and Apologized to the American People’ - Breitbart
+20294,1,Stanford Rape Judge Cleared: No ’Convincing Evidence of Bias’
+20317,1,Vandal Slashes Trump Supporter’s Tires, Declares He ’Improved Community’ - Breitbart
+20925,1,Matt Damon Defends Sean Penn’s El Chapo Interview
+21596,1,’Evil’ Child Grooming Gang Convicted
+21911,1,How Donald Trump Can Win Iowa - Breitbart
+22103,1,Gays Want Church Action, Not Apologies - Breitbart
+22499,1,Mike Pence in Charlotte: ‘I Believe in Forgiveness’ Trump ‘Showed Heart, Humility, Then Fought Back’
+22569,1,First Latina ’SNL’ Actress Under Fire for ’Racist’ Tweets
+23261,1,Hillary Emails: Clinton Personally Oversaw Corrections to Already-Glowing Washington Post Profile
+24322,1,***Live Updates*** Bernie, Hillary Meet in New Hampshire Town Hall - Breitbart
+24378,2,Cologne Migrant Who Licked And Groped Girls Laughs As He Walks Out of Court a Free Man
+25490,1,EXCLUSIVE - Trump Adviser: Rubio Will Never Say ’I’m Sorry’ for Gang of 8 Bill - Breitbart
+25642,1,Rouhani Rails Against U.S. ’Lack of Compliance’ with Nuclear Deal
+25652,1,’All Lives Matter’: Chinese-Americans Rally to Support Cop Found Guilty of Manslaughter - Breitbart
+25847,1,George Soros Cites ‘Buyers Remorse’ After Brexit
+26464,1,Pitt Students ’In Tears’ and Feeling ’Unsafe’ After Milo Yiannopoulos Event - Breitbart
+27321,1,Plouffe on Trump: ’We Basically Have A Psychopath Running For President’ - Breitbart
+28668,1,Bilderberg 2016 Guest List Combines Enough Elite Names to Make Everyone Feel Uneasy - Breitbart
+29554,1,Jack Hunter: Anatomy Of A Cuckening - Breitbart
+30740,1,Former Manson Cult Member Leslie Van Houten Gets Parole Recommendation Four Decades After Notorious Murder Spree - Breitbart
+31654,2,Dylann Roof: ’There’s nothing wrong with me psychologically’
+31826,2,Dylann Roof jury: Death penalty for Charleston church shooter
+32014,1,Obama commutes Puerto Rican nationalist’s sentence
+32386,1,Inside the Rohingya Resistance: The rebels who provoked Myanmar’s crackdown
+32440,1,Is anti-Trump furor papering over Democrats’ working-class woes?
+32465,2,Why this statue of a young girl caused a diplomatic incident
+32613,1,Conrad Murray Fast Facts
+33229,1,Europe is teetering on edge of change Trump might push it over
+33267,2,Canadian judge resigns over rape comments
+33534,1,Carrie Fisher and Debbie Reynolds celebrated
+33999,1,Man accused of attacking rally protester says Trump inspired him
+34357,1,The FBI translator who went rogue and married an ISIS terrorist
+34854,1,Ariana Grande on fatal Manchester terror attack: ’I don’t have words’
+35129,1,The four reasons people commit hate crimes
+36261,2,Japanese Emperor Akihito considering abdication, broadcaster says
+36503,1,Father of slain social media star: ’It is my desire to take revenge’
+36886,1,’Grim Sleeper’ killer sentenced to death
+36904,1,Colorado family says son died while fighting with Kurdish forces
+37114,1,Lochte: ’I over-exaggerated’ robbery story
+37321,1,Former Obama aide: Trump is a ’psychopath’
+37416,1,The search for a Speedo-wearing guru
+37423,2,Mad about Brock Turner’s sentence? It’s not uncommon
+37435,3,Brock Turner released after 3 months in jail
+37540,1,Meet ’Queen Sugar’ standout Kofi Siriboe
+37917,1,Obama vetoes 9/11 lawsuit bill
+38058,1,Congress suddenly has buyer’s remorse for overriding Obama’s veto
+38099,1,Governor signs bill stemming from Brock Turner case
+38116,1,9/11 widow files lawsuit against Saudi Arabia
+38186,1,Who won the debate?
+38259,1,Pakistan passes milestone law for women
+38276,1,Trump throws GOP into chaos
+38278,1,Which Republicans are abandoning Trump and which are sticking by him?
+38292,1,Trump: ’Zero chance I’ll quit’
+38427,1,GOP must speak out over Trump’s sexism
+39402,1,Suburban voters make a president, and they can break him, too
+39741,1,Could this former death squad member bring down Duterte?
+39918,1,Georgia executes Vietnam vet in deputy’s murder
+40005,1,How right was Romney?
+40240,1,Apartheid assassin granted parole
+40328,1,Former pop star Gary Glitter guilty of child sex abuse
+40493,1,Kanye West apologizes to Beck, Bruno Mars
+40494,1,Gary Glitter gets 16-year sentence for child sex abuse
+40707,1,Is Judas in hell?
+40824,1,Bihar cheating scandal: What parents in India will do for good grades
+41010,3,The fight for Dzhokhar Tsarnaev’s life
+41182,1,Chinese TV star Bi Fujian caught insulting Mao
+41197,1,California judge faces recall try over rape sentence
+41207,1,Boston bombing trial: Sentencing begins
+41251,1,Video released of deadly police shooting in Tulsa
+41374,1,Public shaming, social media, ruined lives
+41410,1,Prosecutor: ’Tsarnaev was and is unrepentant’
+41462,1,Tsarnaev trial: The middle finger seen ’round the world
+41554,1,The Dzhokhar Tsarnaev the defense wants you to know
+41600,1,Educator calls out ’black people’ for leaving graduation
+41694,1,Ladies and gentlemen of the jury, listen with your eyes
+41877,1,Dennis Hastert Fast Facts
+41927,2,Unlikely friendship blossoms between killer and scholar
+42094,1,A look inside the ’broken’ mind of James Holmes
+42361,1,The birth of a psychopath
+42556,4,Boston bomber Dzhokhar Tsarnaev says he’s sorry
+42558,4,Boston bomber’s trial leaves a lingering sadness
+42986,1,Opinion: Feel disrespected? Pull a gun
+43206,1,Charleston church shooter Dylann Roof sentenced to death
+44149,1,A timeline of events that unfolded during the election appears to support the FBI’s investigation into Trump and Russia
+47237,1,Here’s the letter that the ex-Stanford swimmer wrote to the court before his sentencing
+47410,1,I feel way less dumb now for buying an iPhone 6S
+47525,1,A Goldman Sachs partner denied banging his shoe on a table in anger at a former salesman
+48156,1,THE LEBRON JAMES INTERVIEW: The world’s best athlete reveals how his team pulled off the greatest comeback in NBA history
+48444,1,Clinton walks back ’deplorables’ comment: I ’regret’ using the term to describe ’half’ of Trump’s supporters
+48866,1,Ex-Wells Fargo CEO John Stumpf has no one to blame but himself
+49016,1,Obama is trying to fix the ’war on drugs’ with clemency — but it won’t make a dent in mass incarceration

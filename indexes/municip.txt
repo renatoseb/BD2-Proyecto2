@@ -1,0 +1,400 @@
+2,1,Tyrus Wong, ‘Bambi’ Artist Thwarted by Racial Bias, Dies at 106 - The New York Times
+124,1,He Helped Topple a Dictator. In New York, He’s Another Face in the Crowd. - The New York Times
+129,3,In Sweden, Happiness in a Shorter Workday Can’t Overcome the Cost - The New York Times
+205,2,Uber Extends an Olive Branch to Local Governments: Its Data - The New York Times
+329,1,In the Shopping Cart of a Food Stamp Household: Lots of Soda - The New York Times
+362,1,Celebration of Martin Luther King Jr. Still Faces Pushback - The New York Times
+457,1,At Least 20 Firefighters Killed in Tehran Building Collapse - The New York Times
+478,1,Pet Pigs of New York: Illegal, Embattled, Beloved - The New York Times
+497,1,Quicken Loans, the New Mortgage Machine - The New York Times
+535,1,Shanghai Dwellings Vanish, and With Them, a Way of Life - The New York Times
+634,1,On Lebanon’s Once-Sparkling Shores, a Garbage Dump Grows - The New York Times
+642,1,As Migrants Strain Border Towns, Pressure Builds on Mexico to Act - The New York Times
+656,1,As Climate Change Accelerates, Floating Cities Look Like Less of a Pipe Dream - The New York Times
+1026,1,Going Home to Falluja, a City Slipping Back Into Turmoil - The New York Times
+1044,1,State G.O.P. Leaders Move Swiftly as Party Bickers in Congress - The New York Times
+1045,1,Losing Hope in U.S., Migrants Make Icy Crossing to Canada - The New York Times
+1153,1,Legacy of Rio Olympics So Far Is Series of Unkept Promises - The New York Times
+1213,1,Trump’s Dual Roles Collide With Openings in Dubai and Vancouver - The New York Times
+1277,1,Clashes in Stockholm Suburb Draw Attention to Trump’s Remarks - The New York Times
+1321,1,Weakened Democrats Bow to Voters, Opting for Total War on Trump - The New York Times
+1340,1,An Aquatic Paradise in Mexico, Pushed to the Edge of Extinction - The New York Times
+1347,2,Sweden, Nation of Open Arms, Debates Implications of Immigration - The New York Times
+1349,2,Amazon Deforestation, Once Tamed, Comes Roaring Back - The New York Times
+1398,2,Joseph A. Wapner, Judge on ‘The People’s Court,’ Dies at 97 - The New York Times
+1519,2,Ingrid LaFleur, Artist and Curator, Enters Detroit’s Mayoral Race - The New York Times
+1623,1,C.I.A., International Women’s Day, Barcelona: Your Thursday Briefing - The New York Times
+1633,12,As Dubai’s Skyline Adds a Trophy, the Architect Calls It Stolen - The New York Times
+1748,1,The New Party of No - The New York Times
+1805,4,Populists Appear to Fall Short in Dutch Election, Amid High Turnout - The New York Times
+1814,1,Ban on Head Scarves at Work Is Legal, E.U. Court Rules - The New York Times
+1919,2,David Rockefeller, Philanthropist and Head of Chase Manhattan, Dies at 101 - The New York Times
+1973,1,Roused by Trump, First-Time Female Candidates Eye Local Seats - The New York Times
+2001,1,For Kansas Coach Bill Self, Sticking to Basketball Is Convenient - The New York Times
+2031,1,President James K. Polk’s Body May Be Moved. Again. - The New York Times
+2094,1,Lacking E.M.T.s, an Aging Maine Turns to Immigrants - The New York Times
+2104,1,Coal Miners Hope Trump’s Order Will Help. But Few Are Counting on It. - The New York Times
+2109,1,5 Reasons Trump’s Promised Tax Overhaul Won’t Be So Easy - The New York Times
+2166,1,Bathroom Law Repeal Leaves Few Pleased in North Carolina - The New York Times
+2208,2,‘I’ve Got Thick Skin’: We Talk to the Pro-Trump Mayor Who Was Running From Us - The New York Times
+2216,1,Senate Narrowly Passes Rollback of Obama-Era ‘Auto-I.R.A.’ Rule - The New York Times
+2231,1,Chechen Authorities Arresting and Killing Gay Men, Russian Paper Says - The New York Times
+2304,1,Russia Moves to Ban Jehovah’s Witnesses as ‘Extremist’ - The New York Times
+2565,1,Scenes of Ruin After Ecuador Earthquake Kills Hundreds - The New York Times
+2579,1,Appeals Court Favors Transgender Student in Virginia Restroom Case - The New York Times
+2583,1,Iceland’s Water Cure - The New York Times
+2616,1,Housing Bias Outlasts Ruling in a Long Island Village - The New York Times
+2644,1,Where Did the Government Jobs Go? - The New York Times
+2696,2,Wildfire Empties Fort McMurray in Alberta’s Oil Sands Region - The New York Times
+2867,2,Firebombs and Accusations Fly in ‘Ruthless’ Election Campaigns in Mexico - The New York Times
+2961,2,Supreme Court Rejects Puerto Rico Law in Debt Restructuring Case - The New York Times
+2980,1,Orlando, Disney, Donald Trump: Your Wednesday Evening Briefing - The New York Times
+3006,1,Apple iPhone Is Targeted in Beijing Patent Case - The New York Times
+3088,1,Investing in an Emotional Trust Fund for Your Children - The New York Times
+3135,1,Cleveland Relaxes Rules on Protests Near G.O.P. Convention Site - The New York Times
+3168,1,Pyrotechnic Party of Legend, Killed Off by Social Media - The New York Times
+3174,1,A Remote Pacific Nation, Threatened by Rising Seas - The New York Times
+3259,1,How a $2 Roadside Drug Test Sends Innocent People to Jail - The New York Times
+3290,1,Scores Die in Nice, France, as Truck Plows Into Bastille Day Crowd - The New York Times
+3311,2,ISIS Claims Truck Attacker in France Was Its ‘Soldier’ - The New York Times
+3333,1,In Istanbul, Optimism Fades to a Familiar Melancholy - The New York Times
+3341,1,Miles of Algae and a Multitude of Hazards - The New York Times
+3501,2,Election Shows Many South Africans Losing Faith in ‘Pompous’ A.N.C. - The New York Times
+3521,1,Think Tank Scholar or Corporate Consultant? It Depends on the Day - The New York Times
+3612,1,An Olympic Event Where 1st Prize Is the Chance to Lose Billions - The New York Times
+3613,1,In the Brazilian Rain Forest, ‘a White Elephant, a Big One’ - The New York Times
+3680,1,English Village Becomes Climate Leader by Quietly Cleaning Up Its Own Patch - The New York Times
+3729,1,Hopes Dim for Survivors of Italy Quake Death Toll Stands at 267 - The New York Times
+3737,1,Donald Trump, Hillary Clinton, Federal Reserve: Your Friday Evening Briefing - The New York Times
+3758,1,‘No Vacancies’ for Blacks: How Donald Trump Got His Start, and Was First Accused of Bias - The New York Times
+3861,1,On Labor Day, Donald Trump and Hillary Clinton Begin a Final Sprint - The New York Times
+3897,1,Some See Anti-Women Backlash in Ouster of Brazil’s President - The New York Times
+3963,1,America’s Inequality Problem: Real Income Gains Are Brief and Hard to Find - The New York Times
+3982,1,A.C.C. Pulls League Championships Out of North Carolina - The New York Times
+4052,1,Fort Lee Officials Recall Chaos and Turmoil as Lanes to Bridge Were Closed - The New York Times
+4054,1,Chicago Is Planning to Add Hundreds of Police Officers - The New York Times
+4079,1,Chris Christie Protected Culprit in Bridge Lane Closings, Agency Head Testifies - The New York Times
+4130,2,A Toilet, but No Proper Plumbing: A Reality in 500,000 U.S. Homes - The New York Times
+4292,2,In Bridgeport, Property Values Plummet, but Taxes Soar for Some - The New York Times
+4333,3,Misconduct Complaint Against Christie Has Merit, Judge Finds - The New York Times
+4378,1,Dalian Wanda of China Offers a Carrot to Hollywood - The New York Times
+4467,1,A One-Cent Soda Tax Gets Expensive in California - The New York Times
+4574,1,Israel’s Right, Cheering Donald Trump’s Win, Renews Calls to Abandon 2-State Solution - The New York Times
+4680,1,Why Betsy DeVos Won’t Be Able to Privatize U.S. Education - The New York Times
+4737,1,California Today: Fretting Over the ‘Netflix Tax’ - The New York Times
+4748,1,Germany Gleefully Leads List of World’s Top Recyclers - The New York Times
+4793,2,‘We Are Orphans Here’ - The New York Times
+4804,2,Judge Rejects Bid for Special Prosecutor to Investigate Christie in Bridge Scandal - The New York Times
+4921,1,Geert Wilders, Dutch Far-Right Leader, Is Convicted of Inciting Discrimination - The New York Times
+5007,1,In Montreal, an Ungainly and Unloved Christmas Tree - The New York Times
+5034,1,The Mosque Next Door: City Law vs. Houses of Faith - The New York Times
+5042,1,As Trump Signals Climate Action Pullback, Local Leaders Push Forward - The New York Times
+5063,1,The Long, Lonely Fall of a Heisman Trophy Winner - The New York Times
+5082,1,Automakers Prepare for an America That’s Over the Whole Car Thing - The New York Times
+5094,1,Hunt for Berlin Suspect Ends in Gunfire on an Italian Plaza - The New York Times
+5104,5,In American Towns, Private Profits From Public Works - The New York Times
+5231,1,Investigators Say Mexico Has Thwarted Efforts to Solve Students’ Disappearance - The New York Times
+5253,2,Why Mayor de Blasio Is Facing So Many Investigations - The New York Times
+5283,1,Police Official Found Dead on Long Island, and Suicide Is Suspected - The New York Times
+5451,1,Michigan Attorney General Sues 2 Companies Over Flint Water Crisis - The New York Times
+5483,1,A Sea of Charter Schools in Detroit Leaves Students Adrift - The New York Times
+5533,2,Study Supports Suspicion That Police Are More Likely to Use Force on Blacks - The New York Times
+5576,1,Baton Rouge, Turkey, U.S. Presidential Race: Your Weekend Briefing - The New York Times
+5602,3,Attacker in Nice Plotted for Months and Had Accomplices, French Prosecutor Says - The New York Times
+5633,1,Federal Appeals Court Strikes Down North Carolina Voter ID Requirement - The New York Times
+5789,2,Court Overturns ‘Burkini’ Ban in French Town - The New York Times
+5794,1,As La Guardia Is Overhauled, the Check-In Line Starts at the Highway - The New York Times
+5845,1,A.N.C.’s Combative Response to Election Losses Startles South Africa - The New York Times
+5905,1,Connecticut to Appeal Decision in Schools Funding Case - The New York Times
+5909,1,California Today: A ‘See Something, Say Something’ Prostitution Plan - The New York Times
+5916,1,Can You Erase the Trauma From a Place Like Sandy Hook? - The New York Times
+5922,5,A Sour Surprise for Public Pensions: Two Sets of Books - The New York Times
+5974,1,Plan to Let Migrant Children Attend School Enrages Many Greeks - The New York Times
+5977,1,U.S. Murders Surged in 2015, F.B.I. Finds - The New York Times
+6026,1,Objects From New York’s Buried Past Find a New Home in Midtown - The New York Times
+6030,1,United States Criticizes Israel Over West Bank Settlement Plan - The New York Times
+6067,2,Now Hiring: Under de Blasio, New York’s Government Grows to Record Level - The New York Times
+6145,1,Media’s Next Challenge: Overcoming the Threat of Fake News - The New York Times
+6152,1,On Election Day, Little Chance of Changing That Early Vote - The New York Times
+6218,3,The New Shapes of New York - The New York Times
+6235,1,Dallas Stares Down a Texas-Size Threat of Bankruptcy - The New York Times
+6285,1,‘Trump Effect’ Is Already Shaping Events Around the World - The New York Times
+6287,2,Cities Vow to Fight Trump on Immigration, Even if They Lose Millions - The New York Times
+6449,1,New York City Should Keep ID Data for Now, Judge Rules - The New York Times
+6477,1,A Defiant Israel Vows to Expand Its Settlements - The New York Times
+6513,1,Inquiries Cloud de Blasio’s Bid to Come Off as Strong Manager Before ’17 Race - The New York Times
+6516,4,Southern Cities Split With States on Social Issues - The New York Times
+6532,3,Missing Mexican Students Suffered a Night of ‘Terror,’ Investigators Say - The New York Times
+6555,1,Gisele Inc. - The New York Times
+6558,1,Rift Between Labor and Environmentalists Threatens Democratic Turnout Plan - The New York Times
+6588,1,Japanese Boy, 7, Left on Mountain by Parents Is Found Alive - The New York Times
+6706,1,Truck Attack in Nice, France: What We Know, and What We Don’t - The New York Times
+6731,2,6 More State Workers Charged in Flint Water Crisis - The New York Times
+6734,1,Critics See Efforts by Counties and Towns to Purge Minority Voters From Rolls - The New York Times
+6749,1,Fatah Makes Incendiary Facebook Claim of Killing 11,000 Israelis - The New York Times
+6750,3,A.N.C. Suffers Major Election Setback in South Africa - The New York Times
+6800,1,Rent-to-Own Homes: A Win-Win for Landlords, a Risk for Struggling Tenants - The New York Times
+6816,1,Yellen Sees Stronger Case for Interest Rate Increase - The New York Times
+6928,3,Timber Company Tells California Town, Go Find Your Own Water - The New York Times
+7039,1,Killers on a Shoestring: Inside the Gangs of El Salvador - The New York Times
+7121,5,Mexico Grapples With a Surge in Violence - The New York Times
+7124,1,Democrats and Feds in Dispute on Trump’s D.C. Hotel Lease - The New York Times
+7129,3,Mexican Report Says Investigators Botched Search for 43 Students - The New York Times
+7290,1,The End of the Office Dress Code - The New York Times
+7308,1,A ‘Water Bomb’ of a Storm Kills 21 in Macedonia’s Capital, Skopje - The New York Times
+7526,1,Wife and Her Lover Are Arrested in Killing of Greek Envoy in Brazil - The New York Times
+7658,1,Rudolph Giuliani’s Business Ties Viewed as Red Flag for Secretary of State Job - The New York Times
+7736,1,Obama Plays Down Confrontation With China Over His Plane’s Stairs - The New York Times
+7983,1,United Nations Elects Saudi Arabia to Women’s Rights Commission - Breitbart
+8083,2,Transgender Politics: NC Keeps Core of HB2 Sexual Privacy Law While Ending Sports Boycott - Breitbart
+8205,1,Small Town Attack: ’African, Arab’ Men Use Stolen Tools to Terrorise Locals
+8351,1,KASSAM at CPAC Slams Establishment Media: ‘I’ve Been to Sweden, You Guys Just Don’t Get it!’
+8354,1,Illegal Alien Flees to Avoid Trial on Food Stamp Scam
+8355,1,NM State Capital ’Thumbs Its Nose’ at Trump’s Sanctuary City Threats
+9142,1,Watchdog Claims 5K Noncitizens Registered to Vote in Virginia
+9460,1,AG Sessions: Sanctuary Cities That Fail to Comply with Immigration Laws Risk Losing Federal Dollars - Breitbart
+9609,1,’Maduro Diet’: 3 Out of 4 Venezuelans Lost ’At Least 19 Pounds’ in 2016 - Breitbart
+9726,2,Swedish Finance Minister Admits ’Big Problems’ with Economy After Migrant Influx
+9777,1,97% of Voters in Bankrupt Puerto Rico Want Statehood - Breitbart
+10127,2,Swedish Minister: Country Needs To Integrate Returning Islamic State Fighters
+10252,1,Blue State Blues: South Africa’s Democratic Experiment, in Crisis - Breitbart
+10266,1,Gun-Controlled Chicago Ends 2016 with Nearly 800 Homicides for the Year
+10317,1,Cartel Robberies Continue Along Mexican Border State Highways
+10767,1,President Trump Tells Nashville Rally Healthcare Bill Will Be Arbitrated, Negotiated - Breitbart
+10774,1,Huntington Beach Goes to War Against Threat to Force District System - Breitbart
+10878,3,Rahm Emanuel Invents New ID to Ensure Illegals Get Their Welfare - Breitbart
+11093,1,Cincinnati Mayor: We Are Now a Sanctuary City
+11363,1,Number of Swedish Children Wanting to Change Gender Doubling Each Year - Breitbart
+11801,2,Bankrupt Puerto Rico Voting on U.S. Statehood - Breitbart
+11879,1,Anti-Abortion Democrat Candidate Defeated in Election for Mayor of Omaha - Breitbart
+11924,1,Gangs of ’Unaccompanied Minors’ Beating, Robbing Women in Montpellier - Breitbart
+12184,2,Tel Aviv City Hall Lit with Egyptian Flag Following Terror Attack on Coptic Christians
+12194,2,LIVE WIRE Dutch Elections: High Turnout Expected, Controversy Over Turkish Mosque Polling Centre
+12675,1,Narco-terror: Cartel Dumps Dismembered Bodies in Mexican Border State
+12777,1,Madrid Buses Ban Men ’Manspreading’ - Breitbart
+12799,1,Bear Bites Off Palestinian Boy’s Arm at West Bank Zoo
+12820,1,Unity in Division: Tom Perez Named DNC Chair, Selects Keith Ellison as Deputy Chair
+13032,1,Sweden Builds Camel Park to Help Integrate Migrants - Breitbart
+13448,1,Anger After Unvetted Migrants Hired To Walk Children To School
+13505,1,Venezuelan Police ’Run Over and Torture’ 14-Year-Old Boy with Tank - Breitbart
+13646,1,CA State Senator Amends Bill to Make ’Discrimination Against’ Border Wall Contractors Legal - Breitbart
+13698,1,Pastor and Wife Arrested for Homeschooling Children in ’Normalized’ Cuba - Breitbart
+13758,1,Former Obama Aide Fined $90,000 for Unethical Lobbying for Uber
+14217,1,4th Journalist Murdered in Mexico Within Weeks
+14254,1,Jailed Mexican Cartel Boss Could Expose Dirty Cops
+14416,1,Alcohol, Drugs and Lesbianism: Arab Israeli Film Faces Backlash
+14528,1,Washington City Council to Consider ’Sanctuary City’ Label
+14723,1,FAKE NEWS: Salon Claims Trump Letting ICE ’Deport Whoever They Want’
+15208,2,Population of Malmö Growing Solely Because of Migration
+15325,2,Texas Mayor Beth Van Duyne Joins Trump Administration
+15372,1,Puerto Rico to File Largest Public Sector Bankruptcy in History - Breitbart
+15519,1,Charlie Hebdo Receives Bomb Threats After Mocking Burkini Ban
+15918,1,VIDEO: Migrant Camp Attacked in Greece
+16110,3,Politicians Admit Migrants To Cost Germany More Than 30 Billion Euros A Year
+16311,2,France Defends Burkini Ban On Tense Post-Attack Beaches
+16551,2,Marco Rubio Under Fire Over Voting For West Miami City Commission Gun Ban In Public Parks - Breitbart
+16680,3,Anti-Establishment Candidate Leads Rome Mayoral Race
+16817,1,Israeli West Bank Leader Publishes Open Letter Supporting Bannon
+17459,1,Judge Rules Texas Courthouse Gun-Free Zone
+17566,1,Tens Of Thousands Flee Raging Israeli Bushfires - Breitbart
+18154,3,Sweden Introduces Women Only Swimming To Accommodate ’New Arrival’ Muslims
+18181,1,Arab Social Media Fumes over French Burkini Ban
+18293,7,No Memorial For Slain Migrant Worker In Sweden For Fear Of Offending Migrants
+18579,1,Dutch Court: Populist Lawmaker Wilders Guilty of ’Incitement to Discrimination’
+18909,2,Puerto Rico’s $70 Billion Defaulted Debt Jumps to $113 Billion
+18914,1,Pro-Lifers Target Companies That Incinerate Dead Babies - Breitbart
+19075,1,Belgian Authorities Arrest 12 Terror Suspects Fearing Impending Attack - Breitbart
+19258,1,South African Mayor Defends ’Virginity Scholarships’
+19381,1,SOURCE: Mayor’s Son Executed in Mexican Border State after Apparent Torture
+19465,1,Flint’s Water a Recurring, Democrat Problem - Breitbart
+19661,1,NAACP President Compares Colin Kaepernick to Rosa Parks
+19679,2,Boy Beaten After Backing Donald Trump in School Mock-Election - Breitbart
+19917,2,Politician Bussed-In Migrants To Guilt Pupils From Conservative Values
+20209,2,New Jersey Town Offers Tips to Illegal Immigrants on How to Skirt ICE Raids - Breitbart
+20398,2,Puerto Rico Intends to Default Despite U.S. Aid - Breitbart
+20648,1,17 Per Cent of Teachers Quit Migrant Crisis Malmö in Six Months
+20766,1,Protesting Teachers Extinguish Olympic Torch in Rio de Janeiro - Breitbart
+21276,1,In Search of Donald Trump Democrats - Breitbart
+21395,1,Obama vs. Sun Tzu: The Price of Not Making a Threat Assessment
+21437,1,Philippines Celebrates Pacquiao’s Bitter-Sweet Final Victory - Breitbart
+21601,1,Dolly Parton Comes Out Against North Carolina Trans Bathroom Law: ’If I Have to Pee, I’m Gonna Pee’ - Breitbart
+21698,2,’Sanctuary California’ Faces Bankruptcy if Trump Withholds Funds
+21729,1,Cali DMV Demands Uber Stop Self-Driving Cars in San Francisco
+21796,2,Texas AG: Sanctuary Cities Ignore the Rule of Law
+21849,2,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+21914,1,Mexican Mayor Murdered Less Than One Day After Taking Office
+22006,1,Small Island, Population 137, To Get 2,000 Migrant Asylum Centre
+22427,2,Gun Owners of America Backs Cruz: ’Rubio Owes Cruz an Apology’ on Gun Control Statements - Breitbart
+22505,1,Seattle City Council Says ’Happy New Year’ by Raising Gun, Ammo Prices
+22550,1,Capozzola: Donald Trump’s EPA Pick Could Roll Back Costly Climate Regulations - Breitbart
+22789,1,British Gov Tells Travelers ‘Human Rights’ Are At Risk the US
+22801,1,Zuckerberg Security Hogs SF Parking Spaces - Breitbart
+22938,1,‘Elegant Brunette’ Leads Populist Revolt in Rome Mayoral Race
+22981,1,Brazil Hosts ’National Day Against Zika’ as Virus Fears Escalate
+22988,1,Tim Kaine Cancels Sarasota FL Event - Breitbart
+23188,2,Chicago Debt Downgraded to Near ’Junk Bonds’ - Breitbart
+23231,1,Men-Only Swimming At Public Luton Pool A ’Cultural Thing’
+23319,1,Brazil’s Leftist Workers’ Party Collapses in First National Election Since Impeachment
+23819,1,Watch: ’America Should Not Become Like Brussels’ Says Belgian Pro-Trump Politician
+24052,1,I’m Gay And I’ve Been Banned From San Francisco! - Breitbart
+24202,1,Obamacare Pressures California University to Fire U.S. Professionals, Hire Foreign H-1B Workers
+24236,2,Previously Deported Illegal Alien to Stand Trial for Murder
+24713,1,Israel Returns to PA Body of Terrorist Who Killed U.S. Army Veteran in Tel Aviv - Breitbart
+24832,1,Bruce Springsteen Cancels North Carolina Concert over ’Anti-LGBT’ Religious Freedom Law - Breitbart
+24865,1,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+24888,1,Mexican Cop Shoots Illegal Immigrant Children - Mistook for Cartel Gunmen - Breitbart
+24954,1,North Tel Aviv on Edge: Half of Kids no Show for School
+25008,2,Explosions Hit Brussels Airport, One Killed - Belgian Media
+25062,1,Germany: Educating Migrants To Cost €3 Billion A Year - Breitbart
+25092,2,Three More French Towns Set To Join Burkini Ban
+25226,2,Cops and GOP Convention Goers are Sitting Ducks, Says Cleveland Police Union
+25574,2,French Town Ordered to Remove Virgin Mary Statue From Public Park
+25916,1,French Jewish Politician Alain Ghozland Found Murdered Near Paris - Breitbart
+26022,1,Twitter Allows Saudi Group To Promote Tweet Defending Yemen Intervention - Breitbart
+26033,1,Justice Department May Crack Down on Sanctuary Cities - Breitbart
+26328,1,Merkel: National Push Needed in Germany to Deport Migrants
+26496,1,Mexican Border State Political Campaigns Took Millions from Drug Cartels, Say Witnesses
+26497,1,Green Europe is Killing 40,000 Poor People a Year
+26996,1,Dozens Killed in Mexican Fireworks Market Explosion
+27125,1,Coup Purge: Turkey Ousts Only Christian Mayor - Breitbart
+27361,2,Merkel’s Party, Sliding in Polls, Explores Speedy Repatriation Centres - Breitbart
+27393,1,Five Things That Might Kill You at the Olympics
+27464,1,Twitter Blocks James O’Keefe Before Big Release - Breitbart
+27696,1,Migrants Refuse Jobs, Claiming They Are ’Guests of Merkel’
+27905,1,Reports: Zika Case Discovered in Israel
+28529,3,’Earth Hour’ Blackout Cancelled Because Of Migrant Rape
+28609,1,After Minimum Wage Hike, UC Berkeley Cuts 500 Staff - Breitbart
+29016,4,Sweden Evicts Disability, Dementia Groups to Make Way for Migrants
+29111,2,Industry: Government Will Fail To Meet Migrant-Population Boom House-Building Targets
+29224,1,EXCLUSIVE: Joe Biden’s Security Beefed Up As Veep Half a Mile from Scene of Jaffa Terrorist Stabbing Rampage
+29404,1,Renzi: Italy ‘Cannot Handle Another Year’ of 155,000 Immigrants
+29465,5,Asylum Centre Worker Allegedly Filmed Sex Acts with Underage Migrants
+30074,1,Anti-Trump Protester April Foster Charged with Hitting Police Horse in Kansas City - Breitbart
+30201,1,European Union Says U.S. Bathroom Privacy Bills Illegal
+30334,1,Black Lives Matter Protesters Torch French Town
+30830,1,America on Verge of Zika Pandemic Aerial Pesticides Next - Breitbart
+30929,5,Conservatives Blast Puerto Rico $33B Debt Forgiveness - Breitbart
+31076,1,’In God We Trust’ Now on More Texas Police Cars
+31253,1,WATCH: Tel Aviv Mayor Plays Giant Tetris Game On City Hall Facade
+31517,1,Diddy Donates 1 Mil Water Bottles to End ’Racial Killing’ in Flint
+31543,1,Virologist Who Discovered Zika: ’No Funding’ for Research
+31591,1,Timeline: Turkey’s bloody year
+31621,1,Turkey nightclub victims from 14 countries
+31728,1,What we know about Fort Lauderdale suspect
+31753,1,Video shows moment airport gunman opened fire
+31758,1,Fort Lauderdale suspect’s gun once held by police
+31841,1,What the last 48 hours told us about Trump’s next 4 years
+32156,1,Trump to direct federal resources toward building a border wall on Wednesday
+32229,1,Every order Trump has signed and what his actions mean
+32436,1,Crowds across US protest Trump policies
+32801,1,Chris Christie Fast Facts
+32973,1,Fire at Swedish asylum shelter injures 15 to 20
+32980,2,3 dead in California plane crash
+33105,1,Cyberattack hits PA Democrats’ computers
+33352,1,Obama tried to take Andrew Jackson off the $20. Now Trump is visiting his grave.
+33531,1,Netanyahu’s honeymoon with Trump ends abruptly
+33618,1,California’s replenished snowpack brings relief -- and worries
+33625,1,North Carolina repeals ’bathroom bill’
+33999,1,Man accused of attacking rally protester says Trump inspired him
+34001,1,Saudi Arabia Fast Facts
+34088,2,3 killed during anti-government protests in Venezuela
+34182,1,Trump’s 100-day score card
+34399,1,CNN 10 - May 4, 2017
+34561,1,Daughter, father, future doctor: Victims of unrest in Venezuela
+34580,1,Judge finds probable cause to charge Amtrak engineer in derailment
+34622,1,Amtrak engineer faces charges in fatal 2015 derailment
+34882,1,Lawsuit: Mississippi deprives black children of equal education
+35078,1,Toxic foam floods the streets of Bangalore
+35227,1,What’s on the agenda for Texas special session
+35228,1,Welcome to Lebanon ... in the United States
+35371,1,Puerto Rico statehood vote: Big support -- but small turnout
+35508,2,Portugal wildfire: 62 killed, victims burned in cars as they fled
+35627,2,Are both sides in gun debate half right?
+35676,1,Belgian police arrest 12 in overnight raids
+36011,1,Rio mayor: State doing a ’terrible job’
+36023,1,Brain-eating amoeba at unusually high levels
+36065,1,’Super bacteria’ discovered in Rio’s waters
+36161,1,Sanders loses on trade, wins on minimum wage
+36312,1,Attack in Nice: Driver of truck identified as 31-year-old Tunisia native
+36609,1,Flint water crisis: New criminal charges filed
+36630,1,Prosecutor: 1 charged in Belgium terror probe
+36633,1,China’s private museums: Icons or art?
+36742,1,What keeps people from military service?
+36889,1,Baltimore’s DOJ report: The 6 most egregious examples
+36911,1,Thailand: At least six blasts hit two cities within hours
+36978,1,Fallen officers: 64 shot dead this year
+36980,1,How to register to vote in every US state and territory
+37109,1,Life inside the Philippines’ most overcrowded jail
+37441,1,Hermine heads north for holiday weekend
+37468,1,Hermine’s path shifting away from New York City
+37624,1,This is the devastating effect of heroin that Ohio city wants you to see
+37641,2,Turkey replaces 28 mayors, sparking outcry, protests
+37695,1,Paralympics: Tatyana McFadden wins 5th gold
+37878,1,Should I worry about chromium-6 in drinking water?
+38057,1,Mayor pushed to resign after racist posts
+38121,1,Man sues police, says face smashed into cruiser windshield
+38161,1,Supreme Court, like the country, struggles with race
+38306,1,Egypt gets a new capital - courtesy of China
+38372,2,Judge issues criminal summons against Christie
+38491,1,The final debate: CNN’s Reality Check Team vets the claims
+38645,1,John Thune Fast Facts
+38823,1,This is what ’whitelash’ looks like
+38978,1,Mexico’s Popocatepetl Volcano spews ash miles into the air
+39038,1,Colombia plane crash: 71 dead on Brazil soccer team’s charter flight
+39110,1,Two presidents, two Indiana visits, two partisan reactions
+39460,1,Harlem deer dies of stress before relocation
+39548,3,Orania: South Africa’s whites-only town
+39565,1,Parishioner charged in Mississippi church fire
+39586,1,Fort Worth police investigate arrest caught on video
+39655,1,Israeli official: Proof of US role in UN vote to be given to Trump
+39718,2,Israel backs away from Jerusalem settlement vote
+39830,1,Attack will empower Europe’s far right (Opinion)
+39855,1,Who were victims in Charlie Hebdo, other Paris attacks?
+40020,1,State of the Union: Obama’s Robin Hood turn
+40094,1,Drone carrying drugs crashes south of U.S. border
+40188,1,Court to toss Friendship Nine’s sit-in convictions
+40196,2,Arctic city of Kiruna to be dismantled and rebuilt
+40206,1,S.C. judge tosses sit-in convictions for Friendship 9
+40579,12,How Ferguson’s tickets, fines violated rights of blacks
+40606,9,Judge resigns, Ferguson cases moved after DOJ report
+40740,1,Ohio same-sex couple claims videographer discriminated
+41079,1,Ferguson’s ugly, racist emails released
+41104,1,California water: End of the LA lawn (Opinion)
+41143,4,Ferguson: Voters could change face of council Tuesday
+41157,2,How much will city election change Ferguson, Missouri?
+41297,1,Rio 2016: Dead fish wash up in Olympic lagoon
+41690,1,To legalize pot, stop the infighting (Opinion)
+41698,1,Laramie, Wyoming passes LGBT anti-discrimination bill
+41840,2,What can be done to stop deadly floods? (Opinion)
+41908,2,Drought-stricken Southwest considers water desalination
+41929,1,Residents flee as volcano erupts on Japanese island
+42240,1,Judge: Probable cause for charges in Tamir Rice case
+42308,1,Puerto Rico’s economy matters in 2016 race (Opinion)
+42309,1,Breckenridge and social media react to pot vote
+42785,2,Why Tom Selleck deserves his #droughtshaming (opinion)
+42927,1,Trump supporters shrug off McCain controversy
+43276,1,The Ringling Bros. and Barnum & Bailey Circus is leaving town for good after 146 years
+44537,1,A judge just blocked Trump’s order on ’sanctuary cities’ — but they still offer only limited protection
+44693,1,Meet Emmanuel Macron, the 39-year-old former investment banker who will be the next French president
+45082,1,People Trump blocked on Twitter claim he violated their First Amendment rights
+45138,1,Trump’s ’air-travel revolution’ could make flying more expensive
+45148,1,Puerto Rican vote shows overwhelming support for US statehood
+45267,1,Here come the minimum wage hikes
+46406,1,This is why public transportation in the US is crumbling
+46549,26,This is the smartest fix for America’s crumbling infrastructure
+47283,2,Why Detroit has one of America’s worst public transportation systems
+47297,1,America’s gas stations are running out of time
+47767,1,One of Mexico’s most notorious kingpins has come out of the shadows, and the battle between cartels is murkier than ever
+48092,1,Tesla has big plans to build 3 electric vehicles that nobody wants
+48152,1,Venezuela just crushed 2,000 guns in public, but the country is still awash in weaponry
+48375,1,One of the most powerful women on Wall Street is the second person in New York to have this cutting-edge procedure
+48544,1,The fight over the Dakota Access Pipeline reveals oil’s fatal flaw
+49256,1,Here’s what Trump means when he says ’drain the swamp’ — even though it’s not an accurate metaphor
+49541,2,A pensions time bomb spells disaster for the US economy
+49648,1,’All anyone ever wanted was to be treated no better than animals’: Syrians lose hope as Aleppo falls
+49737,2,Multiple explosions at a fireworks market north of Mexico City reportedly leave at least 31 people dead
+49863,1,Donald Trump’s Interests vs. America’s, Dubai Edition
+49899,2,The Ideological Reasons Why Democrats Have Neglected Local Politics
+49956,1,What Jeff Sessions’s Role in Prosecuting the Klan Reveals About His Civil-Rights Record
+49978,1,Can the Flaws in Credit Scoring Be Fixed?
+49997,1,Trump Announces Plan That Does Little to Resolve His Conflicts of Interest

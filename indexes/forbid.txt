@@ -1,0 +1,265 @@
+327,1,Rich Chinese, Inspired by ‘Downton,’ Fuel Demand for Butlers - The New York Times
+410,1,Physician Aid in Dying Gains Acceptance in the U.S. - The New York Times
+495,1,The Guide to Being an Airbnb Superhost - The New York Times
+531,1,Taxpayers Will Defend Trump in Suit Charging Constitutional Violations - The New York Times
+548,1,Trump Revives Keystone Pipeline Rejected by Obama - The New York Times
+801,1,For Europe, There’s a New Threat in Town: The U.S. - The New York Times
+849,1,The Met Opera’s ‘Rusalka’ Is a Dark, Sexy Hit - The New York Times
+904,1,Goodbye, for Good, to Black Sabbath - The New York Times
+909,1,Marine Le Pen Echoes Trump’s Bleak Populism in French Campaign Kickoff - The New York Times
+916,1,The President Has Much Power Over Immigration, but How Much? - The New York Times
+957,1,How to Buy a Used Car in an Age of Widespread Recalls - The New York Times
+990,2,Downside of Being a Global Hub: Invasive Species - The New York Times
+1314,1,Turkey Allows Women in Military to Wear Hijabs, in Cultural Shift - The New York Times
+1445,1,Shaky Jobs, Sluggish Wages: Reasons Are at Home - The New York Times
+1580,1,Turkish Referendum Has Country Trading Barbs With Germany Over Free Speech - The New York Times
+1617,1,Kazakh Capital, a Post-Soviet Creation, Is Growing Real Roots - The New York Times
+1821,1,The Magician Who Wants to Break Magic - The New York Times
+1828,1,2 Federal Judges Rule Against Trump’s Latest Travel Ban - The New York Times
+1861,1,Newly Public Emails Hint at Gorsuch’s View of Presidential Power - The New York Times
+1868,1,Donald Trump Jr. Is His Own Kind of Trump - The New York Times
+1942,1,The Hawaii Cure - The New York Times
+1996,1,Jewish Center Bomb Threat Suspect Is Arrested in Israel - The New York Times
+2084,1,White House to States: Shield the Undocumented and Lose Police Funding - The New York Times
+2246,1,Jared Kushner, SpaceX, Baseball: Your Weekend Briefing - The New York Times
+2392,1,Respect Your Cat (Not That It Cares) - The New York Times
+2439,1,A Polarized Supreme Court, Growing More So - The New York Times
+2445,1,Frederick Wiseman: The Filmmaker Who Shows Us Ourselves - The New York Times
+2641,1,Donald Trump Sweeps 5 States Hillary Clinton Takes 4 - The New York Times
+2685,1,Doctor, Warned to Be Silent on Abortions, Files Civil Rights Complaint - The New York Times
+2703,1,U.S. Warns North Carolina That Transgender Bill Violates Civil Rights Laws - The New York Times
+2808,1,Can Donald Trump Win? These Battleground Regions Will Decide - The New York Times
+3047,1,Diary of a Cruise Season - The New York Times
+3232,1,In Week of Emotional Swings, Police Face a Dual Role: Villain and Victim - The New York Times
+3241,1,The Agony of the Digital Tease - The New York Times
+3433,1,Are Final Clubs Too Exclusive for Harvard? - The New York Times
+3463,1,Barnyard Dust Offers a Clue to Stopping Asthma in Children - The New York Times
+3516,1,Suicide Bomber Kills Dozens at Pakistani Hospital in Quetta - The New York Times
+3600,1,In U.S. Jails, a Constitutional Clash Over Air-Conditioning - The New York Times
+3761,1,SEAL Team 6 and a Man Left for Dead: A Grainy Picture of Valor - The New York Times
+3776,1,Apple Is Said to Owe Back Taxes to Irish Government - The New York Times
+3857,1,In Brooklyn, Stifling Higher Learning Among Hasidic Women - The New York Times
+3994,1,Diabetes and Your Diet: The Low-Carb Debate - The New York Times
+4130,1,A Toilet, but No Proper Plumbing: A Reality in 500,000 U.S. Homes - The New York Times
+4201,1,A Rabbi’s Enduring Sermon on Living Your Last Five Minutes - The New York Times
+4403,1,Used Cars Slip Past Recall Safeguards, Putting Drivers in Danger - The New York Times
+4495,1,Donald Trump’s Victory Promises to Upend the International Order - The New York Times
+4588,1,Dear John: Brooklyn Bridge Discourages Token of Love, With a Smile - The New York Times
+4669,1,Global Warming Alters Arctic Food Chain, Scientists Say, With Unforeseeable Results - The New York Times
+4687,1,Condemning ‘Fake News,’ but Running Fake-News Ads - The New York Times
+4767,1,Trump’s Economic Cabinet Picks Signal Embrace of Wall St. Elite - The New York Times
+4776,1,U.S. Will Ban Smoking in Public Housing Nationwide - The New York Times
+4814,1,The Scourge of Racial Bias in New York State’s Prisons - The New York Times
+5019,1,As President Joseph Kabila Digs In, Tensions Rise in Congo - The New York Times
+5113,1,Inside the Trump Organization, the Company That Has Run Trump’s Big World - The New York Times
+5136,1,Kidney Fund Seen Insisting on Donations, Contrary to Government Deal - The New York Times
+5261,1,With Larry Wilmore Before the White House Correspondents’ Dinner - The New York Times
+5264,1,Your Monday Evening Briefing: Hillary Clinton, Donald Trump, Bitcoin - The New York Times
+5483,1,A Sea of Charter Schools in Detroit Leaves Students Adrift - The New York Times
+5972,1,What We Know About the Details of the Police Shooting in Charlotte - The New York Times
+5988,1,Ohio, Long a Bellwether, Is Fading on the Electoral Map - The New York Times
+5999,1,Supreme Court Faces Volatile, Even if Not Blockbuster, Docket - The New York Times
+6292,1,Donald Trump, Colombia, Fidel Castro: Your Wednesday Briefing - The New York Times
+6570,1,Economic Promises a President Trump Could (and Couldn’t) Keep - The New York Times
+6985,1,Confidence Even as Hillary Clinton’s Momentum Slows - The New York Times
+7027,1,Poland Exhumes Ex-President’s Body in Inquiry of 2010 Plane Crash - The New York Times
+7039,2,Killers on a Shoestring: Inside the Gangs of El Salvador - The New York Times
+7269,1,Piles of Dirty Secrets Behind a Model ‘Clean Coal’ Project - The New York Times
+7307,1,Tim Kaine Says Hillary Clinton Has Learned From Email ‘Mistake’ - The New York Times
+7575,2,A Saudi Morals Enforcer Called for a More Liberal Islam. Then the Death Threats Began. - The New York Times
+7586,1,Electoral Map Gives Donald Trump Few Places to Go - The New York Times
+7587,1,Donald Trump Risks Alienating Military Communities in Swing States - The New York Times
+7799,1,Federal Judge Curbs Enforcement of North Carolina Transgender Access Law - The New York Times
+7867,1,Video Shows Texas Dem Encouraging ’Sanctuary’ Protesters from House Floor
+8775,1,Gorsuch Hits the Ground Running at Supreme Court - Breitbart
+9049,1,State to Block Removal of Migrant Victims of ‘Right Wing’ Crime
+9304,1,Senate Confirms Scott Pruitt to Lead Trump’s EPA Despite Dems’ Delay Tactics - Breitbart
+9388,2,Appeals Court Judges Explain Why Donald Trump’s Immigration Order is Legal - Breitbart
+9422,1,John Bolton: Moving U.S. Embassy to Jerusalem as Simple as Moving the Sign from One Building to Another
+9593,1,Liz Warren Launches Book Hours Before Being Tossed from Sen Floor
+9626,1,Five Outrages Inside UNESCO Resolution Denying Israeli Ties to Jerusalem, Judaism’s Holiest Sites
+9719,1,Texas to Sanctuary Sheriff: Reverse Course or Lose Funds
+9721,1,Saudi Institute Reverses Decision to Allow Women to Wear Pants
+9794,1,Reuters: Largest 10 ’Sanctuary Cities’ May Lose $2.27 Billion in Federal Funding - Breitbart
+10244,1,FULL TEXT – MILO at Cal Poly State University: ’No More Dead Babies’ - Breitbart
+10325,1,DONNELLY: How California DMV Could Settle the Question of Voter Fraud - Breitbart
+10661,4,’Muslim Majority’ Versus Islamic Nations, Part 2: Sharia Law and Islam as the State Religion - Breitbart
+10682,1,Texas State Rep. Claims Death Threats, Assault from Fellow House Members
+10789,1,Lawsuit Clouds Texas Transgender Student Wrestler’s Championship
+11062,1,’Women Only’ Screenings of ’Wonder Woman’ to Benefit Planned Parenthood
+11319,1,Despite Democrat Obstruction U.S. Senate Confirms Mike Pompeo as Next Director of CIA - Breitbart
+11395,1,Defense Attorney: Illegal Alien Rockville Rape Suspect an ’Unjust Scapegoat by the Opponents of Recent Immigration Practices’
+11749,1,Dem Bill Strips ’Police’ from ICE Agent Uniform
+11835,1,Illegal Aliens in Maryland HS Bathroom Sex Case Face Child Porn Charges
+11844,1,US Woman’s Soccer Player Rapinoe Won’t Stop Speaking Out on Social Issues - Breitbart
+11861,1,Iran Denies Ballistic Missile Test Violated Nuclear Deal - Breitbart
+11951,1,Schools Asked To ’Show Sensitivity’ To Muslims By Adapting Classes Around Ramadan
+12163,1,After 6,000 Exorcisms, Priest Says ‘The Devil Is Afraid of Me’
+12170,1,Leftist Philosopher Predicts "Immediate Riots" If Le Pen Wins
+12304,1,VIDEO: Anti-Western Hindu Extremists Assault Couples in India on Valentine’s Day - Breitbart
+12357,2,Pelosi: Barring Illegal Immigrants From Citizenship Is ’Just Not Respectful, And Not Worthy of Our Country’ - Breitbart
+12385,1,Pinkerton: The Plutocrats vs. the People: Trump’s Paris Climate Decision Exposes the Latest Battle in the Class War
+12394,1,Tennessee Enacts Nation’s ’Most Comprehensive’ Campus Free Speech Law
+12990,1,Jay H. Lehr: The Beginning of the End of EPA
+13075,1,Big Cases Still Waiting for Supreme Court Decisions in 2017 - Breitbart
+13828,1,MILO: Aquinas and Augustine Were Radical Progressives - Breitbart
+14050,1,Gun Controllers Advertise ’Bulletproof Hoodies’ for Students on Campus Carry Campuses
+14213,1,Supreme Court Ponders Striking Down State Constitution Anti-Faith Amendments
+14682,1,Women Kicked Out of Women’s Shelter to Make Room for a ’Transgender’ Man - Breitbart
+14969,1,Exclusive: Sarah Palin on Donald Trump’s First 100 Days
+14970,1,The Left’s Latest Tactic – Smear Trump as Mentally Unfit
+15014,1,Washington Redskins Spike Football After Asian ’Slants’ Band’s Trademark Victory at Supreme Court - Breitbart
+15055,2,Mike Pompeo: Attempts to Invalidate Trump’s Presidency Plays into Putin’s Hands - Breitbart
+15076,1,’Fairy Godmother’ Brings Migrants to Europe in EU-Backed Cartoon
+15520,1,Zumwalt: Revealing Iranian Mullah’s Love of Moolah - Breitbart
+15838,1,Libertarian Austin Petersen Wants ’A World Where Gay Married Couples Can Defend Their Marijuana Fields’
+15901,2,Cruz Electrifies South Carolina Conservative Convention: ’We Can’t Get Burned Again’ - Breitbart
+16210,1,Celebs Sink to New Lows in GOP Debate Reactions, Mock Cruz’s Dead Sister
+16330,1,Glenn Beck Blasts #NeverTrump Convention Coup Plotters: ‘The Time to Defeat Trump Was in the Primary’ - Breitbart
+16515,1,Belgian Prisons ’Like North Korea’ As Strike Crisis Hits - Breitbart
+16545,1,Geert Wilders: Let’s Dump Turkey
+16606,1,England Flag Banned From Eurovision
+16816,1,Obama Invites 18.7 Million Immigrants to Avoid Oath of Allegiance, Pledge to Defend America - Breitbart
+16857,1,The Empire Strikes Back Against Sen. Ted Cruz - Breitbart
+16962,1,Michael Savage: Trump ‘Needed Palin Like a Hole in the Head’ - Breitbart
+16967,1,Rob Reiner Says He Won’t Shoot in North Carolina Because of Anti-Trans Law - Breitbart
+17147,1,Facebook Censorship and the War on Free Speech - Breitbart
+17212,1,Log Cabin Republicans Call for Obama to Say ’Radical Islam’
+17933,1,Saudi Arabia: Authorities Arrest Two Men for Hosting Dog Beauty Pageant - Breitbart
+17937,1,New Democrat Brainstorm: Forgive Student Loan Debt, So the Kids Can Take Out Mortgages - Breitbart
+18076,1,Ed Klein on DNC/Media Collusion: ‘You Can Cover the Circus but You Can’t Sleep with the Elephants’ - Breitbart
+18181,1,Arab Social Media Fumes over French Burkini Ban
+18211,1,’Clinton Act of 2016’: Republican Bill Banning Foreign Donations
+18520,1,Black Lives Matter ’Victim’ Was to Be Deported for Crimes, Twice
+19443,1,Andy McCarthy: Trump is a Thinned Skinned Tyrant - Breitbart
+19631,1,Former SEAL Carl Higbie: ‘If Hillary Clinton Is the Commander-in-chief, Half the Military Is Gonna Get Out’ - Breitbart
+19690,1,Exclusive-Breitbart/Gravis Poll Reveals Americans Strongly Oppose Obama’s Internet Handover - Breitbart
+19764,1,Andrew McCarthy: ‘No, the Constitution Does Not Bar Religious Tests in Immigration Law’ - Breitbart
+19803,1,Establishment Playbook to Defeat Donald Trump Echoes Smears Against Barry Goldwater - Breitbart
+20111,1,Trump Should Not Dilute Republican Pro-life Platform - Breitbart
+20313,2,Indonesia: Elderly Christian Woman Caned for Selling Alcohol
+20590,1,Hiring Criminals to Hire Criminals: Your Tax Dollars at Work
+21009,1,French MP: France Should Learn From Israel In War On Terror - Breitbart
+21027,2,EXCLUSIVE - Gay Porn Kingpin: ’Islam Vomits on Gays, Women’
+21036,1,Twitter Protects Violent BLM and ISIS Users, Bans Milo over Celeb Spat - Breitbart
+21119,1,Federal Court Blocks Obama Transgender Directive Nationwide
+21164,1,Progressives’ Hatred of Nationalism Pushes US Towards the End of Sovereignty - Breitbart
+21420,1,FULL TEXT: ’A Merry MILO Christmas’ at Minnesota State University - Breitbart
+21601,1,Dolly Parton Comes Out Against North Carolina Trans Bathroom Law: ’If I Have to Pee, I’m Gonna Pee’ - Breitbart
+21680,1,Obama Administration Denies Jerusalem Is Located in Israel - Breitbart
+21897,1,Elon Musk Earmark in Defense Authorization Bill Would Hurt National Security - Breitbart
+22158,1,Exclusive-America’s Generals: ’Criminal’ Hillary ’Unfit to Serve as Commander-in-Chief’ - Breitbart
+22213,1,Viral Video Shows UAE Woman ’Humiliating’ Servant
+22505,1,Seattle City Council Says ’Happy New Year’ by Raising Gun, Ammo Prices
+22630,1,Danny DeVito: NC’s Bathroom Law Treats Transgenders as ’Second-Class Citizens’
+22720,1,Paul Ryan Says He Passed Bill to Pause Somali Refugee Program
+22784,1,Anti-Cop Twitter Users Celebrate Police Deaths, Call For More Violence - Breitbart
+23050,1,US House Pressures Obama to Declare Islamic State Slaughter ’Genocide’
+23330,1,Google Removes App Used to Identify, Track Jews Online - Breitbart
+23692,1,#NeverTrump Needs to Learn From Clinton Email Whitewash - Breitbart
+23746,1,DAVI: It’s Time for Trump to Take The Lumps Out - Breitbart
+23946,3,FULL TEXT: 10 Things Milo Hates About Islam - Breitbart
+24111,1,Frank Gaffney: We’ll Likely Find a ’Mosque Fomenting Jihad’ in OSU Attacker’s Background
+24406,1,Jeb: This Is Now a Fight with Trump Over Conservatism - Breitbart
+24538,1,FAKE NEWS: Kassam Hits Back at BBC’s Nazi ’Lugenpresse’ Revisionism
+24790,1,CAIR Honcho Explodes at Breitbart: ‘You Are Anti-Muslim Bigots’
+24818,1,Facebook Cracks Down on ’Hate Speech’ Against Migrants in Europe - Breitbart
+24869,1,Trump Poll Monitors Stand Strong Despite Anti-Poll Monitor Efforts
+24972,1,New York Times Writer ’Jokes’: Trump Campaign Ends with Assassination Attempt - Breitbart
+25089,1,More Calls For Using DDT to Control the Zika Epidemic - Breitbart
+25264,1,House Kills Transgender Bill After Moderate Republicans Panic - Breitbart
+26015,1,Rubio: Hillary Will Probably Have To Pardon Herself If Elected, I’d Repeal All ’Unconstitutional’ Obama Orders On Day 1 - Breitbart
+26658,1,USCIS Backs Up ICE: ’God Forbid’ Rubio Gets Elected, He’s a ’Wolf in Sheep’s Clothing’ - Breitbart
+26706,1,Rabbi Shmuley Boteach Defends Steve Bannon from ADL
+26967,1,PICTURES: Demonstrators Proclaim ’Islam Kills Women’ Outside Parliament
+27491,1,John Bolton: Obama Administration’s ‘Politicized Intelligence’ Does ‘Grave Harm’ to Public Confidence in Intel Community
+27614,1,Abbas Accuses Israel of Destroying the Environment With Settlements - Breitbart
+27966,1,Texas School Digs In for Ban on Charlie Brown Christmas Display
+28015,1,Texas School Threatens to Punish Parents Who Walk Children Home
+28027,1,Jack Abramoff: If Hillary Clinton Is Elected, She Will Have ‘Gotten Away with Selling Our Government for Hundreds of Millions of Dollars’
+28104,1,Ann Coulter–Voters Deliver Subtle Message: Die, Donor Scum - Breitbart
+28505,1,Child Bride Legally Married Under Sharia Law, German Judge Rules
+28669,1,Joe Biden Exposes Military Aide with Nuclear Codes During Rally
+29064,1,WATCH: Short Film ’Praesidium’ Highlights Danger Of Gun-Free Zones - Breitbart
+29562,1,Saudi Academic: End Gender Segregation In Islam
+29967,1,History Explains Why Terror Attacks Spike During Ramadan
+30488,1,Egypt Pens Legislation to Ban Niqab in Public Places
+30675,3,31 of Supreme Court Justice Antonin Scalia’s Greatest Quotes - Breitbart
+30718,1,The Panama Papers Claim to Expose World Leaders’ Riches
+30720,1,New Orleans PD Won’t End ‘Sanctuary City’ Policies
+30938,1,The 10 Most Problematic Places To Find Pokémon - Breitbart
+31512,1,New York Lawmaker Vows to Ban Food Stamp Recipients from Buying Steak, Lobster, Candy - Breitbart
+31582,2,Constitution Allows Muslim Immigration Ban
+32172,1,Why we’re suing Donald Trump
+32259,1,Judges temporarily block part of Trump’s immigration order, WH stands by it
+32285,1,Trump’s travel ban: What we know
+32297,1,Synagogue where Trump’s grandchild goes to preschool condemns travel ban
+32328,1,Trump’s first days in office spawn dozens of lawsuits
+32400,1,Georgia lawmaker moves to shake up college rape investigations
+32677,2,Why Michael Flynn likely won’t face charges under the Logan Act
+33021,1,Pruitt: We’ll focus research on EPA ’priorities’ -- not necessarily climate change
+34135,1,Sarah Palin’s treatment at Fox News: Ailes called her ’hot’, Wallace hoped she would sit in his lap
+34411,2,New US embassy designs make a bold statement
+34508,1,Boko Haram Fast Facts
+34978,1,Embassies get broad discretion to limit travelers
+35577,1,Warmbier death raises pressure on White House
+35627,2,Are both sides in gun debate half right?
+35934,1,Police offer motive for Texas mom who killed daughters
+36469,1,Virginia Supreme Court strikes down McAuliffe order on felons’ voting rights
+36586,1,Freddie Gray officers suing prosecutor
+36735,1,Stop calling Trump crazy
+38038,1,Ehud Olmert Fast Facts
+38203,1,Reality Check Quick Takes: Pence misstates Trump position on Putin
+38359,2,Is 50 the new 40 for motherhood?
+38546,1,Supreme Court won’t restore court order against Trump over poll-watching in Ohio
+38652,1,Trump appears open to compromise on Obamacare
+38663,1,What history says about ’Calexit’
+38665,1,Trump’s national security guru
+38688,1,What Trump victory could mean for LGBT Americans
+39384,1,Ohio governor vetoes ’heartbeat’ abortion bill
+39502,1,GOP’s illegal power grab in North Carolina
+39548,1,Orania: South Africa’s whites-only town
+39679,1,Opinion: Obama administration was hypocritical on UN’s Israeli settlements vote
+39734,1,Putin: Russia won’t expel US diplomats
+39826,1,Charlie Hebdo attack: What we know and don’t know
+40013,1,Fighting death: At 75, nun’s soul still stirs for cause
+40019,1,Chomsky: Paris attacks show hypocrisy of West’s outrage
+40022,1,Supreme Court backs beards in prison
+40071,1,Protests break out in Supreme Court
+40130,1,ISIS claims it’s beheaded one Japanese hostage
+40223,1,Aaron Hernandez murder trial and the Super Bowl
+40367,1,Copenhagen shootings leave 2 dead, 5 injured
+40407,1,Denmark suspect swore fidelity to ISIS leader
+40626,1,Iran letter: Did 47 Republican senators break the law?
+40649,1,Senators grill Obama officials on Iran
+40740,1,Ohio same-sex couple claims videographer discriminated
+40911,1,Pence signs bill allowing businesses to reject gay customers
+40949,1,Indiana’s anti-LGBT law a preview for 2016?
+41146,1,Aaron Hernandez maintains his swagger in court
+41535,1,Two killed at Mohammed cartoon event in Garland, Texas
+41562,1,Dzhokhar Tsarnaev relative testifies in bombing trial
+41701,1,Source: Aaron Hernandez involved in prison fight
+41910,1,Protests, counterprotest outside Phoenix mosque
+41946,1,Rand Paul warns of plan to derail NSA vote
+42509,1,Smuggler captain defends trafficking
+42560,1,Supreme Court sides with NAACP on housing
+43320,1,Boeing, Chevron, and other huge companies are spending $90 million on Trump’s inauguration
+43390,1,Democrats introduce bill to curb Trump’s ability to launch a nuclear strike
+43874,1,Trump has 5 priorities for his Obamacare replacement — here’s what they could mean for you
+44086,1,Al Franken slams Gorsuch over a ’absurd’ dissent in frozen trucker case: ’It makes me question your judgment’
+44143,1,The US government’s laptop ban is now in effect — here’s what we know so far
+44232,1,The Middle East’s top 3 airlines are cleverly defying the US government’s laptop ban
+44537,1,A judge just blocked Trump’s order on ’sanctuary cities’ — but they still offer only limited protection
+44665,1,French presidential candidate Emmanuel Macron targeted in a ’massive’ computer hack
+45421,1,Netflix, Juniper, and Intuit explain how Amazon is eating the $3.5 trillion IT industry
+45461,1,The 2 most dangerous numbers in the universe are threatening the end of physics
+45716,1,This might be one of the most sensible, scientifically supported diets we’ve ever seen
+46157,1,An Ohio judge just issued an order allowing 17-year-olds to vote in the primary
+46408,1,The FBI asked the US State Department to stop investigating Hillary Clinton’s emails
+47113,1,A 22-year-old ’molded’ to vote for Hillary Clinton explains why he and his wife are supporting Trump
+47297,1,America’s gas stations are running out of time
+49362,1,Trump’s business ties and the future of his empire are under renewed scrutiny after postelection meetings
+49376,1,’The president can’t have a conflict of interest’: Trump addresses renewed controversy surrounding business ties
+49647,1,Ethics experts say Trump’s latest move to distance himself from his business empire is not enough: ’Nothing of consequence has changed’
+49939,1,The Donald Trump Cabinet Tracker
+49989,2,The Atlantic Daily: Passing the Presidential Mic

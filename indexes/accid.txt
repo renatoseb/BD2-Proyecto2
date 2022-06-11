@@ -1,0 +1,914 @@
+35,1,SpaceX Says It’s Ready to Launch Rockets Again - The New York Times
+40,1,Republican Party, Megyn Kelly, Titanic: Your Wednesday Briefing - The New York Times
+97,2,L.I.R.R. Train That Crashed Was Going Over Twice Speed Limit, Inquiry Finds - The New York Times
+117,1,California Today: Cracking Down on Distracted Driving - The New York Times
+128,2,Dozens of Inmates Killed as Prison Violence Escalates in Brazil - The New York Times
+142,1,When Killer and Victim’s Mother Meet, Paths From Grief, Fear and Guilt Emerge - The New York Times
+197,1,Israel Buries 4 Soldiers, but the Mourning Is Marred by Discord - The New York Times
+328,1,SpaceX Launches Rocket, Its First Since Explosion on Launchpad - The New York Times
+332,1,A Big Test for Big Batteries - The New York Times
+383,1,Joe Biden: ‘I Wish to Hell I’d Just Kept Saying the Exact Same Thing’ - The New York Times
+394,1,As Support for E.U. Flags Elsewhere, Bulgaria Sees Its Benefits - The New York Times
+422,1,Davos Elite Fret About Inequality Over Vintage Wine and Canapés - The New York Times
+480,1,Supreme Court Justice Helping to Oversee Brazil Graft Inquiry Dies in Plane Crash - The New York Times
+494,1,Amid Fistfights, Turkey’s Parliament Backs a New Constitution - The New York Times
+497,1,Quicken Loans, the New Mortgage Machine - The New York Times
+513,1,How Emotion Over Pet Care Helps Explain Human Health Spending - The New York Times
+518,4,Baseball Tragedy: Two Players Die in Crashes in the Dominican Republic - The New York Times
+519,5,Hirakhand Express Train Derails in Southern India, Killing Dozens - The New York Times
+562,1,Are New Drugs for Hepatitis C Safe? A Report Raises Concerns - The New York Times
+683,2,50 Years After Apollo Disaster, Memorial for 3 Men, and for Era - The New York Times
+691,1,‘To Hell and Back’ as a Cancer Survivor, Storm Victim and Caregiver - The New York Times
+709,1,Troops Who Cleaned Up Radioactive Islands Can’t Get Medical Care - The New York Times
+743,1,Trump Nominates Neil Gorsuch to the Supreme Court - The New York Times
+759,1,For Couriers, China’s E-Commerce Boom Can Be a Tough Road - The New York Times
+765,3,Directors From Sundance on What Happened Next - The New York Times
+831,1,Amid Opioid Overdoses, Ohio Coroner’s Office Runs Out of Room for Bodies - The New York Times
+934,1,Left-Behind Explosives Taking Deadlier Toll on Afghan Children, U.N. Says - The New York Times
+942,3,Comatose, Then Homeless: ‘My Closest Friend Has Been Pain’ - The New York Times
+963,1,How a Fractious Women’s Movement Came to Lead the Left - The New York Times
+994,2,Time and a Relentless Clock Weigh on Hamburg Soccer Team - The New York Times
+1029,1,Japan Limited Immigration Now It’s Short of Workers - The New York Times
+1038,1,Surging on the Riviera, With Mario Balotelli in Tow - The New York Times
+1061,1,Trump Responds to North Korean Missile Launch With Uncharacteristic Restraint - The New York Times
+1157,1,F.A.A. Investigates Errant Flight Involving Harrison Ford - The New York Times
+1179,3,U.S. Traffic Deaths Rise for a Second Straight Year - The New York Times
+1197,1,What to Do If You Get Sick Abroad - The New York Times
+1201,1,Lawyer Says Robert Durst’s Former Friend Concocted His Story of a Confession - The New York Times
+1220,2,Is a Teen Depressed, or Just Moody? - The New York Times
+1305,1,How Trump Might Become a Workplace Disrupter - The New York Times
+1320,2,Dale Earnhardt Jr. Begins Again After Concussion, With Altered Priorities - The New York Times
+1331,1,The Jobs Americans Do - The New York Times
+1385,1,Feyisa Lilesa, Marathoner in Exile, Finds Refuge in Arizona - The New York Times
+1420,1,Life Span of South Korean Women Is Headed Toward 90 - The New York Times
+1433,1,Trump, Kellyanne Conway, Samsung: Your Tuesday Evening Briefing - The New York Times
+1469,1,Baseball’s Too Slow. Here’s How You Fix It. - The New York Times
+1495,1,Lyft Is Said to Seek New Funding as Its Rival Uber Stumbles - The New York Times
+1531,1,Dozens Say Christian Leader Made British Boys ‘Bleed for Jesus’ - The New York Times
+1571,1,Trump Inherits a Secret Cyberwar Against North Korean Missiles - The New York Times
+1584,1,2 Men Wrongfully Convicted in 1980 Fire Will Receive $31 Million - The New York Times
+1611,6,At Least 4 Killed as Train Barrels Into Charter Bus in Biloxi - The New York Times
+1753,2,Worker Safety Rules Are Among Those Under Fire in Trump Era - The New York Times
+1764,1,2017 N.C.A.A. Tournament Bracket: Who Has the Edge in Each Region? - The New York Times
+1816,1,A History of Presidents, Mostly Democrats, Paying Homage to Jackson - The New York Times
+1878,1,Man Charged With Murder in Death of Emergency Worker in the Bronx - The New York Times
+1919,1,David Rockefeller, Philanthropist and Head of Chase Manhattan, Dies at 101 - The New York Times
+1958,1,Deadly Attack Near U.K. Parliament Car Plows Victims on Westminster Bridge - The New York Times
+2056,8,Uber Suspends Tests of Self-Driving Vehicles After Arizona Crash - The New York Times
+2081,2,In Health Bill’s Defeat, Medicaid Comes of Age - The New York Times
+2143,1,Brexit, Donald Trump, Jordan: Your Morning Briefing - The New York Times
+2150,1,Those Indecipherable Medical Bills? They’re One Reason Health Care Costs So Much - The New York Times
+2300,2,Training Your Brain So That You Don’t Need Reading Glasses - The New York Times
+2305,4,At Penn Station, Rail Mishap Spurs Large and Lasting Headache - The New York Times
+2336,1,In Canada, Where Muslims Are Few, Group Stirs Fear of Islamists - The New York Times
+2392,1,Respect Your Cat (Not That It Cares) - The New York Times
+2422,1,Independence Days: My Perfect Imperfect Gap Year - The New York Times
+2445,1,Frederick Wiseman: The Filmmaker Who Shows Us Ourselves - The New York Times
+2449,1,What’s at Stake in Trump’s Proposed E.P.A. Cuts - The New York Times
+2478,1,I Thought I Understood the American Right. Trump Proved Me Wrong. - The New York Times
+2531,2,Becoming Duterte: The Making of a Philippine Strongman - The New York Times
+2535,1,Dilma Rousseff Targeted in Brazil by Lawmakers Facing Scandals of Their Own - The New York Times
+2565,1,Scenes of Ruin After Ecuador Earthquake Kills Hundreds - The New York Times
+2583,1,Iceland’s Water Cure - The New York Times
+2607,1,Fiat Chrysler Announces Recall of 1.1 Million Autos - The New York Times
+2616,1,Housing Bias Outlasts Ruling in a Long Island Village - The New York Times
+2653,1,A Toddler, a Loose Gun in a Car, and a Mother Dies - The New York Times
+2697,1,Washington Metro System Failed to Learn From Accidents, Report Finds - The New York Times
+2708,1,Men Have Book Clubs, Too - The New York Times
+2725,1,Megyn Kelly, Contract Set to Expire Next Year, Is Primed for the Big Show - The New York Times
+2754,1,Doctors With Enemies: Did Afghan Forces Target the M.S.F. Hospital? - The New York Times
+2783,1,EgyptAir Was Aware of Threats to Security, Including One Scribbled on Plane - The New York Times
+2814,1,Gorilla Killed After Child Enters Enclosure at Cincinnati Zoo - The New York Times
+2845,2,5 Fort Hood Soldiers Dead and 4 Missing in Texas Floods - The New York Times
+2893,1,Hillary Clinton’s Long, Grueling Quest - The New York Times
+2924,3,Freddie Gray Died From ‘Rough Ride,’ Prosecutors Assert - The New York Times
+2984,3,EgyptAir Flight 804 Wreckage Reported in Mediterranean - The New York Times
+2990,1,Defying China, Hong Kong Bookseller Describes Detention - The New York Times
+3033,1,Judge Presses Prosecutors on ‘Rough Ride’ in Death of Freddie Gray - The New York Times
+3034,1,Hands Off My Smiley Face: Emoji Become Corporate Tools - The New York Times
+3104,4,Panama Celebrates Expanded Canal’s Successful First Passage - The New York Times
+3148,1,U.S. Warns Honda and Acura Owners to Replace Airbags - The New York Times
+3154,1,California Today: Airbnb, a Hometown Success (and Villain) - The New York Times
+3158,1,Austria’s Far Right Presents the E.U. With a New Test at the Polls - The New York Times
+3161,2,The Fully Self-Driving Car Is Still Years Away - The New York Times
+3166,8,A Fatality Forces Tesla to Confront Its Limits - The New York Times
+3184,2,Nigel Farage, Who Spurred ‘Brexit,’ Resigns as Head of U.K. Independence Party - The New York Times
+3227,1,For Fourth Time, Baltimore Opens a Trial in the Death of Freddie Gray - The New York Times
+3275,1,Train Crash in Italy Leaves at Least 25 Dead and Dozens Injured - The New York Times
+3281,1,Families and Fellow Officers Honor Victims of Dallas Sniper - The New York Times
+3294,1,Emmy Nominations 2016: Tracy Morgan on His Emotional Return to ‘Saturday Night Live’ - The New York Times
+3299,1,Was She a Feminist? The Complicated Legacy of Helen Gurley Brown. - The New York Times
+3347,2,Too Many Deer on the Road? Let Cougars Return, Study Says - The New York Times
+3361,3,‘Nothing Short of a Miracle’: No Serious Injuries in Tappan Zee Crane Collapse - The New York Times
+3363,1,Review: ‘Star Trek Beyond’ Sticks to Its Brand. That’s Not Necessarily Bad. - The New York Times
+3414,9,Hot-Air Balloon Crash in Texas Kills 16, Officials Say - The New York Times
+3464,1,Milestone for New Tappan Zee Bridge: It’s Halfway Done - The New York Times
+3467,1,The Brain That Couldn’t Remember - The New York Times
+3534,1,Transporting the Dead: A Booming but Lightly Regulated Industry - The New York Times
+3548,6,Echoing a Film Plot, Chinese Gangs Kill Drifters in an Elaborate Mining Ruse - The New York Times
+3556,2,Driving Tips: How You Can Help Limit Traffic Jams - The New York Times
+3623,1,Mark Twain Found Inspiration in Germany (Though Not German) - The New York Times
+3637,1,Stephen Bannon, a Rookie Campaign Chief Who ‘Loves the Fight’ - The New York Times
+3661,2,More of Kremlin’s Opponents Are Ending Up Dead - The New York Times
+3685,1,D.A. Henderson, Doctor Who Helped End Smallpox Scourge, Dies at 87 - The New York Times
+3691,1,The Best and the Worst From the Rio Games - The New York Times
+3697,1,Lou Pearlman, Svengali Behind Backstreet Boys and ’NSync, Dies at 62 - The New York Times
+3731,2,Saudis and Extremism: ‘Both the Arsonists and the Firefighters’ - The New York Times
+3755,2,A Cheaper Airbag, and Takata’s Road to a Deadly Crisis - The New York Times
+3756,1,Laurie the Moose Lady Puts ‘Heart and Soul’ Into Roadkill - The New York Times
+3775,3,Airbag Propellant Bound for Takata Factory Detonates en Route - The New York Times
+3781,1,Stuck in Traffic, Polluting the Inside of Our Cars - The New York Times
+3788,1,How to Stay Safe at the Airport - The New York Times
+3848,1,Venture Communism: How China Is Building a Start-Up Boom - The New York Times
+3859,1,Israel Seeking Police Recruits: Eager, and Arab - The New York Times
+3875,1,U.S. Presidential Race, Rodrigo Duterte, Roger Ailes: Your Tuesday Evening Briefing - The New York Times
+3880,1,After Her Son’s Death, Sally Mann Stages a Haunting Show - The New York Times
+3931,1,Apple Is Said to Be Rethinking Strategy on Self-Driving Cars - The New York Times
+3940,1,North Korea, Far From Crazy, Is All Too Rational - The New York Times
+3941,4,Elon Musk Says Pending Tesla Updates Could Have Prevented Fatal Crash - The New York Times
+3943,1,As More Devices Board Planes, Travelers Are Playing With Fire - The New York Times
+3950,1,California Today: School Bond Measure? Why You Should Care - The New York Times
+3984,9,Autopilot Cited in Death of Chinese Tesla Driver - The New York Times
+4018,1,Edward Albee, Trenchant Playwright Who Laid Bare Modern Life, Dies at 88 - The New York Times
+4028,1,His Grip Still Secure, Bashar al-Assad Smiles as Syria Burns - The New York Times
+4052,1,Fort Lee Officials Recall Chaos and Turmoil as Lanes to Bridge Were Closed - The New York Times
+4084,1,Review: In ‘Queen of Katwe,’ a Pawn Finds Her Crown Through Chess - The New York Times
+4092,2,Can Tesla’s Autopilot Be Trusted? Not Always - The New York Times
+4104,1,Video by Wife of Keith Scott Shows Her Pleas to Police - The New York Times
+4116,1,Arnold Palmer, the Magnetic Face of Golf in the ’60s, Dies at 87 - The New York Times
+4121,1,Marlins Pitcher Jose Fernandez Is Killed in a Boating Accident - The New York Times
+4170,1,Federal Investigators Search for Cause of Deadly Hoboken Train Crash - The New York Times
+4242,3,Train Was Traveling at Twice the Speed Limit Just Before Hoboken Crash - The New York Times
+4247,1,Backstage and Now the Boss: ‘The Only Girl in the Building’ - The New York Times
+4269,1,Awkward Sex, Onscreen and Off - The New York Times
+4306,1,F.B.I. Investigating if Fatal Plane Crash in East Hartford Was Intentional - The New York Times
+4396,1,Declaring ‘That’s Me,’ and Empowering Latinas - The New York Times
+4403,2,Used Cars Slip Past Recall Safeguards, Putting Drivers in Danger - The New York Times
+4451,1,A Traumatized Brain That Helped Heal a Broken Heart - The New York Times
+4482,1,Robert Durst Pleads Not Guilty to 2000 Murder in Los Angeles - The New York Times
+4546,1,Donald Trump, New Zealand, Facebook: Your Monday Briefing - The New York Times
+4580,1,‘I Was Terrified’: Inmates Say They Paid a Brutal Price for a Guard’s Injury - The New York Times
+4629,1,Obama Is Considering Removing N.S.A. Leader - The New York Times
+4632,1,The Images in ‘Billy Lynn’? Razor Sharp. Your Eyes? Bewildered. - The New York Times
+4636,1,Aleppo, Donald Trump, Asia-Pacific Economic Cooperation: Your Monday Briefing - The New York Times
+4637,1,How Apple Empowers, and Employs, the American Working Class - The New York Times
+4641,4,Train Derailment in India Kills More Than 100 - The New York Times
+4672,3,A Crumpled School Bus Leaves Chattanooga Dazed - The New York Times
+4685,2,Bus in Crash That Killed 6 in Chattanooga Had Strayed From Route - The New York Times
+4708,2,Records Show Complaints About Driver in Deadly Tennessee Bus Crash - The New York Times
+4727,1,South Korean Leader Digs In Against Rising Calls for Impeachment - The New York Times
+4765,1,Skiing the Alps, Making It My Own - The New York Times
+4793,2,‘We Are Orphans Here’ - The New York Times
+4879,1,The Woman Who Might Find Us Another Earth - The New York Times
+4883,1,Black Designers in Focus at Fashion Institute of Technology - The New York Times
+4906,1,John Glenn, American Hero of the Space Age, Dies at 95 - The New York Times
+4916,1,Army Triumphs at Last, Ending Navy’s 14-Game Streak in Rivalry - The New York Times
+5006,8,The Boy, the Ambassador and the Deadly Encounter on the Road - The New York Times
+5063,1,The Long, Lonely Fall of a Heisman Trophy Winner - The New York Times
+5086,3,Ikea Reaches $50 Million Settlement Over Deadly Furniture Accidents - The New York Times
+5092,1,Trump, Promising Arms Race, Could Set World on Uncertain Path - The New York Times
+5098,1,Reward Is Doubled as Authorities Seek Leads in July Blast in Central Park - The New York Times
+5112,1,Refugees Encounter a Foreign Word: Welcome - The New York Times
+5132,1,New Head of Nutrition Gives Liverpool a Taste of Premier League Success - The New York Times
+5133,1,Mobster’s Daughter, Writer, Murder Victim: Woman at Center of Durst Trial - The New York Times
+5193,3,Mayday on the Carolina Queen - The New York Times
+5261,1,With Larry Wilmore Before the White House Correspondents’ Dinner - The New York Times
+5290,1,Dogs Test Drug Aimed at Humans’ Biggest Killer: Age - The New York Times
+5308,2,EgyptAir Flight Believed to Have Crashed at Sea Egypt Cites Possible Terrorism - The New York Times
+5312,1,As Hamas Tunnels Back Into Israel, Palestinians Are Afraid, Too - The New York Times
+5329,1,Gawker Case Calls Attention to a Go-To Hollywood Lawyer - The New York Times
+5334,1,First Rise in U.S. Death Rate in Years Surprises Experts - The New York Times
+5371,1,Review: In Stephen King’s ‘End of Watch,’ a Murderer’s Victims Kill Themselves - The New York Times
+5385,2,Learning to Speak for the Dead - The New York Times
+5390,1,‘Let This Woman’s Brave Statement Peel the Blinders Off’ - The New York Times
+5392,1,What if PTSD Is More Physical Than Psychological? - The New York Times
+5399,1,‘It’s Sacred’: A Gay Refuge, Turned Into a War Zone - The New York Times
+5408,1,Morning Shock at Zabar’s, as Man Accidentally Shoots Himself - The New York Times
+5433,4,Decades Later, Sickness Among Airmen After a Hydrogen Bomb Accident - The New York Times
+5439,1,Woman Charged in Kayak Death Admitted Keeping Paddle From Fiancé, Officer Testifies - The New York Times
+5480,1,Istanbul Airport Attack Leaves at Least 41 Dead - The New York Times
+5493,7,Self-Driving Tesla Was Involved in Fatal Crash, U.S. Says - The New York Times
+5507,1,Man Injured in Central Park Explosion - The New York Times
+5516,2,Wigan’s Road to ‘Brexit’: Anger, Loss and Class Resentments - The New York Times
+5606,1,Hillary Clinton and Tim Kaine Debut Ticket in Battleground of Florida - The New York Times
+5622,1,A 7-Year-Old Walks Into a Stand-Up Club ... - The New York Times
+5691,1,Brazilians Speak Portuguese, but the Olympics Must Use French - The New York Times
+5746,1,Alienated and Angry, Coal Miners See Donald Trump as Their Only Choice - The New York Times
+5792,1,What University of Texas Campus Is Saying About Concealed Guns - The New York Times
+5800,4,Japan’s $320 Million Gamble at Fukushima: An Underground Ice Wall - The New York Times
+5843,1,‘I’ve Become a Racist’: Migrant Wave Unleashes Danish Tensions Over Identity - The New York Times
+5855,1,Do You Really Need Rental Car Insurance? 8 Things to Know - The New York Times
+5880,1,Cast-Out Police Officers Are Often Hired in Other Cities - The New York Times
+5892,1,Black Health Experts Renew Fight Against Menthol Cigarettes - The New York Times
+5916,1,Can You Erase the Trauma From a Place Like Sandy Hook? - The New York Times
+5927,1,How a U.S. Airstrike Missed ISIS, but Damaged U.S. Policy in Syria - The New York Times
+5972,1,What We Know About the Details of the Police Shooting in Charlotte - The New York Times
+5986,1,Fontainebleau: A Forgotten Treasure - The New York Times
+5987,3,Leaderless and Underfunded, N.J. Transit Had Troubles Well Before Fatal Crash - The New York Times
+6072,1,Generation Adderall - The New York Times
+6074,1,Survivor of Connecticut Plane Crash Tells of Argument in Cockpit - The New York Times
+6077,1,Two Women Say Donald Trump Touched Them Inappropriately - The New York Times
+6146,1,Janet Reno, First Woman to Serve as U.S. Attorney General, Dies at 78 - The New York Times
+6157,1,Saving Refugees on the Mediterranean: a Luxury Yacht With a New Purpose - The New York Times
+6165,1,One Killed and at Least 2 Wounded in Shooting Near California Polling Places - The New York Times
+6206,3,Biggest Spike in Traffic Deaths in 50 Years? Blame Apps - The New York Times
+6214,1,Review: ‘Manchester by the Sea’ and the Tides of Grief - The New York Times
+6241,1,Slain San Antonio Detective Was Targeted, Police Chief Says - The New York Times
+6261,1,All the Clamor? Trump’s Palm Beach Neighbors See an Upside - The New York Times
+6270,1,How to Save a Donkey (It Helps to Have a Goat) - The New York Times
+6277,1,Can Oil Help Mexico Withstand Trump’s Attack on Trade? It’s Hard to See How - The New York Times
+6340,1,Georgia Man Sentenced to Life Without Parole for Son’s Death in Hot Car - The New York Times
+6344,3,Life in Obamacare’s Dead Zone - The New York Times
+6396,1,Rex Tillerson, Aleppo, Donald Trump: Your Evening Briefing - The New York Times
+6421,2,California Today: What Stinks in Huntington Beach? - The New York Times
+6424,1,Harlem Deer Caught in City-State Tussle Has Died - The New York Times
+6429,2,The Robot Revolution Will Be the Quietest One - The New York Times
+6451,2,Florida Woman Charged in Death of Infant in ‘Co-Sleeping’ Case - The New York Times
+6486,1,H.I.V. Cases Surpass a Million in Russia, but Little Is Done - The New York Times
+6522,1,Donald Trump’s Jet, a Regular on the Campaign Trail, Isn’t Registered to Fly - The New York Times
+6523,2,Ex-New York Officer Gets 5 Years of Probation in Fatal Brooklyn Shooting - The New York Times
+6552,1,Collision of Buses and Fuel Truck in Afghanistan Kills More Than 50 - The New York Times
+6559,4,Cancer Survivor Receives First Penis Transplant in the United States - The New York Times
+6573,19,It’s No Accident: Advocates Want to Speak of Car ‘Crashes’ Instead - The New York Times
+6593,1,Report Accuses Mexico of Crimes Against Humanity in Drug War - The New York Times
+6611,3,Compare These Gun Death Rates: The U.S. Is in a Different World - The New York Times
+6626,1,4,223 Central Park Benches With Stories to Tell - The New York Times
+6639,2,New Ways to Treat Pain Meet Resistance - The New York Times
+6732,4,Fender Benders on Water? (See: Expanded Panama Canal) - The New York Times
+6757,1,Fact-Checking Donald Trump’s Economic Speech - The New York Times
+6781,1,The Billion-Dollar Jackpot: Engineered to Drain Your Wallet - The New York Times
+6842,1,Tropical Storm Hermine Leaves Trail of Power Failures - The New York Times
+6844,1,Cher’s Latest Road Show? The Campaign Trail - The New York Times
+6847,1,A George Carlin Special Too Raw After Sept. 11 Resurfaces Now - The New York Times
+6861,1,Mont Blanc Cable Car Passengers Are Stranded Aloft Overnight in French Alps - The New York Times
+6899,1,Why First Aid Is Often Lacking in the Moments After a Police Shooting - The New York Times
+6908,1,Tesla Upgrades Autopilot in Cars on the Road - The New York Times
+6909,1,The Bangladeshi Traffic Jam That Never Ends - The New York Times
+6930,3,N.J. Transit Engineer Has No Memory of Fatal Train Crash, Officials Say - The New York Times
+6941,1,A Single Concussion May Have Lasting Impact - The New York Times
+6988,1,A Mysterious Noseless Bust at Tufts Gets Back Its Name: John Brown - The New York Times
+7004,1,The Rolling Stones Paint It Blue on Their New Album - The New York Times
+7027,2,Poland Exhumes Ex-President’s Body in Inquiry of 2010 Plane Crash - The New York Times
+7030,1,National Security Agency Said to Use Manhattan Tower as Listening Post - The New York Times
+7044,4,At Least 5 Children Die in School Bus Crash in Chattanooga - The New York Times
+7071,1,F.D.A. Agrees to New Trials for Ecstasy as Relief for PTSD Patients - The New York Times
+7142,1,Berlin Crash Is Suspected to Be a Terror Attack, Police Say - The New York Times
+7174,1,The Fighter - The New York Times
+7178,3,Searching for the Human Factor in Deadly Avalanches - The New York Times
+7188,1,Russia Bolsters Its Submarine Fleet, and Tensions With U.S. Rise - The New York Times
+7192,1,Chernobyl’s Silent Exclusion Zone (Except for the Logging) - The New York Times
+7227,1,‘Veep’ Season 5, Episode 7: Do a Little Dance ... - The New York Times
+7230,6,Good Samaritan Helps Boy Survive ‘Internal Decapitation’ in Idaho Car Crash - The New York Times
+7294,3,Tesla Faults Brakes, but Not Autopilot, in Fatal Crash - The New York Times
+7320,4,Bus of Nepal Earthquake Survivors Plunges Off a Road, Killing 27 - The New York Times
+7411,1,Bob Dylan Wins Nobel Prize, Redefining Boundaries of Literature - The New York Times
+7421,4,Fatal Boat Crash That Shook Lake George’s Serenity Brings Homicide Charge - The New York Times
+7442,1,Donald Trump, Julian Assange, Gwen Ifill: Your Tuesday Briefing - The New York Times
+7448,1,A Car Accident Throws a Productive Life Into Turmoil - The New York Times
+7483,1,With an Arsenal of Apps, a Fearful Flier Faces the Skies - The New York Times
+7507,2,Rail Crossing Warnings Are Sought for Mapping Apps - The New York Times
+7511,1,Why the ‘Ghost Ship’ Was Invisible in Oakland, Until 36 Died - The New York Times
+7524,1,Alaska, Reliant on Air Transit, Faces Pilot Shortage. Are Drones an Answer? - The New York Times
+7543,1,Data Points to Rapid Loss of Control Aboard EgyptAir Jet - The New York Times
+7547,3,Is Lizzie Grubman a Changed ‘Party Girl’? - The New York Times
+7551,1,Your Monday Evening Briefing: Hillary Clinton, Cleveland Cavaliers, Kanye West - The New York Times
+7557,1,Divers Find Body of Toddler Snatched by Alligator at Disney Resort - The New York Times
+7558,1,EgyptAir 804’s ‘Black Box’ Recovered in Mediterranean - The New York Times
+7593,1,At Rio Olympics, the National Anthem Sounds … Sad? - The New York Times
+7634,1,New York Tonight: Hoboken Train Crash and Wet Weather - The New York Times
+7653,1,Donald Trump, Marijuana, Rolling Stones: Your Thursday Evening Briefing - The New York Times
+7692,1,Getting a Drone as a Gift? Check Your Insurance - The New York Times
+7698,1,Google to Get Fiat Chrysler Minivans for Self-Driving Tests - The New York Times
+7729,1,David’s Ankles: How Imperfections Could Bring Down the World’s Most Perfect Statue - The New York Times
+7766,1,Opponent in Finals Requests Chapecoense Be Awarded the Title - The New York Times
+7873,1,Photo of Texas Firefighters Comforting Children Goes Viral
+8028,1,Detroit Judge Throws Drunk Driver’s Mother Out of Court
+8130,1,Poll: 60 Percent of Adults ’Hopeful and Optimistic’ About America’s Future - Breitbart
+8476,1,EXCLUSIVE - Linda Tripp: SNL Made Me into A ‘Villain’
+8517,1,WATCH: American Airlines Employee, Passenger Nearly Come to Blows Before Flight - Breitbart
+8554,1,Arnold Schwarzenegger Launches Campaign to Terminate Gerrymandering
+8562,1,Mark Cuban on Breitbart News Daily: ‘I Learn from People Who Disagree with Me’
+8579,1,’Bachelor’ Star Chris Soules Arrested for Allegedly Fleeing Scene of Fatal Accident
+8712,1,Driver Arrested, Several Critically Injured After Car Ploughs Into Crowd in Helsinki
+8859,1,Venezuela: Anti-Socialist General ’Extremely Critical’ Following Torture in Secret Police Custody - Breitbart
+9142,1,Watchdog Claims 5K Noncitizens Registered to Vote in Virginia
+9173,4,2016 Closes With 140 Cops Being Killed in the Line of Duty
+9270,3,Misdirected Coalition Strike Kills 18 Partner Forces in Syria
+9429,2,Los Angeles Seeks to Stop Oil and Gas Boom - Breitbart
+9560,1,Young Migrants Wreak Havoc In Bavarian City
+10018,2,MIT ’Moral Machine’ Asks Users Who Should Die from Runaway Self-Driving Cars - Breitbart
+10048,1,Delingpole: Dilbert Disses Global Warming Liberal Heads Explode
+10290,1,Thought-Control Technology Enables Quadriplegic to Move Arm - Breitbart
+10339,2,Study: More Than Half of Car Crashes Involve Drivers Distracted by Cell Phones - Breitbart
+10384,1,US Navy Destroyer Fitzgerald Collides with Philippine-Flagged Merchant Ship near Japan
+10731,1,Immigrant Accused of Child Rape Disappears after Posting Bond
+10809,1,Texas Dem Arrested for Alleged DWI after Safe Driving Seminar
+10823,1,Watch: More Car Mayhem in ’Fate of the Furious’ Trailer - Breitbart
+11141,1,Exclusive — White House Chief of Staff Reince Priebus on First 100 Days: President Trump ‘Going Big League on Trade’ - Breitbart
+11309,1,Trump Deputy Assistant Sebastian Gorka Reveals Death Threats
+11531,1,Previously Deported Criminal Alien Charged in Teenager’s Death
+11785,1,Dave Chappelle Crashes Chris Rock Show, Says Trump is ’Gonna Save America by Accident’
+11902,1,Shooter of Truck Terrorist: Soldiers Hesitated to Act Due to Elor Azaria Conviction
+11904,1,Tragedy: Former NFL Star Todd Heap Accidentally Kills 3-Year-Old Daughter While Moving Truck - Breitbart
+12117,1,Young White America Is Dying of Despair - Breitbart
+12281,1,PICS: Rioting Continues in France Over Alleged Police Rape
+12361,1,Police Constable and Army Veteran Keith Palmer Was ’Every Inch A Hero’
+12622,2,Kathryn Steinle’s Family Gets Go-Ahead to Sue Federal Government - Breitbart
+12690,1,Tancredo - Illegal Aliens and Violent Crime: Some Amazing Facts - Breitbart
+12776,1,20 Phoenix Cops Murdered Since 1981 -- 7 by Illegal Aliens
+12802,1,Crackdown: AG Sessions Vows ’New Era’ at Southern Border - Breitbart
+12970,2,Child Injured Returning from Disneyland by Mexican Drunk Driver Deported 15 Times Prior
+13029,1,Man Mistakenly Sends Text Message to Ex-Boss Allegedly Asking for Help to Kill His Wife, Daughter - Breitbart
+13062,1,’Several Injured’ After ’Explosion’ At French Nuclear Plant
+13119,1,Five-Time Deportee Faces Fatal Crash Charges in ’Sanctuary’ California
+13212,1,Officer Dead, Schools on Lockdown as Orlando Police Hunt Cop Killer
+13247,1,Two Texas Guardsmen Killed in Helicopter Crash
+13488,1,Armed Citizen Intervenes, Kills Suspect Beating AZ State Trooper on Roadside
+13743,1,How Leftism And The U.S. Government Corrupted American Art - Breitbart
+13946,1,Police: Naked Man Attacked, Urinated on Police Car - Breitbart
+13948,1,New Yorker: White House Press Corps Livid over Trump’s ’Trolling’ - Breitbart
+14011,1,College Student Dies After Being Hit by Hammer During Track Meet - Breitbart
+14110,1,Tancredo to Sanctuary City Pols: ’How Do You Live with Yourself’ Given the Death and Mayhem from Your Decisions?
+14190,1,Happy New Year! Snow Snarls Traffic North of Los Angeles
+14214,1,Exclusive — Progressives Plan to Storm Trump-Like GOP Congressman’s Town Hall by the Thousands to Disrupt President’s Agenda - Breitbart
+14224,1,Parents Fearful to Allow Children Out as Islamist Terror Sweeps Europe
+14259,1,The Amazing Democrat U-Turn on the Firing of James Comey - Breitbart
+14678,1,Philippines Kills 11 of Its Own Soldiers in ’Friendly Fire’ Airstrike
+14691,1,Author: Left ’Absurdly Apocalyptic’ About Book That Inspired Steve Bannon
+14886,2,Bus Runs Into Crowd in Haiti, Killing At Least 34 - Breitbart
+15024,1,Actress Mary Tyler Moore Dead at 80 - Breitbart
+15235,1,Pro-Pot Group Handing Out 4,200 Joints During Inauguration Speech
+15302,1,Lawsuit Claims Maintenance Technician Killed by Malfunctioning Robot - Breitbart
+15464,1,’Shield’ Actor Michael Jace Sentenced to 40 Years to Life in Prison for Wife’s Murder - Breitbart
+15468,1,Chris Matthews: Rubio’s Repetitive Debate Responses Were ’Strange,’ ’Not Human’ - Breitbart
+15510,1,Officer Beaten, Hospitalized: Didn’t Use Gun for Fear of Backlash
+15664,4,**LIVE UPDATES** Massive Winter Storm Hits East Coast - Breitbart
+15735,1,Keep Referring To Them As ’Honour Killings’ Because ’Murder’ Obscures The Motive
+15763,1,Five Cuban Dissidents to Watch in the Post-Fidel Era - Breitbart
+15789,2,Californian Police Chief: Obama Running ’Catch and Release Programs’ For Illegal Alien Criminals - Breitbart
+15872,1,2/3rds of Obama’s Gun Death Stats Are Suicides
+16234,1,Live Updates - Terror in Orlando: Approximately 50+ dead, 50+ More Wounded at Gay Nightclub - Breitbart
+16258,1,Saudi Arabia Strips Morality Police of Arresting Power
+16507,1,Obama: We’ve Made Health Care ’More Affordable for All Americans’ - Breitbart
+16529,2,Jose Fernandez Autographed Baseballs Eerily Wash Ashore Near Tragic Accident - Breitbart
+16594,1,Clift: Young People Should Sign Up for Obamacare To ’Carry Their Load In a Shared Pool’ - Breitbart
+16803,1,Tesla was Under SEC Audit before Autopilot Crashes - Breitbart
+16911,1,Sarah Palin Cancels Trump Event, Rushes Back to Alaska as Todd Palin Suffers Snow Machine Crash - Breitbart
+17163,1,EXCLUSIVE–Linda Tripp: ‘Bill Had Affairs with Thousands of Women’ - Breitbart
+17296,1,Politico Ignores the Antisemitism in Hillary Clinton’s Campaign
+17525,2,Illegal Alien Killer Protected by Nebraska ’Sanctuary City’ Vanishes After Paying Bond - Breitbart
+17548,2,Not Welcome Here – Obama’s Visit To UK Tanks As Poll Reveals 60% Of Britons Don’t Want His Pro-EU Lectures
+17566,1,Tens Of Thousands Flee Raging Israeli Bushfires - Breitbart
+17704,1,AZ Mom Who Lost Son to Illegal Explains Why She Endorsed Trump over Cruz
+17714,1,EU President: ‘European Elites Detached From Reality’
+17831,1,German Olympic Coach Dies Following Car Accident in Rio - Breitbart
+17937,2,New Democrat Brainstorm: Forgive Student Loan Debt, So the Kids Can Take Out Mortgages - Breitbart
+18122,1,Texas Cheerleader Bus Crashes, Leaving One Dead
+18217,1,Bike Lane Built for Olympics in Rio Collapses, Killing Two
+18225,1,Google to Congress: Trash Constitution for Self-Driving Cars
+18243,2,36th Police Officer Killed by Gunfire in Line of Duty This Year
+18432,1,Ann Coulter Takes on Justice Scalia’s Shocking Death, Hillary’s Lies, Sanders’ Wackos on Breitbart News Sunday - Breitbart
+18577,1,Pro-Trump Subreddit Takes Over Reddit Front Page After Algorithm Error - Breitbart
+18644,1,Previously Deported Illegal Alien May Face Charges for Killing Texas Firefighter, 2 Children
+18689,1,ICE: Street-Racing Illegal Alien Arrested for Killing Iowa Woman ’Did Not Meet ICE’s Enforcement Priorities’ - Breitbart
+18757,1,Ted Cruz Announces National Security Team, Including Frank Gaffney, Michael Ledeen, Elliott Abrams - Breitbart
+18997,1,Andrea Mitchell: Steve Bannon ’Knows What Buttons to Push’ Against Hillary - Breitbart
+19138,1,Report: Louisiana Has More Pain-Killer Scripts than Residents
+19161,1,Graphic Video: Three Killed as Car Plows into Tel Aviv Restaurant
+19260,1,Kate Steinle Murder Trial Delayed Until After Election
+19381,1,SOURCE: Mayor’s Son Executed in Mexican Border State after Apparent Torture
+19405,2,Gay Israeli Lawmaker Leads Fight for Gun Rights: ’Anyone Who Rises to Kill You - Kill Him First’ - Breitbart
+19416,1,Obama Dishonors Memorial Day at Hiroshima - Breitbart
+19457,1,Movie Review: ’How to Let Go of the World and Love All the Things Climate Can’t Change’ - Breitbart
+19586,2,Breitbart Remembers 9/11
+19911,2,Explosion Rocks SpaceX Launch Site in Florida During Test - Breitbart
+20189,1,An Establishment Conservative’s Guide To The Alt-Right - Breitbart
+20200,1,Obama-Era Suicide Rate in U.S. Highest in 30 Years
+20223,1,We’re Going To Reveal The Political Biases Of Facebook’s Trending News Team - Breitbart
+20257,2,Pentagon Does Not Know if Sailors Captured by Iran Defended
+20327,2,Rubio’s Opposition Researcher Taunted Sarah Palin’s Speech Cancellation...Her Husband Was Hospitalized - Breitbart
+20589,2,Media, Palestinian Authority Misleading About Palestinian Teen Mistakenly Killed In ’Stone Throwing’ Incident - Breitbart
+20641,1,15 Hate Hoaxes You Can Dispel This Thanksgiving
+20644,3,Texas Mom Claims Rope Injury on Daughter’s Neck Was Racially Motivated
+20846,5,Terror And Rage: It’s Ramadan And The Muslims Are Hangry
+21006,6,Missing Fort Hood Soldiers Found – 9 Dead, 3 Rescued
+21069,1,DiCaprio: Climate Deniers Should Be Banned From Public Office
+21225,1,Photo of Child Giving MA Cop the Finger Goes Viral - Breitbart
+21463,1,Drunken Illegal Migrant Arrested for Fatal Hit-and-Run in Omaha - Breitbart
+21533,1,175 Countries Sign Farcical Climate Change Agreement
+21542,1,Dolce &amp Gabbana Under Fire For Selling $2,300 ’Slave Sandals’ - Breitbart
+21745,1,EgyptAir Flight Electronics Detected Smoke On Board, Investigators Say - Breitbart
+21761,1,Biomechanical Exoskeleton Allows the Paralyzed to Walk - Breitbart
+21849,1,***MIGRANT CRISIS LIVE WIRE*** – Rolling Coverage Of Europe’s Migrant Crisis - Breitbart
+22071,2,CONFIRMED: Berlin Attack Suspect Shot Dead in Milan
+22287,1,Chernobyl, 30 Years Later: Some Ukrainians Risk Radiation to Avoid Russian Invasion - Breitbart
+22675,1,ESPN, Congressional Democrats Team Up Against NFL - Breitbart
+22895,1,Vietnamese Protesters Stake South China Sea Claim
+23161,1,’What’s Happening to America?’ Trump Supporter Beaten by Chicago Mob Speaks Out - Breitbart
+23365,1,GOP Rep. Brooks: Obama the Most ’Racially Divisive’ President Since Civil War - Breitbart
+23425,1,5 Ways Immigration Has Impacted New Hampshire - Breitbart
+23491,1,’NHS Needs More Senior Black Women’, Says Guardian.
+23570,1,Uber Rolls Out Self-Driving Car in Pittsburgh - Breitbart
+23574,1,Multiple Dead, Dozens Injured in Texas Border Bus Crash
+23674,1,No, JC Penney, Fat People Should Absolutely Hate Themselves - Breitbart
+23953,1,2 Men Fall off Cliff Playing Pokémon Go near San Diego
+24103,1,Mittens: GOP Establishment Chooses Mount Romney as Hill to Die on
+24209,3,***2016 LiveWire*** Republican National Convention Kicks Off - Breitbart
+24341,1,Beyoncé’s Super Bowl Stunt: A Slap to Real Victims
+24357,2,’#CrippledGreg’: Texas Governor Taunted to Ask God to Walk Again
+24486,1,LeBron James Takes Stand Against Donald Trump with ‘Safety Pin’ Sports Illustrated Pic - Breitbart
+24508,1,**Live Wire** Jihad in Orlando: How Can We Prevent Another Pulse Massacre? - Breitbart
+24509,1,Brussels Attack Eyewitness Steven Wolfe: Ordinary People in Belgium Died Due to ’Arrogance’ of European Elites
+24584,1,Radical Islamists Making a Home in Bosnia and Balkan States
+24651,1,Border Patrol Agents Stop 2 Human Smuggling Attempts
+24709,1,New York Considering ’Textalyzer’ to Determine if Texting Led to Car Crashes - Breitbart
+24799,1,Texas Governor Greg Abbott Severely Burned in Accident
+24839,4,Carson Campaign Volunteer Dies - Breitbart
+24861,1,Burt Reynolds 10 Greatest Films - An 80th Birthday Tribute - Breitbart
+24908,4,Google Patents Tech for Self-Driving Cars to Detect, Avoid Emergency Vehicles - Breitbart
+24974,1,Illegal Alien Surrenders in Hit-and-Run Crash that Killed Texas Pastor, Wife
+25008,1,Explosions Hit Brussels Airport, One Killed - Belgian Media
+25056,1,OKC Thunder Co-Owner Dies in Car Crash Day After Federal Indictment - Breitbart
+25073,1,British Taxpayers Forced to Pick Up £181k Health Bill for Just ONE Illegal Immigrant - Breitbart
+25289,1,Guatemalan Allegedly Kills 6-Year-Old After Booze and Coke Binge
+25652,2,’All Lives Matter’: Chinese-Americans Rally to Support Cop Found Guilty of Manslaughter - Breitbart
+25687,2,***2016 LiveWire*** Tar Heel State Showdown: Clinton, Obama Campaign in NC Trump to Hold Evening Rally - Breitbart
+25690,2,Miami Marlins Ace Jose Fernandez Dies in Boating Accident - Breitbart
+25851,1,Gretchen Carlson Attorney Donates Big to Left Wing Democrats
+26040,2,Antifa Activists Encourage MILO Tour Disruptions, Insinuate Violence - Breitbart
+26055,1,Protesters: Sandra Bland ’Lynched Just Like Her Ancestors’
+26135,1,***2016 LiveWire*** Trump Campaigns with IN Gov. Pence - Breitbart
+26155,1,Tesla on Fatal Autopilot Crash: Feature Still in ’Public Beta Phase’ - Breitbart
+26213,1,Police Raid Apartments Over ’Right-Wing’ Social Media Posts
+26292,1,China Says Its South China Sea Military Buildup Is a Boon to the World
+26312,1,Samsung Recalls 2.8 Million Washing Machines After 730 Reportedly Explode - Breitbart
+26315,1,MILO Goes Off On Regressive Left At Pro-Trump Art Show In NYC - Breitbart
+26331,1,Just One Cinderella Story? Obama Fills Out NCAA Tournament Bracket - Breitbart
+26356,2,Having Sex While Driving Leads to Texas Car Crash, Say Police
+26451,1,***Horse Race LiveWire*** Brooklyn Brawlers: Sanders, Clinton Square Off in NY Debate - Breitbart
+26519,1,Egypt Orders ‘Urgent Investigation’ into EgyptAir Crash as Possible Terrorist Attack - Breitbart
+26575,1,EXCLUSIVE: Congresswoman Blackburn To Ask FTC if Clinton Foundation is a ’Sham’ Charity - Breitbart
+26773,2,WATCH: Tropical Storm Hermine Knocks over Delivery Truck - Breitbart
+26829,1,***2016 Livewire*** Democrats In Disarray On Eve Of Hillary Clinton’s Coronation Convention in Philadelphia - Breitbart
+26873,1,One Killed as Islamic Jihad Terror Tunnel Under Border Collapses
+26955,2,Disgraced UN Climate Boss Pachauri: I’m The Victim Of A Big Oil Conspiracy
+27113,2,Runaway Trailer Runs Over, Kills Convicted Sex Offender Watching Porn on Cell Phone - Breitbart
+27115,1,Rubio: Criminal Aliens Can Stay In U.S. - Breitbart
+27139,1,San Francisco to Require ’Black Boxes’ in Cars - Breitbart
+27176,2,Abortionist Found With Aborted Baby Parts in Car Formally Charged - Breitbart
+27183,1,Greta: ’Hard Sell’ for 16 Female Conservatives Calling for Lewandowski’s Firing to Say They Can Be ’Fair’ in Covering Election - Breitbart
+27237,1,The West vs Islam Is The New Cold War - Here’s How We Win - Breitbart
+27276,1,[*BN*]The Nuclear Option[*] - Executive Gun Control: Obama Creates ’Crazy List,’ Disarms the Elderly - Breitbart
+27368,1,Filmmaker Arrested in Sudan for Documenting Christian Persecution - Breitbart
+27432,2,Serious Train Crash at Hoboken, New Jersey Terminal - Breitbart
+27558,1,Questions Linger as Tesla Prepares to Launch Model 3 - Breitbart
+27586,1,Ann Coulter: Fantasy Baseball, Beltway Style - Breitbart
+27622,1,Presidential Race Narrows as Donald Trump Closes in on Hillary
+27665,1,Metta World Peace Makes Case for Racist Jokes - Breitbart
+27698,1,Police Warn ’Pokémon Go’ Players After Increase in Crime - Breitbart
+27897,1,Woman Arrested for DUI Hit-and-Run After Posting Mercedes Pic
+27981,1,Wisconsin Teen Impaled by Basketball Court - Breitbart
+28106,1,Cop Deaths Double in 2016, Amid Obama’s Anti-Cop Rhetoric - Breitbart
+28160,2,Lebanese Crime Clans Turn German Neighbourhoods Into No-Go Zones
+28193,1,SNL Mocks Trump Surrogate in Cold Open - Breitbart
+28241,1,The Left’s Bloody War on Women: Sending Chicks into Combat Betrays Men, Women and Civilization - Breitbart
+28406,1,Kissinger: Richard Nixon ’Set an Example That Others Can Follow’
+28822,1,Open Borders Rap Sheet: 30+ Crimes by Immigrant Suspects in September Alone - Breitbart
+29039,1,Veteran Commits Suicide in Parking Lot of Long Island V.A.
+29086,3,Alabama’s Dakota Bell Out Indefinitely After Shooting Finger Off in Hunting Accident - Breitbart
+29117,1,Brexit: How Europe Fell Out Of Love With The EU
+29122,2,’Thanks Famous Actors:’ Voters Hit Back at Celebrity PSAs
+29180,1,Here’s What Donald Trump Should Tell the Pope - Breitbart
+29260,1,***Live Updates*** 2016 Iowa Caucuses: Cruz 28%, Trump 24%, Rubio 23% Clinton 49.9%, Sanders 49.6% - Breitbart
+29295,1,James Pinkerton – The Democrats vs. The Deplorables, Part Two: The Immigration Flashpoint  - Breitbart
+29415,1,Honey Badger Knows Alleged Killer of NFL Player, Calls Him a ’Hating Ass Coward’ - Breitbart
+29642,1,Congress Moving to Make Cop-Killing a ’Hate Crime’ - Breitbart
+29797,2,Facebook Calls WikiLeaks Block ’An Accident’ After Accusations Of Censorship - Breitbart
+29798,1,Man with Bionic Penis Reportedly Flooded with Sex Offers - Breitbart
+30021,1,Scott Baio ’Attacked’ by Red Hot Chili Pepper’s Wife Over Trump
+30030,1,Nice Attacker: Body-Building Delinquent Who Became Suddenly Radicalised
+30090,1,Watch: Mark Wahlberg Battles Oil ’Monster’ in ’Deepwater Horizon’ Trailer - Breitbart
+30294,1,Hillary Clinton’s Absurd, McCarthyist Russian Conspiracy Theory
+30490,1,Porn Company Kink.com Cited for ’Condoms Optional’ Policy
+30671,1,Pastor: Nothing Wrong with Carrying Guns ’on This Side of Heaven’
+30688,1,Trump Supporters Shout Down, Eject ’Nazi’ (Plant?) from Rally
+30770,1,Trump: Clinton and DNC ’Trying to Rig the Debates’
+30790,1,Muslim Care Home Staff Stopped Residents Eating Bacon Sandwiches
+31062,4,Trump Motorcade in Accident, No Injuries
+31111,3,Border Patrol Agent Killed in Texas Crash
+31328,1,Revealed: The Tragic Infant Trauma That Turned Leo DiCaprio into an Eco Loon - Breitbart
+31622,1, New Year’s resolution: Hold Russia accountable
+31651,1,Alcohol abuse linked to higher heart risks, study says
+31751,4,Winter storm moves up East Coast
+31799,1,Orlando police officer killed sheriff’s deputy dies during manhunt
+31827,2,Orlando tragedy: Two officers remembered
+31835,1,Donald Trump is ’gaslighting’ all of us
+31919,1,Orlando officer gets a final honor at funeral
+31951,1,What MLK might say to Donald Trump
+31976,1,Good Samaritan who saved trooper says God put him there
+32079,2,Louisiana cop shot, killed after stopping to offer aid
+32109,2,Kansas City Royals pitcher dies in Dominican Republic
+32147,1,Super Bowl LI: Five things to know about Luke Bryan
+32283,1,Super Bowl week kicks off with Opening Night
+32437,1,The Bishop Eddie Long I knew
+32481,1,Britney Spears asks for prayers for her niece
+32520,1,The cultural, regional and generational roots of spanking
+32527,2,5 injured in circus fall Nik Wallenda unhurt
+32551,1,Joe Biden Fast Facts
+32552,1,Snowstorm pounds the Northeast, affecting flights, closing schools
+32570,1,Crash-test dummies are older and fatter
+32616,1,Grammys 2017: Adele and Beyoncé’s big moments
+32621,1,The folks packing Republican town halls
+32760,1,American Politician Plane Fatalities Fast Facts
+32761,1,More rain in store after 5 killed in California storms
+32764,3,NASCAR Fast Facts
+32803,2,Small plane crashes into Australian mall killing pilot, 4 US citizens
+32827,3,Police: California officer killed by gang member
+32924,2,Mardi Gras truck crash: Driver had .232 blood-alcohol level
+33018,2,3 critically hurt as SUV strikes marching band at Mardi Gras parade
+33045,3,CNN 10 - March 2, 2017
+33094,1,Trump-Kushner children appear to board motorcade sans car seats
+33113,1,Wildfires Fast Facts
+33146,1,Polluted environments kill 1.7 million children each year, WHO says
+33188,2,Victims identified in train-bus collision in Biloxi
+33285,1,Deadly Ethiopia landslide puts focus on vulnerable landfill dwellings
+33339,2,Nor’easter moving north as blizzard warning remains in some areas
+33420,3,Freak accident at Ghana waterfall kills 18
+33422,2,Paraglider’s near-death experience
+33447,1,London attack: 4 killed in British Parliament carnage
+33472,1,Essential Health Benefits and why they matter
+33528,1,A huge sigh of relief on health care
+33594,7,NTSB investigates Texas church bus accident that left 13 dead
+33613,1,What $100 can buy you in jail might surprise you
+33651,1,Texas bus crash: NTSB wants to interview truck driver
+33686,1,Stolen Rockwell painting returned after 41 years
+33739,1,Suspected gas attack in Syria reportedly kills dozens
+33789,1,Good Samaritan with a gun saves wounded cop
+33822,1,Bounce houses go airborne 5 kids hurt
+33875,1,Indian anchor learns husband died in story she’s reporting
+33919,1,Scientists file motion to defend chemical plant rule, fearing Trump admin won’t
+34002,1,Ethel Kennedy Fast Facts
+34094,1,Assad and Kim: A tale of two dictators
+34257,1,’Drugged driving’ surpasses drunken driving in deadly crashes
+34260,1,Stevie Wonder Fast Facts
+34271,1,North Korea launches missile after US demands world pressure Pyongyang
+34285,1,George Lucas Fast Facts
+34289,1,MS-13 is Trump’s public enemy No.1, but should it be?
+34314,1,Deadly storms hit several states
+34319,1,Scott Carpenter Fast Facts
+34321,1,James Traficant Fast Facts
+34357,1,The FBI translator who went rogue and married an ISIS terrorist
+34430,1,Manslaughter charges in Penn State fraternity pledge’s death
+34446,1,Man in iconic Ferguson photo dies
+34462,2,School bus crash kills 36 in Tanzania
+34501,1,At Penn State, critics claim, there’s no handle on hazing
+34512,1,Jordan Edwards’ father sues officer in fatal shooting
+34580,1,Judge finds probable cause to charge Amtrak engineer in derailment
+34622,1,Amtrak engineer faces charges in fatal 2015 derailment
+34631,1,Two more die from injuries sustained in auto auction crash
+34678,1,2 killed in Teterboro Airport crash
+34750,1,Car barrels into pedestrians in New York’s Times Square
+34788,4,Ferris wheel accident: Ride permit revoked
+34795,3,Washington, DC Metro System Fast Facts
+34832,1,More die in bathtubs than in terrorism. It’s still worth spending billions to fight it
+34982,3,Music legend Gregg Allman dies at 69
+35027,1,Navy cites equipment malfunction in skydiver’s death
+35056,1,Tiger Woods’ car had flat tires, he was asleep at wheel, police say
+35118,1,USS Cole Bombing Fast Facts
+35140,1,Golden Gate Bridge Fast Facts
+35235,1,Blockbuster Capitol Hill hearings that made the whole country stop
+35313,4,Teen wrote last journal entry before crash
+35428,5,Young drivers with ADHD 36% more likely to have an accident, study says
+35449,1,Rep. Mo Brooks recounts details of shootings
+35506,3,Missing USS Fitzgerald sailors found dead
+35509,1,This much we know about the US Navy collision
+35556,1,UK Chancellor: Cladding on Grenfell Tower ’banned on high-rises’
+35608,2,Disney alligator attack: Resort to add warning signs, source
+35616,1,Egyptian government: EgyptAir wreckage found
+35638,1,Freddie Gray: Testimony ends in 3rd trial
+35648,2,EgyptAir Flight 804: Second black box found
+35669,1,Six dead, 10 injured after van crash in Virginia
+35681,1,’Star Trek’ actor Anton Yelchin dies
+35691,1,13 children, one adult die when Russian tour boats capsize
+35837,1,Bodies identified as 2 missing family members in Florida, officials say
+35872,1,Girl, 9, receives ’Frozen’-themed prosthetic
+35965,1,The grim life of a government safety dummy
+35966,2,Self driving cars: Can you trust them?
+36003,1,Austrian Grand Prix: Lewis Hamilton on pole as Nico Rosberg gets penalty
+36013,1,At least 4 dead when bus, tractor trailer collide in Florida
+36029,1,Human remains recovered at EgyptAir crash site
+36032,1,The independence America really needs
+36057,1,Pilot: Did a fire cause EgyptAir crash?
+36149,1,Baton Rouge after Dallas: ’Where are we headed?’
+36277,1,Terror attack kills scores in Nice, France, Hollande says
+36281,1,Truck attack in Nice: ’We had to run for our lives’
+36379,3,Car in Trump’s motorcade involved in minor accident
+36449,1,North Miami shooting: Police accidentally shot man, says union
+36456,1,CNN vets Obama’s response to Trump’s RNC speech
+36513,1,Two college football punters die in car crash
+36558,1,Bill Clinton Fast Facts
+36600,1,Was Hillary Clinton a good secretary of state?
+36608,1,Suspect in Ohio student’s killing had hidden room, police say
+36612,12,Hot air balloon crashes in Texas
+36631,8,NTSB: Texas hot air balloon hit power lines
+36636,2,Drifting SUVs in the UAE
+36639,1,Barack Obama Fast Facts
+36667,3,NTSB: Balloon pilot may have been trying to land
+36683,1,’Leftovers from a fallen society’
+36713,5,Emirates plane catches fire in Dubai hundreds escape, 1 firefighter killed
+36848,2,Mechanical flaw cited in Ferris wheel accident
+36862,1,El Faro ’black box’ found
+36908,8,Boy falls off Pennsylvania roller coaster
+36925,1,Trump, Clinton and our nuclear wake-up call
+36950,3,Amusement park safety under scrutiny
+36978,2,Fallen officers: 64 shot dead this year
+37036,1,Suspect charged in killings of NY imam, assistant
+37306,2,Baton Rouge floods: Workers’ bus crashes into accident scene, killing 2
+37436,1,Toddler found alive in water after boat flips
+37437,1,From a life sentence to clemency from Obama
+37451,1,Jason Day set to play on after family crash
+37504,2,What 80 million unexploded US bombs did to Laos
+37507,1,Berlin Wall Fast Facts
+37508,1,Tribe files emergency request to stop Dakota Access Pipeline construction
+37532,1,The coffee that can keep you up for 18 hours
+37555,1,Russian fighter jet makes ’unsafe’ intercept of US aircraft
+37566,1,Rash of snubs complicates US diplomacy
+37607,2,Paralympics day three: Malaysians make history, US Army sergeant wins gold
+37631,1,National Exercise Program Fast Facts
+37719,1,Paralympics day seven: Highlights from Rio
+37730,3,Paralympics day eight: ’Paralympic Pele’ through to football final
+37769,1,Russia: Coalition strike kills Syrian forces
+37916,1,Video shows scene at Charlotte shooting
+37933,3,What is a traumatic brain injury?
+37950,1,This is America on drugs: A visual guide
+37990,1,Miami Marlins remember star pitcher Jose Fernandez
+38051,3,Miami bids farewell to Marlins ace Jose Fernandez
+38061,3,Hoboken train crash: 1 dead, more than 100 injured
+38067,8,NJ train didn’t have this safety system. Could it have stopped the crash?
+38089,3,Hoboken train crash: Event recorder recovered
+38150,4,Data recorder in Hoboken train crash didn’t work, NTSB says
+38409,1,Infant dies after plunge down elevator shaft
+38491,1,The final debate: CNN’s Reality Check Team vets the claims
+38566,1,Jury weighing fate of Justin Ross Harris
+38637,1,How a bill becomes a wall
+38655,1,8,000 march against Trump in Los Angeles
+38674,1,Weekend brings more anti-Trump protests
+38689,1,Brain implant helps woman with ALS communicate
+38733,3,Horrific crash kills 1st woman to fly China’s J-10 fighter
+38771,1,Jet-skiing jugs and other trophy tales
+38819,1,How Trump camp is wrong on immigrant registry
+38820,4,Indian train derailment kills more than 140
+38855,1,Welcome to Duterte country
+38867,1,56-car pileup in China leaves 17 dead
+38892,2,Chattanooga school bus crash: Investigators search for answers
+38914,4,Chattanooga bus crash: 6 children dead Titans to help victims’ families
+38915,2,Chattanooga crash: How common are outsourced school bus services?
+38925,3,Chattanooga bus crash: What we know -- and don’t know
+38947,1,How London’s protected views shape the city
+38951,3,Chattanooga school bus crash: Bus was not on designated route
+39015,4,Chinese power plant bosses arrested over deadly platform collapse
+39025,5,Injured ’Punkin Chunkin’ producer disappointed show is off, faces long recovery
+39038,2,Colombia plane crash: 71 dead on Brazil soccer team’s charter flight
+39042,1,Tennessee fires force evacuations in Gatlinburg
+39052,6,Chattanooga bus crash: About the driver
+39053,1,Investigators: Ohio State attacker inspired by ISIS
+39061,2,Chapecoense: Football team’s fairy-tale rise ends in tragedy
+39090,1,Keith Scott killing: Protesters upset over lack of charges
+39161,1,China mine explosion: 32 reportedly killed
+39165,1,Sweat lodge guru’s return angers victims
+39195,1,Austrian presidential election: Who is Norbert Hofer
+39213,2,Justin Ross Harris sentenced to life for son’s hot-car death
+39229,1,Meet Donald Trump’s think tank
+39243,1,PIA plane crash: All 47 on board killed Pakistani pop star among victims
+39267,1,Opioid epidemic is getting worse, says CDC
+39296,1,10 years after Iraq crash, pilot to be laid to rest
+39409,1,One boy dies, another survives snow bank collapse
+39415,1,Death of CorePower yoga founder Tice investigated
+39422,2,Bus crash driver was 20 mph over  limit, investigator says
+39441,1,2016 In Review Fast Facts
+39456,1,China drone seizure throws down gauntlet to Obama and Trump
+39481,6,At least 6 dead as frigid air, ice sweep nation
+39486,1,Tiger Woods Fast Facts
+39515,4,Frigid air, ice sweep nation, causing deadly road conditions
+39531,2,Witnesses describe Christmas market attack
+39555,1,JonBenet Ramsey Murder Fast Facts
+39557,1,Atlanta lawyer’s bail set at $200,000 in wife’s shooting death
+39571,1,US returns land it’s controlled since WWII to Japan amid local anger
+39662,2,Russia plane crash: What’s the story behind the Tu-154?
+39677,1,The biggest cause of death in your county
+39711,3,Michael Schumacher’s F1 legacy lives on
+39726,2,Alexa, can you help with this murder case?
+39737,1,Snowboarding Olympians: ’It’s really scary!’
+39762,2,Mother dies, daughters hurt after ski lift fall
+39764,1,Georgia coroner offers free New Year’s rides
+39785,1,Streaming on Netflix, Amazon and iTunes in January
+39789,1,Cycling’s marathon man attempts 75,000 miles in a year
+39793,1,Cops: Georgia police chief on leave after wife shot
+39810,1,Search for AirAsia victims resumes
+39818,3,Bono says he’s worried he may never play guitar again
+39821,1,America’s health: Our 9 biggest issues (Opinion)
+39822,2,30 bodies, window panel found in AirAsia search
+39839,1,Cleric Abu Hamza al-Masri sentenced to life in prison
+39855,1,Who were victims in Charlie Hebdo, other Paris attacks?
+39865,3,Massive chain-reaction accident closes I-94 in Michigan
+39975,1,Europe security officials rush to spot possible threats
+39992,3,#Icezilla leaves Northeast states coated in ice
+40003,1,Fitness expert Greg Plitt dies
+40010,1,Why police want you to see this dashcam video
+40011,5,What are the world’s safest airlines?
+40014,1,On patrol with Skid Row’s ’angel cop’
+40124,1,Skier Albrecht learning to live again after crash
+40137,1,2 Marines die as helicopter crashes in California
+40142,1,Obama trip to India has full agenda, high expectations
+40156,1,Kendrick Johnson’s parents could be jailed for protest
+40210,1,Christmas tree fed deadly Annapolis mansion fire
+40264,1,’The Evil Hours’: Lessons of PTSD
+40308,1,Armstrong cited for traffic offenses
+40314,4,Bruce Jenner involved in car accident with one death
+40342,2,Source: NYPD officer indicted in Gurley shooting
+40376,2,Actor Gary Busey hits pedestrian in Malibu
+40395,1,40 reasons why ’SNL’ is still awesome
+40464,1,$22 million mid-air jet crash killed...no one
+40579,1,How Ferguson’s tickets, fines violated rights of blacks
+40591,2,Miles O’Brien: My life, lost and found
+40605,1,French stars among dead in Argentina helicopter crash
+40617,1,Director pleads guilty in Georgia train death
+40652,1,Black Hawk crashes off Florida human remains found
+40653,1,Father of baby Lily: I feel blessed she survived crash
+40715,3,50 dead after bus plunges off road in Brazil
+40764,1,U.S. Navy SEAL Jason Kortz dies in parachute accident
+40774,1,Silicon Valley to millennials: Drop dead (Opinion)
+40782,1,Fraternity crackdowns:
+40783,1,5 things to know about Britain’s Prince Charles
+40864,1,Singer David Crosby hits jogger with car
+40885,1,Germanwings crash report: Pilot locked out of cockpit
+40889,1,BBC sacks ’Top Gear’ presenter Jeremy Clarkson
+40910,1,Obama to ask agency official to step down
+40971,1,German newspaper reports timeline of Germanwings flight
+40977,2,Air Canada plane loses landing gear in Halifax
+41004,3,Germanwings crash: Reports of video from plane denied
+41016,1,Andrew Getty, grandson of J. Paul Getty, dies
+41024,1,Former Mrs Beatle with need for speed targets 200km/h
+41042,1,The Tsarnaev family’s run-ins with the law
+41054,1,Black box shows co-pilot Lubitz sped up plane’s descent
+41055,5,What’s Germanwings’ legal liability for Alps crash?
+41170,1,South Carolina’s Michael Slager: What we know about him
+41227,3,Imagining Daddy: A rig worker’s daughter and her dreams
+41245,1,Disney ’driving experience’ crash: Passenger killed
+41251,1,Video released of deadly police shooting in Tulsa
+41264,1,Tulsa shooting: Did volunteer deputy pay to play a cop?
+41290,2,An accidental death, a fatal retaliation rips apart 2 Milwaukee families
+41321,1,Why migrants are dying to reach Italy
+41334,2,Everest climbers keep wary eye on deadly icefall
+41339,1,Gyrocopter pilot who shut down Capitol released
+41341,1,Is marijuana as safe as -- or safer than -- alcohol?
+41359,3,Hundreds feared dead in Mediterranean shipwreck
+41380,1,Hundreds of migrant deaths: What is Europe going to do?
+41423,2,Obama confronts ’cruel’ reality of his drone war
+41428,1,Creflo Dollar: The devil is trying to discredit me
+41432,1,Death a nightmare for ’Grey’s Anatomy’ fans
+41433,2,5 Georgia Southern students die in car crash
+41485,2,Google is endangering police officers (Opinion)
+41495,1,Baltimore violence and the lack of black men in the city
+41507,5,Bruce Jenner sued over fatal car accident
+41564,3,Germanwings co-pilot Andreas Lubitz rehearsed descent
+41571,1,Price is Right contestant in wheelchair wins treadmill
+41616,1,The 11 best videos of the week
+41626,2,Russian spacecraft re-enters atmosphere, burns up
+41633,1,Conductor: Amtrak train may have been hit by something
+41640,1,Weight loss: Dishwasher loses 100 pounds eating at work
+41773,1,Why was I spared from Amtrak train 188’s crash?
+41806,1,A secret Navy flight over China’s military buildup
+41834,1,Air France plane had near miss with African volcano
+41870,1,’Foxcatcher’: The crazy du Pont next door
+41880,3,USS Arizona Memorial closed after accident
+41902,1,Why ISIS is winning, and how its foes can reverse it
+41951,1,Tragedy haunts Joe Biden once again
+41953,5,Bike accident puts John Kerry in hospital
+41961,2,Five things to know for your New Day - Monday, June 1
+41993,2,Did John Kerry take daredevil bike ride?
+41996,1,Dehydration is a real health threat
+42016,2,Chinese cruise ship victims’ relatives go to wreck site
+42019,1,Rare 17-foot oarfish washes ashore on a Calif. island
+42069,1,Clinton calls for universal voter registration, calls out GOP opponents
+42090,2,Hundreds of bodies recovered from Chinese cruise ship
+42136,1,Thousands of migrants stranded in Mediterrean
+42154,2,2nd suit filed over accident involving Caitlyn Jenner
+42199,1,New footage of Amelia Earhart discovered
+42310,1,Lost comet lander Philae sends ’hello’ from space
+42341,1,10-year-old dies after riding Six Flags roller coaster
+42357,1,Irish families of victims in balcony collapse fly to California
+42392,1,Off-duty New Jersey cop accused of killing wife
+42410,1,Supreme Court: Texas OK to reject Confederate flag plate
+42466,1,James Holmes trial: tears, then prosecution rests
+42479,1,In Charleston’s wake, Clinton speaks forcefully on guns, race
+42510,1,Hackers successfully ground 1,400 passengers
+42541,1,Officer sings lullaby to toddler after fatal car wreck
+42542,1,New details emerge in D.C mansion murder case
+42553,1,Freddie Gray death: Autopsy shows homicide, paper says
+42564,1,Opinion: Could you lose your license to drink?
+42568,1,Rosetta: Space agency extends mission of comet orbiter
+42626,1,Over 500 injured in explosion at Taiwan water park
+42690,1,Ferry owner faces charges in deaths
+42738,1,San Francisco mayor, sheriff spar over immigration policy
+42820,1,Barracks collapse in Russia kills 23
+42846,1,K-9 dies in hot police car in Georgia
+42852,1,Man rescued after falling into industrial meat grinder
+42869,1,What is real justice for Eric Garner? (Opinion)
+42914,1,Dispelling the myth of black fathers (Opinion)
+42943,1,Wragg Fire scorches 6,900 acres in northern California
+42964,1,Debris looks like part of Boeing 777, source says
+42994,1,Cuba’s world of fantasy
+43008,2,Bin Laden relatives killed in UK plane crash, police say
+43029,1,Hiroshima anniversary: What Obama should say (Opinion)
+43032,1,Philae lander finds 16 organic compounds on comet
+43069,5,Malaysia reckless on MH370 facts
+43078,1,11 reasons driving a supercar isn’t as cool as you think
+43117,1,It’s time for Trump to come to his senses on nuclear weapons
+43168,1,’It wasn’t random’: The FBI is offering $20,000 for information on the shooting of a US consular official in Mexico
+43188,4,Automakers are slowing their self-driving car plans — and that could be a good thing
+43277,1,The people who evangelized for the 401(k) now think it’s made retirement a lot harder
+43470,1,A bizarre photo of 80 giant birds on a plane is taking over the Internet — but it isn’t as strange as you think
+43520,1,How Tesla emerged from the brink of bankruptcy to become America’s coolest car company
+43713,1,Tesla has sent investors on an epic roller coaster ride for years — look back at the craziest moments
+43736,1,At least 5 people feared dead as plane crashes into major Melbourne retail centre
+43808,1,A forgotten war technology could safely power Earth for millions of years. Here’s why we aren’t using it
+43821,1,Trump is taking his time to fill more than 500 key jobs, and that could stymie his agenda
+43885,1,Trump has caused a growing number of liberals to start prepping for an apocalypse
+44034,1,Trump wants to ax 19 federal agencies — here’s what they all do
+44095,1,Police officer stabbed and many wounded in apparent terror attack near UK Parliament
+44139,3,A self-driving Uber got into an accident in Arizona and flipped onto its side
+44156,2,Tesla is about to confront dueling best- and worst-case scenarios, and anything could happen
+44303,1,Trump may have just signaled that the ’free ride for mass murder in Syria’ is over
+44496,1,A city in Illinois realized it was spending a lot of money on one drug, so it sued the maker
+44503,1,25 photos that prove you’re a stowaway on a tiny, fragile spaceship we call Earth
+44512,1,An Israeli startup armed with $45 million is taking on Google and Apple in the race to sell your personal data
+44552,1,An urban designer explains why self-driving cars will only make life worse
+44600,1,The untold story of Baked Alaska, a rapper turned BuzzFeed personality turned alt-right troll
+44674,1,Here’s how to escape a flooding vehicle
+44696,1,Volvo is sticking with Uber to win the autonomous driving ’marathon’
+44913,1,If a nuclear bomb explodes nearby, here’s why you should never, ever get in a car
+44944,1,The mother of Uber CEO Travis Kalanick has died in a boating accident, and his father is in ’serious’ condition
+44980,1,NYT Editor: There are two reasons why the Trump administration has so many leaks
+45056,1,Self-driving cars could be terrible for traffic — here’s why
+45150,1,If a nuclear bomb goes off, this is the most important thing you can do to survive
+45219,1,Judge declares a mistrial in Bill Cosby’s sexual assault trial, jury says it’s ’hopelessly deadlocked’
+45269,1,Ex-convict arrested in plot to attack a bar on New Year’s Eve was known as an ’impressionable’ panhandler
+45278,1,There’s one way to solve gun violence — and the US isn’t doing it
+45300,1,Uber’s CEO explains why the app’s arrival estimates are ’almost always’ wrong
+45303,1,Obama has introduced a sweeping set of new measures to tackle gun violence
+45458,1,Silicon Valley’s largest taxi company just became the first high-profile causality of Uber’s war
+45540,1,NJ Gov. Chris Christie declares a state of emergency ahead of major winter storm
+45574,1,Massive snowstorms don’t disprove global warming — in fact, quite the opposite
+45733,1,Scientists are calling a series of experiments ’one of the most important aging discoveries ever’
+45995,2,Mark Zuckerberg talks about the future of Facebook, virtual reality and artificial intelligence
+46025,3,Google’s self-driving car got in the first accident that was truly its fault, but it was going only 2 miles an hour
+46232,1,Passenger jet carrying 62 crashes in Russia, killing everyone on board
+46287,3,’Cars have gotten safer, roads have gotten safer, but teen drivers have not’
+46406,2,This is why public transportation in the US is crumbling
+46467,1,Here’s the best way to own gold
+46571,1,Bernie Sanders and Hillary Clinton just brawled in their feistiest debate yet
+46573,1,’This isn’t a laughing matter’: Hillary Clinton and Bernie Sanders get into heated gun debate
+46771,1,Berkshire Hathaway’s legendary annual meeting just wrapped up — here’s what you missed
+46942,1,How Venezuela’s experiment with ’21st century socialism’ failed
+47008,1,The Egyptian Army has shared the first photos of wreckage from the crashed EgyptAir flight
+47127,1,Verizon reaches a ’very rich’ deal that could end a massive employee strike
+47244,2,An Ivy League professor explains chaos theory, the prisoner’s dilemma, and why math isn’t really boring
+47270,2,Watch these US Marines accidentally sink their LAV
+47368,1,New York’s governor keeps pushing ahead with one of the worst transit ideas in America
+47513,1,One of 2 black boxes on doomed EgyptAir flight stopped recording when the plane fell off radar at 37,000 feet
+47541,8,Airbags were not deployed in the fatal Tesla Autopilot crash, says accident report
+47555,1,I’ve driven many new cars with advanced cruise control, but I’m still not comfortable with it
+47608,1,TRUMP: Adversaries of US ’almost certainly have a blackmail file’ on Clinton
+47633,1,Video footage of Alton Sterling and Philando Castile’s deaths may not hold up in court
+47730,2,I just checked out Tesla Autopilot — there’s no way it can drive a car by itself
+47748,3,Tesla Autopilot wasn’t created so cars could drive themselves
+47775,1,Donald Trump uses first night of GOP convention to stir his base into a frenzy
+47957,1,An Emirates flight has crash-landed at Dubai’s airport
+48127,1,Suspect has been charged in the killings of a Muslim imam and his associate in New York
+48369,4,Satellite owner may seek $50 million from SpaceX after explosion
+48371,1,Airlines have no idea what to do when people are sexually assaulted on flights
+48454,1,40 years ago, Led Zeppelin released its most difficult album — and it’s still hard to listen to
+48460,1,Elon Musk just announced big improvements coming to Autopilot
+48493,1,’Jokers’ and ’sellouts’: The cockiest guy in self-driving cars just roasted his competition
+48533,2,Follow these 6 rules to be an excellent defensive driver
+48649,3,Miami Marlins pitcher José Fernández killed in boating accident
+48694,2,House Republicans don’t want SpaceX handling its own ’troubling’ rocket accident investigation
+48816,1,What it’s like to work at Snapchat, one of the most secretive companies in tech
+48882,1,DARPA just gave a paralyzed man back the sense of touch
+48952,1,My strange encounter with Donald Trump when I was a reporter covering ’The Apprentice’
+49364,1,School bus crash in Tennessee leaves multiple students dead, dozens injured
+49379,1,Donald Trump offers condolences to the families of victims in fatal Tennessee bus crash
+49411,1,25 Wall Street movies to watch over Thanksgiving
+49652,1,The man who invented the first self-driving motorcycle is leading Uber into the future
+49670,2,Video shows a self-driving Uber running a red light on the day of its launch in San Francisco
+49704,1,Trump’s secretary of state pick has been painted as a possible, if unlikely, savior — he’s not
+49710,1,Tesla’s biggest moments of 2016
+49716,1,Actress Zsa Zsa Gabor has died at age 99
+49721,3,’The Big Short’ author Michael Lewis tells us what scares him most about Trump and Wall Street — and why his new book is ’a love story without the sex’
+49821,1,Hackers got into Sony Music’s Twitter account and claimed that Britney Spears had died
+49844,1,Obama’s Faith in White America Was Not Misplaced
+49853,1,’He Was the Nationalist Candidate’
+49871,1,The Friendship That Created Behavioral Economics
+49947,1,Inside LAX’s New Anti-Terrorism Intelligence Unit
+49984,1,The Enduring Mystery of Pain Measurement

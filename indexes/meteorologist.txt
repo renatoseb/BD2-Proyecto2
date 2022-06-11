@@ -1,0 +1,140 @@
+508,1,At Least 18 Die as Tornadoes Sweep Southeast U.S. - The New York Times
+558,1,Storm That Roared Through the South Sweeps Into the Northeast - The New York Times
+635,1,Doomsday Clock Moves Closer to Midnight, Signaling Concern Among Scientists - The New York Times
+982,1,Spring Weather? Snowstorm? New York Schools to Close on Thursday - The New York Times
+1269,1,California Braces for More Rain. How Bad Can It Get? - The New York Times
+1691,1,When Is a Drought Over? A Wet California Wants to Know - The New York Times
+1738,2,Heavy Snowfall Is Forecast Across Northeastern U.S. - The New York Times
+1783,1,Somehow, ‘Slush Day’ Doesn’t Have the Same Ring - The New York Times
+3385,1,A Stony Silence at Fox News After Ailes’s Departure - The New York Times
+4208,1,Hurricane Matthew Pummels Haiti and Moves Toward U.S. - The New York Times
+4274,1,New York Today: Mourning a Brooklyn Prosecutor - The New York Times
+4683,1,Two Children, One Rich, One Poor, Gasping for Air in Delhi’s Smog - The New York Times
+5343,1,From Paris to Bavaria, Heavy Rains Cause Deadly Floods - The New York Times
+5831,1,Hurricane Season Is Heating Up. So Is the Planet. Coincidence? - The New York Times
+6023,1,As Hurricane Matthew Nears U.S., Residents Get Warning: Prepare - The New York Times
+6835,3,The Curse of a Phoenix Weatherman: Finding New Ways to Say ‘It’s Hot’ - The New York Times
+7130,1,Feeling a Chill? Blame the Polar Vortex. And Global Warming. - The New York Times
+7951,1,Shots Fired at Climate Skeptic’s Office During March for Science - Breitbart
+11046,1,Bast: Happy Memorial Day, You Stupid, Arrogant, Liberal Global Warming Alarmist! - Breitbart
+15664,6,**LIVE UPDATES** Massive Winter Storm Hits East Coast - Breitbart
+15891,1,Meghan McCain Named Co-Host of Fox News Channel’s ’Outnumbered’
+16737,1,Hundreds of Flights Canceled in Denver as Blizzard Hits Colorado-Reuters - Breitbart
+17566,1,Tens Of Thousands Flee Raging Israeli Bushfires - Breitbart
+19999,1,Media Spin Louisiana Flooding as ‘Climate Change’ After Obama Report
+21183,1,Weather Channel Issues Severe Hurricane Warning, ’This Is Not Hyperbole’ - Breitbart
+23082,1,Gov. Nikki Haley: ’Not Enough’ People Evacuating SC Coastal Areas
+25657,2,Winter Storm Shuts Down Washington D.C. - Breitbart
+25786,1,Record-Breaking Heat Wave Sparks Fires, Hospitalizations
+25911,1,Satellite Image of Hurricane Matthew Resembles Skull
+30923,1,Hurricane Hermine Leaves 1 Dead – Over 250K Without Power
+31700,2,Winter storm will bring snow to South
+31731,4,South hunkers down for winter storm
+31793,1,CNN 10 - January 9, 2017
+31794,1,CNN 10 - January 10, 2017
+31820,1,Another storm brings snow and rain to the West
+31882,1,CNN 10 - January 13, 2017
+31941,1,Weekend ice storm glazes central US
+32134,2,Tornado deaths over weekend exceed 2016 toll
+32175,1,Nor’easter hits Northeast with winds, flooding
+32313,2,CNN 10 - January 31, 2017
+32523,1,New York, Boston close schools ahead of snowstorm
+32536,4,CNN 10 - February 9, 2017
+32552,2,Snowstorm pounds the Northeast, affecting flights, closing schools
+32564,1,CNN 10 - February 10, 2017
+32665,1,Residents return to homes near California dam
+32704,1,Powerful storm takes aim at Southern California
+32731,4,Deadly storm slams Southern California
+32761,1,More rain in store after 5 killed in California storms
+32958,1,CNN 10 - February 27, 2017
+33045,1,CNN 10 - March 2, 2017
+33322,2,Northeast braces for blizzard
+33339,1,Nor’easter moving north as blizzard warning remains in some areas
+33540,1,CNN 10 - March 27, 2017
+33714,3,Southeast storms: Death toll climbs to 5
+33734,1,More severe weather expected in Alabama, Georgia
+34316,1,CNN 10 - May 1, 2017
+34465,1,Mississippi River cresting in flood-hit Illinois, southern Missouri
+34935,1,CNN 10 - May 26, 2017
+35020,1,2 dead, 1 missing after severe weather in Midwest
+35034,1,Moscow storm kills 16, knocks down thousands of trees
+35049,2,Race to evacuate 1 million people as cyclone makes landfall in Bangladesh
+35253,1,Wreckage of missing Myanmar military plane found
+35722,2,Wildfires and deadly heat wave hit Southwest U.S.
+35806,2,At least 26 dead in West Virginia flooding
+35830,2,West Virginia flooding: At least 24 dead
+35846,2,West Virginia flooding: Residents returning home
+35982,1,West Virginia floods devastate 1,200 homes, many lives
+36107,2,Super Typhoon Nepartak slams Taiwan
+36389,1,Police dog dies after search for suspect
+36407,1,Heat wave scorching millions
+36509,1,Deadly heat wave scorches central and eastern U.S.
+36807,1,Landslides kill at least 40 in Mexico
+36817,1,Macedonia flood deaths rise to 21
+36957,1,’Historic’ flooding batters Louisiana
+37021,1,Louisiana’s mammoth flooding: By the numbers
+37077,2,Louisiana flood: Worst US disaster since Hurricane Sandy, Red Cross says
+37208,1,Kokomo tornado spawns damage
+37361,1,Tropical systems threaten Southeast US, Hawaii
+37441,1,Hermine heads north for holiday weekend
+37676,1,Super Typhoon Meranti targets Taiwan, mainland China
+37699,1,Scientists rescued from polar bears in Arctic
+37703,1,Typhoon batters Taiwan, barrels into mainland China
+37939,1,Iowa, Wisconsin face flood threat
+38002,1,Iowa city hit with evacuation as flooding worsens
+38160,1,Hurricane Matthew swirls toward Haiti
+38211,1,Hurricane Matthew heads to Bahamas after killing 15
+38212,1,Hurricane Matthew: Weather service issues dire warning
+38233,1,Hurricane Matthew kills 276, tears through Haiti, Bahamas, Cuba
+38240,1,Hurricane Matthew: 4 deaths in Florida
+38253,1,Hurricane Matthew creates ’record’ flooding
+38374,2,Hurricane Nicole moves away from Bermuda
+38386,2,2 tornadoes hit NW Oregon more storms Saturday
+38404,1, High winds, rain lash Pacific Northwest
+38677,2,November: A dry spell for rain and tornadoes
+38711,1,What to do if a tsunami strikes
+38824,3,Improving weather forecast with one satellite
+39038,1,Colombia plane crash: 71 dead on Brazil soccer team’s charter flight
+39271,1,Below-freezing temperatures set to sweep the country
+39326,2,Snow and ice for many parts of US this weekend
+39345,2,Storm impacts flights, arctic blast on the way
+39443,1,Package deliverers watching the wintry skies
+39515,2,Frigid air, ice sweep nation, causing deadly road conditions
+39654,1,Performers on crashed plane were headed to Syria
+39906,1,Ex-NFLer Rob Konrad says he swam 9 miles to safety
+40181,7,Better safe than sorry or #Snowperbole?
+40182,1,New England slammed as blizzard of 2015 churns north
+40271,1,Winter storm cancels more than 2,000 flights
+40326,1,Wild West weather: Filthy rain and mountain ’hurricane’
+40404,1,Southern, Midwest U.S. face mix of snow, ice and sleet
+40471,3,Winter weather settles in for a long visit
+40596,1,Solar plane completes first leg of RTW flight
+40679,1,Cyclone Pam blasts Vanuatu, first deaths confirmed
+41053,2,Typhoon Maysak barrels toward the Philippines
+41590,3,Storm spawns tornadoes, leaving one dead
+41677,1,NASA: Antarctica’s Larsen B Ice Shelf to disappear
+41793,1,Heat wave kills more than 1,100 in India
+41884,1,Indian summer: What’s behind heat and when will it end?
+41933,4,Texas floods: More rain expected in Houston
+41974,1,Chinese cruise ship capsized quickly, survivor says
+42224,1,Record rain falls in May
+42318,1,’Possibly catastrophic’: Texas braces for more flooding
+42323,1,Diverted flight strands passengers in military barracks
+42333,1,Tropical Storm Bill strikes Texas
+42629,3,Severe Weather: Record heat expected for Northwest
+42968,1,Search for missing Florida teens reaches Day 6
+43047,1,NOAA predicts calm 2015 hurricane season for U.S.
+43576,1,Major storm could strike Pittsburgh, Philly, NYC, and Boston with up to a foot of snow on Thursday
+45495,2,A ’blizzard for the ages’ could hit the Northeast this weekend
+45535,1,’It’s going to be a nightmare’: The massive winter storm is now bearing down on the East Coast
+45540,1,NJ Gov. Chris Christie declares a state of emergency ahead of major winter storm
+45574,1,Massive snowstorms don’t disprove global warming — in fact, quite the opposite
+45840,2,Freezing rain cancelled more than 700 flights and could make morning commutes ’tricky’ for East Coast
+46981,1,Wreckage from crashed EgyptAir flight MS804 has not been found, is still considered missing
+47013,3,California lifted its mandatory water restrictions — that could be a huge mistake
+48321,2,The tropical storm that’s churning toward Florida and could move up the East Coast ’has a mind of its own’
+48329,2,The storm that’s churning toward Florida is now officially a hurricane — with a ’mind of its own’
+48349,2,A meteorologist reveals what it’s like to fly an airplane through a hurricane
+48797,1,Hurricane Matthew looks ominous from space
+48804,1,Hurricane Matthew threatens Florida to South Carolina with dangerous flooding
+48818,1,Hurricane Matthew makes landfall as it slams the South Carolina coast

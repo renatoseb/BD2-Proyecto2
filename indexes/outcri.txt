@@ -1,0 +1,253 @@
+6,1,Taiwan’s President Accuses China of Renewed Intimidation - The New York Times
+22,1,Damaged by War, Syria’s Cultural Sites Rise Anew in France - The New York Times
+41,1,Turmoil Overshadows First Day of Republican-Controlled Congress - The New York Times
+59,1,In Republicans’ Ethics Office Gambit, a Spectacle of Tweets and Retreats - The New York Times
+61,1,Donald Trump Nominates Wall Street Lawyer to Head S.E.C. - The New York Times
+94,1,Ending Speculation, Black College Says Band Will Play at Inaugural Parade - The New York Times
+143,1,After One-Child Policy, Outrage at China’s Offer to Remove IUDs - The New York Times
+334,1,3 Takata Executives Face Criminal Charges Over Exploding Airbags - The New York Times
+517,1,Brenda Barnes, Pepsi Chief Who Spurred a Work-Life Debate, Dies at 63 - The New York Times
+623,1,Skepticism and Support in South Korea as Ban Ki-moon Weighs Presidential Bid - The New York Times
+933,1,Split by ‘Brexit,’ May and Merkel Diverge on Wider Issues, Too - The New York Times
+986,1,Army Approves Construction of Dakota Access Pipeline - The New York Times
+995,1,Russians Implicated in Doping Still Compete, Angering Other Athletes - The New York Times
+1039,1,Germans Sent Gold Away to Keep It From the Soviets. Now Much of It Is Back. - The New York Times
+1044,1,State G.O.P. Leaders Move Swiftly as Party Bickers in Congress - The New York Times
+1202,1,Facebook’s Zuckerberg, Bucking Tide, Takes Public Stand Against Isolationism - The New York Times
+1539,1,Protesters Disrupt Speech by ‘Bell Curve’ Author at Vermont College - The New York Times
+1564,1,New Travel Ban Garners Same Verdict in Middle East: A Slap at Muslims - The New York Times
+1670,1,Rising Tumult Over Principal at Elite Queens High School - The New York Times
+1674,1,Elena Ferrante’s Naples Novels to Make Their Way to TV - The New York Times
+1737,1,Why We Believe Obvious Untruths - The New York Times
+1896,1,A Texas Woman ‘Voted Like a U.S. Citizen.’ Only She Wasn’t. - The New York Times
+2098,1,What Can You Wear on a Plane? It Depends Who’s Paying - The New York Times
+2199,1,The Roots of the Battle Over Neil Gorsuch: ‘They Started It’ - The New York Times
+2288,1,Fox Losing More Advertisers After Sexual Harassment Claims Against O’Reilly - The New York Times
+2336,1,In Canada, Where Muslims Are Few, Group Stirs Fear of Islamists - The New York Times
+2473,1,Video of United Airlines Passenger Creates Furor in China, Too - The New York Times
+2494,1,Syria, Ahmadinejad, United Airlines: Your Morning Briefing - The New York Times
+2496,1,‘I Screwed Up’: Sean Spicer Apologizes for Holocaust Comments - The New York Times
+2543,1,With Gas Station’s Closing, a Fuel Desert Expands in Manhattan - The New York Times
+2635,1,For Police, a Playbook for Conflicts Involving Mental Illness - The New York Times
+2740,1,The Strange, Unending Limbo of Egypt’s Hosni Mubarak - The New York Times
+2771,1,Shared Mission to Pardon U.S. Soldiers Who Killed Civilians - The New York Times
+2816,1,Middle Eastern Writers Find Refuge in the Dystopian Novel - The New York Times
+2998,1,Russia’s Track and Field Team Barred From Rio Olympics - The New York Times
+3126,1,VW’s U.S. Diesel Settlement Clears Just One Financial Hurdle - The New York Times
+3297,1,How Private Equity Found Power and Profit in State Capitols - The New York Times
+3360,1,HSBC Bank Executives Face Charges in $3.5 Billion Currency Case - The New York Times
+3385,1,A Stony Silence at Fox News After Ailes’s Departure - The New York Times
+3390,1,Smile for the Phone, Creep - The New York Times
+3424,1,Colbert Again in Character — as Himself — at the Conventions - The New York Times
+3629,1,Twins Finish Marathon Hand in Hand, but Their Country Says They Crossed a Line - The New York Times
+3741,1,Painted as EpiPen Villain, Mylan’s Chief Says She’s No Such Thing - The New York Times
+3932,1,The Curious Case of Susan Estrich - The New York Times
+3943,1,As More Devices Board Planes, Travelers Are Playing With Fire - The New York Times
+4020,1,Inspired by the U.S., West Africans Wield Smartphones to Fight Police Abuse - The New York Times
+4083,1,‘Botched’ Repair to China’s Great Wall Provokes Outrage - The New York Times
+4130,1,A Toilet, but No Proper Plumbing: A Reality in 500,000 U.S. Homes - The New York Times
+4225,1,Panti Bliss, Ireland’s Queen of Drag, Expands Her Kingdom - The New York Times
+4259,1,Mylan to Settle EpiPen Overpricing Case for $465 Million - The New York Times
+4324,1,‘Apprentice’ Producer Denounces Trump but Won’t Release Possibly Damning Tapes - The New York Times
+4519,1,Roy Cooper Holds Thin Lead Over Gov. Pat McCrory in North Carolina - The New York Times
+4575,1,Donald Trump, Syria, Russia: Your Wednesday Briefing - The New York Times
+4577,1,Google and Facebook Take Aim at Fake News Sites - The New York Times
+4666,1,Donald Trump, Japan, Mosul: Your Wednesday Briefing - The New York Times
+4933,1,If Donald Trump Pushes on Taiwan, How China Could Push Back - The New York Times
+5107,1,A ‘Hoop Dreams’ Sequel, Written by Gun Violence - The New York Times
+5109,2,A&ampE Shelves a K.K.K. Documentary Series Over Cash Payments - The New York Times
+5191,1,Reviving ‘The Mikado’ in a Balancing Act of Taste - The New York Times
+5231,1,Investigators Say Mexico Has Thwarted Efforts to Solve Students’ Disappearance - The New York Times
+5447,1,After Russian Ban, I.O.C. President Addresses Antidoping Efforts - The New York Times
+5531,1,Five Dallas Officers Were Killed as Payback, Police Chief Says - The New York Times
+5604,1,U.S. Sues to Block Anthem-Cigna and Aetna-Humana Mergers - The New York Times
+5682,1,A Classified Matter at the White House: Obama’s Star-Studded Galas - The New York Times
+5728,1,It’s a Bird! No, It’s a Crocodile! Synchronized Swimming Themes Can Be Mystifying - The New York Times
+5974,1,Plan to Let Migrant Children Attend School Enrages Many Greeks - The New York Times
+6043,1,Archaeological Victims of ISIS Rise Again, as Replicas in Rome - The New York Times
+6060,1,A Divisive President at City College, and a Long List of Personal Expenses - The New York Times
+6286,1,Thousands Flee Aleppo, Syria, as Government Forces Advance - The New York Times
+6372,1,Jurors Hear Dylann Roof Explain Shooting in Video: ‘I Had to Do It’ - The New York Times
+6390,1,After a Crime, the Price of a Second Chance - The New York Times
+6403,1,For Republican Russia Hawks, a Dilemma Named Rex Tillerson - The New York Times
+6424,1,Harlem Deer Caught in City-State Tussle Has Died - The New York Times
+6433,1,Aleppo, China, Jordan: Your Morning Briefing - The New York Times
+6450,1,The East Lobs a Blockbuster-Hopeful to the West With ‘The Great Wall’ - The New York Times
+6458,1,Chinese Propaganda Video Warns of West’s ‘Devilish Claws’ - The New York Times
+6544,2,Daniel J. Berrigan, Defiant Priest Who Preached Pacifism, Dies at 94 - The New York Times
+6686,1,Black Lives Matter Was Gaining Ground. Then a Sniper Opened Fire. - The New York Times
+6711,1,Qandeel Baloch, Pakistani Social Media Celebrity, Dead in Apparent Honor Killing - The New York Times
+6728,1,Migrants and Smugglers Won’t Be Stopped by Donald Trump’s Wall, Ranchers Say - The New York Times
+6729,1,Prosecutors Say Baltimore Police Mishandled Freddie Gray Case - The New York Times
+6733,1,Donald Trump’s Confrontation With Muslim Soldier’s Parents Emerges as Unexpected Flash Point - The New York Times
+6960,1,Wells Fargo Chief Abruptly Steps Down - The New York Times
+7042,1,Where Donald Trump Stands on School Choice, Student Debt and Common Core - The New York Times
+7067,1,Facebook Runs Up Against German Hate Speech Laws - The New York Times
+7082,1,Yale Sets Policy That Could Allow Renaming of Calhoun College - The New York Times
+7118,1,‘La La Land,’ ‘Moonlight’ Lead Golden Globe Nominations - The New York Times
+7269,1,Piles of Dirty Secrets Behind a Model ‘Clean Coal’ Project - The New York Times
+7322,1,1999 Rape Case Swirls Around Nate Parker and His Film ‘The Birth of a Nation’ - The New York Times
+7463,1,Choke Point of a Nation: The High Cost of an Aging River Lock - The New York Times
+7550,1,Okinawa Murder Case Heightens Outcry Over U.S. Military’s Presence - The New York Times
+7551,1,Your Monday Evening Briefing: Hillary Clinton, Cleveland Cavaliers, Kanye West - The New York Times
+7759,1,Refugees Discover 2 Americas: One That Hates, and One That Heals - The New York Times
+7770,1,‘Brexit,’ Angela Merkel, Donald Trump: Your Wednesday Briefing - The New York Times
+7803,1,CNN’s Zeleny: ’Hard to Imagine’ Obama Would Have Commuted Manning If Manning Wasn’t Transitioning - Breitbart
+7822,1,’Distress’ But No Apology For Epiphany Service Quran Reading
+7968,1,UAE Arrests Foreign Couple for Premarital Sex After Doctor Discovers Pregnancy
+8498,1,Sweden To Ban Gender-Segregated Classrooms
+9000,1,PolitiFact Pulls 2014 ’Mostly True’ Rating of John Kerry’s Claim of Eliminating Syrian Chemical Weapons - Breitbart
+9015,1,Kelly Promises to Build Trump’s Wall in 2 Years or Less
+10173,1,DHS Kelly Creates VOICE For Many Victims of Illegal Alien Criminals - Breitbart
+10251,2,Grieving Families Of Victims Of Jailed Palestinian Terrorist Leader Slam NYT For Publishing Oped
+10385,1,Yazidis to Anti-Trumpers: Where Were You During Genocide Against Us?
+10758,1,Rapper T.I.: Snoop Dogg a ’Legend,’ Trump a ’Diarrhea Face Ass Man’
+10815,1,Donald Trump Inauguration 2017: Live Updates, Day One - Breitbart
+11143,1,Trump on Syria’s Assad Following Chemical Weapons Attack: ’Something Should Happen’ - Breitbart
+11835,1,Illegal Aliens in Maryland HS Bathroom Sex Case Face Child Porn Charges
+12168,1,Berkeley Police Arrest Local Professor for Allegedly Beating Trump Supporters with Bike Lock - Breitbart
+12462,1,Trump OKs DACA Amnesty: ’This Is a Case of Heart’ - Breitbart
+12748,1,Report Accuses Facebook of Gender Bias Against Female Developers - Breitbart
+12951,1,Speculation Over Possible Obama Pardon of Edward Snowden, Bowe Bergdahl and Chelsea Manning - Breitbart
+13084,1,Accusations of Anti-Semitism Taint French Presidential Race
+13094,1,Nine Charged with Sex Assault in Texas High School Hazing Scandal
+13102,1,Donald Trump: ’Failing’ Snoop Dogg Would be in Jail if he Shot Obama in Rap Video
+13652,1,Rasmussen Tracking Poll: Donald Trump Reaches 50 Percent Approval
+14744,1,Former Chicago Police Chief Blames Black Lives Matter for Rise in Violent Crime - Breitbart
+15037,1,Fake ’Fake News’: Media Sow Division with Dishonest Attack on Breitbart’s ’Allahu Akbar’ Church Fire Story
+15145,1,Tiger Woods On His Round of Golf With Donald Trump - Breitbart
+15175,1,Exclusive — Bernie Sanders, Other Top Democrats Refuse to Condemn Supporter FBI Alleges Made Anti-Semitic Threats Nationwide - Breitbart
+15261,1,NY Times: Convicted Alien Vote Fraudster’s Real Crime Was ‘Being Confused’
+15542,1,Eric Trump: ’My Father Will Build the Wall So Fast, People’s Heads Will Spin’ - Breitbart
+17138,1,Sen. Kaine, You Can’t be Wrong on Abortion but Right on Social Justice - Breitbart
+17454,1,Nigel Farage Warns Of Cologne-Style Migrant Rape If Britain Votes To Stay
+18070,2,Dems Predict GOP Cave on Scalia Replacement: ‘It’s Going to Be Deja Vu all Over Again’ - Breitbart
+18701,1,Obama Administration Finalizes Social Security Gun Ban - Breitbart
+18742,2,Islamic Victim’s Rights Campaigner Banned from Facebook for Islamophobia
+18886,1,Islamic Cleric: Physics Should be Reformed to Conform to Sharia
+18932,1,Deadline: College Rape Case Haunts ’Birth of a Nation’ Star Nate Parker - Breitbart
+19040,1,New York Times Hits Donald Trump Over Guest Workers at Mar-a-Lago - Breitbart
+19098,1,Migrant Terror Suspect Used Amazon Gift Cards to Purchase Bomb Components
+19137,1,Tenants Fight Back After Being Forced to ’Like’ Apartment Complex’s Facebook Page - Breitbart
+19186,1,Socialist French President Says Donald Trump ’Sickening’
+19531,1,More Foreign Graduates to Compete for STEM Jobs Under Newly Unveiled Obama Rule - Breitbart
+19912,1,Twin Falls Crisis Imposed by Clinton-Era Pro-Refugee Advocates - Breitbart
+20279,1,Reuters Cites ’Conservative’ Ana Navarro to Attack Jeff Sessions - Breitbart
+20804,1,WAR ON WOMEN: Rose McGowan Accuses 20th Century Fox of Promoting ’Casual Violence Against Women’ - Breitbart
+21121,1,Saudi Women, Men Sentenced to Flogging for Drunken Coed Mingling
+21876,1,The Kaepernick Caper: Celebrity Hypocrisy on Steroids - Breitbart
+22745,1,Top ’League of Legends’ Commentators Publicly Criticise Riot Games over Pay - Breitbart
+23746,1,DAVI: It’s Time for Trump to Take The Lumps Out - Breitbart
+23893,1,Texas Sheriff Stands Strong on Jail Immigration Program Despite Activists’ Pressure
+23946,1,FULL TEXT: 10 Things Milo Hates About Islam - Breitbart
+24601,1,Chinese Outraged by Incorrect Flags (Shhh! Made in China) Flying at Rio Olympics - Breitbart
+24694,1,BET: So Many Deaths in Gun-Controlled Chicago, Police Only Investigate 11 Percent - Breitbart
+25015,1,Turkey’s Parliament Set To Legalise Child Rape of ’Married’ Victims
+25193,1,Just One in Ten Foreign Prisoners Are Being Tagged on Release
+25349,1,Poll: Majority of Voters Want to See Hillary’s Health Records
+25526,1,Top 5 Ways Democrats Challenged the Legitimacy of the 2000 Election - Breitbart
+26035,1,Pro-life Women: ‘Disgusted’ By Donald Trump, ‘He Has Impugned Dignity of Women’ - Breitbart
+26385,1,Father Banned from Taking his Son To Church Because Ex-Wife is Muslim
+26579,1,Fake News: BuzzFeed, CNN Promote Claim That RNC Called Trump–Not Jesus–’New King’ - Breitbart
+26885,1,New York Post: The NFL Could ‘Fall Like Gladiators of Ancient Rome’ - Breitbart
+26983,1,Jersey Maker Praises Woman Assaulted at San Jose Trump Rally
+27368,1,Filmmaker Arrested in Sudan for Documenting Christian Persecution - Breitbart
+27815,1,Jorge Ramos to DREAMers: You Are the ’Rosa Parks of This Time’
+28212,1,Iran ’Ransom’: Feds Claim $1.7 Billion Paid in Full - But Won’t Explain How - Breitbart
+28315,1,Netanyahu Echoes Trump on Arab Population Following Tel Aviv Attacks
+29107,1,Report: Yale Professor Makes Midterm Optional for Students Upset over Trump Win - Breitbart
+29108,1,Leave Britney Alone - Breitbart
+29595,1,Only Skilled EU Workers Will Be Allowed to Come to UK after Brexit, Government to Promise
+30123,1,Iran ‘Ransom’ Mystery Deepens - Feds Won’t Divulge Timing of Critical $1.3 Billion Payment - Breitbart
+30324,1,Terry McAuliffe Stands Against Everytown for Gun Safety: Restores Concealed Carry Reciprocity - Breitbart
+30953,1,EXCLUSIVE: Islamic State Fighter on Normandy Attack: Many More Christians Beheaded Muslims
+31582,1,Constitution Allows Muslim Immigration Ban
+31639,1,House Republicans pull plan to gut independent ethics committee  after Trump tweets
+31914,1,Famed Ringling Bros. circus closing
+31918,2,’Dreamgirls’ star Holliday backs out of Trump inauguration performance
+31953,1,Netanyahu: Paris peace conference is ’useless’
+32043,1, Inflammatory pastor preached to Trump before inauguration
+32284,1,Trump travel ban: Here’s what you need to know
+32480,1,East China Sea: How an uninhabited island chain splits Japan and China
+32490,1,White House turmoil rankles Washington more than Trump
+32513,1,Dakota Access Pipeline: Army issues final permit
+32610,1,Trump discovers the limits of his power
+32621,1,The folks packing Republican town halls
+32629,1,Embattled Flynn was in ’fluid’ situation Monday night leading up to resignation
+32655,1,Is racism why Adele beat Beyoncé at the Grammys?
+32740,1,Immigrant protected under ’Dreamer’ program stays in custody
+32921,1,States’ rights for bathrooms, but not for marijuana
+33379,1,Rick Ross on new album, politics and Trump at SXSW
+33472,1,Essential Health Benefits and why they matter
+33509,1,Missing black girls in DC prompt calls for federal help
+33545,1,Controversial Police Encounters Fast Facts
+33582,1,Portland ’Dreamer’ arrested by ICE, then released on bond
+33624,1,Obama administration under scrutiny for its response to Russia’s meddling
+33677,1,Vortex of questions, tension at the White House
+33698,1,Trump signals he won’t press human rights ahead of key diplomatic week
+33716,1,TV viewer influences outcome of year’s first LPGA major
+34003,1,Crisis management expert takes on this week’s PR disasters
+34076,1,This is what protest sounds like
+34123,1,War on campus: The escalating battle over college free speech
+34202,1,Enzi: ’I regret a poor choice of words’ on tutus
+34367,1,Sources: Former Acting AG Yates to contradict administration about Flynn at hearing
+34585,1,Many Trump backers are ’totally OK’ with Comey firing
+34857,1,Ousted South Korean president Park Geun-hye stands trial
+35161,3,Two comedians, two controversies, one week
+35452,1,After drama, Southern Baptists denounce the ’Alt-Right’
+35531,1,The Bill Cosby mistrial: How we got here
+35810,1,Clinton’s Israel views win out in DNC platform, for now
+36041,1,How Trump overshadowed Clinton’s bad weekend
+36049,1,How to stop the cycle of hate
+36393,1,India rape case a chilling reminder for women
+36416,1,’Not enough protection for victims in India’
+37349,1,Chicago police move to fire officers in Laquan McDonald shooting
+37378,1,September 11th Commission Fast Facts
+37435,1,Brock Turner released after 3 months in jail
+38186,1,Who won the debate?
+38440,1,Syria: No breakthrough at Swiss talks
+38544,1,Nicaraguan President wins fourth term, with wife as VP
+38871,1,5 reasons why South Korea’s president is unlikely to quit
+38936,1,What ’Moana’ gets right
+38983,1,Man’s death by Chicago police under investigation
+38995,1,Chicago officer who fatally shot man relieved of powers
+39204,1,Richard Spencer’s appearance at Texas A&ampM draws protests
+39477,1,Help Syrians survive the conflict
+39695,2,’Nazi-chic’: Why dressing up in Nazi uniforms isn’t as controversial in Asia
+39819,1,Flemish-style portraits question race, equality
+40204,1,Michelle Obama headscarf  ’scandal’ is bogus (Opinion)
+40438,1,Mayor of Caracas, Venezuela, arrested
+40442,1,Beyonce fans swarm after unflattering photos surface
+40478,1,Battle lines drawn over AP U.S. history
+40489,1,Prominent Bangladeshi-American blogger killed
+40606,1,Judge resigns, Ferguson cases moved after DOJ report
+40883,1,Why the n-word doesn’t go away
+40933,1,Vote to ax Ole Miss Chancellor Dan Jones riles alums
+40960,1,Indiana’s Religious Freedom Law: Five Questions
+41008,1,Pence: ’Was I expecting this kind of backlash? Heavens no.’
+41193,1,Feidin Santana, shooting witness, fears retribution
+41197,1,California judge faces recall try over rape sentence
+41535,1,Two killed at Mohammed cartoon event in Garland, Texas
+41646,1,Celibacy proposal for gay blood donors is discriminatory
+41737,1,Cleveland officer not guilty in unarmed pair’s killing
+41798,1,Rabbit killed during live radio broadcast in Denmark
+41867,1,The ugly example FIFA scandal sets for soccer kids
+41966,1,In Duggar scandal, a troubling message to girls
+42057,1,Tom Hanks’ son slammed for defending use of n-word
+42152,1,Saudi court upholds 1,000 lashes for blogger
+42174,1,The women on the front lines of the new abortion battle
+42274,2,Female scientists prove they’re #distractinglysexy
+42813,1,Petition: Revoke Bill Cosby’s Medal of Freedom award
+42842,1,Defiant Donald Trump refuses to apologize to John McCain
+43027,1,How outrage over Cecil killing misses the point
+43572,1,Colombian president who hunted down Pablo Escobar: Don’t fight the drug war the way I did
+44445,1,Bill O’Reilly’s days at Fox News may be numbered
+44711,1,John Oliver is rallying to save Obama’s ‘net neutrality’ rules, but it may not matter much this time around
+44811,1,’Where is the actual crime’: Jason Chaffetz questions the Justice Department’s motives with special counsel appointment
+44957,1,Kellyanne Conway and other women reveal what it’s like to work in Trump’s White House
+45238,2,Early reviews praise Megyn Kelly’s controversial interview with far-right provocateur Alex Jones
+45401,1,These are the hungriest countries in the world
+45567,1,A grand jury has indicted the anti-abortion activists behind the Planned Parenthood videos
+48294,1,The most hotly debated policing strategy of the last 20 years is far from finished
+48364,1,Here’s how cops actually trace a gun
+49869,2,How Trump Had It Both Ways on Congressional Ethics

@@ -1,0 +1,257 @@
+65,1,My Canada - The New York Times
+116,1,Donald Trump, Fort Lauderdale: Your Friday Evening Briefing - The New York Times
+262,1,You’d Be Surprised at How Many Foods Contain Added Sugar - The New York Times
+329,2,In the Shopping Cart of a Food Stamp Household: Lots of Soda - The New York Times
+441,2,‘The Founder’: Burgers, Fries and a Couple of Wiseguys - The New York Times
+565,1,In Its Third Month, India’s Cash Shortage Begins to Bite - The New York Times
+657,1,Why Clam-Chowder Pizza Is the Best Kind - The New York Times
+692,1,After Escape From Syria, Another Dangerous Foe: Diabetes - The New York Times
+888,2,Spicing Up the Colombian Melting Pot - The New York Times
+901,3,Wine and Dine - The New York Times
+930,1,Turning the Tide Against Cholera - The New York Times
+1365,1,Buttered Swordfish for Finicky Kids — With Plenty of Sauce for the Adults - The New York Times
+1374,1,The Adults a Medicaid Work Requirement Would Leave Behind - The New York Times
+1395,3,One of Atlanta’s Last Stores on Wheels Navigates a World of Change - The New York Times
+1397,1,Bill Paxton, Star of ‘Big Love’ and Movie Blockbusters, Dies at 61 - The New York Times
+1402,1,For Navajo Team, a Season of Change and Challenge - The New York Times
+1501,1,A Caramelized Cabbage Casserole to Get You to Spring - The New York Times
+1514,1,Paula Fox, Novelist Who Chronicled Dislocation, Dies at 93 - The New York Times
+1540,1,René Préval, President of Haiti in 2010 Quake, Dies at 74 - The New York Times
+1629,1,E.P.A. Head Stacks Agency With Climate Change Skeptics - The New York Times
+1708,1,No Health Insurance Is Hard. No Phone? Unthinkable. - The New York Times
+1785,1,Snowstorm Brings Wintry Mix of Slush and Gripes - The New York Times
+1788,1,How Egypt’s Activists Became ‘Generation Jail’ - The New York Times
+1842,1,Tillerson, Trump, ‘Beauty and the Beast’: Your Friday Evening Briefing - The New York Times
+1852,1,What to Cook This Weekend - The New York Times
+1903,1,Millennial Entrepreneurs Give Sleepy Montevideo a Fresh Jolt - The New York Times
+1910,1,The Verdant Food of Iran Entices at Persian New Year - The New York Times
+1934,1,That’s Not the Burglar Growling. It’s His Stomach. - The New York Times
+1942,1,The Hawaii Cure - The New York Times
+2070,1,Who Killed the Iceman? Clues Emerge in a Very Cold Case - The New York Times
+2203,2,Want to Pick Better Bottles? Repeat After Me: Wine Is Food - The New York Times
+2218,1,Park Geun-hye’s Life in Jail: Cheap Meals and a Mattress on the Floor - The New York Times
+2232,2,Yevgeny Yevtushenko, Poet Who Stirred a Generation of Soviets, Dies at 83 - The New York Times
+2233,1,James Rosenquist, Pop Art Pioneer, Dies at 83 - The New York Times
+2285,5,Inviting the Easter Bunny to the Seder - The New York Times
+2318,2,The Hippies Have Won - The New York Times
+2454,1,United Airlines Passenger Is Dragged From an Overbooked Flight - The New York Times
+2525,1,Parts Are Greater Than the Sum of the Chicken at Torishin - The New York Times
+2666,3,The Best Sandwich Ever - The New York Times
+2720,1,Two-Hour Marathon. Can It Be Done? - The New York Times
+2754,1,Doctors With Enemies: Did Afghan Forces Target the M.S.F. Hospital? - The New York Times
+2779,2,Beer Outdoors and Around the Clock - The New York Times
+2817,1,The Moroccan Garden of One Man’s Dreams - The New York Times
+2857,1,Palestinians Elect a New President (on a Reality TV Show) - The New York Times
+2866,1,Credit Suisse Boss Faces Revolt From Bankers Over Strategy Shift - The New York Times
+2938,1,The Chinese Hackers in the Back Office - The New York Times
+3241,1,The Agony of the Digital Tease - The New York Times
+3330,1,Online Trail Illuminates Baton Rouge Gunman’s Path to Violence - The New York Times
+3348,2,By Bulgaria’s Beautiful Black Sea - The New York Times
+3446,1,James O’Neill, Officer Since 1983, Will Step Into Police Dept.’s Top Job - The New York Times
+3520,1,What to Cook This Week - The New York Times
+3532,2,3 Quick and Savory Recipes for Peak-of-the-Season Tomatoes - The New York Times
+3649,1,‘No Matter What You Did, You Are My Son’: Afghan Fighters Reunite as Family - The New York Times
+3669,1,From Montreal to Minnesota, by Inland Sea - The New York Times
+3715,2,Tucson Becomes an Unlikely Food Star - The New York Times
+3821,1,Thousands March in Venezuela to Demand President’s Ouster - The New York Times
+3869,1,BuzzFeed Regroups as Media Turns Video-Centric - The New York Times
+3878,1,Our Restaurant Critic Goes National. First Stop: California. - The New York Times
+3994,1,Diabetes and Your Diet: The Low-Carb Debate - The New York Times
+4051,1,How Bad Off Is Oil-Rich Venezuela? It’s Buying U.S. Oil - The New York Times
+4110,1,Chinese Jews of Ancient Lineage Huddle Under Pressure - The New York Times
+4148,1,Stephen Colbert Reboots ‘The Late Show,’ Fixing It on the Fly - The New York Times
+4196,2,What to Cook This Week - The New York Times
+4263,1,Seeing ‘Nothing to Live For’ as Haiti Seeks a Body Count After Hurricane Matthew - The New York Times
+4278,1,How U.S. Torture Left a Legacy of Damaged Minds - The New York Times
+4290,2,In Haiti, a City’s Race Into the 21st Century Is Ruined by a Hurricane - The New York Times
+4327,1,Bob Dylan the Writer: An Authentic American Voice - The New York Times
+4339,1,How Turned Off Are Voters? Check Out Tommy’s Diner - The New York Times
+4352,1,The Best Fall Cookbooks - The New York Times
+4483,1,In Remote Settlement High on Tibetan Plateau, Buddhist Spirituality Soars - The New York Times
+4725,1,Chipping Away at a List of Goals, and Bonding Over Cupcakes - The New York Times
+4740,1,Fidel Castro’s Sister, an Outspoken Critic, Takes No Joy in His Death - The New York Times
+4757,1,Thousands Flee Parts of Aleppo, Syria, as Assad’s Forces Gain Ground - The New York Times
+4765,1,Skiing the Alps, Making It My Own - The New York Times
+4811,1,Standing Rock Pipeline Protesters, Ordered to Leave, Dig In - The New York Times
+4814,2,The Scourge of Racial Bias in New York State’s Prisons - The New York Times
+4828,1,Hunting ‘Turr’ in Newfoundland’s Frigid Waters - The New York Times
+4961,3,Tending to the Living and the Dead in a Battle-Torn Afghan City - The New York Times
+5038,1,Cancer Patient Awaits Day She Can Return to the Kitchen - The New York Times
+5071,1,Fight - The New York Times
+5214,1,Earthquake Leaves a Trail of Destruction in Ecuador - The New York Times
+5285,1,Dying Infants and No Medicine: Inside Venezuela’s Failing Hospitals - The New York Times
+5649,1,How Does an Australian Town of 100 Attract Tourists? A Music Festival and Camel Pie - The New York Times
+5650,2,All Aboard the Nordic Express, at Agern - The New York Times
+5675,4,‘He Wasn’t Profiteering During the Conflict’ - The New York Times
+5702,1,We’re So Confused: The Problems With Food and Exercise Studies - The New York Times
+5780,1,Simple Rules for Healthy Eating - The New York Times
+5906,2,How to Keep the ‘Great Comet’ Party Going on Broadway: Dish Out the Pierogies (and Add Josh Groban) - The New York Times
+5974,1,Plan to Let Migrant Children Attend School Enrages Many Greeks - The New York Times
+5996,1,Packing Tips From Professional Travelers - The New York Times
+6021,3,Carla Hall’s Southern Kitchen Likes It Hot, but Not Hellish - The New York Times
+6023,1,As Hurricane Matthew Nears U.S., Residents Get Warning: Prepare - The New York Times
+6038,1,Hurricane Matthew Avoids Direct Hit on Florida, Continues North - The New York Times
+6062,2,Review: Taylor Mac’s 24-Hour Concert Was One of the Great Experiences of My Life - The New York Times
+6131,1,Should We Be Scared of Butter? - The New York Times
+6169,1,In Once-Tolerant Mosul, a Social Unraveling That Feels Permanent - The New York Times
+6196,1,U.S. Fingerprints on Attacks Obliterating Yemen’s Economy - The New York Times
+6200,1,Martha’s Vineyard, Off-Season - The New York Times
+6280,1,More Than Coffee: New York’s Vanishing Diner Culture - The New York Times
+6384,1,‘We Are Dead Either Way’: Agonizing Choices for Syrians in Aleppo - The New York Times
+6390,1,After a Crime, the Price of a Second Chance - The New York Times
+6471,1,A Joyful Bustle to Get Ready for Guests: Syrian Refugees - The New York Times
+6627,3,Venezuelans Ransack Stores as Hunger Grips the Nation - The New York Times
+6676,1,Funeral Held for Murdered Brooklyn Pizzeria Owner as Police Seek Suspect - The New York Times
+6709,1,As Turkey Coup Unfolded, ‘the Whole Night Felt Like Doomsday’ - The New York Times
+6725,1,When Community-Supported Agriculture Is Not What It Seems - The New York Times
+6803,1,Reflections From Rio - The New York Times
+6828,1,Crickets, Snakes, Crabs: A Mix of Fact and Fraud in New York’s Subway - The New York Times
+6837,2,In Honduras, a Spiritual and Political Awakening for Tim Kaine - The New York Times
+6963,1,‘Hamilton’ and Heartache: Living the Unimaginable - The New York Times
+6986,2,Adventures in Upscale Brooklyn - The New York Times
+7009,1,Donald Trump, Leonard Cohen, Mosul: Your Friday Evening Briefing - The New York Times
+7039,1,Killers on a Shoestring: Inside the Gangs of El Salvador - The New York Times
+7076,1,Mind Over Body: Playing in the N.F.L. at 38 - The New York Times
+7111,2,How the Twinkie Made the Superrich Even Richer - The New York Times
+7117,2,One Weight-Loss Approach Fits All? No, Not Even Close - The New York Times
+7149,1,Monsieur Vogue Is Leaving Trumpland - The New York Times
+7173,1,How to Have a Dinner Party: Friends Not Required - The New York Times
+7265,1,Bangladesh Attack Is New Evidence That ISIS Has Shifted Its Focus Beyond the Mideast - The New York Times
+7281,1,Regaining Chicken Salad’s Dignity, Any Time of Day - The New York Times
+7288,14,Tips to Reduce Food Waste - The New York Times
+7301,15,The Secret to Good Toast? It’s Your Freezer - The New York Times
+7341,1,Edward Snowden’s Long, Strange Journey to Hollywood - The New York Times
+7402,1,Scenes From Hurricane Matthew’s Capricious Path - The New York Times
+7420,1,Yes! Foods may fight acne - The New York Times
+7519,3,No Food, No Medicine, No Respite: A Starving Boy’s Death in Venezuela - The New York Times
+7790,1,Elie Wiesel, Auschwitz Survivor and Nobel Peace Prize Winner, Dies at 87 - The New York Times
+8419,1,Senegal’s Pink House Gives Hope to Pregnant Women Who Have Been Victims of Abuse
+10793,1,Pope Francis Shocks Workers With Pro-Capitalism Pitch
+10875,1,Pictures: Crucifixion of Jesus Recreated In Annual Central London ’Passion Play’ Tradition
+11076,1,Trump Meets with MLB Commissioner, Yankees President at Trump Tower - Breitbart
+11245,1,Nanny State Health Warning: Burnt Toast Can Give You Cancer - Breitbart
+11559,1,Fyre Festival Organizers Slapped with $100 Million Fraud Lawsuit
+11572,2,Ann Coulter: How to Provide Universal Health Care Using This One Easy Trick
+11981,1,Ernie Els: ‘We Would Not be Playing For the Money We Play For If It Wasn’t For Tiger’ - Breitbart
+12036,4,MSNBC’s Reid: ’Bread and Circuses’ For Trump’s Base ’Includes the Persecution of’ Muslims and Immigrants - Breitbart
+12577,2,Christians Celebrate Easter - Breitbart
+13184,1,’Horizon Zero Dawn’ Review: Gameplay Relics from the Past Hold Back an Otherwise Engrossing Open-World Adventure - Breitbart
+13420,1,Virgil: Trump Connects to the Taproot of American Economic Nationalism with Henry Clay’s ’American System’
+13878,1,UW Madison Student Claims Racism over Burnt Toast - Breitbart
+14004,1,The Nuclear Option: The Dark, Divisive Inaugural Address - of Abraham Lincoln - Breitbart
+14105,1,Ann Coulter’s Report Card for President Trump’s First Two Weeks: ‘I Give Him an A+++’
+14267,1,Venezuelan Migrant Crisis Hits the Globe from Brazil to Israel
+14875,1,Legendary Conservative Broadcaster Greg Garrison to Retire After 20 Years - Breitbart
+15535,1,Donald Trump’s Conservative Foreign Policy - Breitbart
+15558,2,Inside Venezuela: Empty Supermarkets, Fascist Imagery and a Collapsing Social Order - Breitbart
+15664,1,**LIVE UPDATES** Massive Winter Storm Hits East Coast - Breitbart
+16608,1,The Federal Reserve Is Dealing Financial Drugs - Breitbart
+17342,1,Thanksgiving: Hillary Fans Encourage Nasty, Vindictive Family Dinners
+17665,1,Thugs Assault Mother Teresa’s Nuns in Argentina, Just Days Before Her Canonization - Breitbart
+17669,1,The Legend Speaks -- Schlafly Thunders for Ryan Ouster: ‘Get Rid of Him!’
+17783,2,Carbohydrates Linked to Increased Risk for Lung Cancer - Breitbart
+17830,1,Rapper YG Offers Free ’F*ck Donald Trump’ Bagels to CA Voters
+18193,7,5 Businesses That Banned Guns for Moms Demand Action
+18844,1,Yazidi Parents Who Survived Islamic State Name Newborn Baby ’Trump’
+19352,1,ZUCKED UP: Why Silicon Valley Is Scared to Death of Trump Part 1 - Breitbart
+19896,1,At Davos, Eric Cantor Assails Trump For His America-First Trade Policy - Breitbart
+20075,1,Pope Francis: ‘Persecution Is the Christian’s Daily Bread’
+20115,1,Tancredo: Good Thing Crony Capitalists Oppose Trump - Breitbart
+20401,1,Professor: Stop Calling All People Who Disagree with You ‘White Supremacists’ - Breitbart
+21744,1,The Ten Ideologies of America
+22355,1,Christie: Rubio Will ’Crumble in Front of Hillary Clinton’ - Breitbart
+22518,1,Registered Sex Offender to Desecrate Virgin Mary, Burn Koran in Black Mass - Breitbart
+23649,1,Slavery in the USA? Mexican Immigrant Forced Illegals to Work Without Pay for 14 Yrs. - Breitbart
+23685,1,America Last: 20 American-Born Companies that Have Sold Out to Foreign Interests - Breitbart
+23764,1,Duterte: Philippines Will Not Be a ’Dog Barking for Crumbs’ from U.S.
+24421,1,Exclusive: NeverTrump’s New Goal - Keep the GOP Conservative, or No President Trump - Breitbart
+24555,1,Libertarians and Trump: To Be, or Not To Be, a Republican in 2016
+24806,1,The Pseudohistory, Preachy Environmentalism, and Multiculturalist Pageantry of Rio’s Opening Ceremonies - Breitbart
+25311,1,Calais Migrant Camp Shows Signs of Hasty Departures
+25757,1,Pope Francis: Christmas Has Been ‘Kidnapped’ by Materialism
+28300,1,Taliban Snuffs Child-Molesting Afghan Police Using Sex Slave Boys as Bait - Breitbart
+28878,1,Schweizer Calls for ’Major IRS Investigation’ of Clinton Foundation - Breitbart
+29904,1,Live Updates: Donald Trump’s Veteran Fundraiser - Breitbart
+30581,1,’At Least 2.5 Million Pilgrims At Papal Mass in Poland’ Say Organisers
+31676,1,Will black college band perform at Trump inauguration?
+31691,1,The meaning of tolerance in the Trump era
+31700,2,Winter storm will bring snow to South
+31730,1,Thirsty at Trump’s DC hotel bar? Get ready for a yuge bill
+31731,3,South hunkers down for winter storm
+31781,1,Returning home to find your house in a ’different country’
+31830,2,Twinkies, Palmer Candy join recall
+31946,1,100-bolivar notes get extension as Venezuela crisis continues
+32408,1,Immigration ban strands children and families
+32417,1,Injured toddler’s future waits on Trump policy
+32641,1,CNN 10 - February 13, 2017
+32651,1,Injured Yazidi toddler to reunite with family
+32723,1,Florida high court upholds block on 24-hour wait for abortions
+32797,1,Zakaria: Trump has ’hardly done anything’
+33085,1,Suspected chemical attack in Mosul, Red Cross says
+33630,1,Why ISIS offered to kill this 4-year-old girl
+33727,1,How to train yourself to become a morning exerciser
+34039,3,10 of the world’s best fresh markets
+34236,2,CNN 10 - April 27, 2017
+34238,2,Trump is giving the Republicans what they really want
+34249,1,CNN 10 - April 28, 2017
+34344,1,Ja Rule still fried over Fyre -- and now sued
+34658,1,In ancient city of Xi’an, China hopes to restart the Silk Road
+35460,1,Ryan and Pelosi back ’Team Scalise’
+35563,1,Asgardia: the world’s first ’space nation’
+35675,1,In Jo Cox’s town, the shock is still so raw
+36016,1,’God wants you to die’: Dhaka’s long night of terror
+36569,2,Syrian state media: Supply lines to Aleppo cut
+36661,1,Heads will roll: The beauty of guts and gore
+36695,1,Venezuela: Where basics cost a month’s pay
+36978,1,Fallen officers: 64 shot dead this year
+37130,1,Judge seeks criminal contempt charges against  Arpaio
+37387,1,How should you talk to loved ones about their weight?
+37874,2,Floating cemeteries and space burials: Asia’s futuristic take on death
+38216,1,Turkey can no longer conceal its deep cracks
+38321,1,The faces of S. Africa’s Fees Must Fall movement
+38453,1,50 years later, who are the heirs of the Black Panthers?
+38563,1,Donald Trump mocks hip hop as ’talking’
+39359,1,A home of their own after foster care
+40014,1,On patrol with Skid Row’s ’angel cop’
+40042,1,Obama goes on offense
+40061,1,Best social media moments of the State of the Union
+40140,1,Auschwitz’s forbidden art
+40150,6,16 dead in protests marking Egypt revolution
+40159,1,She danced for Dr. Mengele in Auschwitz
+40364,1,India’s problem with menstruation
+40646,2,Osama bin Laden’s Afghan hideout: Rare look in photos
+40676,6,Be careful when diagnosing your ailments online
+40947,1,An ingredient to a long life, in your cereal bowl
+41026,1,Best and worst foods to eat when sick
+41439,1,How to get kids to eat healthy school lunches
+41631,1,Boston Marathon bombing victims remembered
+41733,1,Space plane, Planetary Society solar sail to launch
+42278,1,Most diverse place in America is not where you think
+42472,1,Orem Owlz cancel ’Caucasian Heritage Night’
+42955,1,A young ballclub barnstorms the Deep South
+43095,1,What the science says about every popular diet — and whether they can work for you
+44080,2,11 things people think are terrible for your diet that actually aren’t
+44168,1,The company that owns Olive Garden just placed a $780 million bet on a tiny restaurant chain
+44242,2,
+44691,1,Chains are banking on this new strategy to combat the restaurant apocalypse
+44963,3,Our obsession with calories can be traced back 100 years — and it hides a much bigger problem
+45519,1,Disturbing images of the mold, mushrooms, and bullet holes in Detroit’s schools that led to teachers’ massive ’sickout’
+45707,1,How this Uber driver made $90,000 in 6 months while barely driving at all
+45716,1,This might be one of the most sensible, scientifically supported diets we’ve ever seen
+46510,1,Supermarkets have a millennial problem, and their history of catering to white suburbanites is to blame
+46694,1,US airlines are freaking out about a company you’ve never heard of
+48189,1,Here’s why Nike’s golf business failed
+48468,1,10 scientific hoaxes that rocked the world
+48677,1,The downfall of fast-casual restaurants
+48732,1,Everything you know about millennial spending is about to change
+48983,1,’It’s easy to lose your mind here’: A Syrian from Aleppo explains how he survives amid food shortages and airstrikes
+49094,1,Elon Musk has finally figured out how Tesla can deal with Uber
+49385,1,Saying 2 words most of us overlook can save your tired relationship
+49526,2,This New York City-based soup-and-sandwich chain should make Panera nervous
+49619,3,We ranked everything on the Chick-fil-A breakfast menu — and the best thing isn’t even the chicken
+49746,2,The sugar industry is quietly funding one of the biggest misconceptions in modern nutrition
+49811,1,I found the best fried chicken sandwiches of 2016
+49839,1,2016, Summed Up in a Word
+49864,1,Don’t Read Too Much Into the Vermont Hack Debacle
+49894,1,Mistakes in ’Paleo’ Eating
+49923,1,Can States Make People Pay Even When Their Convictions Are Overturned?

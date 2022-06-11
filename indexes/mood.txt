@@ -1,0 +1,595 @@
+46,2,Work. Walk 5 Minutes. Work. - The New York Times
+65,1,My Canada - The New York Times
+71,2,Cyberwar for Sale - The New York Times
+108,2,Review: Debbie Reynolds and Carrie Fisher, at Home in ‘Bright Lights’ - The New York Times
+134,1,A Young Mother’s Solitary, Uphill Struggle - The New York Times
+153,1,Seizing a Second Chance to Graduate From High School - The New York Times
+182,1,Ireland Reconsiders Its Constitutional Ban on Abortion - The New York Times
+195,1,U.S. Blacklists 5 Russians, a Close Putin Aide Among Them - The New York Times
+214,1,California Today: $8 Million in Tech Money for the Bay Area Arts - The New York Times
+228,1,Publishers Encounter Political Storms in Turn to Right - The New York Times
+263,1,Snow Acts as a Magical Balm in an Anxious Turkey - The New York Times
+293,5,Review: ‘A Really Good Day,’ Ayelet Waldman’s Better Living Through LSD - The New York Times
+307,1,Electroshock Therapy for Internet Addicts? China Vows to End It - The New York Times
+391,1,Angst Simmers in Washington as Trump Presidency Nears - The New York Times
+398,1,Run-Up Since Election Slows as Investors Consider Risks - The New York Times
+469,1,‘I’m Nobody’? Not a Chance, Emily Dickinson - The New York Times
+478,1,Pet Pigs of New York: Illegal, Embattled, Beloved - The New York Times
+485,1,Trump Inspires Cheers, and Alarm, Around the World - The New York Times
+494,1,Amid Fistfights, Turkey’s Parliament Backs a New Constitution - The New York Times
+507,1,Donald Trump’s Inauguration, Women’s March: Your Weekend Briefing - The New York Times
+511,1,In Trump’s Hometown, a Clear Message of Defiance From Women - The New York Times
+525,3,Rocky First Weekend for Trump Troubles Even His Top Aides - The New York Times
+580,2,‘The Only Way We Can Fight Back Is to Excel’ - The New York Times
+740,1,Postcard From My Past: Crossing Into Syria - The New York Times
+850,1,How to Have a Relaxing Vacation in a City - The New York Times
+865,1,France’s Obsession With Decline Is a Booming Industry - The New York Times
+891,1,Lifting of Travel Ban Sets Off Rush to Reach U.S. - The New York Times
+963,1,How a Fractious Women’s Movement Came to Lead the Left - The New York Times
+1044,1,State G.O.P. Leaders Move Swiftly as Party Bickers in Congress - The New York Times
+1133,1,Chris Rock Returns With Jokes and Personal Anguish - The New York Times
+1136,1,Israeli Settlement Sees Friendly Faces in Trump Administration - The New York Times
+1203,1,Samsung Heir’s Arrest in South Korea Intensifies Calls for Cleanup - The New York Times
+1214,1,Friends No More? Jorge Pérez and Donald Trump - The New York Times
+1220,2,Is a Teen Depressed, or Just Moody? - The New York Times
+1292,1,Sick of Politics? Try These Great Reads - The New York Times
+1312,3,Jimmy Kimmel on Hosting the Oscars at a Political Moment - The New York Times
+1321,2,Weakened Democrats Bow to Voters, Opting for Total War on Trump - The New York Times
+1370,1,Trump Ruled the Tabloid Media. Washington Is a Different Story. - The New York Times
+1486,1,Egyptian Court Clears Way for Hosni Mubarak’s Release - The New York Times
+1538,1,China to Raise Military Spending, but Less Than in Recent Years - The New York Times
+1544,1,Trump, Offering No Evidence, Says Obama Tapped His Phones - The New York Times
+1545,1,A Conspiracy Theory’s Journey From Talk Radio to Trump’s Twitter - The New York Times
+1562,1,Whom Do You Tell When You’re Sick? Maybe Everyone You Know - The New York Times
+1590,1,Past, Present and Future Collide in Joan Didion’s ‘South and West’ - The New York Times
+1748,3,The New Party of No - The New York Times
+1751,1,For Solace and Solidarity in the Trump Age, Liberals Turn the TV Back On - The New York Times
+1758,2,Snowed In? Here’s What to Cook, Watch, Listen To and More - The New York Times
+1761,1,Parliament Clears Way for ‘Brexit’ Talks as Scottish Vow Independence Vote - The New York Times
+1781,1,China’s Premier, Li Keqiang, Strikes Upbeat Tone Amid U.S. Tensions - The New York Times
+1805,1,Populists Appear to Fall Short in Dutch Election, Amid High Turnout - The New York Times
+1831,1,Trump May Have Pushed Dutch Voters Away From Populism - The New York Times
+1836,1,Why the Whitney’s Humanist, Pro-Diversity Biennial Is a Revelation - The New York Times
+1853,1,What a Sensory Isolation Tank Taught Me About My Brain - The New York Times
+1926,1,5 Stand-Up Specials to Stream This Week - The New York Times
+1955,1,A Father-Son Bonding Mission in the French Alps - The New York Times
+1970,1,What Are the Best Snacks Before Bedtime? - The New York Times
+1991,1,Toll of London Attack Is Global for an Assailant Born in Britain - The New York Times
+2028,1,Buffalo Meat Industry Facing Government Shutdowns in India - The New York Times
+2099,1,‘Buffy the Vampire Slayer,’ Reimagined by Its Fans - The New York Times
+2163,1,Maajid Nawaz’s Radical Ambition - The New York Times
+2227,1,What to Cook, Watch, Listen To and More This Weekend - The New York Times
+2318,1,The Hippies Have Won - The New York Times
+2366,1,Special Ops With a Studious Bent Fight Destruction of Brazil’s Amazon - The New York Times
+2391,1,At Ringling Brothers Circus, Preparing for the Final Bows - The New York Times
+2419,1,17 Great Stories That Have Nothing to Do With Politics - The New York Times
+2421,1,At Cafe Milano, Politicians Are Served Dinner and Peace of Mind - The New York Times
+2427,1,Feist Wants to Ask You Some Questions About Sadness - The New York Times
+2441,1,Sleep Is the New Status Symbol - The New York Times
+2502,1,Suburban G.O.P. Voters Sour on Party, Raising Republican Fears for 2018 - The New York Times
+2525,2,Parts Are Greater Than the Sum of the Chicken at Torishin - The New York Times
+2530,3,Birth Control Causes Depression? Not So Fast - The New York Times
+2543,1,With Gas Station’s Closing, a Fuel Desert Expands in Manhattan - The New York Times
+2546,1,Pope Francis Takes 12 Refugees Back to Vatican After Trip to Greece - The New York Times
+2586,1,You Don’t Like the Girls in ‘Girls’? That’s Its Genius. - The New York Times
+2608,1,Prince Knew What He Wanted: Sex, Soul and You - The New York Times
+2659,1,Wary of Trump Effect, Republicans Hope for Split Tickets - The New York Times
+2669,1,President Obama Weighs His Economic Legacy - The New York Times
+2676,1,What Is Alzheimer’s Disease? - The New York Times
+2728,1,Squatters See a New Frontier in the Empty Homes of Las Vegas - The New York Times
+2731,1,Obama Swipes at Trump, but Doesn’t Name Him, in Speech at Rutgers - The New York Times
+2740,1,The Strange, Unending Limbo of Egypt’s Hosni Mubarak - The New York Times
+2757,1,Mr. Trump’s Wild Ride - The New York Times
+2795,1,The Director of ‘Toni Erdmann’ Savors Her Moment at Cannes - The New York Times
+2805,1,Debate Over Role of ‘People’s Army’ in Israel Reflects Wider Fissures - The New York Times
+2816,1,Middle Eastern Writers Find Refuge in the Dystopian Novel - The New York Times
+2832,1,Militias in Libya Advance on ISIS Stronghold of Surt With Separate Agendas - The New York Times
+2878,1,‘Silicon Valley’ Season 3, Episode 7: Stop, Beta Time - The New York Times
+2903,1,Hillary Clinton on Winning, and Why Her Mother Would Be Nervous - The New York Times
+2930,1,Gawker, Filing for Bankruptcy After Hulk Hogan Suit, Is for Sale - The New York Times
+2946,1,To Understand Clinton’s Moment, Consider That It Came 32 Years After Ferraro’s - The New York Times
+2948,1,Photos: The Arrivals at the 2016 Tony Awards Red Carpet - The New York Times
+3008,1,‘Always Agitated. Always Mad’: Omar Mateen, According to Those Who Knew Him - The New York Times
+3019,1,As Wind Power Lifts Wyoming’s Fortunes, Coal Miners Are Left in the Dust - The New York Times
+3034,1,Hands Off My Smiley Face: Emoji Become Corporate Tools - The New York Times
+3047,1,Diary of a Cruise Season - The New York Times
+3054,1,‘My First Gay Bar’: Rachel Maddow, Andy Cohen and Others Share Their Coming-Out Stories - The New York Times
+3069,1,YouTube Red Buys ‘Step Up,’ Its First Big-Budget TV Drama - The New York Times
+3083,1,‘Brexit’ Revolt Casts a Shadow Over Hillary Clinton’s Cautious Path - The New York Times
+3089,1,The Woman Who ‘Totally Understands’ Donald Trump - The New York Times
+3090,1,Fractures From ‘Brexit’ Vote Spread Into Opposition Labour Party - The New York Times
+3099,1,Two Defending Champions, but Two Outlooks, at Wimbledon - The New York Times
+3115,1,Atop the Gymnastics World, Simone Biles Can’t Suppress Her Grin - The New York Times
+3159,1,No Charisma, No Glamour: Michael Gove Makes His Case to Lead Britain - The New York Times
+3191,1,Welsh Reject E.U., but Its Money Will Be Missed - The New York Times
+3306,1,Mike Pence: A Conservative Proudly Out of Sync With His Times - The New York Times
+3333,2,In Istanbul, Optimism Fades to a Familiar Melancholy - The New York Times
+3387,1,France Identifies 2nd Man Who Attacked Church and Killed Priest - The New York Times
+3473,1,Olympic Spirit in Brazil? They Stoned the Torch Relay - The New York Times
+3476,1,A Coup, Terrorists and Inflation, Yet Investors Rush to Turkey - The New York Times
+3494,1,For the Rio Olympic Games, There’s No Turning Back Now - The New York Times
+3495,2,Even on NBC, Rio’s Colors Can’t Be Airbrushed Out - The New York Times
+3525,1,On the London Stage, Love Doesn’t Just Hurt, It Kills - The New York Times
+3645,1,How Omran Daqneesh, 5, Became a Symbol of Aleppo’s Suffering - The New York Times
+3680,1,English Village Becomes Climate Leader by Quietly Cleaning Up Its Own Patch - The New York Times
+3684,1,Gord Downie, Frontman for the Tragically Hip, in His Final Act - The New York Times
+3691,1,The Best and the Worst From the Rio Games - The New York Times
+3714,1,On Sundays in Senegal, Surf’s Up for the Sheep - The New York Times
+3803,1,Marc Riboud, Photojournalist Who Found Grace in the Turbulent, Dies at 93 - The New York Times
+3839,1,Prince’s Old Band Resurrects Him Through His Songs - The New York Times
+3840,1,The Internet Thinks I’m Still Pregnant - The New York Times
+3871,1,Merkel Vows to Stay on Course Despite Party Setback - The New York Times
+3925,1,Where to Live? Ask an App - The New York Times
+3968,1,Throwing Stones and Slaughtering Sheep at the Hajj - The New York Times
+4008,1,At BlackRock, a Wall Street Rock Star’s $5 Trillion Comeback - The New York Times
+4029,1,Pro-Putin Parties Show Strength in Russian Parliament Elections - The New York Times
+4134,1,Recipes to Debate - The New York Times
+4179,1,Inside Venezuela’s Crumbling Mental Hospitals - The New York Times
+4269,1,Awkward Sex, Onscreen and Off - The New York Times
+4278,2,How U.S. Torture Left a Legacy of Damaged Minds - The New York Times
+4326,1,Lessons in the Delicate Art of Confronting Offensive Speech - The New York Times
+4328,1,Bob Dylan, the Musician: America’s Great One-Man Songbook - The New York Times
+4330,1,‘The Greatest Loss and Despair’: Thais Mourn Their King - The New York Times
+4348,1,Issues in Hillary Clinton’s Past Leave Her Muted in Furor Over Donald Trump - The New York Times
+4399,1,Trump TV Offers (Fledgling) Framework for Potential Media Future - The New York Times
+4430,2,How Music Can Improve Worker Productivity - Workstation - The New York Times
+4444,1,Inside Donald Trump’s Last Stand: An Anxious Nominee Seeks Assurance - The New York Times
+4470,1,Life in the Lights - The New York Times
+4537,1,The Playlist: The xx Return in a Brighter Mood - The New York Times
+4555,1,The Art Market’s Reaction to Trump? Sales This Week Offer First Test - The New York Times
+4559,1,Where Will Trump Stand on Press Freedoms? - The New York Times
+4573,1,Visiting Europe, Obama Warns Against Rise of ‘Crude Sort of Nationalism’ - The New York Times
+4618,1,Review: Miranda Lambert Sings of What Comes After the Heartbreak - The New York Times
+4624,1,Muslim Americans Speak of Escalating Worries - The New York Times
+4663,1,Less Defiant Trump at The Times: ‘I Hope We Can All Get Along’ - The New York Times
+4732,1,From ‘Pitch Perfect’ to Broadway, He’s Vocal About A Cappella - The New York Times
+4737,1,California Today: Fretting Over the ‘Netflix Tax’ - The New York Times
+4889,4,On Campus, Trump Fans Say They Need ‘Safe Spaces’ - The New York Times
+4956,2,Top New York Restaurants of 2016 - The New York Times
+5006,1,The Boy, the Ambassador and the Deadly Encounter on the Road - The New York Times
+5017,2,E.U. Faces Its Next Big Test as France’s Election Looms - The New York Times
+5026,1,Aleppo, Vladimir Putin, Donald Trump: Your Weekend Briefing - The New York Times
+5041,1,Christmas Markets Are Beloved Tradition, but a Challenge to Protect - The New York Times
+5058,2,Berlin Attack Poses Toughest Test in Merkel’s 11 Years in Power - The New York Times
+5063,1,The Long, Lonely Fall of a Heisman Trophy Winner - The New York Times
+5071,1,Fight - The New York Times
+5081,1,Tragedy Made Steve Kerr See the World Beyond the Court - The New York Times
+5108,1,Grappling With My Family’s Identity in a Post-‘Brexit’ Europe - The New York Times
+5162,1,85-Year-Old Marathoner Is So Fast That Even Scientists Marvel - The New York Times
+5163,1,The Memorable TV Episodes of 2016 - The New York Times
+5166,1,Bypassing Stigma to Take Care of Herself and Her Daughter - The New York Times
+5228,1,Hints of Prince’s Failing Health Preceded a Sudden Death - The New York Times
+5234,1,How Hillary Clinton Became a Hawk - The New York Times
+5259,1,Thai Officials Battle Buddhist Monks Over Tigers’ Fate - The New York Times
+5339,1,Reviled by Many Russians, Mikhail Gorbachev Still Has Lots to Say - The New York Times
+5394,1,Last Call at Pulse Nightclub, and Then Shots Rang Out - The New York Times
+5414,1,France Eases Rules for Police to Carry Guns While Off Duty - The New York Times
+5425,1,Marco Rubio, Reversing Plans, Is Leaning Toward Running for Senate Again - The New York Times
+5444,1,I Was on That Fateful Flight With Prince: A Protégée Tells Her Story - The New York Times
+5453,1,‘Leave’ Takes the Lead as Britain Awaits Outcome of E.U. Referendum - The New York Times
+5506,1,‘President Hillary Clinton?’ She Wants Progress on Immigration and to Drink With G.O.P. - The New York Times
+5511,1,How to Nap - The New York Times
+5532,1,Shootings Further Divide a Nation Torn Over Race - The New York Times
+5573,1,A Surly Misfit With No Terror Links Turned a Truck Into a Tank - The New York Times
+5594,2,Donald Trump’s Convention Is a Low-Energy Show So Far - The New York Times
+5601,1,Roger Ailes Fused TV With Politics, Changing Both - The New York Times
+5623,1,With the Conventions Behind Us, Our Takeaways From Both - The New York Times
+5650,1,All Aboard the Nordic Express, at Agern - The New York Times
+5659,1,Social Circles Collide on a Dance Floor. Then a Brawl Ends in Death. - The New York Times
+5665,1,Donald Trump Endorses Paul Ryan and John McCain in Bid for G.O.P. Unity - The New York Times
+5669,1,Chicago Releases Videos From Police Officers’ Killing of 18-Year-Old - The New York Times
+5678,1,Expulsions of Protesters at Rio Olympics Draw Rebukes - The New York Times
+5679,1,How to Give a Better Speech: Talk to a Dog - The New York Times
+5686,1,Sorry, Ms. Jackson: You’re Underrated. ‘Control’ at 30 - The New York Times
+5709,1,Germany Proposes Tougher Measures to Combat Terrorism - The New York Times
+5728,1,It’s a Bird! No, It’s a Crocodile! Synchronized Swimming Themes Can Be Mystifying - The New York Times
+5729,1,Gawker Is Said to Be Sold to Univision in a $135 Million Bid - The New York Times
+5756,1,Frank Ocean Ends His Long Silence With a Variety of Works - The New York Times
+5849,1,The Same, Only Different: Designing a New Union Square Cafe - The New York Times
+5879,1,Few Expect China to Punish North Korea for Latest Nuclear Test - The New York Times
+5967,1,Yielding to Pressure, Charlotte Releases Videos of Keith Scott Shooting - The New York Times
+5988,1,Ohio, Long a Bellwether, Is Fading on the Electoral Map - The New York Times
+6001,1,At a Loss for Meds, Venezuela’s Mentally Ill Spiral Downward - The New York Times
+6005,1,Spaniards, Exhausted by Politics, Warm to Life Without a Government - The New York Times
+6024,1,Hate Your Job? Try These Survival Skills - The New York Times
+6028,1,Review: In ‘The Girl on the Train,’ a Boozy Emily Blunt Never Winks - The New York Times
+6063,1,Donald Trump Berates Paul Ryan and ‘Disloyal’ Republicans - The New York Times
+6064,1,‘I’m the Last Thing Standing Between You and the Apocalypse’ - The New York Times
+6071,1,The Savvy Person’s Guide to Reading the Latest Polls - The New York Times
+6072,1,Generation Adderall - The New York Times
+6103,1,Firebombing of G.O.P. Office Jolts Fragile Balance of a North Carolina Town - The New York Times
+6127,1,No Kegs, No Liquor: College Crackdown Targets Drinking and Sexual Assault - The New York Times
+6141,1,Mary Keitany of Kenya Wins 3rd Straight New York City Marathon - The New York Times
+6177,1,Crowds Line Up at India’s Banks to Exchange Banned Rupee Notes - The New York Times
+6186,1,Trying Out a Forgotten (and Free) Service: Personal Shoppers - The New York Times
+6188,1,Historians Assess Obama’s Legacy Under Trump’s Shadow - The New York Times
+6217,1,California Today: Meet the New Mayor, Age 26 - The New York Times
+6231,1,Obama May Jump Into Fray as Democrats Counter Trump - The New York Times
+6278,1,Subdued Cuba Prepares Memorial for Castro - The New York Times
+6294,1,Chapecoense Soccer Team’s Plane Crashes, Leaving Brazil Devastated - The New York Times
+6322,1,After a Breakup, an App to Help Breathe, Then Run - The New York Times
+6365,1,South Korea’s President Park Awaits Her Fate, Dejected, Sleepless and Alone - The New York Times
+6369,1,The Tao of Matthew McConaughey - The New York Times
+6381,1,Penn Station Inhabitant Finally Has a Home of Her Own - The New York Times
+6392,1,Interpreting Kanye West’s Blond ’Do - The New York Times
+6463,1,How Social Isolation Is Killing Us - The New York Times
+6466,1,Petra Kvitova Leaves Hospital Vowing to Play Tennis Again - The New York Times
+6491,1,Death of a Red Carpet Reporter - The New York Times
+6494,1,Carrie Fisher Put Pen and Voice in Service of ‘Bipolar Pride’ - The New York Times
+6510,1,Pan Pan, Father to a Generation of Pandas, Dies in China - The New York Times
+6539,1,With Brazil in Turmoil, Rio Counts Down to Olympics - The New York Times
+6543,1,Your Weekend Briefing: Ted Cruz, Donald Trump, N.F.L. - The New York Times
+6560,1,In a Brooklyn Basement, Jazz With a Russian Accent - The New York Times
+6578,1,Jane Fawcett, British Decoder Who Helped Doom the Bismarck, Dies at 95 - The New York Times
+6580,1,Tested by Russia, NATO Struggles to Stay Credible - The New York Times
+6594,1,Hillary Clinton Has Clinched Democratic Nomination, Survey Reports - The New York Times
+6641,1,Donald Trump, in Scotland, Calls ‘Brexit’ Result ‘a Great Thing’ - The New York Times
+6664,1,Review: A ‘Tarzan’ With a Few Twists in the Hollywood Vine - The New York Times
+6689,1,Dallas Gunman Had Plans for Wider Attack, Police Say - The New York Times
+6696,1,Bernie Sanders Endorses Hillary Clinton, Hoping to Unify Democrats - The New York Times
+6753,1,From Syrian Rubble to German Concert Halls With a Piano, a Mission and Survivor’s Guilt - The New York Times
+6822,1,Good News for MTV’s V.M.A.s: Music Videos Matter Again - The New York Times
+6830,1,Dilma Rousseff Is Ousted as Brazil’s President in Impeachment Vote - The New York Times
+6832,1,How to Win Friends and Influence People (on Fake Mars) - The New York Times
+6885,1,Black Female Playwrights Want You to Face Facts. The Harsh Ones. - The New York Times
+6912,1,Young Rural Women in India Chase Big-City Dreams - The New York Times
+6966,1,Trepidation at City College in Wake of President’s Abrupt Exit - The New York Times
+6997,1,Grandmother’s Killing Lays Bare a Dilemma in Child Welfare Work - The New York Times
+7004,3,The Rolling Stones Paint It Blue on Their New Album - The New York Times
+7007,1,Parents Navigate Tears and Cheers as Kids React to Election - The New York Times
+7015,1,A Guide to Exploring Four Dynamic New York Neighborhoods - The New York Times
+7035,1,A New Reason to Party: Custom Suiting for the Suitor and His Pals - The New York Times
+7072,2,Is ‘Empathy’ Really What the Nation Needs? - The New York Times
+7100,1,The Best Movies of 2016 - The New York Times
+7169,1,Carrie Fisher, Child of Hollywood and ‘Star Wars’ Royalty, Dies at 60 - The New York Times
+7174,1,The Fighter - The New York Times
+7243,2,Britain Asks if Tone of ‘Brexit’ Campaign Made Violence Inevitable - The New York Times
+7254,1,Populist Anger Upends Politics on Both Sides of the Atlantic - The New York Times
+7260,1,Victims in Istanbul Airport Attack Reflect City’s International Character - The New York Times
+7274,1,How to Plan Your Family’s Vacation - The New York Times
+7341,1,Edward Snowden’s Long, Strange Journey to Hollywood - The New York Times
+7344,1,The Lonely Toil of Frank Ocean: Is It Art, or Denial? - The New York Times
+7349,1,Rare Harmony as China and U.S. Commit to Climate Deal - The New York Times
+7409,1,A Grand Tour of Switzerland, Reluctant Son in Tow - The New York Times
+7426,1,Life Beyond Bars: One Man’s Journey From Prison to College - The New York Times
+7439,1,Leonard Cohen, Epic and Enigmatic Songwriter, Is Dead at 82 - The New York Times
+7475,1,A Nation in Mourning: Images of Cuba After Fidel Castro - The New York Times
+7490,1,Grasping for Sanity in the Season of Fiscal Impairment - The New York Times
+7556,1,Orlando Shooting Survivors Cope With the Trauma of Good Fortune - The New York Times
+7569,1,Bombing Kills More Than 140 in Baghdad - The New York Times
+7600,1,Gawker.com to Shut Down Next Week - The New York Times
+7727,1,Inside the Failing Mission to Tame Donald Trump’s Tongue - The New York Times
+7737,2,A Boogie Wit Da Hoodie Modernizes New York Hip-Hop - The New York Times
+7790,1,Elie Wiesel, Auschwitz Survivor and Nobel Peace Prize Winner, Dies at 87 - The New York Times
+8551,2,MILO: Women Who Have Abortions Become Suicidal And Crazy - Breitbart
+8581,1,Exclusive: Pat Buchanan Calls Watergate Comparisons ’Grossly Invalid’ - Breitbart
+8603,1,Katy Perry Sparks Outrage with Joke Comparing ‘Old Black Hair’ to Obama
+8799,1,Globalists In Exile: ‘Party of Davos’ a Gloomy Event This Year After Brexit, Donald Trump’s Win - Breitbart
+9344,1,Michael Phelps Makes Political Super Bowl Pick - Breitbart
+9435,1,Palestinian Authority Media Likens Trump to Hamas
+9448,1,Rasmussen: 57 Percent Support a Temporary Ban on Refugees From Terror-Exporting Countries - Breitbart
+9529,1,Exclusive: ’How Trump Won’ Cover Art Released - Breitbart
+9589,1,COVFEFE LIVEWIRE: Comey Crazy Sweeps Washington... Breitbart Live From Union Pub - Breitbart
+9650,1,U.N. Attacks Poland For Anti-Abortion Laws
+9752,1,Iran Retaliates, Plans to Block Americans from Iran in Response to Trump’s Visa Ban
+9826,1,NYE in Dortmund: 1000-Man Mob Attack Police, Set Church Alight
+10244,1,FULL TEXT – MILO at Cal Poly State University: ’No More Dead Babies’ - Breitbart
+10450,1,Sky Poll Alleging Britain Is ’More Racist, Less Happy’ Is Flawed
+10660,1,EU Officials Increasingly Fear a Marine Le Pen Upset in France
+11052,1,NFL Rookie RB Leonard Fournette Buys Mom $110,000 Mercedes - Breitbart
+11097,1,VIDEO: Locals Express Outrage During Pledge of Allegiance and Opening Prayer at Sen. Bill Cassidy’s Town Hall
+11185,2,NYT Mag: Silicon Valley Has Been ‘Transformed’ into ‘Center of Anti-Trump Resistance’ - Breitbart
+11212,1,Limbaugh: Democratic Party ’Has Become the Largest Hate Group in This Country’ - Breitbart
+11545,1,Top 10 Holdover Obama Bureaucrats President Trump Can Fire or Remove Today - Breitbart
+11793,1,Victims of New Year’s Eve Migrant Attacks Come Forward
+12076,1,Populist Outsider Geert Wilders in Combative Mood as the Netherlands Prepares to Go to the Polls
+12564,1,Norway Moves Towards ’Third Gender’ Option for Passports - Breitbart
+12745,1,FBI: 27.5 Million Gun Background Checks in 2016 New Record
+12867,1,Susie Breitbart Gives Rare Interview: Andrew Was ’Good Friend to So Many People Who Disagreed with Him’ - Breitbart
+12984,1,COULTER: The ‘Resistance’ Goes Live-Fire - Breitbart
+13235,1,Kellogg’s ‘Values’? Corn Flakes Invented to Curb Masturbation
+13282,1,Inauguration 2017: The Swearing In of President Donald Trump - Breitbart
+13303,1,Matt Schlapp: Kansas Special Election ‘a Warning Shot to All Members of Congress’ Used to Winning Easily - Breitbart
+13852,1,Pope’s Timely Egypt Visit Comforts Grief-Stricken Middle East Christians
+14030,1,Memorial Day: Donald Trump Honors Fallen Soldiers at Arlington National Cemetery - Breitbart
+14466,2,Trump’s First Inaugural Address: Populism, Nationalism, Unity
+14691,1,Author: Left ’Absurdly Apocalyptic’ About Book That Inspired Steve Bannon
+14946,1,Aaron Sorkin Goes Off on Trump in WGA Awards Acceptance Speech
+15169,1,Streep’s Shoutout Shows Media’s Desperate Anti-Trump Disconnect
+15185,1,DELINGPOLE: Why Trump Should Quit the Dangerous and Immoral UNFCCC
+15194,1,Hillary Clinton Lashes Out at Press in Angry Interview, Claims She Beat Trump (She Didn’t)
+15357,1,Left Bashes Lady Gaga for Not Attacking Trump During Super Bowl
+15614,1,Report: Glenn Beck’s The Blaze ’Falling Apart’
+15757,1,Hillary Clinton Has Another Coughing Fit in Radio Interview Blames ’Allergy Season’ - Breitbart
+15848,1,The Soviet Union 25 Years On: ’Oceans of Blood, Crushing Tyranny’
+15853,1,Richard Berman: China Is Taking Over America’s Film Industry - Breitbart
+15899,1,Cologne Cathedral Square Turned Into "Security Zone" for Christmas
+16008,2,Study Shows Teen Girls On The Pill At Least 80 Percent More Likely To Be Prescribed Antidepressants - Breitbart
+16276,1,Merkel Says Germany Must Have Frank Talk About Integration
+16310,1,Rio’s ’Sustainable’ Olympics Are Just Lipstick On A Pig
+16735,1,***2016 LiveWire*** Trump Lays Out Economic Plan Hillary Returns to Campaign Trail - Breitbart
+17050,1,***Horse Race LiveWire*** One Day to Super Saturday - Breitbart
+17329,1,Exclusive-Breitbart/Gravis Colorado Poll: Clinton, Trump in 40-40 Dead Heat - Breitbart
+17518,1,Depp Friend Doug Stanhope: Johnny ’Is Being Blackmailed’ by Amber Heard - Breitbart
+17591,1,Obama’s Hiroshima Visit: Fishing for a Legacy - Breitbart
+17683,1,Phyllis Schlafly: National Review Is Not the Authority on Conservatism - Breitbart
+17863,1,Pat Caddell: 2016 Election About Insurgency, Not Ideology - Breitbart
+18159,3,2016 Election Day: Live Updates - Breitbart
+18291,1,ROVE-STUPID: Only the Establishment Ever Thought Jeb 2016 Was a Good Idea - Breitbart
+18894,1,Three Suicide Bombers Strike Saudi Arabia, One Near Muslim Pilgrimage Site in Medina - Breitbart
+19457,1,Movie Review: ’How to Let Go of the World and Love All the Things Climate Can’t Change’ - Breitbart
+19799,1,Libertarian Author Charles Murray Calls for Pause in Low-Skill Immigration - Breitbart
+19992,1,Rep. Paul Gosar: The Government Wants to Join You in Bed -- the Tanning Bed
+20057,1,CLAIM: Swedish Police Covered Up Migrant Sex Assaults Of Teenage Girls For YEARS - Breitbart
+20142,1,LAPD Officers Attend Graduation of Fallen Colleague’s Daughter
+20319,1,Hillary Clinton’s Holiday Party ’like a Wake with a Band’
+20335,1,Ann Coulter: A Night to Remember
+20422,1,Marco Rubio On Fox News: Let’s Make America Great Again! - Breitbart
+20624,2,Project Grief Continues: Remain Campaigners Still Blame ’Tone’, Try To Shut Down Debate On Immigration
+20651,1,Michelle Fields: In Her Own Words - Breitbart
+20895,1,WATCH: Rapper YG And 20,000 Fans Scream ’F**k Donald Trump’ During Coachella Music Festival - Breitbart
+21111,1,Donald Trump Gambles Big, Skipping CPAC To Campaign In Kansas - Breitbart
+21182,1,Brooks: ’It Doesn’t Help’ That There’s ’Basically One All-White Party’ - Breitbart
+21191,1,Obama Warns: Terrorists Would Win If Donald Trump Became President - Breitbart
+21289,1,WATCH: Trump Tells NH Rally FBI Re-opening Hillary Clinton Case
+21536,1,James Pinkerton: Franklin D. Roosevelt’s Four Freedoms Are from 1941: We Need New Freedoms in the 21st Century  - Breitbart
+21564,1,University of Utah and Planned Parenthood Fund ‘Sex Week’ to ‘Deconstruct Reproductive Oppression’ - Breitbart
+21632,1,Virgil: The Battle for Blue Collar America: Remembering the Forgotten Man
+21708,1,LIVE WIRE — Sadiq Khan Elected London’s First Muslim Mayor
+21852,1,Triggered Students ’Fear for Their Safety’ Following MILO Talk - Breitbart
+22096,2,Bitter Liberals Post Selfies of Themselves Flipping Off Trump Tower - Breitbart
+22162,1,Merkel: Islam Belongs In Germany
+22363,1,Hillary Clinton: I Debated Donald Trump, Proving I Have the Stamina to Be President - Breitbart
+22403,1,CafePress: Anti-Hillary Merchandise Outselling Anti-Trump Gear by over 814 Percent - Breitbart
+22565,1,Rep. Kevin Cramer Blasts GOP Field for Blaming Violent Protests on Donald Trump - Breitbart
+22642,1,The London We’ve Lost - Breitbart
+22856,1,Exclusive-Giuliani Campaigning in Iowa: Enthusiasm for Trump Greater than Any GOP Campaign in 20 Years - Breitbart
+23180,1,Republican Establishment’s Open Borders Lifeboat Sinking with Rubio - Breitbart
+23278,1,Exclusive — Kimberly Guilfoyle Blows Up Gretchen Carlson’s Allegations Against Roger Ailes: ‘The Truth Should Matter’ - Breitbart
+23280,1,Pat Caddell: ’Desperate’ Media Now Claiming Ohio Isn’t a ‘Bellwether’ Because ’Trump’s Ahead’
+23284,1,Brexit: Britain Votes To Leave EU, PM Cameron Resigns - Breitbart
+23344,1,Former Obama Speechwriter: This Is Obama’s ’Morning In America’ Speech - Breitbart
+24150,1,EXCLUSIVE: Breitbart/Gravis Poll: Clinton and Trump Tied in Florida Rubio Leads Murphy in Senate Contest - Breitbart
+24315,1,REVEALED: MP Killer Had ‘Psychotherapy and Medication’ Never Spoke About Europe Or Politics - Breitbart
+24350,1,The Conservative Case for Paul Ryan - Breitbart
+24560,1,Buchanan: SOTU Was More ’The State of Barack Obama’s Mind,’ Sanders Doesn’t Believe Obama on Economy - Breitbart
+24612,1,Health Care Displaces Manufacturing as Tops in Jobs Under Obama
+25315,1,Exclusive-Breitbart/Gravis New Hampshire Poll: Trump Takes Lead In Granite State - Breitbart
+25554,2,Jesse Jackson: Trump’s ’Dog Whistle’ Rhetoric ’Has Helped To Seed These Clouds’ - Breitbart
+25564,2,Study: Facebook Brings as Much Happiness as Marriage - Breitbart
+25594,1,WATCH: Hillary Clinton Fans Can’t Explain What ’Alt-Right’ Is
+25602,1,Poll: Donald Trump Runs Even with Hillary Clinton, Trails Bernie Sanders by 11 - Breitbart
+25630,2,Merkel Faces Voter Backlash After Open-Door Migrant Policy - Breitbart
+26253,1,N.C. GOP Governor Closes Polling Gap as Transgender Demand Mobilizes Conservative Voters - Breitbart
+26519,1,Egypt Orders ‘Urgent Investigation’ into EgyptAir Crash as Possible Terrorist Attack - Breitbart
+26592,1,*** Trump v. Clinton: Live Election Results &amp Analysis *** - Breitbart
+26966,1,Physician: Mainstream Media ‘Strangely Silent’ About Hillary Clinton’s Health - Breitbart
+27019,1,Sarah Palin: Obama’s Right ‘the Trump Movement Began in 2008’ When ‘the Silenced Majority’ ‘Found Their Voice’ - Breitbart
+27416,1,Michael Moore: People Don’t Trust Democrats Anymore - Breitbart
+27765,1,Bewildered Hillary: Why Don’t People Like Bill Clinton?
+27828,1,Obama: ‘I See a Straight Line’ from Sarah Palin to Donald Trump - Breitbart
+27880,1,Colbert: Trump Will ’Wipe His Fat Ass With the Constitution’
+28138,1,***2016 LiveWire*** Trump, Clinton Gear Up for General Election Battle - Breitbart
+28493,2,Priebus: Everyone ’A Little Caught Off Guard’ How Quick Trump Secured GOP Nomination - Breitbart
+28764,1,EXCLUSIVE-Breitbart/Gravis Wisconsin Poll: Race Between Donald Trump, Hillary Clinton Tightens as Speaker Paul Ryan Hits Campaign Trail with GOP Nominee for First Time - Breitbart
+29092,2,SJWs Clash Over ’Transphobic’ #IfMenHadPeriods Hashtag - Breitbart
+29273,1,Palin To #NeverTrump: ‘You’re Either With Us Or You’re Against Us’ - Breitbart
+29282,1,Donald Trump in Oregon: Nobody ’Worse than Bill Clinton with Women’ - Breitbart
+29354,1,Exclusive-Breitbart/Gravis Pennsylvania Poll: Trump, Clinton in Statistical Tie - Breitbart
+29398,1,Rapper Azealia Banks Suspended from Twitter After Insulting Former One Direction Member - Breitbart
+29704,1,Exclusive-Breitbart/Gravis Poll: Russ Feingold Builds Large Lead over Sen. Johnson in Bid to Retake Wisconsin Senate Seat - Breitbart
+29860,1,Larry Kudlow: ’JFK Would Be a Republican Today’
+30351,1,Head Of Tory Voluntary Party ’Expects’ Andrea Leadsom To Win - Breitbart
+30379,1,Open Borders Activists Again Whip Migrants Up Into Protests
+30654,1,Tinfoil Hillary: ’Alt-Right,’ Alex Jones, Brexit, Putin All Part of Global Conspiracy Against Her - Breitbart
+30716,1,The Pendulum Swings Leftward for the Democrats – And That’s Good News for Donald Trump  - Breitbart
+31013,1,Politico: GOP Establishment Rallies Behind Rubio
+31164,1,NYTimes Declares Ohio No Longer ’Bellwether’ as Trump Pulls Ahead
+31405,1,WikiLeaks — Team Hillary Celebrates: ‘She Didn’t Seem Like a Bitch in the Interview’ - Breitbart
+31535,1,Lee Stranahan: My Weekend Incarceration in a Baton Rouge Prison
+31618,1,How your gut’s circadian rhythm affects your whole body
+31669,1,Obama tells Democrats: ’Don’t rescue’ Republicans on ’Trumpcare’
+31721,1,Why protests are erupting in Mexico
+31746,1,The challenge of covering Trump
+31813,1,Obama’s final report card: Did he live up to his promise?
+31824,1,Obama offers optimism -- and warnings -- in farewell address
+31837,1,Where Dylann Roof killed, a search for answers
+31841,1,What the last 48 hours told us about Trump’s next 4 years
+31858,1,Iraq’s unnamed victims of terror
+31905,1,FBI Director Comey’s political firestorm, explained
+31922,1,These Democrats aren’t attending Trump’s inauguration
+32013,1,Trump as job creator -- hope or hoax?
+32059,1,The world reacts as Donald Trump takes power
+32062,1,All those headed to the Women’s March, raise your hand
+32083,1,Women’s march: Cathartic moment or enduring movement?
+32388,1,Trump continues to question refugee deal after heated call with Australian PM
+32469,1,Fragile souls at the center of Trump’s spat with Australia
+32610,1,Trump discovers the limits of his power
+32736,1,Russian provocation: Bluster or genuine peril
+32909,1,CPAC sells young conservatives with ’hip and cool’ swag
+33102,1,Trump angry and frustrated at staff over Sessions fallout
+33270,2,South Korea: Cheers, tears as Seoul wakes up to life without Park
+33418,2,Why this Persian New Year is different
+33557,1,Marathons linked to temporary kidney injury, study says
+33563,1,Republicans not yet ready to abandon health care
+33677,1,Vortex of questions, tension at the White House
+33909,1,Player injured in bus blasts before Dortmund-Monaco match
+33935,1,Kansas gives GOP ’warning sign’ over Georgia
+34017,1,Federer not certain of competing at French Open
+34099,1,Prince mourned one year after his death
+34115,1,’I’m glad this is over’: Tenn. teacher accused of kidnapping girl arrested in Calif.
+34120,1,Tad Cummins arrest: Tip leads to isolated cabin
+34162,1,End of the road: 39 days on the run for missing teacher and student
+34247,1,Berkeley protests: No Ann Coulter, but demonstrators gather
+34267,1,Melania Trump finds her way in her first 100 days
+34325,1,Hugh Hefner Fast Facts
+34384,1,First on CNN: Has the US government seen the last of John Kerry?
+34389,1,House to vote Thursday on Obamacare repeal bill
+34541,1,Trump fires FBI director James Comey
+34562,1,A ’white hot’ Trump stewed over Comey’s fate
+34598,1,The little boy president
+34623,3,Isolated and agitated, Trump rattles White House from within
+34686,1,Teen dies from too much caffeine, coroner says
+34692,1,Scott: If tapes exist ’we should have that’
+34698,1,White House struggles to answer GOP questions on Capitol Hill
+34704,1,Dallas school police use handcuffs to restrain 7-year-old boy
+34718,2,Memo: Trump asked Comey to end Flynn investigation
+34739,1,New potential for marijuana: Treating drug addiction
+34970,1,Are you having enough sex? Wrong question
+34984,3,Trump, feted and chided abroad, returns to uncertainty
+34990,1,Manchester bee tattoos honor bombing victims
+34994,1,UK reduces terror threat level to ’severe’
+35012,2,The healthiest way to improve your sleep: exercise
+35093,1,How the ’Sgt. Pepper’ cover might have looked today
+35148,1,Putin: ’Patriotic’ Russian hackers may have targeted US election
+35162,1,Ronaldo scores twice as Real Madrid make history
+35166,1,’March for Truth’ calls for independent probe of Trump’s alleged Russia ties
+35199,1,London attack: Fear, love, and defiance after night of terror
+35228,1,Welcome to Lebanon ... in the United States
+35297,1,Digging in for long haul, Trump hits mute
+35437,1,Trump makes hospital visit after congressional baseball shooting
+35438,1,Scalise remains in critical condition after shooting
+35455,1,After the game, can the good feelings last?
+35519,3,London fire: May meets Grenfell residents
+35538,1,Trump defiant as pressure grows
+35556,1,UK Chancellor: Cladding on Grenfell Tower ’banned on high-rises’
+35586,1,In Georgia, close isn’t nearly good enough for Democrats
+35646,1,Alabama county refuses to lower flag to honor Orlando victims
+35704,1,Brexit: Europe hopes UK stays, but won’t beg
+35848,1,Britain’s Labour Party in turmoil over Brexit vote results
+35888,1,Wimbledon: Djokovic, Federer win openers
+35905,1,Mallows Bay: The ’ghost fleet’ graveyard where nature has risen from the dead
+36084,3,Alton Sterling vigils: Calls for justice, peace
+36179,2,Photographer: ’Window’ into Dallas attack
+36228,1,Rebuilding Australia’s ’cultural cathedrals’
+36269,1,Theresa May becomes new British PM
+36287,1,S.E. Cupp: Why, Mike Pence? Why?
+36321,1,Turkey coup attempt: Hope and sadness in Istanbul
+36363,1,Turkey coup attempt: Reaction on the streets of Istanbul
+36376,1,Melania Trump’s unexpected moment
+36382,1,Trump’s convention choice: Bring the party together or blow it apart
+36398,1,Imitating Nixon: Trump’s big mistake?
+36412,1,Cruz stands by refusal to endorse Trump
+36440,1,Trump super PACs battle in Cleveland
+36452,1,What’s fueling the Republican fury
+36465,1,Labor, abortion rights groups praise Kaine pick
+36493,1,Car chases and secret getaways: Tim Kaine’s wild 78 hours
+36605,2,How Hillary Clinton defined her moment
+36701,1,It’s 2016. What’s with all the sexism?
+36709,1,The Philippines’ war on drugs: Outrage over extrajudicial killings
+36819,1,Dutch cyclist Anna van der Breggen takes gold
+36960,1,What Kenny Baker (and R2-D2) meant to us
+37141,1,Donald Trump: America’s one-night stand
+37394,1,Chris Brown arrest adds to troubled history
+37416,2,The search for a Speedo-wearing guru
+37483,1,F1: Hamilton’s bad start hands race to Rosberg
+37804,1,Mayer heroics earn Argentina final place
+37812,1,’Dumbo’ breaks majors scoring record
+37819,1,Stabbing suspect went to mall to buy an iPhone, source says
+37933,1,What is a traumatic brain injury?
+38346,1,Nick Kyrgios: Tennis bad boy fined by ATP
+38368,1,Thai King Bhumibol Adulyadej dies at 88
+38633,1,Sanders on if he would have won: ’What good does it do now?’
+38705,1,Paris attacks: A year of grief, anger, change
+38791,1,Obama leaves Europe with little certitude
+38832,1,ATP Finals: Murray, Djokovic set for epic year-end clash
+38904,1,Majority of voters say Trump should stop tweeting
+38986,1,Crowds cheer Castro’s death in Little Havana
+39021,2,Cubans, world commemorate Fidel Castro’s life and death
+39057,1,Dictionary.com word of year ’not to be celebrated’
+39096,2,Can Europe survive the Trump effect?
+39264,1,Trump describes Election Night jitters to donors offers olive branch to critics
+39310,1,’La La Land’ strikes just the right notes
+39329,1,Hong Kong protesters pop champagne after leader says he’ll step down
+39373,2,One in six Americans takes psychiatric drugs, study says
+39652,1,Magnitude 7.7 earthquake hits off Chilean coast
+39669,1,Meet Wong Kar Wai’s rebel set photographer
+39782,1,What (not) to look forward to in 2015
+39787,1,Camera selfies: Turning the lens on themselves
+39830,1,Attack will empower Europe’s far right (Opinion)
+39936,1,Paul says ’over half’ on disability are gaming the system
+40063,1,Ukraine’s divide: Two sides of a river
+40255,1,What’s streaming on Netflix, Amazon, iTunes in February
+40375,5,Snowed in? Here’s how to beat the winter blues
+40449,1,9 things no one tells you about losing weight
+40521,1,Boris Nemtsov, critic of Putin, mourned after shooting
+40551,1,Obama: Selma marchers gave courage to millions
+40604,1,’Bloody Sunday’ commemoration march in Selma
+40721,1,Brazil protests call for Dilma Rousseff’s impeachment
+40747,1,United flight 1074 turns back after passenger subdued
+40975,1,Talks intensify on Iran’s nuclear future
+41035,1,Memories Pizza part of ’religious freedom’ debate
+41140,1,On TV, a new Jesus comes into view
+41142,2,Could veterans have concussion-related CTE?
+41168,1,Why your commute is bad for you
+41441,1,Look at trees in a different way
+41523,1,In Nepal, lift spirits through music (Opinion)
+41560,1,American to launch Dreamliner 787 service
+41620,1,Talking to kids about marijuana post-legalization
+41652,2,Seeing humanity in farm animals
+41662,1,40 years ago: Vietnam War ends with massive airlift
+41765,1,Rand Paul seizes political moment with NSA protest
+41788,1,Texas mom, kids among those missing after floods
+41789,1,Over 25 killed in storms in Texas, Oklahoma, Mexico
+41806,1,A secret Navy flight over China’s military buildup
+41943,1,The bacteria battle waged in your gut
+41996,4,Dehydration is a real health threat
+42089,1,Is a new crime wave on the horizon?
+42139,1,French Open 2015: Serena Williams wins 20th major
+42209,1,Kuwait’s ghost stadium prepares to breathe new life
+42598,1,Wal-Mart shuns Confederate flag, why not guns?  (Opinion)
+42602,1,Springsteen to the Monkees: Unexpected Vietnam anthems
+42686,1,Here’s your first look at the ’Steve Jobs’ movie
+42710,3,Barack Obama gets his groove back
+42872,2,Can your smartphone tell you if you have depression?
+42873,1,Changing how police respond to mental illness
+42921,1,Turkey attack: Funerals held for victims of Suruc blast
+43071,2,Teen depression and how social media can help or hurt
+43100,1,Obama’s hesitant approach to foreign policy resulted in the biggest stain on his legacy
+43305,3,Why psychedelics like magic mushrooms kill the ego and fundamentally transform the brain
+43308,1,’This was a moment of great failure’: Top journalists ruminate on Trump’s upset victory and the threat he poses to the media
+43346,1,Women band together for what could be the largest political demonstration the US capital has ever seen
+43363,1,Our exclusive with Colorado’s colorful, rising-star governor, the man some Davos elites say could lead Democrats in 2020
+43748,1,INSIDE THE ROADSHOW: Snapchat just met with prospective investors in NYC and faced tough questions
+43798,1,DNC narrowly elects Tom Perez as new chair
+43867,1,Trump reportedly went ’ballistic’ over Sessions recusal amid Russia firestorm
+44340,1,The US strike on Syria carries convenient victories for both Putin and Trump
+44353,1,UNDERCOVER IN AN IPHONE FACTORY: What it’s really like to work in a Chinese mega-factory, according to a student who spent 6 weeks there
+44777,1,A 24-year old got a mysterious disease where her body attacked her brain — and everyone thought it was in her mind
+44949,1,Inside the stunning rise of the liberal conspiracy theorist
+45105,2,IT’S LOOKING LIKE A HUNG PARLIAMENT WITH THE TORIES HANGING ON BY THEIR FINGERNAILS
+45381,1,Putin defends Russia’s recent aggression, blames US and Europe for rising tensions
+45942,1,The Chinese are worried about their economy
+46332,1,’At some point the lie stops being news’: What it’s like for the ’disgusting reporters’ covering Donald Trump
+46653,1,The most terrifying part about getting struck by lightning is what happens to you afterwards
+46690,1,How to be assertive rather than aggressive
+46873,1,Here’s why some people can’t dance
+46930,1,The Olympics are having an unprecedented meltdown
+47240,1,American oil’s ’sleeping giant’ is about to spring to life
+47388,1,Another study is poking holes into the classic conception of introverts and extroverts
+47419,1,EU REFERENDUM LIVE: MASSIVE FLOODS DISRUPT VOTING AND CAUSE TRAVEL CHAOS
+47433,2,The most dangerous place in the world is about to get a whole lot scarier
+47575,1,Researchers created a scale for happiness in more than 230 US counties — and a revealing trend emerged
+47660,1,A week of bloodshed has further divided a nation already fractured over race
+47911,2,Democrats are now the party of optimism
+48193,1,I’ve used a meditation app loved by Wall Streeters and Olympic athletes daily for the past 8 months, and now I can’t imagine my life without it
+48454,1,40 years ago, Led Zeppelin released its most difficult album — and it’s still hard to listen to
+48588,1,One person shot in 2nd night of unrest, protests in Charlotte after fatal police shooting
+48629,1,With Spectacles, Snap is doing something I haven’t seen since the 1970s
+48663,3,7 ways you’re sabotaging your morning routine without realizing it
+48679,2,Trump lashes out at ’fabricated’ report on campaign turmoil: ’Your sources’ were probably ’fired long ago’
+48708,1,Hillary Clinton ran a perfect psyop to derange Donald Trump
+48861,6,How your gut bacteria affect your sleep, stress levels, and mood
+48900,1,5 tips for people stressed about this miserable presidential election
+48906,1,Hillary Clinton should accept Donald Trump’s drug-test challenge
+48943,1,Facebook’s project to take on Cisco inspires such ’cultlike’ devotion, it once caused a whole team to quit Apple
+48969,1,Things got uncomfortably awkward after Trump jabbed Clinton at a swanky New York charity dinner
+48997,1,Investment banks to mattresses: Here are 13 companies complaining that the US presidential election is impacting business
+49057,1,What psychology actually says about the tragically social-media obsessed society in ’Black Mirror’
+49279,1,Donald Trump’s election has the Philippine president singing a different tune
+49282,1,I learned the meditation technique taking over Wall Street and now I get why traders are willing to set aside 40 minutes a day
+49345,1,Teachers around the US share their fears of teaching in a Trump America
+49859,1,The Era of Republican Overreach Begins
+49898,1,TV Shows to Look Forward to in 2017 (So Far)
+49900,1,Republicans Grapple With the Risk of Overreach
+49980,1,Taboo: A Grim, Gruesome Costume Drama Starring Tom Hardy

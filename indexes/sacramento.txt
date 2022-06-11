@@ -1,0 +1,243 @@
+2,2,Tyrus Wong, ‘Bambi’ Artist Thwarted by Racial Bias, Dies at 106 - The New York Times
+117,1,California Today: Cracking Down on Distracted Driving - The New York Times
+214,5,California Today: $8 Million in Tech Money for the Bay Area Arts - The New York Times
+251,2,California Today: The Tale of the Laguna Beach Jumper - The New York Times
+304,2,California Today: Is the Drought Over? - The New York Times
+553,1,California Today: What, Exactly, Is in Your Sushi? - The New York Times
+811,1,California Today: The Collapse of Organized Farm Labor - The New York Times
+851,1,Anarchists Respond to Trump’s Inauguration, by Any Means Necessary - The New York Times
+923,2,California Today: Tackling Los Angeles’s Deadly Smog - The New York Times
+946,1,California Today: Granddaughter of Cesar Chavez Comes Home - The New York Times
+1019,1,Court Refuses to Reinstate Travel Ban, Dealing Trump Another Legal Loss - The New York Times
+1023,1,Trump Overrules Tillerson, Rejecting Elliott Abrams for Deputy Secretary of State - The New York Times
+1118,2,California Today: On the Ground in Oroville - The New York Times
+1148,2,Oroville Is a Warning for California Dams, as Climate Change Adds Stress - The New York Times
+1155,1,20th Century Fox Used Fake News to Publicize ‘A Cure for Wellness’ - The New York Times
+1193,1,California Today: Capturing the ‘Firefall’ at Yosemite - The New York Times
+1269,6,California Braces for More Rain. How Bad Can It Get? - The New York Times
+1303,2,California Today: The State’s Hate Landscape - The New York Times
+1326,1,California Today: On Catalina, the Drought Is Far From Over - The New York Times
+1345,1,California Today: In Virtual Reality, Investigating the Trayvon Martin Case - The New York Times
+1378,1,In the Lakers Family Business, Spectacle and Drama Continue - The New York Times
+1394,2,How Big Do You Want Your Nest Egg to Be? - The New York Times
+1434,3,California Today: After Lawmaker’s Silencing, More Cries of ‘She Persisted’ - The New York Times
+1444,1,In California, a Move to Ease the Pressures on Aging Dams - The New York Times
+1576,2,California Today: What to Look for on Election Day - The New York Times
+1652,1,California Today: Why the State’s Biggest Lake Is Dying - The New York Times
+1803,2,California Today: A Gallery Flees and Neighborhood Activists Cheer - The New York Times
+2014,3,California Today: Henry Rollins Strikes Chord as a Columnist - The New York Times
+2107,1,California Today: Considering a Single-Payer Insurance System - The New York Times
+2144,2,California Today: Muslim Candidate Says He’s ‘Triple Threat to Donald Trump’ - The New York Times
+2170,1,California Today: ‘Zoot Suit’ Memories - The New York Times
+2185,1,What It Means When 5 Million Syrians Leave Their Country - The New York Times
+2299,1,California Today: Defying Trump With Sanctuary Bill - The New York Times
+2386,2,California Today: Winemakers Wonder: Who Will Pick the Grapes? - The New York Times
+2477,2,California Today: Berkeley Turns to Comedian for Advice - The New York Times
+2533,1,Clinton, Sanders and the Crowd Bring the Noise in Brooklyn Debate - The New York Times
+2809,1,Success of Jerry Brown, and California, Offers Lesson to National Democrats - The New York Times
+2819,2,Gov. Jerry Brown Endorses Hillary Clinton Ahead of California Primary - The New York Times
+3121,3,California Today: How Badly Do You Want That New Rail Line? - The New York Times
+3129,2,California Today: Yes, They’re Still Counting the Presidential Primary Votes - The New York Times
+3154,2,California Today: Airbnb, a Hometown Success (and Villain) - The New York Times
+3156,1,California Governor Signs Legislation Limiting Assault Weapons - The New York Times
+3225,2,Public Colleges Chase Out-of-State Students, and Tuition - The New York Times
+3904,3,California Today: No, Cal State Isn’t Creating Segregated Housing - The New York Times
+3950,4,California Today: School Bond Measure? Why You Should Care - The New York Times
+4076,4,California Today: The Debate Over Indian Mascots and Imagery - The New York Times
+4091,3,California Today: Should We Ban Plastic Bags? - The New York Times
+4165,6,California Today: $2 More for a Pack of Cigarettes? - The New York Times
+4195,1,California Today: A Shift in the Child Sex Trafficking Trade - The New York Times
+4458,3,California Today: How Do Top Newspapers Line Up on the Election? - The New York Times
+4475,2,California Today: What to Watch For on Election Day - The New York Times
+4576,1,California Today: Latino Power Rising - The New York Times
+4731,1,Nintendo’s New Console May Feed Your Nostalgia, if You Can Get One - The New York Times
+4737,5,California Today: Fretting Over the ‘Netflix Tax’ - The New York Times
+4773,1,California Today: A View of San Francisco’s Leaning Tower From Space - The New York Times
+4800,1,California Today: Meet Your Next Attorney General - The New York Times
+4805,1,Tulane and St. John’s Coaches Share a Goal: Returning Teams to Glory - The New York Times
+4873,3,California Today: Schools Try to Calm New Fears Over Deportation - The New York Times
+4900,1,California Today: Is a U.C. Education Affordable Anymore? - The New York Times
+4935,3,California Today: Questions Persist After the Oakland Fire - The New York Times
+5060,4,California Today: Cast Your Vote for Californian of the Year - The New York Times
+5111,1,Celebrating a Rugged Vision of Landscape Architecture - The New York Times
+5140,1,California, at Forefront of Climate Fight, Won’t Back Down to Trump - The New York Times
+5437,1,Realizing It’s a Small, Terrifying World After All - The New York Times
+5488,1,Trump Institute Offered Get-Rich Schemes With Plagiarized Lessons - The New York Times
+5538,1,Gretchen Carlson Suit Aims at Retaliation Over Discrimination - The New York Times
+5610,1,Texas Rape Victim Was Jailed for Fear She Would Not Testify, Lawsuit Says - The New York Times
+5848,1,California Today: Your Voices - The New York Times
+5852,3,Riding the Rails to the Summer of Love - The New York Times
+5891,2,California Today: Fighting Fire With Fire - The New York Times
+5902,1,California Today: San Diego Struggles to Keep Its Young Tech Talent - The New York Times
+5909,2,California Today: A ‘See Something, Say Something’ Prostitution Plan - The New York Times
+6037,1,California Today: Hollywood History vs. ‘Souvenir Junk’ - The New York Times
+6162,2,California Today: With Trump’s Rise, a Return to the ‘Rebel State’ - The New York Times
+6217,2,California Today: Meet the New Mayor, Age 26 - The New York Times
+6246,1,Kanye West Calls Out Beyoncé and Praises Trump in Onstage Tirade - The New York Times
+6411,5,California Today: Tracking the Bullet Train’s Progress - The New York Times
+6421,1,California Today: What Stinks in Huntington Beach? - The New York Times
+6506,2,California Today: The Stories That Moved Us in 2016 - The New York Times
+6520,1,2016 Pulitzer Prizes: A.P. Wins Public Service Award ‘Hamilton’ Is Honored - The New York Times
+6650,2,10 Injured During White Nationalist Protest in Sacramento - The New York Times
+6928,1,Timber Company Tells California Town, Go Find Your Own Water - The New York Times
+6936,4,In Video, Sacramento Police Appear to Try to Hit Man With Their Car Before He’s Fatally Shot - The New York Times
+7260,1,Victims in Istanbul Airport Attack Reflect City’s International Character - The New York Times
+7353,3,California Today: Vaccinate Schoolchildren or Keep Them Home - The New York Times
+7424,1,California Today: A New Target of Gun Control Advocates — Bullets - The New York Times
+7667,4,California Today: Some Opt to Pass on Thanksgiving Politics - The New York Times
+7743,3,California Today: Extra! Extra! How the Gossip Machine Chased the ‘Brangelina’ Split - The New York Times
+7857,1,Irvine Unveils Memorial to Honor Fallen Heroes in Iraq and Afghanistan - Breitbart
+8101,1,California May Allow Communists to Work Openly in State Government - Breitbart
+8125,1,California State Senate Leader: ’Half My Family’ Here Illegally
+8925,1,California Ready for Single-Payer Insurance ... But Who’s Going to Pay for It? - Breitbart
+9036,1,California Has 6 of Top 10 Worst Cities for Smog in America - Breitbart
+9107,1,Bernie Sanders to California Democrats: Please Pass Single-Payer Health Care! - Breitbart
+9595,1,Republican Backed Jerry Brown’s Gas Tax for $400 Million Pork Project - Breitbart
+9686,1,Mayhem in Berkeley: Trump Supporters, Counter-Protesters Clash During Rally - Breitbart
+10216,1,Splash! Jerry Brown Says California’s Drought Is Over - Breitbart
+10228,5,Emergency Evacuations Ordered, Oroville Dam Spillway Near Failure
+10795,1,Kevin Shenkman: Ending Democracy as We Know It in Southern California? - Breitbart
+10804,1,Oroville Lake Down 52 Feet, but 9 Upstream Reservoirs to Flood
+10923,1,Jerry Brown Seeks ’Common Ground’ with Donald Trump - Breitbart
+11051,1,Virgil: Arguments from Bad Authority: How the Mainstream Media Tries to Trick You
+11147,1,California Democratic Party Leader Leads ’F*ck Donald Trump’ Chant at Convention - Breitbart
+11313,1,Can Trump Help California Dodge Jerry Brown’s Bullet Train? - Breitbart
+11560,2,Jerry Brown’s New Budget Includes Millions to Defend Illegal Aliens from Deportation - Breitbart
+11960,1, Professional Activists Are Behind ‘Chaos’ Plot Targeting Trump Inauguration
+12023,2,California Democrats Propose In-State Tuition for Refugees - Breitbart
+12092,1,California Black Lives Matter Proud of Facebook Post Saying They Spit in Police Officer’s Starbucks - Breitbart
+12321,5,Northern California Snowmelt Crisis as Temps Rise into 70s - Breitbart
+12418,1,MILO Media Meltdown: Breitbart Editor’s UC Davis Event Dominates Headlines - Breitbart
+12440,1,Protesters Angry Sen. Dianne Feinstein Isn’t Holding Town Halls
+12813,1,California Rushes Sanctuary State Law Through Senate - Breitbart
+12890,1,Thieves Steal Bees that Pollinate Central Valley Almonds
+13152,1,Unpopular Gas Tax Could Hurt California Democrats in 2018 - Breitbart
+13438,3,Q &amp A with #CalExit Leader on California’s Secession Movement
+13734,1,Media Refuse to Blame Anti-Trump Protesters for Violence at Rallies - Breitbart
+13746,1,Kamala Harris Bashes Breitbart, Raises Campaign Cash - Breitbart
+13866,1,Trump’s ’America First’ Budget Puts CA Democrat Priorities Last - Breitbart
+14001,1,Anti-Trump ’Resistance’ Tries, Fails to Imitate Tea Party
+14064,1,The New Birtherism: Left Rallies to Demand Trump’s Tax Returns - Breitbart
+14094,2,Race Against Rain: Oroville Dam Must Drain 50 Feet by Wednesday
+14178,1,One California Democrat Admits He’s Tired of Trashing Trump
+14211,1,Dems Cut off Maxine Waters African American Caucus Wants Apology - Breitbart
+14389,1,Jerry Brown: California Taxpayers are ’Freeloaders’ - Breitbart
+14437,1,Democrat Megadonor Tom Steyer Considers Running for Governor - Breitbart
+14825,1,Jerry Brown Praises Trump: ’Amen, Brother’ on Infrastructure
+15789,1,Californian Police Chief: Obama Running ’Catch and Release Programs’ For Illegal Alien Criminals - Breitbart
+15871,1,Flash-Bangs and Tear Gas to Break Up Portland Riot - Breitbart
+16477,3,Shooting Victim Went Door-to-Door for Neighborhood Watch Group
+16494,1,California DMV Computer Crash Suggests Voting System Vulnerable
+16981,1,GOP Assemblywoman: A ’Loaded Glock’ Beats ’911 On The Phone’
+16994,1,Black Lives Matter Activist Convicted of ’Lynching’
+17229,1,Two-Thirds of NH GOP Voters Support Trump’s Muslim Ban - Breitbart
+17234,2,Woman Escapes Doomed Prius on Train Tracks - Breitbart
+17310,2,Kanye West Compares Himself to Trump in Mid-Concert Rant
+17430,2,Clinton Cash: Bill Heads to Sacramento to Collect for Hillary
+17445,1,Donald Trump Officially Opens Los Angeles Campaign HQ - Breitbart
+17455,1,Silicon Valley ’Dazed and Confused’ by Peter Thiel’s RNC Speech
+18231,1,Portland Elementary School Gives OK to Satanist Group’s After School Club - Breitbart
+18569,2,Gunpocalypse -- Gun Owners to Jerry Brown: Come and Take It
+18595,1,Former Assemblyman: Newsom’s Gun Control Push a Boon to GOP Candidates
+18628,1,Criminal Aliens Sexually Assault 70,000 American Women — But Paul Ryan Targets Trump - Breitbart
+18798,1,California Lawmakers Nix ’John Wayne Day’ - Breitbart
+18986,1,Ted Cruz: ‘Environmental Policies’ Kill Jobs for ‘3-In Bait Fish’
+19428,1,Blue State Blues: Three Scenarios in the California Primary - Breitbart
+19441,1,Andrea Mitchell: Trump Supporter Got Egged Because of Trump’s ’Egging on’ at Rallies - Breitbart
+19623,5,Exclusive--Cop: Left-Wing Extremists Started the Sacramento Riot
+19719,1,Former Vikings, Cardinals Coach Dennis Green Dies at 67 - Breitbart
+19734,1,9,000 Companies Left California Since 2008
+19752,4,Concealed Carry Permits Surge In Sacramento County - Breitbart
+20216,1,Jerry Brown: No Endorsement Yet in California Primary - Breitbart
+20927,3,California Politicians Praise ’Smart, Bold’ Women of Ghostbusters
+21430,1,Huff Post Links: Pro-TPP Op-Eds Nearly Identical to Drafts from Foreign Government Lobbyists - Breitbart
+21648,1,Halting Refugees is the Right Thing to Do - Breitbart
+21729,1,Cali DMV Demands Uber Stop Self-Driving Cars in San Francisco
+21946,1,Donald Trump Has Not Spoken with California Primary Director
+22501,3,McCarthy: Donald Trump Could Help GOP Win Seats - Breitbart
+22654,1,California to Pass Highest Minimum Wage Law - Breitbart
+23201,1,’Make America Mexico Again’: We Warned You About America-Hating Mobs - Breitbart
+23203,1,Zach LaVine Wins Second Slam Dunk Contest in a Row - Breitbart
+23230,1,Trump ’Banned’ in West Hollywood Fans Rally Anyway - Breitbart
+23307,1,Cruz Picks Nation’s Most Aggressive Champion of Offshoring as Vice President - Breitbart
+23841,11,***Horse Race LiveWire*** Poll: Trump More Honest than Hillary - Breitbart
+24122,3,Stabbings In Sacramento as Neo-Nazis, ’Anti-Fa’ Clash at Capitol
+24202,1,Obamacare Pressures California University to Fire U.S. Professionals, Hire Foreign H-1B Workers
+24325,1,Black Lives Matter Creates ‘Buy Black’ Map of Black Businesses
+24344,1,California 2nd Most Expensive State to Own a Car
+24508,1,**Live Wire** Jihad in Orlando: How Can We Prevent Another Pulse Massacre? - Breitbart
+24881,1,Gun-Controlled San Francisco Leads U.S. with Property Crime Surge
+25000,1,Limbaugh: ’True Story of Thanksgiving’ Is a Rejection of Socialism - Breitbart
+25010,1,Tax Breaks For Olympic Medalists? No Thanks! - Breitbart
+25055,2,Jerry Brown Enacts Most Aggressive Climate Change Bill In America
+25058,1,California Legislators Demand Tax-Free Tampons - Breitbart
+25272,2,Refugees Arrested Across USA in Terrorism Investigation
+25384,1,Team Employee Kneels While Singing Anthem Before Heat-76ers Game - Breitbart
+25792,1,Oakland Fire Leader: ’Love Child of Manson, Pol Pot and Hitler’
+26669,1,Seeds of Disorder: High School Courses Now Dedicated to Teaching American Guilt - Breitbart
+27250,1,Burning Man Buys Nevada Site for Year-Round Party - Breitbart
+27632,1,Teens Hurt in CA Protests Say They Were Attacked Because They Are White
+28184,3,Post-Dallas, Black Lives Matter Protests Sweep California
+28251,1,Jerry Brown Admits $15 Min Wage Bad Signs Anyway - Breitbart
+28349,1,California Primary: Democrat Still Says 20% Muslims Back Terror
+28381,2,Scott Jones Dumps Trump: This ’May Cost Me the Election’
+28544,1,Chicago-Style Gun-Control: 21 People Shot In 20 Hours - Breitbart
+28808,1,California Primary: Cruz, Kasich Plan to Divvy Up 53 Districts
+29055,2,30 Hurried Hillary Clinton California Events in 5 Days
+29246,1,CA: Condoms in Pornography on November Ballot - Breitbart
+29399,2,Man Peeping at Girls in Women’s Bathroom Is Registered Sex Offender - Breitbart
+29403,2,AR-15 Demands Skyrockets Following New California Gun Controls
+29706,1,Jerry Brown Vetoes Bill to Improve High-Speed Rail Oversight
+30255,1,Creepy Clowns Threaten Sacramento Schools - Breitbart
+30332,1,Can Trump Deliver More Water to California’s Farmers? - Breitbart
+30688,1,Trump Supporters Shout Down, Eject ’Nazi’ (Plant?) from Rally
+30798,1,Black Lives Matter Protests Break Out Across America
+30815,1,Snoop Dogg Unloads on Arnold Schwarzenegger: ’Punk Motherf—er, Racist Piece of S—t’ - Breitbart
+30842,1,Kanye West Stops Concert to Deliver 40-Minute Pro-Trump Rant
+31207,2,Top Twenty Sexual Crimes Committed at Target Stores - Breitbart
+31223,1,Colin Kaepernick Never Even Registered to Vote - Breitbart
+31323,2,Singer Takes a Knee While Performing National Anthem at NBA Game
+32134,1,Tornado deaths over weekend exceed 2016 toll
+32175,1,Nor’easter hits Northeast with winds, flooding
+32387,2,Milo Yiannopoulos is trying to convince colleges that hate speech is cool
+32625,1,Evacuations ordered over concerns at California dam system
+32644,2,California dam emergency prompts mass evacuations
+32645,1,CNN 10 - February 14, 2017
+32646,1,Oroville Dam: California officials ignored warnings a decade ago
+32726,1,Oroville is the best warning that infrastructure matters
+32809,1,CNN 10 - February 21, 2017
+32813,1,Kings trade DeMarcus Cousins to Pelicans
+33113,1,Wildfires Fast Facts
+34120,1,Tad Cummins arrest: Tip leads to isolated cabin
+34167,2,California judge OKs Cummins’ move back to Tennessee
+35131,1,Prisoner-transport officer accused of sexual assault
+35495,1,Dangerous heat wave scorches Southwestern US
+35565,4,How hot is it in the West? Let us count the ways
+35849,3,At least 10 people injured at California rally, authorities say
+37423,1,Mad about Brock Turner’s sentence? It’s not uncommon
+37513,1,Sporting protests: Kaepernick’s stand is far from the first
+37698,1,Sikhs under attack
+37709,1,US Supreme Court Fast Facts
+37860,1,1 dead in California U-2 crash
+38404,1, High winds, rain lash Pacific Northwest
+38852,3,Kanye rants on politics, cuts 1 show, cancels another
+38868,1,Kanye West hospitalized for exhaustion
+39598,3,California Dems ready to fight Trump’s immigration plans
+41080,1,How historic California drought hurts nation
+41385,1,Woman eats three 72-ounce steaks in 20 minutes
+42550,1,Dick Van Patten, ’Eight Is Enough’ father, dies
+42761,1,’The Seventies’: The decade’s worst killers
+43013,1,Lynn Anderson, ’Rose Garden’ singer, dead at 67
+43018,1,Firefighter dies as wildfires burn California ’tinderbox’
+43742,2,The NBA world is baffled by the Kings’ blockbuster DeMarcus Cousins trade
+43756,3,2 big NBA players have already been traded — here are the other names being mentioned in trade rumors so far
+44452,1,WHERE ARE THEY NOW? The players NBA teams are kicking themselves for drafting before Isaiah Thomas in 2011
+45859,2,An incredible 45 day storm turned California into a 300-mile-long sea — and it could happen again
+47202,1,Hillary Clinton wins Puerto Rico Democratic presidential primary
+47482,1,Miami Heat breakout star has an awesome perspective on becoming one of the best NBA free agents after nearly falling out of the league 2 years ago
+48683,1,Here are all the police killings since just the beginning of September
+49308,2,Colin Kaepernick stands behind decision to not vote amid report that he has never been registered to vote
+49359,1,Kanye West goes on bizarre rant about Beyonce, Jay Z, politics before cutting concert short
+49373,2,Kanye West canceled the rest of his tour after a bizarre Trump rant because he’s ’exhausted’
+49853,1,’He Was the Nationalist Candidate’
+49878,3,A Long-Lost Data Trove Uncovers California’s Sterilization Program

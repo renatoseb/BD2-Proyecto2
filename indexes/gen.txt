@@ -1,0 +1,898 @@
+2,8,Tyrus Wong, ‘Bambi’ Artist Thwarted by Racial Bias, Dies at 106 - The New York Times
+11,1,Can Carbon Capture Technology Prosper Under Trump? - The New York Times
+27,1,Inside Trump Defense Secretary Pick’s Efforts to Halt Torture - The New York Times
+29,1,The Afghan War and the Evolution of Obama - The New York Times
+45,1,Israeli Soldier Who Shot Wounded Palestinian Assailant Is Convicted - The New York Times
+87,1,Countering Trump, Bipartisan Voices Strongly Affirm Findings on Russian Hacking - The New York Times
+109,1,Putin Led a Complex Cyberattack Scheme to Aid Trump, Report Finds - The New York Times
+136,1,Senate Confirmation Hearings to Begin Without All Background Checks - The New York Times
+146,1,300 Marines to Aid Fight Against Taliban in Spring - The New York Times
+158,1,Russian Hackers Find Ready Bullhorns in the Media - The New York Times
+197,1,Israel Buries 4 Soldiers, but the Mourning Is Marred by Discord - The New York Times
+209,1,Hearing Highlights: Sessions Questioned on Links to Xenophobia - The New York Times
+211,11,Trump Asks Critic of Vaccines to Lead Vaccine Safety Panel - The New York Times
+212,1,Sessions, Trump, Dylann Roof: Your Tuesday Evening Briefing - The New York Times
+218,1,Bombings Near Afghanistan’s Parliament Kill Dozens on Day of Assaults - The New York Times
+247,1,Mike Pompeo, Trump’s C.I.A. Pick, Faces the Balancing Act of His Career - The New York Times
+257,1,Young Symbol of Afghan Resilience Joins List of Lost Leaders - The New York Times
+281,1,Donald Trump, Rex Tillerson, Rodrigo Duterte: Your Morning Briefing - The New York Times
+290,1,Kunduz Attack in November Killed 33 Civilians, U.S. Military Says - The New York Times
+300,1,Trump National Security Adviser Called Russian Envoy Day Before Sanctions Were Imposed - The New York Times
+358,1,As Inauguration Nears, Trump Keeps World Leaders on Edge - The New York Times
+359,1,‘Kompromat’ and the Danger of Doubt and Confusion in a Democracy - The New York Times
+391,1,Angst Simmers in Washington as Trump Presidency Nears - The New York Times
+413,1,Trump National Security Team Gets a Slow Start - The New York Times
+421,1,Trump, Price, Pruitt: Your Wednesday Evening Briefing - The New York Times
+430,1,Iraqi Forces Take Eastern Mosul From Islamic State - The New York Times
+471,1,With Echoes of the ’30s, Trump Resurrects a Hard-Line Vision of ‘America First’ - The New York Times
+484,1,How Marches in Washington Have Shaped America - The New York Times
+552,1,Donald Trump, ‘Brexit,’ Syria: Your Morning Briefing - The New York Times
+566,1,Afghanistan Orders Arrest of Vice President’s Guards in Rape and Torture Case - The New York Times
+569,1,Harold Hayes, Survivor of Secret World War II Odyssey, Dies at 94 - The New York Times
+696,1,How Trump’s Rush to Enact an Immigration Ban Unleashed Global Chaos - The New York Times
+708,1,Iraqi Region Is Evicting Families of ISIS Members - The New York Times
+729,1,Bannon Is Given Security Role Usually Held for Generals - The New York Times
+769,1,Raid in Yemen: Risky From the Start and Costly in the End - The New York Times
+804,1,White House Defends Commando Raid on Qaeda Branch in Yemen - The New York Times
+807,1,Trump Pushes Dark View of Islam to Center of U.S. Policy-Making - The New York Times
+817,1,Brazen Killing of Myanmar Lawyer Came After He Sparred With Military - The New York Times
+857,2,North Korean Leader’s Top Enforcer Is Now the One Getting Purged - The New York Times
+976,1,Trump Says Nordstrom Treated His Daughter ‘So Unfairly’ Fireworks Before Final Vote on Jeff Sessions - The New York Times
+992,1,A Painstaking Mission to Save Atlanta’s Colossal Civil War Painting - The New York Times
+1006,3,U.S. General Seeks ‘a Few Thousand’ More Troops in Afghanistan - The New York Times
+1030,6,Former A.I.G. Executives Reach Settlement in Accounting Fraud Case - The New York Times
+1080,1,Michael Flynn Resigns as National Security Adviser - The New York Times
+1081,1,Turmoil at the National Security Council, From the Top Down - The New York Times
+1092,1,G.O.P. Lawmakers Like What They See in Trump. They Just Have to Squint. - The New York Times
+1103,1,Report Rebuts Russia’s Claims of Restraint in Syrian Bombing Campaign - The New York Times
+1105,1,Lt. Gen. Harold Moore, Whose Vietnam Heroism Was Depicted in Film, Dies at 94 - The New York Times
+1114,1,Russia Deploys Missile, Violating Treaty and Challenging Trump - The New York Times
+1126,1,Kim Jong-un’s Half Brother Is Reported Assassinated in Malaysia - The New York Times
+1142,1,‘Unbelievable Turmoil’: Trump’s First Month Leaves Washington Reeling - The New York Times
+1162,2,Full Transcript and Video: Trump News Conference - The New York Times
+1175,1,Pakistan Shrine Bombing Kills Scores in Worst Attack in Months - The New York Times
+1215,2,Trump to Interview 4 Candidates for National Security Adviser - The New York Times
+1240,2,Trump Meets With Four Candidates for National Security Adviser - The New York Times
+1242,1,Iraq Starts Offensive to Retake Western Mosul From ISIS - The New York Times
+1358,1,Friday Mailbag: Faulty Headlines, Insensitive Descriptions - The New York Times
+1413,1,South Korea’s Top Spies Give New Evidence in Plot to Kill Kim Jong-nam - The New York Times
+1454,1,President Trump Changes His Tone, if Not His Tune - The New York Times
+1460,3,Russian Airstrike in Syria Hits U.S. Allies by Mistake - The New York Times
+1482,1,Trump May Give the Pentagon More Authority to Conduct Raids - The New York Times
+1526,1,U.S. Strategy to Hobble North Korea Was Hidden in Plain Sight - The New York Times
+1528,1,U.S. Strengthens Its Forces in a Crowded Syrian Battlefield - The New York Times
+1571,1,Trump Inherits a Secret Cyberwar Against North Korean Missiles - The New York Times
+1613,3,Iraqi Forces Enter Western Mosul, in Fierce Battle Against ISIS - The New York Times
+1642,1,Russia Has Deployed Missile Barred by Treaty, U.S. General Tells Congress - The New York Times
+1666,1,U.S. Is Sending 400 More Troops to Syria - The New York Times
+1683,1,Michael Flynn Was Paid to Represent Turkey’s Interests During Trump Campaign - The New York Times
+1684,1,After Warily Circling, Trump and Angela Merkel Prepare to Meet - The New York Times
+1718,1,Uprooted by War, Threatened by Boko Haram and Desperate to Go Home - The New York Times
+1730,1,Trump Administration Is Said to Be Working to Loosen Counterterrorism Rules - The New York Times
+1733,1,Tillerson Leads From State Dept. Shadows as White House Steps In - The New York Times
+1812,3,Afghan Officials Say at Least 50 Died in Attack on Hospital - The New York Times
+1841,1,Trump Offers No Apology for Claim on British Spying - The New York Times
+1849,1,With Their Leaders at a Loss, Marine Veterans Fight Abusers - The New York Times
+1877,1,7 Congo Army Officers Charged With War Crimes in Massacre - The New York Times
+1880,2,When the Boss Is Half Your Age - The New York Times
+1882,4,Using Special Forces Against Terrorism, Trump Seeks to Avoid Big Ground Wars - The New York Times
+1915,1,Trump Shifting Authority Over Military Operations Back to Pentagon - The New York Times
+2015,1,U.S. Investigating Mosul Strikes Said to Have Killed Up to 200 Civilians - The New York Times
+2073,1,Bangladeshi Assault Kills 2 Militants but Fails to End Standoff - The New York Times
+2083,1,The Weekly Standard’s Arsenal to Fight Falsehoods: ‘Facts, Logic and Reason’ - The New York Times
+2086,2,At Site of Deaths, Our Reporters Find Cost of U.S.-ISIS Battle - The New York Times
+2123,3,U.S. ‘Probably Had a Role’ in Mosul Deaths, Commander Says - The New York Times
+2173,2,U.S. War Footprint Grows in Middle East, With No Endgame in Sight - The New York Times
+2174,2,Trump Eases Combat Rules in Somalia Intended to Protect Civilians - The New York Times
+2196,1,2 White House Officials Helped Give Nunes Intelligence Reports - The New York Times
+2223,1,Meet the Obama Holdovers Who Survived Trump’s Sweep - The New York Times
+2242,1,China Learns How to Get Trump’s Ear: Through Jared Kushner - The New York Times
+2243,1,Jared Kushner Visits Iraq on Invitation From Joint Chiefs Chairman - The New York Times
+2256,1,At Least 9 Civilians Killed as Coalition Strikes Taliban Arsenal, Officials Say - The New York Times
+2286,1,Worst Chemical Attack in Years in Syria U.S. Blames Assad - The New York Times
+2321,1,Trump, Syria, Pepsi: Your Wednesday Evening Briefing - The New York Times
+2323,1,Trump Removes Stephen Bannon From National Security Council Post - The New York Times
+2378,1,Syria Strike Puts U.S. Relationship With Russia at Risk - The New York Times
+2379,1,Acting on Instinct, Trump Upends His Own Foreign Policy - The New York Times
+2384,2,63 Hours: From Chemical Attack to Trump’s Strike in Syria - The New York Times
+2414,1,After Aung San Suu Kyi’s First Year in Power, Dismay Swirls in Myanmar - The New York Times
+2428,1,Tillerson, on Eve of Russia Trip, Takes Hard Line on Syria - The New York Times
+2429,1,K.T. McFarland, Deputy National Security Adviser, Is Expected to Leave Post - The New York Times
+2540,1,Chinese General Visits Disputed Spratly Islands in South China Sea - The New York Times
+2547,1,U.S. Plans to Step Up Military Campaign Against ISIS - The New York Times
+2713,1,Ambush Kills 8 Police Officers in Egypt - The New York Times
+2754,6,Doctors With Enemies: Did Afghan Forces Target the M.S.F. Hospital? - The New York Times
+2805,2,Debate Over Role of ‘People’s Army’ in Israel Reflects Wider Fissures - The New York Times
+2832,1,Militias in Libya Advance on ISIS Stronghold of Surt With Separate Agendas - The New York Times
+2864,2,Iraqi Army Seen as Ill Equipped to Retake Mosul From ISIS, Despite U.S. Aid - The New York Times
+3005,1,Iraqi Forces Enter Falluja, Encountering Little Fight From ISIS - The New York Times
+3010,1,A War of Brothers in Iraq: ‘I Will Kill Him With My Own Hands’ - The New York Times
+3094,3,C.I.A. Arms for Syrian Rebels Supplied Black Market, Officials Say - The New York Times
+3150,1,Transgender People Will Be Allowed to Serve Openly in Military - The New York Times
+3240,1,Iran, Once Quiet About Its Casualties in Syria and Iraq, Now Glorifies Them - The New York Times
+3244,1,Rudolph Giuliani Lashes Out at Black Lives Matter - The New York Times
+3266,1,James Stavridis, Retired Admiral, Is Being Vetted as Hillary Clinton’s Running Mate - The New York Times
+3268,1,Donald Trump Rebukes Ruth Bader Ginsburg for Deriding His Candidacy - The New York Times
+3269,1,Bernie Sanders, Theresa May, South China Sea: Your Tuesday Evening Briefing - The New York Times
+3308,1,The American Who Accidentally Became a Chinese Movie Star - The New York Times
+3310,1,Turkey Rounds Up Thousands of Military Personnel - The New York Times
+3319,1,Erdogan Triumphs After Coup Attempt, but Turkey’s Fate Is Unclear - The New York Times
+3339,1,Spanish Archive Raises Franco-Era Ghosts and Shadows of a New Chasm - The New York Times
+3378,1,Indonesian Police Say DNA Confirms Most Wanted Terror Suspect Is Dead - The New York Times
+3400,3,With Army in Disarray, a Pillar of Modern Turkey Lies Broken - The New York Times
+3516,2,Suicide Bomber Kills Dozens at Pakistani Hospital in Quetta - The New York Times
+3618,1,Airstrike in Yemen Kills 17 Civilians, Witnesses Say - The New York Times
+3696,2,Iran Revokes Russia’s Use of Air Base, Saying Moscow ‘Betrayed Trust’ - The New York Times
+3713,2,Bomb Kills an American Soldier Near Besieged Afghan City - The New York Times
+3734,1,With Operation in Syria, Erdogan Shows His New Power Over Turkey’s Military - The New York Times
+3761,1,SEAL Team 6 and a Man Left for Dead: A Grainy Picture of Valor - The New York Times
+3807,1,North Korea Has Executed a Deputy Premier, Seoul Reports - The New York Times
+3874,5,Donald Trump Is Endorsed by Nearly 90 Military Figures - The New York Times
+3876,1,Obama Unlikely to Vow No First Use of Nuclear Weapons - The New York Times
+3905,3,Taliban Close to Overtaking Afghan Provincial Capital, Officials Say - The New York Times
+3945,1,Afghan Police Chief Is Killed as He Tries to Turn Tide Against Taliban - The New York Times
+3948,1,Donald Trump Seizes Hillary Clinton’s Absence to Press His Case - The New York Times
+3962,2,Details of Syria Pact Widen Rift Between John Kerry and Pentagon - The New York Times
+4067,2,Obama Administration Considers Arming Syrian Kurds Against ISIS - The New York Times
+4080,1,Email Hack Details Movements of Joe Biden, Michelle Obama and Hillary Clinton - The New York Times
+4214,1,Afghan Forces Push Taliban Out of Kunduz Center, Officials Say - The New York Times
+4266,1,Saudi-Led Airstrikes Blamed for Massacre at Funeral in Yemen - The New York Times
+4281,1,Andrzej Wajda, Towering Auteur of Polish Cinema, Dies at 90 - The New York Times
+4302,2,Pentagon Confronts a New Threat From ISIS: Exploding Drones - The New York Times
+4329,1,Yemen Sees U.S. Strikes as Evidence of Hidden Hand Behind Saudi Air War - The New York Times
+4366,1,In Somalia, U.S. Escalates a Shadow War - The New York Times
+4392,1,Pentagon Expects Mosul Push to Unlock Trove of ISIS Intelligence - The New York Times
+4408,1,Rodrigo Duterte, Pushing Split With U.S., Counters Philippines’ Deep Ties - The New York Times
+4434,3,Mosul Is Breached by Iraqi Forces, Heralding a New, Complex Phase - The New York Times
+4449,3,U.S.-Backed Militia Opens Drive on ISIS Capital in Syria - The New York Times
+4540,1,Trump’s Hires Will Set Course of His Presidency - The New York Times
+4553,1,Paris: One Year On - The New York Times
+4594,1,Michael Flynn, Anti-Islamist Ex-General, Offered Security Post, Trump Aide Says - The New York Times
+4595,1,Donald Trump’s Son-in-Law, Jared Kushner, Tests Legal Path to White House Job - The New York Times
+4598,2,Donald Trump, After Fits and Starts, Focuses on Foreign Policy - The New York Times
+4599,1,Donald Trump, President Obama, J.K. Rowling: Your Friday Briefing - The New York Times
+4612,1,Trump, Sessions, Pompeo, Flynn: Your Friday Evening Briefing - The New York Times
+4677,2,Trump Diversifies Cabinet Picks Nikki Haley and Betsy DeVos - The New York Times
+4694,1,Trump’s Most Important Quotes From His Times Interview, and Why They Matter - The New York Times
+4696,1,American Is Killed in First Casualty for U.S. Forces in Syria Combat - The New York Times
+4703,1,Donald Trump Adds K.T. McFarland to His National Security Team - The New York Times
+4705,1,Republicans Divided Between Romney and Giuliani for Secretary of State - The New York Times
+4730,1,Afghan Vice President Seen Abducting Rival - The New York Times
+4736,1,Fidel Castro, Aleppo, Donald Trump: Your Tuesday Briefing - The New York Times
+4761,2,‘Unintentional’ Human Error Led to Airstrikes on Syrian Troops, Pentagon Says - The New York Times
+4772,1,OPEC, Big Mac, Syria: Your Thursday Briefing - The New York Times
+4783,3,James Mattis, Outspoken Retired Marine, Is Trump’s Choice as Defense Secretary - The New York Times
+4809,2,In Trump’s Security Pick, Michael Flynn, ‘Sharp Elbows’ and No Dissent - The New York Times
+4835,1,Both Feeling Threatened, American Muslims and Jews Join Hands - The New York Times
+4836,2,Trump Adviser Has Pushed Clinton Conspiracy Theories - The New York Times
+4838,1,Standing Rock, Trump, Renzi: Your Monday Evening Briefing - The New York Times
+4854,2,Rallying in North Carolina, Donald Trump Formally Introduces James Mattis - The New York Times
+4857,1,Jubilant Libyan Militias Declare Victory Over ISIS in Surt - The New York Times
+4872,1,Donald Trump, Indonesia, Aleppo: Your Wednesday Evening Briefing - The New York Times
+4874,3,Donald Trump Picks John Kelly, Retired General, to Lead Homeland Security - The New York Times
+4919,3,U.S. to Send 200 More Troops to Syria in ISIS Fight - The New York Times
+4930,1,Senate and House Leaders Call for Inquiry of Russian Hacking in Election - The New York Times
+4932,2,Michael Flynn Is Harsh Judge of C.I.A.’s Role - The New York Times
+4952,1,Trump Is Said to Offer Interior Job to Ryan Zinke, Montana Lawmaker - The New York Times
+4992,1,Aleppo Evacuation Effort Restarts, and Assad Calls It History in the Making - The New York Times
+5011,1,Larry Colburn, Who Helped Stop My Lai Massacre, Dies at 67 - The New York Times
+5043,1,Vincent Viola, Billionaire Businessman, Is Trump’s Choice to Lead the Army - The New York Times
+5061,1,Donald Trump, Seeking Ambassadors, Sorts Through Competing Priorities - The New York Times
+5099,1,Hijacking Ends Peacefully After Libyan Airliner Lands in Malta - The New York Times
+5128,1,Aboard a U.S. Eye in the Sky, Staring Down ISIS in Iraq and Syria - The New York Times
+5134,1,Russia Mounts Search After Plane Crash and Says Terrorism Is Unlikely - The New York Times
+5173,1,Russia Finds No Signs of Explosion in Black Sea Plane Crash - The New York Times
+5179,2,How Russia Recruited Elite Hackers for Its Cyberwar - The New York Times
+5234,3,How Hillary Clinton Became a Hawk - The New York Times
+5236,1,U.S. Cyberattacks Target ISIS in a New Line of Combat - The New York Times
+5316,1,U.S. Drone Strike Targets Taliban Leader - The New York Times
+5318,1,Taliban Chief Targeted by Drone Strike in Pakistan, Signaling a U.S. Shift - The New York Times
+5359,1,In a Reversal, Germany’s Military Growth Is Met With Western Relief - The New York Times
+5392,2,What if PTSD Is More Physical Than Psychological? - The New York Times
+5549,1,U.S. Will Deploy 560 More Troops to Iraq to Help Retake Mosul From ISIS - The New York Times
+5596,2,Obama’s Support of Erdogan Is a Stark Reminder of Turkey’s Value to U.S. - The New York Times
+5646,1,Turks Can Agree on One Thing: U.S. Was Behind Failed Coup - The New York Times
+5698,1,Gay and Transgender Egyptians, Harassed and Entrapped, Are Driven Underground - The New York Times
+5701,1,ISIS Fighters Are Still Lurking in Surt, Libyan Officials Warn - The New York Times
+5715,3,Afghanistan Forces Struggle to Hold Firm Against Taliban in South - The New York Times
+5722,1,Bombing of Doctors Without Borders Hospital in Yemen Kills at Least 15 - The New York Times
+5795,1,Africa’s Tennis Talent, Though Obscure, Is Burgeoning - The New York Times
+5819,1,As Donald Trump Calls for Wall on Mexican Border, Smugglers Dig Tunnels - The New York Times
+5895,1,Colin Powell, in Hacked Emails, Shows Scorn for Trump and Irritation at Clinton - The New York Times
+5931,1,Aid Convoy Is Hit in Syria as Cease-Fire Falters and Bombings Resume - The New York Times
+5959,1,Debate Prep? Hillary Clinton and Donald Trump Differ on That, Too - The New York Times
+6042,1,U.S. Set to Open a Climactic Battle Against ISIS in Mosul, Iraq - The New York Times
+6087,2,Thailand Looks to Likely Future King With Apprehension - The New York Times
+6196,1,U.S. Fingerprints on Attacks Obliterating Yemen’s Economy - The New York Times
+6221,1,With National Security Choices, Trump Builds Team to Bulldoze Status Quo - The New York Times
+6222,1,Why Democrats Now Need the F.B.I. Director, James Comey - The New York Times
+6227,1,‘This Election Changed My Mind About America’ - The New York Times
+6291,1,Challenging the Boss in Public? For Kellyanne Conway, It’s Part of the Job - The New York Times
+6337,1,Trump Meets With Al Gore on Climate Change While House G.O.P. Rebuffs Tariff Plan - The New York Times
+6343,2,Trump Fires Adviser’s Son From Transition for Spreading Fake News - The New York Times
+6356,1,Aleppo, Donald Trump, Pakistan: Your Thursday Briefing - The New York Times
+6364,1,Park Geun-hye, Donald Trump, Microsoft: Your Friday Briefing - The New York Times
+6365,1,South Korea’s President Park Awaits Her Fate, Dejected, Sleepless and Alone - The New York Times
+6370,1,40 Minutes With Kellyanne Conway - The New York Times
+6382,1,Trump Suggests Using Bedrock China Policy as Bargaining Chip - The New York Times
+6476,1,Afghan Response to Female Pilot’s U.S. Asylum Case: ‘I Am Sure She Lied’ - The New York Times
+6484,1,Trump Picks Thomas Bossert as Top Counterterrorism Adviser - The New York Times
+6617,1,Even With Confession of Cheating, World’s Doping Watchdog Did Nothing - The New York Times
+6678,2,Obama Says He Will Keep More Troops in Afghanistan Than Planned - The New York Times
+6692,1,Cambodian Opposition Figure’s Killing Recalls Darker Times - The New York Times
+6775,1,Thai Leader Links Attacks on Tourist Sites to Constitution Change - The New York Times
+6812,1,Support for Saudi Arabia Gives U.S. Direct Role in Yemen Conflict - The New York Times
+6820,1,A Powerful Russian Weapon: The Spread of False Stories - The New York Times
+6980,2,Warning of ISIS Plots Against West, U.S. Plans Assault on Raqqa - The New York Times
+7005,1,Russian Officials Were in Contact With Trump Allies, Diplomat Says - The New York Times
+7013,1,Where Even Nightmares Are Classified: Psychiatric Care at Guantánamo - The New York Times
+7048,2,Donald Trump Close to Picking Ben Carson as Housing Secretary - The New York Times
+7063,1,Fidel Castro, Cuban Revolutionary Who Defied U.S., Dies at 90 - The New York Times
+7099,1,Talks With Mitt Romney for Secretary of State ‘Not About Revenge,’ Trump Says - The New York Times
+7124,1,Democrats and Feds in Dispute on Trump’s D.C. Hotel Lease - The New York Times
+7127,2,Congressman Proposes National Surveillance Program After Trump Meeting - The New York Times
+7204,1,Talks on Syria Seek to Extend Fragile Truce to Aleppo - The New York Times
+7228,1,Kalashnikov, Maker of AK-47, Looks to Rebrand - The New York Times
+7310,4,‘They Will Kill Us’: Afghan Translators Plead for Delayed U.S. Visas - The New York Times
+7355,1,U.S. Rescue Attempt in Afghanistan Missed Western Hostages by Hours - The New York Times
+7474,5,James Mattis, Trump’s Choice for Defense, Favors Working With Allies - The New York Times
+7578,2,Turkish President Returns to Istanbul in Sign Military Coup Is Faltering - The New York Times
+7587,1,Donald Trump Risks Alienating Military Communities in Swing States - The New York Times
+7658,1,Rudolph Giuliani’s Business Ties Viewed as Red Flag for Secretary of State Job - The New York Times
+7660,1,Donald Trump’s Team Shows Few Signs of Post-Election Moderation - The New York Times
+7668,1,Election Recount, Fidel Castro: Your Monday Evening Briefing - The New York Times
+7685,3,Outsiders Selected by Trump Aim to Unnerve Washington - The New York Times
+7702,1,Taliban Claim Killing of 7 in Afghan Province, Including New Attorney General - The New York Times
+7713,1,Dozens Killed in Suicide Attack on Shiite Shrine North of Baghdad - The New York Times
+7733,1,Attack at University in Kabul Shatters a Sense of Freedom - The New York Times
+7770,2,‘Brexit,’ Angela Merkel, Donald Trump: Your Wednesday Briefing - The New York Times
+7848,3,Investigation Launched After Pig Heads Hung On Site of Future Mosque
+7860,1,MSNBC’s Roberts: Dems Have ’Fever Dream,’ Getting ’the Horse Before the Cart’ with Mike Flynn - Breitbart
+8062,1,Army Develops New Bullet to Pierce Body Armor of Islamic State Jihadists - Breitbart
+8083,1,Transgender Politics: NC Keeps Core of HB2 Sexual Privacy Law While Ending Sports Boycott - Breitbart
+8120,1,Report: Marines Nude Photo-Sharing Scandal Suspect Facing Court-Martial, Another Discharged - Breitbart
+8142,7,House Witness on Libya: ’Moscow’s Foothold in Libya Is Growing’
+8180,3,Timeline of the Mike Flynn Controversy - Breitbart
+8208,1,U.S. General: Islamic State Chemical Attack Had ’No Impact’ on U.S. Forces
+8327,1,U.S. General: No Incompetence, Bad Judgment Found in Yemen Raid
+8381,2,Petraeus: U.S. Facing ‘Unprecedented Threat’ from China, Russia
+8492,4,The Nuclear Option: Donald Trump the Revolutionary - Breitbart
+8609,1,Report: Former Trump National Security Advisor Mike Flynn Offers to Testify for Immunity
+8631,1,Sean Spicer: Donald Trump Asked Gen. Flynn to Resign After ‘Erosion of Trust’ - Breitbart
+8647,1,Ed Secretary Betsy DeVos: Illegal ‘Students Should Not Be Concerned’ About Losing In-State Tuition - Breitbart
+8692,1,Jerry Boykin – Secretary Mattis: Focus on War-Fighting, Ditch the Social Engineering - Breitbart
+8725,2,U.S. Envoy To UN Haley Witness To Spat Between IDF and UN Officials
+8743,1,Video: Islamic State Tears Down Statues, Burns Cathedral Down in Philippines
+8818,2,EXCLUSIVE: In Trump’s NSC, Women Run the Show
+8833,1,Mattis: U.S. ’Not in a Position’ to Work with Russia
+8891,1,Iran Launches ’Advanced’ Rockets During Military Exercises
+8969,1,WATCH: Gunfire Rattles Tehran as Drone Buzzes Iranian Capital
+8986,1,’Invasion’: Officials Confirm Foreigners Fighting for Islamic State in 90% Christian Philippines - Breitbart
+9246,2,Breitbart News Daily: Draining the Swamp - Breitbart
+9258,1,As Taliban Depends More on Heroin, Anti-Cultivation Efforts Plummet
+9362,1,Top U.S. General Praises Iran-Backed Shiite Militias in Mosul as Professional - Breitbart
+9381,8,U.S. Army: 95 Percent of Brigade Combat Teams Unprepared to Fight
+9561,1,House Intel Chairman: No Evidence of Contacts Between Trump Campaign, Russian Agents - Breitbart
+9639,1,Deep State Leaks Highly Classified Info to Washington Post to Smear President Trump - Breitbart
+9724,1,VP Pence Greets U.S. and South Korea Troops for Easter Sunday
+9811,1,Al Franken Pushes for Kushner Security Clearance Review - Breitbart
+10066,1,Trump Chooses Army General H.R. McMaster for National Security Adviser - Breitbart
+10144,3,Hot Mic: DHS Chief John Kelly Jokes Trump Can Use Ceremonial Saber ’On The Press’ - Breitbart
+10151,2,James Mattis Honors the Fallen at Arlington Memorial Day Ceremony
+10181,2,Trump Administration: Islamic State Defeat Remains Primary Focus in Syria - Breitbart
+10254,1,Al-Shabaab, Al-Qaeda Affiliate in Somalia: U.S. Is ’Satan of Our Time’
+10336,2,Steve Bannon Leaves National Security Council After Susan Rice Takedown - Breitbart
+10505,1,Dem Introduces Bill to Block Trump Administration from Funding U.S. Troops in Syria
+10517,3,EXCLUSIVE: Trump Took Future Green Berets into Oval Office in Q-Course First - Breitbart
+10561,1,Italian Police: Mafia Working With Aid Group to Steal Millions from Migrant Funds
+10690,1,Aides: Trump Could Repeal DACA Without Legislation - Breitbart
+10711,1,Donald Trump Invites Conservative Media to White House for Exclusive Briefing - Breitbart
+10752,8,Top U.S. General: ‘We Have Not Relaxed the Rules of Engagement’ in Mosul - Breitbart
+10775,1,Watch: Brad Pitt Plays Afghanistan War General in ’War Machine’ Teaser - Breitbart
+10815,2,Donald Trump Inauguration 2017: Live Updates, Day One - Breitbart
+10833,1,Terrorists Will Lie, So Border Officials Should Not Ask About Their Beliefs, Says Top Democrat - Breitbart
+10952,1,KLEIN - Iran Is the Wild Card Following U.S. Air Strikes In Syria
+10987,1,Russia Freezes Coordination with U.S. in Syria Following American Airstrikes
+11109,1,Donald Trump Rips Media for ’Wrong’ Russia Meeting Report: ’Never Mentioned the Word Israel’
+11222,2,Afghanistan’s Green Gold: Taliban Terrorists Earn $15 Million a Year Selling Pistachios
+11281,1,Duterte Threatens to Bomb Islamic State Hostages: ’Better Not Get Yourselves Kidnapped’
+11287,1,Democrat on House Intel Committee to Question Flynn over Russia
+11335,7,Top U.S. Commander: Iran’s Heightened Threat Since Nuclear Deal May Require Military Action
+11404,1,U.S. Army: 4,000 Troops to Europe, 1,700 to Afghanistan This Year
+11406,3,EXCLUSIVE: Trump Has ’Less Kinetic’ Option in Afghanistan
+11755,1,Trump Flips Liberals’ Script, Says New Border Policies Will Aid Americans and Mexicans - Breitbart
+11896,1,John McCain in Munich: Trump Administration Is in ‘Disarray’
+12059,1,AP: Illegal Immigration in March Was Lowest in 17 Years, Says Wednesday Testimony by DHS Chief - Breitbart
+12147,1,House Intel Leaders Ask FBI, CIA, NSA How Many Americans They ’Unmasked’ - Breitbart
+12162,5,Top U.S. General: America’s ’Nuclear Modernization Can No Longer Be Deferred’
+12180,1,Bill Kristol Backs ’Deep State’ over President Trump, Republican Government - Breitbart
+12187,1,New York Times Outs Israel as Source of Classified Intel Before Trump Visit
+12267,1,The Civil War General From Illinois Who Gave Us Memorial Day
+12580,1,Baghdad Pans Kurdish Freedom Referendum as U.S. Warns Against Islamic State Distractions - Breitbart
+12677,3,Senate Approves Waiver for Gen. Mattis to Serve as Pentagon Chief - Breitbart
+12679,1,Fitton: Judicial Watch Pursues James Comey Records
+12682,1,White House Strengthens DHS’ New Border Security Directives - Breitbart
+12708,1,Hamas Threatens Israel After Assassination Of Senior Military Official
+12882,1,Poland Welcomes Biggest Deployment of U.S. Troops in Decades
+12923,1,Donald Trump Puts Iran ‘On Notice’ for ‘Destabilizing Actions’ in Middle East - Breitbart
+12938,1,Boykin: Manning’s Actions ’Every Bit as Egregious and Damaging as Snowden’s’
+13160,3,Taliban Threatens Trump: Get Out of Afghanistan
+13165,3,Exclusive — President Trump Previews Congressional Address and Pathway on Obamacare Repeal, Tax Cuts, Border Wall - Breitbart
+13229,2,Report: Church Bombing in Cairo Kills 21, Wounds 38
+13262,1,Pentagon Disputes Report Michael Flynn Set Back Islamic State Fight - Breitbart
+13337,3,Report: Russia May Capitalize on Chaos in Libya by Filling Power Vacuum
+13411,1,Trinidad &amp Tobago ’Largest Per-Capita’ Islamic State Hotbed in Western Hemisphere
+13502,1,Special Operations Commander: U.S. Will ’Remain at War for the Foreseeable Future’
+13552,2,McCain: Gen. Flynn Resignation ’Indication of Dysfunction’ in National Security Apparatus - Breitbart
+13586,2,Islamic State’s al-Baghdadi Orders Jihadists to ‘Flee and Hide’
+13621,1,Nina Turner: ’No One in Ohio Is Asking About Russia’ - Breitbart
+13722,2,U.S. Commander: More U.S. Troops Could Deploy to Syria, Afghanistan
+13727,1,Islamic State Death Tally from MOAB Bomb Up to 94, Afghan Officials Say
+13767,1,U.S. Confirms Venezuelan Officials Engage in Drug Trade
+13776,1,Hamas-Ruled Gaza Faces Electricity Crisis After Donor Funds Run Out
+13875,1,Media Lose Minds Over Real News Questions at Trump-Trudeau Press Conference - Breitbart
+13883,1,Chaffetz Demands FBI Documents on Comey and Trump, Says He Has ‘Subpoena Pen Ready’
+14030,1,Memorial Day: Donald Trump Honors Fallen Soldiers at Arlington National Cemetery - Breitbart
+14081,1,Christie: I Warned Trump About Flynn - Breitbart
+14132,3,Donald Trump Signs Executive Actions: ’Today the USA Gets Back Control of its Borders’ - Breitbart
+14209,1,Trump Signs Order to Rebuild Military After Mattis Takes Oath of Office - Breitbart
+14349,1,Defense Official: Intelligence from Yemen Raid ’Definitely Helping’
+14429,1,Schumer: I Wish Democrats Hadn’t Triggered the ’Nuclear Option’ - Breitbart
+14477,1,IDF Official: Ramallah Theater’s Boycott of ’Wonder Woman’ Shows ’Weakness and Fear’
+14518,1,U.S. General: More ’Terror Streams’ in Europe than Anywhere Else Except War Zones
+14661,1,Donald Trump’s Comprehensive Border Reforms Kill Obama’s Pro-Migration Policies - Breitbart
+14678,1,Philippines Kills 11 of Its Own Soldiers in ’Friendly Fire’ Airstrike
+14685,1,McMaster: Trump ‘Will Take Action’ to End Any North Korea Threat to U.S. - Breitbart
+14734,1,Retired Lt. Gen. Rick Lynch on How Faith Sustained Him Through Years of War
+14976,1,Tillerson Announces Trump Review of Iran Nuclear Deal
+15047,1,Five Delicate Problems Trump Trusts Jared Kushner to Solve - Breitbart
+15060,1,Gorka: Radical Islam Has Grown ‘Much, Much Stronger’ Since 9/11
+15153,2,Trump Sending NSA McMaster to Afghanistan on Heels of MOAB Bombing on Islamic State - Breitbart
+15178,1,U.S. Military Drops Massive Bomb on Islamic State in Afghanistan - Breitbart
+15239,2,Veterans Mock H.R. McMaster’s Push to Escalate ’Unwinnable War in Afghanistan’ - Breitbart
+15257,1,Live Updates: FBI Director James Comey Testifies Before Congress - Breitbart
+15629,2,Triggered: NY Mag Upset That Incoming National Security Adviser Flynn Is A ’Big Fan’ Of MILO - Breitbart
+15688,3,Watch Live: FRC’s Values Voters Summit in Washington, DC - Breitbart
+15958,1,Petraeus Said He Did Not Vote in This Election, Tried to Be ’Apolitical’ - Breitbart
+15990,1,Donald Trump Sizzles in Foreign, Defense Policy Speech: ‘I Will Never Let You Down’ - Breitbart
+16185,1,Exclusive – Gov. Mike Pence on 9/11 Says America Must ’Elect A President Who Will Name the Enemy’: ’Radical Islamic Terrorism’ - Breitbart
+16204,1,America’s Troops Celebrate Christmas Around the World - Breitbart
+16295,1,Iran Claims Seizure of over 13,000 Pages of Intel from Abducted U.S. Sailors - Breitbart
+16319,1,The Wall Street Journal: Steve Bannon on Politics as War - Breitbart
+16857,1,The Empire Strikes Back Against Sen. Ted Cruz - Breitbart
+17043,1,Fmr AG Mukasey: Hillary Violated Felony Standard of ’Gross Negligence,’ Others Have Been Prosecuted ’For Far Less’ - Breitbart
+17046,1,Three Important Defense Reforms to Make America Safer
+17362,4,Exclusive: Army-Navy Game Appearance ’First Day of Trump’s Presidency’
+17620,1,2015: Sold Out South Carolina Tea Party Convention Kicks Off In Myrtle Beach - Breitbart
+17862,2,Obama Changes Course: U.S. to Keep 8,400 Troops in Afghanistan
+17923,3,Fmr Pacific Fleet Admiral: Seal Six Shoot-down a ’Capital Crime’ - Breitbart
+18734,1,Trump VP Candidate Flynn Corrects ABC’s Raddatz: It’s ‘Illegal,’ ’If They’re Here Illegally,’ Not Undocumented - Breitbart
+18848,5,Flynn: Terror-Linked Nations ’Cutting Deals’ with Mexican Cartels
+18894,1,Three Suicide Bombers Strike Saudi Arabia, One Near Muslim Pilgrimage Site in Medina - Breitbart
+18901,1,CNN, FNC Cut Away from Veterans at Trump Rally - Breitbart
+19141,1,Iran Pledges to Defy Sanctions, Build up Missile Program
+19165,1,Lt. Gen. Michael Flynn on Obama and Hillary’s Refusal to Name Radical Islamic Terrorism: Aiming to ’Dumb Us Down’ - Breitbart
+19199,1,Khizr Khan Believes Sharia Trumps the Constitution
+19313,4,Trump’s Mission: Make America Great Again, Thinking Big and Winning - Lessons from U.S. History - Breitbart
+19353,3,EXCLUSIVE – Sen. Rand Paul: ’UK Should Never Have Joined’ The European Union
+19432,1,Terrorism Task Force Chair in South America: ’Open Season’ for Terror Fundraisers - Breitbart
+19575,1,Report: Boko Haram Struggling to Meet Demand for Viagra, STD Medication - Breitbart
+19685,1,Fear and Loathing in Cleveland: Donald Trump Completes Nationalist Populist Takeover Of GOP At Republican National Convention - Breitbart
+19723,2,’Iranian Hulk’ Joins Anti-Islamic State Fight in Syria
+19938,1,Democrats’ False Patriotism, Scoundrels’ Last Refuge
+19952,1,Outsourcing Masculinity: Where Have All the American Action Heroes Gone?
+19980,2,Exclusive - Lt. Gen. Mike Flynn: Obama, Hillary Ignored Intelligence They Did Not Like About Middle East, Only Wanted ’Happy Talk’ - Breitbart
+20010,1,Donald Trump Heading to Mar-a-Lago, Spending Christmas with Family - Breitbart
+20060,3,General: U.S. Army Faces High Risk in Conflict with Russia, China
+20065,1,Exclusive — Egyptian Leaders Praise Donald Trump, Blast Hillary Clinton After President El-Sisi Meets with Both Candidates - Breitbart
+20074,2,Syria’s Military Says U.S. Coalition Warplanes Struck Its Base - Breitbart
+20184,1,Trump Holds National Security, Law Enforcement Roundtable at Trump Tower - Breitbart
+20188,2,Ground Assault Against Islamic State in Mosul A Slow Grind
+20256,1,Donald Trump Remembers Pearl Harbor: ‘We are the Bearers of the Torch of Freedom’ - Breitbart
+20364,1,Donald Trump Selects Jeff Sessions for Attorney General - Breitbart
+20380,2,Former Inspector General: Powerful Democrat Women Standing in Way of Hillary Indictment - Breitbart
+20469,1,Paid Speeches Revealed-Hillary Clinton: ’You Need Both a Public and a Private Position’ - Breitbart
+20486,1,Trump’s Haley Appointment Would Elevate His Ally McMaster in South Carolina - Breitbart
+20684,1,Fmr Obama Army Chief of Staff Odierno: Islamic State Is ’Expanding,’ ’I Don’t Know’ What US’ Strategy Is - Breitbart
+20711,2,7 Things to Know About Secretary of Defense Nominee James Mattis
+20734,1,Report: Afghan Taliban Claims ’Sole Purpose’ of Ties to Russia Is to Expel U.S.
+20893,1,Potential Trump VP Lt. Gen. Michael Flynn Flips on Abortion Stance - Breitbart
+20909,1,Islamic State Philippines Wing Made over $7 Million in First Half of 2016 - Breitbart
+21097,1,Report: Israel Welcomes Trump’s Security Picks
+21309,6,The Nuclear Option: Media Elite Decry Trump’s Gettysburg Address as Dog Whistle to Racists, Here’s Why They’re Wrong - Breitbart
+21523,1,Richard Armitage Plans to Vote for Hillary Clinton - Breitbart
+21700,2,Iran Vows to ‘Speed Up’ Missile Program
+21782,5,Washington Post: Trump’s Appointments of Military Officers May Turn U.S. Into Dictatorship
+21884,3,*** Live Updates of RNC Evening Session: Trump to Introduce Melania*** - Breitbart
+21933,1,Donald Trump Spotlights Medal of Honor Recipients in DC - Breitbart
+22076,1,Republican Jewish Coalition Backs ’Mad Dog’ Mattis - Breitbart
+22212,1,The Truth about Huma Abedin that Media Matters Doesn’t Want America to See - Breitbart
+22825,1,Exclusive — Gen. Mike Flynn: Hillary Clinton’s Email Setup Was ‘Unbelievable Active Criminal Behavior’ - Breitbart
+22828,1,***Horse Race LiveWire*** Sanders, Clinton Debate After Bernie’s Michigan Upset - Breitbart
+22848,1,Taliban Jihadists Skin Man Alive After Ripping His Eyes Out
+23001,4,Ramadan: Islamic State Urges Lone Wolf Attacks in U.S., Europe
+23115,1,Donald Trump to Pick Fox Analyst KT McFarland for Deputy National Security Adviser - Breitbart
+23228,1,Who Should Be Donald Trump’s Pick for Vice President? Should He Go for Micro-Targeting? Or a Big Win? - Breitbart
+23252,3,***DNC LiveWire*** Hillary Clinton Accepts Nomination - Breitbart
+23305,2,State Dept.: Hezbollah, Islamic State Maintain Presence in Latin America - Breitbart
+23584,1,Mike Pence Responds to FBI: ’Mishandling Classified Information Is a Crime’ - Breitbart
+23675,1,Catholic Scholar Attacked for Catholic Views at Catholic College - Breitbart
+23826,3,U.S. Special Forces Fight Growing Islamic State in Libya
+23853,1,Hillary Emails - NATO Commander on Libya War Mission: ‘Inshallah, Soon’ - Breitbart
+23989,1,Trump Offers Tough Talk on Iran, Hammers Hillary Before Massive Florida Crowd - Breitbart
+24076,2,CNN Misidentifies Jeff Sessions’ ’Hometown’ - Assigns Random Alabama Town Instead - Breitbart
+24209,1,***2016 LiveWire*** Republican National Convention Kicks Off - Breitbart
+24308,1,Reports: Donald Trump Selects Retired General John Kelly for DHS Head - Breitbart
+24427,1,Islamic State Magazine Showcases Caribbean Jihadis
+24938,1,A Flag for General Washington - Breitbart
+25016,1,Removal of Confederate Symbols Turns Nasty in New Orleans - Breitbart
+25111,9,’A Marine’s Marine’: Veteran Lawmakers Praise Gen. ‘Mad Dog’ Mattis Pick - Breitbart
+25532,2,Company Looks to Create ’Smart’ Tampons to Detect Diseases - Breitbart
+25844,1,House Passes Gold Medal For WWII OSS Operators As Secret Agency Veterans Watched from Gallery - Breitbart
+26109,2,U.S. Commander: Islamic State Jihadists in Libya More than Double
+26210,4,Study: Gen Z Thinks Their Peers Are Completely Insane About the Reality of Girls and Boys - Breitbart
+26275,1,Donald Trump Gets Formal Intelligence Briefing Three Times a Week - Breitbart
+26276,1,***Horse Race LiveWire*** Two Days to Florida, Ohio - Breitbart
+26345,3,Islamic State Turns Mosul Chemistry Lab into Bomb Factory
+26404,1,Flynn: Hillary Blaming White People ’Totally Irresponsible’ - Breitbart
+26452,1,Florida Karate Teacher Allegedly Sent Nude Pics to 11-Yr-Old Student - Breitbart
+26553,1,Rubin: John Bolton Is No Loose Cannon - Breitbart
+26623,1,CENTCOM Altered Intel to Make Obama’s Islamic State War Look Better
+26647,1,Sgt. Maj. Endorses Paul Nehlen: ’Paul Ryan Puts America at Risk’
+26886,1,Ted Cruz: ’California Is Going to Decide This Republican Primary’
+27057,1,LIVE WIRE: David Cameron Grilled On Sky News
+27197,1,Boykin on Values Voter Summit: Many More Will ’Become Comfortable with Trump-Pence Ticket’
+27572,1,Al Qaeda Deadly and Growing 15 Years After 9/11
+27841,1,Ex-IAF General: Israel Capable Of Destroying Iranian Nuclear Program
+27982,1,Tense Dallas BLM Protest Yields No Violence
+28240,1,Report: Al-Qaeda, Taliban Relationship in Afghanistan ‘Growing Stronger’
+28318,1,Obama Commutes 61 More Drug Offenders Sentences — More Than Previous Six Presidents Combined - Breitbart
+28329,1,Defection: Bill Clinton’s CIA Director James Woolsey Joins Donald Trump’s Campaign As Senior Adviser - Breitbart
+28405,1,Iran-Backed Iraqi Troops Begin Invasion of Fallujah
+28496,1,Donald Trump: ’Unbelievable’ Quid Pro Quo Deal Between FBI and State Department on Clinton’s Emails - Breitbart
+28573,1,Obama Sanctions Russia over Unproven Hacking Claims - Breitbart
+28706,1,Report: Gingrich, Giuliani, Priebus on Short List for Top Jobs in a Trump Administration - Breitbart
+29191,1,Flynn: Hillary Clinton Should Not Be Too Big To Jail - Breitbart
+29259,3,Virgil: The Trump Deal -- Five Early Clues as to How He Will Govern
+29350,3,The Church of Arlington National Cemetery - Breitbart
+29460,10,Trump Meets John Kelly, the Longest Serving Marine General in History
+29504,4,Trump Picks Lt. Gen. Keith Kellogg for National Security Council Post - Breitbart
+29594,1,Iranian Commander Threatens to Close Strait of Hormuz to U.S.
+29908,1,Fake Newsman Brian Williams Slams Fake News - Breitbart
+30240,1,Sanders Leads Clinton Among Millennials by 58 Points
+30293,3,Truth to Power: Meet Gen. John Kelly, Donald Trump’s Pick for DHS Secretary - Breitbart
+30307,1,Iraqi Army Fleeing for Their Lives Again
+30326,1,Trump: My Vice President Must Help Pass ’Wonderful Legislation’
+30374,1,Refugee Watch Warns: ‘Brussels Coming To A Town Near You’ - Breitbart
+30410,1,U.S. Accuses Russian-Backed Assad Regime of Striking Hospitals in Syria
+30524,2,Putin Calls for ’Strengthening Combat Readiness’ Against NATO
+30862,1,Watchdog: Corruption Funneled U.S. Taxpayer Dollars to Taliban in Afghanistan - Breitbart
+30940,1,Mark Hamill: Trump’s Cabinet Full of ’Really Despicable People’
+31104,1,Trump’s Thank You Tour Heads to North Carolina, Iowa and Michigan - Breitbart
+31317,1,Cory Booker Fires Up Millennials for Hillary in L.A. Starbucks
+31532,1,Donald Trump Confirms James ’Mad Dog’ Mattis as Secretary of Defense - Breitbart
+31640,1,Facing growing North Korea nuke threat, Trump vows: ’It won’t happen!’
+31719,1,Military welcomes first women infantry Marines
+31720,1,Australia and Indonesia: A relationship too important to fail?
+31808,1,Cabinet hearings kick off: Meet Trump’s new government
+31825,2,DHS pick breaks with Trump on controversial proposals, appears poised for confirmation
+31843,1,Japan rescues 26 North Koreans from sinking ship
+31844,1,Trump’s CIA pick: Russian hacking ’aggressive action’
+31849,2,Defense nominee Mattis emerges with strong support
+31859,2,US Marine F-35s to be ’cornerstone’ in Japan, Pacific defense
+31892,1,The 14 Trump tweets that defined his high-stakes week
+31899,2,The 7 top confirmation hearing moments
+31900,1,South China Sea: Chinese state media slams Tillerson
+31910,4,Afghanistan: US Marines headed back to Helmand
+31933,3,Poland welcomes US troops as part of NATO buildup
+31942,1,Mike Pence: No contact between Trump campaign and Russia
+31982,1,Trump’s NATO comments differ from his own nominees
+31990,2,Dems won’t commit to confirm some of Trump’s top Cabinet picks on Inauguration Day
+31994,1,Trump nominee questions US funding of UN
+32003,2,Nigerian fighter jet strikes refugees, aid workers in Borno
+32009,2,Schumer warns GOP against jamming Trump nominees through Senate
+32011,1,44 ways to judge the Obama era
+32021,1,Obama’s parting words: ’We’re going to be OK’
+32024,1,Alexander Hamilton’s letters sell for $2.6 million at auction
+32033,1,After 10-year effort, Army selects new pistol maker
+32048,2,Wyden objection to Pompeo could push vote to Monday
+32063,2,Senate confirms Trump’s first two Cabinet members
+32068,1,Trump inauguration: key moments
+32086,1,Gambia: Defeated leader Jammeh leaves country after election loss
+32092,1,Imam delivers message to Trump at inaugural service
+32142,2,White House news conference: CNN’s Reality Check Team vets the claims
+32156,1,Trump to direct federal resources toward building a border wall on Wednesday
+32265,1,Trump signs executive actions on lobbying, ISIS, NSC
+32314,1,NATO flexes military muscle near Russia
+32327,1,Mattis to reaffirm ties in visit to a wary Japan
+32357,1,WH national security adviser: Iran is ’on notice’
+32368,1,Dakota Access Pipeline: ’Rogue’ protesters arrested
+32376,4,Inside the Yemen raid: Women al Qaeda fighters surprised US forces
+32392,1,SEAL Team 6 raid in Yemen raises questions
+32409,1,After Trump attack, Lockheed Martin slashes F-35 cost
+32433,1,How Iran-US relations plummeted in a week
+32505,1,20 dead in suicide blast outside Afghan Supreme Court in Kabul
+32578,1,Flynn’s talks with Russian ambassador point to larger problem
+32591,1,North Korea calls ballistic missile test-fire a success
+32619,1,North Korea’s missile launch: Japan, are you watching?
+32629,2,Embattled Flynn was in ’fluid’ situation Monday night leading up to resignation
+32654,4,How to get fired by the president
+32666,4,McConnell: Flynn investigation ’highly likely’ in Senate committee
+32667,1,For a ’winner,’ Trump is doing a lot of losing
+32668,4,Trump knew of DOJ probe for weeks, Pence only days
+32700,1,Tillerson, Russian counterpart to attend G-20
+32705,3,Harward says no to national security adviser role
+32721,2,Full transcript: President Donald Trump’s news conference
+32746,1,Trump administration lags in filling key posts
+32777,4,Trump interviews candidates to fill national security slot
+32811,1,Lewandowski: Trump’s staff is letting him down
+32815,4,What McMaster needs to tell Americans
+32817,2,Pence: I was ’disappointed’ with Flynn
+32839,2,State Department’s silence gives others an opening
+32894,2,Top general: US mulling ’long-term commitment’ in Iraq
+32925,1,Trump still has to fill nearly 2,000 vacancies
+32926,1,National security adviser: Term ’radical Islamic terrorism’ isn’t helpful
+32938,1,Suicide attacks kill dozens in Syria
+32941,2,Mosul: Fleeing civilians killed by mines
+32947,3,Battle for Mosul: Iraqi forces advance near key area in city’s west
+32977,1,Retired generals: Don’t cut State Department
+32982,2,House intel committee agrees to scope of Trump-Russia probe
+33012,1,Trump refers to ’radical Islamic terrorism’ despite NSC pushback
+33019,2,Trump on generals in Yemen raid: They ’lost’ Navy SEAL
+33076,1,Russia: 1,000 ISIS casualties in Palmyra
+33098,1,US allies in Syria make deal with Moscow, Damascus
+33117,1,Trump and Russia: What we know -- and don’t
+33125,1,Navy investigates posting of explicit photos of female Marines
+33148,1,Trump signs new travel ban, exempts Iraq
+33175,1,Kabul hospital attack leaves 30 dead
+33215,2,Iraq Most Wanted Fast Facts
+33220,1,Female Marine veteran ’disgusted’ to see photos online
+33225,1,Russian ambassador denied meeting with Trump or campaign officials in October speech
+33230,1,Russia denies deploying cruise missile in treaty breach
+33263,1,Trump transition knew of Flynn’s pro-Turkey lobbying before White House appointment
+33357,1,Marines issue new social media guidelines after scandal
+33361,1,Republicans lose patience with FBI on Russia, Trump campaign ties information
+33366,1,Ryan, Intel committee see no evidence of wiretap
+33367,2,US anticipates new round of missile, nuclear testing by North Korea
+33370,1,SXSW gets political: All eyes on Trump
+33400,2,White House: No apology to British government over spying claims
+33407,2,Will Iraq survive victory over ISIS in Mosul?
+33523,1,US military investigating if airstrikes caused nearly 300 civilian deaths
+33584,2,US Air Force considers dumping undefeated fighter jet
+33598,1,Trump’s global envoy faces tough Turkey visit
+33601,1,CNN 10 - March 30, 2017
+33608,1,Why Sally Yates is suddenly ’interesting’
+33615,1,Flynn seeks immunity for testimony
+33647,1,The only 4 things you need to know about Trump and Russia
+33667,1,Mosul civilian casualty disaster is sign of an even bigger problem
+33674,1,US-led coalition assesses civilian deaths
+33725,1,Trump’s Secretary of Everything: Jared Kushner
+33746,2,With Bannon out, White House gets serious about national security
+33758,1,What we know about Syria’s chemical weapons
+33774,1,What’s your policy? Russia asks Trump after Syria gas attack
+33777,1,Hertling: Trump’s first cold slap of reality
+33781,1,Trump, Chinese leader face North Korea dilemma
+33812,1,Trump’s evolution on Syria didn’t happen overnight
+33827,1,Syria strikes: Site of chemical attack hit again
+33853,1,Analysis: Egyptians see failed security in church attacks
+33859,1,Egyptians unite against ISIS after church bombings
+33866,1,3 ways WWI still shapes America
+33867,2,North Korea issues warning as US strike group heads to Korean Peninsula
+33922,2,How Donald Trump came to love NATO
+33930,1,US intelligence intercepted communications between Syrian military and chemical experts
+33939,1,Trump carves out tough commander-in-chief posture
+33942,1,US defends dropping ’mother of all bombs’
+33952,1,Trump won’t say if he greenlit use of ’mother of all bombs’
+33959,2,Why the ’mother of all bombs’ and why now?
+33960,1,US sending dozens more troops to Somalia
+33961,2,Afghan official: 94 ISIS fighters killed by ’mother of all bombs’
+34021,1,US sends newest stealth fighters to Europe
+34029,1,McMaster: North Korea ’coming to a head’
+34041,1,1 killed after Blackhawk crashes at Maryland golf course
+34108,1,4 times in 4 days: Russian aircraft fly off US coast
+34148,2,Afghan base attack: More than 140 feared dead in Taliban raid
+34186,1,New Orleans begins controversial removal of Confederate monuments
+34198,1,Senators: Little learned during rare all-hands North Korea briefing
+34201,1,House oversight: Flynn might have broken law
+34210,1,The White House’s decision-making on Michael Flynn is troubling
+34250,2,Trump’s report card: His best, his worst and what he should do next
+34279,6,Was firing Gen. Flynn the biggest accomplishment of Trump’s 100 days?
+34304,1,How the world sees Trump, 100 days in
+34328,1,US-led strikes against ISIS have killed at least 352 civilians, Pentagon says
+34331,1,American democracy is winning... so far
+34497,1,Sally Yates: Trump aide told Flynn blackmail risk
+34504,2,Latest on Afghanistan options expected to hit Trump’s desk this week
+34517,1,Yates explains why she won’t defend travel ban
+34526,1,Who is Keith Schiller, the man Trump sent to fire Comey?
+34572,1,CNN 10 - May 11, 2017
+34699,2,Another Confederate statue comes down in New Orleans
+34745,1,Donald Trump’s risky religious pilgrimage
+34759,1,What did Mike Pence know?
+34778,1,Sources: Russian officials bragged they could use Flynn to influence Trump
+34782,2,Final Confederate statue comes down in New Orleans
+34843,1,Trump’s two minds on Islam
+34866,1,Chris Christie: I warned Trump about Flynn
+34881,1,The Pope and President: Unpredictable pair finally meet
+34906,1,Air Force gives new life to the A-10 Warthog
+34933,1,That’s too many white men in one place?
+34986,1,Get it straight: The difference between Memorial Day and Veterans Day
+34997,1,Two top Trump advisers dodge Kushner questions
+35000,1,Document signed by Lincoln, others for sale
+35045,1,Manuel Noriega, former dictator of Panama, dies
+35051,1,Here’s how the Clintons spent their Memorial Day
+35104,1,Trump breaks with Pentagon on climate change
+35130,1,Callan: Comey may have put himself in a box
+35252,1,South Korea suspends THAAD deployment
+35263,1,Lieberman: Trump never demanded loyalty during talks for FBI job
+35309,1,For Trump, a prosecution of Comey would be a disaster
+35324,1,F-35 fighters grounded over oxygen problems
+35339,1,Afghan soldier kills 3 US soldiers, US official says
+35402,1,Trump decision on Afghanistan still weeks away
+35413,1,Sessions’ startling admission
+35458,2,Trump gives away his most consequential decision to the Pentagon
+35498,1,Trump delegates troop decisions, to praise and concern
+35499,1,Russia says it may have killed ISIS leader Abu Bakr al-Baghdadi
+35568,1,Russia: US planes over western Syria now ’air targets’
+35603,1,Orlando shooter texted wife during attack, source says
+35733,1,North Korea fires two missiles, South Korea says
+35735,2,Top general: U.S. strategy against ISIS in Libya makes no sense
+35915,1,ISIS’ Ramadan terror campaign
+35920,2,The unlikely godfather of the Islamic State
+35921,1,Air Force official: Targeting of ISIS could be better
+35954,2,Airstrikes target fleeing ISIS convoys
+35962,1, Dhaka cafe standoff: At least 13 hostages rescued
+35964,1,Taiwan accidentally launches missile toward China, kills fishing boat captain
+35967,1,Airstrike kills 2 ISIS commanders, U.S. says
+36001,1,Trump’s failure on ’heeby jobbies’
+36002,1,Gunmen ’started shooting right away’ in Dhaka cafe attack
+36018,1,Spate of terror attacks as Ramadan draws to a close
+36042,2,ISIS Fast Facts
+36093,1,Obama to leave more troops than planned in Afghanistan
+36116,2,FBI Director Comey: Petraeus case worse than Clinton’s emails
+36119,1,Obama heads to NATO summit at ’inflection point’
+36164,1,Gingrich ’actively lobbying’ to be Trump’s VP, source says
+36171,1,South Sudan independence day violence leaves nearly 150 dead
+36197,1,Flynn voices abortion views at odds with Republican platform
+36211,1,Ash Carter: U.S. sending more troops to Iraq
+36213,2,Gen. Michael Flynn, possible Trump VP pick
+36225,1,Trump’s veepstakes: No Pence offer yet
+36301,1,Turkish president wants U.S. to send rival cleric home
+36337,3,Why Turkey’s coup attempt matters for US
+36348,1,Republican convention speakers: Ivanka, Newt
+36349,1,Turkey coup attempt: Erdogan rounds up suspected plotters
+36357,1,Erdogan demand that US extradite cleric could strain ties
+36392,1,In a dark time, GOP offers positive vision
+36432,2,Hillary Clinton hate for sale on the streets of Cleveland
+36447,1,Police arrest 12 suspected of planning terrorist acts during Olympics
+36519,1,Trump backer Flynn retweets anti-Semitic message, apologizes
+36584,1,Tim Kaine: ’I trust Hillary Clinton’
+36602,1,10 takeaways from the Democratic convention
+36603,1,Dem convention speeches Day 4: CNN’s Reality Check Team vets the claims
+36607,1,Syria’s al-Nusra cuts ties with al Qaeda
+36624,2,The Democrats’ Republican moment
+36691,1,Millennials are having less sex than Gen Xers
+36703,1,Trump meets Gold Star families
+36852,1,Trump: Gun advocates could deal with Clinton
+36865,1,Newly declassified documents reveal US response to Argentina’s ’Dirty War’
+36873,2,US Air Force facing pilot shortage
+36885,1,GOP report: ISIS intel was overly optimistic
+36898,2,No, Obama was not the ’founder’ of ISIS
+36901,1,National security official states support for Clinton over Trump
+37000,1,Trump plots strategy on ISIS, campaign reset
+37009,2,Female Marine drops out of infantry course
+37059,1,US: North Korea shrinks warning time for nuclear attack
+37157,1,Iraq executes 36 people for Camp Speicher massacre
+37187,1,Iraqi troops plow toward key Iraqi city
+37217,1,US fires warning shots at Iranian vessel
+37345,1,Death of senior leader caps bad month for ISIS
+37375,1,Benghazi Mission Attack Fast Facts
+37518,8,88 former military leaders write letter backing Donald Trump for president
+37524,1,Trump, Clinton open campaign season sparring on national security
+37545,2,Photos show nuclear facilities in disrepair
+37604,2,9/11: Bin Laden’s spectacular miscalculation
+37608,1,9/11 services in New York, DC, Pennsylvania
+37634,1,Obama commemorates 9/11 anniversary at Pentagon
+37663,1,Trump takes measured response on Clinton health news
+37696,1,Pentagon mulls more troops to fight ISIS in Iraq
+37715,1,Centcom commander: ’Trust deficit’ with Russia
+37749,1,US Air Force grounds F-35 fighter jets
+37789,1,US, Iraqi troops close in on last ISIS-held city
+37906,1,Monday Debate: What celebrities want to ask Clinton and Trump
+37913,1,US: ’Concerning’ mustard attack on US base
+37919,1,North Korea at UN: US faces ’tremendous consequences’
+37925,1,The secret costs of Islamophobia
+37948,1,Body parts discovered during raid in suspected passport forgery
+38071,1,10 things Trump could (but probably won’t) change to win next debate
+38127,2,India relocates 10,000 from around Kashmir as tensions rise
+38180,2,Trump questions US airstrikes against ISIS
+38459,1,Nine children killed in Aleppo airstrikes
+38462,2,Battle for Mosul begins with gunfire, bombs
+38492,2,Mosul: Most intense day of fighting since offensive began
+38509,1,General: Up to 900 ISIS fighters killed in battle for Mosul
+38562,1,Clinton, Trump administrations likely stocked with insiders
+38619,1,Plans underway for Trump transition
+38624,1,We need to talk about American values
+38630,1,Taliban car bomb hits German consulate in Afghanistan
+38660,1,Team Trump, don’t repeat Nixon’s mistake
+38665,4,Trump’s national security guru
+38720,3,’Knife fight’ as Trump builds Cabinet
+38776,2,Iraqi forces recapture key air base near Mosul
+38796,1,Trump asks Rep. Mike Pompeo to be CIA director
+38807,1,What is Trump’s staff doing in Washington?
+38816,5,Flynn ran company that lobbied for foreign clients while he received intel briefings
+38827,2,Trump: ’Mad Dog’ Mattis is a ’very impressive’ candidate for defense secretary
+38849,1,Michael Flynn, on trip to Russia, said ’who knows’ whether Syria gas attack was a ’false flag’
+38879,1,US and China conduct rare military drill
+38905,1,Michael Flynn in August: Islamism a ’vicious cancer’ in body of all Muslims that ’has to be excised’
+38912,1,Trump ’surprised’ by Mattis waterboarding comments
+38920,1,Trump then and now: His changes since Election Day
+38977,2,Trump’s Cabinet picks: What we’ve learned so far
+39019,1,Conway: Trump backers feel ’betrayed’ by Romney consideration
+39054,3,What challenges are facing Pakistan’s new army chief?
+39058,3,US military readies for next frontier: Space war
+39068,2,Wesley Clark: Flynn will have to ’reconcile what he’s said’ about Muslims
+39095,1,Trump’s transition rollercoaster ride
+39108,3,Trump wants James Mattis for secretary of defense
+39134,4,Inside the mind of ’Mad Dog’ Mattis
+39143,2,Iraq death toll climbs in grinding battle for Mosul
+39151,1,Ash Carter signals support for Mattis pick, upbraids Russia
+39154,1,Joint Chiefs prep military strategy plans for Trump and top commanders
+39162,1,Trump deputy national security pick scrubs her website, Twitter, and Facebook from the Internet
+39191,1,Trump now considering more than four for secretary of state, Conway says
+39199,2,Elector says he will not cast vote for Trump
+39205,1,Obama touts counterterror legacy, even as Trump threatens changes
+39223,1,Obama hands off legacy on terror to sharp critic
+39225,1,Trump takes ’thank you’ tour to North Carolina
+39228,1,Spending bill would speed Mattis’ nomination
+39232,1,’I’m watching a clown show’ - Philip Mudd on Trump’s transition
+39286,1,How Mike Pence is poised to be a uniquely powerful VP
+39296,1,10 years after Iraq crash, pilot to be laid to rest
+39375,1,Trump could face showdown over Tillerson pick
+39387,2,White males dominate Trump’s top cabinet posts
+39492,1,Why Trump’s Israel ambassador could upend Middle East ties
+39494,1,CIA contractor: Enhanced interrogation techniques ’saved lives’
+39571,1,US returns land it’s controlled since WWII to Japan amid local anger
+39572,1,Sources: Russia tests anti-satellite weapon
+39650,1,2017: Year of hope or year of fear?
+39665,1,Black box from crashed Russian military plane found
+39707,1,Trump taps homeland security adviser
+39730,1,Iraq’s PM says ISIS could be defeated ’within 3 months’
+39753,2,US aware of recent Baghdadi movements
+39826,1,Charlie Hebdo attack: What we know and don’t know
+39919,1,North Korea denies being behind Sony hack
+40025,1,Russia denies its troops entered Ukraine
+40104,2,Will U.S. troops move closer to Iraqi front lines?
+40105,1,What’s happening in the Middle East and why it matters
+40137,1,2 Marines die as helicopter crashes in California
+40198,1,Indonesian military stops search for AirAsia QZ8501
+40233,1,ISIS launches attack on Kirkuk
+40249,3,ISIS fighters: Constant airstrikes drove us from Kobani
+40250,1,Hagel: Gitmo transfers caused friction with White House
+40262,2,Is U.S. coalition winning war against ISIS? (Opinion)
+40264,2,’The Evil Hours’: Lessons of PTSD
+40280,1,Jordan launches airstrikes against ISIS in Syria
+40318,2,ISIS Mosul defense could trigger troop recommendation
+40379,1,Did Brian Williams embed with SEAL Team Six?
+40394,2,Air Force sending ’tankbuster’ jets back to Europe
+40458,1,U.S. defense chief puts success before timing in Mosul
+40463,1,Ukraine: Kerry threatens more sanctions against Russia
+40512,1,Iran aircraft carrier war games
+40600,1,U.S. Air Force: Is superiority under threat?
+40649,1,Senators grill Obama officials on Iran
+40652,2,Black Hawk crashes off Florida human remains found
+40678,1,Iraqi forces retake most of Tikrit, militia head says
+40699,1,New U.S. stealth bomber shrouded in mystery
+40733,1,Russia puts Northern Fleet on ’full alert’
+40738,3,Gen. Petraeus still advising White House
+40753,1,Miguel de Cervantes’ remains found
+40808,2,Petraeus: ISIS isn’t biggest long-term threat to region
+40883,1,Why the n-word doesn’t go away
+40899,1,Five questions on the Bowe Bergdahl decision
+40905,1,Military to charge Bowe Bergdahl with desertion
+40911,3,Pence signs bill allowing businesses to reject gay customers
+40923,1,Coalition hammers ISIS targets around Tikrit
+40946,1,Unrest, violence mars Arab Spring aftermath
+40974,3,Some in Bergdahl’s platoon undercut his emerging defense
+41064,1,Rest easy Japan: Space invaders aren’t interested
+41186,1,The ’Furious 7’ C-130 Hercules that just won’t quit
+41229,1,U.S. says Russian fighter jet intercept was ’unsafe’
+41263,1,Russia lifts ban on sale of missile system to Iran
+41309,1,Scott Kelley, fugitive featured on ’The Hunt,’ arrested
+41345,1,ISIS motorbike bomber kills 33 at bank in Afghanistan
+41427,1,Petraeus sentenced: 2 years probation $100K fine
+41472,1,Older people are happier than you. Why?
+41496,1,Curfew continues in Baltimore arrests made
+41540,2,Obama to tap Gen. Joseph Dunford to top military post
+41591,1,U.N. rep accuses Saudis of violating international law
+41636,1,Eight bodies located at crash site Pilot identified
+41740,1,A band of sisters on the special ops battlefield
+41756,1,The general who apologized to the dead soldiers
+41787,1,Iraq operation aims to push ISIS from Anbar, Salaheddin
+41801,1,CNN’s Wolf Blitzer: The whole world was watching
+41902,1,Why ISIS is winning, and how its foes can reverse it
+41955,1,Iraqis shell Falluja, stirring memories of battles past
+42012,1,Rick Perry’s wife explains 2012 flameout
+42092,1,U.S. bombs ISIS using social media intel
+42097,1,Hypersonic aircraft to go 5 times the speed of sound
+42128,1,Obama delivers emotional eulogy for Beau Biden
+42144,1,He got to watch ’The Longest Day’
+42230,1,White House OKs up to 450 additional troops in Iraq
+42334,1,Egyptian court tacks life term on Morsy death sentence
+42546,1,U.S. sending tanks, armor for NATO allies
+42795,1,Understanding the U.S. talking points on Iran
+42816,1,Iran nuclear talks hit snag over arms embargo
+42891,1,Should military recruiting centers be armed?
+42985,2,F-35 set to make its debut
+43140,1,Former CIA director James Woolsey has split with Trump, ’effective immediately’
+43159,3,US Air Force General: The F-35 is ’leaps and bounds ahead of anything else in the world today’
+43282,1,Monica Crowley bows out amid plagiarism accusations, says she will not join Trump administration
+43325,1,The Trump administration could turn its back on the liberal world order created after World War II
+43440,1,Trump and Putin talked about ’mutually beneficial’ trade and security, Kremlin says
+43461,1,White House press secretary goes on lengthy rant in attempt to clarify changes to national security team
+43493,2,Former CIA director Petraeus warns that the current international order could ’fray’ and ’collapse’
+43499,1,Trump is about to be the reason we can’t have nice things
+43557,3,Retired general says Trump’s defense of Putin is ’the most anti-American statement ever made’ by a president
+43633,1,How Vladimir Putin became one of the most feared leaders in the world
+43652,1,Top Republicans are calling for an investigation into Michael Flynn
+43680,1,Trump’s top choice for national security adviser just said no to the job
+43711,2,Trump told members of his golf club to ’come along’ to cabinet interviews in leaked audio
+43733,2,Trump names Lt. Gen. H.R. McMaster as national security adviser
+43737,2,Trump just made a fantastic choice for his new national security adviser
+43892,1,What James Clapper didn’t say about Trump’s wiretap allegations is just as important as what he did
+43914,1,Marine Commandant to troops sharing nude photos: ’Do you really want to be a Marine?’
+43930,1,The Marine Corps’ nude-photo-sharing scandal is even worse than first realized
+43950,1,Fox News reporter gets into heated exchange with Sean Spicer over Mike Flynn’s Turkey ties
+43953,1,MATTIS: Nude-photo-sharing scandal is ’unacceptable and counter to unit cohesion’
+44267,1,North Korea reportedly launched a ballistic missile, ahead of Trump’s meeting with China
+44280,1,Steve Bannon has been removed from the National Security Council
+44374,2,Trump is sending his national security adviser H.R. McMaster to Afghanistan
+44378,2,The US unleashed the ’mother of all bombs’ onto an ISIS target in Afghanistan
+44381,1,Here’s how a 21,000-pound bomb like the one just dropped on ISIS in Afghanistan would affect your city
+44677,1,’This gets to the fabric of the nation’: Inside the dark conspiracy that made its way from the fringe to the White House
+44843,1,Mattis on recent US military deaths: ’They’re not part of a life-insurance corporation’
+44921,1,The FBI just declined the House oversight committee’s request for Comey’s memos
+44977,1,This is the one thing veterans want you to know about Memorial Day
+45104,1,Here’s the biggest takeaway from James Comey’s bombshell testimony to Congress
+45194,2,Uber is blowing the door wide open for its toughest competition
+45397,1,One of the most beloved clothing stores from decades ago is reopening
+45722,1,Millennials, you’re investing all wrong
+45803,1,US officials think ISIS will attack America this year
+46135,2,Former CIA chief: Mishandling the rise of China ’will be catastrophic’
+47011,1,US military could deploy to Libya ’any day’
+47032,1,Millennials have an entirely different approach to investing than their parents
+47123,1,HERE IT IS: Soc Gen’s famous chart with the black swans
+47149,1,We just got the clearest sign yet that Iran’s military mastermind is calling shots in Iraq — and that the US is letting him
+47658,1,Donald Trump might pick a Democratic retired general as his running mate
+47674,2,Retired Army general considered to be possible Trump VP surprises when asked about abortion
+47707,1,The Italian Mafia’s ’boss of bosses’ has died
+47740,1,Turkish soldiers briefly took over CNN Turk — 1 journalist shot
+47764,1,There’s a group of women that the clothing industry is ignoring — and it’s costing them tons of money
+47775,1,Donald Trump uses first night of GOP convention to stir his base into a frenzy
+47779,1,It looks like nearly everyone was wrong about a key aspect of Turkey’s military coup
+47824,1,The ’lock her up’ convention: Donald Trump’s speakers went harder than ever at Hillary Clinton
+47893,1,’Unique, strange, and terrible’ — ISIS may have created a new type of bomb
+48244,3,Here’s when an F-15 is better than an F-22 or an F-35
+48810,1,The war in Afghanistan is 15 years old — here are 29 photos of one of the US’s longest wars
+48853,1,Russia to the US: If you want a confrontation, ’you’ll get one everywhere’
+49180,1,This man built a cutting-edge stealth boat for the US Navy. Then the government tried to put him out of business.
+49204,1,’It’s not a complicated or improvised process’: How it’s possible to examine 650,000 emails in 8 days
+49257,1,Peter Mansoor, right-hand man to Gen. Petraeus, says he would never serve a Trump administration
+49323,2,Legendary Marine General James Mattis may be tapped to be Trump’s defense secretary
+49330,1,Trump’s choice for CIA director once said US Muslims who don’t reject terrorism are ’complicit’ in it
+49335,1,Trump’s new national security adviser outlines his controversial plan to defeat terrorism
+49378,3,Marine General ’Mad Dog’ Mattis got Trump to rethink his position on torture in under an hour
+49405,1,Secretive $20 billion startup Palantir has raised another $20 million from a single backer
+49450,1,Petraeus takes center stage amid infighting about Trump considering Romney for secretary of state
+49479,1,Newt Gingrich goes in on Romney, accuses him of ’sucking up’ to Trump for secretary of state job
+49492,1,Trump kicks off raucous victory tour in Ohio
+49496,2,Trump picks legendary Marine Gen. Jim Mattis for defense secretary
+49506,1,Democratic senator says Trump’s ’major pivots in foreign policy’ are ’how wars start’
+49515,1,’What kind of odds are you comfortable with?’: The North Korean nuclear threat is looming larger
+49528,2,Here’s what legendary Marine General James ‘Mad Dog’ Mattis is really like, from people who served with him
+49560,3,Democrats have no good outcomes if they try to oppose Mattis for Defense Secretary
+49569,3,Trump’s Cabinet is starting to look like the staff of one of the most storied units of the Iraq War
+49595,1,Rudy Giuliani withdraws name from consideration in Trump administration, president-elect says
+49618,1,Trump reportedly settles on Exxon Mobil CEO Rex Tillerson as secretary of state
+49628,3,Michael Flynn’s former colleagues describe him as volatile and ’unbelievably arrogant’
+49764,2,Trump asks Boeing to price out a comparable jet to compete with F-35 — and Lockheed Martin’s stock tanked
+49790,1,Democrats think Trump won on economic issues — but exit polls offer a more complicated story

@@ -38,7 +38,7 @@ Para la construccón del índice está compuesta por dos etapas principalmente.
     - Stemming: Convertir todas las palabras a su raíz. Para esta acción utilizamos el [Porter Stemmer](https://www.nltk.org/howto/stem.html) de NLTK.
     - Num2Words: Utilizamos la librería [num2words](https://pypi.org/project/num2words/) para convertir cada número a su contraparte como palabra en inglés. Ej: 15 a "fifteen".
 2. **Cálculo del TF:** 
-  Para el cálculo de la frecuencia de términos utilizamos la libreria NLTK, ya que nos proporciona la funcionabilidad de manera directa utilizando "word_tolenize". Para la construcción de este índice buscamos un archivo de texto dentro de la carpeta de indices "indexes", si no es encontrada se crea un nuevo documento y se agrega el título de la noticia (que se está tomando como "documento" de forma teorica) junto a su TF.
+  Para el cálculo de la frecuencia de términos utilizamos la libreria NLTK, ya que nos proporciona la funcionabilidad de manera directa utilizando "word_tokenize". Para la construcción de este índice buscamos un archivo de texto dentro de la carpeta de indices "indexes", si no es encontrada se crea un nuevo documento y se agrega el título de la noticia (que se está tomando como "documento" de forma teorica) junto a su TF.
 
 ## Ejecución óptima de consultas
 

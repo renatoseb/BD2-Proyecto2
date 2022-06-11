@@ -9,7 +9,7 @@
 
 | Lista de actividades Realizadas | Responsable                         | Participación |
 |---------------------------------|-------------------------------------|------|
-| Algoritmo SPIMI, búsqueda por similitud de coseno | Pedro Domínguez                |  100%  |
+| Algoritmo SPIMI, búsqueda por similitud de coseno | Pedro Domínguez, Gonzalo Alfaro|  100%  |
 | Frontend, Conexión a PostgreSQL                   | Renato Rodríguez               |  100%  |
 | Conexión a MongoDB                                | Eduardo Arróspide              |  100%  |
 
@@ -23,11 +23,15 @@ Este proyecto utiliza el **algoritmo SPIMI** para la optimización de indexació
 
 ## Datos
 
-Los datos utilizados son un conjunto de noticias obtenidas de la página Kaggle[]().utlizados se tomaron de la pson las Con el motivo de demostrar un buen funcionamiento de las implementaciones, se decidió ponerlas a prueba mediante la carga/ construcción por medio de dos bancos de datos de la página Kaggle. El primer banco de datos corresponde a los valores nutricionales de marcas de cereales y el segundo corresponde a las cartas de jugadores del videojuego FIFA 22.
+Los datos utilizados son un conjunto de noticias obtenidas de la página [Kaggle](https://www.kaggle.com/datasets/snapcrack/all-the-news). El buscador del proyecto retornará el título y ranking de cada noticia, y a su vez utilizará su contenido para crear el índice invertido.
 
 ## Construcción del índice invertido
 
+
+
 ## Ejecución óptima de consultas
+
+
 
 ## PostgreSQL / MongoDB
 

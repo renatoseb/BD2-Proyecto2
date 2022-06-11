@@ -21,7 +21,7 @@ def search(Q, k = 5):
                 df = 0
 
                 for line in file.readlines():
-                        #document, tf = line.split(",")
+                        
                         line = line.split(",")
 
                         document = line[0]

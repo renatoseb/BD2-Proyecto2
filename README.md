@@ -7,11 +7,11 @@
 - Domínguez, Pedro
 - Rodríguez, Renato
 
-| Lista de actividades Realizadas | Responsable                         | Participación |
-|---------------------------------|-------------------------------------|------|
-| Algoritmo SPIMI, búsqueda por similitud de coseno | Pedro Domínguez, Gonzalo Alfaro|  100%  |
-| Frontend, Conexión a PostgreSQL                   | Renato Rodríguez               |  100%  |
-| Conexión a MongoDB                                | Eduardo Arróspide              |  100%  |
+| Lista de actividades Realizadas                                      | Responsable                     | Participación |
+| -------------------------------------------------------------------- | ------------------------------- | ------------- |
+| Algoritmo SPIMI, búsqueda por similitud de coseno                    | Pedro Domínguez, Gonzalo Alfaro | 100%          |
+| Frontend, Construcción, consultas y creación de índice en PostgreSQL | Renato Rodríguez                | 100%          |
+| Conexión a MongoDB                                                   | Eduardo Arróspide               | 100%          |
 
 
 ## Introducción
@@ -57,8 +57,32 @@ La ejecución de la consulta sigue la siguiente secuencia de pasos:
 ## PostgreSQL / MongoDB
 Para ambos se utiliza el archivo utils.py, que contiene dos funciones: remove_punctuation y query_tokens, que ayudarán a formatear la query, filtrando stopwords, eliminando caracteres no deseados y tokenizando las palabras. 
 
-### PostgreSQL
+**IMPORTANTE**
+Antes de iniciar la configuración de las bases de datos debe crear una carpeta llamada `datasets` y **DEBE DESCARGAR** los datos a utilizar en esta. [Link del dataset](https://drive.google.com/drive/folders/1Ou_c_Lz7tsS4ptNCefre7EpP72eQ43sn?usp=sharing).
 
+### PostgreSQL
+Según lo requerido en el enunciado del proyecto se implementó una base de datos en PostgresSQL para realizar consultas con el **Índice Invertido GIN**.
+Entonces, para poder utilizar la base de datos implementada.
+En primer lugar, setear las credenciales para que nuestra aplicación se conecte a su base de datos local. 
+
+Debemos modificar los datos en `backend/credentials.json`. 
+```json
+{
+    "username": "",
+    "password": "",
+}
+```
+Solo basta con poner el usuario y contraseña con el que queramos que se loguee. 
+
+Luego, debemos llenar crear y llenar la base de datos. Con el script `init-postgresql.py`.
+Ejecutar,
+```python
+python3 backend/init-postgresql.py
+```
+
+Este script va crear la base de datos `allthenews`, va crear una tabla llamada `news`, agregará un campo con un índice llamado `content_ts`. Y llenará los datos de todas las noticias a la tabla. 
+
+Con esto ya tendriamos nuestra base de datos Postgres lista! :)
 
 ### MongoDB
 Para poder seguir comparando resultados, también se implementó la solución utilizando una base de datos NoSQL con MongoDB. MongoDB es un sistema de base de datos orientado a documentos que utiliza la estructura de datos **BSON**, similar a JSON. Para este proyecto, se descargó [MongoDB Community](https://www.mongodb.com/try/download/community), y se instaló junto a MongoDB Compass, una aplicación para visualizar de forma amigable las bases de datos y colecciones que se tienen en el local. El código está escrito considerando que, a través de MongoDB Compass, se establece una conexión localhost en el puerto 27017 (el predeterminado), se crea una base de datos llamada db2project y se crea la colección articles1. 
@@ -88,4 +112,33 @@ search = db.articles1.find(
 search.sort([( "score", { "$meta": "textScore" } )])
 ```
 
+## Frontend
+El frontend de este proyecto se realizó con React.js
+
+**Moverse a la carpeta `/frontend`**
+### Setup
+```terminal
+npm install
+```
+
+### Run
+```terminal
+npm start
+```
+
+## Backend
+El backend de este proyecto se realizó con Flask. 
+
+**Moverse a la carpeta `/backend`**
+### Setup
+```terminal
+pip3 install requeriments.txt
+```
+
+### Run
+```terminal
+python3 backend/main.py
+```
+
 ## Video
+[Link del video](https://drive.google.com/drive/folders/1_y8E0AEloaDDQBZHqMdQkBr-fyT8duqr). 
